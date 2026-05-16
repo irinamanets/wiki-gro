@@ -9,14 +9,18 @@ tags: [anthropic, claude, russia, compliance, account-block, sanctions, data-los
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md]
+updated: 2026-05-16  # +third independent confirmation Кирилл Пшинник в @rb_ru post 46189 (2026-05-09); +vcnews 61269 (2026-05-08) cross-corroboration via vc.ru/ai/2916201
+sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-rb-ru-may-5-13-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
 namespace: mkt
 ---
 
 # Claude (Anthropic) блокирует RU-аккаунты без выгрузки результатов (май 2026)
 
 Anthropic **массово блокирует аккаунты пользователей из России** — несколько сотен подтверждённых случаев. **Доступ закрывают без возможности выгрузить результаты работы**; деньги, по утверждению Anthropic, возвращают. Сигнал через @breakingtrends 2026-05-08, источник пересказа — **Baza**. См. [[sources/2026-05-14-tg-breakingtrends-may05-14]].
+
+**Update 2026-05-14 — cross-source confirmation.** vc.ru/ai/2916201 (через [[sources/2026-05-14-tg-vcnews-may-8-12-2026|@vcnews 61269]] 2026-05-08 09:17 UTC) **независимо подтверждает** Baza-источник: «несколько сотен» аккаунтов из РФ заблокированы, жалобы более месяца, не только из России. `[conf:medium, src:2026-05-08]` Это переводит сигнал из «один Telegram-канал ссылается на Baza» в **два независимых медиа-источника** (vc.ru + breakingtrends, оба ссылаются на Baza как первоисточник). Confidence остаётся medium — Anthropic официально не комментирует.
+
+**Update 2026-05-16 — третье независимое подтверждение.** Через @rb_ru post 46189 (9 мая 2026) Кирилл Пшинник (сооснователь Зерокодер) официально комментирует: «сотни разработчиков, предпринимателей и AI-команд» потеряли доступ к аккаунтам Claude. Гипотеза о VPN как trigger совпадает с @breakingtrends-версией. Пшинник даёт expert-attribution take: **«Главный вывод для бизнеса: нельзя строить критические процессы на одном зарубежном AI-сервисе, особенно если он официально недоступен в вашей юрисдикции»** `[conf:medium, src:2026-05-09]`. Это **повышает confidence enforcement-narrative до уровня two independent expert commentaries**.
 
 ## Параметры enforcement-кейса
 

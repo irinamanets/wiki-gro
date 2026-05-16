@@ -9,8 +9,8 @@ tags: [robotics, narrative, boston-dynamics, irobot, humanoid, ai, companion-rob
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14  # +3 новых сигнала через Edinorog (mid-may): Familiar Machines & Magic ($60M+ raise estimate, AI emotion recognition, aging-tech целевая аудитория); Unitree mech-suit за $650K (4-я ниша «toy-for-rich»); Mind Robotics $400M (rj Скаринджа = founder Rivian, total >$1B с ноября 2025)
-sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md]
+updated: 2026-05-14  # +3 новых сигнала через Edinorog (mid-may): Familiar Machines & Magic ($60M+ raise estimate, AI emotion recognition, aging-tech целевая аудитория); Unitree mech-suit за $650K (4-я ниша «toy-for-rich»); Mind Robotics $400M (rj Скаринджа = founder Rivian, total >$1B с ноября 2025); +vcnews 61313 (2026-05-12) cross-source на Unitree GD01: цена от $650 тысяч, вес ~500 кг, кабина для человека на месте туловища, готов к массовому производству; +vcnews 61291 (2026-05-10) Mirumi character-toy parallel (32 стран Kickstarter, $100+, single-feature)
+sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
 namespace: mkt
 ---
 
@@ -174,6 +174,30 @@ GRO продукт изначально позиционировался как 
 - **Использовать Familiars как «AI-coach аналог»** — слишком прямая параллель. Familiars — anti-productivity (буквально ничего не делают). GRO — augmentation tool (помогает делать больше). Разная семантика.
 - **Использовать робота-монаха как метафору «AI заменит даже духовенство»** — это **слабая интерпретация**. Сильная интерпретация: «AI становится cultural artifact, мы — соавторы культурного значения роботов».
 - **Цитировать Boston Dynamics увольнения как «AI-индустрия в кризисе»** — это **очень узкая интерпретация**. Сильная интерпретация: **Boston Dynamics проходит cultural transition «исследователи → инженеры массового производства», старая команда инструментально не подходит для новой стадии**.
+
+## Update 2026-05-14 — Unitree GD01 (vcnews cross-source) + Mirumi character-toy parallel
+
+**Unitree GD01 cross-source.** Edinorog уже зафиксировал Unitree mech-suit за $650K как «toy-for-rich». [[sources/2026-05-14-tg-vcnews-may-8-12-2026|@vcnews 61313]] (2026-05-12) **независимо подтверждает** spec'и:
+
+- Вес ~500 кг `[conf:high, src:2026-05-12]`
+- Кабина для человека на месте туловища `[conf:high, src:2026-05-12]`
+- Цена **от $650 тысяч** `[conf:high, src:2026-05-12]` — точно то же значение, что Edinorog
+- Unitree называет «гражданское транспортное средство», утверждает **готовность к массовому производству** `[conf:high, src:2026-05-12]`
+
+**Reconcile.** Два независимых RU-источника (Edinorog + vc.ru) сходятся на параметрах. Цена и готовность к производству — `[conf:high]`. Категория «гражданское транспортное средство» — новая (Edinorog позиционировал как «toy-for-rich»). Это **формализованный category-bid Unitree** на legitimate transportation-market, а не niche-toy сегмент.
+
+**Mirumi parallel.** [[sources/2026-05-14-tg-vcnews-may-8-12-2026|@vcnews 61291]] (2026-05-10) фиксирует **Mirumi** — японский character-toy робот, который **умеет только двигать головой**, но **распродан в 32 странах на Kickstarter за $100+**. Это **самая чистая форма** companion-segment'а: zero-utility, character-first, scarcity-driven. См. отдельную trend-страницу [[evolving/content-trends/character-collectibles-trend-2026]].
+
+**Структурный вывод.** На W19/W20 2026 в robotics-сегменте формируются **четыре** distinct sub-категории:
+
+| Sub-категория | Образец | Price-anchor | Use-case |
+|---|---|---|---|
+| Productivity-humanoid | Boston Dynamics, Tesla Optimus | $20-100K (industrial) | замена рабочей силы |
+| Companion-robot | Familiar Machines | TBD | emotional support, anti-productivity |
+| Character-toy | Mirumi, Лабубу | $50-$100 | identity-signaling, collection |
+| Mech-vehicle | Unitree GD01 | $650K | luxury / transportation niche |
+
+**Маркетинговый sense.** Все 4 сегмента — **разные value propositions, разные customer базы, разные content hooks**. Категоризация **становится критичной** для positioning b2c-AI-продукта. См. [[canon/target-audience/gro-segments]] и [[canon/positioning/gro-value-proposition]].
 
 ## Связь с другими страницами
 

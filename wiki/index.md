@@ -1,7 +1,7 @@
 ---
 title: Marketing Memory — Index
 type: index
-updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17 new sources (dzen Деловой Мир ×5, TG ×12), +69 new layer pages (canon/marketing-frameworks ×22, evolving/industry-trends ×6, evolving/content-trends ×16, evolving-strict/market-data ×3, evolving-strict/competitor-metrics ×3, evolving-strict/campaign-metrics ×1, evolving-strict/product-metrics ×1, volatile/weekly-digest ×1, volatile-strict/competitor-news ×12, volatile-strict/industry-news ×2). Topics: бренд-подкасты (Маркина АЙNET), Спиридонов 15 постов (Хуанг narrative preheating, 3 роли founder'а, fragmented/modular jobs, Marina Bay pivot, humanoid unit-economics McKinsey/Bain/Morgan Stanley, GLP-1 vs AI 2025, consumer biotech), Шевелев canon-batch (СОПРАНО, Д=Э+Э+Ч+О, 3 инструмента Здесь и Сейчас), Себрант 17 постов (AI как GPT, cult of linearity, AI-Native dev, Anthropic constitution paper, slopshaming, Thinking Machines, Googlebook), Гребенюк (crisis-defiance, six-seven aesthetics, premium-segment cooling), Сербин team-resilience (ДоброПост, RU-China tariff), Aiston Григорьев (digital transformation SMB framework), Перегудов (First Day Thinking, Билдеры), Варако HR-бренд survival 2026, vc.ru/vcnews дайджест (Claude Dreams, OpenAI Realtime/Spreadsheets, SpaceXAI rename, DeepSeek $45B, Moonshot Kimi $20B, Samsung exits China), cgevent Hollywood AI institutional shift / India AI Film Lab / Bach.Art, ai_newz (Anthropic+Colossus, Gemini Omni, Anthropic third-party credits), neuraldvig (anti-flattery prompt canon, T-Pay BLE), Высоцкий 1440 Camp (hiring-as-marketing reframe), Фомичёв «второе касание», маркетплейс diversification 5 каналов, CEO somatic energy (Шутенко). Plus prior 2026-05-15 batch (session 20260515T065817Z)
+updated: 2026-05-16  # finalize batch 3 ingests (session 20260516T142633Z): +3 new sources (tg_moibiz 5-14 May, tg_rb_ru 5-13 May, tg_vcnews 8-12 May), +32 new layer pages (volatile-strict/competitor-news ×10, volatile-strict/industry-news ×6, evolving-strict/market-data ×7, evolving/industry-trends ×3, canon/marketing-frameworks ×2, evolving/competitor-positioning ×2, canon/target-audience ×1, evolving/content-trends ×1). Topics: AI-corporate race W19/W20 расширилась до 8 фронтов (OpenAI Codex Chrome + Daybreak + Deployment Co + ChatGPT Emergency Contact, Apple-AirPods + Apple-Intel, ByteDance $30B, Cerebras price-up), T-Bank Долями BNPL-aggregator, Mirumi character-toy, Wildberries «Помощник», МСП РФ (8 финансовых инструментов, 5 млн ИП, СБП B2B 30M, реестр посреднических платформ, инновационные резиденты), RU macro snapshot May 2026 (первая дефляция года, PMI 49.7, USD-RUB 73), gender pay gap 2025 (34%), layoff disputes (71% выигрышей сотрудников), women wellness shift, exotic tourism shift (+131% Вьетнам), messenger ad platforms share (TG 67% / VK 65% / MAX 56%), ad-agency experimentation fear, screenless wearables. Prior batch session 20260515T193231Z. (TG dumps × 21, Дзен/Деловой Мир × 2, zhazhda.biz evergreen × 6, web articles × 1), +123 new layer pages (canon/marketing-frameworks ×39, evolving/content-trends ×26, volatile-strict/competitor-news ×17, evolving-strict/market-data ×11, volatile-strict/industry-news ×9, evolving/competitor-positioning ×8, evolving/industry-trends ×8, evolving-strict/campaign-metrics ×2, evolving-strict/competitor-metrics ×1, canon-strict/legal-claims ×1, volatile/weekly-digest ×1). Topics: TG-дайджесты (Theedinorog, breakingtrends, bezsmuzi/Кульгин, cossa.ru, hutzp, incrussiamedia, products-and-startups/Аннаков, rff_channel, recruiter_live, rybakovigor, solokumi/Кумар Виас, startupoftheday/Горный, stodnevka2/Петросян, telega-rinata, techno_yandex, temno/Морейнис, hr-kak-delat, hh-ru-official, egoshin_kedprof, kwork), Дзен/Деловой Мир (Селихов e-commerce, «умное потребление»/predictive loyalty), zhazhda.biz evergreen-листиклы 2016 (online-booking SaaS, task-managers, budget apps, mobile apps, бухучет, премии, тренинги, налоги дистанционных работников). Key concepts: Stanford vibecoding 9× правило, Anthropic enterprise-pivot (Blackstone JV $1.5B, Claude blocks RU), umnoye potreblenie/predictive loyalty, Кульгин regulatory squeeze 4 новых вектора, FETE-фреймворк Клэя, Петросян 6 canon (Flexible goal pole, perspective-shift, 5-минутный start), Морейнис 6 canon (Latent demand AI, 3-question test), Горный 6 canon (LLM-bot tolerance, GDP vs marketcap, paid-demo).
 
 ---
 
@@ -1334,6 +1334,39 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[sources/2026-05-14-dzen-delovoymir-varako-hr-brand-survival-2026]] — Дзен/Деловой мир — Ника Варако (Далее): HR-бренд как инструмент выживания 2026
 - [[sources/2026-05-14-tg-peregudov-may-2026]] — Михаил Перегудов (@peregudov) — TG-дамп 2026-05-14 (10 постов 431–440, май 2026): First Day Thinking, Билдеры, practitioner-shifts-position формат
 - [[sources/2026-05-14-tg-vcnews-may-5-8-2026]] — vc.ru Telegram @vcnews — дайджест 50 постов 5–8 мая 2026: Claude Dreams, OpenAI Realtime/Spreadsheets, SpaceXAI rename, Apple iOS 27 third-party AI, Character AI lawsuit, Samsung exits China, DeepSeek $45B, Moonshot Kimi $20B
+- [[sources/2026-05-14-zhazhda-biz-base-nalogooblozhenie-distancionnyh-rabotnikov]] — Налогообложение дистанционных работников — zhazhda.biz (reference article)
+- [[sources/2026-05-14-tg-recruiter-live-may-2026]] — Telegram @recruiter_live — дамп 14 постов (ids 4456..4469, май 2026)
+- [[sources/2026-05-14-tg-products-and-startups-may-2026]] — Telegram @ProductsAndStartups (Байрам Аннаков) — 9 постов 6–14 мая 2026 (1740–1748)
+- [[sources/2026-05-14-zhazhda-mobile-apps-for-entrepreneur-evergreen]] — Жажда — ТОП-10 мобильных приложений для предпринимателя (evergreen ~2015-2017)
+- [[sources/2026-05-14-tg-rff-channel-may-2026]] — Telegram @rff_channel — Recruitment for Friends, 6–13 мая 2026 (10 постов, ids 4403..4416, HH April 2026 чарты + RConf AI promo)
+- [[sources/2026-05-14-tg-theedinorog-may-2026]] — Telegram @Theedinorogblog (Дмитрий Филонов) — 26 постов 7923–7948 (5–14 мая 2026)
+- [[sources/2026-05-14-zhazhda-biz-lifestyle-premii-dlja-predprinimatelej-v-rossii]] — Обзор российских премий для предпринимателей — Жажда
+- [[sources/2026-05-14-tg-rybakovigor-may06-12-2026]] — Telegram @rybakovigor — выгрузка 9 постов 6–12 мая 2026 (бандл с 7 медиа)
+- [[sources/2026-05-14-tg-bezsmuzi-may-5-7]] — Кульгин дамп 50 постов 5-7 мая: GPT-5.5 Every review, Grok 4.3 release, TRELLIS.2, кибердружины, верификация доменов, НДС cross-border, ЯПлакалъ блок, Konsol.pro, Студия Лебедева, niche-billionaire content-формат
+- [[sources/2026-05-14-zhazhda-biz-lifestyle-programmy-i-servisy-dlya-buhucheta-efc2dd3b]] — zhazhda.biz SEO-листикл (~2017) о бухгалтерских программах и онлайн-сервисах для SMB — triaged-out как нерелевантный ГРО (контент про accounting tooling, не пересекается с продуктовым полем GRO; устаревшая ценовая сетка, ЕНВД как актуальный режим).
+- [[sources/2026-05-14-tg-solokumi-may-2026]] — Telegram @solokumi (Роман Кумар Виас) — 12 постов 5–12 мая 2026 (FETE-фреймворк + GEO-плейбук + Claude Code Skills volume 2)
+- [[sources/2026-05-14-tg-breakingtrends-may05-14]] — @breakingtrends 23-постовый дамп 5-14 мая 2026 — Mash quantitative anchor (TG −40M, 98%→13% access), Anthropic+Blackstone $1.5B JV, MS 67% AI-org, Хуанг blue-collar, Disney exit 2027, Claude blocks RU, pay-for-performance Fortune
+- [[sources/2026-05-14-zhazhda-budget-apps-evergreen-2016]] — zhazhda.biz «Программы и сервисы для ведения бюджета» (evergreen ~2016) — 6-й образец жанра
+- [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] — Cossa.ru (@cossaru) — Telegram-дайджест за 5–14 мая 2026
+- [[sources/2026-05-14-tg-startupoftheday-may-5-13-2026]] — Telegram @startupoftheday (Александр Горный) — 15 постов 5–13 мая 2026 (5053–5067)
+- [[sources/2026-05-14-zhazhda-online-booking-services-evergreen-2016]] — Жажда (~2016 evergreen listicle): 9 RU/CIS сервисов онлайн-записи клиентов (Get in line, «Мой кабинет», GBooking, «Моё бронирование», «ПоЗаписи», Planyo, NaPriem и др.), 290-3900₽/мес ценовой коридор — pre-YClients-dominance baseline RU SMB-online-booking категории
+- [[sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026]] — TG @egoshin_kedprof — мини-дамп 3 постов 5–12 мая 2026 (подкаст «Поколение ИИ», Claude RU-block + Нейрофонд EGOSHIN800, Gemini 3.1 Pro thermo-demo)
+- [[sources/2026-05-14-tg-stodnevka2-may-6-14-2026]] — Telegram @stodnevka2 (Армен Петросян) — 6–14 мая 2026, 11 постов + 1 медиа
+- [[sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016]] — 7-й инстанс zhazhda evergreen-listicle жанра — обзор Todoist + Wunderlist + Things + Windows-нишевых планировщиков задач, ~2016 (matrix-вариация 5 продуктов × 3 платформенных кластера, 6-критериев pre-AI rubric)
+- [[sources/2026-05-14-tg-hh-ru-official-may-7-13-2026]] — Telegram @hh_ru_official — 12 постов (7–13 мая 2026): итоги «Галочки» + студенческая карусель стажировок
+- [[sources/2026-05-14-tg-techno-yandex-may-6-13-2026]] — Telegram @techno_yandex — 6 постов 6–13 мая 2026 (bundle)
+- [[sources/2026-05-14-zhazhda-biz-treningi-dec-2016]] — Жажда.biz: 5 полезных курсов для предпринимателя (ноябрь–декабрь 2016)
+- [[sources/2026-05-14-tg-telega-rinata-may-7-13-2026]] — Telegram @telega_Rinata (Ринат Алиев) — 6 постов 7–13 мая 2026 (вуз+ИИ, сон, founder-camp, эмоция, выплаты, passion)
+- [[sources/2026-05-14-tg-hr-kak-delat-may-6-14-2026]] — Telegram @HR_kak_delat — 6 постов 6–14 мая 2026 (ids 1984–1989): HBR 5 шагов оргизменений + 3 engagement-механики HR-клуба + RBI рекрутер
+- [[sources/2026-05-14-tg-hutzp-may-2026-bundle]] — Telegram @hutzp — выборка 14 сообщений (3513–3527, 2026-05-06…2026-05-13): joint-giveaway + промо Изионист-сборника + Прохоров-кейс + личное
+- [[sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026]] — Дзен/Деловой Мир — Селихов: новый потребитель e-commerce и психология онлайн-покупок 2025
+- [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] — Telegram: @temno — Аркадий Морейнис, дайджест 5–14 мая 2026 (16 постов + 16 изображений, ids 7818..7833)
+- [[sources/2026-05-14-tg-incrussiamedia-may-5-11-2026]] — Telegram @incrussiamedia — дайджест 5–11 мая 2026 (50 сообщений)
+- [[sources/2026-05-14-dzen-delovoymir-smart-consumption-marketing-2026]] — Дзен/Деловой Мир: обзор сдвига к «умному потреблению» 2026 — Euromonitor consumer-side метрики (72% тревога, 70% cart-manipulation, 64% trial-cancel, 60% churn-elasticity), Demis Group «две России», #dupe-тренд, Кравченко (Insight Analytics) фрейм predictive loyalty, RBC Capital Markets консолидация через retail media + AI; третий cross-check 11,5 трлн ₽ / +28% YoY e-commerce РФ
+- [[sources/2026-05-14-tg-kwork-may12-2026-pricing-teaser]] — Telegram @kwork_kwork — пост 565 (2026-05-12): тизер про влияние цены на решение о покупке
+- [[sources/2026-05-14-tg-moibiz-may-5-14-2026]] — Telegram @moibiz — Нацагентство «Мой бизнес»: дайджест 5–14 мая 2026 (43 сообщения + 39 медиа-вложений)
+- [[sources/2026-05-14-tg-rb-ru-may-5-13-2026]] — @rb_ru: Telegram-дайджест 5–13 мая 2026 (45 постов + 45 children)
+- [[sources/2026-05-14-tg-vcnews-may-8-12-2026]] — Telegram @vcnews — 50 постов 8–12 мая 2026: AI-гонка (Codex Chrome + Daybreak + Deployment Co + ByteDance $30B), Cerebras price-up, Apple-Intel + AirPods, T-Bank Долями BNPL-aggregator
 
 ## canon/ (устойчивые знания, loose citation, без TTL)
 
@@ -1362,6 +1395,7 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[canon/target-audience/automation-eager-knowledge-worker-ru]] — Профиль ЦА: knowledge worker РФ 18–34, маркетинг/PR/финансы/юристы, 70%+ за автоматизацию, разрыв спрос/предложение 2,6×.
 - [[canon/target-audience/senior-employees-50plus-ru-2026]] — Сотрудники 50+ как ресурс работодателей РФ 2026: возрастной разворот (+75% приглашений 55+, 49% берут пенсионеров на общих основаниях, +35-40% вакансий для 55+); качественная рамка от Батырева
 - [[canon/target-audience/ru-key-account-manager-profile]] — Baseline-портрет KAM (Key Account Manager) + важный семантический нюанс «РФ-менеджер ≠ западный manager» для корректного targeting в B2B-маркетинге (hr-portal.ru reference)
+- [[canon/target-audience/ru-msp-tech-demand]] — RU MSP — 70% сотрудников хотят больше технологий: pull-сигнал для автоматизации
 
 ### marketing-frameworks/
 - [[canon/marketing-frameworks/native-advertising]] — нативная реклама, посевы, инфоповоды, партизанский маркетинг, баннерная слепота
@@ -1621,6 +1655,47 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[canon/marketing-frameworks/varako-hr-brand-survival-2026]] — HR-бренд как инструмент выживания 2026 (Варако / Далее) — методологический фреймворк для рынка соискателя
 - [[canon/marketing-frameworks/first-day-thinking-peregudov]] — First Day Thinking (Перегудов): 2-шаговый greenfield-exercise для founders
 - [[canon/marketing-frameworks/builders-role-merging-peregudov]] — Билдеры (Перегудов): новая role-категория для AI-эпохи, объединяющая продакт/маркетинг/разработку через AI-инструменты
+- [[canon/marketing-frameworks/vibecoding-stanford-study-2026]] — Stanford-исследование вайбкодинга — методологическая рамка и 9× правило уязвимостей
+- [[canon/marketing-frameworks/slot-machine-vs-printer-genai-strategies]] — Слот-машина vs принтер — две стратегии GenAI-продуктов и метафора cost per task
+- [[canon/marketing-frameworks/generative-ui-design-system-inference]] — Generative UI — дизайн-система становится inference-системой
+- [[canon/marketing-frameworks/ceo-cto-ai-adoption-bridge]] — CEO–CTO AI-adoption bridge — почему спор «вайбкодим/не вайбкодим» политический, а не технический
+- [[canon/marketing-frameworks/business-awards-as-smb-pr-channel]] — Бизнес-премии как PR-канал для SMB: механика, отбор, операционный gap
+- [[canon/marketing-frameworks/career-growth-decoupling-rybakov]] — Career-growth ≠ development — рамка карьерного декаплинга (Рыбаков, май 2026)
+- [[canon/marketing-frameworks/fete-outreach-framework-clay]] — FETE-фреймворк: Find → Enrich → Transform → Export (AI-персонализированный outbound)
+- [[canon/marketing-frameworks/dmitry-kot-ai-text-5-insights]] — 5 инсайтов Дмитрия Кота: как работать с AI-текстом без воды
+- [[canon/marketing-frameworks/ai-skills-vs-prompts-architecture]] — Скиллы vs промпты: архитектура AI-ассистентов 2026 (Сергей Шима)
+- [[canon/marketing-frameworks/ai-search-measurable-vs-dark-zone]] — AI-search: что измеримо, что в «тёмной зоне» (Алла Рауд / Киберкошка)
+- [[canon/marketing-frameworks/smm-analytics-2026-framework]] — SMM-аналитика 2026: соцсети как источник управленческих решений (Crop media)
+- [[canon/marketing-frameworks/llm-bot-customer-tolerance-gorny-frame]] — LLM-бот customer-tolerance frame — Горный
+- [[canon/marketing-frameworks/gdp-vs-marketcap-flow-stock-distinction-gorny]] — ВВП vs капитализация — flow/stock дисциплина (Горный)
+- [[canon/marketing-frameworks/marketplace-distributor-revival-model-neato]] — Marketplace-distributor revival — модель Neato
+- [[canon/marketing-frameworks/paid-demo-cold-outreach-thesis-gorny]] — Платный demo — counter-thesis cold outreach (Горный)
+- [[canon/marketing-frameworks/egoshin-education-formula-2026]] — Формула Егошина — «Образование = педмастерство + мотивация + среда» (ИИ как усилитель, не замена)
+- [[canon/marketing-frameworks/petrosian-flexible-goal-pole]] — Цель = шест канатоходца — flexible goal как balance instrument (Петросян)
+- [[canon/marketing-frameworks/petrosian-perspective-shift-questions]] — Вопросы-переключатели оптики — pause+reframe protocol (Петросян, Пинк)
+- [[canon/marketing-frameworks/petrosian-content-as-accelerator]] — Контент — не налог, а ускоритель (Petrosian positioning reframe)
+- [[canon/marketing-frameworks/petrosian-i-only-try-five-minute-start]] — «Я только попробую» — 5-минутный таймер anti-procrastination protocol (Петросян)
+- [[canon/marketing-frameworks/petrosian-supporter-vs-challenger-confidant]] — Поддерживающий vs сопротивляющийся собеседник — выбор confidant'а для замысла (Петросян)
+- [[canon/marketing-frameworks/petrosian-ball-task-prioritization]] — Мячик, не лягушка и не камень — объём ≠ вес (Петросян prioritization)
+- [[canon/marketing-frameworks/saas-tool-selection-rubric-pre-ai-2016]] — Формализованная 6-критериев rubric выбора SMB-SaaS-tool из листикла Жажды ~2016 (кроссплатформа + CRUD + облако/офлайн + free-trial + русификация + простой UI) — pre-AI baseline для contrast с AI-эры rubric 2026
+- [[canon/marketing-frameworks/ai-tech-glossary-techno-yandex-2026]] — AI tech glossary: 5 базовых терминов для маркетинга AI-продукта (Согласование, RAG, MoE, RLHF, дистилляция)
+- [[canon/marketing-frameworks/techno-pessimism-vs-optimism-historical-frame]] — Технопессимизм vs технооптимизм: историческая рамка для AI-messaging
+- [[canon/marketing-frameworks/passion-driven-work-criterion-gerasimova]] — Passion-критерий выбора работы Герасимовой — «делать то, чем хочется заниматься, когда плохо»
+- [[canon/marketing-frameworks/hbr-5-org-change-tips-2026]] — HBR 5 шагов оргизменений «без крови» (april 2026)
+- [[canon/marketing-frameworks/risk-first-consumer-decision-online]] — Risk-first decision logic — инверсия AIDA для онлайн-покупателя 2026
+- [[canon/marketing-frameworks/latent-demand-ai-startup-search-moreynis]] — Латентный спрос как стратегия поиска идей в ИИ-эпоху (Морейнис)
+- [[canon/marketing-frameworks/genius-audience-over-genius-idea-moreynis]] — «Гениальная аудитория» > «гениальной идеи» — startup heuristic (Морейнис)
+- [[canon/marketing-frameworks/corporate-raider-mental-model-lutke]] — Mental model «корпоративный рейдер» для founder'а (Лютке / Морейнис)
+- [[canon/marketing-frameworks/switching-tools-product-pattern-moreynis]] — Switching tools — продуктовый паттерн B2B (Морейнис)
+- [[canon/marketing-frameworks/digital-basement-peer-learning-lutke]] — «Цифровой подвал» — peer-learning через ИИ-агента в открытых каналах (Лютке / Морейнис)
+- [[canon/marketing-frameworks/three-question-product-test-moreynis]] — 3-вопросный product test (retell Морейниса)
+- [[canon/marketing-frameworks/self-service-fitness-model-2026]] — Self-service фитнес — single-operator модель РФ 2026 (Фитбейс playbook)
+- [[canon/marketing-frameworks/frambini-marketing-tax-counter-hook]] — «Маркетинг — это налог на хреновый продукт» — counter-narrative hook (Frambini Смирнов)
+- [[canon/marketing-frameworks/smart-consumption-status-shift-2026]] — «Умное потребление»: экономия как статусный маркер 2026 — три сдвига (стыд→статус, дефицит→контроль, dupe→социально одобряемо)
+- [[canon/marketing-frameworks/kravchenko-predictive-loyalty-2026]] — Predictive Loyalty (Кравченко/Insight Analytics): от реактивных скидок к опережающему управлению путём клиента; манипулятивные сигналы клиента не считать готовностью к сделке
+- [[canon/marketing-frameworks/two-russias-regional-split-2026]] — «Две России в рекламе» (Demis Group): мегаполис vs регион как два рынка; регионы — основной драйвер роста e-commerce, требуют отдельных CRM-сценариев
+- [[canon/marketing-frameworks/ru-smb-financing-ladder-8-instruments]] — RU SMB financing ladder — 8 инструментов финансирования (Минэк/Мой бизнес, май 2026)
+- [[canon/marketing-frameworks/niche-filling-vacated-market-pattern]] — Niche-filling vacated market — стратегический паттерн для RU 2022+ (быстрое заполнение освободившихся рынков отечественными бизнесами)
 
 ### positioning/
 - [[canon/positioning/gro-value-proposition]] — value proposition GRO, anti-positioning к курсам, три кита (системность/поддержка/свой ритм)
@@ -1631,6 +1706,7 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 ### legal-claims/
 - [[canon-strict/legal-claims/ad-marking-russia-2026]] — маркировка рекламы в РФ, ЕРИР, erid, ОРД, штрафы по ст. 14.3 КоАП, таймлайн 2025–2027
 - [[canon-strict/legal-claims/ru-polygraph-hiring-2026]] — Полиграф при найме в РФ — нет ФЗ, ст. 86 ТК РФ, отказ от тестирования не основание для отказа в найме; legal-frame для HR-контента
+- [[canon-strict/legal-claims/ru-remote-worker-tax-residency-distinction]] — РФ: налоговое различие резидент / нерезидент для дистанционного работника
 
 ### historical-campaigns/
 - [[canon-strict/historical-campaigns/native-pr-cases-2026]] — три кейса нативного PR в Telegram (VK Знакомства, Умный Дом.ру, SimpleWine)
@@ -1736,6 +1812,17 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[evolving/industry-trends/ru-china-import-tariff-2027-2029]] — RU единый сбор на товары из Китая: поэтапное повышение 2027 → 22% к 2028-2029 (контекст для маркетинговых стратегий)
 - [[evolving/industry-trends/ru-premium-segment-cooling-2026]] — RU premium-segment cooling 2026 — vip-аудитория начала экономить (cross-vertical sentinel, Гребенюк + Whitewill)
 - [[evolving/industry-trends/consumer-biotech-anti-aging-trend-2026]] — Investor-категория consumer biotech 2026: anti-aging, longevity, healthspan, beauty, cognition; прогноз Спиридонова — самые крупные предпринимательские состояния 10-15 лет
+- [[evolving/industry-trends/ru-recruitment-fraud-patterns-2026]] — Recruitment fraud patterns РФ 2026 — Apple ID / Behance / iCloud-lock эволюция
+- [[evolving/industry-trends/ru-it-relocation-minsk-2026]] — Релокация RU IT и игровых студий в Минск (2026)
+- [[evolving/industry-trends/blue-collar-ai-resilience-2026]] — Хуанг (NVIDIA) blue-collar resilience: будущее за сантехниками/сварщиками/электриками, +30%/+25% за 3 года
+- [[evolving/industry-trends/digital-indoor-retail-media-ru-2026]] — Digital Indoor (DI) в РФ 2026: Билайн Adtech × METRO как маркер канала
+- [[evolving/industry-trends/big-tech-concentration-not-bubble-gorny-2026]] — Big Tech 40% S&P 500 ≠ пузырь — counter-anchor Горного (2026-05)
+- [[evolving/industry-trends/ecommerce-trust-decision-shift-ru-2026]] — E-commerce shift 2026: конкуренция за доверие, а не за трафик
+- [[evolving/industry-trends/marketplace-community-convergence-2026]] — Marketplace ⇄ Community convergence — тренд 2026
+- [[evolving/industry-trends/optical-personalization-gap-2026]] — Optical personalization gap 2026: маркетинг быстрее, чем умнее — 64% «для внешнего эффекта», <18% глубокого AI, 60% маркетологов внедряют инсайты за 2–4 недели; RBC прогнозирует консолидацию рынка
+- [[evolving/industry-trends/ru-ad-agency-experimentation-fear-2026]] — RU-агентства боятся тестировать новые рекламные инструменты (Q2 2026) — паттерн потери конкурентного преимущества
+- [[evolving/industry-trends/ru-exotic-tourism-shift-2026]] — RU outbound туризм 2026 — сдвиг к экзотическим направлениям (+131% Вьетнам, +63% Венесуэла)
+- [[evolving/industry-trends/screenless-wearables-trend-2026]] — Screenless wearables (Oura, Whoop, AirPods-camera) выигрывают у smart-watches на 24/7 UX-данных
 
 ### content-trends/
 - [[evolving/content-trends/telegram-native-formats]] — какие нативные форматы работают в Telegram в 2026 (бренды, авторы, пользователи)
@@ -1903,6 +1990,33 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[evolving/content-trends/slopshaming-counter-hook-2026]] — Слопшейминг как content-trend — counter-hook к AI-критике (май 2026, Себрант)
 - [[evolving/content-trends/ai-doomer-marcus-anachronism-hook]] — AI-doomer Маркус как content-hook (Себрант ironic, май 2026)
 - [[evolving/content-trends/practitioner-shifts-position-format]] — Practitioner shifts position — content-format «я долго сопротивлялся → попробовал → перевернул отрасль» (Перегудов)
+- [[evolving/content-trends/zhazhda-biz-evergreen-listicle-genre]] — zhazhda.biz — жанр SMB-evergreen-листикла (анонимный, без дат)
+- [[evolving/content-trends/musk-tone-flip-pattern]] — Musk tone-flip pattern — драматический разворот позиции по компании за 3 месяца
+- [[evolving/content-trends/founder-philanthropy-panel-format]] — Founder-philanthropy panel — event-формат «современные предприниматели возрождают культуру меценатства» (X10, Рыбаков, май 2026)
+- [[evolving/content-trends/niche-billionaire-revenue-reveal-format]] — «Угадай, кто заработал миллиард» — content-формат RU founder-blogs
+- [[evolving/content-trends/founder-cafe-coldpitch-fundraising-hook]] — «Стартап в кофейне с табличкой» — fundraising-content-hook 2026
+- [[evolving/content-trends/geo-playbook-2026-q2]] — GEO-плейбук Q2 2026 — 6 практических механик попадания в AI-выдачу
+- [[evolving/content-trends/founder-mode-monk-mode-relationships-hook]] — Founder mode / monk mode: BI о фаундерах, отказывающихся от отношений ради бизнеса. AI-urgency lifestyle-extension
+- [[evolving/content-trends/pay-for-performance-ai-superusers-2026]] — Fortune: конец peanut butter raises, Google + Accenture делают AI-skills prerequisite promotion; >50% сотрудников обходят AI
+- [[evolving/content-trends/ru-personal-finance-listicle-baseline-2016]] — RU SMB personal-finance tooling — historical content-baseline ~2016 (Жажда листикл)
+- [[evolving/content-trends/real-life-video-content-developer-case]] — Реальные видео-зарисовки vs рендеры: кейс девелопера от «Ишь, Миш!»
+- [[evolving/content-trends/ai-aeo-must-haves-2026]] — 5 must-have для AI-видимости 2026 (Duda через Cossa)
+- [[evolving/content-trends/llm-self-censorship-hook-gorny-2026]] — LLM-агенты усилят самоцензуру — content hook Горного (Чёрное зеркало)
+- [[evolving/content-trends/ru-online-booking-saas-baseline-2016]] — RU online-booking SaaS landscape — historical baseline ~2016 (pre-YClients era, 9 равноправных игроков, цены 290-3900₽/мес, 8 типичных вертикалей)
+- [[evolving/content-trends/ru-task-manager-listicle-baseline-2016]] — Historical baseline RU task-manager / productivity-tool landscape ~2016 (Todoist + Wunderlist + Things + Windows-нишевые) — 3-й 2016-baseline после online-booking и personal-finance
+- [[evolving/content-trends/dead-internet-theory-counter-trend-2026]] — Dead Internet Theory как counter-trend: 51% bot-трафика, спрос на оффлайн и verified human (2026)
+- [[evolving/content-trends/voice-to-text-tools-roundup-2026-05]] — Voice-to-text consumer-tools 2026-05: Яндекс Клавиатура, Superwhisper, Wispr Flow, Vibe (Yandex Q2 2026)
+- [[evolving/content-trends/techno-yandex-explainer-rubric-format]] — Yandex @techno_yandex как explainer-rubric: 5 переиспользуемых форматов для GRO-блога
+- [[evolving/content-trends/dominant-emotion-hiring-hook]] — «Доминирующая эмоция» как hiring/lifestyle hook — observation-формат founder-канала
+- [[evolving/content-trends/hr-club-engagement-mechanics-2026]] — Engagement-механики HR-сообщества «Как делать» (май 2026): online-quiz lottery, metaphor-game, closed peer visit
+- [[evolving/content-trends/joint-multi-author-giveaway-pattern]] — Joint multi-author giveaway — кросс-канальная growth-механика автор-Telegram-каналов
+- [[evolving/content-trends/short-form-history-business-parable-pattern]] — Short-form history-business-parable — текстовый edutainment-формат с moral-coda
+- [[evolving/content-trends/gender-split-product-listing-ru-2026]] — Гендерный split в восприятии карточки товара — мужчины: характеристики, женщины: UGC-визуал (RU 2026)
+- [[evolving/content-trends/marketing-for-ai-agents-content-hooks]] — Маркетинг для ИИ-агентов — content hooks 2026
+- [[evolving/content-trends/inc-russia-brand-history-series-2026]] — Inc. Russia brand-history series — формат «иностранный бренд через кризис → ДНК» (Burberry, BMW)
+- [[evolving/content-trends/dupe-trend-russia-2026]] — #dupe-тренд в РФ 2026: доступные аналоги премиум-продуктов как UGC-контент-формат, особенно сильно в регионах
+- [[evolving/content-trends/consumer-manipulation-marketing-tactics-2026]] — 4 паттерна consumer vs marketing 2026 (Euromonitor): сервис-shopping 72%, cart-abandonment как давление 70%, free-trial с отменой 64%, churn по нерелевантности 60%
+- [[evolving/content-trends/character-collectibles-trend-2026]] — Character collectibles trend 2026: Labubu, Mirumi, Familiar — функция уходит, identity остаётся
 
 ### competitor-positioning/
 - [[evolving/competitor-positioning/max-messenger]] — профиль мессенджера MAX: SWOT, метрики, восприятие брендами и пользователями
@@ -1939,6 +2053,16 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[evolving/competitor-positioning/claude-design-2026]] — Claude Design — Anthropic выходит в visual-design, Claude Opus 4.7 под капотом, удар по Figma; Pro/Max/Team/Enterprise
 - [[evolving/competitor-positioning/predprinimatel-dela-channel-pattern]] — «Предприниматель ДЕла» (Дмитрий Дмитриев) — niche-vertical author-channel + 10-летний event-business для собственников мебельного бизнеса РФ (YouTube + Telegram + Слёт героев)
 - [[evolving/competitor-positioning/tablichnyj-biatlon-niche-vertical-edu-product]] — Курс Сергея Васильева «Табличный биатлон» (~100K ₽, mebel-only, 12 видео + 7 шаблонов) — niche-vertical hybrid edu+tooling product, adjacent-competitor для GRO; продаётся через peer-validation Дмитриева на Слёте героев.
+- [[evolving/competitor-positioning/ai-product-engineer-course-empatika-2026]] — AI Product Engineer course (Empatika, Байрам Аннаков) — позиционирование и программа 4-го потока
+- [[evolving/competitor-positioning/konsol-pro-freelance-compliance-2026]] — Konsol.pro — compliance-платформа работы с самозанятыми, advertorial-профиль
+- [[evolving/competitor-positioning/studio-lebedeva-2026]] — Студия Артемия Лебедева — 118 млн прибыли, 1/3 выручки = госконтракты
+- [[evolving/competitor-positioning/refocus-claude-code-marketing-stack-2026]] — Refocus (Kumar Vias) — маркетинговый AI-стек внутри Claude Code как замена SaaS-подписок
+- [[evolving/competitor-positioning/dadata-brand-by-inn-ru-sales-enrichment-2026]] — DaData «Бренд по ИНН» — RU B2B sales-enrichment (2026)
+- [[evolving/competitor-positioning/yclients-pre-dominance-context-2016]] — YClients pre-dominance context — какой landscape вытеснил лидер RU online-booking 2016→2026 (9 игроков → 1 доминант, ≈9 лет цикл консолидации)
+- [[evolving/competitor-positioning/neurofond-positioning-2026-05]] — Нейрофонд — positioning AI-агрегатора без VPN и с RU-картами (multi-model, founder-Egoshin, май 2026)
+- [[evolving/competitor-positioning/hr-kak-delat-club-community-positioning]] — HR-клуб «Как делать»: позиционирование платного membership-сообщества для HR-профессионалов
+- [[evolving/competitor-positioning/lidertask-strive-positioning]] — ЛидерТаск + Strive — позиционирование Абрамовского (RU task-management adjacent для GRO)
+- [[evolving/competitor-positioning/rb-ru-print-magazine-positioning]] — Russian Business (rb.ru) — позиционирование медиа-аутлета 2026 (print-magazine + Telegram-format)
 
 ### customer-feedback/
 - [[evolving/customer-feedback/gro-app-store-reviews]] — синтез 7 первых пользовательских отзывов в App Store: hooks (ИИ-помощник, rehearsal перед продажей, брейншторм) и возражения (paywall, нет демо)
@@ -1974,6 +2098,7 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[evolving-strict/competitor-metrics/prodamus-paytech-metrics-2026]] — Продамус (Prodamus) — операционные метрики PayTech-платформы 2026 (Фомичёв-наблюдение)
 - [[evolving-strict/competitor-metrics/deepseek-valuation-2026-05]] — DeepSeek валюация — $10B → $45B (6 мая 2026)
 - [[evolving-strict/competitor-metrics/moonshot-kimi-arr-2026-05]] — Moonshot (Kimi) — ARR $200M+ при оценке $20B (7 мая 2026)
+- [[evolving-strict/competitor-metrics/stanford-vibecoding-stats-apr-2026]] — Stanford vibecoding-study — численные метрики (янв–апр 2026)
 
 ### campaign-metrics/
 <!-- - [[evolving-strict/campaign-metrics/slug]] — one-line summary -->
@@ -1985,6 +2110,8 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[evolving-strict/campaign-metrics/digital-onboarding-roi-it-2026]] — Цифровой онбординг IT: 1.2 млн ₽ убыток на одном новичке; после внедрения payback 14→6 дней, retention +30%, ~12 часов/нед HR-экономии
 - [[evolving-strict/campaign-metrics/cross-promo-speaker-swap-benchmark-2026]] — Cross-promo speaker-swap benchmark (Telegram, RU, май 2026): 8 спикеров, 1152 entered, 53.72% mean conv, 11.1% bot-block — реальные числа cost-zero free-webinar модели
 - [[evolving-strict/campaign-metrics/ru-marketplace-channel-economics-2026-05]] — RU экономика каналов дистрибуции — бенчмарки WB/Ozon vs альтернативы (май 2026)
+- [[evolving-strict/campaign-metrics/mindbox-channel-shift-2025]] — Mindbox 2025: email/SMS сдвиг 26:1, push впервые превысили email +45%
+- [[evolving-strict/campaign-metrics/hh-ru-galochka-campaign-results-2026]] — hh.ru × «Галочка» — кампанные результаты (2026-03–05)
 
 ### market-data/
 - [[evolving-strict/market-data/digital-ad-market-ru-2024-2026]] — объём рынка интернет-рекламы РФ 2023–2026, структура расходов на натив, CPV-бенчмарки
@@ -2074,6 +2201,24 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[evolving-strict/market-data/ru-podcast-audience-2023-2025]] — Аудитория подкастов в РФ 2023-2025 — динамика, вовлечённость, бренд-сегмент (АЙNET INSIGHT через Маркину)
 - [[evolving-strict/market-data/humanoid-robot-unit-economics-2024-2050]] — Экономика гуманоидных роботов 2024-2050 (McKinsey/Bain/Morgan Stanley через Спиридонова): $100K средний / $16K минимальный, $7-10/час, окупаемость 5,3→2,8 лет, ~1 млрд гуманоидов к 2050
 - [[evolving-strict/market-data/glp1-vs-ai-consumer-biotech-2025]] — GLP-1 vs AI: $71B (Ozempic+Mounjaro) vs $29B (OpenAI+Anthropic) в 2025 = 2,5× разрыв; маржинальность GLP-1 >80% vs AI в минус; categorical shift в consumer biotech
+- [[evolving-strict/market-data/hh-vacancies-resumes-cooling-2024-2026]] — HH вакансии vs резюме — динамика 2024–2026 (январь 2024 baseline, апрельский отчёт hh)
+- [[evolving-strict/market-data/ms-ai-67pct-org-success-2026]] — Microsoft: 67% успеха AI-внедрения = компания (культура, expertise рук-ва, процессы), а не должность/опыт/отрасль сотрудника
+- [[evolving-strict/market-data/digital-ad-cpm-shifts-q1-2026]] — CPM-сдвиг US/EU Q1 2026: ретаргетинг vs контекст vs ABM (AdRoll)
+- [[evolving-strict/market-data/ogilvy-influencer-trends-2026]] — Ogilvy Influencer Trends 2026: $250B рынок, 50% не могут доказать ROI
+- [[evolving-strict/market-data/duda-ai-traffic-conversion-2026]] — Duda study: AI-видимые сайты +320% трафика, ×3 конверсия (2026)
+- [[evolving-strict/market-data/ru-crm-agency-market-2025]] — Рынок CRM-агентств в РФ 2025: +38% YoY, 1,729 млрд ₽ (RetailCRM)
+- [[evolving-strict/market-data/ru-ecommerce-consumer-journey-2026]] — RU e-commerce consumer journey 2025 — 2-3 дня, 1-5 сессий, 30 мин финал, 51,6% trust-first, 830k контрафакта
+- [[evolving-strict/market-data/ru-msp-state-support-q1-2026]] — МСП РФ — обвал господдержки Q1 2026 (-42,7% прямой помощи, Rodionoff Group)
+- [[evolving-strict/market-data/ru-side-gig-shift-pay-q1-2026]] — RU гиг-экономика — посменная оплата Q1 2026 (+46% вакансий, +64% откликов, Авито)
+- [[evolving-strict/market-data/ru-newcomer-wage-overtake-2025]] — RU зарплаты — новички обогнали стажистов 2023→2025 (+34,3%, РИА Новости)
+- [[evolving-strict/market-data/global-consumer-anxiety-euromonitor-2026]] — Euromonitor 2026 consumer-side метрики: 72% тревога расходов, 43% удовольствие от выгоды, 41% сравнение цен еженедельно, 60% churn по нерелевантности
+- [[evolving-strict/market-data/ru-macro-snapshot-may-2026]] — РФ макро-снапшот май 2026 — первая дефляция года, PMI Services 49,7, USD-RUB 75→73
+- [[evolving-strict/market-data/ru-ip-count-2026-may]] — РФ — число ИП приблизилось к 5 млн (май 2026, ФНС реестр)
+- [[evolving-strict/market-data/ru-creative-industries-public-perception-2026]] — РФ — 81% россиян считают креативные индустрии важными (май 2026)
+- [[evolving-strict/market-data/ru-messenger-ad-platforms-share-2026]] — Mессенджер-реклама в РФ — доли рекламодателей Q2 2026 (TG 67% / VK 65% / MAX 56%)
+- [[evolving-strict/market-data/ru-gender-pay-gap-2025]] — Gender pay gap РФ 2025 — 13-летний максимум (34% средний, IT 37%)
+- [[evolving-strict/market-data/ru-layoff-disputes-2026]] — RU layoff disputes 2025–2026 — 71% выигрышей сотрудников + 1/4 компаний сократили
+- [[evolving-strict/market-data/ru-women-wellness-shift-2026]] — Женский wellness РФ 2026 — от «похудеть» к «справиться со стрессом» + AI рацион 16%
 
 ### product-metrics/
 - [[evolving-strict/product-metrics/gro-store-ratings]] — дрейфующая метрика: рейтинги GRO в App Store / Google Play / RuStore (на 2026-04-10: iOS 4,0 при 11 оценках, Android без рейтинга, RuStore 0,0)
@@ -2101,6 +2246,7 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[volatile/weekly-digest/ai-industry-news-w15-w18-2026]] — AI-индустрия W15-W18 2026 (13 апр - 4 мая): content-sourcing pool из @ai_newz — 5 hook-кандидатов (Anthropic compute crunch, LLM resume bias, Yandex MiniLED Alice, SpaceX-Cursor $60B, Codex pets) + Tier B макро-контекст
 - [[volatile/weekly-digest/tg-cgevent-may-w1-2026]] — @cgevent дайджест 30 апреля – 5 мая 2026: Tier A — Apple Vision Pro flop, AI-cost > зарплат, Китайский суд, 3 «Нейропрожарки», Anthropic+Blender drama
 - [[volatile/weekly-digest/tg-cgevent-may-w2-2026]] — Дайджест @cgevent — 5–8 мая 2026 (Tier A/B/C): Hollywood institutional shift, India AI Film Lab, Bach.Art video-gen, humanoid narrative split
+- [[volatile/weekly-digest/edinorog-may-2026-digest]] — Weekly digest: GRO-сигналы из @Theedinorogblog (5–14 мая 2026)
 
 ### drafts/
 <!-- - [[volatile/drafts/slug]] — one-line summary -->
@@ -2173,6 +2319,33 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[volatile-strict/competitor-news/spacexai-rename-2026-05]] — xAI → SpaceXAI rebrand — формализация поглощения SpaceX (7 мая 2026)
 - [[volatile-strict/competitor-news/apple-ios27-third-party-ai-2026]] — Apple iOS 27 — third-party AI-модели в Apple Intelligence (осень 2026)
 - [[volatile-strict/competitor-news/apple-intelligence-settlement-2026-05]] — Apple — $250M settlement за «ложную рекламу» Apple Intelligence (6 мая 2026)
+- [[volatile-strict/competitor-news/rconf-ai-cultural-fit-2026-05]] — RConf AI — cultural-fit AI для HRD (вебинар 14 мая 2026, Валта Пет Продактс кейс)
+- [[volatile-strict/competitor-news/openai-musk-trial-may-2026]] — Musk vs OpenAI трибунал — показания Brockman / Murati / Sutskever / Altman (5–13 мая 2026)
+- [[volatile-strict/competitor-news/openai-anthropic-secondary-share-ban-2026-05]] — OpenAI + Anthropic объявили вторичные продажи акций ничтожными — pre-IPO governance (13 мая 2026)
+- [[volatile-strict/competitor-news/anthropic-openai-business-customers-may-2026]] — Anthropic впервые обогнал OpenAI по числу бизнес-клиентов — Ramp data, май 2026
+- [[volatile-strict/competitor-news/isomorphic-labs-2-1b-raise-2026-05]] — Isomorphic Labs (Google DeepMind spin-off) — $2.1 млрд раунд, AI drug discovery (12 мая 2026)
+- [[volatile-strict/competitor-news/openai-gpt-5-5-every-review-2026-05]] — GPT-5.5 Every 3-week review: 62 vs 33 на Senior Engineer бенчмарке vs Opus 4.7
+- [[volatile-strict/competitor-news/xai-grok-4-3-release-2026-05]] — xAI Grok 4.3 на OpenRouter, pricing $1.25/$2.50 за 1M токенов
+- [[volatile-strict/competitor-news/microsoft-trellis-2-image-to-3d-2026-05]] — Microsoft TRELLIS.2 — open-source 4B Image-to-3D
+- [[volatile-strict/competitor-news/anthropic-blackstone-consulting-2026-05]] — Anthropic × Blackstone JV $1.5B для автоматизации бизнеса, инвестор Goldman Sachs, AI-консалтинг через продукт
+- [[volatile-strict/competitor-news/claude-blocks-ru-accounts-2026-05]] — Anthropic блокирует RU-аккаунты (несколько сотен), без возможности выгрузить work-product, деньги возвращают (Baza, май 2026)
+- [[volatile-strict/competitor-news/android-pause-point-doomscroll-2026]] — Android Pause Point — 10-секундная пауза перед открытием залипательных приложений, self-imposed friction (AdIndex, май 2026)
+- [[volatile-strict/competitor-news/agentsbar-ai-partnership-matchmaking-2026-05]] — Agentsbar — RU AI-агенты для networking/партнёрств (2026-05)
+- [[volatile-strict/competitor-news/qcomment-fake-review-market-ru-2026]] — QComment — RU биржа фейковых отзывов (re-emerged 2026)
+- [[volatile-strict/competitor-news/google-fitbit-air-health-2026-05]] — Google Fitbit Air + Google Health: wearable без экрана с AI-тренером на Gemini ($100 + $10/мес)
+- [[volatile-strict/competitor-news/spotify-personal-podcasts-ai-agents-2026-05]] — Spotify Personal Podcasts: API для AI-агентов (Claude Code / OpenClaw) на генерацию аудио из заметок (2026-05)
+- [[volatile-strict/competitor-news/telegram-ai-bots-styles-update-2026-05]] — Telegram AI-bots update (май 2026): бот-на-профиль + кастомные стили AI-редактора с шарингом
+- [[volatile-strict/competitor-news/familiar-machines-companion-robot-2026]] — Familiar Machines & Magic (Колин Энгл, ex-iRobot): робот-компаньон на Nvidia Jetson Orin, релиз 2027
+- [[volatile-strict/competitor-news/wildberries-ai-assistant-wb-pomoshnik-2026]] — Wildberries запустил «Помощник» — AI-ассистент для всех селлеров (май 2026)
+- [[volatile-strict/competitor-news/openai-codex-chrome-extension-2026-05]] — OpenAI Codex Chrome Extension для macOS/Windows — agent-in-browser pattern (8 мая 2026)
+- [[volatile-strict/competitor-news/openai-deployment-company-tomoro-2026-05]] — OpenAI Deployment Company $4B + Tomoro acquihire ~150 спецов (12 мая 2026)
+- [[volatile-strict/competitor-news/openai-daybreak-gpt55-cyber-2026-05]] — OpenAI Daybreak — AI-security-scanner на GPT-5.5 Cyber + Codex (12 мая 2026), open ответ на Anthropic Mythos
+- [[volatile-strict/competitor-news/openai-chatgpt-emergency-contact-2026-05]] — ChatGPT Emergency Contact для подростков и взрослых — safety как marketing-feature (8 мая 2026)
+- [[volatile-strict/competitor-news/apple-airpods-camera-siri-2026-05]] — Apple AirPods со встроенными камерами для AI-Siri (Bloomberg leak, 8 мая 2026)
+- [[volatile-strict/competitor-news/apple-intel-chip-deal-2026-05]] — Apple-Intel preliminary chip deal — Intel акции +15% (WSJ, 8 мая 2026)
+- [[volatile-strict/competitor-news/bytedance-ai-capex-30b-2026-05]] — ByteDance AI-capex 2026 — $30 млрд (+25% YoY), China-front ускоряется
+- [[volatile-strict/competitor-news/mirumi-companion-robot-2026-05]] — Mirumi — character-toy робот за $100+, sold-out на Kickstarter в 32 странах (10 мая 2026)
+- [[volatile-strict/competitor-news/tbank-doli-bnpl-aggregator-2026-05]] — T-Bank Долями становится BNPL-aggregator — добавил ОТП «Давай делить» (8 мая 2026)
 
 ### industry-news/
 <!-- - [[volatile-strict/industry-news/slug]] — one-line summary -->
@@ -2247,3 +2420,18 @@ updated: 2026-05-15  # finalize batch 17 ingests (session 20260515T121743Z): +17
 - [[volatile-strict/industry-news/ru-online-casino-legalization-2026]] — Минфин РФ рассматривает легализацию онлайн-казино: 100 млрд ₽/год при 30% налоге выручки (~март 2026, неподтверждённый сигнал). Fiscal stress signal Q1–Q2 2026.
 - [[volatile-strict/industry-news/character-ai-pennsylvania-lawsuit-2026-05]] — Character AI — иск штата Пенсильвания за чат-ботов-«врачей» (7 мая 2026)
 - [[volatile-strict/industry-news/samsung-exits-china-consumer-2026]] — Samsung сворачивает продажи бытовой техники и TV в материковом Китае (6 мая 2026)
+- [[volatile-strict/industry-news/ru-ma-deals-q1-2026]] — M&A сделки РФ Q1 2026 — Топ-10 АК&М ($3,4 млрд)
+- [[volatile-strict/industry-news/ru-cyberdruzhiny-mediapatrols-decree-2026-05]] — Кибердружины + медиапатрули — постановление Правительства РФ 2026-05-04
+- [[volatile-strict/industry-news/ru-domain-verification-gosuslugi-sept-2026]] — Обязательная верификация доменов через госуслуги с 1 сентября 2026
+- [[volatile-strict/industry-news/ru-minpromtorg-cross-border-vat-2027-2029]] — Минпромторг НДС на трансграничные онлайн-покупки 7%/14%/22% (2027-2029)
+- [[volatile-strict/industry-news/ru-yaplakal-blocked-2026-05]] — ЯПлакалъ заблокирован Чертановским судом Москвы (2026-05-06)
+- [[volatile-strict/industry-news/disney-ru-license-exit-2027]] — Disney не продлевает RU-лицензии — легальный показ мультфильмов в RU-OTT прекращается с 2027
+- [[volatile-strict/industry-news/anthropic-ru-block-egoshin-vendor-confirmation-2026-05]] — Anthropic блокирует RU-учётки Claude (2026-05-08) — vendor-side confirmation от Егошина (founder Нейрофонд)
+- [[volatile-strict/industry-news/ru-fns-outstaff-control-2026-05]] — ФНС РФ усилила контроль над аутстаффингом — 2026-05-07
+- [[volatile-strict/industry-news/morgan-stanley-etrade-crypto-2026-05]] — Morgan Stanley запустил крипту через E-Trade — 2026-05-07 (0,5% комиссия, 8,6 млн клиентов)
+- [[volatile-strict/industry-news/ru-sbp-b2b-limit-30m-2027]] — СБП РФ — лимит B2B-перевода планируется к повышению до 30 млн руб (план 2027)
+- [[volatile-strict/industry-news/ru-mediator-platforms-registry-2026-05]] — РФ — реестр посреднических цифровых платформ (правила утверждены, май 2026)
+- [[volatile-strict/industry-news/ru-msp-innovation-residents-2026-05]] — РФ — резиденты инновационных центров включены в реестр МСП (Госдума, 13 мая 2026)
+- [[volatile-strict/industry-news/ru-budget-deficit-2026-q1]] — Дефицит бюджета РФ за 4 месяца 2026 — 5,9 трлн ₽ (+55% к годовому плану)
+- [[volatile-strict/industry-news/ru-china-trade-q1-2026]] — Товарооборот РФ-Китай январь-апрель 2026 — +19,7% YoY
+- [[volatile-strict/industry-news/yandex-mlu-eu-fine-2026-05]] — MLU B.V. (Яндекс) — штраф ЕС €100 млн за передачу данных Yango в Россию

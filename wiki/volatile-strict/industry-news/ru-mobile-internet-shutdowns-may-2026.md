@@ -9,8 +9,8 @@ tags: [russia, mobile-internet, telecom, channels, distribution, news, security]
 confidence: high
 stale: false
 created: 2026-05-06
-updated: 2026-05-14  # +breakingtrends 16730 (2026-05-07): Минцифры подтверждает 9 мая Москва без мобильного интернета, без SMS, даже белые списки не работают; 7 и 8 мая — без ограничений
-sources: [sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md]
+updated: 2026-05-14  # +breakingtrends 16730 (2026-05-07): Минцифры подтверждает 9 мая Москва без мобильного интернета, без SMS, даже белые списки не работают; 7 и 8 мая — без ограничений; +vcnews 61284 (2026-05-09): subdigest «Новости субботы» — Минцифры объявило об отмене ограничений на работу мобильного интернета и SMS в Москве → cycle closed на 9-10 мая
+sources: [sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
 namespace: mkt
 ---
 
@@ -106,11 +106,26 @@ vcnews 61206 (2026-05-05 08:40 UTC) `[conf:high, src:2026-05-05]` фиксиру
 
 **Связь с macro-трендом digital-парализма** (см. [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]]) и **с VPN/Telegram restrictions** ([[volatile-strict/industry-news/ru-vpn-telegram-restrictions-2026-04]]): это **четвёртое connectivity-event** в окне март–май 2026 (после VPN-метерики, частичных Telegram-замедлений, MAX-миграции, теперь — праздничные shutdowns). RU-маркетинг работает в режиме «коммуникационная инфраструктура нестабильна по умолчанию». `[conf:high, src:2026-05-05]`
 
+## Update 2026-05-14 — cycle closed: Минцифры официально снимает ограничения (9 мая)
+
+vcnews 61284 (2026-05-09 09:53 UTC) фиксирует subdigest «Новости субботы»: «**Минцифры объявило об отмене ограничений на работу мобильного интернета и SMS в Москве**». `[conf:high, src:2026-05-09]`
+
+**Resolution.** Window connectivity-shutdown был **9 мая**, не 5-9 как изначально прогнозировалось. По актуализированному mapping'у:
+- **5 мая 12:20 МСК** — изначальные блокировки сняты (см. таблицу)
+- **7-8 мая** — без ограничений (breakingtrends подтверждение)
+- **9 мая** — full shutdown без white-list (breakingtrends)
+- **9 мая (после 09:53 UTC, около обеда МСК)** — Минцифры официально снимает ограничения (vcnews)
+
+**Total downtime для Московского региона:** ~1 день (9 мая), а не 5 дней, как изначально прогнозировалось. Это **позитивный update** для маркетинговой дистрибуции — Q2 2026 KPI **смогут** сравниваться с предыдущими периодами, с поправкой на однодневный outage. Бенчмарк «3-5 млрд ₽ за несколько дней» (Inc.Russia) **не применим**, текущий ущерб **существенно меньше**.
+
+**Pattern для будущих праздничных connectivity-event.** RU-marketing должен **закладывать в KPI-buffer ~1 день/праздник** под потенциальный mobile-internet shutdown в Московском регионе. Это **планируемое** uncertainty-window, а не unplanned crisis.
+
 ## Связанные страницы
 
 - [[sources/2026-05-05-tg-forbesrussia-may-4-5-2026]] — источник
 - [[sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026]] — Inc.Russia ранний анонс apr-30 + бенчмарк ущерба 3–5 млрд ₽ от мартовских прецедентов
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — @breakingtrends 16730 Минцифры подтверждение 9 мая full shutdown без white-list, 7 и 8 мая без ограничений
+- [[sources/2026-05-14-tg-vcnews-may-8-12-2026]] — vcnews 61284 (2026-05-09): Минцифры снимает ограничения
 - [[volatile-strict/industry-news/ru-vpn-telegram-restrictions-2026-04]] — связанный connectivity-сдвиг
 - [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]] — macro-тренд
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — regulatory-контекст

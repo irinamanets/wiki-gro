@@ -9,8 +9,8 @@ tags: [ai, openai, anthropic, cerebras, nebius, tesla, meta, b2b, enterprise, pe
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14  # +Anthropic compute crunch RESOLVED через Colossus deal (200K GPU SpaceX, 6 мая), +Anthropic third-party credits с 15 июня ($20/$100/$200 ecosystem-bucket для Agent SDK apps), +Gemini Omni leak (Google unified multimodal, Veo заканчивается); +3 новых сигнала: OpenAI Daybreak (GPT-5.5 Cyber security-вертикаль), Google Magic Pointer (Gemini × Chrome distribution-advantage), Alfa-Future RU bank-magistracy coalition (Альфа+Сбер+ВТБ+Мосбиржа в ВШЭ talent-funnel); +Hartmann × Tahnoun cascade (enforcement layer для Personal CEO commitment) +Себрант 5591/5596 cross-validation: primary-source URL Anthropic-SpaceX (anthropic.com/news/higher-limits-spacex), reconcile «220K vs 200K» GPU, Thinking Machines (Мира Мурати) interaction model как потенциальная 8-я нога гонки на UX-уровне; +vc.ru 5-8 May confirmations: SpaceXAI rebrand формализация (xAI → SpaceXAI как подразделение SpaceX); DeepSeek $10B→$45B раунд (1st external investments, кит. госфонд лид); Moonshot Kimi $2B при $20B оценке pre-IPO Hong Kong + ARR $200M; Apple-Samsung chip rumor (Samsung $1T cap); Anthropic Dreams mode на Claude Managed Agents; OpenAI 3 Realtime audio + ChatGPT Spreadsheets всем; +Yandex @techno_yandex 5212 (2026-05-11) consumer-front wave: Google Fitbit Air + Google Health (Gemini AI-coach, $100+$10/мес), Familiar Machines & Magic robot-companion (Колин Энгл ex-iRobot, Jetson Orin on-device, 2027), Telegram AI-bots (multi-tenant prompt-engineering для consumer), Spotify Personal Podcasts (open API для Claude Code / OpenClaw agents)
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2909934-openai-privlekla-finansirovanie-dlya-vnedreniya-i.md, sources/2026-05-05-vcru-invest-2909377-cerebras-planiruet-ipo-dlya-privlecheniya-inv.md, sources/2026-05-05-vcru-invest-2911260-startap-panthallasa-privlekel-investitsii-dly.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-anthropic-openai-enterprise-jv.md, sources/2026-05-05-dzen-nebius-eigen-acquisition.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-techsparks-apr-may-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-06-yt-uVD3QAoiLF0-hartmann-agalarov.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-14-tg-neuraldvig-may-5-12-2026.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-techno-yandex-may-6-13-2026.md]
+updated: 2026-05-14  # +vcnews 8-12 мая: Codex Chrome Extension (8 мая, agent-in-browser), OpenAI Deployment Company $4B + Tomoro acquihire ~150 спецов (12 мая enterprise consultancy), ByteDance AI capex $30B/+25% YoY (9 мая Китай ускоряется), Apple AirPods camera-Siri Bloomberg leak (8 мая), Apple-Intel chip deal +15% Intel (8 мая chip-diversification), Cerebras IPO price-up до $4,8B/$48,8B cap (11 мая, supersession); +Anthropic compute crunch RESOLVED через Colossus deal (200K GPU SpaceX, 6 мая), +Anthropic third-party credits с 15 июня ($20/$100/$200 ecosystem-bucket для Agent SDK apps), +Gemini Omni leak (Google unified multimodal, Veo заканчивается); +3 новых сигнала: OpenAI Daybreak (GPT-5.5 Cyber security-вертикаль), Google Magic Pointer (Gemini × Chrome distribution-advantage), Alfa-Future RU bank-magistracy coalition (Альфа+Сбер+ВТБ+Мосбиржа в ВШЭ talent-funnel); +Hartmann × Tahnoun cascade (enforcement layer для Personal CEO commitment) +Себрант 5591/5596 cross-validation: primary-source URL Anthropic-SpaceX (anthropic.com/news/higher-limits-spacex), reconcile «220K vs 200K» GPU, Thinking Machines (Мира Мурати) interaction model как потенциальная 8-я нога гонки на UX-уровне; +vc.ru 5-8 May confirmations: SpaceXAI rebrand формализация (xAI → SpaceXAI как подразделение SpaceX); DeepSeek $10B→$45B раунд (1st external investments, кит. госфонд лид); Moonshot Kimi $2B при $20B оценке pre-IPO Hong Kong + ARR $200M; Apple-Samsung chip rumor (Samsung $1T cap); Anthropic Dreams mode на Claude Managed Agents; OpenAI 3 Realtime audio + ChatGPT Spreadsheets всем; +Yandex @techno_yandex 5212 (2026-05-11) consumer-front wave: Google Fitbit Air + Google Health (Gemini AI-coach, $100+$10/мес), Familiar Machines & Magic robot-companion (Колин Энгл ex-iRobot, Jetson Orin on-device, 2027), Telegram AI-bots (multi-tenant prompt-engineering для consumer), Spotify Personal Podcasts (open API для Claude Code / OpenClaw agents)
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2909934-openai-privlekla-finansirovanie-dlya-vnedreniya-i.md, sources/2026-05-05-vcru-invest-2909377-cerebras-planiruet-ipo-dlya-privlecheniya-inv.md, sources/2026-05-05-vcru-invest-2911260-startap-panthallasa-privlekel-investitsii-dly.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-anthropic-openai-enterprise-jv.md, sources/2026-05-05-dzen-nebius-eigen-acquisition.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-techsparks-apr-may-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-06-yt-uVD3QAoiLF0-hartmann-agalarov.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-14-tg-neuraldvig-may-5-12-2026.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-techno-yandex-may-6-13-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
 namespace: mkt
 ---
 
@@ -425,6 +425,48 @@ OpenAI **открыла ChatGPT-расширения для Excel и Google Shee
 - **OpenAI GPT-5.5 Instant как default-модель ChatGPT.** Yandex second-source attestation — см. [[volatile-strict/competitor-news/openai-gpt-5-5-every-review-2026-05]]. `[conf:medium, src:2026-05-11]`
 
 **Структурный паттерн:** consumer-product 2026 имеет **дефолтный AI-feature + рекуррентную подписку $5–10/мес поверх**. Если продукт без этого pattern'а — теряет легитимность к Q3 2026.
+
+## Update W19/W20 — vcnews 8-12 мая (added 2026-05-14)
+
+Цепочка корпоративных AI-сигналов в одном digest'е (источник: [[sources/2026-05-14-tg-vcnews-may-8-12-2026|vcnews 8-12 мая 2026]]):
+
+### OpenAI расширяется по 4 фронтам одновременно
+
+1. **Codex Chrome Extension** (61273, 2026-05-08) — agent-in-browser для macOS/Windows. Параллельная работа на нескольких вкладках, фокус на debugging + CRM + сайты. См. [[volatile-strict/competitor-news/openai-codex-chrome-extension-2026-05]]. **Расширяет TAM Codex** за пределы dev-only.
+
+2. **ChatGPT Emergency Contact** (61272, 2026-05-08) — safety-feature с уведомлением доверенного лица. Распространено на «Родительский контроль» подростков и «себе» взрослым. См. [[volatile-strict/competitor-news/openai-chatgpt-emergency-contact-2026-05]]. **Safety как marketing-feature**.
+
+3. **OpenAI Deployment Company + Tomoro acquihire** (61312, 2026-05-12) — $4 млрд инвестиций + ~150 опытных консультантов из Tomoro. См. [[volatile-strict/competitor-news/openai-deployment-company-tomoro-2026-05]]. **Vertical-integration в consultancy**, прямой ответ на [[volatile-strict/competitor-news/anthropic-blackstone-consulting-2026-05|Anthropic-Blackstone]].
+
+4. **Daybreak — AI security scanner** (61315, 2026-05-12) на GPT-5.5 Cyber + Codex. Открытый коммерческий доступ через ChatGPT Business. См. [[volatile-strict/competitor-news/openai-daybreak-gpt55-cyber-2026-05]]. **Прямой ответ на Anthropic Claude Mythos**, но в открытом формате.
+
+### China-front ускоряется: ByteDance +25% AI-capex до $30B
+
+ByteDance повысила AI-capex 2026 до **$30 млрд** (+25% YoY) — vcnews 61286 (2026-05-09). См. [[volatile-strict/competitor-news/bytedance-ai-capex-30b-2026-05]]. Это **значимый момент**: китайские флагманы перестают быть «дешёвой моделью», начинают догонять US-bigtech по абсолютному бюджету. Параллель — DeepSeek $10B→$45B раунд (зафиксирован выше).
+
+### Apple на hardware-AI фронте
+
+1. **AirPods со встроенными камерами для Siri** (vcnews 61271, 2026-05-08) — Bloomberg leak. Камеры как «глаза» AI-Siri. См. [[volatile-strict/competitor-news/apple-airpods-camera-siri-2026-05]]. **Always-on vision-input в ear-wearable** — новый Apple-AI-pivot.
+
+2. **Apple-Intel chip deal** (vcnews 61280, 2026-05-08) — предварительное соглашение, Intel акции +15%. См. [[volatile-strict/competitor-news/apple-intel-chip-deal-2026-05]]. **Третья нога chip-diversification** (Samsung + TSMC + Intel за месяц).
+
+### Cerebras price-up (supersession)
+
+Cerebras IPO **price-up** с $115-125 до $150-160/share, target $3,5B→$4,8B, cap $48,8 млрд (vcnews 61306, 2026-05-11). См. supersession в [[volatile-strict/industry-news/cerebras-ipo-2026-05]]. **6 дней — +30% по цене, +37% по объёму**.
+
+### Cumulative pattern
+
+К середине мая 2026 **AI-гонка корпораций** имеет **продолжающийся eight-front character**:
+1. enterprise-pivot (OpenAI Deployment Co + Anthropic-Blackstone),
+2. capital concentration (Cerebras up, DeepSeek up, Moonshot Kimi),
+3. физинфраструктура (Colossus, Panthalassa),
+4. IPO-revival (Cerebras price-up),
+5. Tesla & robotics-capex,
+6. vertical-pivots (Daybreak, Codex Chrome, GPT-Rosalind),
+7. Hartmann-cascade + consumer-front (Fitbit Air + Familiar Machines),
+8. **China catch-up budget** (ByteDance $30B, DeepSeek $45B raise).
+
+Каждые **3-4 дня** появляется новый «mover-сигнал». Темп **не замедляется**, наоборот — ускоряется. Это **состояние acceleration phase**, не плато.
 
 ## Backlinks
 

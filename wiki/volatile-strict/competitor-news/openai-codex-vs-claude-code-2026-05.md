@@ -9,8 +9,8 @@ tags: [openai, codex, anthropic, claude-code, ai-agents, dev-tools]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14  # +ai-newz 4569-4570: Anthropic ответ на /goal (клонировано из Codex) + multi-agent management в Claude Code → product parity restored; +compute resolution через Colossus deal (4561)
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2910896-zagruzki-codex-ot-openai-prevysili-skachivaniya-c.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md]
+updated: 2026-05-14  # +vcnews 61273 (2026-05-08): Codex Chrome Extension launch для macOS/Windows (agent-in-browser); +vcnews 61315 (2026-05-12): OpenAI Daybreak — AI-security-сканер на GPT-5.5 Cyber + Codex, открытый коммерческий доступ vs gated Anthropic Mythos
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2910896-zagruzki-codex-ot-openai-prevysili-skachivaniya-c.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
 namespace: mkt
 ---
 
@@ -97,6 +97,38 @@ OpenAI в это время:
 - Идёт в B2B через TPG/Brookfield/Bain joint venture
 
 Это не **«один выиграл»** — это **two-front race с разными стратегиями**: OpenAI делает scale + UX, Anthropic делает feature-parity + ecosystem distribution. Контент для GRO должен отражать **обе ноги гонки**, а не one-sided narrative.
+
+## Update 2026-05-14 — Codex Chrome Extension + OpenAI Daybreak (vcnews 8-12 мая)
+
+Два дополнительных OpenAI-сигнала из [[sources/2026-05-14-tg-vcnews-may-8-12-2026|@vcnews 8-12 мая 2026]] **сдвигают competitive-asymmetry** в новое измерение:
+
+**1. Codex Chrome Extension** (vcnews 61273, 2026-05-08) `[conf:high, src:2026-05-08]`. OpenAI выпустила расширение Codex для **Chrome** на macOS и Windows. Расширение даёт agent-in-browser pattern — параллельная работа на нескольких вкладках в фоновом режиме (debugging, проверка сайтов, CRM-системы). Это **первая массовая дистрибуция AI-coding-агента через browser-native канал**, что:
+- Расширяет TAM Codex **за пределы dev-only** — non-dev юзеры (маркетологи, ops-менеджеры, аналитики) теперь могут поставить Codex Extension на свой рабочий браузер;
+- Конкурирует с **[[volatile-strict/competitor-news/google-gemini-chrome-ai-2026-04|Google Gemini Chrome AI]]** на одной канвасе;
+- **Claude Code пока не имеет browser-extension** — это новый feature-gap.
+
+См. [[volatile-strict/competitor-news/openai-codex-chrome-extension-2026-05]] для деталей запуска.
+
+**2. OpenAI Daybreak — AI security-scanner** (vcnews 61315, 2026-05-12) `[conf:high, src:2026-05-12]`. OpenAI запустила Daybreak — AI-систему для проверки кода на уязвимости на базе **GPT-5.5 Cyber + Codex**. Доступ — корпоративным клиентам (ChatGPT Business) или разово. Это **прямой ответ на Anthropic Claude Mythos** через **открытый коммерческий доступ** (vs Mythos Glasswing-coalition closed-access):
+
+| Параметр | Anthropic Mythos | OpenAI Daybreak |
+|---|---|---|
+| Underlying model | Claude Mythos Preview | GPT-5.5 Cyber + Codex |
+| Доступ | Closed Glasswing-coalition | Open ChatGPT Business + ad-hoc |
+| Дата | 2026-04-07 (анонс) | 2026-05-12 |
+| Production-результат | 423 уязвимости Firefox / апрель | TBD |
+
+См. [[volatile-strict/competitor-news/openai-daybreak-gpt55-cyber-2026-05]] для деталей.
+
+**Стратегический сдвиг.** К середине мая 2026 OpenAI **расширяет surface** Codex'а на 2 новых сегмента:
+- **Browser** (non-dev workflow);
+- **Security audit** (enterprise gated → opened).
+
+Anthropic за тот же период:
+- Закрыла feature-gap по /goal и multi-agent;
+- Mythos production-результат впечатляющий (423 уязвимости), но **гейтнут**.
+
+**Net new asymmetry:** OpenAI расширяет TAM за пределы coding-сегмента, Anthropic углубляет core-capability в coding-сегменте. Это **продолжение two-front race**, но с расширением второго фронта.
 
 **Стилистическая ремарка автора** (пост 4569): *«Я не знаю кто в Антропике делает эти видео с анонсами, но они до боли хорошие»* — это **сигнал о качестве маркетинговой ассеты** Anthropic. Готовый hook: «качественные launch-видео — это сегодня differentiator на frontier-AI-рынке. Anthropic один из немногих, кто это понимает». См. [[evolving/content-trends/contrarian-framing-expert-telegram]] для CTA-формата.
 

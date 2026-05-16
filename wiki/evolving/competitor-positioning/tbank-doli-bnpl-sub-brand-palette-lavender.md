@@ -9,8 +9,8 @@ tags: [competitor, t-bank, doli, bnpl, visual-identity, sub-brand, lavender, pal
 confidence: medium
 stale: false
 created: 2026-04-17
-updated: 2026-04-17
-sources: [sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md]
+updated: 2026-05-14  # +vcnews 61268 (2026-05-08): Долями становится BNPL-aggregator — добавил предложения ОТП Банка («Давай делить»), план расширять количество партнёров → product-platform evolution
+sources: [sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
 namespace: mkt
 ---
 
@@ -99,9 +99,26 @@ Base-кейс — fashion-album spring 2026 ([[sources/2026-04-14-tg-tinkoffbank
 - **Лёгкое отличие от Т-Инвестиции violet** может быть ambiguous в small-preview-thumbnail на мобильном — нужно смотреть в full-size для definitive-recognition.
 - **Цикл обновления BNPL-identity** может быть быстрее, чем premium-identity — BNPL — эволюционирующий сегмент, визуал может дрейфовать с новыми campaign'ами. TTL: 6 мес soft re-verify.
 
+## Update 2026-05-14 — product-architecture evolution: solo BNPL → BNPL-aggregator
+
+Долями делает **значимый product-step**: T-Bank добавил в Долями **предложения от других сервисов оплаты частями** (vcnews 61268, 2026-05-08). Первый партнёр — **ОТП Банк и его «Давай делить»**. В будущем планируется расширение круга партнёров. См. [[volatile-strict/competitor-news/tbank-doli-bnpl-aggregator-2026-05]].
+
+**Что это значит для positioning'а.**
+
+Lavender-сабренд **Доли** прошёл два этапа эволюции:
+
+1. **2026-04 (текущая базовая страница)** — solo BNPL-продукт T-Bank, lavender brand-identity отделяется от consumer-yellow, signal'ит pay-later-rasprozhka категорию.
+2. **2026-05-08 (текущий update)** — **BNPL-aggregator-platform**. Pay-later UX от T-Bank внутри Долями + предложения сторонних BNPL-сервисов. Lavender identity **остаётся**, но product underneath превращается в multi-vendor platform.
+
+**Pattern из 2-этапной эволюции.** Lavender-identity создан в 2025-2026, чтобы **defended** Долями от marketplace-BNPL competition (Wildberries, Ozon строят собственные pay-later). К маю 2026 — defensive identity **повзрослела до offensive platform-play**: «лучше быть default BNPL UX в банковском приложении, чем единственным продуктом».
+
+**Стратегический take-away.** Sub-brand identity **может быть промежуточным этапом перед product-architecture-evolution**. Lavender как visual-anchor → platformization как business-model. Это **classical playbook**, перенесимый на любой vertical sub-brand: visual-identity первая, platformization вторая.
+
 ## Связанные страницы
 
 - [[sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album]] — primary-источник
+- [[sources/2026-05-14-tg-vcnews-may-8-12-2026]] — vcnews update про aggregator-механику
+- [[volatile-strict/competitor-news/tbank-doli-bnpl-aggregator-2026-05]] — aggregator-news (8 мая 2026)
 - [[evolving/competitor-positioning/tbank-doli-bnpl-partner-album-format]] — шаблон partner-album'а Доли
 - [[evolving/competitor-positioning/tbank-premium-sub-brand-palette]] — матрица 5 sub-brand palette T-Bank (обновить с Доли)
 - [[evolving/competitor-positioning/tbank-consumer-visual-style-yellow-block-flatlay]] — consumer-жёлтый (контраст)

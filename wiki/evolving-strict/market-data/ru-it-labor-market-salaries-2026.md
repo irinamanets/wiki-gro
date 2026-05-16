@@ -9,8 +9,8 @@ tags: [labor-market, it-salaries, devops, russia, hiring, tech-talent]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-vcru-hr-condensed-48-articles.md]
+updated: 2026-05-16  # +@rb_ru post 46191 (2026-05-11): -20% IT salaries to peak, 180-220K median, 800 responses/vacancy, vacancies -30%, resumes +70%/2y
+sources: [sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-14-tg-rb-ru-may-5-13-2026.md]
 namespace: mkt
 ---
 
@@ -25,8 +25,13 @@ namespace: mkt
 | IT в целом (РФ) | **~183 000 ₽/мес** | Хабр Карьера H1 2025 | `[conf:medium, src:2026-05-14]` |
 | Москва | **~230 000 ₽/мес** | Хабр Карьера H1 2025 | `[conf:medium, src:2026-05-14]` |
 | Регионы | **~159 000 ₽/мес** | Хабр Карьера H1 2025 | `[conf:medium, src:2026-05-14]` |
+| **IT в целом — обновление мая 2026** | **180–220 тыс. ₽/мес** | @rb_ru агрегация | `[conf:medium, src:2026-05-11]` |
+| **Падение от пика IT-зарплат** | **−20%** | @rb_ru агрегация | `[conf:medium, src:2026-05-11]` |
 | Senior-разработчики | Снизились на **−7,3%** к 2025 г | норматизация после перегрева 2022-2024 | `[conf:medium, src:2026-05-14]` |
 | Рост медиан H1 2025 | **+2%** (vs обычные 10-15%/год) | торможение | `[conf:medium, src:2026-05-14]` |
+| **DevOps / Go / SRE — падение зарплат** | **−11..20%** к 2025 | @rb_ru агрегация — см. [[#Contradictions]] | `[conf:medium, src:2026-05-11]` |
+
+**Cross-corroboration май 2026:** @rb_ru независимо подтверждает падение IT-зарплат — медиана 180-220 тыс. ₽ (vs Хабр Карьера ~183 тыс. ₽) — это **convergent signal**. Разница объясняется sample (rb_ru агрегирует на момент мая 2026, Хабр Карьера — H1 2025). Тренд **усиливается**: к маю 2026 фиксация **-20% к пику** была невозможна по данным H1 2025. `[conf:medium, src:2026-05-11]`
 
 **Прибавка при смене работы в IT 2026: 5–15%** `[conf:medium, src:2026-05-14]`. Ранее (2022–2024) — множитель ×2 от текущей. Знаковое изменение для всей HR-стратегии IT-специалистов.
 
@@ -37,6 +42,11 @@ namespace: mkt
 | Вакансий в IT (YoY) | **−15%** | `[conf:medium, src:2026-05-14]` |
 | Резюме в IT (YoY) | **+19%** | `[conf:medium, src:2026-05-14]` |
 | Работодатели, готовые к релокантам | **4%** (ранее 9%) | `[conf:medium, src:2026-05-14]` |
+| **Вакансий в IT (cumulative) к началу 2026** | **−30%** | @rb_ru агрегация | `[conf:medium, src:2026-05-11]` |
+| **Резюме за 2 года** | **+70%** | @rb_ru агрегация | `[conf:medium, src:2026-05-11]` |
+| **Откликов на одну вакансию (макс.)** | **до 800** | @rb_ru агрегация | `[conf:medium, src:2026-05-11]` |
+
+**«До 800 откликов на вакансию»** — этот единичный число — peak metric, не среднее. Hh-индекс 9,6 — это среднее, но **верхняя граница** показывает насколько перегружены sweetspot-вакансии. `[conf:medium, src:2026-05-11]`
 
 ## Дефицитные и перенасыщенные сегменты
 
@@ -87,4 +97,12 @@ namespace: mkt
 - [[evolving/industry-trends/genai-engineering-ru-specialization-2026]] — GenAI как новая специализация в IT
 - [[evolving/industry-trends/hiring-trends-russia-2026]] — 6 трендов найма
 - [[canon/target-audience/gro-segments]] — сегмент «карьеристы» с IT-overlap
-- [[sources/2026-05-14-vcru-hr-condensed-48-articles]] — источник
+- [[sources/2026-05-14-vcru-hr-condensed-48-articles]] — первичный источник (Хабр Карьера H1 2025)
+- [[sources/2026-05-14-tg-rb-ru-may-5-13-2026]] — источник cross-confirmation (мая 2026)
+- [[evolving-strict/market-data/ru-gender-pay-gap-2025]] — gender-аспект IT-зарплат (37,1% разрыв) [conf:low, src:2026-05-16]
+- [[evolving-strict/market-data/ru-layoff-disputes-2026]] — adjacent — IT/финтех/маркетинг top conflict industries
+
+## Contradictions
+
+- **[2026-05-14]** По [[sources/2026-05-14-tg-rb-ru-may-5-13-2026]] (Russian Business via @rb_ru, 11 мая 2026), зарплаты DevOps-инженеров, Go-разработчиков, SRE упали на **−11..20%** к 2025. Это противоречит первичной фиксации в этой странице: «DevOps — самая дефицитная профессия в РФ, зарплаты на 20–30% выше разработчиков» (из [[sources/2026-05-14-vcru-hr-condensed-48-articles]], Хабр Карьера H1 2025). [conf:low, src:2026-05-16]
+- **Резолюция (additive):** оба утверждения совместимы. Хабр Карьера фиксирует **relative gap** между DevOps и остальными IT-стеками (DevOps зарабатывают на 20-30% **выше**), который сохраняется. Rb.ru фиксирует **absolute level** — медианы DevOps **падают** к 2025 году, но всё ещё выше других IT-стеков. Это типичная картина cooling-market: dominant-сегменты падают **в абсолюте** медленнее, но падают вместе с рынком. Оба утверждения сохраняем. Update overall narrative: «DevOps **остаётся** дефицитным, но **зарплаты падают вместе с рынком**». [conf:low, src:2026-05-16]

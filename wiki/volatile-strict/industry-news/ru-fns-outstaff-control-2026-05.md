@@ -6,17 +6,19 @@ subtype: news
 layer: volatile-strict
 theme: industry-news
 tags: [russia, regulation, fns, outstaffing, hr-tech, labor-relations, may-2026]
-confidence: medium
+confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-15
-sources: [sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md]
+updated: 2026-05-14
+sources: [sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md, sources/2026-05-14-tg-moibiz-may-5-14-2026.md]
 namespace: mkt
 ---
 
 # ФНС РФ усилила контроль над аутстаффингом — 2026-05-07
 
 Federal Tax Service (ФНС) РФ объявила об усилении контроля над компаниями, использующими аутстаффинг — схему привлечения персонала через сторонние организации, опубликовано Inc. Russia 2026-05-07 ([[sources/2026-05-14-tg-incrussiamedia-may-5-11-2026|пост 36736]]).
+
+**Cross-check 2026-05-08 — третий источник.** Национальное агентство «Мой бизнес» (@moibiz пост 7490 от 2026-05-08) подтверждает: «Компании с аутстаффингом попали под усиленный контроль ФНС» `[conf:high, src:2026-05-08]`. См. [[sources/2026-05-14-tg-moibiz-may-5-14-2026|@moibiz дайджест]]. Подтверждение через государственный канал Минэкономразвития = **информация официальная, не вторичная аналитика**. `confidence` повышен с medium до **high**.
 
 ## Что произошло
 

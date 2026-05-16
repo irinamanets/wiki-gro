@@ -9,8 +9,8 @@ tags: [replit, stripe, vibecoding, ai-coding, no-code, monetization]
 confidence: low
 stale: false
 created: 2026-05-05
-updated: 2026-05-06  # +vcnews 61200 как 3-й второ-источник
-sources: [sources/2026-05-05-dzen-replit-stripe-tease.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md]
+updated: 2026-05-14  # +vcnews 61298 (2026-05-10): Replit CEO материал — «В 2018 в Y Combinator говорили о миллиардах разработчиков ПО, теперь эта мечта реальность» + про отличия от Cursor + потенциальная продажа + проблемы с обновлением в App Store
+sources: [sources/2026-05-05-dzen-replit-stripe-tease.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
 namespace: mkt
 ---
 
@@ -51,6 +51,18 @@ Replit относится к классу **vibecoding** платформ — AI
 3. **Дата подключения Stripe «несколько месяцев назад»** — не точная.
 
 Эту страницу следует **обновить** при доступе к полному тексту интервью на TechCrunch. До тех пор использовать в контенте только как сигнал тренда, не как конкретную competitive-метрику.
+
+## Update 2026-05-14 — vcnews 61298 cross-source
+
+[[sources/2026-05-14-tg-vcnews-may-8-12-2026|@vcnews 61298]] (2026-05-10) фиксирует **дополнительный материал** про Replit CEO (vc.ru/ai/2910210), теперь с **тизерами по 3 темам**:
+
+1. **Отличия от Cursor** — конкретные дифференциаторы пока не раскрыты, но **CEO явно проводит границу** Replit vs Cursor. Это **важная positioning-точка**: Replit и Cursor оба vibe-coding-инструменты, но Replit позиционируется как **«AI-coding for everyone»**, Cursor — как **«AI-coding for devs»**.
+
+2. **Потенциальная продажа** — без деталей. Cross-link к [[volatile-strict/competitor-news/openai-spinoff-rejected-pre-ipo-2026-05]] (параллельный сигнал) и общему consolidation-тренду [[volatile-strict/industry-news/ai-coding-tools-consolidation-2026q1]].
+
+3. **Проблемы с обновлением в App Store** — конкретные symptoms не раскрыты. Параллель — App Store slop discussion (см. [[evolving-strict/market-data/app-store-slop-2026]]).
+
+**Цитата CEO:** **«В 2018 году — в Y Combinator — мы говорили о будущем, в котором разработчики ПО будут исчисляться миллиардами. Некоторые посмеивались над этой мечтой, а теперь эта мечта — реальность».** Это **легитимация vibe-coding-нарратива** через founder voice, готовый hook для GRO-контента про **«AI-coding снимает barrier-to-entry, теперь каждый продакт-менеджер — разработчик»** (см. [[evolving/content-trends/vibe-coding-curse-content-hooks-2026]]).
 
 ## Связанные страницы
 
