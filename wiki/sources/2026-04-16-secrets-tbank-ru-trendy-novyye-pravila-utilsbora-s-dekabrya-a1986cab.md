@@ -1,0 +1,27 @@
+---
+id: mkt:sources/2026-04-16-secrets-tbank-ru-trendy-novyye-pravila-utilsbora-s-dekabrya-a1986cab
+title: "https://secrets.tbank.ru/trendy/novyye-pravila-utilsbora-s-dekabrya/"
+type: source
+layer: sources
+theme: sources
+tags: [triaged-out]
+confidence: low
+stale: false
+created: 2026-04-16
+updated: 2026-04-16
+original: raw/processed/articles/web_secrets.tbank.ru_trendy_novyye-pravila-utilsbora-s-dekabrya_a1986cab.md
+namespace: mkt
+triaged: irrelevant
+---
+
+# https://secrets.tbank.ru/trendy/novyye-pravila-utilsbora-s-dekabrya/
+
+## Метаданные
+- **Тип:** article
+- **Источник:** secrets.tbank.ru
+- **Файл:** `web_secrets.tbank.ru_trendy_novyye-pravila-utilsbora-s-dekabrya_a1986cab.md`
+
+## Релевантность
+**Triaged as irrelevant** (automatic, fast-filter): Файл слишком мал (185 bytes) — пустой fetch или заглушка
+
+No relevant extractions — source-страница создана как audit-лог.

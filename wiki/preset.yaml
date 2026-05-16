@@ -1,0 +1,121 @@
+# Wiki Preset Manifest
+#
+# Этот файл — машинный L1. Он определяет, под какой кейс инстанцирована
+# эта конкретная вики. Framework-уровень (CLAUDE.md и мануалы сабагентов)
+# остаётся domain-neutral, а вся специфика живёт здесь + в rules.md.
+#
+# Меняется только человеком или через REFLECT с подтверждением.
+# Сгенерировано /preset-init на 2026-04-10.
+
+preset:
+  name: marketing-memory
+  namespace: mkt
+  version: 1
+  description: >
+    База знаний для маркетинга ГРО: продукт, анализ конкурентов,
+    материалы, тренды — всё, что может пригодиться при создании
+    маркетингового контента (постов, статей, видео, кампаний,
+    стратегий).
+
+# Все 6 универсальных слоёв используются в этой вики.
+enabled_layers:
+  - canon            # устойчивые концепции, фреймворки, identity (loose)
+  - canon-strict     # канонические факты с audit trail (legal, historical)
+  - evolving         # тренды, эволюционирующие фреймворки (loose)
+  - evolving-strict  # метрики, бенчмарки, market data (strict)
+  - volatile         # черновики, сводки, рабочие заметки (loose)
+  - volatile-strict  # breaking news с обязательным источником (strict)
+
+# Тематические поддиректории внутри каждого слоя.
+# Страница в wiki/<layer>/<theme>/ валидна только если theme ∈ themes[layer].
+themes:
+  canon:
+    - product-knowledge    # что такое ГРО как продукт, value proposition, функции
+    - brand-guidelines     # tone of voice, visual identity, brand values
+    - target-audience      # портреты ЦА, сегменты, JTBD
+    - marketing-frameworks # reusable methodologies (AIDA, JTBD, PLG, funnels, ...)
+    - positioning          # долгосрочное позиционирование на рынке
+
+  canon-strict:
+    - legal-claims         # юридически допустимые формулировки marketing claims
+    - historical-campaigns # прошедшие кампании с audit trail
+
+  evolving:
+    - industry-trends      # направления рынка в вертикали
+    - content-trends       # форматы и паттерны контента, «что сейчас работает»
+    - competitor-positioning # как конкуренты позиционируются (качественно)
+    - customer-feedback    # отзывы, комментарии, sentiment пользователей о нашем продукте
+    - product-reception    # качественное восприятие рынка: нарратив, объекции, хуки, use-cases из реальных отзывов
+
+  evolving-strict:
+    - competitor-metrics   # MRR/ARR, growth, funding, аудитория конкурентов
+    - campaign-metrics     # бенчмарки каналов (CTR, CPC, CPA, conversion)
+    - market-data          # TAM/SAM/SOM, темпы роста, доли рынка
+    - product-metrics      # числовые сигналы нашего продукта: ratings, installs, retention, MAU/DAU
+
+  volatile:
+    - weekly-digest        # еженедельные сводки трендов/конкурентов
+    - drafts               # черновики контента, идеи постов, заголовков
+    - raw-notes            # заметки с встреч, брейнстормов, созвонов, бэклоги
+
+  volatile-strict:
+    - competitor-news      # анонсы, funding rounds, новые фичи конкурентов
+    - industry-news        # отраслевые новости с источником
+
+# Tag-таксономия. Страницы могут использовать эти теги или свои,
+# REFLECT предложит канонизировать повторяющиеся ad-hoc теги.
+tags:
+  channels:
+    - social
+    - content
+    - email
+    - paid-ads
+    - seo
+    - pr
+    - events
+    - partnerships
+    - community
+
+  funnel-stages:
+    - awareness
+    - consideration
+    - decision
+    - retention
+    - advocacy
+
+  content-formats:
+    - post
+    - article
+    - video
+    - reel
+    - case-study
+    - whitepaper
+    - webinar
+    - podcast
+    - infographic
+    - landing-page
+    - ad-copy
+
+  # Personas и competitors намеренно оставлены пустыми —
+  # наполняются органически по мере ingest-а реальных источников,
+  # REFLECT предложит канонизировать, когда появятся устойчивые имена.
+  personas: []
+  competitors: []
+
+# Закрытый enum для поля subtype: во front-matter.
+page_types:
+  - concept       # абстрактная идея, фреймворк, методология
+  - audience      # персонаж ЦА или сегмент
+  - competitor    # профиль конкурента
+  - campaign      # описание прошедшей или планируемой кампании
+  - channel       # профиль маркетингового канала
+  - asset         # готовый контент-актив (пост, статья, видео, PDF)
+  - insight       # инсайт с рынка / тренда / исследования
+  - trend         # тренд или observed pattern
+  - news          # новость (для volatile-strict/*)
+  - metric        # числовое наблюдение
+  - notes         # черновики, мысли, бэклоги, контекст созвонов
+
+# marketing-memory — не personal KB, identity не используется.
+identity:
+  owner: null

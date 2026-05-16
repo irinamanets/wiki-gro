@@ -1,0 +1,21 @@
+---
+id: mkt:sources/2026-04-16-executiveru-management-biznes-liderstvo-338332-rossiiskomu-it-rynku-groz
+title: "Российскому IT-рынку грозит кессонная болезнь"
+type: source
+layer: sources
+theme: sources
+tags: [condensed]
+confidence: low
+stale: false
+created: 2026-04-16
+updated: 2026-04-16
+original: raw/processed/articles/web_www.e-xecutive.ru_management_biznes-liderstvo_338332-rossiiskomu-it-rynku-groz_eca614fc.md
+namespace: mkt
+condensed_into: _condense_e-xecutive_2026-04-16.md
+---
+
+# Российскому IT-рынку грозит кессонная болезнь
+
+## Релевантность
+**Condensed** into `_condense_e-xecutive_2026-04-16.md`.
+Status: extracted.

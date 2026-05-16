@@ -1,0 +1,27 @@
+---
+id: mkt:sources/2026-04-16-vc-ru-molyanov-2675337-malta-malenkaya-skazka-o-puteshestviy-10ac718b
+title: "Мальта — это маленькая сказка — Павел Молянов на vc.ru"
+type: source
+layer: sources
+theme: sources
+tags: [triaged-out]
+confidence: low
+stale: false
+created: 2026-04-16
+updated: 2026-04-16
+original: raw/processed/articles/web_vc.ru_molyanov_2675337-malta-malenkaya-skazka-o-puteshestviyakh-i-_10ac718b.md
+namespace: mkt
+triaged: irrelevant
+---
+
+# Мальта — это маленькая сказка — Павел Молянов на vc.ru
+
+## Метаданные
+- **Тип:** article
+- **Источник:** vc.ru
+- **Файл:** `web_vc.ru_molyanov_2675337-malta-malenkaya-skazka-o-puteshestviyakh-i-_10ac718b.md`
+
+## Релевантность
+**Triaged as irrelevant** (automatic, gpt-4o-mini): Контент не имеет прямого отношения к продукту ГРО или его целевой аудитории.
+
+No relevant extractions — source-страница создана как audit-лог.

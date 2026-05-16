@@ -1,0 +1,135 @@
+---
+id: mkt:canon/marketing-frameworks/career-growth-decoupling-rybakov
+title: Career-growth ≠ development — рамка карьерного декаплинга (Рыбаков, май 2026)
+type: page
+subtype: concept
+layer: canon
+theme: marketing-frameworks
+tags: [content, leadership, career, narrative-hooks, b2b-saas, talent-management]
+confidence: medium
+stale: false
+created: 2026-05-14
+updated: 2026-05-14
+sources: [sources/2026-05-14-tg-rybakovigor-may06-12-2026.md]
+namespace: mkt
+---
+
+# Career-growth ≠ development — рамка карьерного декаплинга
+
+Концептуальная рамка Игоря Рыбакова, сформулированная в колонке на Дзене «Почему карьерный рост больше не выглядит как развитие» (анонс в Telegram msg 6547, 7 мая 2026, см. [[sources/2026-05-14-tg-rybakovigor-may06-12-2026]]). Рамка фиксирует **системный разрыв** между двумя ранее коупленными вещами в корпоративной экономике: **карьерным ростом** (промоция, статус, оклад, scope) и **развитием человека** (новые компетенции, расширение смысла, повышение agency). Раньше эти векторы шли вместе; теперь — расходятся.
+
+## Источник и атрибуция
+
+- **Автор:** Игорь Рыбаков (сооснователь ТехноНИКОЛЬ, Forbes RU #58, сооснователь Эквиум, основатель Рыбаков Фонда)
+- **Экспертность:** verified — 30+ лет управления крупной промышленной компанией, многократно описывал паттерны изменения корпоративной мотивации в TG-канале (см. [[evolving/content-trends/rybakov-management-narrative-hooks]] хуки #4, #5 от того же автора)
+- **Confidence:** medium — рамка сформулирована автором впервые в этой колонке, не подтверждена пока вторым голосом, но **резонирует** с независимыми сигналами (см. ниже «Триангуляция»)
+
+## Ядро рамки — два расходящихся вектора
+
+**Раньше (доминирующая модель 1990–2010-х):**
+- Промоция = больше задач + сложнее задачи + больше людей под управлением + выше оклад + выше статус
+- Это **автоматически** включало developmental upside: новые ситуации, новые навыки, новая meta-perspective
+- Career path работала как **proxy роста человека** — компании могли мотивировать развитие через возможность промоции
+
+**Сейчас (Рыбаков, май 2026):**
+- Промоция ≠ developmental upside. Часто **больше задач, но того же типа**; больше людей, но без качественного освоения; выше статус, но без новой meta-perspective
+- Сотрудник **раньше HR** чувствует это несоответствие — у него есть **внутренний смысл** промоции, которым HR не оперирует
+- Compay перестаёт собирать через карьеру **вовлеченность, силу и лояльность** — три классических HR-метрики, которые работали через promotion-incentive
+
+## Что именно сломалось
+
+Рыбаков прямо не разворачивает mechanism, но из логики выводимо:
+
+1. **AI-effect на repeat-tasks** — промоция в эпоху, когда management = «делать больше того же самого», даёт меньше развития, потому что mid-management работа стала рутинной (см. [[evolving/industry-trends/ai-replacing-jobs-global-2026]])
+2. **Flattening org-structures** — современные стартапы и tech-компании имеют меньше уровней иерархии; «промоция вверх по лестнице» физически блокирована, остаётся только промоция «по scope» (того же самого, но больше)
+3. **Multi-track careers** — сотрудник может развиваться через side-projects, AI-tooling, cross-functional moves, не привязанных к промоции (см. [[canon/target-audience/automation-eager-knowledge-worker-ru]])
+4. **Generation-shift** — сегмент 25–35 ценит **внутреннюю осмысленность** выше иерархического статуса (см. [[canon/target-audience/gro-segments]])
+
+Все четыре mechanism'а в рамку явно не входят, но рамка их **объединяет одной формулой**: то, что раньше шло вместе, расходится.
+
+## Что это значит для управления талантами
+
+**Что НЕ работает:**
+
+- ❌ Удержание через promotion-promise («через 2 года ты будешь head of»). Сотрудник скептичен и проверяет ноги обещания.
+- ❌ Вовлеченность через title-grant («ты теперь Senior Lead Manager»). Сотрудник видит, что задачи те же.
+- ❌ Лояльность через salary-progression в той же роли. Деньги ≠ смысл.
+
+**Что начинает работать:**
+
+- ✅ **Developmental incentives, не связанные с промоцией:** доступ к новым проектам, кросс-функциональные миссии, оплата обучения, время на side-projects
+- ✅ **Прозрачность смысла:** объяснение, какие задачи **действительно** меняют человека vs которые он будет делать механически
+- ✅ **Multi-track recognition:** признание развития через не-вертикальные траектории (глубина экспертизы, ширина связей, креативный вывод)
+- ✅ **Lateral mobility:** официальная возможность ходить между ролями без формального «повышения»
+
+## Применимость для GRO
+
+Рамка попадает в **target-audience inner mechanism**:
+
+### Сегмент «амбициозные» (см. [[canon/target-audience/gro-segments]])
+
+Это **главная аудитория** для рамки. Сегмент уже **чувствует** разрыв («я работаю в большой корпорации, я недавно стал senior, но что-то не то»). Рыбаков даёт **языковую рамку**, которая formalize'ит их чувство. Контент: «Ваш Senior Promotion не дал вам развития? Это не вы. Это сломалась модель.»
+
+### Сегмент «карьеристы» (см. [[canon/target-audience/gro-segments]])
+
+Резонирует с уже существующим [[evolving/content-trends/career-audience-hooks-2026]] и [[evolving/content-trends/career-quitting-signals-hook]]. Рыбаков добавляет **founder-authority** к голосам recruiter-side и job-seeker-side, которые уже зафиксированы в вики.
+
+### Сегмент «предприниматели»
+
+Используется как **operational-задача**: «как удерживать талантливых сотрудников, когда промоция перестала работать как стимул». Рыбаков сам адресует этот сегмент в колонке («время от времени в моих беседах с учениками-предпринимателями возникает одна тема»).
+
+## Тип контента, которому рамка даёт language
+
+**Контент-форматы:**
+
+1. **Counter-positioning против HR-best-practices** — «Что говорят HR-эксперты и почему это уже не работает» (тоn calm, не sneering)
+2. **Diagnostic для сотрудника** — «Признаки, что вашa промоция была статусом, а не развитием» (3–7 пунктов)
+3. **Operational-инструменты для founder'а** — «Как удерживать talents через developmental, а не promotional, инструменты»
+4. **Personal stories** — «Я стал [title], я зарабатываю больше, но...» — эта форма уже работает на vc.ru/hr (см. [[sources/2026-04-14-vc-ru-hr-labor-market-opinion]])
+
+**Связка с GRO как продуктом:**
+
+GRO как продукт **личной композитной развития** прямо встаёт на эту рамку: «когда промоция перестала собирать развитие, развитие нужно собирать самому». Утренний режим = ежедневный self-developmental signal, **независимый от promotion-цикла**. Это **продукт под decoupled-эпоху**.
+
+## Триангуляция с другими сигналами в вики
+
+Рамка Рыбакова не единственный сигнал — несколько независимых голосов фиксируют тот же разрыв с разных сторон:
+
+- **Recruiter-side:** [[sources/2026-04-14-tg-recruiter-live-career-digest]] — practical-наблюдение «72% сотрудников считают карьерную лестницу устаревшей» (Табунов пост 615, см. [[evolving-strict/market-data/solopreneur-boom-indicators-2026-q2]]) — численное подтверждение тезиса
+- **Job-seeker-side:** [[sources/2026-04-14-vc-ru-hr-labor-market-opinion]] — первое лицо: «система сломалась» (qualitative, conf:low)
+- **Corporate-side:** [[sources/2026-04-14-tg-wtf-hr-nov24-oct25]] — «junior-apprenticeship revival», «две касты работников» (corporate AI-замена)
+- **Founder-side:** этот фреймворк Рыбакова — собирает все три голоса в **единую operational-рамку**, которая legitimize'ит структурный сдвиг
+
+Рамка **усиливает** trend-кластер, не противоречит ему — это **fourth voice triangulation** (recruiter / job-seeker / corporate-HR / founder).
+
+## Поведение в стратегиях конкурентов
+
+- **hh.ru / Карьерный маркетплейс** ([[evolving/competitor-positioning/hh-ru-career-marketplace]]) — first-mover в monetization-операционализации decoupling: B2C mentor-vertical для соискателей, которым «корпоративная лестница не работает». Продаёт ровно то, что фреймворк Рыбакова описывает структурно.
+- **Solopreneur-сегмент** ([[evolving-strict/market-data/solopreneur-boom-indicators-2026-q2]]) — отказ от карьерной лестницы как mass-phenomenon: 9 цифровых индикаторов уже в Q1–Q2 2026
+- **B2B SaaS под talent-management** — рынок ещё не сформировал terminology под «developmental incentives ≠ promotion incentives». Это **language gap**, в которое GRO может зайти первой
+
+## Anti-pattern (что НЕ делать с этой рамкой)
+
+- ❌ **Применять как универсальный закон.** Рамка справедлива для knowledge-work, mid-large компаний, RU + global среды 2026. В производстве, рознице, государственном секторе классическая promotion-модель ещё держится — `[conf:medium]`
+- ❌ **Использовать в anti-corp tirad'е.** Рыбаков сам управленец крупной компании; рамка — **аналитика структурного сдвига**, не призыв уволиться
+- ❌ **Подменять рамкой «карьерный коучинг»-контент.** Это **structural-frame**, не personal-advice. Personal-frame: ваш менеджер не виноват, ваш HR не виноват, модель не работает
+- ❌ **Не цитировать политику Рыбакова** (Школа-пансион МФТИ как личный благотворительный проект — отдельная плоскость, не путать с управленческой рамкой)
+
+## Связанные страницы
+
+- [[canon/marketing-frameworks/data-illusion-management-rybakov]] — operational-рамка того же автора, в той же логике upstream-сигналов
+- [[canon/marketing-frameworks/respectable-infobiz-rybakov]] — другой operational-фреймворк того же автора
+- [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]] — рамочный фон для понимания «развитие как эволюция» vs «промоция как сделка»
+- [[canon/target-audience/automation-eager-knowledge-worker-ru]] — сегмент-носитель discrepancy
+- [[canon/target-audience/gro-segments]] — все три ЦА-сегмента resonate с рамкой
+- [[canon/target-audience/it-specialist-candidate-profile-2026]] — конкретный сегмент с самой острой decoupling-эмпирикой
+- [[evolving/content-trends/rybakov-management-narrative-hooks]] — narrative-формулировки от того же автора (хук #25 — этот фреймворк в narrative-форме)
+- [[evolving/content-trends/career-audience-hooks-2026]] — content-hooks для career-аудитории
+- [[evolving/content-trends/career-quitting-signals-hook]] — связанные сигналы decoupling в narrative-форме
+- [[evolving/competitor-positioning/hh-ru-career-marketplace]] — monetization-применение рамки
+- [[evolving-strict/market-data/solopreneur-boom-indicators-2026-q2]] — численные индикаторы decoupling
+- [[sources/2026-05-14-tg-rybakovigor-may06-12-2026]] — оригинал
+- [[sources/2026-04-14-tg-recruiter-live-career-digest]] — recruiter-side голос
+- [[sources/2026-04-14-vc-ru-hr-labor-market-opinion]] — job-seeker-side голос
+- [[sources/2026-04-14-tg-wtf-hr-nov24-oct25]] — corporate-HR-side голос
+- [[rules]] — правило expert-attribution

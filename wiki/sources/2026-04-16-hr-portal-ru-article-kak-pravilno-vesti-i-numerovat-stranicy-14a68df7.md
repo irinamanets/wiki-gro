@@ -1,0 +1,27 @@
+---
+id: mkt:sources/2026-04-16-hr-portal-ru-article-kak-pravilno-vesti-i-numerovat-stranicy-14a68df7
+title: "Как правильно вести и нумеровать страницы в книге учета движения трудовых книжек"
+type: source
+layer: sources
+theme: sources
+tags: [triaged-out]
+confidence: low
+stale: false
+created: 2026-04-16
+updated: 2026-04-16
+original: raw/processed/articles/web_hr-portal.ru_article_kak-pravilno-vesti-i-numerovat-stranicy-v-knige-uche_14a68df7.md
+namespace: mkt
+triaged: irrelevant
+---
+
+# Как правильно вести и нумеровать страницы в книге учета движения трудовых книжек
+
+## Метаданные
+- **Тип:** article
+- **Источник:** hr-portal.ru
+- **Файл:** `web_hr-portal.ru_article_kak-pravilno-vesti-i-numerovat-stranicy-v-knige-uche_14a68df7.md`
+
+## Релевантность
+**Triaged as irrelevant** (automatic, gpt-4o-mini): Тема не связана с маркетингом или бизнесом, а касается HR-процедур без контекста трендов или технологий.
+
+No relevant extractions — source-страница создана как audit-лог.

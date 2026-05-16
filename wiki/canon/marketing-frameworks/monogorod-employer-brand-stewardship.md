@@ -1,0 +1,108 @@
+---
+id: mkt:canon/marketing-frameworks/monogorod-employer-brand-stewardship
+title: "Monogorod employer-brand stewardship: company-town как long-term competitive moat"
+type: page
+subtype: concept
+layer: canon
+theme: marketing-frameworks
+tags: [frameworks, employer-brand, monogorod, company-town, ru, csr, hr-marketing, retention, sustainability, case-study]
+confidence: low
+stale: false
+created: 2026-05-06
+updated: 2026-05-06
+sources: [sources/2026-05-05-yt-ilya-solovey-severstal-history.md]
+namespace: mkt
+---
+
+# Monogorod employer-brand stewardship
+
+Pattern для **крупного индустриального employer'а в моногороде**: систематические инвестиции в городскую среду (соцпрограммы, спорт, культура, инфраструктура) воспринимаются не как «добрые дела», а как **операционная необходимость** для long-term устойчивости бизнеса. Если вокруг предприятия нет «нормальной среды», в какой-то момент начинаются проблемы с людьми, доверием и будущим. Pattern формализован по case-study Северстали (Череповец, 1990-е — настоящее), где в качестве компонентов stewardship'а реализованы:
+
+- Программа «Дорога к дому» — психологи / юристы / соц. службы для семей в сложной ситуации
+- Хоккейный клуб «Северсталь» (с 90-х; ранее — «Строитель», «Металлург»)
+- Авиакомпания «Северсталь» (вокруг аэропорта Череповца, изначально для связи с другими регионами)
+- Образовательные проекты, культурная инфраструктура
+
+`confidence: low` — pattern сформулирован по **одному case-study** (Северсталь / Череповец) из вторичного источника. Похожие patterns могут существовать у других RU-моногородов (Норильск/Норникель, Магнитогорск/ММК, Тольятти/АвтоВАЗ), но систематический сравнительный анализ не проведён. Для GRO-публикации воспроизводить с осторожностью.
+
+## Pre-condition (когда pattern применим)
+
+Pattern **не универсален**. Pre-conditions:
+
+1. **Геоspatial concentration** — большинство сотрудников живёт в одном городе и не имеют альтернативных employer'ов рядом. Это создаёт mutual dependence: компания зависит от city talent pool, city зависит от company's payroll и инфраструктуры.
+2. **Long horizon investment timeline** — не работает для start-up'ов с 3-5 летним runway. Stewardship окупается на масштабе **поколения** (15-30 лет).
+3. **Operational scale достаточный для несения CSR-cost'а** — нужно иметь EBITDA-маржу, позволяющую выделять % на города. Для Северстали это было возможно после 2000-х.
+4. **Local roots founder/CEO** — Мордашов вырос в Череповце, его мать работала на комбинате, отец — строитель. Это критично: outsider-CEO часто не «чувствует» city stewardship'а как естественную часть бизнес-логики.
+
+## Структура pattern'а
+
+### Уровень 1: базовая инфраструктура занятости
+
+Зарплаты выше среднего по региону, безопасные условия труда, корпоративные benefits (медицина, отпуск). Это **минимум**, без которого никакой stewardship не работает — сначала employer должен быть credible на базовом уровне.
+
+### Уровень 2: социальные программы для сотрудников и их семей
+
+«Дорога к дому» (Северсталь) — психологическая поддержка семей в сложной ситуации, юридические консультации, соцслужбы. Это **за рамками HR-обязанностей**, но критично для retention'а в сообществе, где альтернативного employer'а нет — если у сотрудника проблема в семье, он не уходит «к конкуренту», но **рискует выпадением из активности** на месяцы.
+
+Pattern: **invest в нерабочую сферу жизни сотрудников**, потому что в моногороде work и life не отделимы.
+
+### Уровень 3: культура и спорт как identity-якоря
+
+Хоккейный клуб «Северсталь» — пример **city-identity якоря**, который связывает employer-brand с городской культурой. Не чисто marketing, не чисто charity — это **shared identity vehicle**:
+- Сотрудники болеют за «свой» клуб (не «за компанию»)
+- Город получает identity-актив, который не зависит от employer'а напрямую
+- Brand «Северсталь» становится ассоциирован с городскими traditions, не только с заводом
+
+Параллель: культурные инвестиции (концерты, фестивали, выставки), образовательные программы (вузы, школы).
+
+### Уровень 4: инфраструктура общегородской ценности
+
+Авиакомпания «Северсталь» появилась как практическое решение: связать Череповец с другими регионами (изначально для employees, позже для всех). Это **infrastructure ownership** на уровне города — компания становится ответственной за функционирование city-systems, не только своего предприятия.
+
+Параллель: дороги, ЖКХ-инфраструктура, муниципальные сервисы, общественный транспорт.
+
+### Уровень 5: long-term programmatic giving
+
+Не charity, а **programmatic** инвестиции с измеримыми outcome'ами на 5-10-летнем horizon'е. Образование (стипендии, вузы), молодёжные программы, экологические проекты. Это формирует **future labor pool** компании на горизонте поколения.
+
+## Anti-patterns
+
+| Anti-pattern | Что произойдёт |
+|---|---|
+| Stewardship как PR-операция (без бюджета и измеримых outcome'ов) | Сотрудники и горожане видят показуху; trust подрывается, retention падает |
+| CSR в моногороде без consultation с местным сообществом | Программы не попадают в реальные нужды, becomes пустые траты |
+| Stewardship у CEO-outsider'а без local roots | Программы воспринимаются как «московская инициатива», теряют local resonance |
+| Slashing stewardship в кризис | Создаёт reputation-damage на десятилетие; в моногороде невозможно «быстро восстановить» trust |
+| Stewardship без accountability metrics | Программы дрейфуют в bureaucratic compliance, не достигают outcome'ов |
+
+## Применимость к GRO
+
+GRO **не находится** в моногороде и не является крупным industrial employer'ом. Pattern полезен для GRO как:
+
+1. **Content-frame для founder-сегмента ЦА** ([[canon/target-audience/ru-smb-founder-owner-seller]]) — если founder работает в небольшом городе, pattern даёт **template для long-term community investment'а**.
+2. **B2B-контент про employer-branding** — для разбора, как индустриальные RU-employer'ы выстраивают long-term retention через city-stewardship.
+3. **Counter-anchor против «работа = просто salary»** — pattern показывает, что в RU-индустрии employer-employee relationship глубже salary, особенно в моногородах. Это релевантно для аудиовидов про talent-attraction.
+4. **Sustainability narrative** — Северсталь как пример, что CSR — не PR, а структурный элемент бизнес-устойчивости.
+
+## Параллели в нашей вики
+
+- [[canon-strict/historical-campaigns/severstal-cherepovets-transformation]] — первоисточник pattern'а (узел 8)
+- [[canon/marketing-frameworks/employer-branding-review-funnel]] — operational employer-branding playbook (без acceleration через city-stewardship)
+- [[canon/marketing-frameworks/hr-brand-ambassador-program]] — ambassadorship как micro-уровень того, что moonolygorod делает на macro-уровне
+
+## Связанные страницы
+
+- [[canon-strict/historical-campaigns/severstal-cherepovets-transformation]] — первоисточник pattern'а
+- [[sources/2026-05-05-yt-ilya-solovey-severstal-history]] — раздел «Узел 8: моногород-стратегия»
+- [[canon/marketing-frameworks/employer-branding-review-funnel]] — обычный (не-monogorod) employer-branding
+- [[canon/target-audience/ru-smb-founder-owner-seller]] — целевая founder-аудитория
+
+## Caveat
+
+- Pattern сформулирован по **одному case-study** (Северсталь / Череповец) из вторичного источника.
+- Pattern может **не переноситься** на западные corporate stewardship-практики (где legal/regulatory framework для city investment'ов другой).
+- Соловьинская трактовка ретроспективна: возможно, **stewardship начался не как стратегия, а как path-dependency** советского комбинатского устройства, и только позже был **рационализирован** как long-term competitive moat.
+- В современной 2022+ ситуации многие моногорода РФ испытывают усиленные структурные проблемы (отток молодёжи, демография), которые могут **подмыть** работоспособность pattern'а в долгосрочном horizon'е.
+- Альтернативный фрейм: **stewardship может быть rent-seeking от государства** (компенсации регионального бюджета через CSR-обязательства) — этот вектор Соловей не разбирает.
+
+`[conf:low, src:2026-05-06]`
