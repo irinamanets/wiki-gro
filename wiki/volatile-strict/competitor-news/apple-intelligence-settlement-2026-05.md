@@ -9,8 +9,8 @@ tags: [ai, apple, legal, false-advertising, marketing-claims, settlement, class-
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-vcnews-may-5-8-2026.md]
+updated: 2026-05-14  # +TYPICAL management-angle через Jobs-1995 mental model (cross-link, отдельная page)
+sources: [sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md]
 namespace: mkt
 ---
 
@@ -45,6 +45,24 @@ Apple выплатит **$250 миллионов**, чтобы урегулир�
 - В РФ — соблюдать [[canon-strict/legal-claims]] — не обещать в маркетинговых материалах того, чего нет в текущей версии продукта.
 - В глобальной выдаче (если планируется ввод в EU/US) — **проявлять особую осторожность с AI-claim'ами**: «coach уровня PT», «персонализация на уровне врача», «adaptive program».
 
+### 2.5. Management-angle: TYPICAL связал прецедент с Jobs-1995 mental model
+
+Второй management-консалтинг (после legal angle) интерпретатор прецедента — TYPICAL Telegram-канал ([[evolving/competitor-positioning/typical-company]]) в посте 1333 (`2026-05-12`). Привязка: Apple-Siri 2026 — **30-летняя иллюстрация** mental model Стива Джобса 1995 года про rot product-culture при scaling под давлением sales/marketing-people. Подробная mental model — [[canon/marketing-frameworks/jobs-product-vs-marketing-people-1995]]. `[conf:medium, src:2026-05-12]`
+
+**TYPICAL-формула управленческой проблемы:**
+
+> Коммерческая логика доминирует над продуктовой
+> + компания оптимизирует не продукт, а ожидания вокруг него
+> + маркетинг обещает то, чего продукт ещё не умеет
+> = симптомы управленческой проблемы, когда давление роста побеждает культуру качества
+
+**Time-horizon trade-off** (TYPICAL):
+- Короткая дистанция: работает на продажи
+- Длинная дистанция: разрушает доверие → settlement / fines
+- **MVP-exemption:** «То, что прощают стартапу на этапе MVP, никогда не простят многомиллионной корпорации» `[conf:medium, src:2026-05-12]`
+
+**Импликация для GRO:** в content-маркетинге AI-claim'ов важно держать **stage-awareness** — startup vs corporate trust pass. GRO как RU-product-startup имеет MVP-exemption, но при scaling его пора будет терять и переходить на conservative claim regime.
+
 ### 3. Контекст: смена AI-стратегии Apple
 
 В тот же день — Bloomberg сообщил, что iOS 27 откроет third-party AI (Google, Anthropic) для Apple Intelligence (см. [[volatile-strict/competitor-news/apple-ios27-third-party-ai-2026]]). **Это не совпадение**: settlement и стратегический pivot — две стороны одного признания, что **Apple-собственные модели не догнали обещанное**. Юридически закрепили факт, маркетингово — открыли channel для конкурентов.
@@ -67,7 +85,10 @@ Apple выплатит **$250 миллионов**, чтобы урегулир�
 - [[volatile-strict/competitor-news/apple-ios27-third-party-ai-2026]] — pivot стратегии в тот же день
 - [[canon-strict/legal-claims]] — общая страница про legally-acceptable claims (если есть; иначе создавать)
 - [[evolving/industry-trends/ai-marketing-limits-2026]] — limits in AI-claim marketing
-- [[sources/2026-05-14-tg-vcnews-may-5-8-2026]] — первоисточник
+- [[canon/marketing-frameworks/jobs-product-vs-marketing-people-1995]] — TYPICAL mental model для интерпретации прецедента
+- [[evolving/competitor-positioning/typical-company]] — second management-консалтинг интерпретатор event'а
+- [[sources/2026-05-14-tg-vcnews-may-5-8-2026]] — первоисточник event'а
+- [[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]] — TYPICAL management-angle
 
 ## TTL
 

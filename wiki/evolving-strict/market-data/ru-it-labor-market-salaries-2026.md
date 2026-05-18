@@ -9,8 +9,8 @@ tags: [labor-market, it-salaries, devops, russia, hiring, tech-talent]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-16  # +@rb_ru post 46191 (2026-05-11): -20% IT salaries to peak, 180-220K median, 800 responses/vacancy, vacancies -30%, resumes +70%/2y
-sources: [sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-14-tg-rb-ru-may-5-13-2026.md]
+updated: 2026-05-18  # +Soulful (Drivee, Дзен Деловой Мир, май 2026): SuperJob 2025 cross-source — vacancies -12%, resumes +19% за 2025; Москва marketing/PR median +9,2%, IT +8,8% за 2025; AI specialists median 215 000 ₽ (+41% YoY, >3x рыночной)
+sources: [sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-14-tg-rb-ru-may-5-13-2026.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md]
 namespace: mkt
 ---
 
@@ -61,6 +61,26 @@ namespace: mkt
 - **IT-джуниоры** — переполнение курсами; AI «съел» 70% задач джунов в IT `[conf:medium, src:2026-05-14]`
 - **Общий дрейф**: Oracle → PostgreSQL миграция; FineBI/Яндекс DataLens заменяет Tableau
 
+## Cross-source: SuperJob 2025 (через Соулфул, Дзен Деловой Мир, май 2026)
+
+Соулфул (Drivee) в статье «Управлять не надо кричать» (Дзен, май 2026) приводит данные SuperJob по итогам 2025 года — независимое подтверждение тренда. См. [[sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026]]:
+
+| Метрика | Значение | Source |
+|---|---|---|
+| Вакансий в РФ за 2025 | **−12%** | `[conf:medium, src:2026-05-14]` |
+| Резюме в РФ за 2025 | **+19%** | `[conf:medium, src:2026-05-14]` |
+| Москва, маркетинг/реклама/PR — медиана за 2025 | **+9,2%** | `[conf:medium, src:2026-05-14]` |
+| Москва, ИТ-специалисты — медиана за 2025 | **+8,8%** | `[conf:medium, src:2026-05-14]` |
+| Медиана зарплат AI-специалистов | **215 000 ₽** | `[conf:medium, src:2026-05-14]` |
+| Рост медианы AI-специалистов за год | **+41%** | `[conf:medium, src:2026-05-14]` |
+| AI-специалисты vs медиана по рынку | **>×3** | `[conf:medium, src:2026-05-14]` |
+
+**Качественная интерпретация Соулфул:** «Деньги будут платить тем, чья квалификация создаёт реальную ценность... Деньги растут, но уже не одинаково для всех и не как автоматическая компенсация управленческого бардака».
+
+**Парадокс high-value-сегмента:** даже для AI-специалистов с +41% и медианой >×3 рынка «деньги не закрывают весь вопрос». Им важны: доступ к сильной инфраструктуре, научно-исследовательские задачи, «чистые» данные, гибридный формат, команда, пространство для экспериментов. `[conf:medium, src:2026-05-14]` — параллельный сигнал к ADP-исследованию о job-safety vs engagement multiplier.
+
+**Cross-corroboration со SuperJob-2025 vs наши предыдущие источники:** SuperJob (Соулфул) и vc.ru/Хабр-Карьера (наши предыдущие источники) приводят **разнонаправленные** тренды по IT-зарплатам для 2025 года. Хабр Карьера: ИТ медианы +2% за H1 2025 (торможение). SuperJob через Соулфул: ИТ Москва +8,8% за 2025 год. `[conf:medium, src:2026-05-14]` Resolution: **не противоречие**, разные выборки (Москва vs весь РФ, H1 vs полный год) и разные методологии (Хабр Карьера vs SuperJob). Оба сохраняем как самостоятельные точки.
+
 ## Backend-стек как сигнал рынка 2026
 
 - Go/Java — backend-стандарты для Ozon, Wildberries, банков `[conf:medium, src:2026-05-14]`
@@ -99,6 +119,7 @@ namespace: mkt
 - [[canon/target-audience/gro-segments]] — сегмент «карьеристы» с IT-overlap
 - [[sources/2026-05-14-vcru-hr-condensed-48-articles]] — первичный источник (Хабр Карьера H1 2025)
 - [[sources/2026-05-14-tg-rb-ru-may-5-13-2026]] — источник cross-confirmation (мая 2026)
+- [[sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026]] — SuperJob 2025 (Москва маркетинг/PR +9,2%, ИТ +8,8%, AI 215k +41%) `[conf:medium, src:2026-05-14]`
 - [[evolving-strict/market-data/ru-gender-pay-gap-2025]] — gender-аспект IT-зарплат (37,1% разрыв) [conf:low, src:2026-05-16]
 - [[evolving-strict/market-data/ru-layoff-disputes-2026]] — adjacent — IT/финтех/маркетинг top conflict industries
 

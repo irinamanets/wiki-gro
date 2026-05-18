@@ -9,8 +9,8 @@ tags: [product, positioning, value-proposition, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-14  # +"спорит, но не отказывает" anti-flattery anchor (Дарья testimonial, @gro_me/377), +Зарубина «сильная комбинация» рамка (@gro_me/370)
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-16-vc-ilya-domprodazh-kwork.md, sources/2026-05-05-hr-portal-focus-strategy.md, sources/2026-05-06-yt-rybakov-trump-putin-dollar.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-14-tg-gro-me-370-377.md]
+updated: 2026-05-16  # +dual-track product architecture: subscription (low-ticket) + Интенсив (high-ticket B2B)
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-16-vc-ilya-domprodazh-kwork.md, sources/2026-05-05-hr-portal-focus-strategy.md, sources/2026-05-06-yt-rybakov-trump-putin-dollar.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-14-tg-gro-me-370-377.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md]
 namespace: mkt
 ---
 
@@ -182,10 +182,28 @@ Anti-positioning GRO структурно описывается рамкой **
 
 Это даёт чистую структурную аргументацию для маркетинговых нарративов: «мы намеренно работаем в узкой нише, не пытаемся охватить весь рынок образования» — без оборонительной риторики, как принципиальный strategic choice. Подробнее про риски этого выбора (копирование, демпинг массового EdTech, под-сегментация конкурентами, вход больших платформ) и антидоты — на [[canon/marketing-frameworks/focus-strategy-porter|focus-strategy-porter]].
 
+## Двухконтурная продуктовая архитектура — импликации для позиционирования (2026-05-16)
+
+После ingest [[sources/2026-05-16-groapp-payment-intensive-tarif2|чекаута payment-intensive-tarif2]] зафиксировано: GRO существует в **двух продуктовых треках** одновременно — подписочное приложение (low-ticket, 83 ₽/день, broad-funnel) и **«Интенсив»** ([[canon/product-knowledge/gro-intensive]], 240–400 тыс. ₽, narrow-funnel, owner+CMO bundle).
+
+Это **усложняет позиционирование**, но не противоречит ему. Все 3 кита («системность», «поддержка», «свой ритм») и центральный контраст с инфо-бизнесом применимы к обоим трекам. Различие — в **способе** доставки:
+
+- **Подписка** — daily-training delivery (20 минут в день), self-paced, AI-mediated
+- **Интенсив** — cohort-based, человеко-mediated (предположительно — формат не подтверждён в источниках), focused engagement
+
+**Что это значит для маркетингового контента:**
+
+- **Core-позиционирование транслируется в оба контура**, но не одновременно в одном креативе
+- В founder-content (peer для owner-аудитории) **легитимно** упоминать интенсив; в performance-каналах подписки — **не упоминать**
+- Anti-flattery / «системность vs мотивация» / «AI + экспертиза» — universal claims, работают для обоих
+
+**Anti-pattern:** позиционировать интенсив как «подписка для тех, кто хочет больше». Это **другой продукт** для **другой аудитории**, а не tier-up. Tier-up frame обесценит подписочный оффер.
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/focus-strategy-porter]] — структурная рамка для anti-positioning GRO (differentiation focus в узкой нише)
 - [[canon/product-knowledge/gro-app-overview]]
+- [[canon/product-knowledge/gro-intensive]] — второй продуктовый трек (high-ticket B2B)
 - [[canon/target-audience/gro-segments]]
 - [[canon/product-knowledge/gro-team]]
 - [[canon/product-knowledge/gro-testimonials]]

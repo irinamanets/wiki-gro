@@ -9,8 +9,8 @@ tags: [gen-z, workforce, hr, retention, partnership-employment]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2884750-kak-rabotat-s-zumerami-sovety-po-vzaimodejstviyu-.md, sources/2026-05-05-vcru-hr-2800108-10-klyuchevykh-insaitov-o-molodom-pokolenii-dlya-.md]
+updated: 2026-05-14  # +Soulful (Drivee, Дзен Деловой Мир): расширение фрейма до 25–35 лет — «они быстрее распознают управленческую фальшь», не «слабее», а пережили несколько кризисов
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2884750-kak-rabotat-s-zumerami-sovety-po-vzaimodejstviyu-.md, sources/2026-05-05-vcru-hr-2800108-10-klyuchevykh-insaitov-o-molodom-pokolenii-dlya-.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md]
 namespace: mkt
 ---
 
@@ -62,6 +62,21 @@ namespace: mkt
 
 **70% практикующих «тихое увольнение» в РФ — старше 35 лет** `[conf:medium, src:2026-05-05]` ([[evolving-strict/market-data/employee-engagement-quiet-quitting-2026]]). Миф о том, что выгорание и low-engagement — болезнь зумеров, противоречит данным. Это важный антипаттерн для контента: не валить всё на «новое поколение».
 
+## Расширение фрейма: 25–35 лет — «распознают управленческую фальшь» (Соулфул, май 2026)
+
+Соулфул (Drivee, статья «Управлять не надо кричать» в Дзен Деловой Мир, май 2026) предлагает рассматривать как primary management-аудиторию **полосу 25–35 лет** — не только зумеров (≤27 в 2026), но и младших миллениалов. См. [[sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026]].
+
+Авторская формулировка: «Это поколение уже успело пройти несколько кризисов, смену форматов работы, удалёнку, гибрид, рост неопределённости, постоянные новости, перестройку рынков и высокую скорость технологических изменений. Они **не слабее** предыдущих поколений. Они просто **быстрее распознают управленческую фальшь**».
+
+Что это значит структурно:
+
+- **«Они не против требований — они против абьюза под видом требований»**
+- **«Не против дедлайнов в принципе — против дедлайнов, которые ставятся без логики»**
+- **«Не против обратной связи — против унижения, завернутого в слова „я просто честный“»**
+- **«Не против лояльности — против лояльности, которую требуют, ничего не предлагая взамен»**
+
+**Импликация для GRO-контента:** не сужать management-аудиторию до «как работать с зумерами» — это слишком узко. Полоса 25–35 — крупнее, кошельковее, лояльнее, при этом разделяет тот же ценностный фрейм. Дополнительный hook-источник [[canon/marketing-frameworks/management-styles-2026-soulful]].
+
 ## Импликации для GRO-маркетинга
 
 1. **Сегмент 1 GRO (карьеристы / молодые профессионалы):** значительная часть — зумеры. Контент для них должен говорить про **смысл и партнёрство**, а не про «карьерную лестницу». GRO как self-management-инструмент попадает в нарратив «строй свою карьеру партнёрски, не ждя разрешения системы».
@@ -75,8 +90,10 @@ namespace: mkt
 - [[evolving-strict/market-data/employee-engagement-quiet-quitting-2026]] — Gallup и российские данные по «тихому увольнению»
 - [[evolving/content-trends/employee-content-employer-trust-2026]] — соцсети сотрудников как HR-канал, особенно важно для зумеров
 - [[evolving/industry-trends/ru-labor-market-employer-turn-2026]] — макро-разворот рынка труда
+- [[canon/marketing-frameworks/management-styles-2026-soulful]] — Соулфул-фрейм, primary content-hook на 25-35-летнюю полосу
 - [[canon/target-audience/gro-segments]] — три сегмента ЦА
 - [[sources/2026-05-05-vc-ru-condensed]] — источник
+- [[sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026]] — Соулфул (Drivee) — расширение фрейма до 25-35
 
 ## Backlinks
 

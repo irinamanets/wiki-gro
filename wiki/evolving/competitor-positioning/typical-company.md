@@ -9,8 +9,8 @@ tags: [competitor, indirect-competitor, management, paid-community, telegram, co
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06  # +Continuity-update от re-dump 2026-05-05: 10-недельный content-pause Mar–May, единственный новый пост 1330 фиксирует AI-productivity нарратив как новую тему канала
-sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md]
+updated: 2026-05-18  # +Continuity-update mini-dump 2026-05-16: AI-нарратив pivot 1→2 фаза (risk discipline) — 6 рисков AI + dual-CEO OpenAI; см. также +Третий ingest 6-12 мая (cadence восстановлен, productized lestница раскрыта)
+sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md]
 namespace: mkt
 ---
 
@@ -41,7 +41,7 @@ Self-description из поста 1323 (`2026-02-19`):
 | Free | Telegram-канал @typicalcompany | Educational posts 2–3 раза/нед, аудио-лекции, видео-интервью, карусели | 0 ₽ | весь дамп |
 | Low/Mid-ticket | Интенсив **«системное управление командой»** (typical.company/education/intensive) | Онлайн-интенсив, формат не детализирован | не раскрыта, но есть post-course testimonials | 1303 (Николай Шейко как приглашённый preпод на воркшоп), 1329 (UGC-testimonial) |
 | **Recurring / Main product** | **Платная группа «современных руководителей»** (typical.company/group) | Закрытое сообщество, двухнедельные тематические спринты, менеджмент-сессии раз в 2 недели, audio/video/workshop-материалы, митапы в парах, отбор на входе | не раскрыта | ≥12 постов — 1275, 1286, 1293, 1299, 1303, 1304, 1314, 1316, 1317, 1321 — все с uniform UTM `utm_source=tgtypical&utm_medium=organic&utm_id=recVLdlAhUo6L9FGK&utm_campaign=managers_group_launch_10_11` |
-| Consulting/enterprise | Оценка топ-менеджмента и борда, найм-системы, развитие, мотивация, масштабирование команд | Консалтинговые проекты | не раскрыта | self-description в 1323 |
+| Consulting/enterprise | **3 productized услуги** (раскрыты в посте 1331 от `2026-05-06`): **Чек-ап организации** (диагностика причин+роадмап) / **Разработка системы управления** (оргструктура+цели+метрики до C-level −2) / **Оценка команды или борда** (по каждому человеку+командная динамика). Подробно — [[canon/marketing-frameworks/typical-productized-services-pivot]] | Консалтинговые проекты с фиксированным deliverable | не раскрыта | self-description в 1323, эволюция к productized — в 1331 |
 
 **Ключевое наблюдение о воронке.** Группа — это **main recurring revenue product**. Весь канал конструктивно спроектирован как lead-magnet funnel к ней: каждая тематическая серия (PCM, cognitive biases, performance management, feedback, etc.) служит «трейлером» того, что обсуждается внутри закрытой группы. UTM-campaign `managers_group_launch_10_11` указывает, что launch этого продукта начался ~октябрь-ноябрь 2025 и activation-период продолжался минимум до марта 2026 — 4-месячный лонг-лаунч.
 
@@ -139,6 +139,56 @@ TYPICAL позиционируется как «человеко-centric» manag
 - **Что это меняет в profile.** Confidence-уровень profile поднят с **`medium → medium-stable`**: continuity через 3 недели с теми же позиционными блоками (community-first, anti-business-school, personal voice + collective brand) подтверждает, что наблюдённые паттерны — устойчивая стратегия, а не одноразовая тактика лаунч-окна.
 - **Watchlist на следующий ingest:** (а) продолжается ли AI-productivity нарратив; (б) появляются ли новые UTM-кампании после `managers_group_launch_10_11`; (в) меняется ли голос ведущей.
 
+## Continuity-update (третий ingest 6-12 мая 2026)
+
+Через ~9 дней после re-dump 2026-05-05 — третий дамп с окном 6-12 мая ([[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]]), 3 поста (`1331..1333`) + 1 видео-вложение. Ключевые наблюдения:
+
+- **Cadence восстановлен.** 3 поста за 6 дней (6/8/12 мая) после 10-недельной паузы — это вернувшийся ритм ~2-3 поста/неделя, наблюдавшийся в окне ноябрь 2025 — февраль 2026. Watchlist-пункт (б) **закрыт**: cadence норма.
+- **AI-narrative — confirmed.** Все 3 поста — на AI-themes:
+  - 1331 — productized services pivot, **активирует** «более быстрые проекты, AI-усиленная экзекьюшен»
+  - 1332 — прямо operational AI-рамка (3 рычага + 3-repeat rule + 6 use-cases)
+  - 1333 — Apple-Siri как иллюстрация growth-vs-craft tension через Jobs-1995 mental model
+- **Раскрыта продуктовая лестница точнее.** Пост 1331 — первая прямая self-disclosure 3 productized услуг (Чек-ап / Разработка системы / Оценка команды). До этого мы видели только лестницу из «канал → интенсив → платная группа → консалтинг», и в строке «Consulting/enterprise» было только self-description общими словами. Теперь structure consulting-блока **раскрыта в 3 узких продукта** с фиксированным trigger и deliverable. Полная рамка — [[canon/marketing-frameworks/typical-productized-services-pivot]].
+- **Productized + group — не альтернативы, а параллельные tier'ы.** Из новых данных следует, что UTM-кампания `managers_group_launch_10_11` (recurring product) **не была** единственной фокусной инвестицией TYPICAL — параллельно жил консалтинговый блок, теперь он сам перепродуктизирован. Это уточняет product-mix: TYPICAL имеет **двойной recurring engine** (community subscriptions + project-based productized services), а не один.
+- **2 новых canonical рамки от TYPICAL.** Этот ingest впервые даёт TYPICAL **2 reusable management frameworks**, оба создаются в canon:
+  - [[canon/marketing-frameworks/ai-productivity-3-levers-typical]] — operational counterpart к 3-shifts
+  - [[canon/marketing-frameworks/jobs-product-vs-marketing-people-1995]] — TYPICAL не автор, но они переоткрыли mental model для 2026-контекста
+- **Personal voice — продолжается.** Все 3 поста — характерный мягко-экспертный tone ведущей (личные местоимения «мы», self-disclosure «мы перестали», полусаркастический «надеемся, саммари все делают»). Watchlist-пункт (в) **закрыт**: голос ведущей не меняется.
+- **Confidence-уровень profile повышен.** С `medium-stable` → **`medium-strong`**: третий ingest за месяц подтверждает не только устойчивость наблюдённых паттернов, но и эволюционирующее раскрытие новых слоёв (3 productized услуги были скрыты в первом и втором ingest, открылись в третьем).
+- **Watchlist обновлён:**
+  - (а) Продолжается ли AI-narrative и **углубляется** ли он в operational детали (как пост 1332)? Или остаётся на mental-model уровне (как 1333)?
+  - (б) Появятся ли case-studies клиентов 3 productized услуг (которые подтвердят, что эти продукты живут не только в маркетинге)?
+  - (в) Будет ли отдельный launch-цикл productized services с UTM-кампанией?
+  - (г) Откроется ли публично pricing 3 productized услуг?
+
+## Continuity-update (mini-dump 2026-05-16)
+
+Через 11 дней после предыдущего ingest ([[sources/2026-05-05-tg-typicalcompany-may-2026-redump]]) сделан мини-дамп ([[sources/2026-05-16-tg-typicalcompany-may-14-15-2026]]) с двумя новыми постами (id 1335..1336). Это резко меняет диагноз continuity vs изоляция:
+
+- **Канал возобновил регулярную публикацию.** За 11 дней — три поста (1330 → 1335 → 1336). Гипотеза «канал в полном content-pause после `managers_group_launch_10_11`» **снята**. TYPICAL вернулся к публичной content-стратегии, и теперь публикует ~2-3 поста в неделю — близко к ноябрь-февраль 2025 ритму.
+
+- **AI-нарратив pivot во 2-ю фазу: от upside к risk discipline.** Это **самое значимое наблюдение** этого ingest. За 11 дней канал прошёл:
+  - **1330 (4 мая):** AI-productivity upside (Anthropic $5,6M revenue/empl., 3-shift framework)
+  - **1335 (14 мая):** AI-management risks (6 рисков на базе Anthropic 81k research). См. [[canon/marketing-frameworks/typical-six-ai-management-risks|каноническая рамка 6 рисков]].
+  - **1336 (15 мая):** dual-CEO case-study (Альтман vs Симо разделение управленческих контуров). См. [[canon/marketing-frameworks/openai-dual-ceo-management-contours|каноническая рамка контуров]].
+
+  Это **классический pattern перехода во 2-ю фазу нарратива**. Подробно — [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026]]. TYPICAL **первый из RU management-каналов**, кто сделал этот pivot открыто.
+
+- **Что это меняет для GRO-positioning.** Если TYPICAL сместился в risk-discipline (продаёт **дисциплину AI-использования** через 6-рамку), это:
+  - **Сближает** позицию TYPICAL с GRO ещё сильнее (оба теперь продают «системность AI-использования», не просто «продуктивность»)
+  - **Открывает место** для GRO-content thread «6 рисков — общая проблема, GRO решает 2 структурно» (#2 скрытая зависимость, #6 асимметрия компетенций — см. [[canon/marketing-frameworks/typical-six-ai-management-risks|рамка]] для деталей)
+  - **Делает TYPICAL** теперь не просто tracking-reference, но **content-collaborator** в одном narrative-стейдже
+
+- **Воспроизведение content-форматов continues.** Карусели TYPICAL (которые мы видели в [[sources/2026-04-14-tg-typicalcompany-nov25-mar26]]) в этом mini-dump'е не появились — оба поста были text-only (с одним прикреплённым slope-chart`ом из Anthropic research). Возможно, dialed-down визуальная нагрузка после launch-окна — нормальное mid-cycle поведение.
+
+- **Confidence-уровень profile** поднят до **`medium-high`**: continuity через 11 дней с теми же позиционными блоками (community-first, anti-business-school, personal voice + collective brand) + content-evolution (1-я → 2-я фаза AI-нарратива) подтверждает зрелую content-стратегию, а не ad-hoc лаунч-кампанию.
+
+- **Watchlist на следующий ingest:**
+  - (а) Продолжается ли risk-discipline нарратив (3-4 поста за 2 недели) или это был temporary pivot?
+  - (б) Появляется ли своя rubric (TYPICAL Manage AI risks framework, brand-canonical) или продолжают base'иться на чужих research'ах (Anthropic, WSJ)?
+  - (в) Появляется ли отсылка к собственному продукту в risk-context (то есть «приходите в группу — там разбираем эти 6 рисков»)?
+  - (г) Заходит ли voice ведущей в эту тему так же, как в emotional labour / cognitive biases — то есть, удержится ли personal voice при сложной AI-тематике, или перейдёт в более impersonal explanatory tone?
+
 ## Contradictions
 
 _Нет зафиксированных противоречий._
@@ -151,10 +201,13 @@ _Нет зафиксированных противоречий._
 
 ## Backlinks
 
-_10 pages link to this one._
+_13 pages link to this one._
 
+- [[canon/marketing-frameworks/ai-productivity-3-levers-typical]]
 - [[canon/marketing-frameworks/ai-productivity-3-shifts-typical]]
 - [[canon/marketing-frameworks/blue-ocean-strategy-anti-pattern]]
+- [[canon/marketing-frameworks/jobs-product-vs-marketing-people-1995]]
+- [[canon/marketing-frameworks/typical-productized-services-pivot]]
 - [[evolving-strict/competitor-metrics/glority-global-paint-by-numbers-publisher]]
 - [[evolving/content-trends/ai-agents-demand-hooks-2026]]
 - [[evolving/content-trends/telegram-native-formats]]
@@ -163,3 +216,4 @@ _10 pages link to this one._
 - [[sources/2026-04-14-tg-typicalcompany-nov25-mar26]]
 - [[sources/2026-05-05-tg-typicalcompany-may-2026-redump]]
 - [[sources/2026-05-05-tg-your-pet-project-feb-may-2026]]
+- [[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]]

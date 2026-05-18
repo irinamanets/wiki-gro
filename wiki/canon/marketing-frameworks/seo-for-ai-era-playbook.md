@@ -5,12 +5,12 @@ type: page
 subtype: concept
 layer: canon
 theme: marketing-frameworks
-tags: [seo, ai, content, pr, geo, aeo, faq-schema, llms-txt, robots-txt]
+tags: [seo, ai, content, pr, geo, aeo, faq-schema, llms-txt, robots-txt, e-e-a-t, entity, vector-search]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-14
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-solokumi-may-2026.md]
+updated: 2026-05-18  # +Pressfeed «13 кейсов» (май 2026): E-E-A-T через профили экспертов, ENTITY/vector-search механика, LLM-friendly видео-транскрипция
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md]
 namespace: mkt
 ---
 
@@ -58,6 +58,39 @@ Schema.org / JSON-LD с тегами:
 - **Следующие 30% страницы** — самая ценная плотность фактов и ссылок
 - **Остаток (70%)** — расширения, кейсы, FAQ, технические детали
 
+## E-E-A-T через профили экспертов с верифицированными материалами
+
+Дополнение из [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation|Pressfeed 13 кейсов]] (май 2026, туроператорский маркетплейс):
+
+> «Параллельно мы усилили E-E-A-T, создавая профили экспертов с привязкой к верифицированным материалам, чтобы на нас ссылались внешние медиа и отраслевые авторы.»
+
+**Шаблон E-E-A-T-якоря на сайте:**
+
+Создать отдельные страницы-профили для каждого ключевого эксперта компании:
+
+- Биография (с релевантными деталями, не "20 лет в digital")
+- Список публикаций с обратными ссылками на оригиналы
+- Спикерские выступления (видео + транскрипция, см. ниже про видео-механику)
+- Сертификаты / профессиональная экспертиза
+- Авторские страницы / колонки на корпоративном сайте
+
+Это **не** футер «команда». Это полноценные lifelong-страницы, которые могут цитироваться внешними медиа. Дополнительно — Schema.org `Person` markup для каждого профиля.
+
+## ENTITY и векторная близость как новый слой семантики
+
+> «Сюда можно добавить столь нашумевшие термины, как ENTITY (сущности) и векторную близость. И это действительно работает. И классический поиск, и нейросети воспринимают контент более комплексно.»
+
+Это **сдвиг** от keyword-research к **семантическим полям**: вместо «20 ключей по объёму» — карта 200+ связанных сущностей и фраз вокруг основной темы. Каждая страница покрывает не одну фразу, а **поле связанных сущностей**.
+
+**Инструменты RU-практиков** (на май 2026):
+- Собственные NLP-сервисы для подбора сущностей (упоминается агентство с заявкой +3× к цитируемости `[conf:low, src:2026-05-18]`)
+- Wordstat + Google Trends для широких ключей (RU практик из Pressfeed: добавляет ключи через эти 2 инструмента + пересматривает структуру под «плюсы и минусы», «отзывы», «рекомендации»)
+- Прямая работа с эмбеддингами для проверки векторной близости
+
+## LLM-friendly HTML для видеоконтента
+
+Отдельная техника, описана в [[canon/marketing-frameworks/llm-friendly-video-transcription]]. Главное: встраивать **скрытую** HTML-транскрипцию видео в код страницы, чтобы AI-краулеры могли индексировать содержание ролика как текст.
+
 ## SEO для внешних публикаций в СМИ
 
 - Основной источник трафика для не-новостных медиа -- органический поиск
@@ -70,6 +103,10 @@ Schema.org / JSON-LD с тегами:
 - [[canon/marketing-frameworks/native-advertising]] -- нативные публикации как SEO-инструмент
 - [[evolving/content-trends/ai-in-pr-workflows-2026]] -- AI-инструменты в PR
 - [[evolving-strict/campaign-metrics/pressfeed-pr-cases-2026]] -- кейс THERMAGENT с SEO на внешних площадках
+- [[canon/marketing-frameworks/llm-friendly-video-transcription]] -- видео-механика
+- [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]] -- RU practitioner-консенсус
+- [[evolving/industry-trends/seo-to-pr-substitution-2026]] -- сдвиг SEO→PR в эру нейропоиска
+- [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] -- источник 13 RU-кейсов май 2026
 
 ## Backlinks
 

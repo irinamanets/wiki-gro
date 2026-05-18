@@ -9,14 +9,16 @@ tags: [product, pricing, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-04-10
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-appstore-listing.md, sources/2026-04-10-gro-googleplay-listing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-10-gro-lk-auth.md]
+updated: 2026-05-16  # +intensive track: 240k/400k ₽ tariff-2 (founder vs founder+CMO)
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-appstore-listing.md, sources/2026-04-10-gro-googleplay-listing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-10-gro-lk-auth.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md]
 namespace: mkt
 ---
 
 # GRO — публичная цена и промо-оффер
 
 Срез публичного ценообразования GRO по состоянию на 2026-04-10. Три first-party источника: [[sources/2026-04-10-groapp-landing|лендинг groapp.ru]] (day-rate подача), [[sources/2026-04-10-gro-appstore-listing|листинг в App Store iOS]] (точные IAP per-SKU) и [[sources/2026-04-10-gro-googleplay-listing|листинг в Google Play]] (агрегированный IAP-диапазон, подтверждающий оба SKU). Это каноническая точка отсчёта для маркетингового контента: цифры, которые можно цитировать в креативах, постах и рассылках, поступают отсюда.
+
+**Важно (2026-05-16):** эта страница описывает **подписочный контур** (low-ticket, broad-funnel). У GRO существует **второй ценовой контур — «Интенсив»** (high-ticket, narrow-funnel), 240 000–400 000 ₽ за тариф. Полностью отдельный продукт, отдельная аудитория, отдельная checkout-страница. Описание: [[canon/product-knowledge/gro-intensive]]. Эти два контура — **не альтернативы**, а разные продуктовые треки с разной экономикой. **Не миксовать в одном креативе** — см. раздел «Антипаттерны контентной подачи» в [[canon/product-knowledge/gro-intensive]].
 
 ## Оффер на лендинге
 
@@ -63,9 +65,29 @@ namespace: mkt
 - **Не цитируй 249 ₽ как «обычную цену» без уточнения** — лендинг использует её как anchor, а не как реальный sold-rate. Иначе это риск с точки зрения [[canon-strict/legal-claims/ad-marking-russia-2026|маркировки рекламы и правдивости цен]] в РФ.
 - Day-rate подача («83 ₽ в день») — сильный psychological anchor, удобно использовать в сравнении «дешевле чашки кофе» (это обычная формула, под которую цена и подбирается).
 
+## Второй ценовой контур — «Интенсив» (high-ticket B2B)
+
+По [[sources/2026-05-16-groapp-payment-intensive-tarif2|чекауту payment-intensive-tarif2]] зафиксирован отдельный продуктовый трек GRO — **«Интенсив»** с тарифной серией `tarif1...tarifN`. Конкретный «Тариф 2» имеет две ценовые точки:
+
+- «Иду один» — **240 000 ₽** `[conf:high, src:2026-05-16]`
+- «Иду с директором по маркетингу» — **400 000 ₽** `[conf:high, src:2026-05-16]`
+
+**Это не альтернатива подписке**, а отдельный продукт для другого ICP (см. [[canon/product-knowledge/gro-intensive]]):
+- Подписка — broad-funnel low-ticket (~2 490 ₽/мес), все три сегмента из [[canon/target-audience/gro-segments]]
+- Интенсив — narrow-funnel high-ticket (240–400k ₽), owner SMB с маркетинговой функцией (founder + CMO bundle)
+
+**Структура «Тарифа 1» и других тарифов на 2026-05-16 не зафиксирована** — известна только «Тарифа 2».
+
+### Как это использовать в контенте
+
+- **Не цитировать** цены интенсива в креативах подписки — это разные продукты для разных аудиторий. Mix ломает обе подачи.
+- **Не использовать** «240 000 ₽» как hero-anchor в широком funnel — высокая цена отпугнёт low-ticket аудиторию ещё до того, как они поймут, что это другой продукт.
+- Интенсив-аудиторию вести через **founder-content** ([[sources/2026-05-12-tg-gro-me-channel-dump|@gro_me]], blog), не через performance-каналы подписки.
+
 ## Связанные страницы
 
 - [[canon/product-knowledge/gro-app-overview]] — обзор продукта, механика 4 шагов
+- [[canon/product-knowledge/gro-intensive]] — второй продуктовый трек GRO (high-ticket B2B), 240–400k ₽
 - [[canon/product-knowledge/gro-app-store-listing]] — листинг iOS, откуда взяты точные цифры IAP
 - [[canon/product-knowledge/gro-google-play-listing]] — листинг Android (Google Play), дающий кросс-платформенное подтверждение IAP-диапазона
 - [[canon/product-knowledge/gro-rustore-listing]] — листинг Android (RuStore), который цен не раскрывает, но и не противоречит каноне

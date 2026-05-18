@@ -9,8 +9,8 @@ tags: [product, target-audience, jtbd, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-14  # +Виктор Николаевич (vc.ru/story condensed) — cautionary-tale narrative для Сегмента 2 про вход без подушки безопасности
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-viktor-nikolaevich.md]
+updated: 2026-05-16  # +intensive checkout: founder+CMO buyer-pair pattern для high-ticket B2B sub-segment в Сегменте 2
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-viktor-nikolaevich.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md]
 namespace: mkt
 ---
 
@@ -207,6 +207,46 @@ Late-starter founder — устойчивый под-архетип, релев�
 
 Полные данные: [[evolving-strict/market-data/ru-performance-review-adoption-2025]].
 
+## Сегмент 2 — high-ticket sub-segment: founder + CMO bundle (intensive checkout 2026-05-16)
+
+По [[sources/2026-05-16-groapp-payment-intensive-tarif2|чекауту payment-intensive-tarif2]] подтверждено существование **отдельного narrow sub-сегмента** внутри Сегмента 2 (предприниматели в росте) — high-ticket B2B-buyer для отдельного продукта [[canon/product-knowledge/gro-intensive|«Интенсив»]] GRO.
+
+**Profile (отличается от broad Сегмента 2):**
+
+- Owner SMB (CEO/founder) с уже **выделенной маркетинговой функцией** в команде (директор по маркетингу/CMO/руководитель маркетинга — должность называется в чекауте дословно)
+- Покупательная способность: **240 000 ₽ solo, 400 000 ₽ за себя + CMO bundle**. Это не вписывается в low-ticket subscription-аудиторию ГРО, это отдельная компания/продукт «Интенсив»
+- Структурный сигнал зрелости: маркетинг уже **выделен в роль** (не founder-solo, у которого маркетинг — одна из 10 функций)
+- Buy-mode: owner покупает **обучение себе + правой руке вместе** — то есть это про усиление tandem'а, а не про самообразование одного человека
+
+**Buyer-pair pattern (новый для marketing-memory):**
+
+Формулировка чекаута — «Иду один» vs «Иду **с директором по маркетингу**» — явный pair-pattern. Это не «командное обучение» abstract, это **owner+CMO** конкретно. Имплицирует:
+
+- Решение принимает **owner** (он «идёт»), CMO — добавляется к его покупке
+- CMO платит **не сам** (это не peer-разделение цены, это owner покрывает оба seat'а)
+- Бандл — про **alignment между decision-maker и executor**: owner+CMO выходят из программы с общим языком и общими решениями (vs solo-owner, который приходит с решениями к команде, которая «не в контексте»)
+
+**JTBD pair-buyer'а:** «Помоги нам с CMO выйти из режима, когда я диктую решения, а команда их перевыполняет/недоделывает — построим вместе систему, в которой мы согласованно тянем маркетинг как функцию».
+
+**Что это значит для маркетинга:**
+
+- **Контент:** для этого sub-сегмента — не подписочный low-ticket нарратив («83 ₽/день, тренируйся 20 минут»), а enterprise-style **«как выровнять founder и CMO»**, «как перевести marketing function из исполнительной в стратегическую», «как избежать ситуации «директор по маркетингу делает не то»
+- **Канал:** founder-content от Лапшиной и founder-команды на @gro_me и blog (peer-content для owners). Performance-каналы подписки — не работают для high-ticket
+- **Anti-pattern:** «иди на интенсив с CMO» **не подавать как** team-building. Это про work-alignment, а не teambuilding. Эмоциональный регистр — рабочий, не «давайте сходим вместе на тренинг»
+- **Social proof gap:** на 2026-05-16 в [[canon/product-knowledge/gro-testimonials|publish-готовых testimonials]] нет owner+CMO кейсов. Приоритет на сбор отзывов именно от bundle-покупателей
+
+**Связь с другими страницами:**
+
+- [[canon/product-knowledge/gro-intensive]] — описание продукта-интенсива, его экономики и checkout
+- [[canon/product-knowledge/gro-pricing]] — раздел «Второй ценовой контур»
+- [[canon/marketing-frameworks/premium-perception-through-price]] — high-ticket pricing как сигнал
+- Сегмент 2 (выше) — broad-funnel предприниматели; intensive sub-segment — narrow zoom этой же когорты с условием «есть выделенный CMO»
+
+**Что неизвестно:**
+
+- **Бренд-fit с другими функциями.** Существуют ли тарифы «иду с COO», «иду с CFO», «иду с CTO» — checkout-серия `tarif1...tarifN` это допускает, но на 2026-05-16 не подтверждено
+- **Размер компании покупателя** — выделенная маркетинговая функция типично начинается с команды 10+ человек, но точного критерия из источника нет
+
 ## Сегмент 2 — cautionary tale: малый бизнес 90-х без подушки безопасности (vc.ru/story 2026-05-14)
 
 Добавлено после ingest [[sources/2026-05-14-vc-story-viktor-nikolaevich|vc.ru/story — кейс Виктора Николаевича]] (condensed: [[sources/2026-05-14-condense-web-vc-ru-story]]):
@@ -264,3 +304,4 @@ Late-starter founder — устойчивый под-архетип, релев�
 - [[evolving/content-trends/founder-expert-hook-family-vcru]] — Дель-декларация канала (success-side Сегмента 2) + кейс-разбор формат как контент-template
 - [[canon/marketing-frameworks/honeycup-plg-programmatic-seo-2026]] — narrative anchor Сегментам 1-2 «founder с ежедневными итерациями достиг 7250 турниров без бюджета»
 - [[canon/marketing-frameworks/employment-vs-business-default-choice-tokovinin]] — Tokovinin default + Виктор-Николаевич кейс как operational доказательство
+- [[canon/product-knowledge/gro-intensive]] — high-ticket sub-сегмент Сегмента 2 (owner+CMO bundle для интенсива)

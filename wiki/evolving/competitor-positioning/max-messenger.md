@@ -9,8 +9,8 @@ tags: [competitor, max, messenger, russia]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-14  # +@moibiz 7486 (2026-05-07): DAU >85 млн (рост +5 млн за месяц), 150 тыс. чат-ботов запущено бизнесом; +@moibiz 7531: запуск комментариев и историй для пользователей в roadmap
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-tg-founderwoman-feb-apr-2026.md, sources/2026-04-14-tg-bezsmuzi-apr-12-14.md, sources/2026-04-14-tg-cossaru-apr-3-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-fomichevkirill-feb-apr-2026.md, sources/2026-04-14-tg-forbesrussia-apr-13-14.md, sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-14-tg-hh-ru-official-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-14-tg-selfworkru-mar-apr-2026.md, sources/2026-04-14-tg-sergei-ivanov-efko-mar-apr-2026.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-14-tg-vcnews-apr-10-14.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-services-2911500-funktsiya-rasshifrovki-videokruzhkov-v-mess.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-05-tg-studentsuper-redump-mar-apr-2026.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-14-tg-moibiz-may-5-14-2026.md]
+updated: 2026-05-18  # +pressfeed 14 cases (2026-05-18): Mediascope 61,5 млн (mar 2026, +43,6% от dec 2025); CPA ЭКО 244 ₽/sub vs TG-paritet; 5-bot/ЮЛ лимит; +40% Q1 спрос на ботов; 30% брендов готовы к channel-migration из лендингов; Thai Traditions B2B-как-Slack; +6 новых behavioral-сигналов от Pressfeed-14
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-tg-founderwoman-feb-apr-2026.md, sources/2026-04-14-tg-bezsmuzi-apr-12-14.md, sources/2026-04-14-tg-cossaru-apr-3-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-fomichevkirill-feb-apr-2026.md, sources/2026-04-14-tg-forbesrussia-apr-13-14.md, sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-14-tg-hh-ru-official-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-14-tg-selfworkru-mar-apr-2026.md, sources/2026-04-14-tg-sergei-ivanov-efko-mar-apr-2026.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-14-tg-vcnews-apr-10-14.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-services-2911500-funktsiya-rasshifrovki-videokruzhkov-v-mess.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-05-tg-studentsuper-redump-mar-apr-2026.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-14-tg-moibiz-may-5-14-2026.md, sources/2026-05-18-pressfeed-14-max-cases.md]
 namespace: mkt
 ---
 
@@ -505,6 +505,53 @@ Cossa.ru ([trends/348199](https://www.cossa.ru/trends/348199/)) опублико
 
 К первому дню рождения MAX официальный канал-для-авторов запустил конкурс с призом **5 брендированных термокружек**. Набрано 3600+ участников. На момент подведения итогов (2026-04-06 12:00 МСК) **бот/мессенджер сбойнул**: десятки лишних уведомлений о результатах, всё пришлось удалять. Конкурсные посты и результаты удалены. Механика конкурса также слабее Telegram-аналога: в MAX кнопка «участвовать» есть только в оригинальном посте подборки, остальные каналы ссылаются на него. Источник: [[sources/2026-04-14-tg-dnative-digest-7497-7546]] сообщения 7523–7526. Маркетинговое следствие: giveaway-кампании в MAX преждевременны даже для официальных размещений, GRO не рекомендуется тестировать формат в ближайшие 3–6 месяцев.
 
+### Pressfeed-14 — meta-сигнал отраслевой компиляции (2026-05-18)
+
+Pressfeed.Журнал ([[sources/2026-05-18-pressfeed-14-max-cases]]) опубликовал в мае 2026 редакционную подборку из **14 экспертных кейсов** освоения MAX. Уникальная ценность этого источника — **отраслевая компиляция через PR-платформу**: 14 независимых практикующих маркетологов, основателей агентств и брендов одновременно описывают свой опыт работы с MAX. Это не один автор и не одна вертикаль — это **массовый snapshot RU-маркетингового сообщества** через первичный PR-журнал.
+
+**Ключевые quantitative-сигналы из Pressfeed-14:**
+
+- **Mediascope (через trendz-агентство): MAX март 2026 — 61,5 млн россиян, +43,6% к декабрю 2025** `[conf:high, src:2026-05-18]`. Эта цифра **ниже** vc.ru (apr 110M reg / 80M DAU) и moibiz (may 85M DAU), что согласуется как «monthly reach» vs «DAU». Mediascope как первоисточник делает эту цифру **наиболее надёжным reference-числом** для marketing-pитчей в Q2 2026.
+- **CPA в Max сопоставима с Telegram** для ниши «здоровье / материнство»: клиника ЭКО — **20 000 ₽ → 82 подписчика → 244 ₽** `[conf:high, src:2026-05-18]`. Это **первое publicly-cited measurable CPA для B2C-ниши в MAX через стандартную закупку рекламы** (внутри MAX, не Telega.in performance). Соответствует Petrochenkov 80–150 ₽ для B2B (см. секцию выше) и подтверждает **CPA-конвергенцию с Telegram**.
+- **+40% спроса на боты в MAX в Q1 2026** (trendz-агентство): ранее 80% проектов = TG-боты, сейчас **MAX как обязательное дополнение** или альтернатива вебу `[conf:high, src:2026-05-18]`.
+- **Только 1 из 3 опрошенных брендов** реально планирует разработку в MAX `[conf:high, src:2026-05-18]`. **20% DAU** реально пользуется аудитория компаний (разрыв вовлечённости).
+- **30% крупных брендов** готовы полностью уходить из лендингов в мессенджеры `[conf:high, src:2026-05-18]`. Это **новый структурный нарратив 2026** — массовая миграция front-end-сценариев из вебсайтов в мессенджеры. Зависит от bot/mini-app инфраструктуры.
+
+**Operational constraint впервые publicly зафиксирован:** в Max **лимит 5 ботов на 1 юр.лицо** `[conf:high, src:2026-05-18]`. Критично для агентств с множественными клиентами. Также: формально рассылки через ботов запрещены, нет способа проверять подписку через бота. Это **operational guideline** для GRO при планировании bot-инфраструктуры в MAX — отдельное юр.лицо может обслужить до 5 клиентских ботов.
+
+**Конверсия Telegram→MAX — спектр 0,9% — 40%:**
+
+| Источник | TG база | Перешло в MAX | % | Тип призыва |
+|---|---|---|---|---|
+| МПГО (агентство-тест) | 80 000 | 720 | 0,9% | мягкие |
+| ОТВЕТО (агентство-тест) | 1 700 | 138 | 8,1% | мягкие |
+| NordBox (стройбизнес) | (актив.) | ~10% | 10% | пассивный |
+| Автор-блог (январь→май) | 9 000 | 500 | 5,5% | анонсы+сторис |
+| Бакалажан TG (агентство, e-commerce) | — | 20–40% актив. ядра | 20–40% | регулярная коммуникация |
+
+`[conf:high, src:2026-05-18]`. **Рамка:** конверсия зависит от интенсивности промо в источнике. Без активной агитации — 5–10% (cold-standby); с регулярными призывами — 20–40% активного ядра. **Negative side-effect:** часть TG-аудитории воспринимает призыв перейти в Max **негативно** (наблюдалось у МПГО и у Крылова — см. выше пост 1501).
+
+**Десятый под-паттерн — Thai Traditions: Max как корпоративный мессенджер изнутри (B2B-as-Slack).** К девяти задокументированным авторским под-паттернам добавляется уникальный **brand-internal use-case**: косметический бренд Thai Traditions (профессиональная косметика для массажа) начал переход в Max **не с публикации контента, а с рабочих чатов команды**:
+
+1. За месяц собрали в Max рабочие чаты для сотрудников.
+2. Затем упаковали каналы для бренда.
+3. Затем сформировали адаптированный контент-план.
+4. Параллельно пригласили ключевых партнёров в личный чат уже в Max.
+
+Технический driver — **«видеозвонки работают заметно стабильнее, чем в других мессенджерах»**, проверено на «слабом интернете». Это **новый паттерн** — Max как **замена Slack/корпоративного Telegram** для российской B2B-команды, особенно с распределённой инфраструктурой. До этого подобный use-case описывался только для Яндекс Мессенджера (см. секцию Фомичёва выше «Яндекс Мессенджер как русский Slack»).
+
+| Под-паттерн | Примеры | Где Max в стеке | Sincere/political |
+|---|---|---|---|
+| Десятый: **Brand-internal B2B-as-Slack** | **Thai Traditions** | **внутренний messenger команды + клиентские чаты, потом content** | **utility, не political** |
+
+**Маркетинговое следствие для GRO:**
+
+- **B2C-CPA в MAX сходится с Telegram для нишевых тем** (244 ₽ ЭКО). Если GRO в Q2-Q3 2026 запустит MAX-эксперимент в нише «бизнес/AI/маркетинг», ожидаемый CPA **выше** этой цифры — эти ниши в MAX ещё не сформированы (фактуальное наблюдение из pressfeed: «маркетинг/IT в Max значительно меньше»).
+- **Pressfeed-14 как opportunity-source** — 14 экспертов = 14 потенциальных source-of-truth для GRO-контента про мессенджер-маркетинг (статьи, посты). См. [[sources/2026-05-18-pressfeed-14-max-cases]] раздел «Маркетинговые выводы для ГРО → Контентные хуки для блога».
+- **Thai Traditions B2B-as-Slack** — гипотеза для последующего наблюдения. Сейчас один кейс, не тренд. Если за 2–3 месяца появится 2–3 аналогичных кейса, это потенциальная новая segment opportunity для GRO (b2b/saas в Max как internal-comm tool).
+
+**Полный разбор каналовой экономики** — [[evolving-strict/campaign-metrics/max-messenger-channel-economics-2026]]. **Контентные паттерны под платформу** — [[evolving/content-trends/max-messenger-content-patterns-2026]].
+
 ## Восприятие пользователями
 
 Из опроса 1200 респондентов (центр «Позиция», февраль 2026):
@@ -585,6 +632,9 @@ Cossa.ru ([trends/348199](https://www.cossa.ru/trends/348199/)) опублико
 - [[sources/2026-04-14-tg-dnative-digest-7497-7546]]
 - [[sources/2026-04-14-tg-sergei-ivanov-efko-mar-apr-2026]]
 - [[sources/2026-04-14-tg-vcnews-apr-10-14]]
+- [[sources/2026-05-18-pressfeed-14-max-cases]]
+- [[evolving-strict/campaign-metrics/max-messenger-channel-economics-2026]]
+- [[evolving/content-trends/max-messenger-content-patterns-2026]]
 
 ## Backlinks
 

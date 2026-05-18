@@ -9,8 +9,11 @@ tags: [pr, content, smb, awareness, organic]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-04-16
-sources: [sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md]
+updated: 2026-05-18
+sources:
+  - sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md
+  - sources/2026-05-18-pressfeed-22-press-release-ideas.md
+  - sources/2026-05-18-pressfeed-4-sposoba-infopovod.md
 namespace: mkt
 ---
 
@@ -78,6 +81,8 @@ namespace: mkt
 
 Критерии инфоповода — upstream для [[canon/marketing-frameworks/performance-pr-framework]]. Сначала придумывается правильный инфоповод (эта страница), потом он запускается через performance-PR-инструменты с UTM-метками, промокодами, лид-формами и замерами бренд-трафика. Без правильного инфоповода все performance-инструменты замеряют нулевой trafficking.
 
+**Upstream от этой страницы:** [[canon/marketing-frameworks/infopovod-generation-4-techniques]] — четыре техники конструирования инфоповода из обычной новости компании (trend-extraction, re-frame старости, ньюсджекинг, превосходная степень). Сначала **создаётся** инфоповод одной из техник, потом **проверяется** на соответствие пяти критериям (эта страница).
+
 Противоположный полюс стратегий бесплатного PR — [[canon/marketing-frameworks/benetton-toscani-provocative-advertising]] (провокативная ценностная кампания, в том числе скандальная). Эти подходы дополняют друг друга: инфоповоды — для регулярного присутствия в СМИ, провокация — для разового мощного вложения в brand equity.
 
 Отдельный формат — оригинальный контент в соцсетях, который сам по себе становится инфоповодом для СМИ, даже если компания не делала пресс-рассылки: см. [[canon/marketing-frameworks/outlier-content-pr-case-studies]].
@@ -93,15 +98,34 @@ namespace: mkt
 
 Аудитория [[canon/target-audience/ru-smb-founder-owner-seller]] и смежные сегменты как раз читают этот тип контента — комментарии в деловых изданиях и инфоповоды работают на awareness именно среди фаундеров.
 
+## Второй источник: Pressfeed 2026
+
+Pressfeed в редакционном материале о 22 темах-идеях для пресс-релизов ([[sources/2026-05-18-pressfeed-22-press-release-ideas]]) формулирует 5 универсальных требований к инфоповоду, которые перекрываются с этими 5 критериями примерно 4-в-4:
+
+| Критерий (этот) | Pressfeed 2026 |
+|---|---|
+| Новизна | «Свежесть, соотносится с текущей повесткой» |
+| Цифры | (часть «нерядовости» — рекорд, рейтинг, инновация) |
+| Аналитика | «Польза для читателя — интересные факты, выводы, прогнозы» |
+| Прагматичный угол | «Зачем это читателю» |
+| Экспертные комментарии | Дополнительно — отдельный тип релиза (аналитический) |
+
+Сходство двух независимых источников (бизнес-журнал «Жажда» 2016 + Pressfeed 2026) повышает `confidence` критериев. Pressfeed добавляет более развёрнутую таксономию — см. [[canon/marketing-frameworks/press-release-types-7-categories]] и [[canon/marketing-frameworks/press-release-22-topic-ideas]].
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/press-release-types-7-categories]] — таксономия 7 типов релизов
+- [[canon/marketing-frameworks/press-release-22-topic-ideas]] — каталог 22 тем-идей
+- [[canon/marketing-frameworks/newsjacking-technique]] — отдельный PR-приём
+- [[canon/marketing-frameworks/infopovod-generation-4-techniques]] — upstream: 4 техники конструирования инфоповода
 - [[canon/marketing-frameworks/performance-pr-framework]] — downstream: как замерять эффект инфоповода
 - [[canon/marketing-frameworks/outlier-content-pr-case-studies]] — смежная механика: оригинальный контент как инфоповод
 - [[canon/marketing-frameworks/business-awards-as-smb-pr-channel]] — смежная механика: участие в премии как готовый инфоповод (удовлетворяет 4/5 критериев)
 - [[canon/marketing-frameworks/benetton-toscani-provocative-advertising]] — альтернативный приём: провокация вместо регулярности
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — кто применяет и кто читает
 - [[canon/marketing-frameworks/native-advertising]] — платная альтернатива тому же охвату
-- [[sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese]] — первоисточник
+- [[sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese]] — первоисточник (Жажда 2016)
+- [[sources/2026-05-18-pressfeed-22-press-release-ideas]] — второй независимый источник (Pressfeed 2026)
 
 ## Backlinks
 

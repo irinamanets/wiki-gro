@@ -1,6 +1,6 @@
 ---
 id: mkt:evolving/industry-trends/ai-for-managers-2025-2026
-title: AI-adoption pressure на руководителей (2025Q4–2026Q1) — три data-точки
+title: AI-adoption pressure на руководителей (2025Q4–2026Q2) — шесть data-точек, pivot в фазу 2
 type: page
 subtype: trend
 layer: evolving
@@ -9,8 +9,8 @@ tags: [ai-adoption, management, trend, enterprise-ai, knowledge-work, telegram-s
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06  # +5-я data-точка: Batyrev как RU-side голос на AI-must для руководителей; «AI = базовая рабочая грамотность, как Excel и почта»; 16,5k+ AI-must вакансий РФ Q1 2026
-sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md]
+updated: 2026-05-18  # +6-я и 7-я data-точки: TYPICAL пост 1332 (operational AI-checklist: 3 рычага + 3-repeat rule + 6 use-cases) + 1335 pivot во 2-ю фазу (6 управленческих рисков AI на базе Anthropic 81k research) — переход от «зачем» через «как делать сегодня» в risk-discipline фазу
+sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md]
 namespace: mkt
 ---
 
@@ -98,15 +98,83 @@ TYPICAL в посте 1330 предлагает свою рамку **«трёх
 
 **Hook (RU-side):** «Не уметь работать с AI в 2026 = не уметь работать в Excel в 2010-м. 16,5 тысяч AI-must вакансий в РФ за один квартал. Это не приятный бонус — это **новый Excel** для маркетологов, клиент-менеджеров, аналитиков, копирайтеров».
 
+### 6. TYPICAL operational checklist — 3 рычага + 3-repeat rule (май 2026)
+
+Источник: [[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]] — TYPICAL пост 1332 (`2026-05-08`). **Tematic pivot канала**: от стратегического narrative «зачем AI» к **operational checklist для team-leader'а на этой неделе**. Это значимый shift — TYPICAL — top-3 русскоязычный management-консалтинг-канал — впервые публикует **actionable operational рамку для AI-адопции**, а не объяснение «почему это важно».
+
+**Краткая структура рамки** (полная — [[canon/marketing-frameworks/ai-productivity-3-levers-typical]]):
+
+1. **Remove** — убрать лишнюю человеческую работу (созвоны-уточнения, ручные отчёты, повторяющиеся объяснения)
+2. **Compress** — сжать цикл итерации (прототипирование, вариации, саммари переговоров, автоматические выводы)
+3. **Rebuild** — пересобрать процесс с нуля (контрольный вопрос: «если бы я строил это сегодня с AI, оно вообще выглядело бы так же?»)
+
+Плюс **эвристика «3+ повторений = кандидат на автоматизацию»** — простое actionable правило, которое team-leader может ввести на следующей retro.
+
+Плюс **6 use-cases starter pack:** резюме встреч, decision logs, first-line customer чат, авторевью контента, RAG-поиск по KB, генерация learning-материалов из реальных процессов. Это **lowest-friction onboarding path** для AI в команду — согласуется с тезисом TYPICAL data-точки 3 (управление информацией = главный rapid-win), но теперь оформлен как checklist.
+
+**Что эта 6-я data-точка значит для тренда:**
+
+- **Сигнал зрелости рынка.** Не «зачем AI», а «как делать сегодня» — это **переход тренда в operational фазу**. До 2026-05 management-рынок говорил преимущественно на уровне narrative («94% CEO», «AI = новый Excel»). Теперь TYPICAL подаёт **operational template**, который любой руководитель может применить сегодня.
+- **Закрепление AI-консолидации в TYPICAL'е.** После 10-недельной паузы канал вернулся (см. [[evolving/competitor-positioning/typical-company]] continuity-update) с **3 подряд AI-постами**: 1330 (структурная рамка), 1332 (operational рамка), 1333 (mental model). Это **не разовая тема** — TYPICAL перепозиционируется в AI-augmented management consultancy.
+- **Watchlist:** появятся ли case-studies (real teams, real before/after), которые подтвердят, что 3 рычага реально работают? Это даст основание поднять confidence рамки с `medium` до `high`.
+
+**Hook:** «Стратеги говорят — "AI важен". Practitioners уже спрашивают — "что конкретно делать на retro в понедельник". TYPICAL даёт answer: 3 рычага + правило 3 повторений + 6 use-cases.»
+
+**Operational рамка vs structural рамка TYPICAL** (тематическая дилогия):
+- Пост 1330 ([[canon/marketing-frameworks/ai-productivity-3-shifts-typical]]) — **зачем** (объясняет product-economics shift)
+- Пост 1332 ([[canon/marketing-frameworks/ai-productivity-3-levers-typical]]) — **как** (даёт actionable rules)
+
+Для GRO content-маркетинга: оба используются вместе. Structural — opening hook (зачем тебе это надо), operational — body (что конкретно делать). См. готовый long-form skeleton в operational page.
+
+### 7. TYPICAL pivot во 2-ю фазу нарратива: от adoption pressure к risk discipline (май 2026)
+
+Источник: [[sources/2026-05-16-tg-typicalcompany-may-14-15-2026|TYPICAL посты 1335-1336 от 14-15 мая 2026]]. Это **самая значимая data-точка с момента создания страницы** — потому что она не подтверждает тренд, а **сигнализирует переход в новую фазу**.
+
+**Что произошло:** канал TYPICAL, который раньше был основным RU-distributor'ом «AI-обязателен» нарратива (data-точки 1, 3), переключился на **risk-discipline-нарратив**. Пост 1335 формулирует **6 управленческих рисков AI-внедрения** на базе Anthropic 81k research (`anthropic.com/features/81k-interviews`, 80 508 интервью из 159 стран) `[conf:high, src:2026-05-14]`. Подробно — [[canon/marketing-frameworks/typical-six-ai-management-risks|каноническая рамка]].
+
+**6 рисков (краткий список):**
+1. Деградация качества решений (AI hallucinations встраиваются в аналитику)
+2. Скрытая зависимость команд от AI (когнитивная атрофия командного уровня)
+3. Когнитивная деградация компетенций (gap между «умею делать» и «понимаю»)
+4. Иллюзия роста производительности (volume растёт, value — нет)
+5. Изменение структуры ответственности (ownership erosion: «так сказал AI»)
+6. Асимметрия компетенций внутри команды (variance вырастает)
+
+**Параллельно (пост 1336, 15 мая):** TYPICAL разбирает **dual-CEO кейс OpenAI** (Альтман vs Фиджи Симо, $850 млрд оценка `[conf:high, src:2026-05-15]`) как case-study разделения управленческих контуров. Сформирована отдельная каноническая рамка [[canon/marketing-frameworks/openai-dual-ceo-management-contours]].
+
+**Что это значит для тренда:**
+
+Тренд **не отменяется** — давление на AI-adoption продолжается. Но добавляется **второй такт нарратива**: «adoption + risk discipline». TYPICAL **первый из RU management-каналов**, кто сделал этот pivot открыто. Если за 1-2 месяца появятся 2-3 независимых RU-сигнала того же сдвига (другие consultancy, RU media, RU vendor content), это будет означать **окончательное вступление RU-рынка во 2-ю фазу AI-нарратива**.
+
+**Параллельные сигналы 2-й фазы** (помимо TYPICAL):
+- **Григорьев / Aiston (RU vendor):** [[canon/marketing-frameworks/ai-smb-pilot-three-traps|3 anti-pattern AI-внедрения]] — vendor-content того же tone
+- **Klarna $15M reversal (canonical cautionary):** [[evolving/industry-trends/ai-productivity-j-curve-2026|J-Curve reversal datapoint]]
+- **Anthropic own research:** vendor-side acknowledgment проблем (см. [[evolving-strict/market-data/anthropic-81k-ai-concerns-regional-2026|регион-срез concerns]])
+
+Combined: **четыре независимых источника** синхронно подтверждают переход в risk-discipline фазу. Это **structural shift**, не одна гипотеза. Подробно — отдельная страница [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026]].
+
+**Что это значит для GRO:** 7-я data-точка **меняет рекомендуемую content-стратегию**:
+- 1-я фаза tone («AI ускорит твою команду») — теперь legacy
+- 2-я фаза tone («AI ускоряет, если выстроить дисциплину») — теперь актуальный
+- GRO позиционируется как **«продукт второй фазы»** — не «попробуй AI», а «используй AI правильно». Это снимает у founder-аудитории Сегмента 2 страх «опоздать с AI» (они приходят в правильной фазе) и дифференцирует ГРО от 1-й фазы AI-продуктов (Klarna-style массовые внедрения).
+
+**Hook (2-я фаза):** «Anthropic опросил 80 508 человек: главные опасения — Unreliability (~26%) и Jobs & economy (~24%). TYPICAL переформулировал их в 6 управленческих рисков. Сколько из них уже работают в вашей команде?» `[conf:high, src:2026-05-14]`
+
+**Дополнительные hook'и для founder-аудитории:**
+- «Альтман на $850B оценке не вытягивает 4 роли — почему ты думаешь, что вытянешь?» `[conf:high, src:2026-05-15]` (анти-impostor аргумент)
+- «6 рисков AI-внедрения, которые TYPICAL только что озвучил — пока ты думаешь, что AI всё ускорит» (defensive content, конкурирующая позиция)
+
 ## Синтез
 
-Пять точек вместе рисуют unified-сигнал:
+Семь точек вместе рисуют unified-сигнал и **новый pivot**:
 
 - **Сверху** (CEO Nvidia) — давление на adoption, публичная нетерпимость к non-AI managers.
 - **От research** (INSEAD/HBR) — validated signal, что AI-рекомендации по стратегии уже **перцептивно** превосходят human-board (даже если это не значит что они объективно лучше).
-- **Снизу** (TYPICAL management-consultants) — конкретный onboarding-path, который не вызывает психологического сопротивления.
+- **Снизу** (TYPICAL management-consultants, data-точка 3) — конкретный onboarding-path, который не вызывает психологического сопротивления.
 - **С обочины** (Ramp/Startup Riders measure) — количественный proof, что product-economics изменились на порядок. Anthropic 22× к pre-IPO SaaS бенчмарку `[conf:medium, src:2026-02-18]`.
 - **С RU-стороны** (Батырев) — RU-локализованная рамка «AI = базовая грамотность как Excel», **16,5k+ вакансий с AI-must** РФ Q1 2026, отклики ×2,7 г/г `[conf:high, src:2026-04-15]`. Снимает «там у них, у нас иначе» возражение.
+- **Operational maturity** (TYPICAL data-точка 6, май 2026) — переход тренда из narrative-фазы в operational: 3 рычага (Remove/Compress/Rebuild) + правило «3+ повторений = кандидат на автоматизацию» + 6 use-cases starter pack. Это **сигнал зрелости рынка**: уже не «зачем», а «как делать сегодня». `[conf:medium, src:2026-05-08]`
+- **2-я фаза нарратива (TYPICAL, data-точка 7, май 2026)** — pivot во вторую фазу: добавлена **рамка из 6 управленческих рисков AI** + dual-CEO кейс OpenAI. Тренд **не отменяется**, но добавляется дисциплинирующий слой. См. [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026|описание фазы]] для деталей. `[conf:high, src:2026-05-14]`
 
 Этот стекнутый сигнал — **самое удобное окно для контент-маркетинга AI-продуктов для management-аудитории за последние 12 месяцев**. Для GRO это означает:
 
@@ -124,9 +192,16 @@ TYPICAL в посте 1330 предлагает свою рамку **«трёх
 - [[evolving/industry-trends/ai-productivity-j-curve-2026]] — почему «управление информацией» — самый низкий барьер onboarding: короткая J-curve.
 - [[evolving-strict/market-data/ai-vendor-revenue-per-employee-2026]] — числовой anchor 4-й data-точки (revenue/empl. AI-вендоров vs Mag 7) `[conf:medium, src:2026-02-18]`.
 - [[canon/marketing-frameworks/ai-productivity-3-shifts-typical]] — рамка TYPICAL «три сдвига», объясняющая разрыв в revenue/empl.
+- [[canon/marketing-frameworks/ai-productivity-3-levers-typical]] — TYPICAL operational рамка «3 рычага» (data-точка 6); actionable counterpart к 3-shifts
 - [[sources/2026-05-05-yt-batyrev-management-news-mar16-31]] — RU-side голос: Batyrev mar 2026 + 16,5k+ AI-must вакансий
+- [[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]] — источник 6-й data-точки
 - [[canon/marketing-frameworks/four-baskets-of-roles-batyrev]] — RU operational-инструмент Batyrev для onboarding AI в роль
 - [[canon/marketing-frameworks/work-recomposition-batyrev]] — родительская рамка Batyrev «пересборки труда»
+- [[sources/2026-05-16-tg-typicalcompany-may-14-15-2026]] — 2-я фаза: TYPICAL посты 1335-1336 (риски + dual-CEO кейс)
+- [[canon/marketing-frameworks/typical-six-ai-management-risks]] — 6 управленческих рисков AI-внедрения (TYPICAL)
+- [[canon/marketing-frameworks/openai-dual-ceo-management-contours]] — разделение управленческих контуров (Альтман / Симо)
+- [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026]] — описание нарративного перехода 1→2 фазы
+- [[evolving-strict/market-data/anthropic-81k-ai-concerns-regional-2026]] — Anthropic 81k research регион-данные (база TYPICAL pivot)
 
 ## Contradictions
 

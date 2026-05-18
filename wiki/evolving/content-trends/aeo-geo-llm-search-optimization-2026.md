@@ -9,8 +9,8 @@ tags: [seo, aeo, geo, content, pr, organic-traffic, llm-search]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14
-sources: [sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-14-tg-solokumi-may-2026.md]
+updated: 2026-05-18  # +Pressfeed «13 кейсов» (май 2026): RU practitioner-консенсус подтверждает external trust-sites механику, +PR-эксперимент «несуществующий бренд», +RU specifics (Алиса primary, англ-источники для cross-border)
+sources: [sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md]
 namespace: mkt
 ---
 
@@ -143,6 +143,56 @@ Google выпустил нативное десктопное приложени
 
 Это **operational extension** базовой Шевченко-рамки: тот фиксировал «попадание в трастовый корпус + FAQ-формат» как принцип, Виас даёт конкретные доли распределения и tooling.
 
+## Update 2026-05-18 — Pressfeed 13 кейсов: RU practitioner-валидация
+
+[[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation|Pressfeed «13 историй»]] (май 2026) — сборка комментариев от 13 RU-практиков (агентства, in-house SEO/PR, нишевые SaaS). **Тройное подтверждение** ключевых тезисов этой страницы:
+
+### External trust-sites механика подтверждена
+
+> «Поисковые системы отдают приоритет крупным медиа и авторитетным источникам. А значит, чтобы бренд или эксперт был заметен в поиске, недостаточно развивать только собственный сайт, важно присутствовать на приоритетных для поисковиков площадках.»
+
+Это прямая RU-валидация Шевченко-тезиса «LLM почти всегда основывают свои ответы на контенте внешних трастовых сайтов, а не контенте вашего сайта». 10+ независимых практиков артикулируют **одну и ту же** механику.
+
+### PR-эксперимент «несуществующий бренд»
+
+Один из RU-практиков описал proof-of-concept:
+
+> «Есть эксперименты, где мы заставляем ИИ рекомендовать несуществующий бизнес только за счёт активной работы с его PR.»
+
+Это операционная демонстрация механизма (1) pre-training: достаточно появиться в публичном корпусе с достаточной частотой → модель «выучивает» бренд → начинает рекомендовать. RLHF-механизм (2) и search-augmented (3) подкрепляют тот же сигнал.
+
+### RU-специфика приоритетов
+
+> «Классические нейросети российский бизнес не особо интересуют, поскольку доступ к ним затруднен. Большинство клиентов интересуется продвижением в генеративном ответе "Яндекса" с "Алисой" и Google AI Overview.»
+
+→ Для RU-аудитории seeding-приоритет должен быть **Алиса AI + Google AI Overviews**, не ChatGPT/Claude (хотя последние не игнорируем для cross-border / технологичной аудитории).
+
+> «Многие нейросети предпочитают англоязычные источники. Мы планируем увеличить число публикаций с упоминанием нашего бренда, рассматривая как российские, так и зарубежные площадки» (DiaClass).
+
+→ Для cross-border / global-видимости — параллельный track англоязычного контента (Medium, Reddit, англоязычные tech-блоги).
+
+### Новые operational механики
+
+- **E-E-A-T через профили экспертов** с верифицированными ссылками на публикации
+- **SSR-страницы по узким сущностям** (long-tail генерация)
+- **ENTITY и векторная близость** через NLP-инструменты
+- **LLM-friendly HTML для видео** ([[canon/marketing-frameworks/llm-friendly-video-transcription]])
+
+Детальный playbook → [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]].
+
+### Quantitative RU-сигналы
+
+- **Падение органики 30-40% за 2025**, селективно **20-25% информационного трафика** `[conf:high, src:2026-05-18]` — валидация Gartner-прогноза
+- **B2B vs B2C разница в AI-трафике**: qtickets 0.36% vs 0.008% `[conf:medium, src:2026-05-18]` — подробно в [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]]
+- **DiaClass 10% трафика из ChatGPT/Perplexity** `[conf:medium, src:2026-05-18]` — benchmark для нишевых инструмент-SaaS (включая GRO-профиль)
+- **Декабрь 2025**: массовый запуск GEO/AEO как платных услуг RU-агентствами `[conf:high, src:2026-05-18]`
+
+### Анти-pattern «промпт-магия» снова подтверждён
+
+> «В работе с ИИ-поиском (GEO/AEO) мы выбираем не "магию промптов", а усиление базового SEO.»
+
+Это четвёртый источник, повторяющий anti-pattern Pressfeed-апрель + Шевченко + 10-Q&A эксперимент. **Доверие: high** для anti-pattern'а.
+
 ## Contradictions
 
 _Пока нет._
@@ -155,6 +205,11 @@ _Пока нет._
 - [[sources/2026-04-14-peregudov-telegram-dec25-apr26]] — первоисточник (пересказ Перегудова разговора с Шевченко).
 - [[sources/2026-04-16-vcru-google-gemini-macos-app]] — vc.ru новость про Gemini macOS app
 - [[volatile-strict/competitor-news/google-gemini-macos-native-app-2026-04]] — Gemini на десктопе как ускоритель GEO-тренда
+- [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] — Pressfeed 13 RU-кейсов май 2026
+- [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]] — RU practitioner-консенсус
+- [[evolving/industry-trends/seo-to-pr-substitution-2026]] — сдвиг SEO→PR
+- [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]] — RU-метрики долей трафика
+- [[canon/marketing-frameworks/llm-friendly-video-transcription]] — LLM-friendly видео-механика
 
 ## Backlinks
 

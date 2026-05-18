@@ -6125,3 +6125,142 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {canon: 7, evolving: 5, sources: 1}
 - touched: 13 pages
 - raw: raw/processed/articles/tg_vyakuba_20260514-083912.md (+ 38 children: 24 jpg + 14 mp4 in media/ and video/ bundled)
+
+## [2026-05-18 06:53] [ingest] | Telegram @recruiter_live — micro-пост 4470 (LinkedIn активность 14 мая 2026)
+- source: wiki/sources/2026-05-16-tg-recruiter-live-may-14-2026.md
+- created: none
+- updated:
+  - wiki/evolving/industry-trends/ru-labor-market-shift-2026.md (LinkedIn-активность + cross-channel перенос на @jobsIndustry, RU recruitment-тренд)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 1, sources: 1}
+- touched: 2 pages
+- raw: raw/processed/articles/tg_recruiter_live_20260516-091000.md
+
+## [2026-05-18 07:03] [ingest] | Telegram @typicalcompany — 3 поста 6-12 мая 2026 (productized-pivot + AI-операционка Remove/Compress/Rebuild + Jobs 1995 «product-vs-marketing»)
+- source: wiki/sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/typical-productized-services-pivot.md
+  - wiki/canon/marketing-frameworks/ai-productivity-3-levers-typical.md
+  - wiki/canon/marketing-frameworks/jobs-product-vs-marketing-people-1995.md
+- updated:
+  - wiki/evolving/competitor-positioning/typical-company.md (+ 3 поста, content-pause закрыт, ритм 2-3 поста/нед)
+  - wiki/canon/marketing-frameworks/ai-productivity-3-shifts-typical.md (cross-link с новой рамкой 3 рычагов)
+  - wiki/volatile-strict/competitor-news/apple-intelligence-settlement-2026-05.md (TYPICAL-фрейм Jobs-1995 как объяснительная рамка $250M settlement)
+  - wiki/evolving/industry-trends/ai-for-managers-2025-2026.md (+ TYPICAL post 1331/1332/1333 продолжение narrative)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 2, volatile-strict: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_typicalcompany_20260514-071139.md (+ 1 child: video/tg_typicalcompany_1333.mp4 — Jobs «Lost Interview» 40 sec)
+
+## [2026-05-18 07:06] [ingest] | Telegram @typicalcompany — 2 поста 14–15 мая 2026 (Anthropic 81k AI-рисков + OpenAI dual-CEO Альтман/Симо IPO $850B)
+- source: wiki/sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/typical-six-ai-management-risks.md
+  - wiki/canon/marketing-frameworks/openai-dual-ceo-management-contours.md
+  - wiki/evolving-strict/market-data/anthropic-81k-ai-concerns-regional-2026.md
+  - wiki/evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026.md
+  - wiki/volatile-strict/competitor-news/openai-fidji-simo-ipo-ceo-2026-05.md
+- updated:
+  - wiki/evolving/industry-trends/ai-for-managers-2025-2026.md (+ second-phase narrative pivot risk-discipline)
+  - wiki/evolving/competitor-positioning/typical-company.md (+ 2 поста, регулярная публикация подтверждена)
+  - wiki/volatile-strict/industry-news/openai-852b-valuation-doubt-2026.md (+ dual-CEO context Симо)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, evolving-strict: 1, volatile-strict: 2, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/tg_typicalcompany_20260516-010500.md (+ 1 child: media/tg_typicalcompany_1335.jpg — slope-chart Anthropic 81k)
+
+## [2026-05-18 07:17] [ingest] | GRO — страница оплаты интенсива (groapp.ru/payment-intensive-tarif2): second monetization track high-ticket B2B
+- source: wiki/sources/2026-05-16-groapp-payment-intensive-tarif2.md
+- created:
+  - wiki/canon/product-knowledge/gro-intensive.md
+- updated:
+  - wiki/canon/product-knowledge/gro-pricing.md (+ second track «Интенсив», структурная картина: подписка 2 490 ₽/мес + high-ticket Интенсив)
+  - wiki/canon/product-knowledge/gro-app-overview.md (+ ссылка на второй продуктовый трек)
+  - wiki/canon/target-audience/gro-segments.md (+ B2B/cohort-формат как доп. surface для трёх сегментов)
+  - wiki/canon/positioning/gro-value-proposition.md (+ second-track как extension value-prop)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_groapp.ru_payment-intensive-tarif2_88d64388.md
+
+## [2026-05-18 07:22] [ingest] | Дзен/Деловой Мир — Том Соулфул (Drivee): «Управлять не надо кричать», стили управления 2026
+- source: wiki/sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/management-styles-2026-soulful.md
+  - wiki/canon/marketing-frameworks/delegation-formula-7-elements-soulful.md
+  - wiki/canon/marketing-frameworks/management-style-obsolete-6-signals-soulful.md
+  - wiki/canon/marketing-frameworks/manager-weekly-reflection-3-questions-soulful.md
+  - wiki/canon/marketing-frameworks/cry-as-cheap-system-crutch-soulful.md
+  - wiki/evolving/content-trends/expert-column-corporate-pr-format-soulful.md
+- updated:
+  - wiki/evolving-strict/market-data/employee-engagement-quiet-quitting-2026.md (+ Gallup-цитирование Соулфула на quiet-quitting)
+  - wiki/evolving-strict/market-data/ru-it-labor-market-salaries-2026.md (+ hh/SuperJob-цитата на дефицит кадров)
+  - wiki/evolving/industry-trends/gen-z-workforce-shift-2026.md (+ Соулфул-фрейм ситуативный leadership под Gen-Z)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, evolving: 2, evolving-strict: 2, sources: 1}
+- touched: 10 pages
+- raw: raw/processed/articles/web_dzen.ru_a_agTL9FrEqxFxxuMk_704d6174.md
+
+## [2026-05-18 07:23] [ingest] | Pressfeed: 13 кейсов адаптации российских компаний к ИИ-поиску (GEO/AEO RU practitioner consensus, май 2026)
+- source: wiki/sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md
+- created:
+  - wiki/evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026.md
+  - wiki/evolving-strict/market-data/ru-ai-search-traffic-share-2026.md
+  - wiki/canon/marketing-frameworks/llm-friendly-video-transcription.md
+  - wiki/evolving/industry-trends/seo-to-pr-substitution-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ai-search-aeo-geo-2026.md (+ 13 кейсов RU-practitioner-data)
+  - wiki/evolving/content-trends/aeo-geo-llm-search-optimization-2026.md (+ RU specifics для Яндекс/Алисы)
+  - wiki/canon/marketing-frameworks/seo-for-ai-era-playbook.md (+ RU operational дополнения)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 4, evolving-strict: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_13-istorij-o-tom-kak-kompanii-adaptiruyutsya-k-ii-poisku_cf123429.md
+
+## [2026-05-18 07:30] [ingest] | Pressfeed: 4 способа подготовить интересный инфоповод для статьи (PR-практика SMB)
+- source: wiki/sources/2026-05-18-pressfeed-4-sposoba-infopovod.md
+- created:
+  - wiki/canon/marketing-frameworks/infopovod-generation-4-techniques.md
+- updated:
+  - wiki/canon/marketing-frameworks/infopovod-criteria-smb-pr.md (+ 4 техники конструирования как extension критериев)
+  - wiki/canon/marketing-frameworks/performance-pr-framework.md (+ техники как input PR-funnel)
+  - wiki/canon/marketing-frameworks/outlier-content-pr-case-studies.md (+ примеры через 4 техники)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_4-sposoba-podgotovit-interesnyj-infopovod-dlya-stati_4532e031.md
+
+## [2026-05-18 07:33] [ingest] | Pressfeed: 22 идеи для пресс-релизов + 7 типов + newsjacking (PR-таксономия SMB)
+- source: wiki/sources/2026-05-18-pressfeed-22-press-release-ideas.md
+- created:
+  - wiki/canon/marketing-frameworks/press-release-types-7-categories.md
+  - wiki/canon/marketing-frameworks/press-release-22-topic-ideas.md
+  - wiki/canon/marketing-frameworks/newsjacking-technique.md
+- updated:
+  - wiki/canon/marketing-frameworks/infopovod-criteria-smb-pr.md (+ матрица 22 тем как операционный каталог)
+  - wiki/canon/marketing-frameworks/performance-pr-framework.md (+ типизация relevant под PR-канал)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_22-idei-dlya-vashih-press-relizov-kakie-temy-zainteresuyut-k_dcc9c3b3.md
+
+## [2026-05-18 06:42] [ingest] | Pressfeed: 14 историй об освоении MAX (Mediascope 61,5 млн mar 2026, CPA ЭКО 244 ₽, Thai Traditions B2B-as-Slack)
+- source: wiki/sources/2026-05-18-pressfeed-14-max-cases.md
+- created:
+  - wiki/evolving-strict/campaign-metrics/max-messenger-channel-economics-2026.md
+  - wiki/evolving/content-trends/max-messenger-content-patterns-2026.md
+- updated:
+  - wiki/evolving/competitor-positioning/max-messenger.md (supersession: day-rate → exact IAP 2 490 ₽: + Pressfeed-14 meta-сигнал отраслевой компиляции — Mediascope 61,5 млн mar 2026 (+43,6% YoY), CPA ЭКО 244 ₽ = TG-парит, +40% Q1 спрос на ботов, лимит 5 ботов/ЮЛ, 30% брендов готовы к channel-migration; +10-й под-паттерн Thai Traditions B2B-as-Slack)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, evolving-strict: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_14-istorij-ob-osvoenii-messendzhera-maks_c487d612.md (+ .note.md + .triage.json sidecars)

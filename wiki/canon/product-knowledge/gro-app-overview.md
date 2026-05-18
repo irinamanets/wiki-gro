@@ -9,8 +9,8 @@ tags: [product, landing-page, concept]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-12  # +TG channel dump: launch confirmed Feb 2026, 1000+ users Apr 2026, origin story, expert network
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-appstore-listing.md, sources/2026-04-10-gro-googleplay-listing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-10-gro-lk-auth.md, sources/2026-05-12-tg-gro-me-channel-dump.md]
+updated: 2026-05-16  # +second product track «Интенсив» (high-ticket B2B) — see gro-intensive
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-appstore-listing.md, sources/2026-04-10-gro-googleplay-listing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-10-gro-lk-auth.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md]
 namespace: mkt
 ---
 
@@ -66,6 +66,7 @@ GRO — это приложение-тренажёр личного и дело�
 
 - Сегменты целевой аудитории и их JTBD вынесены в [[canon/target-audience/gro-segments]].
 - Публичная цена и промо-оффер — в [[canon/product-knowledge/gro-pricing]].
+- **Второй продуктовый трек «Интенсив» (high-ticket B2B, 240–400k ₽) — в [[canon/product-knowledge/gro-intensive]].** Эта страница описывает подписочное приложение (broad-funnel low-ticket); интенсив — отдельный продукт с другой экономикой.
 - Команда founders — в [[canon/product-knowledge/gro-team]].
 - Развёрнутое позиционирование относительно курсов и тренеров — в [[canon/positioning/gro-value-proposition]].
 - Referenceные testimonials для переиспользования в контенте — в [[canon/product-knowledge/gro-testimonials]].
@@ -74,6 +75,15 @@ GRO — это приложение-тренажёр личного и дело�
 - Листинг RuStore Android (версия, publisher ООО ГРО, категория Бизнес-сервисы, permissions) — в [[canon/product-knowledge/gro-rustore-listing]].
 - Синтез пользовательских отзывов в App Store — в [[evolving/customer-feedback/gro-app-store-reviews]].
 - Веб-версия продукта (`lk.groapp.ru`), стек Expo / React Native Web, экран регистрации — в [[canon/product-knowledge/gro-web-app]].
+
+## Двухконтурная продуктовая архитектура (2026-05-16)
+
+По [[sources/2026-05-16-groapp-payment-intensive-tarif2|чекауту payment-intensive-tarif2]] зафиксировано: GRO существует **в двух продуктовых треках**, а не одном.
+
+- **Трек 1 — подписочное приложение** (этот overview): low-ticket, broad-funnel, 83 ₽/день. ICP — все три сегмента (карьеристы, предприниматели в росте, фрилансеры).
+- **Трек 2 — «Интенсив»**: high-ticket, narrow-funnel, 240–400 тыс. ₽ за тариф, с явным buyer-pair pattern «founder + директор по маркетингу». ICP — owner SMB с выделенной маркетинговой функцией.
+
+Это **не альтернативы**, а complementary tracks. Подписка работает на awareness/consideration broad-funnel, интенсив — конверсия premium-сегмента. Детали и backlog открытых вопросов — в [[canon/product-knowledge/gro-intensive]].
 
 ## Четвёртая точка дистрибуции — веб
 

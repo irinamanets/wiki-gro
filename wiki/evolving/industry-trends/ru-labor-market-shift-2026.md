@@ -9,8 +9,8 @@ tags: [career, awareness, content, retention]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-15  # +Avito side-gig +46/+64% Q1 2026 + newcomer wage overtake +34,3% — оба сигнала через Inc. Russia 36722/36756 укрепляют тезис «гиг-контур расширяется + loyalty-premium умерла»
-sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md]
+updated: 2026-05-16  # +micro-пост 4470 подтверждает cross-posting LinkedIn → @jobsIndustry pattern (recruiter_live)
+sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md, sources/2026-05-16-tg-recruiter-live-may-14-2026.md]
 namespace: mkt
 ---
 
@@ -262,6 +262,8 @@ namespace: mkt
 
 Это **валидирует тезис из поста 4438 предыдущего дампа** ([[sources/2026-05-05-tg-recruiter-live-apr-may-2026|@recruiter_live]]) о channel-shift HH→рефералки+TG, теперь с явной формулировкой **«три параллельные сети»** (LinkedIn → TG → hh). Operational-следствие: contentitor должен присутствовать **в нескольких каналах одновременно**, потому что аудитория мигрирует по графу LinkedIn→TG.
 
+**Подтверждение паттерна 2026-05-14 (пост 4470, [[sources/2026-05-16-tg-recruiter-live-may-14-2026]]):** Татьяна фиксирует «активное обновление вакансий» в LinkedIn и **физически переносит часть вакансий** в свой второй TG-канал `@jobsIndustry`. Это уже не разовое наблюдение «кочуют в Telegram-каналы» — это **повторяющийся operational pattern** того же оператора через 1 день после поста 4468. LinkedIn остаётся продуктивным источником вакансий (несмотря на блокировку РФ-без-VPN), а authorized human curators выступают мостом между LinkedIn и TG-аудиторией. Sub-pattern: **TG-каналы рекрутёров работают как личные job-board'ы**, конкурируя с платформенными HR-tech (hh.ru, vc.ru/jobs).
+
 ### 3. Salary pressure — реальная стагнация / возможное снижение
 
 По мнению автора (без числовой опоры, наблюдение из практики):
@@ -303,6 +305,7 @@ namespace: mkt
 - [[sources/2026-05-05-tg-recruiter-live-apr-may-2026]] — восьмой голос (Taice Bulat про post-offer-гостинг) + numerical опора (РБК top-management-hiring 2026-04-21)
 - [[evolving-strict/market-data/ru-top-management-hiring-q1-2026]] — strict-данные топ-менеджмент-найма (60/90/180 дней, 10-20% прибавка)
 - [[sources/2026-05-14-tg-recruiter-live-may-2026]] — май-срез (растущие сектора Q2, fragmented channels, salary pressure)
+- [[sources/2026-05-16-tg-recruiter-live-may-14-2026]] — micro-confirmation (пост 4470, cross-posting LinkedIn → @jobsIndustry pattern)
 - [[evolving/industry-trends/ru-offline-retail-decline-2026]] — резолюция apparent contradiction (сети растут, отдельные категории теряют)
 - [[volatile-strict/industry-news/ru-ma-deals-q1-2026]] — фон консолидации, поддерживающий sector growth
 

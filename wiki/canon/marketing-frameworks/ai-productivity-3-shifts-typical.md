@@ -9,8 +9,8 @@ tags: [ai, productivity, framework, team-economics, distribution-bottleneck, ai-
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-tg-typicalcompany-may-2026-redump.md]
+updated: 2026-05-14  # +Operational counterpart рамка (3 рычага) опубликована TYPICAL'ом в посте 1332 (2026-05-08); cross-link добавлен
+sources: [sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md]
 namespace: mkt
 ---
 
@@ -22,6 +22,8 @@ namespace: mkt
 - рамка **архитектурно стабильна** (её три сдвига — описание долгосрочного структурного перехода, а не коротко-живущая news-точка),
 - не требует numeric strict-citation — это reusable conceptual framework для постов GRO / лендингов / case-study,
 - конкретные numeric anchors (revenue/empl., productivity-multiplier) живут в `evolving-strict/*` и подключаются по cross-link.
+
+> **Operational counterpart.** Через 4 дня после поста 1330 TYPICAL опубликовала пост 1332 (`2026-05-08`) — **operational** рамку «3 рычага AI-операционки» (Remove / Compress / Rebuild + 3-repeat rule + 6 use-cases): [[canon/marketing-frameworks/ai-productivity-3-levers-typical]]. Где **3 сдвига** объясняют **«почему product-economics меняется»**, **3 рычага** дают **«что делать с этим в команде на этой неделе»**. Это тематическая дилогия TYPICAL про AI: structural + operational.
 
 ## Контекст возникновения
 
@@ -138,6 +140,8 @@ namespace: mkt
 ## Связанные страницы
 
 - [[sources/2026-05-05-tg-typicalcompany-may-2026-redump]] — источник рамки (TYPICAL пост 1330)
+- [[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]] — источник operational counterpart рамки (TYPICAL пост 1332)
+- [[canon/marketing-frameworks/ai-productivity-3-levers-typical]] — **operational counterpart** (3 рычага: Remove/Compress/Rebuild)
 - [[evolving/competitor-positioning/typical-company]] — автор рамки, indirect-конкурент GRO
 - [[evolving-strict/market-data/ai-vendor-revenue-per-employee-2026]] — числовой подкласс рамки (numeric anchors)
 - [[evolving/industry-trends/ai-knowledge-worker-climb-2025-2026]] — связанный тренд: AI замещает middle-skill knowledge workers

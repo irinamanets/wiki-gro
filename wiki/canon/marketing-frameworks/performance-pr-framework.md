@@ -9,8 +9,12 @@ tags: [pr, content, seo]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-04-16
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md]
+updated: 2026-05-18
+sources:
+  - sources/2026-04-16-condense-pressfeed-35-articles.md
+  - sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md
+  - sources/2026-05-18-pressfeed-22-press-release-ideas.md
+  - sources/2026-05-18-pressfeed-4-sposoba-infopovod.md
 namespace: mkt
 ---
 
@@ -48,7 +52,11 @@ PR без аналитики данных -- «игра вслепую». Data-d
 - Работа с инфлюенсерами
 
 ## Связанные страницы
+- [[canon/marketing-frameworks/infopovod-generation-4-techniques]] -- upstream: 4 техники конструирования инфоповода (trend extraction, re-frame, ньюсджекинг, превосходная степень)
 - [[canon/marketing-frameworks/infopovod-criteria-smb-pr]] -- upstream: критерии работающего инфоповода для SMB (без правильного инфоповода замеры performance PR = 0)
+- [[canon/marketing-frameworks/press-release-types-7-categories]] -- upstream: какой тип релиза измерять (метрики разные)
+- [[canon/marketing-frameworks/press-release-22-topic-ideas]] -- upstream: какие темы дают измеримый эффект
+- [[canon/marketing-frameworks/newsjacking-technique]] -- частный случай: измерение эффекта реактивных релизов
 - [[canon/marketing-frameworks/outlier-content-pr-case-studies]] -- когда собственный контент сам становится инфоповодом
 - [[canon/marketing-frameworks/crisis-pr-principles]] -- антикризисный PR
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] -- SEO для AI-эпохи (PR + SEO = синергия)

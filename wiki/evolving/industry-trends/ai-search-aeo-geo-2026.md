@@ -9,8 +9,8 @@ tags: [seo, ai, content, search, decision-layer, infrastructure]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-16  # +Морейнис «маркетинг для агентов» (пост 7833, 2026-05-14): RU-голос для AEO/GEO-narrative — маркетинговые инструменты для людей устаревают, когда главные пользователи — агенты
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md]
+updated: 2026-05-18  # +Pressfeed «13 кейсов» (май 2026): RU practitioner-консенсус — PR замещает SEO как primary для инфо-запросов, B2B AI-трафик 0.36%/3.4% (qtickets), DiaClass 10%, 30-40% падения органики, 20-25% инфо-трафика, LLM-friendly видео-транскрипция
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md]
 namespace: mkt
 ---
 
@@ -160,6 +160,40 @@ Zero-click поиск растёт: пользователи получают о
 
 Подробный разбор Морейниса-формата маркетинговых hooks для агентов — в [[evolving/content-trends/marketing-for-ai-agents-content-hooks]].
 
+## Update 2026-05-18 — Pressfeed: 13 RU-кейсов адаптации с количественными сигналами
+
+[[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation|Pressfeed «13 историй»]] (май 2026) даёт **первый известный нам публичный RU-замер** долей AI-трафика на конкретных проектах и **practitioner-консенсус** из 13 экспертных комментариев. Это валидация decision-layer-рамки на местных проектах.
+
+### Главное
+
+1. **PR замещает SEO как primary-канал для информационных запросов** — это отдельный системный сдвиг, отражённый в новой странице [[evolving/industry-trends/seo-to-pr-substitution-2026]]. SEO становится фундаментом (technical base + брендовые запросы), PR — primary driver для попадания в нейроответы.
+2. **B2B vs B2C разница в 45×**: qtickets B2B (qtickets.ru) — 0.36% AI-трафика от визитов и 3.4% от органики; qtickets B2C (qtickets.events) — 0.008% `[conf:medium, src:2026-05-18]`. См. полный разбор [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]].
+3. **Нишевые инструмент-search SaaS — самая высокая доля** (DiaClass: 10% трафика из ChatGPT/Perplexity) `[conf:medium, src:2026-05-18]`. GRO ближе к этому профилю.
+4. **Падение органики 30-40% за 2025**, при этом **20-25% — именно информационный трафик**, коммерческий стабилен `[conf:high, src:2026-05-18]`. Это **валидация Gartner-прогноза** «-25% к концу 2026» — тренд уже реализуется.
+5. **Триггер RU-рынка — май 2025**: Яндекс и Google синхронно запустили AI-блоки. **Декабрь 2025** — массовый запуск GEO/AEO как платных услуг RU-агентствами `[conf:high, src:2026-05-18]`. **Январь 2026** — первый клиент через ChatGPT-рекомендацию + первое приглашение в тендер по AEO `[conf:medium, src:2026-05-18]`.
+6. **Яндекс.Метрика измеряет AI-трафик с 2024H2** `[conf:high, src:2026-05-18]`.
+
+### Новые operational механики из 13 кейсов
+
+- **E-E-A-T через профили экспертов**: отдельные страницы с верифицированными ссылками на публикации (туроператорский маркетплейс) — детализировано в [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]].
+- **SSR-страницы по узким сущностям**: для туроператоров, для каждой темы, для каждого пользовательского сценария — long-tail генерация как стандартный пункт.
+- **ENTITY + векторная близость**: NLP-инструменты для подбора связанных сущностей; единичный заявленный кейс +3× к цитируемости `[conf:low, src:2026-05-18]`, но **множественное упоминание** этого как priority-инструмента у RU-практиков валидирует тренд.
+- **LLM-friendly HTML для видео**: встраивание скрытой транскрипции в HTML для AI-индексации видеоконтента — новая страница [[canon/marketing-frameworks/llm-friendly-video-transcription]].
+- **PR-эксперимент «несуществующий бизнес»**: RU-агентство заставило ИИ рекомендовать несуществующий бренд только за счёт активной PR-работы. **Proof-of-concept** того, что PR-присутствие в retrieval-корпусе достаточно для AI-цитирования.
+
+### Анти-pattern «промпт-магия» подтверждён ещё раз
+
+Все 13 практиков сошлись: попытки прямой инъекции в ChatGPT через диалоги — не работают. Системный подход через SEO-фундамент + targeted seeding на трастовые площадки — единственное, что работает. Это **тройное подтверждение** anti-pattern'а из [[evolving/content-trends/aeo-geo-llm-search-optimization-2026|Pressfeed апрель]] и Перегудов/Шевченко (апрель).
+
+### Связь с decision-layer и Морейнис
+
+RU-практики неявно работают на трёх уровнях decision-layer:
+- **Retrieval**: SSR-страницы + Schema.org + llms.txt + LLM-friendly видео = присутствие в crawl-индексе
+- **Ranking**: E-E-A-T + длинный список internal-сущностей = высокая релевантность
+- **Synthesis**: PR-targeted seeding на трастовые площадки = попадание в prompt-context
+
+Это **операционное приземление** decision-layer-рамки Себранта на RU-рынке. И «PR-эксперимент с несуществующим бизнесом» — наиболее яркое подтверждение Морейнис-тезиса «маркетинг для агентов»: AI делает выбор по retrieval-корпусу, а не по эмоциям пользователя.
+
 ## Связанные страницы
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] -- практические рекомендации по AI-оптимизации
 - [[canon/marketing-frameworks/ai-search-measurable-vs-dark-zone]] -- Алла Рауд measurable vs dark-zone
@@ -177,3 +211,8 @@ Zero-click поиск растёт: пользователи получают о
 - [[evolving/content-trends/marketing-for-ai-agents-content-hooks]] -- content-side derivative тренда (hooks для marketing-for-agents)
 - [[evolving/industry-trends/agent-first-world-openclaw-2026]] -- родительский тренд (агенты как новые пользователи)
 - [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] -- источник Морейнис «marketing tools for humans устаревают» (пост 7833)
+- [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] -- источник 13 RU-кейсов (май 2026)
+- [[evolving/industry-trends/seo-to-pr-substitution-2026]] -- сдвиг SEO→PR (deriv этого тренда)
+- [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]] -- RU practitioner-консенсус 13 кейсов
+- [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]] -- RU метрики долей AI-трафика B2B/B2C
+- [[canon/marketing-frameworks/llm-friendly-video-transcription]] -- LLM-friendly видео-механика

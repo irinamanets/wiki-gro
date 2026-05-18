@@ -68,6 +68,7 @@ namespace: mkt
 
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/infopovod-generation-4-techniques]] — альтернативный путь: 4 техники конструирования инфоповода для пресс-релиза (вместо контента-как-инфоповода)
 - [[canon/marketing-frameworks/infopovod-criteria-smb-pr]] — смежная механика: критерии инфоповода в СМИ
 - [[canon/marketing-frameworks/business-awards-as-smb-pr-channel]] — смежный SMB-PR-канал: премии как канал распространения (контент vs награды как два разных PR-направления)
 - [[canon/marketing-frameworks/benetton-toscani-provocative-advertising]] — другой полюс «ненормальной коммуникации» через провокацию ценностей
