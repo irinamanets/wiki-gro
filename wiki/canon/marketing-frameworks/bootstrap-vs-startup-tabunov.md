@@ -9,8 +9,8 @@ tags: [bootstrap, startup, founder-mindset, unit-economy, positioning, awareness
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-tg-your-pet-project-feb-may-2026.md]
+updated: 2026-05-18  # +cross-link на 5-НЕТ operational расширение от Табунова (пост 622 третьего ingest'a)
+sources: [sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
 namespace: mkt
 ---
 
@@ -71,6 +71,18 @@ namespace: mkt
 - **Отладка воронок** привлечения, работа с возвращаемостью.
 
 «Без бордов директоров, без питчей и презентаций, без сказочных единорогов. Просто ты, продукт и платящие пользователи.»
+
+## 5 НЕТ — operational disqualifiers
+
+Прямое operational расширение основной рамки от Табунова, опубликовано отдельным постом [[sources/2026-05-13-tg-your-pet-project-may-6-13-2026|пост 622, 2026-05-07]]:
+
+- НЕТ идеям, которые не объяснить ребёнку
+- НЕТ идеям, за которые не платят
+- НЕТ исследованиям, касдевам и опросам
+- НЕТ продуктам, которые не запилить на коленке за две недели
+- НЕТ выходу из найма и привлечению инвестиций
+
+**Полный разбор** каждого правила с пересечениями к другим framework'ам — [[canon/marketing-frameworks/five-no-pet-project-tabunov]]. Эти 5 НЕТ — **наиболее компактная** формулировка bootstrap-парадигмы Табунова: если хотя бы одно из 5 НЕТ нарушено, проект скатывается в стартап-anti-pattern.
 
 ## Когда стартап-парадигма реально работает
 

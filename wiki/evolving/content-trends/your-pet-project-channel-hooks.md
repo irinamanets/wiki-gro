@@ -9,8 +9,8 @@ tags: [content, telegram, founder-voice, hooks, solopreneurship, case-studies, l
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06
-sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md]
+updated: 2026-05-18  # +4 hooks из третьего ingest'a 2026-05-13: «наклейка на стекле» build-in-public anti-pattern, «5 НЕТ для пет-проекта», «социальное доказательство x3 конверсия», «$75M на нейробабушках»
+sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
 namespace: mkt
 ---
 
@@ -200,6 +200,57 @@ namespace: mkt
 - **«72% сотрудников считают карьерную лестницу устаревшей моделью.»** `[conf:medium, src:2026-04-29]`
 - **«Доллар обесценился на 21% за 5 лет. Сбережения тают.»** `[conf:high, src:2026-04-29]`
 
+## Hooks из дельты третьего дампа (посты 621-629, 2026-05-13)
+
+Добавлено [delta] из [[sources/2026-05-13-tg-your-pet-project-may-6-13-2026|третьего ingest'a канала]]. Все 4 hook'а отделены в полноценные `canon/marketing-frameworks` страницы (не только hooks, но и переиспользуемые operational рамки):
+
+### Build in public как paid-traffic anti-pattern (пост 621)
+
+См. [[canon/marketing-frameworks/build-in-public-as-paid-traffic-anti-pattern]]. Killer one-liners:
+
+- **«Build in public в X — это та же самая наклейка на заднем стекле машины. Просто красивее обёрнутая.»** — opening hook, доминантный one-liner всего framework.
+- **«Когда фаундер постит каждую неделю скриншоты MRR — это сигнал "я не знаю где брать пользователей, поэтому собираю органику среди таких же, как я".»** — diagnostic hook.
+- **«Тиктоки и рилсы от вайбкодеров — та же наклейка с монтажом и хуком в первые три секунды.»** — extension hook на vibecoder-аудиторию.
+- **«Не масштабируется, не попадает в целевых пользователей, прекращает работать как только ты перестал постить.»** — closing-disqualifier.
+- **«$20 в Meta достанет твоего реального пользователя — маму в декрете в Бразилии, бухгалтера в Германии, школьника в США.»** — positive-counter hook.
+- **«Умение купить внимание пользователя за деньги — это актив, который не заблокируешь.»** (cross-ref пост 594) — permanence-аргумент.
+- **Реальный кейс провала:** **800 → 330 юзеров** в боте `@supreme_ai_bot` — рекламируется через наклейку на Mercedes (см. [[volatile-strict/industry-news/supreme-ai-bot-merc-decay-case-2026-05]]).
+
+### 5 НЕТ для пет-проекта (пост 622)
+
+См. [[canon/marketing-frameworks/five-no-pet-project-tabunov]]. Operational-чек-лист bootstrap-парадигмы (расширение [[canon/marketing-frameworks/bootstrap-vs-startup-tabunov]]):
+
+- **«НЕТ идеям, которые не объяснить ребёнку.»**
+- **«НЕТ идеям, за которые не платят.»**
+- **«НЕТ исследованиям, касдевам и опросам.»**
+- **«НЕТ продуктам, которые не запилить на коленке за две недели.»**
+- **«НЕТ выходу из найма и привлечению инвестиций.»**
+- **«Самое главное — иметь достаточно простой проект, чтобы тупо доделать его до конца. Сложности и так будут.»** — closing one-liner.
+
+### Социальное доказательство — самый сильный приём в трафике (пост 628)
+
+См. [[canon/marketing-frameworks/social-proof-traffic-asset-framework-tabunov]]. Killer one-liners:
+
+- **«Самый сильный приём в трафике — это социальное доказательство. Пруфы.»** — opening hook.
+- **«Можно годами тестить заголовки, цвета кнопок, офферы — это даст +10-20% за год. Блок с социальным доказательством может поднять конверсию в 3 раза.»** — comparative hook.
+- **«Конкурент скопирует твой лендинг, креативы и продукт. Но скопировать сотню реальных отзывов от твоих живых клиентов он не сможет.»** — defensible-asset hook.
+- **«Первая сотня пользователей — это не источник выручки. Это маркетинговый актив на ближайшие два года.»** — counter-intuitive priority.
+- **«Каждого нужно онбордить руками, выводить на результат и просить отзыв сразу же, пока воспоминания не растворились в думскроллинге соцсетей.»** — operational-hook для founders.
+- **«Без пруфов любой, даже самый гениальный продукт, конвертит как унылое говно. С пруфами — даже унылое говно конвертит как гениальный продукт.»** — closing one-liner (главный hook поста).
+
+### $75M на нейробабушках — AI-инфлюенсер playbook (пост 629)
+
+См. [[canon/marketing-frameworks/ai-influencer-grandma-playbook]]. Killer one-liners:
+
+- **«$75M на нейробабушках. Один оператор, 6 AI-инфлюенсеров, $206/мес стек.»** `[conf:medium, src:2026-05-13]` — opening hook awareness-стадии.
+- **«6 бабушек × $206/мес = $1.2K cost. Vs $250K/мес выручки.»** `[conf:medium, src:2026-05-13]` — economics hook.
+- **«HeyGen $99 + ElevenLabs $99 + старый андроид с прокси $8 = $206/мес/бабушка.»** `[conf:high, src:2026-05-13]` — stack hook.
+- **«Hook на сегмент в первые 3 секунды: "Women over 40, listen up", "If you're from USA".»** — operational-hook.
+- **«Конкурент скопирует продукт. Но не скопирует 6 нейроперсонажей, выпускающих 36 видео/день.»** — defensible-asset hook (cross-ref social-proof framework).
+- **Anti-pattern для GRO:** «$75M all-time — PR-цифра. Реальная выручка по amzscout — $30M/год. Учитесь различать.» — editorial-skepticism content-tone.
+
+**Caveat для GRO content:** AI-инфлюенсер playbook **не для применения напрямую** (brand-mismatch, legal в RU/ЕС), но **готов как awareness-hook** про state-of-the-art в performance-маркетинге 2026.
+
 ## Anti-hooks (что не транслировать)
 
 - **Матерок** — «нафиг», «хана», «жопа», «блин сука» — нормально для founder-voice Табунова, но tone of voice GRO не канонизирован (см. [[canon/brand-guidelines/gro-typography]]), по умолчанию переформулировать.
@@ -216,6 +267,12 @@ namespace: mkt
 - [[canon/marketing-frameworks/tabunov-landing-anatomy]]
 - [[canon/marketing-frameworks/tabunov-onboarding-principles]]
 - [[canon/marketing-frameworks/retention-benchmarks-b2c]]
+- [[canon/marketing-frameworks/build-in-public-as-paid-traffic-anti-pattern]] — третий ingest (пост 621)
+- [[canon/marketing-frameworks/five-no-pet-project-tabunov]] — третий ingest (пост 622)
+- [[canon/marketing-frameworks/social-proof-traffic-asset-framework-tabunov]] — третий ingest (пост 628)
+- [[canon/marketing-frameworks/ai-influencer-grandma-playbook]] — третий ingest (пост 629)
+- [[evolving-strict/competitor-metrics/yp-may-2026-50k-mrr-app-cluster]] — третий ingest (посты 623–627)
+- [[volatile-strict/industry-news/supreme-ai-bot-merc-decay-case-2026-05]] — третий ingest (пост 621, контр-кейс)
 - [[evolving/content-trends/tabunov-founder-growth-hooks]]
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
 - [[evolving/content-trends/contrarian-framing-expert-telegram]]
@@ -223,6 +280,8 @@ namespace: mkt
 - [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]]
 - [[volatile-strict/industry-news/ai-solopreneur-cases-jan-apr-2026]]
 - [[sources/2026-04-14-tg-your-pet-project-jan-apr2026]]
+- [[sources/2026-05-05-tg-your-pet-project-feb-may-2026]]
+- [[sources/2026-05-13-tg-your-pet-project-may-6-13-2026]]
 
 ## Backlinks
 

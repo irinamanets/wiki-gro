@@ -9,8 +9,8 @@ tags: [competitor, sales-training, telegram, personal-brand, infobiz, ru, tour-f
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06  # +second dump apr-may 2026: verified Instagram metrics 222K, Phuket tour, paid A7 integration, Spiridonov podcast collab, carousel content sub-genre
-sources: [sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md]
+updated: 2026-05-14  # +third dump may 5-14 2026: club reopen scarcity-CTA («последний набор»), 350+ lessons (vs 155+), 8-card carousel «Эволюция мышления», 4 новых canon-frame: thinking-evolution-levels / goyard / apple-ecosystem / first-15-sec
+sources: [sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
 namespace: mkt
 ---
 
@@ -190,9 +190,78 @@ Mined-коллекция отдельно вынесена в [[evolving/content
 
 - **«Скорость = скорость решений, не скорость движения»** (пост 6802, 2026-05-05): «Скорость — это не про то, как быстро ты двигаешься, а про то, как быстро принимаешь решения. Можно ехать медленно, но без остановок и доехать быстрее, чем тот, кто постоянно тормозит, сомневается и стоит на месте.» Hook про decision-making как core skill. Применим как мини-фрейм для productivity-content GRO.
 
+## Update 2026-05-14: третий срез ([[sources/2026-05-14-tg-vyakuba-may-5-14-2026]], 2026-05-05..05-14)
+
+### Tour expansion: Самуи → Панган (новая локация)
+
+Третий срез продолжает тур: после Пхукета (повторно, после Apr-30) Якуба перемещается на **Самуи → Панган → Бангкок → Москва → Самара**. Панган — **новая локация** в туре, описана как «значительно круче Самуи по атмосфере, но не так разнообразно по отелям и видам с гор». Маршрут передвижения сложный: перелёт Мск → Пхукет (2 рабочих дня), 50 мин самолёт на Самуи (3 дня), 25 мин катер на Панган. Tour-format подтверждает себя как стабильный жанр.
+
+### Niche-signal: 70% риелторов в открытом событии Пхукета
+
+> «70% открытого события – риелторы. Тут спрос на недвижку точно будет расти.» (пост 6814, 2026-05-06)
+
+Якуба self-reports демография своей открытой Пхукетской аудитории: **70% real-estate broker'ов**. `[conf:low, src:2026-05-06]` — single-event sample, but note-worthy. Сигналы:
+1. **Сегмент-индикатор** — в Пхукете аудитория Якубы skews в сторону real-estate broker'ов (а не sales-команд в общем), что может означать, что в ЮВА это самая активная русскоязычная экспат-вертикаль.
+2. **Trend-claim** — Якуба referenced this audience как leading-indicator для тезиса «спрос на недвижку будет расти». Не строгое доказательство, но **note** для real-estate-marketing intelligence.
+
+### Club «Мышление» reopen — scarcity-CTA + 350+ lessons
+
+Якуба перезапускает «Клуб мышления» (платный community-продукт) дважды за окно:
+
+- Пост 6818 (2026-05-07): «Снова открыли набор. Внутри 155+ уроков. Эфиры, чек-листы.» CTA: `forms.yandex.ru/u/6820a55390fa7b1f893b4f49`.
+- Пост 6854 (2026-05-12): «**350+ уроков** — этот набор ПОСЛЕДНИЙ. Дальше клуб уходит в закрытый формат.»
+
+Между постами **155+ → 350+ уроков** за 5 дней — либо реальное добавление контента, либо переоценка/upgrade тарифа. `[conf:low, src:2026-05-07..12]` — self-reported.
+
+**Marketing-pattern:** «**FOMO через "последний набор"**» — классический drip-reveal scarcity-CTA, типичный для инфобиз-воронки. Это новая фаза product-ladder: **Клуб «Мышление»** позиционируется как **persistent community membership** (не как «поток курса»), что отличает его от продуктовой линейки «Про Продажи 3.0» (course launch).
+
+Updated product-ladder:
+
+1. Бесплатный TG-канал `@vyakuba` (daily-touch)
+2. Гастрольные офлайн-выступления (event-marketing)
+3. YouTube/VK-Video канал с case-interview (authority-build)
+4. **Клуб «Мышление»** (paid community membership, 350+ уроков, эфиры) — **активно продаётся в 3-м срезе**
+5. **«Про Продажи 3.0»** (флагман-курс, продавался в 1-2-м срезах)
+6. Книги (giveaway / trust-builder)
+
+### Carousel-format обновлён: 6 → 8 карточек
+
+В 3-м срезе вышла **8-карточная** карусель «Эволюция мышления» (6846..6853, 2026-05-12), что меняет формат с **строго 6** (из 2-го среза) на **гибкий 6–8** в зависимости от темы. Архитектура совместима с 6-card: 7-я карточка — «paradox» (опыт = тюрьма), 8-я — Instagram-CTA. Это update [[evolving/content-trends/vyakuba-instagram-carousel-format]], не supersession.
+
+**Тема карусели — «Эволюция мышления» — формализована как отдельный operational frame** в [[canon/marketing-frameworks/yakuba-thinking-evolution-levels]]. Это **третий пик активности по выпуску самостоятельных фреймворков** Якубой за весь наблюдаемый период (плюс 2 предыдущих в 2-м срезе и НОРМ-методология в 1-м).
+
+### Новые operational-frames из 3-го среза
+
+В 3-м срезе Якуба opens 4 новых mini-framework (каждая — отдельная страница вики):
+
+1. [[canon/marketing-frameworks/yakuba-thinking-evolution-levels]] — 4-уровневая модель мышления (ящерица → наёмный профи → стратег → взломщик).
+2. [[canon/marketing-frameworks/goyard-anti-marketing-luxury-friction]] — Goyard как case premium-через-трение (отсутствие e-commerce/рекламы/инфлюенсеров как scarcity-axis).
+3. [[canon/marketing-frameworks/apple-ecosystem-recurring-revenue-frame]] — «Большие деньги не в продукте, а в том, что после покупки» (Apple ecosystem).
+4. [[canon/marketing-frameworks/first-15-sec-sales-contact]] — Правило первых 15–20 секунд первого контакта.
+
+Это **зрелый уровень контент-стратегии** Якубы — каждая неделя приносит 2-4 reusable operational-frames, а не только мотивационные посты.
+
+### AI-narrative continuity (пост 6821 + видео)
+
+Третий-голос от Якубы про AI-amplifier: «ИИ не заменяет сильного продажника. Он просто делает сильного — ещё быстрее. Раньше конкурентом был другой менеджер. Сейчас — менеджер с AI-привычкой». Continuity с 1-2-ми срезами, confidence-build для [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]].
+
+### Peer-environment thesis (повторное усиление в 3 поста)
+
+Три поста подряд (6806, 6818, 6854) развивают тот же peer-environment-тезис: «С кем общаешься — туда и движешься». Третий повтор от Якубы за весь наблюдаемый период подтверждает paradigm — это **не разовый пост, а core-thesis канала** в 2026 г. Cross-link с [[canon/marketing-frameworks/peer-environment-aspiration-tokovinin]] (Токовинин-frame с другой стороны).
+
+### Hooks из третьего среза для контента GRO
+
+- **«Это прогресс vs и это прогресс»** (infographic 6804) — non-linear progress метафора с 3 попытками вместо плоской линии. Адаптация для GRO: visualization, что навык растёт через несколько попыток-неудач, а не плоскую кривую.
+- **«Работай изо всех сил, но не забывай отдыхать с той же интенсивностью»** (infographic 6855) — work-rest balance hook.
+- **«Дешевеет не человек, дешевеют простые действия»** (continuity, из 1-го среза, повторено в 3-м контексте — пост 6821).
+- **«Сильнее становится не тот, кто один раз "дожал", а тот, кто умеет выстроить систему, в которую клиенту хочется возвращаться»** (пост 6823) — retention-frame, прямая параллель к [[canon/marketing-frameworks/apple-ecosystem-recurring-revenue-frame]].
+- **«Окружение — это не фон. Это то, что каждый день влияет на ваши решения и мышление»** (пост 6806) — peer-environment hook.
+- **«Самая опасная ловушка — когда вам кажется, что вы растёте, хотя на самом деле вы просто повторяете себя»** (пост 6854) — anti-stagnation paradox-hook.
+- **«Таксист, который ищет, как подняться в системе, — редкое мышление. Большинство живут наоборот, по принципу "ведра с крабами"»** (пост 6856) — growth-mindset vs crab-mentality hook.
+
 ## Contradictions
 
-_Нет — второй ингест Якубы. Метрики Instagram (215K → 222K) монотонно возрастают, paid-инвентарь утверждён через UTM, методологические рамки совместимы и развиваются. Supersession не нужен._
+_Нет — третий ингест Якубы. Тенденции монотонные и совместимые: тур продолжается (Самуи → Панган новая локация), Instagram-метрики снова отображаются (215K на cover 6853 — likely скрин был выбран старым, на 2-м срезе было 222K), продукт-ladder расширен новым tier (клуб «Мышление» reopen с 350+ уроками), каноничные фреймы развёрнуты в 4 новых страницы вики. Supersession не нужен._
 
 ## Backlinks
 

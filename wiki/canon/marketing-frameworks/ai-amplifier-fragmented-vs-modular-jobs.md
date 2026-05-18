@@ -9,8 +9,8 @@ tags: [ai, positioning, career, counter-narrative, hooks, awareness]
 confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-15
-sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md]
+updated: 2026-05-15  # +cross-attribution Yakuba (sources/2026-05-14-tg-vyakuba-may-5-14-2026 пост 6821) — третий голос на AI-amplifier для sales-команд: «ИИ не заменяет сильного продажника, делает сильного быстрее». Confidence остаётся high
+sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
 namespace: mkt
 ---
 

@@ -9,8 +9,8 @@ tags: [content, post, brand-guidelines, awareness]
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-yt-tokovinin-ban-this-from-children.md]
+updated: 2026-05-14  # +cross-attribution: Якуба 3-й срез (sources/2026-05-14-tg-vyakuba-may-5-14-2026) — 3-кратный повтор peer-environment-тезиса в одном окне как core-thesis канала
+sources: [sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
 namespace: mkt
 ---
 
@@ -85,6 +85,18 @@ Operational test для founder content: «Опишите 5 человек, с �
 ## Контекст применения
 
 Use as content anchor / brand-positioning principle. Stable между версиями продукта. При появлении противоречащих наблюдений (например, кейсов где deprivation-сегмент неожиданно дал высокую aspiration без peer-effect) — supersession workflow.
+
+## Cross-attribution: Якуба (3-кратный повтор в одном окне)
+
+В третьем срезе [[sources/2026-05-14-tg-vyakuba-may-5-14-2026|Якубы]] (2026-05-05..14) тот же peer-environment-тезис повторён **3 раза** в 3-х разных постах:
+
+- Пост 6806 (Самуи, 2026-05-06): «много ребят из России, которые переехали, и у них нет вот этого "поныть и разойтись". Они знакомятся, помогают друг другу. Окружение — это не просто люди рядом. Это то, как вы начинаете принимать решения».
+- Пост 6818 (2026-05-07): «На островах, за счёт окружения, многие начинают двигаться в 10 раз быстрее».
+- Пост 6854 (2026-05-12): «С кем вы чаще всего общаетесь — туда в итоге и двигаетесь. Это незаметно происходит».
+
+Это **второй независимый голос** к peer-environment-thesis: Токовинин (founder amoCRM, SaaS-vertical) и Якуба (sales-trainer, инфобиз-vertical) — **разные vertical, разные audience, тот же тезис**. Confidence паттерна повышен с `medium` (single-source) до `medium+` (cross-vertical). Якуба, в отличие от Токовинина, эмпатически фокусируется на **operational observations** (как именно меняется мышление в островной среде), Tokovinin — на **mechanism** (среда даёт желания, не нужда даёт). Они complementary, не contradictory.
+
+В контексте маркетинга GRO это означает, что peer-environment-frame можно использовать **с двумя источниками атрибуции** (Tokovinin как «more analytical» + Якуба как «more operational») в зависимости от тона контент-материала.
 
 ## Cross-references
 

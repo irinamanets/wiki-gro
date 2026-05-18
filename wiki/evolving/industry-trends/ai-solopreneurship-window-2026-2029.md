@@ -9,8 +9,8 @@ tags: [ai, solopreneurship, market-trends, agentic, content, awareness]
 confidence: medium
 stale: false
 created: 2026-04-11
-updated: 2026-05-14  # +MindmateBot (Palkin family duo: founder + psychologist) — mom-segment exemplar AI-conversational-companion в trust-intensive нише, observation Petrosian @stodnevka2 2297; ранее +Hyperliquid extreme microteam case ($102.4M/employee, 11 people) как proof-point границы окна
-sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md]
+updated: 2026-05-18  # +AI-инфлюенсер $75M/нейробабушки case (Tabunov 629): $206/мес × 6 = $1.2K stack vs $250K/мес выручки. Extreme-point соло-substitution: AI заменяет не только команду продаж, но и face-of-content.
+sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
 namespace: mkt
 ---
 
@@ -184,6 +184,19 @@ Hyperliquid — это **не AI-продукт** (крипто-деривати
 
 - AI-solopreneur окно открыто **не только для productivity / coding / content** ниш, но и для **trust-intensive psychology / wellness / mom-support** ниш с правильным duo team-shape.
 - Domain expert + technologist — это **2-person team-shape**, который теряется в наративах «solo-founder с AI-агентами». Стоит добавить как sub-pattern: **«2-person duo: technologist + domain expert»** — micro-team variant solopreneur'а.
+
+## Extreme-case substitution — AI-инфлюенсер $75M case (Tabunov 629, май 2026)
+
+Михаил Табунов ([[sources/2026-05-13-tg-your-pet-project-may-6-13-2026|пост 629, 2026-05-13]]) разбирает US-кейс: **1 оператор × 6 AI-инфлюенсеров-бабушек** (HeyGen $99 + ElevenLabs $99 + Android+прокси $8 = $206/мес/персонаж) делают **36 видео/день**, **$250K/мес выручки** (продажа БАДов под брендом Serene Herbs на Amazon, 16 продуктов, ~$30M/год revenue cross-validated через amzscout). Cumulative all-time figure $75M — single-source PR-claim. Полная разборка — [[canon/marketing-frameworks/ai-influencer-grandma-playbook]].
+
+**Implication для тренда (extreme-point datapoint):**
+
+1. **Подтверждение нижней границы capital requirements.** В AI-solopreneur нарративе подкастного спикера 2026-04 цитировался barrier $200 (см. секцию «Барьер входа как маркетинг-сигнал»). Нейробабушки опускают эту планку ещё ниже: $1.2K capital/мес содержит **полностью substitute живого инфлюенсер-маркетинга для всего годового продуктового продвижения**.
+2. **Sub-pattern «AI as face, не только AI as helper».** Hyperliquid ($102.4M/employee), MindmateBot (2-person duo), Wave AI ($7M ARR solo) — все они используют **AI как помощник**. Нейробабушки — первый exemplar **AI as face**, где AI **полностью substitutes presence человека-инфлюенсера** в кадре. Это **новый team-shape**: **0-person с AI-производством**.
+3. **Limit-case на трасте.** MindmateBot занимает trust-intensive нишу с human duo. Нейробабушки занимают **псевдо-trust-intensive** нишу (wellness consumer goods через personality-driven content) с **0 humans visible**. Это **extreme limit** возможного — после этого, если AI-content становится дешевле проверки подлинности на стороне юзера, **trust-decay в category-level**.
+4. **Cross-platform paid-content engine.** Нейробабушки работают через **TikTok + Instagram + Amazon** (последний — destination), 36 ед/день. Это **massive content production rate**, который ни один live-influencer не может поддерживать.
+
+**Implication для GRO:** этот case — **awareness-hook**, но **не template для GRO**: brand-mismatch (GRO — серьёзный self-development продукт), legal в RU/EU (требование маркировки AI-content 2026), и trust-decay-risk. **GRO остаётся в "AI as helper for human" team-shape**, не "AI as face replacement".
 
 ## Contradictions
 

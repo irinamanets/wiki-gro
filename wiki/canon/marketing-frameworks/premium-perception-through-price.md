@@ -9,8 +9,8 @@ tags: [framework, positioning, premium, pricing, perceived-value, brand]
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-kwork-may12-2026-pricing-teaser.md]
+updated: 2026-05-14  # +Goyard concrete-case (sources/2026-05-14-tg-vyakuba-may-5-14-2026): premium-через-трение как параллельный axis к premium-через-цену
+sources: [sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-kwork-may12-2026-pricing-teaser.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
 namespace: mkt
 ---
 
@@ -99,14 +99,35 @@ namespace: mkt
 
 **Cross-применимость**: для контент-стратегии GRO даже на mass-tier — рамка переносима в **выбор кейсов для рассказывания**. Не «как пользователь нажал кнопку», а «как изменилась его рабочая неделя». Это premium-контент, даже если ценник массовый.
 
+## Cross-axis: premium-через-цену vs premium-через-трение
+
+Premium-positioning имеет **два независимых axis**:
+1. **Цена** — premium = «цена не объясняется себестоимостью, а подтверждается спросом» (этот фрейм).
+2. **Трение** — premium = «доступ к покупке требует усилия, что усиливает желание». См. [[canon/marketing-frameworks/goyard-anti-marketing-luxury-friction|Goyard anti-marketing-luxury-friction]] для concrete-case.
+
+**Голос Якубы в 3-м срезе:** «Парадокс в том, что пока все пытаются упростить путь клиента, самые сильные иногда делают его сложнее, и за счёт этого только усиливают желание» (пост 6803, 2026-05-05). Это **complementary**, не contradictory: premium-бренд может работать с **одним из axis** (Hermes — больше friction, чем цена) или с **обоими** (Goyard — оба axis maximally).
+
+| Axis | Параметр | Goyard | Apple | Tesla | Hermes |
+|---|---|---|---|---|---|
+| Цена | Высокая по сравнению с masses? | Да | Да | Да | Да |
+| Трение | Online-shop отсутствует? | Да | Нет | Нет | Частично |
+| Трение | Waitlist / appointment-required? | Да | Нет (кроме Pro) | Test-drive-required | Да |
+| Трение | Mystery-technology / signature-element? | Да (canvas) | Частично | Частично | Да |
+
+**Operational implication:** для GRO эти 2 axis работают по-разному:
+- Premium-через-**цену** применимо к product-tier-strategy (founder-tier по высокой цене).
+- Premium-через-**трение** применимо к **community/access-strategy** (приватный GRO Mastermind по приглашению).
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/goyard-anti-marketing-luxury-friction]] — parallel premium-через-трение (Goyard concrete-case)
 - [[canon/marketing-frameworks/refused-customer-interview]] — отказ от неподходящего клиента как часть премиум-позиционирования
 - [[canon/marketing-frameworks/value-for-customer-concept]] — рамка ценности для клиента, complementary
 - [[canon/marketing-frameworks/production-vs-market-pricing-pipeline]] — pricing methodology (cost-plus vs market-based)
 - [[evolving/competitor-positioning/vyakuba-sales-training]] — Якуба как источник переупаковки рамки
 - [[evolving/content-trends/owner-escape-operations-hooks]] — связанные content-hooks для собственников
 - [[sources/2026-05-05-tg-vyakuba-apr-may-2026]] — первоисточник
+- [[sources/2026-05-14-tg-vyakuba-may-5-14-2026]] — третий срез, Goyard concrete-case
 - [[canon/marketing-frameworks/qualitative-adjectives-ad-copy]] — premium-копирайтинг работает иначе, чем массовый
 
 ## Caveat

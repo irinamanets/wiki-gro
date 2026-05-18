@@ -9,8 +9,8 @@ tags: [content, hooks, objections, ai, solopreneurship, awareness, consideration
 confidence: medium
 stale: false
 created: 2026-04-11
-updated: 2026-05-16  # +Hook 21 «Сотрудник-самоавтоматизатор: автоматизирует 90% своей работы за 9-10 месяцев» (Морейнис 7832: новый профиль hiring для AI-эпохи, двойной адресат — сотрудник и founder SMB)
-sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-boris-again-mar-may-2026.md, sources/2026-05-05-tg-fomichevkirill-mar-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-peregudov-jan-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-14-tg-peregudov-may-2026.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md]
+updated: 2026-05-18  # +Hook 22 «AI-инфлюенсер playbook (нейробабушки)»: $206/мес стек × 6 = $1.2K cost vs $250K/мес выручки. Paid-traffic-friendly альтернатива live-инфлюенсер маркетингу (Табунов 629, third ingest @your_pet_project)
+sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-boris-again-mar-may-2026.md, sources/2026-05-05-tg-fomichevkirill-mar-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-peregudov-jan-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-14-tg-peregudov-may-2026.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
 namespace: mkt
 ---
 
@@ -340,6 +340,28 @@ namespace: mkt
 **Caveat:** Hook 20 — это **subjective opinion с self-acknowledged drift'ом** (Алиев сам говорит «возможно, я опять переобуюсь»). Использовать как **conversation-starter**, не как факт. Никогда не цитировать с absolute claim'ом «вуз — потеря пяти лет» — всегда с источником и с указанием на opinion-character.
 
 **Связь с corpus.** Hook 20 — **развитие** hook'а 585 («отказ от экспертов из-за ИИ») того же автора (Алиев) из предыдущего ingest'а [[sources/2026-04-14-tg-telega-rinata-mar-apr-2026]]. Тот же общий тезис «AI ест людей-помощников», но применён к новой сущности (образование). Эволюция авторского нарратива в сторону охвата всё больших институтов человеческого вспоможения.
+
+### 22. AI-инфлюенсер playbook (нейробабушки) — Табунов 629, 2026-05-13
+
+- **«$75M на нейробабушках. Один оператор, 6 AI-инфлюенсеров, $206/мес стек.»** — Михаил Табунов, [@your_pet_project 629](https://t.me/your_pet_project/629), 2026-05-13 ([[sources/2026-05-13-tg-your-pet-project-may-6-13-2026]])
+- **Контекст:** Табунов разбирает US-кейс сетки 6 AI-инфлюенсеров (бабушки разных этничностей: азиатская, европейская, латиноамериканская, африканская, ещё 2), один оператор. **Stack:** HeyGen $99 + ElevenLabs $99 + старый Android с прокси $8 = **$206/мес на одну бабушку**. **Метрики бизнеса:** 36 видео/день, **$250K/мес выручки**, 16 продуктов на Amazon под брендом Serene Herbs, 70-80k продаж/мес × $35 = **$2.5M/мес = $30M/год**. **Цифра $75M — all-time PR-claim** (low confidence). Полная разборка — [[canon/marketing-frameworks/ai-influencer-grandma-playbook]].
+
+**Маркетинговая логика для GRO.** Hook **расширяет** Hook 12 (AI заменяет B2C-инфлюенсер-маркетинг) от **partial-replacement (Creally)** до **full-substitute pattern (нейробабушки)**. Это **наиболее extreme case** в AI-solopreneur нарративе — солопренёр без живого человека в кадре делает 8-значную выручку в год. Подходит для **awareness-стадии**, провокационный hook, но **не для direct adoption GRO** (brand-mismatch, legal в RU/EU).
+
+**Готовые формулировки:**
+
+| Стадия воронки | Hook | Какому сегменту |
+|---|---|---|
+| Awareness | «$75M на нейробабушках. $206/мес × 6 персонажей = $1.2K cost vs $250K/мес выручки» | Все сегменты как awareness-hook |
+| Awareness | «6 нейроперсонажей выпускают 36 видео в день. Когда последний раз ваша команда делала 36 единиц контента в день?» | Предприниматели + маркетологи |
+| Consideration | «Сегментирование на 6 sub-personas работает в БАДах и косметике. В B2B-софте — пока нет. Но рамка переносима.» | AI-savvy предприниматели |
+| Editorial-skepticism | «"$75M на нейробабушках" — это PR-цифра. Реальная выручка по amzscout — $30M/год. Учитесь различать.» | Все сегменты (cross-ref hook 15) |
+
+**Caveat:** $75M cumulative — single-source self-reported из твиттер-треда неназванного "чувака из США". Табунов пересказывает с открытым acknowledgment, что "мы не знаем многих деталей". **Confidence: low** на $75M, **medium** на $30M/год (cross-validated через AmzScout), **high** на stack ($206/мес — публичные тарифы HeyGen+ElevenLabs).
+
+**Anti-pattern для GRO content:** **не позиционировать GRO как «AI-инфлюенсер платформу»** — это совсем не наша категория. Hook работает **только как awareness-провокация** про state-of-the-art в performance-маркетинге 2026. Cross-ref с [[canon/marketing-frameworks/ai-text-markers-checklist]] (почему AI-content детектируется), [[evolving/content-trends/ai-impersonation-into-classic-scenes-2026]] (parallel pattern).
+
+**Связка с Hook 12 и Hook 19** (Перегудов: AI заменяет B2C-инфлюенсер-команду + builder-role-merging). Если Перегудов формализует **частичную замену человека-агента**, нейробабушки демонстрируют **полную замену человека-как-источника-контента** — две точки на одной шкале «AI-solopreneur substitution».
 
 ## Что не переиспользовать
 

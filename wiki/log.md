@@ -6083,3 +6083,45 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {canon: 1, evolving: 4, volatile-strict: 12, sources: 1}
 - touched: 24 pages
 - raw: raw/processed/articles/tg_vcnews_20260514-071959.md + 47 children (44 jpg + 3 mp4 in media/ and video/)
+
+## [2026-05-18 05:42] [ingest] | Telegram @your_pet_project — Табунов посты 621–629 (6–13 мая 2026, третий ingest канала, дельта 9 постов)
+- source: wiki/sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/build-in-public-as-paid-traffic-anti-pattern.md
+  - wiki/canon/marketing-frameworks/social-proof-traffic-asset-framework-tabunov.md
+  - wiki/canon/marketing-frameworks/ai-influencer-grandma-playbook.md
+  - wiki/canon/marketing-frameworks/five-no-pet-project-tabunov.md
+  - wiki/evolving-strict/competitor-metrics/yp-may-2026-50k-mrr-app-cluster.md
+  - wiki/volatile-strict/industry-news/supreme-ai-bot-merc-decay-case-2026-05.md
+- updated:
+  - wiki/evolving/content-trends/your-pet-project-channel-hooks.md
+  - wiki/canon/marketing-frameworks/bootstrap-vs-startup-tabunov.md
+  - wiki/evolving/content-trends/ai-solopreneur-narrative-hooks.md
+  - wiki/evolving/industry-trends/ai-solopreneurship-window-2026-2029.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 1, evolving-strict: 1, volatile-strict: 1, sources: 1}
+- touched: 11 pages
+- raw: raw/processed/articles/tg_your_pet_project_20260514-083418.md (+ 7 children: 7 jpg in media/ bundled)
+
+## [2026-05-18 05:46] [ingest] | Telegram @vyakuba — 46 постов 5–14 мая 2026 (Самуи/Панган тур, 8-card carousel «Эволюция мышления», Apple-ecosystem-frame, Goyard anti-marketing, club reopen)
+- source: wiki/sources/2026-05-14-tg-vyakuba-may-5-14-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/yakuba-thinking-evolution-levels.md
+  - wiki/canon/marketing-frameworks/goyard-anti-marketing-luxury-friction.md
+  - wiki/canon/marketing-frameworks/apple-ecosystem-recurring-revenue-frame.md
+  - wiki/canon/marketing-frameworks/first-15-sec-sales-contact.md
+- updated:
+  - wiki/evolving/competitor-positioning/vyakuba-sales-training.md
+  - wiki/evolving/content-trends/vyakuba-instagram-carousel-format.md
+  - wiki/evolving/content-trends/ru-sales-infobiz-content-patterns.md
+  - wiki/evolving/content-trends/owner-escape-operations-hooks.md
+  - wiki/evolving/content-trends/sales-ai-narrative-hooks-2026.md
+  - wiki/canon/marketing-frameworks/peer-environment-aspiration-tokovinin.md
+  - wiki/canon/marketing-frameworks/premium-perception-through-price.md
+  - wiki/canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 7, evolving: 5, sources: 1}
+- touched: 13 pages
+- raw: raw/processed/articles/tg_vyakuba_20260514-083912.md (+ 38 children: 24 jpg + 14 mp4 in media/ and video/ bundled)

@@ -9,8 +9,8 @@ tags: [content, ai, sales, smb, hooks, telegram, russia]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-14  # +enrich 2026-04-15: transcript-sourced hooks from podcasts 2234/2238; +2026-05-05 cycle-2 hooks: mystery-shopper «больно очень больно», hate-defense reframing, ВР×КР объекция, Q2-priorities triad, 18-дыр teaser pattern; +2026-05-14 cycle-3 hooks: co-branded carousel design-as-currency, «18 дыр» finale release как summary asset, СОПРАНО как 7-вопросный content-shaper, Д=Э+Э+Ч+О как 4-карточный hook
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md]
+updated: 2026-05-14  # +Vyakuba 3-й срез (sources/2026-05-14-tg-vyakuba-may-5-14-2026 пост 6821): hook «Раньше конкурентом был другой менеджер. Сейчас — менеджер с AI-привычкой» — sales-amplifier voice; ранее: enrich 2026-04-15 podcast hooks, 2026-05-05 cycle-2 hooks, 2026-05-14 cycle-3 hooks
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
 namespace: mkt
 ---
 
@@ -169,6 +169,22 @@ Reusable для GRO:
 ### Anti-pattern: «честные, только если реальные» — ethical guardrail в hook'е
 
 Карточка 2292 даёт **explicit ethical caveat** к urgency-инструментам: «дедлайн / дефицит / ажиотаж — честные инструменты только если будут реальными». Это **redundant**, но **delibrate** включение caveat'а — usable pattern для самой GRO: всякий раз когда пишем про urgency, давать «if real» disclaimer, иначе создаём впаривание-vibe.
+
+## Cross-vertical hooks: Якуба (3-й срез 2026-05-14)
+
+Из [[sources/2026-05-14-tg-vyakuba-may-5-14-2026|3-го среза Якубы]] — sales-trainer в B2B-vertical (vs Шевелев в SaaS/тренинги-vertical). Второй голос про AI-amplifier для sales-команд.
+
+### «Раньше конкурентом был другой менеджер. Сейчас — менеджер с AI-привычкой» (пост 6821)
+
+**Оригинал:** «Сейчас многие до сих пор относятся к ИИ как к "прикольной игрушке". Хотя пока один менеджер тратит час на поиск информации, второй за 10 минут уже получил идеи, аргументы, анализ переписки и готовый план разговора с клиентом. ИИ не заменяет сильного продажника. Он просто делает сильного — ещё быстрее. **Раньше конкурентом был другой менеджер. Сейчас ваш конкурент — менеджер, у которого есть нормальный AI-инструмент и привычка им пользоваться каждый день.**»
+
+**Почему работает:** **frame-shift** — «конкуренция изменилась». Pattern «X было раньше vs Y сейчас» — universally applicable, и concrete-quantification (час vs 10 минут) добавляет credibility. Hook **бьёт сразу в 2 emotion**:
+1. **FOMO** — «если я не освою AI, мои коллеги меня обгонят».
+2. **Pride** — «я могу быть сильным продажником С AI, не выбирая между ними».
+
+**Адаптация для GRO** — прямая, потому что GRO позиционируется как тренажёр навыков, complement к AI: «AI даёт ответ, GRO даёт навык применить ответ». Hook: «Раньше конкурентом был коллега. Сейчас — коллега, который **умеет** использовать AI-инструменты + **тренирует** свои навыки в GRO».
+
+**Cross-vertical confidence-build:** третий голос на тезис «AI = amplifier, не replacement» (Шевелев → Спиридонов → Якуба) — `confidence` всей рамки [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs|fragmented vs modular jobs]] продолжает держаться `high`.
 
 ## Связанные страницы
 
