@@ -9,10 +9,12 @@ tags: [b2b, sales, consulting, awareness, consideration, decision, target-audien
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-18  # +Pressfeed/Tarasova: industrial B2B brand framework; +Pressfeed/LZ.Media: маршрут клиентских мыслей на главной B2B-сайта как операционное приложение
 sources:
   - sources/2026-05-14-condense-e-xecutive-ru-34-articles.md
   - sources/2026-05-14-exec-339137-kak-vybiraut-konsultantov.md
+  - sources/2026-05-18-pressfeed-tarasova-zavod-brand.md
+  - sources/2026-05-18-pressfeed-b2b-homepage-blocks-guide.md
 namespace: mkt
 ---
 
@@ -122,6 +124,10 @@ GRO не должен позиционироваться как «productivity S
 - **«8 клиентов в отрасли» — это декларация. Демонстрация — другое.»** — sales hook
 - **«Купить заметили нас. Решили — другое»** — one-liner про attribution
 
+## Дополнение из Тарасовой (industrial B2B, 2026-05-18)
+
+Анна Тарасова ([[sources/2026-05-18-pressfeed-tarasova-zavod-brand]]) описывает **operationalization воронки в industrial-сегменте** через proof-driven контент: на стадиях 4-5 («понимание, что нужен внешний эксперт» → «выбор эксперта») клиент **конвертирует proof-сигналы в решение**, что сокращает цикл сделки с 3 месяцев до 3 недель `[conf:low, src:2026-05-18]`. Это не противоречит общему фреймворку, а уточняет: **proof-driven content (кейсы с цифрами, видео-производство, прозрачность сроков и штрафов в договорах) — это операционный носитель стадий 4-5** для индустриальных B2B-вертикалей. См. [[canon/marketing-frameworks/industrial-b2b-brand-framework-tarasova]] и [[evolving/content-trends/proof-driven-b2b-content-pattern]].
+
 ## Связанные страницы
 - [[canon/marketing-frameworks/refused-customer-interview]]
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]]
@@ -129,6 +135,12 @@ GRO не должен позиционироваться как «productivity S
 - [[canon/marketing-frameworks/marketing-sales-alignment-framework]]
 - [[canon/marketing-frameworks/demand-first-mvp-castdev]]
 - [[canon/marketing-frameworks/marketer-hiring-questions]]
+- [[canon/marketing-frameworks/industrial-b2b-brand-framework-tarasova]]
+- [[evolving/content-trends/proof-driven-b2b-content-pattern]]
+- [[canon/marketing-frameworks/b2b-homepage-client-route-structure-lz-media]]
+- [[canon/marketing-frameworks/about-us-block-anti-cliche-b2b]]
 - [[canon/target-audience/ru-smb-founder-owner-seller]]
+
 - [[canon/positioning/gro-value-proposition]]
 - [[sources/2026-05-14-condense-e-xecutive-ru-34-articles]]
+- [[sources/2026-05-18-pressfeed-tarasova-zavod-brand]]

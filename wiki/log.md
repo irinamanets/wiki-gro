@@ -6264,3 +6264,153 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {evolving: 2, evolving-strict: 1, sources: 1}
 - touched: 4 pages
 - raw: raw/processed/articles/web_news.pressfeed.ru_14-istorij-ob-osvoenii-messendzhera-maks_c487d612.md (+ .note.md + .triage.json sidecars)
+
+## [2026-05-18 21:28] [ingest] | Pressfeed: 7 шагов к построению сильного личного бренда в 2026 (Юлия Магась, PReach)
+- source: wiki/sources/2026-05-18-pressfeed-magas-personal-brand-7-steps.md
+- created:
+  - wiki/canon/marketing-frameworks/personal-brand-7-steps-magas.md
+  - wiki/canon/marketing-frameworks/ravix-group-niche-spike-case.md
+  - wiki/canon/marketing-frameworks/expert-content-pillar-topology-magas.md
+  - wiki/canon/marketing-frameworks/personal-brand-channels-5-types-magas.md
+  - wiki/canon/marketing-frameworks/competitor-positioning-research-10-15-magas.md
+- updated:
+  - wiki/evolving/content-trends/personal-brand-shift-2026.md
+  - wiki/canon/marketing-frameworks/niche-vs-mass-marketing.md
+  - wiki/canon/marketing-frameworks/microniche-marketing-packages.md
+  - wiki/canon/marketing-frameworks/performance-pr-framework.md
+  - wiki/canon/marketing-frameworks/infopovod-criteria-smb-pr.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 9, evolving: 1, sources: 1}
+- touched: 11 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_7-shagov-k-postroeniyu-silnogo-lichnogo-brenda-v-2026-godu_2999b8a0.md
+
+## [2026-05-18 21:28] [ingest] | Pressfeed: B2B-пиар после эпохи простых охватов (вебинар-анонс, агентство 4D, 21 мая 2026) — сдвиг от каналов к экспертному влиянию + 7-мерная модель измерения цифрового следа
+- source: wiki/sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md
+- created:
+  - wiki/canon/marketing-frameworks/b2b-pr-influence-shift-2026.md
+  - wiki/canon/marketing-frameworks/pr-measurement-digital-footprint.md
+  - wiki/evolving/content-trends/b2b-pr-formats-analytical-content-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/performance-pr-framework.md (+ extended digital footprint measurement (citability, AI-visibility, incoming requests, expert positioning) + cross-links to b2b-pr-influence-shift and pr-measurement-digital-footprint)
+  - wiki/canon/marketing-frameworks/infopovod-criteria-smb-pr.md (+ trendwatching as pre-criterion (themes at intersection of trends, not internal news); link to b2b-pr-influence-shift-2026)
+  - wiki/evolving/industry-trends/seo-to-pr-substitution-2026.md (+ B2B-specific framing: AI-visibility requires thematic-coherent expert footprint, not just trusted-site presence; journalist filter tightening as parallel signal)
+  - wiki/evolving/industry-trends/native-pr-russia-2026.md (+ B2B-projection: 5 levers of B2B-PR restructuring (semantic architecture, trendwatching, analytical content, owned channels, collabs) as operational version of long-term DocsInBox/EMC forecast)
+  - wiki/evolving/industry-trends/ai-search-aeo-geo-2026.md (+ AI-visibility-as-KPI B2B framing: thematic-coherent expert footprint required (not just Schema.org+llms.txt); new sub-KPI «AI-citability quality» (cited as expert vs cited as mention))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 1, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_b2b-piar-posle-epohi-prostyh-ohvatov-vebinar_e971cf79.md (+ .note.md + .triage.json sidecars)
+
+## [2026-05-18 21:32] [ingest] | Pressfeed/PRAGMATIX: AI меняет правила поиска — данные важнее лендинга (product-data-as-architecture + agentic commerce L2-L3)
+- source: wiki/sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md
+- created:
+  - wiki/canon/marketing-frameworks/product-data-as-architecture-pragmatix.md
+  - wiki/evolving/industry-trends/ai-search-product-discovery-layer-2026.md
+  - wiki/evolving-strict/market-data/ai-search-commerce-benchmarks-2026.md
+  - wiki/volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05.md
+  - wiki/volatile-strict/industry-news/openai-stripe-chatgpt-checkout-2026-05.md
+  - wiki/volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026.md
+- updated:
+  - wiki/evolving/industry-trends/agentic-commerce-stripe-2026.md
+  - wiki/evolving/industry-trends/ai-search-aeo-geo-2026.md
+  - wiki/evolving/content-trends/aeo-geo-llm-search-optimization-2026.md
+  - wiki/canon/marketing-frameworks/seo-for-ai-era-playbook.md
+  - wiki/evolving/industry-trends/ecommerce-trust-decision-shift-ru-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 3, evolving-strict: 1, volatile-strict: 3, sources: 1}
+- touched: 11 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_ai-menyaet-pravila-poiska-teper-vse-reshayut-dannye-a-ne-len_977d7e2e.md
+
+## [2026-05-18 21:44] [ingest] | Pressfeed — Анна Тарасова: «Бренд завода как невидимая сила, начинающая приносить реальные деньги» (industrial-B2B brand framework + proof-driven content pattern)
+- source: wiki/sources/2026-05-18-pressfeed-tarasova-zavod-brand.md
+- created:
+  - wiki/canon/marketing-frameworks/industrial-b2b-brand-framework-tarasova.md
+  - wiki/evolving/content-trends/proof-driven-b2b-content-pattern.md
+- updated:
+  - wiki/canon/marketing-frameworks/b2b-services-client-maturity-funnel.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_brend-zavoda-kak-nevidimaya-sila-nachinaet-prinosit-realnye-_a60f72ac.md
+
+## [2026-05-18 21:46] [ingest] | Pressfeed: чат-боты в e-commerce — когда нужны и точно окупятся (ROI-рамка Юлии Евсеевой)
+- source: wiki/sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md
+- created:
+  - wiki/canon/marketing-frameworks/chatbot-roi-4-economic-effects.md
+  - wiki/canon/marketing-frameworks/chatbot-readiness-checklist.md
+  - wiki/canon/marketing-frameworks/chatbot-vendor-selection-criteria.md
+- updated:
+  - wiki/canon/marketing-frameworks/llm-bot-customer-tolerance-gorny-frame.md
+  - wiki/canon/marketing-frameworks/ai-smb-pilot-three-traps.md
+  - wiki/canon/marketing-frameworks/cpa-calculator-pre-launch-roi.md
+  - wiki/canon/marketing-frameworks/automation-vs-digital-transformation-framework.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 7, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_chat-boty-v-elektronnoj-kommerczii-kogda-oni-realno-nuzhny-i_687abc04.md
+
+## [2026-05-18 21:30] [ingest] | Pressfeed/Insight Analytics (Кравченко): object-oriented retrieval, Faire +40% AI-Overviews, GEO-monitoring discipline, architectural shift
+- source: wiki/sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md
+- created:
+  - wiki/canon/marketing-frameworks/object-oriented-retrieval-kravchenko.md
+  - wiki/canon/marketing-frameworks/geo-monitoring-discipline-2026.md
+- updated:
+  - wiki/evolving/content-trends/aeo-geo-llm-search-optimization-2026.md (+Кравченко-update: object-oriented retrieval, Faire +40% AI-Overviews case, booking +15%/+30%, inventory accuracy, JSON-LD приоритет, GEO-мониторинг discipline, architectural shift, готовый slogan)
+  - wiki/canon/marketing-frameworks/seo-for-ai-era-playbook.md (+Микроразметка extended (Product/Offer/Brand/Person); +JSON-LD priority calibration; +Архитектурный сдвиг capex vs opex table; +Inventory accuracy section; +ссылки на object-oriented retrieval и GEO-monitoring discipline)
+  - wiki/evolving/content-trends/geo-playbook-2026-q2.md (+Update 2026-05-18 Кравченко: механика II расширена (Faire case +40% AI-Overviews + расширение Schema до Product/Offer/Brand), механика VI расширена до GEO-monitoring discipline; +inventory accuracy + 2 новых пункта в operational checklist)
+  - wiki/evolving/industry-trends/ai-search-aeo-geo-2026.md (+Update 2026-05-18 Кравченко: object-oriented retrieval, Faire +40% benchmark, inventory accuracy, architectural shift (capex vs opex), GEO-monitoring discipline; +готовый slogan «видимость = интерпретация»)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 3, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_brendy-uhodyat-v-ten-algoritmov-pochemu-strukturirovannye-da_8acbddf9.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-18 22:00] [ingest] | Pressfeed/Язовский: GEO-оптимизация за 6 шагов + 3 RU SMB-кейса (Perplexity 24%/GigaChat 20% distribution, 9× рост 2025)
+- source: wiki/sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb.md
+- created:
+  - wiki/canon/marketing-frameworks/geo-smb-6-step-playbook-yazovsky.md
+  - wiki/evolving-strict/campaign-metrics/geo-smb-case-benchmarks-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-ai-search-traffic-share-2026.md (+Язовский distribution AI-traffic Perplexity 24%/GigaChat 20% (первый RU-замер по источникам); +9× рост RU AI-traffic 2025; +35% RU users use AI for fact search; +12-18% Яндекс CTR падение коммерции; +кросс-ссылки на SMB-плейбук и benchmarks)
+  - wiki/evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026.md (+Update Язовский SMB-уровень: 8й practitioner-голос дополняет corporate 13-кейсов; подтверждение 7 паттернов RU consensus + уникальный SMB-угол (self-audit, 6 шагов, 3 SMB-кейса); рекомендация микса для GRO (SMB diagnostics + corporate PR))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving-strict: 1, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_dlya-kakogo-biznesa-kritichna-geo-optimizacziya-i-kak-ee-nac_07edc3f0.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-18 22:21] [ingest] | Pressfeed — Интенсивы по нейросетям: можно ли быстро освоить AI и начать применять (RU-landscape + 5-критериев качества)
+- source: wiki/sources/2026-05-18-pressfeed-ai-intensives-overview.md
+- created:
+  - wiki/canon/marketing-frameworks/ai-intensive-format-criteria.md
+  - wiki/evolving/industry-trends/ru-ai-intensive-courses-landscape-2026.md
+- updated:
+  - wiki/canon/product-knowledge/gro-intensive.md
+  - wiki/canon/target-audience/gro-segments.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_intensivy-po-nejrosetyam-mozhno-li-bystro-osvoit-ai-i-nachat_fa177dae.md
+
+## [2026-05-18 22:22] [ingest] | Pressfeed: Главная страница b2b-сайта — гайд по основным блокам и правилам наполнения (LZ.Media, SEO-агентство Самара)
+- source: wiki/sources/2026-05-18-pressfeed-b2b-homepage-blocks-guide.md
+- created:
+  - wiki/canon/marketing-frameworks/b2b-homepage-client-route-structure-lz-media.md
+  - wiki/canon/marketing-frameworks/serp-driven-website-blocks-discovery.md
+  - wiki/canon/marketing-frameworks/specificity-test-strip-company-name.md
+  - wiki/canon/marketing-frameworks/about-us-block-anti-cliche-b2b.md
+- updated:
+  - wiki/canon/marketing-frameworks/tabunov-landing-anatomy.md
+  - wiki/canon/marketing-frameworks/ai-text-markers-checklist.md
+  - wiki/canon/marketing-frameworks/b2b-services-client-maturity-funnel.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 7, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_glavnaya-stranicza-b2b-sajta-gajd-po-osnovnym-blokam-i-pravi_55196fb6.md

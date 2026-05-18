@@ -9,8 +9,8 @@ tags: [landing-page, conversion, copywriting, consideration, decision]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14
-sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md]
+updated: 2026-05-18  # +Pressfeed/LZ.Media (B2B-services 6-step client route) — комплементарный фреймворк для длинных B2B-сайтов
+sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-18-pressfeed-b2b-homepage-blocks-guide.md]
 namespace: mkt
 ---
 
@@ -119,14 +119,26 @@ CTA должен называть то **действие**, которое по
 - У GRO **три дистрибуционных стора** (см. [[canon/product-knowledge/gro-app-store-listing]], [[canon/product-knowledge/gro-google-play-listing]], [[canon/product-knowledge/gro-rustore-listing]]), а не один, поэтому CTA-блок должен включать три кнопки. Это legitimized-исключение из правила «одна CTA», потому что у пользователя разные платформы.
 - Веб-кабинет [[canon/product-knowledge/gro-web-app|lk.groapp.ru]] — четвёртая точка, но её CTA **не должна** присутствовать на главном лендинге на равных с mobile-сторами (веб не раскрывает цены pre-auth, см. источник).
 
+## Complementary framework: LZ.Media B2B 6-step client route
+
+Anatomy Tabunov-а — для **коротких лендингов** solopreneur/SaaS-формата (один продукт, одна CTA, mobile-first). Для **длинных B2B-сайтов** (агентства, подряды, индустриальные услуги) применяется другой фреймворк: [[canon/marketing-frameworks/b2b-homepage-client-route-structure-lz-media|маршрут клиентских мыслей LZ.Media]], где главная отвечает на 6 вопросов клиента в правильном порядке (зачем оставаться → что компания делает → как работают → доказательства → FAQ → CTA). Anatomy 4-блочная и LZ.Media 6-шаговая не противоречат — это разные contexts:
+
+- **Anatomy Tabunov** — solopreneur/SaaS, mobile-first, узкая ниша, один продукт, одна CTA.
+- **LZ.Media 6-step route** — B2B-агентство/подряд, длинная сделка, multi-service, навигационный узел с переходом на посадочные.
+
+При гибридных кейсах (B2B SaaS с длинным sales-циклом, корпоративный лендинг продукта) — Anatomy для hero-блока (3-секундный понимаемый заголовок), LZ.Media для последующего scroll-flow (доказательства, кейсы, FAQ).
+
 ## Связанные страницы
 - [[canon/marketing-frameworks/funnel-simplicity-principle]]
 - [[canon/marketing-frameworks/tabunov-onboarding-principles]]
 - [[canon/marketing-frameworks/agent-vs-saas-pricing-arbitrage]]
+- [[canon/marketing-frameworks/b2b-homepage-client-route-structure-lz-media]]
+- [[canon/marketing-frameworks/specificity-test-strip-company-name]]
 - [[canon/product-knowledge/gro-app-overview]]
 - [[evolving/content-trends/your-pet-project-channel-hooks]]
 - [[volatile-strict/industry-news/ai-solopreneur-cases-jan-apr-2026]]
 - [[sources/2026-04-14-tg-your-pet-project-jan-apr2026]]
+- [[sources/2026-05-18-pressfeed-b2b-homepage-blocks-guide]]
 
 ## Backlinks
 

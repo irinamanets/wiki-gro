@@ -5,12 +5,12 @@ type: page
 subtype: trend
 layer: evolving
 theme: content-trends
-tags: [geo, aeo, llm-search, chatgpt, perplexity, faq-schema, llms-txt, robots-txt, reddit, wikipedia, content, generative-engine-optimization]
+tags: [geo, aeo, llm-search, chatgpt, perplexity, faq-schema, llms-txt, robots-txt, reddit, wikipedia, content, generative-engine-optimization, json-ld, monitoring, kravchenko]
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-solokumi-may-2026.md]
+updated: 2026-05-19  # +Кравченко (Insight Analytics) механика VI → GEO-monitoring discipline + Faire +40% AI-Overviews case; +Pressfeed «GEO иллюзия позиций»: 5-шаговый практикумный чек-лист
+sources: [sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md]
 namespace: mkt
 ---
 
@@ -155,6 +155,39 @@ Allow: /
 
 **Интерпретация**: пользователь, который пришёл через AI, **уже принял решение**, что вы — релевантный ответ на его вопрос. Это другой уровень намерения, и поэтому регистрация в 10x.
 
+## Update 2026-05-18 — Кравченко (Insight Analytics): дополнения к механикам
+
+[[sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data|Кравченко в Pressfeed «.Журнал» (май 2026)]] добавляет операционное расширение к двум механикам:
+
+### Механика II расширяется: Faire case +40% AI-Overviews
+
+Кравченко описывает operational case: платформа Faire имела высокие позиции в обычной выдаче Google, но **не попадала в Google AI Overviews**. После расширения атрибутов **Schema.org Product/Offer/Brand** + переход на **JSON-LD в режиме реального времени**: **+40% упоминаний в AI-обзорах по коммерческим запросам** `[conf:medium, src:2026-05-18]`.
+
+Это **первый публичный benchmark uplift'а** от структурированных данных на Google AI Overviews. Дополняет цифру «+40% к цитируемости от первых 50 слов» (механика I) — это работает на **отдельном уровне** (объектные атрибуты, не текст).
+
+**Operational consequence для механики II:** не ограничиваться `FAQPage` schema. Для коммерческих сущностей добавлять полную онтологию `Product` / `Offer` / `Brand` / `AggregateRating` (для e-commerce) или `SoftwareApplication` (для SaaS). Полная рамка — [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]].
+
+### Механика VI расширяется: GEO-мониторинг как отдельная дисциплина
+
+Кравченко артикулирует то, что в этой странице фигурирует как **набор инструментов** (GEO Tracker AI, audit.algomizer.com, Llmspot, Ahrefs Brand Radar, Пиксель Тулс), как **отдельную операционную дисциплину** с собственным фреймворком измерения:
+
+- **Inclusion** — входит ли бренд в pool источников по контрольному списку запросов?
+- **Citation quality** — как именно цитирует модель (точно/искажение, контекст, авторитетность)
+- **Competitive parity** — share-of-voice относительно конкурентов
+- **Trend over time** — динамика по этим трём осям
+
+Полный playbook дисциплины (что отслеживать, weekly cadence, operational loop, alerts) — [[canon/marketing-frameworks/geo-monitoring-discipline-2026]]. Инструменты остаются те же, что в этой механике; разница — в **дисциплине измерения**, не в tooling.
+
+### Дополнительный operational signal: inventory accuracy
+
+Из материала Кравченко:
+
+> «ИИ генерирует ответы на основе доступной информации «здесь и сейчас». Если на сайте указано наличие товара, которого уже нет, модель фиксирует недостоверность. Актуальность данных становится новым критерием релевантности.»
+
+Это **новая операционная цепочка**: stale data → AI помечает домен как недостоверный → downgrade ranking **всего домена**. Один незакрытый недоступный товар деградирует видимость **всех** товаров. См. [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]] раздел «Inventory accuracy».
+
+Для e-commerce и B2B-SaaS — обязательная инфраструктурная компонента (real-time sync между inventory/feature-set и JSON-LD-разметкой), не операционная мелочь.
+
 ## Полный чек-лист для команды
 
 Минимальный first-pass GEO-проект (1 спринт, 2 недели):
@@ -167,8 +200,10 @@ Allow: /
 - [ ] **Reddit**: один пост 400–600 слов в /r/<ниша>, полезный, без продажи (Mech V, 2 ч)
 - [ ] **Wikipedia**: проверить наличие статьи по теме, бэклинк с вашего сайта (Mech V, 1 ч)
 - [ ] **Мониторинг**: запустить GEO Tracker AI + audit.algomizer.com для baseline (Mech VI, 30 мин)
+- [ ] **Product Schema**: расширить разметку коммерческих страниц до `Product` / `Offer` / `Brand` / `AggregateRating` + переход на JSON-LD в `<head>` (если ещё Microdata) — Faire case +40% AI-Overviews (Кравченко, 2026-05-18, 2-4 ч)
+- [ ] **Inventory sync**: проверить, что `availability` в Schema обновляется при изменении состояния (latency < 5 мин). При out-of-stock — обновление Schema, не удаление страницы. (Engineering, 4-8 ч)
 
-**Результат**: через 3–4 недели — измеряемый рост AI-цитируемости (`+40%` теоретический потолок от Mech I в одиночку).
+**Результат**: через 3–4 недели — измеряемый рост AI-цитируемости (`+40%` теоретический потолок от Mech I в одиночку; +40% и в Faire case от Schema-расширения — это **независимые** uplifts по разным механизмам).
 
 ## Связанные страницы
 
@@ -176,8 +211,67 @@ Allow: /
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — макро-уровень тренда + decision-layer рамка
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] — стабильная рамка (форматы, кластеры, schema)
 - [[canon/marketing-frameworks/fete-outreach-framework-clay]] — параллельная operational-механика (но для outbound, не для inbound)
+- [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]] — онтологическая рамка retrieval'а LLM через объекты, Faire +40% case, inventory accuracy
+- [[canon/marketing-frameworks/geo-monitoring-discipline-2026]] — GEO-мониторинг как отдельная операционная дисциплина (4-осевая рамка измерения)
 - [[sources/2026-04-16-pressfeed-geo-vmesto-seo]] — Шевченко / humanswith.ai про три механизма попадания в LLM
+- [[sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data]] — Кравченко: object-oriented retrieval, Faire case, architectural shift
+
+## Update 2026-05-19 — Pressfeed 5-шаговый практикумный чек-лист (extension)
+
+[[sources/2026-05-18-pressfeed-geo-illusion-stability-measure|Pressfeed «GEO иллюзия позиций»]] (май 2026) даёт **5-шаговый operational чек-лист** как extension к 6 механикам Кумар Виас выше. Шаги ориентированы на **первое полугодие GEO-программы** (когда базовая инфраструктура запущена, но ещё не понятна реальная видимость):
+
+### Шаг 1. Проверьте, что о вас знают
+
+Прогон **нескольких запросов в разных формулировках** через **Яндекс Нейро + ChatGPT** (минимум 2 платформы; полная сегментация — [[canon/marketing-frameworks/geo-platform-segmentation-yandex-chatgpt-perplexity|platform segmentation]]).
+
+**Зафиксировать:**
+- Где бренда **нет**
+- Где бренд **есть**
+- Где AI говорит о бренде **что-то не то** (старая цена, путаница с конкурентом, неверная категория)
+
+Это **важнее любого контент-плана** — без baseline-аудита остальное теряет смысл. Это input для GEO-monitoring loop ([[canon/marketing-frameworks/geo-monitoring-discipline-2026|GEO-monitoring discipline]]).
+
+### Шаг 2. Разделите экосистемы
+
+Не действовать «универсально» по 3 платформам. Определить **где сосредоточена ваша аудитория**, направить усилия туда. Для каждой экосистемы — **отдельная инфраструктура** (см. platform-segmentation таблицу).
+
+### Шаг 3. Закрепите авторство
+
+- Новые материалы — **сначала на своих площадках**, потом на внешних
+- **Никаких эксклюзивов** чужим доменам, если они главные для категории
+- Партнёрские версии — **специально неполноценны** без вашего бренда
+
+Это защита от [[evolving/content-trends/aeo-geo-llm-search-optimization-2026|information primacy theft]] — LLM выбирает не первоисточник, а более trusted/recent домен. Legal protection ([[volatile-strict/industry-news/ru-ai-law-march-2026|RU AI-закон март 2026]]) **отсутствует** в РФ; единственная защита — content-структурная.
+
+### Шаг 4. Считайте правильные метрики
+
+**Не:** «нас упомянули 20 раз за месяц»
+
+**А:**
+
+- В какой **доле релевантных запросов** мы появляемся?
+- В каком **контексте**?
+- Насколько **стабильно** при повторных прогонах? (SparkToro benchmark: 20% брендов появляются стабильно при 5 прогонах — see [[canon/marketing-frameworks/stochastic-llm-ranking-sparktoro|stochastic-llm-ranking]])
+
+Это **операционная импликация стохастичности** AI-выдачи. Подробная рамка metric'ов — [[canon/marketing-frameworks/geo-monitoring-discipline-2026|GEO-monitoring discipline]].
+
+### Шаг 5. Честно оцените перспективы
+
+GEO — **инвестиция в среду, которая может измениться в любой момент**:
+
+- Алгоритмы обновляются без расписания и предупреждения
+- Год работы может быть **обнулён** одним обновлением модели
+- В классическом SEO накопленные ссылки/история работают месяцами; в GEO такой стабильности нет
+
+**Дисквалификаторы** (когда GEO не оправдан):
+- Нет чёткого отличия от конкурентов (commodity-сегмент → AI выдаёт общий список или отправляет на маркетплейс)
+- Нет готовности работать **минимум год**
+- Клиент в категории выбирает **по цене** → AI пойдёт по price-comparison
+
+Полный disqualification-фреймворк → [[evolving/content-trends/geo-when-not-worth-investing-2026]].
 
 ## Sources
 
 - [[sources/2026-05-14-tg-solokumi-may-2026]] — пост 405 от 2026-05-07 (6 механик с метриками)
+- [[sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data]] — Кравченко (Insight Analytics): Faire +40% case + дополнения к механикам II и VI
+- [[sources/2026-05-18-pressfeed-geo-illusion-stability-measure]] — 5-шаговый practitioner чек-лист (extension)

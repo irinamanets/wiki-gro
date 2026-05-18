@@ -5,12 +5,12 @@ type: page
 subtype: trend
 layer: evolving
 theme: industry-trends
-tags: [russia, e-commerce, marketplaces, trust, consumer-behavior, positioning, ugc, content-strategy]
+tags: [russia, e-commerce, marketplaces, trust, consumer-behavior, positioning, ugc, content-strategy, agentic-commerce, product-data]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md]
+updated: 2026-05-18  # +Pressfeed/PRAGMATIX (май 2026): параллельный data-сдвиг — конкуренция переходит на уровень structured signals (trust + product data)
+sources: [sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md]
 namespace: mkt
 ---
 
@@ -87,6 +87,47 @@ GRO как продукт **не маркетплейс**, но **попадае
 - **Поведение D2C-брендов 2026 H2:** будут ли publicly leveraging anti-counterfeit-нарратив в категориях с высокой долей подделок?
 - **Метрика «trust-преданная аудитория»** — появится ли в отчётах АКИТ / Data Insight как отдельный KPI? Сейчас её нет.
 
+## Update 2026-05-18 — Параллельный сдвиг к product data (PRAGMATIX/Pressfeed)
+
+[[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing|PRAGMATIX/Pressfeed]] (май 2026) артикулирует **второй параллельный сдвиг** на mature e-commerce рынке: после **trust > трафик** (эта страница) наступает **data > маркетинговый нарратив**. Обе механики — про переход конкуренции в **structured signals**.
+
+| Сдвиг | Что становится primary | Что становится secondary |
+|---|---|---|
+| **Trust > трафик** (Селихов) | UGC, отзывы, anti-counterfeit-history, прозрачность | Реклама, охват, brand awareness |
+| **Data > лендинг** (PRAGMATIX/Indig) | Structured product data (Schema, фид) | Маркетинговое описание, storytelling |
+
+**Mета-рамка:** оба сдвига отражают **переход от human-mediated к machine-mediated решениям**. Человек больше не читает лендинг — он смотрит на агрегированные оценки (trust-сигналы) и/или получает рекомендацию AI-агента (data-driven отбор). Маркетинг для человека → маркетинг для AI + маркетинг через agg-сигналы.
+
+### Для D2C-брендов GRO-типа
+
+D2C trust-нарратив (см. [[canon/marketing-frameworks/dtc-community-driven-growth]]) дополняется **product data layer**:
+
+- App Store / Google Play / RuStore — это **квази-маркетплейс** с собственной trust-функцией (рейтинги, отзывы) **и** product-data-функцией (метаданные листинга: цена, что включено, размер, частота обновлений)
+- Trust-asset accumulation → **отзывы** primary, **метаданные листинга** secondary
+- Product-data-asset accumulation → **structured app metadata** primary, **скриншоты и storytelling** secondary
+- **Полная стратегия:** оба asset-класса параллельно
+
+### Алиса «Найти дешевле» как L2-инфраструктура trust+data
+
+[[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05|Запуск Алисы «Найти дешевле» + YCP]] (май 2026) — это **operational инфраструктура** для обоих сдвигов одновременно:
+
+- Trust-сигнал: магазин подключённый к YCP, прошедший проверку Яндекса
+- Data-сигнал: structured product feed через YCP-протокол
+
+Магазины без YCP-подключения — невидимы для агента, независимо от того, насколько они известны или trustworthy в человеческой воронке. Сдвиг неотвратимый.
+
+### Anti-pattern: одно без другого
+
+PRAGMATIX:
+
+> «Если ваш продукт ничем не отличается от товара конкурентов, GEO поможет попасть в нейровыдачу, но не продать. AI сравнит цены и выберет самый дешевый вариант.»
+
+Селихов:
+
+> «Маркетплейсы конкурируют не столько с физическими магазинами, сколько с недоверием аудитории.»
+
+**Совмещённое прочтение:** acquisition (трафик) без trust = leakage воронки. Видимость (GEO) без structured data = race-to-bottom. Полный stack 2026 года — **trust + visibility + structured product data** одновременно.
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/risk-first-consumer-decision-online]] — поведенческая рамка risk-first решения
@@ -101,6 +142,12 @@ GRO как продукт **не маркетплейс**, но **попадае
 - [[evolving-strict/market-data/wciom-ad-perception-russia-2026]] — параллельный perception-сигнал
 - [[evolving/customer-feedback/gro-app-store-reviews]] — применение к ГРО
 - [[sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026]]
+- [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] — параллельный data-сдвиг
+- [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]] — data-side рамка
+- [[evolving/industry-trends/ai-search-product-discovery-layer-2026]] — параллельный AI-decision-layer trend
+- [[evolving/industry-trends/agentic-commerce-stripe-2026]] — agentic commerce инфраструктура
+- [[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]] — RU operational пример (Алиса + YCP)
+- [[evolving-strict/market-data/ai-search-commerce-benchmarks-2026]] — McKinsey $3-5T 2030, Gartner B2B 90% 2028
 
 ## Backlinks
 

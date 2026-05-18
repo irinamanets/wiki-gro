@@ -9,8 +9,8 @@ tags: [trust, positioning, brand-asset, transaction-costs, marketplace, payments
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14  # +Селихов 2026-05-14: risk-first логика покупателя как поведенческое следствие принципа монеты
-sources: [sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-moneta-biznes-uroki.md, sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md]
+updated: 2026-05-18  # +Стеценко 2026-05-18: AI как breaker монеты в tabu-зонах высокого доверия
+sources: [sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-moneta-biznes-uroki.md, sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md]
 namespace: mkt
 ---
 
@@ -74,9 +74,17 @@ GRO как продукт **не является монетой** в чисто
 
 Для self-positioning тестa это означает: продукт-«монета» должен быть **виден и понятен** в первые секунды контакта с пользователем, иначе он не успевает сработать как trust-фильтр и пользователь уходит к конкуренту, чей trust-сигнал лучше виден.
 
+## AI как breaker монеты в tabu-зонах (May 2026 update)
+
+Параллельная фронт-линия: Виктория Стеценко (Loyalty Group, [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]]) формулирует, что **в зонах высокого доверия** (медицина, фарма, семейные отношения, кулинария, творчество, история) AI-сгенерированный контент **ломает монету** аналогично подделке: пользователь интуитивно детектирует «фейк», и доверие к бренду-«чеканщику» падает.
+
+Это инвариант для self-positioning теста: продукт, претендующий на «монету» в trust-чувствительной зоне, должен **намеренно** избегать AI-материалов с людьми, иначе он сам себе фальшивомонетчик. Развёрнуто в [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]].
+
 ## Cross-references
 
 - [[canon/marketing-frameworks/agalarov-tangibility-investment-test]] — другой framework про материализацию доверия (но через физический actiff vs cервисный «гарант»).
+- [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]] — зоны, где AI ломает монету доверия
+- [[evolving/content-trends/ai-content-overload-trust-crisis-2026]] — макро-тренд trust-кризиса AI-эпохи (на фоне которого монета становится премиум-категорией)
 - [[canon/marketing-frameworks/risk-first-consumer-decision-online]] — поведенческая рамка risk-first решения как следствие принципа монеты
 - [[evolving/industry-trends/ecommerce-trust-decision-shift-ru-2026]] — макро-сдвиг рынка к trust-first логике
 - [[evolving-strict/market-data/ru-ecommerce-consumer-journey-2026]] — числовые anchors (51,6% / 830k / 2-3 дня)

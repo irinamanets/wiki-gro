@@ -5,13 +5,14 @@ type: page
 subtype: trend
 layer: evolving
 theme: industry-trends
-tags: [agentic-commerce, stripe, acp, stablecoin, api, b2b, payments]
+tags: [agentic-commerce, stripe, acp, stablecoin, api, b2b, payments, ycp, alice, sap, joule, openai, chatgpt-checkout]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-05-18  # +Pressfeed/PRAGMATIX (май 2026): OpenAI×Stripe ChatGPT checkout запущен, YCP RU-аналог + Алиса «Найти дешевле», SAP Joule Tender Analysis Agent, McKinsey $3-5T 2030, Gartner 90% B2B 2028 $15T
 sources:
   - sources/2026-04-14-peregudov-telegram-dec25-apr26.md
+  - sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md
 namespace: mkt
 ---
 
@@ -62,11 +63,61 @@ Stripe в марте 2026 выпустила отчёт с концептуал�
 3. **L2-hook для контента**. Прямой content-slot: обучающие посты «как правильно описать задачу агенту, чтобы он подобрал тебе инструмент» — и в примере фигурирует GRO. Это одновременно educational и product placement.
 4. **B2B-ветка**. Если $10M ARR за 3 месяца удваивается, то GRO в B2B-раскатке (корпоративы, HR-партнёрства) может двигаться быстрее, чем планировалось в 2025-м. Это аргумент за агрессивный outbound в ближайшие 6 месяцев.
 
+## Update 2026-05-18 — Pressfeed/PRAGMATIX: первые публичные agent-чекауты и B2B-сдвиг
+
+[[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing|PRAGMATIX/Pressfeed]] (май 2026) фиксирует, что L2 уровень лестницы перешёл из «emerging» в **operational** на нескольких рынках одновременно:
+
+### Глобально: OpenAI × Stripe ChatGPT checkout
+
+> «Крупные американские магазины и технологические компании уже разрабатывают единые стандарты, чтобы AI могли работать с их каталогами напрямую. OpenAI и платежный сервис Stripe запустили первый такой чекаут в ChatGPT. Искусственный интеллект помогает пользователю выбрать товар и оформить заказ прямо в чате, а человек подтверждает покупку одним нажатием, без перехода на сайт.»
+
+Это **первое production-grade воплощение L2** через инфраструктуру Stripe ACP. См. [[volatile-strict/industry-news/openai-stripe-chatgpt-checkout-2026-05]].
+
+### RU: Алиса AI «Найти дешевле» + YCP
+
+Параллельно Яндекс запустил аналог в Алисе AI: агент **«Найти дешевле»** + протокол **Yandex Commerce Protocol (YCP)** — RU-аналог ACP. Магазины подключаются через YCP, чтобы их каталог попадал в подборки агента. См. [[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]].
+
+**Это означает:** L2-L3 лестницы уже стали reality в **двух крупнейших AI-экосистемах** — глобальной (OpenAI) и российской (Яндекс) — одновременно в Q1-Q2 2026. Прогноз «L2 — массовый через год» (апрель 2027) подтверждается, но **опережает на ~6 месяцев**.
+
+### B2B: SAP Joule Tender Analysis Agent
+
+В B2B-сегменте сдвиг идёт быстрее розницы. SAP интегрировала Joule с **Tender Analysis Agent** — автоматический разбор тендерных предложений (требования, сравнение поставщиков по цене, срокам, SLA, рискам) с рекомендацией. См. [[volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026]].
+
+**Что значит для B2B-продавца:**
+
+> «Оценивается только то, что можно прочитать и сравнить: надежность поставок, SLA поддержки, совокупная стоимость владения, соответствие стандартам. Все это должно быть в данных, а не в PDF с коммерческим предложением.»
+
+Это операционная валидация рамки [[canon/marketing-frameworks/product-data-as-architecture-pragmatix|«маркетинг = архитектура данных»]] на B2B-сегменте.
+
+### Новые количественные сигналы (отдельная страница)
+
+[[evolving-strict/market-data/ai-search-commerce-benchmarks-2026]] фиксирует:
+
+- **Adobe Black Friday 2025 (US):** +805% YoY AI-search traffic, +38% conversion `[conf:high, src:2026-05-18]`
+- **McKinsey 2030:** $3–5 трлн agentic commerce / год `[conf:medium, src:2026-05-18]`
+- **Gartner B2B 2028:** 90% сделок с AI на >$15 трлн `[conf:medium, src:2026-05-18]`
+- **Brand Analytics RU 2025:** российские компании потеряли 33-38% органики `[conf:high, src:2026-05-18]`
+
+McKinsey-цифра ($3-5T/год к 2030) дополняет цифру Stripe-2025 ($2T обработано, $400 млрд стейблкоинами) **prognoz-trajectory'ей** — Stripe сейчас уже больше 50% McKinsey-target минимума ($3T).
+
+### Связь с продуктовым data-сдвигом
+
+PRAGMATIX/Pressfeed артикулирует **новый структурный слой** в agentic commerce: после видимости (GEO/AEO) идёт **отбор по structured data**. Это разобрано в [[evolving/industry-trends/ai-search-product-discovery-layer-2026]] и [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]].
+
+Связь с лестницей: уровни L1-L5 описывают **degree of agent autonomy**, продуктовый data-сдвиг описывает **fuel** — какую информацию агент использует для решения. Без качественного structured data даже на L2 агент рекомендует не вас, а конкурента с лучшими данными.
+
 ## Связанные
 
 - [[evolving/industry-trends/software-moat-erosion-2026]] — комплементарный тезис: «80% потребности в интерфейсах пропадёт, агенты общаются через API». ACP и SPT — инфраструктурный ответ на этот сдвиг.
 - [[evolving/industry-trends/ai-native-company-architecture-2026]] — внутри компании агенты тоже общаются через стандартизированные API-контракты, это параллель.
+- [[evolving/industry-trends/ai-search-product-discovery-layer-2026]] — параллельный тренд: AI как decision-layer для product selection через structured data
+- [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]] — концептуальная рамка «маркетинг = архитектура данных»
+- [[evolving-strict/market-data/ai-search-commerce-benchmarks-2026]] — все benchmark-метрики 2025-2026
+- [[volatile-strict/industry-news/openai-stripe-chatgpt-checkout-2026-05]] — L2 в production (global)
+- [[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]] — L2 в production (RU) + YCP протокол
+- [[volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026]] — B2B agent в production
 - [[sources/2026-04-14-peregudov-telegram-dec25-apr26]] — первоисточник (пересказ Перегудова).
+- [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] — Pressfeed/PRAGMATIX май 2026 (данные > лендинг)
 
 ## Contradictions
 

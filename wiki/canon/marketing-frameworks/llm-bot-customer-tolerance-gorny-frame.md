@@ -9,8 +9,8 @@ tags: [ai, llm-bot, smb, customer-experience, automation, sales-ops, considerati
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-startupoftheday-may-5-13-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-14-tg-startupoftheday-may-5-13-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md]
 namespace: mkt
 ---
 
@@ -117,15 +117,22 @@ GRO — фитнес-приложение с **AI-ассистент персо�
 - **Life-critical decisions** — medical diagnosis, legal advice. Регрессия даже на 0.1% качества → catastrophic outcomes → human-only.
 - **Open-ended consultation** — стратегический коучинг, бизнес-сессия. AI пока не доводит до клиентского «aha-moment» с такой же надёжностью.
 
+## Cross-frame: «можно ли» vs «окупится ли»
+
+Frame Горного отвечает на вопрос **«можно ли** заменить человека ботом» (customer-side tolerance). Это **необходимое**, но не достаточное условие. Параллельная рамка Юлии Евсеевой ([[canon/marketing-frameworks/chatbot-roi-4-economic-effects]], Pressfeed 2026-05-19) отвечает на вопрос **«окупится ли** замена и где именно» — через 4 узла экономического эффекта (восстановление лидов, LTV, сокращение поддержки, off-hours) и ROI-гейт. Вместе эти два frame'а закрывают decision pipeline для SMB-внедрения чат-бота: Горный говорит, что **бот не разрушит CX в transactional операциях**, Евсеева говорит, что **бот окупается только при пройденном readiness-чек-листе** ([[canon/marketing-frameworks/chatbot-readiness-checklist]]).
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]] — где AI работает, где нет (canonical)
 - [[canon/marketing-frameworks/ai-smb-pilot-three-traps]] — antithesis (3 ловушки AI-pilot)
 - [[canon/marketing-frameworks/automation-vs-digital-transformation-framework]] — automation vs transformation tiers
+- [[canon/marketing-frameworks/chatbot-roi-4-economic-effects]] — комплементарная ROI-рамка (Евсеева)
+- [[canon/marketing-frameworks/chatbot-readiness-checklist]] — readiness gate для бот-внедрения (Евсеева)
 - [[evolving/industry-trends/ai-productivity-j-curve-2026]] — J-curve адопции AI в operations
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — макро-картина AI-замещения
 - [[sources/2026-05-14-tg-startupoftheday-may-5-13-2026]] — оригинал (пост 5055)
 - [[sources/2026-04-14-tg-startupoftheday-mar-apr-2026]] — pre-history того же автора
+- [[sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva]] — параллельный источник Евсеевой
 
 ## Backlinks
 

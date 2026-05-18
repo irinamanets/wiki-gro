@@ -9,11 +9,13 @@ tags: [pr, content, smb, awareness, organic]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-18
+updated: 2026-05-18  # +Pressfeed «достаточно посеять сомнение»: те же критерии работают в атакующем режиме — внутренний чат как локальное СМИ
 sources:
   - sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md
   - sources/2026-05-18-pressfeed-22-press-release-ideas.md
   - sources/2026-05-18-pressfeed-4-sposoba-infopovod.md
+  - sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md
+  - sources/2026-05-18-pressfeed-black-pr-community-doubt.md
 namespace: mkt
 ---
 
@@ -112,6 +114,30 @@ Pressfeed в редакционном материале о 22 темах-иде
 
 Сходство двух независимых источников (бизнес-журнал «Жажда» 2016 + Pressfeed 2026) повышает `confidence` критериев. Pressfeed добавляет более развёрнутую таксономию — см. [[canon/marketing-frameworks/press-release-types-7-categories]] и [[canon/marketing-frameworks/press-release-22-topic-ideas]].
 
+## Третий источник: B2B-PR shift 2026 (трендвотчинг как pre-criterion)
+
+[[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach|Pressfeed-вебинар «B2B-пиар после эпохи простых охватов»]] (21 мая 2026) добавляет **pre-condition** к этим пяти критериям: где **искать темы**. Принцип «трендвотчинг как основа B2B-PR»:
+
+> «Искать темы **не внутри компании**, а на пересечении клиентских болей, рыночных изменений, данных, технологий, регуляторики и отраслевых сдвигов.»
+
+Это методический pre-step к критерию 1 (новизна) и критерию 3 (аналитика от экспертов): сначала **локализовать тему на пересечении трендов**, потом проверить её через 5 критериев. Без трендвотчинга компания зацикливается на «новостях про себя», которые не проходят критерий 4 (прагматический угол).
+
+См. родительский стратегический сдвиг → [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]].
+
+## Inverted-режим: те же критерии в атакующей коммуникации
+
+[[sources/2026-05-18-pressfeed-black-pr-community-doubt|Pressfeed (2026-05-18)]] описывает 6-шаговую механику чёрного PR в малых сообществах. При внимательном чтении видно, что **те же 5 критериев** работающего инфоповода используются и в атакующем режиме — внутренний чат сообщества превращается в «локальное СМИ» для соседей:
+
+| Критерий | В легитимной PR-работе | В атакующем режиме (Pressfeed 2026-05-18) |
+|---|---|---|
+| Новизна | новая фича, новый рынок, рекорд | «А кто-нибудь проверял эти цифры?», «Почему раньше об этом не говорили?» |
+| Цифры | достоверные метрики компании | «реальные факты, поданные под нужным углом» — например, участок члена правления как «доказательство корыстного интереса» |
+| Аналитика | внутреннее исследование рынка | «помощники разобраться» с длинными разборами, пересчётами, выдержками из документов |
+| Прагматичный угол | «как это влияет на жизнь читателя» | «как это влияет на ваш кошелёк / комфорт / безопасность» — но с заранее заданным выводом |
+| Экспертные комментарии | привлечение знающего спикера | «опытные юристы» на параллельном канале (чаты, шашлыки, прогулки) |
+
+**Следствие для SMB-бренд-команды:** при позиционировании в локальном комьюнити (клиентский чат, founders-группа, отраслевая ассоциация) полезно понимать, что **те же сигналы**, что делают инфоповод работающим в редакторском канале, делают и заходную атаку работающей во внутреннем чате. Защитные ходы — см. [[canon/marketing-frameworks/black-pr-community-doubt-mechanic]] и [[canon/marketing-frameworks/doubt-vs-fact-question-pattern]].
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/press-release-types-7-categories]] — таксономия 7 типов релизов
@@ -124,8 +150,13 @@ Pressfeed в редакционном материале о 22 темах-иде
 - [[canon/marketing-frameworks/benetton-toscani-provocative-advertising]] — альтернативный приём: провокация вместо регулярности
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — кто применяет и кто читает
 - [[canon/marketing-frameworks/native-advertising]] — платная альтернатива тому же охвату
+- [[canon/marketing-frameworks/personal-brand-channels-5-types-magas]] — публикации в СМИ как один из 5 каналов personal brand
+- [[canon/marketing-frameworks/personal-brand-7-steps-magas]] — материнский фреймворк personal brand
 - [[sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese]] — первоисточник (Жажда 2016)
 - [[sources/2026-05-18-pressfeed-22-press-release-ideas]] — второй независимый источник (Pressfeed 2026)
+- [[sources/2026-05-18-pressfeed-magas-personal-brand-7-steps]] — Магась: PR-марафон 6-12 мес
+- [[canon/marketing-frameworks/black-pr-community-doubt-mechanic]] — те же критерии в атакующем режиме (6-шаговая механика)
+- [[canon/marketing-frameworks/doubt-vs-fact-question-pattern]] — unit-блок атакующего инфоповода
 
 ## Backlinks
 

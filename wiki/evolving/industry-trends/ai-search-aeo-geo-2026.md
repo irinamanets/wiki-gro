@@ -5,12 +5,12 @@ type: page
 subtype: trend
 layer: evolving
 theme: industry-trends
-tags: [seo, ai, content, search, decision-layer, infrastructure]
+tags: [seo, ai, content, search, decision-layer, infrastructure, product-data, agentic-commerce, json-ld, object-retrieval]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-18  # +Pressfeed «13 кейсов» (май 2026): RU practitioner-консенсус — PR замещает SEO как primary для инфо-запросов, B2B AI-трафик 0.36%/3.4% (qtickets), DiaClass 10%, 30-40% падения органики, 20-25% инфо-трафика, LLM-friendly видео-транскрипция
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md]
+updated: 2026-05-19  # +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия» (SparkToro стохастичность + платформенная сегментация + legal RU + disqualification)
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md]
 namespace: mkt
 ---
 
@@ -185,6 +185,40 @@ Zero-click поиск растёт: пользователи получают о
 
 Все 13 практиков сошлись: попытки прямой инъекции в ChatGPT через диалоги — не работают. Системный подход через SEO-фундамент + targeted seeding на трастовые площадки — единственное, что работает. Это **тройное подтверждение** anti-pattern'а из [[evolving/content-trends/aeo-geo-llm-search-optimization-2026|Pressfeed апрель]] и Перегудов/Шевченко (апрель).
 
+## Update 2026-05-18 — Кравченко (Insight Analytics): структурированные данные как новая валюта
+
+[[sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data|Pressfeed «Бренды уходят в тень алгоритмов»]] (Владимир Кравченко, управляющий партнёр Insight Analytics) добавляет к тренду **операционный фундамент**, который дополняет content-сторону playbook'а Шевченко/Кумар Виас:
+
+### Object-oriented retrieval как онтологическая рамка
+
+> «Генеративная модель ищет не текст, а объекты: товар, услугу, бренд, локацию.»
+
+Модель видит **граф сущностей с атрибутами**, не поток текста. Продукт без атрибутной структуры — узел без рёбер. Это **онтологическое объяснение** того, почему первичный SEO-контент уже недостаточен. Полная рамка — [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]].
+
+### Faire +40% AI-Overviews — первый публичный benchmark
+
+Платформа Faire (B2B-shopping) после расширения Schema.org-разметки + переход на JSON-LD в режиме реального времени получила **+40% упоминаний в Google AI Overviews по коммерческим запросам** `[conf:medium, src:2026-05-18]`. **Первая опубликованная цифра uplift'а** от structured data на AI Overviews.
+
+### Inventory accuracy как relevance criterion
+
+Stale data → AI помечает домен как недостоверный → **downgrade всего домена** в категории. Один незакрытый недоступный товар деградирует видимость всех товаров. Это антифрагильное обоснование для real-time data pipeline.
+
+### Архитектурный сдвиг, не точечный апгрейд
+
+Кравченко артикулирует **менеджерскую рамку приоритизации**: GEO как **capex-проект** (инфраструктура: CMS → API → JSON-LD endpoint + inventory real-time sync), не как **opex-функция** (content-команда правит лендинг). Без capex-слоя content-улучшения упираются в потолок неполных данных. Это в три раза сильнее тезиса PRAGMATIX «маркетинг = архитектура данных» по operational consequence.
+
+### GEO-мониторинг как отдельная дисциплина
+
+> «Традиционный SERP больше не отражает реальную видимость.»
+
+Кравченко артикулирует GEO-мониторинг (что в playbook Кумар Виас — это набор инструментов) как **отдельную операционную дисциплину** с 4-осевой рамкой измерения (inclusion, citation quality, competitive parity, trend). Полная рамка — [[canon/marketing-frameworks/geo-monitoring-discipline-2026]].
+
+### Готовый slogan
+
+> «В генеративной экономике видимость — это не позиция, а интерпретация.»
+
+14-словный hook, сворачивающий весь architectural-shift тезис. Полезен для маркетинговых материалов GRO.
+
 ### Связь с decision-layer и Морейнис
 
 RU-практики неявно работают на трёх уровнях decision-layer:
@@ -193,6 +227,161 @@ RU-практики неявно работают на трёх уровнях d
 - **Synthesis**: PR-targeted seeding на трастовые площадки = попадание в prompt-context
 
 Это **операционное приземление** decision-layer-рамки Себранта на RU-рынке. И «PR-эксперимент с несуществующим бизнесом» — наиболее яркое подтверждение Морейнис-тезиса «маркетинг для агентов»: AI делает выбор по retrieval-корпусу, а не по эмоциям пользователя.
+
+## Update 2026-05-18 — Pressfeed/PRAGMATIX: structural extension к двухслойной воронке
+
+[[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing|Pressfeed/PRAGMATIX DIGITAL]] (май 2026) дополняет рамку **новым архитектурным слоем**: после **видимости** (GEO/AEO для контента) идёт **отбор** по structured product data. Это **structurally orthogonal** к уже разобранным механикам Шевченко / Виаса / Pressfeed-13 / Морейниса — все они про **попадание в retrieval-корпус**. PRAGMATIX добавляет: **внутри** корпуса AI делает выбор по полям данных, а не по нарративу.
+
+### Главный тезис
+
+> «Маркетинговые формулировки и сторителлинг AI игнорирует, потому что анализирует поля в данных, а не нарративы.»
+
+> «Структурированный продуктовый фид стал тем, чем раньше была домашняя страница.»
+
+Цитата Kevin Indig:
+
+> «В мире GEO маркетинг — это архитектура данных.»
+
+Концептуальная рамка фиксируется в новом canon-слое: [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]].
+
+### Двухслойная воронка AI-выдачи
+
+| Слой | Что делает маркетинг | Кто конкурирует | Где это видно |
+|---|---|---|---|
+| **Видимость (GEO/AEO)** | Попадание контента в retrieval-корпус, который читают LLM | Контент, PR | Цитирование в нейроответах |
+| **Отбор (Product Data)** | Машиночитаемые атрибуты продукта (цена, гарантия, сроки, состав, сертификаты, TCO, SLA) | Product, data engineering | Финальная рекомендация AI пользователю |
+
+Подробно: [[evolving/industry-trends/ai-search-product-discovery-layer-2026]].
+
+### Brand Analytics: -33-38% RU органики 2025
+
+PRAGMATIX цитирует Brand Analytics: российские компании потеряли **33-38% органического трафика за 2025 год** `[conf:high, src:2026-05-18]`. Это **опережает Gartner-прогноз** «-25% к концу 2026 globally» — RU-рынок ускоряется по сравнению с глобальным.
+
+Согласуется с RU practitioner-данными из [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]] (30-40% падения за 2025). Конкретно про долю информационного vs коммерческого трафика и RU-метрики B2B/B2C — в [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]].
+
+### Инфраструктурные катализаторы (2026 Q1-Q2)
+
+Помимо AEO/GEO-инструментов и tools мониторинга, в 2026 году появились **agentic-commerce инфраструктуры**, которые делают эту двухслойную воронку production-grade:
+
+- **OpenAI × Stripe ChatGPT checkout** ([[volatile-strict/industry-news/openai-stripe-chatgpt-checkout-2026-05]]) — первый global agent-to-merchant чекаут
+- **Yandex Commerce Protocol (YCP) + Алиса «Найти дешевле»** ([[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]]) — RU-аналог
+- **SAP Joule + Tender Analysis Agent** ([[volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026]]) — B2B
+
+Связь с лестницей Stripe ([[evolving/industry-trends/agentic-commerce-stripe-2026]]): L2-L3 уровни лестницы стали reality в 2026 Q1-Q2 — то есть прогноз «массовый L2 через год (апрель 2027)» сбылся на ~6 месяцев раньше.
+
+### Anti-pattern «race-to-bottom»
+
+PRAGMATIX добавляет **operational warning** к GEO-стратегии:
+
+> «Если ваш продукт ничем не отличается от товара конкурентов, GEO поможет попасть в нейровыдачу, но не продать. AI сравнит цены и выберет самый дешевый вариант.»
+
+Все конкуренты в категории инвестируют в GEO → попадают в нейровыдачу → AI сортирует по цене → все снижают цены → маржинальность сектора схлопывается.
+
+Выход — дифференциация, **отражённая в данных** (не только в маркетинге). Подробно — [[canon/marketing-frameworks/product-data-as-architecture-pragmatix|race-to-bottom anti-pattern]].
+
+### Связь с trust-сдвигом
+
+PRAGMATIX-тренд (data > landing) и [[evolving/industry-trends/ecommerce-trust-decision-shift-ru-2026|trust > трафик]] (Селихов) — **два параллельных уровня одной мета-рамки**: на mature рынках конкуренция смещается с маркетинга на **structured signals**. Trust-сигналы (отзывы, рейтинги, anti-counterfeit-history) и product-data (цена, гарантия, состав, SLA) — оба категория **machine-readable** информации, отличающейся от маркетингового нарратива.
+
+## Update 2026-05-18 — AI-видимость как KPI требует экспертной территории (Pressfeed B2B-вебинар)
+
+[[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach|Pressfeed-вебинар «B2B-пиар после эпохи простых охватов»]] (21 мая 2026, эксперт — гендиректор агентства 4D) формулирует **B2B-обоснование AI-видимости как нового KPI**:
+
+> «Если у компании нет сильного экспертного следа и понятного позиционирования, то для AI её сложнее найти, процитировать, рекомендовать и включить в профессиональную повестку.»
+
+Это переформулирует AEO/GEO-дисциплину: дело не только в **техническом присутствии** (Schema.org, llms.txt, E-E-A-T-маркап), но и в **связности экспертного следа** — чтобы AI-системы интерпретировали разрозненные публикации как «эту компанию упоминают как эксперта по теме X», а не «отдельные публикации без unifying-thesis».
+
+### Импликация для GEO-стратегии
+
+- **Schema.org + llms.txt** — необходимое, но недостаточное условие. Без thematic-кластера экспертных публикаций технический маркап не приведёт к цитированию.
+- **PR-targeted seeding** (рассмотренный выше в 13 кейсах) — единственный механизм построения экспертного следа в retrieval-корпусе. Pressfeed-вебинар уточняет: **PR-усилия должны быть thematically focused**, а не разнотемные.
+- **GEO + смысловая архитектура** — два параллельных рычага: технический маркап + cohesive expert positioning. Без второго первый не работает.
+
+### Новый sub-KPI: AI-citability
+
+К метрике «share-of-voice в AI-ответах» (см. также [[canon/marketing-frameworks/pr-measurement-digital-footprint]]) добавляется sub-метрика **AI-citability quality** — цитируется ли компания **как эксперт** (с атрибуцией экспертизы) или **как источник упоминания** (без позиционирования как эксперта). Первое — индикатор зрелой GEO-стратегии, второе — раннее присутствие.
+
+См. подробно → [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]], [[canon/marketing-frameworks/pr-measurement-digital-footprint]].
+
+## Update 2026-05-19 — Pressfeed «GEO иллюзия позиций»: стохастичность, 3 платформы, federal/regional dichotomy
+
+[[sources/2026-05-18-pressfeed-geo-illusion-stability-measure|Pressfeed «GEO-продвижение. Почему позиции в нейровыдаче — это иллюзия»]] (май 2026) добавляет **четыре уровня нового сигнала** к decision-layer-рамке:
+
+### 1. Стохастичность как architectural-факт LLM-выдачи
+
+SparkToro Jan 2026 (2961 prompt-прогонов через ChatGPT/Claude/Google AI Overviews) даёт первый публичный benchmark:
+
+- **Вероятность идентичного brand-set при повторе: < 1%** `[conf:high, src:2026-05-18]`
+- **При 5 прогонах: ≈ 20% брендов появляются стабильно** `[conf:high, src:2026-05-18]`
+- Частота попадания **определяется насыщенностью тематического кластера**, не brand-equity `[conf:high, src:2026-05-18]`
+
+Это **architectural-следствие** Себрант-decision-layer-рамки: AI-ответ формируется **stochastic'ы** на synthesis-уровне, поэтому даже идеально оптимизированный контент на retrieval/ranking уровнях даёт **probability < 100%**.
+
+Подробно — [[canon/marketing-frameworks/stochastic-llm-ranking-sparktoro]].
+
+### 2. Платформенная сегментация retrieval-баз
+
+Pressfeed эксплицирует то, что в decision-layer-рамке Себранта было implicit: **три RU-релевантные платформы — три разные retrieval-инфраструктуры**:
+
+| Платформа | Retrieval-корпус | Аудитория | Когда приоритет |
+|---|---|---|---|
+| **Яндекс Нейро / Алиса** | Я.Бизнес + Карты + Дзен + RU-СМИ + справочники | RU-аудитория | Локальный бизнес, RU B2C, региональный B2B |
+| **ChatGPT** | Public web (en-heavy): статьи, техдокументация, экспертные блоги | Global | Cross-border B2B, tech-сообщество, founder positioning |
+| **Perplexity** | Live web search в режиме реального времени | Global + RU research | Research-категории, аналитика, freshness > authority |
+
+**Operational consequence:** content-стратегия определяется **после** выбора аудитории. Полная сегментация-рамка → [[canon/marketing-frameworks/geo-platform-segmentation-yandex-chatgpt-perplexity]].
+
+### 3. Federal vs Regional dichotomy — KPI разный
+
+> «Для крупного федерального бренда нейровыдача — это вопрос видимости, для небольшого регионального — контроль точки контакта с клиентом.»
+
+Это **новая дихотомия в decision-layer-рамке**: одна и та же AI-инфраструктура даёт **разные функциональные роли** в зависимости от размера бизнеса:
+
+- **Federal brand** → AI = **visibility channel** (одна из 100+ touchpoints, KPI = share-of-voice)
+- **Regional/local business** → AI = **first contact point** (если AI выдала неверную инфо, клиент **не приходит**; KPI = transaction quality + accuracy)
+
+Особенно явно с Yandex booking-from-neuroresponse (см. ниже): сайт смещается на роль **бэкенда**, AI **перехватывает первый контакт**. Для медицины, услуг, retail — это означает, что без actuality Я.Бизнес-карточек региональный бизнес **теряет фронт-офис**.
+
+### 4. Yandex booking-from-neuroresponse — production-shift
+
+Pressfeed фиксирует: **Яндекс уже тестирует прямую запись и бронирование прямо из нейроответа без перехода на сайт** — в медицине, сфере услуг.
+
+**Архитектурный сдвиг:**
+
+- Сайт смещается на **роль backend'а**
+- Первый контакт с клиентом **перехватывает платформа** (Яндекс)
+- Решение за клиента **принимает нейросеть**
+- Клиент **не читал** про вас, не сравнивал, не видел тарифы
+
+Это **L3 уровень agentic commerce** ([[evolving/industry-trends/agentic-commerce-stripe-2026|Stripe-лестница]]) для local-business вертикалей. Связь — с YCP / Алиса «Найти дешевле» ([[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]]).
+
+**KPI-shift для local-business:**
+
+- Раньше: трафик на сайт + конверсия на странице
+- Теперь: **число и качество транзакций из AI + карт** vs трафика на сайт
+- Инфраструктура: актуальные карточки Я.Бизнес + работа с отзывами + синхронизация данных на всех площадках
+
+### 5. Legal layer — RU AI-закон март 2026
+
+В Госдуму внесён законопроект ([[volatile-strict/industry-news/ru-ai-law-march-2026|закон РФ о регулировании ИИ]]): обучение моделей на опубликованных текстах **без согласия правообладателя признаётся допустимым**, если пользователь не видит исходника `[conf:medium, src:2026-05-18]`.
+
+**Что это меняет:** information primacy theft (LLM цитирует не первоисточник, а более trusted/recent домен) в RU **юридически защищено**. Не баг — статус-кво. Защита оригинального авторства — **только через content-структуру** (multi-platform одновременная публикация, partner-versions неполноценны без бренда, unique data trudno-pereskazivayemoye).
+
+### 6. Trust signal — 28% / 87%
+
+- **28% россиян доверяют ИИ-поиску** `[conf:medium, src:2026-05-18]`
+- **87% AI-ответов не содержат ссылку**, где она была бы уместна `[conf:medium, src:2026-05-18]`
+
+Combined risk → [[evolving-strict/market-data/ru-ai-trust-citation-2026|RU trust × citation surface]]: **legally-permitted, technically-invisible, behaviorally-trusted** дистрибуция инфо без credit оригинальному автору. Brand-monitoring AI-ответов = **операционная необходимость**, не оптимизация.
+
+### 7. Disqualification framework — когда GEO не окупится
+
+Pressfeed формулирует **3 кейса**, когда инвестиция в GEO **не оправдана**, плюс **sameness anti-pattern**. Полная рамка → [[evolving/content-trends/geo-when-not-worth-investing-2026]]:
+
+1. Commodity-перепродажа (AI выдаст общий список / отправит на маркетплейс)
+2. Ожидание быстрого результата (модель обновляется без расписания → может обнулить год работы)
+3. Клиент выбирает по цене (AI пойдёт по price-comparison)
+4. **Sameness anti-pattern** — все следуют одинаковым GEO-tutorials → AI не различает; нужна **уникальная позиция, собственные данные, оспариваемый тезис**
 
 ## Связанные страницы
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] -- практические рекомендации по AI-оптимизации
@@ -216,3 +405,23 @@ RU-практики неявно работают на трёх уровнях d
 - [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]] -- RU practitioner-консенсус 13 кейсов
 - [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]] -- RU метрики долей AI-трафика B2B/B2C
 - [[canon/marketing-frameworks/llm-friendly-video-transcription]] -- LLM-friendly видео-механика
+- [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]] -- Kevin Indig + machine-readable claims + race-to-bottom anti-pattern
+- [[evolving/industry-trends/ai-search-product-discovery-layer-2026]] -- AI как product decision-layer (data > лендинг)
+- [[evolving-strict/market-data/ai-search-commerce-benchmarks-2026]] -- Adobe, McKinsey, Gartner, Brand Analytics-метрики
+- [[volatile-strict/industry-news/openai-stripe-chatgpt-checkout-2026-05]] -- global agent-checkout
+- [[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]] -- Алиса «Найти дешевле» + YCP
+- [[volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026]] -- B2B AI-агент SAP
+- [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] -- источник PRAGMATIX «данные > лендинг»
+- [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]] -- родительский B2B-shift: AI-видимость требует экспертной территории
+- [[canon/marketing-frameworks/pr-measurement-digital-footprint]] -- AI-citability как sub-KPI
+- [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]] -- какие форматы строят экспертный след
+- [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]] -- B2B-обоснование AI-видимости как KPI
+- [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]] -- онтологическая рамка retrieval'а через объекты + Faire +40% case + inventory accuracy + architectural shift
+- [[canon/marketing-frameworks/geo-monitoring-discipline-2026]] -- GEO-мониторинг как отдельная операционная дисциплина (4-осевая рамка измерения)
+- [[sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data]] -- Кравченко (Insight Analytics) май 2026
+- [[canon/marketing-frameworks/stochastic-llm-ranking-sparktoro]] -- стохастичность retrieval'а (SparkToro 2961 prompts)
+- [[canon/marketing-frameworks/geo-platform-segmentation-yandex-chatgpt-perplexity]] -- 3 retrieval-инфраструктуры (Яндекс / ChatGPT / Perplexity)
+- [[evolving/content-trends/geo-when-not-worth-investing-2026]] -- disqualification framework (3 кейса + sameness)
+- [[volatile-strict/industry-news/ru-ai-law-march-2026]] -- legal context: закон РФ о регулировании ИИ
+- [[evolving-strict/market-data/ru-ai-trust-citation-2026]] -- 28% trust / 87% no-citation RU-сигнал
+- [[sources/2026-05-18-pressfeed-geo-illusion-stability-measure]] -- Pressfeed «GEO иллюзия позиций» (май 2026)

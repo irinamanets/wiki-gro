@@ -9,8 +9,8 @@ tags: [ai, trust, deepfake, content, pr, social, dnative, expert-opinion, conten
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-dnative-7598-7611.md]
+updated: 2026-05-18  # +Стеценко (Loyalty Group) creative-content-layer как parallel-axis к platform-layer dnative
+sources: [sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md]
 namespace: mkt
 ---
 
@@ -76,7 +76,12 @@ dnative использовал ChatGPT для генерации серии ре
 - [[canon/marketing-frameworks/trust-as-managed-asset-coin-principle]] — trust как управляемый бренд-актив (теперь под атакой)
 - [[canon/marketing-frameworks/business-crisis-playbook-apollo13]] — общий crisis playbook, расширяемый под deepfake-screenshot
 - [[evolving/content-trends/contrarian-framing-expert-telegram]] — dnative как контр-нарративный автор
+- [[evolving/content-trends/ai-content-overload-trust-crisis-2026]] — макро-тренд (creative-content-layer) того же класса trust-кризиса, на котором держится этот platform-layer
+- [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]] — зональная рамка: где AI-применение запрещено по этической границе
+- [[evolving/industry-trends/ai-invisibility-shift-2026]] — отраслевой сдвиг к «AI становится невидимым»
+- [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]] — параллельный mass-scale кейс, иллюстрирующий тот же trust-кризис
 - [[sources/2026-05-14-tg-dnative-7598-7611]] — первоисточник (пост 7599 + visual recursion 7600–7603)
+- [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — параллельный источник по creative-content-layer
 
 ## TTL
 

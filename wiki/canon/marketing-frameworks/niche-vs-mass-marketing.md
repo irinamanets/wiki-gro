@@ -9,11 +9,12 @@ tags: [positioning, segmentation, niche, mass-marketing, push-pull, awareness, c
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-18  # +Магась (PReach) operational RU-кейс Ravix Group: параллельные нишевые стратегии под 2 under-served сегмента
 sources:
   - sources/2026-05-14-condense-e-xecutive-ru-34-articles.md
   - sources/2026-05-14-exec-338918-nishevye-brendy.md
   - sources/2026-05-14-exec-339115-reklamnyi-rynok.md
+  - sources/2026-05-18-pressfeed-magas-personal-brand-7-steps.md
 namespace: mkt
 ---
 
@@ -71,6 +72,16 @@ Pull-стратегия: ориентация на конечный спрос �
 
 Чем значимее благо и выше альтернативные издержки компромисса, тем выше вероятность перехода на индивидуализированное удовлетворение. Этот тренд продолжился последующие 20 лет — отсюда современная микро-сегментация и [[canon/marketing-frameworks/microniche-marketing-packages]] / [[canon/marketing-frameworks/hyperseg-funnel-replication]].
 
+## RU-кейс 2026: Ravix Group — параллельные ниши
+
+Современный RU-кейс реализации niche-стратегии — маркетинговое агентство **Ravix Group** под руководством PR-агентства PReach (Юлия Магась). Разобран отдельно в [[canon/marketing-frameworks/ravix-group-niche-spike-case]]. Ключевой вклад в `niche-vs-mass` — операционная иллюстрация **расширения паттерна на параллельные ниши**:
+
+- Вместо «выбрать одну нишу и отказаться от остальных» агентство ведёт **два параллельных нишевых сегмента**: маркетинг для fitness-проектов и маркетинг для агентств партнёрок.
+- Под каждый — свой набор каналов (выступления + СМИ для fitness, мастермайнды + подкаст для агентств) и свой язык контента.
+- Результаты на один сегмент за полгода: 9 + 12 лидов + 1 партнёр в сегменте 1, 10+ лидов в сегменте 2 `[conf:high, src:2026-05-18]`.
+
+Это разрешает классический fear «выбрать одну нишу = упустить рынок»: ниш может быть несколько при условии, что **каждая полно отыграна как отдельная стратегия**, без смешения. Магась явно фиксирует и анти-паттерн обратной стороны — «эксперт-всеядец», который «и про менеджмент, и про финансы, и про персонал». См. [[canon/marketing-frameworks/personal-brand-7-steps-magas]] и [[canon/marketing-frameworks/expert-content-pillar-topology-magas]] для детального операционного фреймворка.
+
 ## Risk нишевого бренда: «слишком большой для своей ниши»
 
 При экспансии бренд может стать «слишком большим для своей ниши» — манит «горизонт» масс-маркета, но без соответствующей оснастки судно врезается в волны открытого океана. Две стратегии:
@@ -123,6 +134,9 @@ Niche-marketing **НЕ голубой океан**. См. [[canon/marketing-fram
 - [[canon/marketing-frameworks/cost-leader-premium-quality-positioning]]
 - [[canon/marketing-frameworks/definition-of-done-product-positioning]]
 - [[canon/marketing-frameworks/hyperseg-funnel-replication]]
+- [[canon/marketing-frameworks/ravix-group-niche-spike-case]] -- RU operational кейс параллельных ниш (2026)
+- [[canon/marketing-frameworks/personal-brand-7-steps-magas]] -- nichification как шаг 2 personal brand methodology
 - [[canon/positioning/gro-value-proposition]]
 - [[canon/target-audience/gro-segments]]
 - [[sources/2026-05-14-condense-e-xecutive-ru-34-articles]]
+- [[sources/2026-05-18-pressfeed-magas-personal-brand-7-steps]]

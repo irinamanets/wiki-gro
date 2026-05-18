@@ -6,14 +6,15 @@ subtype: concept
 layer: canon
 theme: marketing-frameworks
 tags: [segmentation, packaging, retention, partnerships, b2b]
-confidence: low
+confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-06
+updated: 2026-05-18  # +RU кейс 2026 Ravix Group (fitness-маркетинг + B2B2B агентств партнёрок), confidence повышен до medium
 sources:
   - sources/2026-05-05-e-xecutive-ru-condensed.md
   - sources/2026-05-05-exec-mobilnaya-svyaz-crm.md
   - sources/2026-05-05-hr-portal-focus-strategy.md
+  - sources/2026-05-18-pressfeed-magas-personal-brand-7-steps.md
 namespace: mkt
 ---
 
@@ -43,6 +44,29 @@ namespace: mkt
 
 **Cellnet × BarclayCard (historic):** специальные телефоны клиентам банка с возможностью просмотра банковских счетов и электронных платежей. Отток в этом микросегменте стал 5% против 20% средних по британской индустрии мобильной связи (historic, conf:low). Партнёр (банк) даёт целевую аудиторию и ценный jobs-to-be-done (управление финансами в любое время), Cellnet даёт инфраструктуру связи. Win-win-win.
 
+## RU-кейс 2026: Ravix Group — параллельные microniche-стратегии
+
+Современная RU-иллюстрация microniche-паттерна для **service-business** (а не для продуктового). Маркетинговое агентство **Ravix Group** под руководством PR-агентства PReach (Юлия Магась) собрало **два параллельных microniche-пакета**:
+
+**Пакет 1: «маркетинг для fitness-проектов»**
+- Сегмент: владельцы и маркетологи fitness-клубов / fitness-стартапов / fitness-приложений
+- JTBD: «помоги мне привлечь клиентов в fitness, понимая специфику отрасли»
+- Каналы: спикерство в клубе фитнес-маркетологов, beauty-конференция, статья в Pressfeed.Журнале
+- Результаты (полгода): 9 лидов + 12 лидов + 1 партнёр + топ выдачи `[conf:high, src:2026-05-18]`
+
+**Пакет 2: «маркетинг для агентств партнёрок»** (B2B2B — продаёт другим агентствам)
+- Сегмент: маркетинговые агентства партнёрского маркетинга (CPA, affiliate)
+- JTBD: «дай мне инструменты и партнёрство для роста моего агентства»
+- Каналы: мастермайнды в бизнес-клубе, подкаст для CEO, вебинары, офлайн-выступления
+- Результаты (полгода): 10+ лидов на партнёрство `[conf:high, src:2026-05-18]`
+
+**Что отличает от классического microniche-пакета:**
+
+- Не используется внешний дистрибьюторский партнёр (как банк или корпорат) — собственное прямое присутствие в каждом сегменте.
+- **Параллельное** ведение двух пакетов без каннибализации, потому что аудитории не пересекаются (fitness-операторы и партнёрские агентства живут в разных деловых полях).
+
+**Урок для GRO:** microniche-пакеты в service / cohort-формате не требуют партнёра-дистрибьютора — достаточно собственного присутствия в нишевых каналах (профильные клубы, нишевые конференции, отраслевые СМИ). Это снижает порог входа в microniche-стратегию для bootstrap-агентств. Подробный разбор — [[canon/marketing-frameworks/ravix-group-niche-spike-case]].
+
 ## Шаблон проектирования microniche-пакета
 
 | Элемент | Вопрос на дизайне |
@@ -67,6 +91,8 @@ namespace: mkt
 - [[canon/marketing-frameworks/partnerships-growth-multiplier]] — partnership как multiplier роста, с механиками close к microniche-пакетам
 - [[canon/marketing-frameworks/value-for-customer-concept]] — почему пакет под jobs-to-be-done сегмента создаёт более высокую воспринимаемую ценность чем массовый продукт
 - [[canon/marketing-frameworks/grebenyuk-jv-distribution-model]] — JV-модель дистрибуции, родственная microniche partnership
+- [[canon/marketing-frameworks/ravix-group-niche-spike-case]] — RU 2026 кейс параллельных microniche в service-business
+- [[canon/marketing-frameworks/personal-brand-7-steps-magas]] — nichification как шаг 2 personal brand methodology
 
 ## Caveat
 

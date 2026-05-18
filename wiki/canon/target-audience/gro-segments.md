@@ -9,8 +9,8 @@ tags: [product, target-audience, jtbd, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-16  # +intensive checkout: founder+CMO buyer-pair pattern для high-ticket B2B sub-segment в Сегменте 2
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-viktor-nikolaevich.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md]
+updated: 2026-05-18  # +industry-consensus сегментация AI-обучения почти 1-в-1 с GRO-структурой (Pressfeed 2026-05-18: новички / специалисты-предприниматели / студенты-фрилансеры)
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-viktor-nikolaevich.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md]
 namespace: mkt
 ---
 
@@ -278,6 +278,22 @@ Late-starter founder — устойчивый под-архетип, релев�
 - [[evolving/industry-trends/ru-smb-mentor-community-market-2026]] — рынок peer-community SMB; кейс показывает, что отсутствие peer-community было одной из причин (изоляция → плохие финансовые решения).
 - [[canon/marketing-frameworks/employment-vs-business-default-choice-tokovinin]] — Tokovinin default «работать наёмником безопаснее»; кейс Виктора Николаевича — **operational доказательство** правоты этого default'а для конкретного жизненного outcome.
 
+## Industry-consensus сегментация (independent confirmation)
+
+Pressfeed-обзор «Интенсивы по нейросетям» (2026-05-18, см. [[sources/2026-05-18-pressfeed-ai-intensives-overview]]) описывает аудиторию AI-обучения через **три категории**, которые **почти 1-в-1 повторяют GRO-сегментацию**:
+
+| Pressfeed-формулировка (отраслевой консенсус) | GRO-сегмент | Перекрытие |
+|---|---|---|
+| «Новички, желающие без раскачки попробовать инструменты и понять, куда двигаться дальше» | Сегмент 1 (строящие карьеру) + частично Сегмент 3 (фрилансеры на entry-уровне) | High |
+| «Специалисты и предприниматели, которым нейросети нужны для ускорения текущей работы — маркетинг, контент, документооборот» | Сегмент 2 (предприниматели в росте) | Direct match |
+| «Студенты и фрилансеры, выбирающие направление: интенсив позволяет оценить реальные сценарии и осознанно перейти к углублённым программам» | Сегмент 3 (фрилансеры/самозанятые) + студенты (career-orientation phase) | High |
+
+**Значение для маркетинга GRO:**
+
+1. **Отраслевой consensus.** Сегментация GRO **не идиосинкратична** — индустрия AI-обучения работает с теми же тремя ЦА. Это снижает customer-education-cost: аудитория уже понимает, в какой из трёх категорий находится.
+2. **Канал-resonance.** Каналы, целящие в каждую из трёх Pressfeed-аудиторий (профильные обзоры, EdTech-СМИ, ремесленные сообщества по фрилансу), — приоритеты для размещений GRO.
+3. **Anti-positioning.** GRO **не AI-инструмент**, а **тренажёр роста** (см. [[canon/product-knowledge/gro-app-overview]]). Используя ту же сегментацию ЦА, GRO позиционируется через **другое обещание**: не «освоить AI-инструменты», а «системно вырасти, используя AI-помощник». Это перпендикулярно core-promise AI-курсов и Pressfeed-style школ.
+
 ## Общие наблюдения по всем трём сегментам
 
 - **Общее ядро JTBD:** «Я упёрся в потолок, нужен системный путь дальше». Эту формулировку лендинг выносит прямо в hero-блок («если ты уперся в потолок»).
@@ -305,3 +321,5 @@ Late-starter founder — устойчивый под-архетип, релев�
 - [[canon/marketing-frameworks/honeycup-plg-programmatic-seo-2026]] — narrative anchor Сегментам 1-2 «founder с ежедневными итерациями достиг 7250 турниров без бюджета»
 - [[canon/marketing-frameworks/employment-vs-business-default-choice-tokovinin]] — Tokovinin default + Виктор-Николаевич кейс как operational доказательство
 - [[canon/product-knowledge/gro-intensive]] — high-ticket sub-сегмент Сегмента 2 (owner+CMO bundle для интенсива)
+- [[evolving/industry-trends/ru-ai-intensive-courses-landscape-2026]] — landscape AI-интенсивов, индустриальная сегментация 1-в-1 с GRO-структурой
+- [[canon/marketing-frameworks/ai-intensive-format-criteria]] — рамка оценки качества AI-интенсивов

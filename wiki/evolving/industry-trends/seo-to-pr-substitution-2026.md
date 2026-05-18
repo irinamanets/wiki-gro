@@ -10,7 +10,7 @@ confidence: medium
 stale: false
 created: 2026-05-18
 updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-04-14-peregudov-telegram-dec25-apr26.md]
+sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md]
 namespace: mkt
 ---
 
@@ -152,10 +152,25 @@ GRO как маркетинговая организация:
 
 Конкретный roadmap → [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026|RU practitioner playbook]].
 
+## Update 2026-05-18 — B2B-угол через Pressfeed-вебинар «После эпохи простых охватов»
+
+[[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach|Pressfeed-вебинар «B2B-пиар после эпохи простых охватов»]] (21 мая 2026, эксперт — гендиректор агентства 4D) добавляет к этому тренду **B2B-specific формулировку**: SEO→PR substitution не просто «канальный сдвиг», а часть более широкой перестройки PR-функции — **от каналов к экспертному влиянию**.
+
+Ключевая B2B-формулировка из вебинара:
+
+> «Если у компании нет сильного экспертного следа и понятного позиционирования, то для AI её сложнее найти, процитировать, рекомендовать и включить в профессиональную повестку.»
+
+Это переформулирует substitution: дело не только в **присутствии на трастовых площадках** (что писал Шевченко/Перегудов), но и в **связности экспертного следа** — чтобы AI-системы интерпретировали разрозненные публикации как «эту компанию упоминают как эксперта по теме X», а не «отдельные публикации без unifying-thesis». Это поднимает планку: достаточно ли просто **присутствовать** на vc.ru / Habr / Дзен / Pressfeed — или нужно **строить thematic-кластер** вокруг экспертной территории.
+
+Также вебинар фиксирует параллельный сигнал: **журналисты ужесточили фильтры** — берут только материалы с «фактурой и аналитикой», а не «быстрые новости». Это сильнее коррелирует с механизмом цитирования AI-систем (которые тоже предпочитают аналитический контент гладкому пресс-релизному).
+
+См. родительские концепты → [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]], [[canon/marketing-frameworks/pr-measurement-digital-footprint]], [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]].
+
 ## Источники
 
 - [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] — 13 RU-практиков (май 2026)
 - [[sources/2026-04-14-peregudov-telegram-dec25-apr26]] — Шевченко / Перегудов формулировка external-trust-sites тезиса
+- [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]] — B2B-угол (Pressfeed-вебинар, 21 мая 2026)
 
 ## Связанные страницы
 
@@ -168,6 +183,9 @@ GRO как маркетинговая организация:
 - [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]] — RU-метрики долей трафика
 - [[evolving-strict/campaign-metrics/pressfeed-pr-cases-2026]] — Pressfeed PR-кейсы как validation
 - [[canon/marketing-frameworks/llm-friendly-video-transcription]] — видео-микро механика
+- [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]] — B2B-shift framework
+- [[canon/marketing-frameworks/pr-measurement-digital-footprint]] — новая модель измерения
+- [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]] — каталог B2B-форматов
 
 ## Backlinks
 

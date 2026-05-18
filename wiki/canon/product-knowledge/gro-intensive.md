@@ -9,8 +9,8 @@ tags: [product, pricing, b2b, landing-page]
 confidence: medium
 stale: false
 created: 2026-05-16
-updated: 2026-05-16
-sources: [sources/2026-05-16-groapp-payment-intensive-tarif2.md]
+updated: 2026-05-18  # +landscape context: GRO «Интенсив» в RU-AI-intensive-landscape (Pressfeed 2026-05-18) — high-ticket b2b/cohort sub-segment vs low-ticket mass intensives (Барановой/Skillbox/Эдюсон)
+sources: [sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md]
 namespace: mkt
 ---
 
@@ -110,6 +110,30 @@ GRO держит **two tracks монетизации**, которые рабо�
 5. **Связка с подпиской** — что происходит с подпиской у покупателя интенсива (включена в цену? нет? upgrade-path?).
 6. **Команда, ведущая интенсив** — Лапшина? Тарасов? приглашённые эксперты? — не раскрыто.
 
+## Landscape positioning (vs RU-AI-intensives massовый рынок)
+
+Pressfeed-обзор «Интенсивы по нейросетям» (2026-05-18, см. [[sources/2026-05-18-pressfeed-ai-intensives-overview]]) фиксирует **массовую категорию AI-интенсивов** в РФ — школа Барановой, Skillbox, Академия Эдюсон, ряд безымянных школ под фриланс/удалёнку. Полный landscape — в [[evolving/industry-trends/ru-ai-intensive-courses-landscape-2026]].
+
+GRO «Интенсив» **не конкурирует напрямую** с этой массовой категорией. Ключевые разграничители:
+
+| Параметр | Mass-market AI-intensive | GRO «Интенсив» |
+|---|---|---|
+| Цена | ~5 000 – 80 000 ₽ (low/mid-ticket) | 240 000 – 400 000 ₽ (high-ticket) |
+| Buyer | B2C-prosumer (специалист, фрилансер) | B2B-owner + CMO (компания минимум с маркетинговой функцией) |
+| Промис | «Овладеть инструментами AI» | (требует verify, но из buyer-pattern) — «Прокачать маркетинг бизнеса через AI вместе с CMO» |
+| Длительность | 2 дня – 2 недели | (не раскрыто) |
+| Takeaway | Промпты, шаблоны, базовая автоматизация | (вероятно) маркетинговая стратегия + операционный план для команды |
+| Конкуренты по нише | Skillbox AI, Эдюсон, школа Барановой | [[canon/marketing-frameworks/spiridonov-three-engagement-formats|Стратегическая сессия Спиридонова]], бизнес-клубы типа [[evolving/competitor-positioning/business-booster-visotsky|Business Booster]], корпоративные программы EdTech |
+
+**Implication для коммуникации:** Когда аудитория ищет «AI-интенсив 2026», она по умолчанию находится в **mass-market frame** (Skillbox, Эдюсон, школа Барановой). Если GRO «Интенсив» попадает в эту выдачу как «один из» — высока вероятность mismatch (цена 240k+ ₽ vs ожидание 20–80k ₽). **Корректный канал размещения** — каналы, где живёт founder+CMO-аудитория (не «обучающие платформы», а «бизнес-сообщества для предпринимателей с командой»). Это совпадает с [[canon/target-audience/gro-segments|Сегмент 2: предприниматели в росте]] sub-segment с маркетинговой функцией.
+
+**Применение 5 критериев** ([[canon/marketing-frameworks/ai-intensive-format-criteria]]) к GRO «Интенсиву»:
+- **Критерий 1 (практика в каждом блоке)** — для high-ticket это **глубокая работа на собственном бизнесе**, не «попробовали Midjourney».
+- **Критерий 2 (чёткий фокус)** — фокус GRO «Интенсива» должен быть на **бизнес-маркетинге через AI**, не на «обзоре AI-инструментов».
+- **Критерий 3 (актуальные сервисы)** — должны быть в программе, но это floor, не differentiator.
+- **Критерий 4 (разбор результатов)** — для high-ticket это **личный feedback от founder-команды**, не AI-проверка.
+- **Критерий 5 (takeaway-сценарий)** — должен быть на уровне **операционного маркетингового плана**, а не «5 промптов».
+
 ## Связанные страницы
 
 - [[canon/product-knowledge/gro-app-overview]] — основной (подписочный) продукт GRO, на котором built интенсив-аудитория
@@ -118,3 +142,6 @@ GRO держит **two tracks монетизации**, которые рабо�
 - [[canon/positioning/gro-value-proposition]] — общее позиционирование GRO, под которое подведён и интенсив
 - [[canon/product-knowledge/gro-team]] — команда, потенциальные ведущие интенсива
 - [[canon/marketing-frameworks/premium-perception-through-price]] — рамка про high-ticket pricing как маркетинговый сигнал
+- [[canon/marketing-frameworks/ai-intensive-format-criteria]] — 5 критериев качественного AI-интенсива (отраслевая рамка для дифференциации GRO)
+- [[evolving/industry-trends/ru-ai-intensive-courses-landscape-2026]] — RU-landscape массовых AI-интенсивов, на фоне которых позиционируется GRO «Интенсив»
+- [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — близкий по cost-структуре формат стратегической сессии 2–3 дней

@@ -9,8 +9,8 @@ tags: [smb, ai-implementation, anti-patterns, pilot, klarna, mvp, b2b]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md]
 namespace: mkt
 ---
 
@@ -106,9 +106,29 @@ namespace: mkt
 
 **Cross-product positioning GRO:** GRO как продукт **встроенно** соблюдает 3 правила: пользователь начинает с одной личной боли (productivity / phone overuse / planning), команда из одного (он сам), MVP-формат (триал, 14 дней). Это структурное alignment, которое можно показать как продуктовое преимущество перед «купи подписку на всю команду / купи enterprise».
 
+## Cross-frame с Евсеевой: ROI-гейт как positive counter
+
+Григорьев фиксирует **anti-pattern** ИИ-внедрения через 3 ловушки. Юлия Евсеева в колонке Pressfeed (2026-05-19) дала параллельный **positive counter** — формулу, **как должно быть** структурировано pre-launch расчёт чат-бота: 4 узла экономического эффекта + ROI-гейт ([[canon/marketing-frameworks/chatbot-roi-4-economic-effects]]). 
+
+**Изоморфизм:**
+
+| Anti-pattern Григорьева | Positive counter Евсеевой |
+|---|---|
+| «AI без цели» → инструмент ищет применение | Pre-flight метрики обязательны: знай конверсию, чек, CAC, ФОТ |
+| «AI all-at-once» → большой проект сразу | Гибридный путь: pilot на конструкторе → custom только после доказательства эффекта |
+| «Без buy-in команды» → процесс без ответственного | ROI-гейт: «без чёткой цели и ответственного за результат» проект провалится |
+
+См. [[canon/marketing-frameworks/chatbot-readiness-checklist]] как практическое выражение того же — readiness gate Евсеевой формализует то, что Григорьев назвал «грабли 1+3».
+
+**Independent verification of trap 1+2.** Klarna case (anti-pattern 1+2) — vendor-independent verification. Третий anti-pattern (3 — «без buy-in») и весь positive counter Евсеевой — vendor-attributed (Aiston + Pressfeed), но взаимно согласованы → confidence сохраняется на medium.
+
 ## Связь с другими фреймворками вики
 
 - [[canon/marketing-frameworks/automation-vs-digital-transformation-framework]] — definitional базис; этот фрейм описывает **что такое** трансформация, anti-pattern описывают **как её провалить**.
+- [[canon/marketing-frameworks/chatbot-roi-4-economic-effects]] — positive counter Евсеевой: 4 узла + ROI-гейт.
+- [[canon/marketing-frameworks/chatbot-readiness-checklist]] — readiness gate (Евсеева).
+- [[canon/marketing-frameworks/chatbot-vendor-selection-criteria]] — гибридный путь pilot → custom.
+- [[sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva]] — параллельный источник Евсеевой.
 - [[canon/marketing-frameworks/ankusheva-ai-implementation-triad]] — комплементарный structural framework (control / process / AI-culture); 3-й anti-pattern (без buy-in) — фактически failure 3-й вершины триады.
 - [[canon/marketing-frameworks/anti-perfectionism-mvp-launch-muratayev]] — Anti-pattern 2 «all-at-once» противоположен этой рамке.
 - [[canon/marketing-frameworks/grebenyuk-5-edinichek-framework]] — изоморфизм sequence с «5 единичками».

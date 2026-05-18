@@ -9,14 +9,14 @@ tags: [seo, geo, aeo, ai-search, ru-market, b2b, b2c, organic-traffic]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md]
+updated: 2026-05-18  # +Язовский (Pressfeed май 2026): distribution AI-traffic Perplexity 24% / GigaChat 20%; 9× рост RU AI-traffic 2025; 35% RU users use AI for fact search; 12-18% CTR падение Яндекс коммерции
+sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb.md]
 namespace: mkt
 ---
 
 # Доли AI-трафика в RU-проектах: B2B vs B2C (май 2026)
 
-Этот срез фиксирует **публично раскрытые** метрики долей AI-трафика на конкретных русскоязычных проектах в мае 2026 года. Все цифры взяты из [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation|Pressfeed 13 кейсов]] — экспертный комментарий от практиков с прямой ответственностью за метрики. `confidence: medium` потому что нет независимой валидации цифр, только заявления самих компаний.
+Этот срез фиксирует **публично раскрытые** метрики долей AI-трафика на конкретных русскоязычных проектах в мае 2026 года. Все цифры взяты из [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation|Pressfeed 13 кейсов]] и [[sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb|Pressfeed/Язовский SMB-плейбук]] — экспертный комментарий от практиков с прямой ответственностью за метрики. `confidence: medium` потому что нет независимой валидации цифр, только заявления самих компаний.
 
 Это — **первый известный нам публичный RU-замер** долей AI-трафика с разбивкой по B2B / B2C / нишевым продуктам. До этого global цифры (Duda study +320%, Cossa, Виас) — про западный рынок и средний по сайтам. [conf:low, src:2026-05-18]
 
@@ -98,9 +98,50 @@ GRO ближе всего к категории «нишевый инструм�
 - Нет conversion-метрики из AI-трафика (только Duda заявляет 3× — см. [[evolving-strict/market-data/duda-ai-traffic-conversion-2026]])
 - Нет временной динамики (как доля росла в 2025-2026 на конкретных проектах)
 
+## Update 2026-05-18 — Язовский (Pressfeed): distribution AI-traffic по источникам + рост 9×
+
+[[sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb|Pressfeed/Язовский SMB-плейбук]] добавляет **первый известный нам публичный RU-замер distribution AI-traffic по конкретным AI-источникам**:
+
+### Distribution долей по AI-источникам в RU
+
+| AI-источник | Доля AI-трафика (RU) | Source |
+|---|---|---|
+| Perplexity | **~24%** | `[conf:medium, src:2026-05-18]` |
+| GigaChat (Сбер) | **~20%** | `[conf:medium, src:2026-05-18]` |
+| YandexGPT / Алиса | критичная для RU, доля не указана | `[conf:medium, src:2026-05-18]` |
+| ChatGPT Search | критичная, доля не указана | `[conf:medium, src:2026-05-18]` |
+
+Это **расходится** с интуитивным предположением, что в RU доминирует YandexGPT — на самом деле Perplexity лидирует. **Гипотеза**: Perplexity активно используется RU technical/business аудиторией, а YandexGPT доминирует в consumer-сегменте через Алису (вторичная гипотеза, не подтверждена).
+
+**Operational consequence**: при выборе первого target-AI-источника для GEO-работ — **Perplexity + GigaChat дают 44% combined share**, это **более рациональный начальный target** для tech/business-аудиторий, чем YandexGPT, в котором доля distribution неизвестна публично. [conf:low, src:2026-05-18]
+
+### Темпы роста RU AI-traffic (2025)
+
+- **9× рост** исходящего трафика из нейросетей на российские сайты за 2025 год `[conf:medium, src:2026-05-18]` (источник в статье вырезан, single-source claim, не верифицируется)
+- Это **существенно выше** Duda study global figures (+320%) — RU рынок растёт **в 3× быстрее** global среднего `[conf:low, src:2026-05-18]`
+
+### Adoption RU-пользователей
+
+- **35% пользователей в России** используют нейросети для поиска фактов `[conf:medium, src:2026-05-18]`
+- Параллель с [[evolving-strict/market-data/ru-ai-search-interest-2025-2026]] — там Яндекс-данные про долю «ИИ-запросов» к Алисе, **здесь** — самоотчётная adoption-метрика. Две разные методологии измерения, согласуются на уровне one-third-of-market.
+
+### Падение SEO-CTR коммерческих запросов в Яндексе
+
+- **12-18% падение** органического CTR по коммерческим запросам в «Яндексе» vs 2025 `[conf:medium, src:2026-05-18]`
+- Согласуется с Виасовской цифрой -38% YoY для позиции #1 в Google `[conf:high, src:2026-05-07]` — RU падение **мягче** global, но в той же направленности
+- Подтверждение Gartner-прогноза «-25% к концу 2026» — RU график в пределах прогноза `[conf:medium, src:2026-05-18]`
+
+### Уточнения по дате включения AI-метрик в Метрику
+
+`[conf:high, src:2026-05-18]` (consistent с предыдущим источником)
+
+- Подтверждено: Яндекс.Метрика начала фиксировать AI-переходы **с второй половины 2024**
+- **2026-05** — массовый запуск AI-блоков в SERP Яндекса + Google в РФ (общий триггер для агентств)
+
 ## Источники
 
-- [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] — первоисточник (Pressfeed «13 историй», май 2026)
+- [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] — первоисточник для B2B/B2C/SaaS долей (Pressfeed «13 историй», май 2026)
+- [[sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb]] — первоисточник для distribution AI-источников и роста 9× (Pressfeed/Язовский, май 2026)
 - [[evolving-strict/market-data/duda-ai-traffic-conversion-2026]] — параллельная global-метрика +320% [conf:low, src:2026-05-18]
 - [[evolving-strict/market-data/alice-ai-usage-breakdown-2026]] — RU-distribution запросов к Алисе
 
@@ -110,6 +151,8 @@ GRO ближе всего к категории «нишевый инструм�
 - [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]] — practitioner-плейбук этих метрик
 - [[evolving/content-trends/aeo-geo-llm-search-optimization-2026]] — playbook оптимизации
 - [[evolving-strict/market-data/ru-ai-search-interest-2025-2026]] — другой RU-AI-сигнал (доля запросов с «ИИ» в Алисе)
+- [[canon/marketing-frameworks/geo-smb-6-step-playbook-yazovsky]] — SMB-плейбук Язовского для work с этими метриками
+- [[evolving-strict/campaign-metrics/geo-smb-case-benchmarks-2026]] — 3 SMB-кейса с метриками внедрения (Язовский)
 
 ## Backlinks
 

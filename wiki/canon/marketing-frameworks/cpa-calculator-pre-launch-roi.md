@@ -9,8 +9,8 @@ tags: [framework, performance, roi, paid-ads, calculation]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md]
 namespace: mkt
 ---
 
@@ -74,16 +74,31 @@ Petrochenkov ссылается на простой публичный инст�
 
 Если первый платёж даёт минус, но средний клиент остаётся 6 месяцев, реальная выплата за лид считается на горизонте 6 месяцев. Это та же логика, по которой работает Front-End стратегия [[canon/marketing-frameworks/marketing-audit-protocol]] (пост 1217 — рекомендация Petrochenkov на 2026: создавать FE-продукты по 10-20% цены основного, чтобы LTV закрыл CAC).
 
+## Cross-domain parallel: Pre-launch ROI и для automation
+
+Тот же принцип «сначала считай, потом запускай» работает не только в paid-ads, но и во **внутренней автоматизации**. Юлия Евсеева в колонке Pressfeed (2026-05-19) — см. [[canon/marketing-frameworks/chatbot-roi-4-economic-effects]] и [[sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva]] — даёт параллельную рамку для решения о внедрении чат-бота: 4 узла экономического эффекта (восстановление лидов, LTV, FTE-экономия, off-hours) + ROI-гейт. Принцип идентичен Петроченкову: «главная ошибка — внедрять, а потом пытаться оценить результат. Правильная логика обратная: сначала расчёт, потом запуск.» Если в формулу нельзя подставить хотя бы половину показателей — внедрение преждевременно.
+
+Это формирует **canonical RU-narrative о rational marketing/automation 2026**:
+
+| Контекст | Pre-launch ROI рамка |
+|---|---|
+| Paid-ads (внешний траффик) | Петроченков: CPL ≤ Маржа × CR покупки |
+| Чат-бот / automation (внутренние процессы) | Евсеева: ROI = (Доп. прибыль + Экономия − Стоимость проекта) / Стоимость проекта |
+| Любая automation в SMB | Григорьев ([[canon/marketing-frameworks/ai-smb-pilot-three-traps]]): без цели, без MVP, без buy-in — Klarna $15M вам ждёт |
+
 ## Связь с другими фреймворками
 
 - [[canon/marketing-frameworks/marketing-audit-protocol]] — диагностика того, понимает ли команда unit-экономику.
 - [[canon/marketing-frameworks/refused-customer-interview]] — улучшает CR покупки через понимание барьеров.
 - [[canon/marketing-frameworks/qualitative-adjectives-ad-copy]] — улучшает CTR (и тем самым CPC) на этапе креатива.
+- [[canon/marketing-frameworks/chatbot-roi-4-economic-effects]] — pre-launch ROI для automation (Евсеева).
+- [[canon/marketing-frameworks/ai-smb-pilot-three-traps]] — anti-pattern AI-внедрения (Григорьев).
 - [[evolving-strict/market-data/digital-ad-market-ru-2024-2026]] — бенчмарки CPV/CPM по каналам РФ.
 
 ## См. также
 
 - [[sources/2026-04-14-tg-petrochenkow-mar-apr-2026]] — первоисточник (пост 1199, 2026-03-11)
+- [[sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva]] — параллельная рамка для automation
 
 ## Backlinks
 

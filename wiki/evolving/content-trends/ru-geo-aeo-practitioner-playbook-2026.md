@@ -9,8 +9,8 @@ tags: [seo, geo, aeo, ai-search, ru-market, pr, content, faq-schema, e-e-a-t]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md]
+updated: 2026-05-18  # +Язовский (Pressfeed май 2026): SMB-перспектива дополняет corporate-уровень — 8й practitioner-голос в RU consensus
+sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb.md]
 namespace: mkt
 ---
 
@@ -162,6 +162,33 @@ DiaClass:
 - ❌ Игнорировать PR-канал как «не наша компетенция» — в новой модели PR ≠ корпоративные комментарии, PR = targeted seeding в retrieval-корпус LLM.
 - ❌ Концентрироваться только на западных LLM — у GRO основная RU-аудитория, главный канал — Алиса AI + Google AI Overviews в РФ.
 
+## Update 2026-05-18 — Язовский (Pressfeed): SMB-уровень входа
+
+[[sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb|Pressfeed/Язовский]] добавляет восьмой practitioner-голос к RU consensus с **уникальным углом**: 13 кейсов Pressfeed-сборки — это корпоративный уровень (туроператоры, B2B SaaS, агентства). Язовский описывает GEO для **SMB-сегмента** (стоматологии, автосервисы, юристы, небольшие магазины) с другим набором ограничений ресурсов.
+
+### Подтверждаемое для consensus
+
+Язовский подтверждает все 7 ключевых паттернов RU consensus:
+
+1. **SEO как фундамент** — «SEO остаётся фундаментом. Хороший GEO базируется на сильном SEO» (consistent с 10/13)
+2. **PR замещает SEO для информационных запросов** — Step 3 плейбука Язовского про публикации на профильных площадках и цитируемость
+3. **FAQ + Schema.org как baseline** — Step 4 плейбука (FAQ, HowTo, Product, LocalBusiness)
+4. **E-E-A-T через экспертные публикации** — Язовский подчёркивает «становитесь тем, на кого ссылаются»
+5. **ENTITY-подход** — implicit через рекомендацию «спецификации, таблицы сравнения, технические характеристики»
+6. **Видеоконтент** — не упоминается явно (SMB фокус)
+7. **Анти-pattern промпт-магии** — implicit через «GEO — органическое продвижение, вы не платите нейросети»
+
+### Дополнительный SMB-угол (новое)
+
+- **30-минутный self-audit** как стартовая диагностика — отсутствует в 13-кейсах сборки
+- **6-шаговый sequential workflow** (видимый прогресс) — формат для тех, у кого нет SEO/PR-команды
+- **3 anonymized SMB-кейса** с метриками (клиника +40% лидов / 5 нед, стройматериалы +25%/+15% / 4 нед, юр.фирма 40% цитирование GigaChat / 8 нед) — operational benchmarks ниже corporate-уровня
+- **Distribution AI-источников Perplexity 24% / GigaChat 20%** — первый публичный RU-замер, см. [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]]
+
+**Полный playbook** — [[canon/marketing-frameworks/geo-smb-6-step-playbook-yazovsky]].
+
+**Когда какой плейбук использовать**: корпоративный (13 кейсов) — для теmplates агентств и in-house команд; SMB (Язовский) — для founder-led / небольших команд без выделенных SEO/PR-ресурсов. Для GRO — **смешанный**: SMB-level diagnostics + corporate-level PR (Pressfeed-аккаунт, vc.ru/Habr публикации).
+
 ## Connection map
 
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — родительский тренд
@@ -170,12 +197,15 @@ DiaClass:
 - [[evolving/content-trends/ai-aeo-must-haves-2026]] — 5 must-have Duda
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] — методология
 - [[canon/marketing-frameworks/llm-friendly-video-transcription]] — видео-механика
+- [[canon/marketing-frameworks/geo-smb-6-step-playbook-yazovsky]] — SMB-плейбук Язовского (Pressfeed май 2026)
+- [[evolving-strict/campaign-metrics/geo-smb-case-benchmarks-2026]] — 3 SMB-кейса с метриками внедрения
 - [[evolving/industry-trends/seo-to-pr-substitution-2026]] — сдвиг SEO→PR
 - [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]] — RU-метрики долей трафика
 - [[evolving/content-trends/ai-in-pr-workflows-2026]] — Яндекс легитимизирует GEO как PR-дисциплину
 - [[volatile-strict/industry-news/yandex-alice-ai-visibility-tool-2026-04]] — wallmeter measurement-tool
 - [[evolving-strict/campaign-metrics/pressfeed-pr-cases-2026]] — Pressfeed PR-кейсы
-- [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] — первоисточник
+- [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] — первоисточник 13 кейсов
+- [[sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb]] — первоисточник SMB-плейбука
 
 ## Backlinks
 

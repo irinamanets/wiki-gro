@@ -9,8 +9,8 @@ tags: [smb, digital-transformation, automation, ai-implementation, framework, b2
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md]
 namespace: mkt
 ---
 
@@ -63,10 +63,28 @@ namespace: mkt
 
 **Объекция-handler** в B2B-контенте: «А чем GRO отличается от ChatGPT-подписки?» → «ChatGPT — инструмент автоматизации (часть рутины переходит на LLM). GRO — инструмент трансформации (данные о ваших паттернах меняют, как вы принимаете решения). Это две разные категории, они могут сосуществовать».
 
+## Independent confirmation: чат-бот как automation-tier (Евсеева)
+
+Юлия Евсеева в колонке Pressfeed (2026-05-19) — см. [[sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva]] — независимо подтверждает центральный operational-вывод Григорьева: **«Автоматизация не создаёт порядок — она лишь ускоряет то, что уже существует»**. Евсеева применяет это к конкретному классу инструментов (чат-боты в e-commerce) и формулирует тот же тезис:
+
+> «Иногда проблема не в технологии, а в процессах. Если нет стабильного потока обращений, не ведётся учёт показателей, сотрудники работают вне единой системы и бот не связан с CRM, эффекта не будет.»
+
+Эта vendor-независимая конвергенция (Григорьев=Aiston/Дзен + Евсеева=Pressfeed, два независимых источника одного тезиса) повышает уверенность в формулировке. Cross-frame:
+
+| Уровень | Что описывает | Когда применять |
+|---|---|---|
+| **Automation tier** (Григорьев) | Перевод процесса в цифровой инструмент без изменения логики | Чат-бот (Евсеева), CRM, ЭДО, base AI-tools |
+| **Transformation tier** (Григорьев) | Данные от автоматизированного инструмента попадают в decision-making → меняется продукт/процессы | После накопления данных от автоматизации |
+| **Pre-flight gate** (Евсеева [[canon/marketing-frameworks/chatbot-readiness-checklist]]) | Не запускать automation без объёма, метрик и упорядоченных процессов | До automation, не после |
+
+**Operational triad для GRO content**: Григорьев (определение) + Евсеева (operational checklist) + Горный (customer-side tolerance) ([[canon/marketing-frameworks/llm-bot-customer-tolerance-gorny-frame]]) — формирует canonical RU-narrative о rational AI-adoption в SMB на 2026 год.
+
 ## Связь с другими фреймворками вики
 
 - [[canon/marketing-frameworks/ankusheva-ai-implementation-triad]] — комплементарный structural framework (control / process / AI-culture): описывает **что нужно**, чтобы трансформация состоялась; этот фрейм описывает **что такое** трансформация.
 - [[canon/marketing-frameworks/ai-smb-pilot-three-traps]] — операционные грабли первого внедрения; используют этот definitional framework как фон.
+- [[canon/marketing-frameworks/chatbot-roi-4-economic-effects]] — Евсеева: ROI-рамка для automation-tier инструмента (чат-бот).
+- [[canon/marketing-frameworks/chatbot-readiness-checklist]] — operational gate для automation-внедрения.
 - [[canon/marketing-frameworks/b2b-ai-sales-playbook-moreynis]] — Правило 1 Морейниса «продавай результат, а не софт» — частный случай рамки: продавать «инструмент» = торговать автоматизацией; продавать «результат» = торговать трансформацией.
 - [[canon/marketing-frameworks/ai-productivity-3-shifts-typical]] — продуктовые шифты от ИИ; через эту рамку видно, в каких шифтах автоматизация, в каких трансформация.
 - [[evolving/industry-trends/ai-productivity-j-curve-2026]] — макро-объяснение, почему трансформация даёт ROI с лагом (нужна реорганизация процессов); фабричная аналогия использует этот definitional разрыв.

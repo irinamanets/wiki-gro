@@ -5,12 +5,12 @@ type: page
 subtype: trend
 layer: evolving
 theme: industry-trends
-tags: [ai-marketing, llm, automation, paid-ads, performance, russia]
+tags: [ai-marketing, llm, automation, paid-ads, performance, russia, trust, healthcare, taboo-zones]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06  # +AI-cheat-собес как обратная сторона лимитов ИИ + Petrochenkov demping-курса как маркетинговый response
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md]
+updated: 2026-05-18  # +Стеценко (Loyalty Group) zonal-layer: tabu-зоны healthcare как qualitative complement к performance-лимитам
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md]
 namespace: mkt
 ---
 
@@ -110,6 +110,20 @@ Polished list из поста 1256 (2026-04-14) — то, на чём Petrochenk
 
 Pattern в content-trends — [[evolving/content-trends/price-anchor-demping-content-format]].
 
+## May 2026 update — qualitative-zonal layer от Стеценко (Loyalty Group)
+
+Если Petrochenkov-рамка отвечает на «**где** AI делает плохо в performance-маркетинге» (что AI хорошо делает, что плохо, как compensate), то Виктория Стеценко (управляющий партнёр Loyalty Group) на 2026-05-18 формулирует параллельную **зональную** рамку: «**в каких индустриях** AI запрещён в коммуникациях, независимо от quality настройки» ([[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]]).
+
+Tabu-зоны (Стеценко): **медицина, фарма, семейные отношения, кулинария, творчество, история** — сферы, где «ключевую роль играет способность вызвать у человека подлинное доверие и не переступить этические границы». В этих зонах даже idealно-настроенный AI-output ломает доверие, потому что проблема — не в качестве, а в **зональной несовместимости**.
+
+Это **qualitative complement** к Petrochenkov-quantitative-рамке:
+- **Petrochenkov:** «AI = multiplier для опытного, breaker для неопытного» (зависит от skill оператора)
+- **Стеценко:** «AI = breaker в зонах высокого доверия, независимо от skill оператора» (зависит от зоны)
+
+Обе работают вместе. Полная картина 2026: AI-применимость = `f(skill оператора, зональная категория контента)`. Развёрнуто в [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]].
+
+**Кейс-anchor этого зонального лимита** — Medvi (US): более 5 000 рекламных объявлений с AI-сгенерированными врачами `[conf:medium, src:2026-05-18]`, см. [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]]. Это «5 000-violations подтверждение» гипотезы Стеценко.
+
 ## TTL и план верификации
 
 - TTL: 90 дней soft (быстро эволюционирующий тренд)
@@ -130,6 +144,11 @@ Pattern в content-trends — [[evolving/content-trends/price-anchor-demping-con
 - [[canon-strict/historical-campaigns/ru-ad-quality-verification-2016]] — исторический снимок 2016 по NHT в Рунете
 - [[sources/2026-04-14-tg-petrochenkow-mar-apr-2026]] — первоисточник
 - [[sources/2026-05-05-tg-petrochenkow-apr-may-2026]] — продолжение, AI-cheat-собес кейс + demping-курса как маркетинговый response
+- [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]] — qualitative-zonal complement (Стеценко, Loyalty Group)
+- [[evolving/content-trends/ai-content-overload-trust-crisis-2026]] — макро-тренд trust-кризиса AI-эпохи
+- [[evolving/industry-trends/ai-invisibility-shift-2026]] — параллельный сдвиг к «AI как невидимая инфраструктура»
+- [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]] — кейс-anchor (5 000+ AI-врачей в US)
+- [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — источник Стеценко
 
 ## Backlinks
 

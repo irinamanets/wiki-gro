@@ -5,12 +5,12 @@ type: page
 subtype: concept
 layer: canon
 theme: marketing-frameworks
-tags: [seo, ai, content, pr, geo, aeo, faq-schema, llms-txt, robots-txt, e-e-a-t, entity, vector-search]
+tags: [seo, ai, content, pr, geo, aeo, faq-schema, llms-txt, robots-txt, e-e-a-t, entity, vector-search, json-ld, kravchenko]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-18  # +Pressfeed «13 кейсов» (май 2026): E-E-A-T через профили экспертов, ENTITY/vector-search механика, LLM-friendly видео-транскрипция
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md]
+updated: 2026-05-19  # +Pressfeed/PRAGMATIX: data-side рамка; +Pressfeed/Insight Analytics (Кравченко): JSON-LD + architectural-shift; +Pressfeed «GEO иллюзия позиций»: SparkToro стохастичность + платформенная сегментация + disqualification framework
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md]
 namespace: mkt
 ---
 
@@ -40,8 +40,48 @@ Schema.org / JSON-LD с тегами:
 - `HowTo` -- для инструкций
 - `NewsArticle` -- для новостных материалов
 - `Review` -- для обзоров
+- `Product` / `Offer` / `Brand` -- для коммерческих сущностей (Кравченко, Insight Analytics, май 2026 — Faire case +40% упоминаний в AI-Overviews после расширения этой группы)
+- `Person` -- для профилей экспертов (E-E-A-T)
 
 Помогает ботам парсить контент и корректно цитировать.
+
+### JSON-LD как преимущественный формат
+
+По [[sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data|Кравченко (Insight Analytics, май 2026)]]:
+
+> «JSON-LD остаётся самым удобным способом передачи структурированных данных. Он не перегружает HTML и позволяет передавать сложные иерархии. В условиях динамических AI-обзоров скорость и чистота передачи данных становятся конкурентным фактором.»
+
+Operational guideline:
+
+| Формат | AI-retrieval приоритет | Когда выбирать |
+|---|---|---|
+| **JSON-LD в `<head>`** | **высший** | По умолчанию для всех новых сайтов и при рефакторинге |
+| Microdata (HTML inline) | средний | Legacy-страницы, где JSON-LD сразу не внедрить |
+| RDFa | низкий | Редко используется, не оптимален для AI |
+| Open Graph | вспомогательный | Дополнение к JSON-LD для соцсетей |
+
+Динамические AI-обзоры (Google AI Overviews, ChatGPT search, Алиса AI) делают real-time запросы к продуктовым страницам в момент формирования ответа — чем чище и быстрее парсится разметка, тем выше шанс попадания в ответ.
+
+### Архитектурный, не точечный апгрейд
+
+> «Компании нужен не точечный апгрейд, а перестройка инфраструктуры сайта. Генеративный поиск требует машиночитаемой модели данных — на уровне архитектуры, а не отдельных страниц.»
+>
+> — Кравченко, Insight Analytics
+
+Менеджерская рамка приоритизации бюджета:
+
+| Категория работы | Кто отвечает | Бюджетная категория |
+|---|---|---|
+| Добавить FAQ-блок в существующий лендинг | Content / SEO-team | opex (точечный) |
+| Перестроить data-pipeline (CMS → API → JSON-LD endpoint) | Product / Engineering / Data | **capex** (архитектурный) |
+| Обеспечить inventory real-time sync | Engineering + DevOps | **capex** (инфраструктура) |
+| Внедрить мониторинг видимости в AI | Marketing analytics + Data | opex (новый функционал) |
+
+Без capex-слоя точечные content-улучшения упираются в потолок неполных данных. Полная рамка — [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]].
+
+### Inventory accuracy как relevance criterion
+
+Если на сайте указано наличие товара, которого уже нет, AI фиксирует недостоверность и помечает домен как устаревший источник для категории — downgrade ranking **всего домена**, не только страницы. Real-time inventory sync с JSON-LD-разметкой — обязательная инфраструктурная компонента. Подробнее — [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]] раздел «Inventory accuracy».
 
 ## Технические настройки
 
@@ -98,8 +138,34 @@ Schema.org / JSON-LD с тегами:
 - SEO-оптимизация внешних публикаций привлекает в разы больше читателей, чем неоптимизированные
 - Стратегия «поисковое продвижение на внешних площадках»: статьи на VC.ru, E-xecutive, Biz360 попадают в топ быстрее корпоративного блога (подтверждено кейсом THERMAGENT)
 
+## Двухуровневая декомпозиция эпохи AI-поиска
+
+Этот playbook покрывает **контентный слой** (как попасть в retrieval-корпус, который читают LLM). Это **необходимое, но недостаточное** условие для рекомендации AI пользователю.
+
+После попадания в корпус наступает **selection-фаза**: AI делает финальный выбор по структурированным данным о продукте (цена, гарантия, состав, сертификаты, TCO, SLA). Маркетинговые формулировки и сторителлинг на этом уровне игнорируются.
+
+Для полного покрытия используй обе страницы:
+
+- **Этот playbook (content-side)** — FAQ, Schema.org, llms.txt, E-E-A-T, ENTITY, seeding в трастовые сайты
+- **Product Data рамка (data-side):** [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]] — machine-readable product attributes, premium claims pattern, race-to-bottom anti-pattern
+
+Industry-trend контекст обеих рамок — [[evolving/industry-trends/ai-search-product-discovery-layer-2026]].
+
+## Foundation frameworks (architectural prerequisites)
+
+Этот playbook **операционализирует** три более фундаментальных canon-фреймворка. Без понимания их основополагающих тезисов playbook действует «механически» и упирается в потолок sameness:
+
+1. **[[canon/marketing-frameworks/stochastic-llm-ranking-sparktoro]]** — почему «позиции» в нейровыдаче не существует, нужна **probabilistic-метрика**. Foundation: SparkToro 2961-prompt benchmark Jan 2026 (<1% identical brand-set, ~20% stable brands at 5 runs).
+2. **[[canon/marketing-frameworks/geo-platform-segmentation-yandex-chatgpt-perplexity]]** — почему Яндекс Нейро / ChatGPT / Perplexity нельзя оптимизировать одинаково. Foundation: 3 разные retrieval-инфраструктуры, content-стратегия выбирается **после** выбора аудитории.
+3. **[[canon/marketing-frameworks/geo-monitoring-discipline-2026]]** — как измерять успех (4-осевая рамка: inclusion / citation quality / competitive parity / trend).
+
+**Disqualification check** перед бюджетом → [[evolving/content-trends/geo-when-not-worth-investing-2026]] (3 кейса + sameness anti-pattern).
+
 ## Связанные страницы
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] -- тренд AEO/GEO
+- [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]] -- data-side: продуктовый фид как новая поверхность маркетинга
+- [[evolving/industry-trends/ai-search-product-discovery-layer-2026]] -- AI как product decision-layer
+- [[evolving-strict/market-data/ai-search-commerce-benchmarks-2026]] -- benchmarks 2025-2026
 - [[canon/marketing-frameworks/native-advertising]] -- нативные публикации как SEO-инструмент
 - [[evolving/content-trends/ai-in-pr-workflows-2026]] -- AI-инструменты в PR
 - [[evolving-strict/campaign-metrics/pressfeed-pr-cases-2026]] -- кейс THERMAGENT с SEO на внешних площадках
@@ -107,6 +173,15 @@ Schema.org / JSON-LD с тегами:
 - [[evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026]] -- RU practitioner-консенсус
 - [[evolving/industry-trends/seo-to-pr-substitution-2026]] -- сдвиг SEO→PR в эру нейропоиска
 - [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] -- источник 13 RU-кейсов май 2026
+- [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]] -- онтологическая рамка retrieval'а + Faire +40% case + inventory accuracy
+- [[canon/marketing-frameworks/geo-monitoring-discipline-2026]] -- GEO-мониторинг как отдельная операционная дисциплина (foundation)
+- [[sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data]] -- источник тезисов про JSON-LD приоритет и архитектурный сдвиг
+- [[canon/marketing-frameworks/stochastic-llm-ranking-sparktoro]] -- foundation: стохастичность retrieval'а
+- [[canon/marketing-frameworks/geo-platform-segmentation-yandex-chatgpt-perplexity]] -- foundation: 3 retrieval-инфраструктуры
+- [[evolving/content-trends/geo-when-not-worth-investing-2026]] -- disqualification framework
+- [[volatile-strict/industry-news/ru-ai-law-march-2026]] -- legal context (RU март 2026)
+- [[evolving-strict/market-data/ru-ai-trust-citation-2026]] -- 28% trust / 87% no-citation RU
+- [[sources/2026-05-18-pressfeed-geo-illusion-stability-measure]] -- источник foundation-расширения
 
 ## Backlinks
 

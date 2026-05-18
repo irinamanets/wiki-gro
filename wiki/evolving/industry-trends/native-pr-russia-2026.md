@@ -9,8 +9,8 @@ tags: [industry-trends, pr, native-advertising, telegram, regulation]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-04-16
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-rbc-news-telegram-digest-apr13-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-16-pressfeed-geo-vmesto-seo.md, sources/2026-04-16-vtb-hh-mashina-vremeni.md]
+updated: 2026-05-18
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-rbc-news-telegram-digest-apr13-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-16-pressfeed-geo-vmesto-seo.md, sources/2026-04-16-vtb-hh-mashina-vremeni.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md]
 namespace: mkt
 ---
 
@@ -127,6 +127,22 @@ namespace: mkt
 
 Связанные под-паттерны автор-миграции — [[evolving/industry-trends/max-messenger-author-rejection-2026]] (девятый под-паттерн «resigned dubbing + offplatform pivot»).
 
+## Апдейт 2026-05-18 — B2B-угол через Pressfeed-вебинар «После эпохи простых охватов»
+
+[[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach|Pressfeed-вебинар «B2B-пиар после эпохи простых охватов»]] (21 мая 2026, эксперт — гендиректор агентства 4D) дополняет общую RU-картину **B2B-spec формулировкой** и фиксирует pivotal-фразу о судьбе пиара 2026:
+
+> «Прежняя система пиар-каналов трещит по швам — одни теряют охваты, другие становятся слишком дорогими, третьи превращаются в шумную ленту, четвёртые требуют платного доступа. Качественных медиа в B2B становится всё меньше, что делать пиарщикам?»
+
+Это **B2B-projection** того, что Пиархаб-исследование наблюдало на B2C/общем рынке. К общему RU-тренду натив-форвард добавляются 5 рычагов B2B-перестройки:
+
+1. Смысловая архитектура (территория, не каналы)
+2. Трендвотчинг (темы на пересечении трендов, не «о себе»)
+3. Аналитический контент (исследования, обзоры, экспертные колонки)
+4. Собственные каналы влияния (комьюнити, рассылки, вебинары, дайджесты)
+5. Коллаборации (joint research, со-публикации, со-вебинары)
+
+Эти 5 рычагов — операционная **B2B-версия** общей рекомендации «вырастет ценность собственных каналов и долгих отношений» из Прогноза 2-3 года (DocsInBox, ЕМЦ). См. подробно → [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]], [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]].
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/native-advertising]]
@@ -141,9 +157,13 @@ namespace: mkt
 - [[evolving/content-trends/aeo-geo-llm-search-optimization-2026]] — GEO как расширение нативного PR: контент на трастовых площадках = GEO-актив
 - [[evolving/content-trends/ai-agents-demand-hooks-2026]]
 - [[evolving/industry-trends/max-messenger-author-rejection-2026]]
+- [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]] — B2B-перестройка PR (от каналов к влиянию)
+- [[canon/marketing-frameworks/pr-measurement-digital-footprint]] — новая модель измерения PR (цифровой след + AI)
+- [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]] — каталог B2B-PR форматов
 - [[sources/2026-04-14-rbc-news-telegram-digest-apr13-14]]
 - [[sources/2026-04-14-tg-dnative-digest-7497-7546]]
 - [[sources/2026-04-14-tg-stodnevka2-mar-apr-2026]]
+- [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]]
 
 ## Backlinks
 
