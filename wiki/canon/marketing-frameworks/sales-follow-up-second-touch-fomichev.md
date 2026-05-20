@@ -9,8 +9,8 @@ tags: [framework, sales, b2b, smb, follow-up, second-touch, meeting-discipline, 
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md, sources/2026-05-19-pressfeed-guschina-networking-6-rules.md]
 namespace: mkt
 ---
 
@@ -95,6 +95,15 @@ Operational-тест: «если я не трону эту страницу по
 - **Контр-нарратив против «продавать через скрипты»:** второе касание — не скрипт, а процессная привычка, которую можно построить через ритуал «после каждой встречи».
 - **Анти-инфо-биз hook:** «Не платите за курсы по продажам, если у вас нет дисциплины слать резюме встречи через 24 часа. Это бесплатная foundational practice, которая обнуляет всю остальную тактику».
 
+## Перенос на networking-контекст
+
+Фомичёв описывает второе касание для **деловой встречи** (продажа, КП, переговоры). Тот же принцип переносится на **networking-эпизод** (знакомство на мероприятии без явного sales-намерения) — с двумя коррекциями:
+
+- **Окно сжимается до 24 часов** (vs 24 часа после встречи — те же, но без буфера на «обдумать»). По Гущиной ([[canon/marketing-frameworks/networking-6-rules-guschina|6 правил нетворкинга]] правило 6): после знакомства человек ещё помнит контекст; через неделю — уже нет.
+- **Артефакт = фото/контекст события**, а не резюме обсуждения. Фомичёв-шаблон («что обсуждали → что договорились → next step») превращается в гущиновский («где познакомились → краткое напоминание о себе → конкретное предложение продолжить»).
+
+Mental model одна и та же: **отсутствие follow-up = 0 на ключевой множитель** (закрытие сделки у Фомичёва / превращение знакомства в партнёрство у Гущиной). Различается только окно и формат артефакта.
+
 ## Caveats
 
 - **Источник интересованный.** Фомичёв описывает паттерн не как objective observer, а как marketing-agency-founder, чьим клиентам нужны структурированные sales-процессы (потенциально → продажа агентских услуг). Это не дисквалифицирует наблюдение — pattern совпадает с независимыми источниками (Sandler, MEDDIC, Шевелев) — но self-attribution «я это наблюдаю» нужно читать с поправкой на attribution bias.
@@ -110,3 +119,5 @@ Operational-тест: «если я не трону эту страницу по
 - [[canon/marketing-frameworks/objection-after-holidays-vrkr]] — комплементарный sales-gap про разрывы коммуникации
 - [[canon/marketing-frameworks/sales-quality-vs-quantity-vyakuba-kpi]] — KPI для отдела продаж, где follow-up rate должен быть отдельным measure'ом
 - [[canon/marketing-frameworks/marketing-sales-alignment-framework]] — как marketing-команда видит этот gap со стороны pipeline'а
+- [[canon/marketing-frameworks/networking-6-rules-guschina]] — параллельный фреймворк второго касания для networking-контекста (правило 6, 24h follow-up)
+- [[sources/2026-05-19-pressfeed-guschina-networking-6-rules]]

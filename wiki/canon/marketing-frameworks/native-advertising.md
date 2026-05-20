@@ -9,8 +9,8 @@ tags: [content, pr, native-advertising, seeding, infopovod]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-04-10
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-condense-pressfeed-35-articles.md]
+updated: 2026-05-19  # +Kovpak local-media RU-practitioner voice + 90/10 ratio + local-media-sales-funnel cross-link
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md]
 namespace: mkt
 ---
 
@@ -53,6 +53,18 @@ namespace: mkt
 
 Основной источник трафика для не-новостных медиа — органический поиск. SEO-оптимизация нативных публикаций в СМИ привлекает в разы больше читателей, чем неоптимизированные. СМИ имеют высокий траст у поисковиков — статья на таком ресурсе попадает в топ быстрее, чем на корпоративном блоге. Стратегия «поисковое продвижение на внешних площадках» (VC.ru, E-xecutive, Biz360) — проверена кейсом THERMAGENT. Подробнее — [[canon/marketing-frameworks/seo-for-ai-era-playbook]].
 
+## Локальные и нишевые медиа — отдельная операционная модель (Ковпак, 2026)
+
+В 2026 RU-practitioner Дмитрий Ковпак выделяет **локальные медиа** как самостоятельный канал performance-PR, отличный от tier-1 СМИ:
+
+- **4 типа площадок** — городские порталы (Fontanka/E1/74.ru), нишевые блог-платформы (VC.ru), ЖК-чаты, Дзен реклама
+- **Цена входа** 0-150 000 ₽ vs миллионы для tier-1
+- **CPL anchor** 300-400 ₽ — конкурентоспособен с paid-каналами 2026
+- **Жёсткая модерация** на VC.ru / Дзен требует пропорции **90/10** (90% польза, 10% продажа) — иначе reject за 5 минут
+- **Free placement** через эксклюзивные данные журналистам, ответы на запросы (Pressfeed), ЖК-обмены, постоянные колонки
+
+Это **RU-practitioner детализация** общей рамки натива для предпринимателей с региональной/нишевой ЦА и бюджетом 30-150k₽. Подробнее — [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]] + [[canon/marketing-frameworks/native-90-10-ratio-moderated-platforms]] + [[canon/marketing-frameworks/exclusive-data-for-journalists-free-placement]].
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/ugc-and-microinfluencers]] — UGC как основной проводник нативных историй
@@ -64,6 +76,10 @@ namespace: mkt
 - [[canon-strict/historical-campaigns/native-pr-cases-2026]] — кейсы-референсы
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] — SEO для AI-эпохи
 - [[evolving-strict/campaign-metrics/pressfeed-pr-cases-2026]] — PR-кейсы ORENSHAL и THERMAGENT
+- [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]] — RU-practitioner детализация для локальных медиа
+- [[canon/marketing-frameworks/native-90-10-ratio-moderated-platforms]] — операционное правило пропорции
+- [[canon/marketing-frameworks/exclusive-data-for-journalists-free-placement]] — 4 free-placement тактики
+- [[evolving/industry-trends/local-media-overheated-paid-shift-2026]] — рыночный сдвиг 2026
 
 ## Backlinks
 

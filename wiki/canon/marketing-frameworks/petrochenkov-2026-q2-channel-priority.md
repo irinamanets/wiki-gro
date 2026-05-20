@@ -9,8 +9,8 @@ tags: [framework, channels, paid-ads, email, sms, vk, avito, max, ranked-list, r
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-tg-petrochenkow-apr-may-2026.md]
+updated: 2026-05-19  # +Ковпак: локальные медиа как 9-й кандидат (дополнение к Petrochenkov-ranked list, другой автор)
+sources: [sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md]
 namespace: mkt
 ---
 
@@ -54,6 +54,22 @@ namespace: mkt
 - **Instagram.** Блокировка + риск.
 - **Перформанс-кампании в маркетплейсах (Wildberries/Ozon).** Не входят, потому что список — «общий список альтернативных источников» для бизнесов, не маркетплейсных продавцов.
 
+## Дополнение 2026-05-19 — локальные медиа как 9-й кандидат (Ковпак, Pressfeed)
+
+Petrochenkov-ranked list — это **performance-каналы прямого acquisition**. [[sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel|Параллельный голос Ковпака (Pressfeed)]] фиксирует ещё один канал, не вошедший в Petrochenkov-list, но имеющий собственный CPL-anchor:
+
+| Ранг | Канал | Сигнал | Source |
+|---|---|---|---|
+| **9 (новый)** | **Локальные медиа и нишевые блог-платформы** (городские порталы, VC.ru, ЖК-чаты, Дзен) | CPL anchor 300-400 ₽; цена входа 0-150k₽; SEO long-tail 6+ мес | `[conf:medium, src:2026-05-19]` |
+
+**Почему отдельно от Petrochenkov-list:**
+
+- Petrochenkov — Convert Monster, **performance-агентство** с фокусом на paid + direct response (UTM, CPA, ROAS). Список — про acquisition.
+- Ковпак — **SEO/контент-практик**, фокус на органике + content-driven trust. Local-media — это **SEO-asset + warmer-funnel**, не direct acquisition.
+- Два списка **комплементарны:** Petrochenkov — где брать «горячих» лидов сейчас; Ковпак — где строить «прохладную» воронку, которая работает 6+ мес.
+
+**Combined RU-practitioner-consensus на 2026-Q2:** 8 каналов Petrochenkov (для current-period acquisition) + 1 канал Ковпака (для long-tail content asset). Полная methodology Ковпака — [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]].
+
 ## Связь с другими фреймворками
 
 - [[canon/marketing-frameworks/multichannel-cumulative-effect]] — мульти-канальный кумулятивный эффект; этот список = current 2026-Q2 priority order для построения мульти-канальной стратегии.
@@ -61,10 +77,13 @@ namespace: mkt
 - [[canon/marketing-frameworks/vk-ads-2026-niche-playbook]] — детализация ранга №3 (VK Ads) по 4 нишам.
 - [[canon/marketing-frameworks/niche-race-leak-mapping]] — выбор канала по точке утечки в RACE-воронке.
 - [[evolving/competitor-positioning/max-messenger]] — обоснование ранга №8 (MAX).
+- [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]] — обоснование ранга №9 (локальные медиа, Ковпак).
+- [[evolving/industry-trends/local-media-overheated-paid-shift-2026]] — рыночный сдвиг 2026.
 
 ## См. также
 
 - [[sources/2026-05-05-tg-petrochenkow-apr-may-2026]] — первоисточник (пост 1261, 2026-04-20)
+- [[sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel]] — второй practitioner-голос (Ковпак)
 - [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]] — контекст: почему «всё не работает» в феврале-марте 2026
 
 ## Backlinks

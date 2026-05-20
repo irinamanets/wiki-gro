@@ -9,15 +9,18 @@ tags: [b2b, content, case-study, social-proof, conversion, industrial, awareness
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-20  # +ссылка на вторую колонку Тарасовой (degradation frame) — anti-proof = механизм №4 эрозии бренда без стратегии
 sources:
   - sources/2026-05-18-pressfeed-tarasova-zavod-brand.md
+  - sources/2026-05-20-pressfeed-tarasova-kompas-zavod-strategy.md
 namespace: mkt
 ---
 
 # Proof-driven B2B-контент: кейсы с цифрами vs «качество и надёжность» как content-pattern
 
 Операционный content-pattern для B2B-вертикалей: **замена общих формулировок «качество», «надёжность», «индивидуальный подход» на конкретные кейсы с цифрами**. Извлечён из колонки Анны Тарасовой про industrial-B2B на news.pressfeed.ru ([[sources/2026-05-18-pressfeed-tarasova-zavod-brand]]), но применим существенно шире — software-B2B, услуги, SaaS, агентства.
+
+**Связь с anti-pattern.** Вторая колонка Тарасовой ([[sources/2026-05-20-pressfeed-tarasova-kompas-zavod-strategy]]) описывает 7 механизмов деградации без маркетинговой стратегии — см. [[canon/marketing-frameworks/industrial-b2b-no-strategy-degradation-tarasova]]. Anti-proof контент (расплывчатость, противоречивые сообщения, отсутствие реагирования на негатив) — операционная манифестация механизма №4 (эрозия бренда). Proof-driven контент = выход из этого механизма.
 
 `confidence: medium` — паттерн поддерживается множеством параллельных источников (см. cross-link секцию), но в источнике Тарасовой основан на single-case anecdotes. Tracking via evolving — потому что content-tactics дрейфуют по форматам (раздел «Наши проекты» → case-video → AI-driven dynamic case-pages в 2026).
 

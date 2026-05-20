@@ -10,7 +10,7 @@ confidence: medium
 stale: false
 created: 2026-05-19
 updated: 2026-05-19
-sources: [sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md]
+sources: [sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md, sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku.md]
 namespace: mkt
 ---
 
@@ -53,6 +53,12 @@ namespace: mkt
 > **Прирост выручки = (Объём заявок × % возвращённых лидов) × Средний чек**
 
 Эмпирический ориентир (Евсеева): **3–7% потерянных лидов** возвращается в воронку. `[conf:medium, src:2026-05-19]`
+
+**Empirical case (SMM-сторона, «В точку» 2026-05-19, см. [[sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku]]):** в кейсе доставки авто из Японии/Китая первые **2 месяца** ответ на вопросы в директ Instagram/VK был **ручным** → заявки терялись из-за медленного реагирования. Внедрение **автоворонки на 10 самых частых вопросов** (FAQ-bot, минимальная инфраструктура) подняло **конверсию в заявку на +25%** `[conf:medium, src:2026-05-19]`.
+
+Этот кейс — точечная эмпирика к Узлу 1 в Социал-каналах: бот не как глубокий conversational AI, а как **simple FAQ-funnel на топ-10 вопросов** уже даёт двузначный прирост конверсии в нише с длинным циклом и скептичной аудиторией. Применимо к pre-flight условию «несколько сотен обращений в месяц» — даже на этом нижнем пороге simple FAQ-bot окупается.
+
+См. также: [[canon/marketing-frameworks/customer-fears-as-content-pillar]] — топ-10 страхов одновременно идут в посты-серии **и** в FAQ-бот, единый actor-asset.
 
 ### Узел 2. LTV и повторные продажи
 
@@ -148,6 +154,9 @@ GRO — B2C-приложение, не e-commerce-магазин, но рамк�
 - [[canon/marketing-frameworks/ai-smb-pilot-three-traps]] — anti-pattern AI-внедрения (Григорьев / Klarna)
 - [[canon/marketing-frameworks/automation-vs-digital-transformation-framework]] — automation как нулевой tier (Григорьев)
 - [[sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva]] — оригинальная колонка Pressfeed
+- [[sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku]] — empirical case: FAQ-бот на 10 вопросов → +25% конверсии в заявку (SMM-сторона Узла 1)
+- [[canon/marketing-frameworks/distrust-niche-smm-playbook-vtochku]] — родительский плейбук кейса
+- [[canon/marketing-frameworks/customer-fears-as-content-pillar]] — топ-10 вопросов как единый actor-asset для постов и FAQ-бота
 
 ## Backlinks
 

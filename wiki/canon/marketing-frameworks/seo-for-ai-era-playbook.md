@@ -9,8 +9,8 @@ tags: [seo, ai, content, pr, geo, aeo, faq-schema, llms-txt, robots-txt, e-e-a-t
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +Pressfeed/PRAGMATIX: data-side рамка; +Pressfeed/Insight Analytics (Кравченко): JSON-LD + architectural-shift; +Pressfeed «GEO иллюзия позиций»: SparkToro стохастичность + платформенная сегментация + disqualification framework
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md]
+updated: 2026-05-19  # +Pressfeed/Kovpak: local-media publications as SEO long-tail assets (городские порталы как domain-authority boost + индексация локальных запросов 6+ мес)
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md]
 namespace: mkt
 ---
 
@@ -138,6 +138,17 @@ Operational guideline:
 - SEO-оптимизация внешних публикаций привлекает в разы больше читателей, чем неоптимизированные
 - Стратегия «поисковое продвижение на внешних площадках»: статьи на VC.ru, E-xecutive, Biz360 попадают в топ быстрее корпоративного блога (подтверждено кейсом THERMAGENT)
 
+### Локальные городские порталы как domain-authority boost (Ковпак, 2026)
+
+Расширение «внешних публикаций» на **локальный** уровень — крупные городские порталы РФ (Fontanka.ru СПб, E1.ru Екатеринбург, 74.ru Челябинск, сетка Shkulev Media + независимые) — это **отдельный класс external-площадок** с собственной экономикой:
+
+- **Доменный траст** для локальной поисковой выдачи (Google + Яндекс) — выше, чем у tier-1 национальных СМИ для запросов с city-specific intent (например, «ремонт в Самаре» → локальный портал ранжируется выше федерального)
+- **SEO long-tail эффект:** одна публикация даёт **+50 органических лидов через 6 мес** после первичных 12k просмотров `[conf:medium, src:2026-05-19]` — то есть инвестиция работает как накопительный asset, а не разовая реклама
+- **Цена входа** 25-150k₽ за лонгрид — ниже чем tier-1 СМИ, но получаемый локальный SEO-сигнал часто **переоценён** в общем восприятии маркетологов
+- **Связка с GEO/AEO:** локальные публикации тоже попадают в retrieval-корпус LLM для locally-grounded запросов, особенно для RU AI-поиска (см. [[evolving-strict/market-data/ru-ai-search-traffic-share-2026]])
+
+Подробная methodology — [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]]. Practical anti-pattern: пытаться оптимизировать публикацию под VC.ru/Дзен без 90/10 пропорции — модерация удалит, SEO-asset не создастся (см. [[canon/marketing-frameworks/native-90-10-ratio-moderated-platforms]]).
+
 ## Двухуровневая декомпозиция эпохи AI-поиска
 
 Этот playbook покрывает **контентный слой** (как попасть в retrieval-корпус, который читают LLM). Это **необходимое, но недостаточное** условие для рекомендации AI пользователю.
@@ -182,6 +193,9 @@ Industry-trend контекст обеих рамок — [[evolving/industry-tr
 - [[volatile-strict/industry-news/ru-ai-law-march-2026]] -- legal context (RU март 2026)
 - [[evolving-strict/market-data/ru-ai-trust-citation-2026]] -- 28% trust / 87% no-citation RU
 - [[sources/2026-05-18-pressfeed-geo-illusion-stability-measure]] -- источник foundation-расширения
+- [[canon/marketing-frameworks/seo-search-intent-content-method-stadley]] -- content-side фундамент (метод поискового интента); без него технические механики не дают ROI
+- [[canon/marketing-frameworks/expert-trust-platforms-leverage-method]] -- expert-уровень distribution: trust-площадки для не-СМИ-вертикалей (psychology, healthcare, law)
+- [[canon/marketing-frameworks/seo-article-as-digital-asset-stadley]] -- CapEx-рамка SEO-актива vs. OpEx других форматов
 
 ## Backlinks
 

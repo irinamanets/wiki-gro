@@ -9,8 +9,8 @@ tags: [content, ugc, influencer-marketing, community]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-04-16
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md]
+updated: 2026-05-19
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku.md]
 namespace: mkt
 ---
 
@@ -76,8 +76,17 @@ namespace: mkt
 - **Affiliate-first кампании** с микро-авторами выигрывают у фикс-рейт кампаний: лучше маппируются на предпочтения автора, снижают upfront-risk бренда, естественно масштабируются.
 - **Поиск по аспирационной нише** — у многих потенциальных авторов нет сформировавшегося канала, но есть нишевый интерес (топ-ниши аспирантов: путешествия 15%, техника 14%, авто 10% — все с высоким чеком рекомендации). Выявление «начинающих» авторов до первой интеграции — конкурентное преимущество бренда.
 
+## Real-customer photos с конкретными цифрами (особый sub-pattern, «В точку» 2026)
+
+Эмпирически наименее ресурсоёмкая UGC-техника — **фото реального клиента в момент получения** (телефон, парковка, не студия) + подпись с **конкретными числовыми деталями** (модель / год / пробег / цена). Без цифр фото деградирует до stock-сцены.
+
+Кейс из ниши доставки авто из Японии/Китая («В точку» 2026-05-19): этот формат вошёл в комплект мер, давших **2,7 млн просмотров и +40% заявок за 5 месяцев на нулевом рекламном бюджете** `[conf:medium, src:2026-05-19]`. Полный фрейм — [[canon/marketing-frameworks/customer-photos-with-metrics-ugc]]. Родительский плейбук — [[canon/marketing-frameworks/distrust-niche-smm-playbook-vtochku]].
+
+В отличие от **спродюсированного UGC** (см. выше — заранее написанный сценарий), это **подлинный UGC** с минимальным продакшн-вмешательством: бренд только просит разрешения, не управляет сценой.
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/customer-photos-with-metrics-ugc]] — фото клиентов + конкретные цифры (под-фрейм UGC)
 - [[canon/marketing-frameworks/native-advertising]] — UGC как формат нативного размещения
 - [[canon/marketing-frameworks/marketing-as-communication-5th-p]] — UGC как механизм двусторонней коммуникации (5th P)
 - [[canon/marketing-frameworks/offensive-marketing-framework]] — UGC как элемент атакующего маркетинга через community

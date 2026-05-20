@@ -9,8 +9,8 @@ tags: [framework, research, jtbd, conversion, customer-development]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06  # +Ford «faster horse» / doctor-patient framing (Токовинин, amoCRM) как complementary doctrine для product-discovery
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md]
+updated: 2026-05-19  # +Feedback Loop sales→marketing connection (PR DOCTOR 3-dept frame): структурированные причины отказа в CRM как scalable proxy для refused-customer interview
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md]
 namespace: mkt
 ---
 
@@ -143,6 +143,8 @@ Cross-link: [[canon/marketing-frameworks/subscription-consumption-model-shift-to
 
 - [[canon/marketing-frameworks/marketing-audit-protocol]] — refused-customer interview часто следует после протокола сверки, когда тот выявил расхождение в понимании ЦА.
 - [[canon/marketing-frameworks/hyperseg-funnel-replication]] — feeding loop: отказники обогащают описание сегментов для следующей итерации связок.
+- [[canon/marketing-frameworks/three-dept-conflict-prdoctor]] — organizational frame: refused-customer interview работает только когда продажи и маркетинг сидят в одной Revenue-KPI рамке (иначе продажи не хотят/не успевают передавать данные маркетингу)
+- [[canon/marketing-frameworks/marketing-sales-alignment-framework]] — **Feedback Loop** (Рычаг 3) как scalable proxy для refused-customer interview: вместо разовых интервью — структурированная причина отказа в CRM на каждом отказе. Интервью — для глубины понимания, CRM-feedback — для покрытия объёма. Используются комплементарно.
 - [[canon/marketing-frameworks/cross-industry-pattern-borrowing]] — отказники часто называют решения **из других ниш** как альтернативу. Это прямой источник идей для cross-industry borrowing.
 - [[canon/marketing-frameworks/niche-race-leak-mapping]] — RACE-mapping выявляет, **на какой стадии** воронки утечка (REACH/ACT/CONVERT/ENGAGE). Refused-customer interview даёт **точную причину** утечки в этой стадии.
 - [[canon/marketing-frameworks/kpi-parallel-hypothesis-petrochenkov]] — после интервью генерируется пакет 50 параллельных гипотез на закрытие конкретной пробоины.
@@ -154,6 +156,7 @@ Cross-link: [[canon/marketing-frameworks/subscription-consumption-model-shift-to
 - [[sources/2026-04-14-tg-petrochenkow-mar-apr-2026]] — первоисточник (пост 1234, 2026-04-01)
 - [[sources/2026-05-05-tg-petrochenkow-apr-may-2026]] — продолжение (niche-RACE-mapping)
 - [[sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups]] — Токовинин (amoCRM) Ford «faster horse» / doctor-patient framing
+- [[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict]] — PR DOCTOR 3-dept frame: Feedback Loop как organizational precondition для refused-customer interview
 - [[canon/marketing-frameworks/subscription-consumption-model-shift-tokovinin]] — operational framework того же Tokovinin-фрейма
 
 ## Backlinks

@@ -9,9 +9,12 @@ tags: [pr, b2b, content, positioning, awareness, trendwatching]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-19  # +media monitoring; +PR competence shift; +PR-readiness-10-signals upstream gating; +PR-DOCTOR organizational frame (3-департаментная система)
 sources:
   - sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md
+  - sources/2026-05-19-pressfeed-mediamonitoring-pr-base-skill.md
+  - sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md
+  - sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md
 namespace: mkt
 ---
 
@@ -78,14 +81,18 @@ namespace: mkt
 
 ### Upstream
 
+- [[canon/marketing-frameworks/pr-readiness-10-signals-checklist]] — диагностический чек-лист, дающий gating-ответ «пора ли вообще?»; shift-2026 объясняет, **как** строить PR, если по чек-листу пора
+- [[canon/marketing-frameworks/sarafan-growth-ceiling-pattern]] — потолок сарафана как root-cause потребности в PR
 - [[canon/marketing-frameworks/infopovod-criteria-smb-pr]] — пять критериев работающего инфоповода (новизна / цифры / аналитика / прагматический угол / экспертные комментарии); shift-2026 формализует, **как** добывать темы (трендвотчинг + смысловая архитектура)
 - [[canon/marketing-frameworks/infopovod-generation-4-techniques]] — 4 техники конструирования инфоповода; shift-2026 даёт мета-уровень («сначала территория, потом темы»)
 
 ### Downstream
 
 - [[canon/marketing-frameworks/pr-measurement-digital-footprint]] — как **измерять** эффект shift-стратегии (цифровой след, AI-цитируемость)
+- [[canon/marketing-frameworks/media-monitoring-pr-framework]] — операционный инструмент сдвига к «мышлению влияния»: ежедневное чтение медиаполя как основа для коррекции стратегии (а не отчётность постфактум). Без media monitoring «трендвотчинг как основа» (рычаг 2) и «коллаборации» (рычаг 5) — слепые.
 - [[canon/marketing-frameworks/performance-pr-framework]] — performance-PR-инструменты (UTM, промокоды, NPS) применимы к новой стратегии, но через новые метрики
 - [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]] — конкретный каталог аналитических форматов B2B-PR
+- [[evolving/industry-trends/pr-competence-shift-2026]] — параллельный сдвиг на уровне skills: работа с медиа и стратегия вытесняют контент-копирайтинг (PR-team теперь нанимает аналитиков, не копирайтеров)
 
 ### Параллельные тренды
 
@@ -104,6 +111,20 @@ GRO — B2B-tech-стартап (приложение + Интенсив). Вс�
 5. **Коллаборации** → совместные исследования с EdTech-партнёрами, HR-консалтингом, ИТ-компаниями
 6. **Контент-цепочки** → operationalized в [[canon/marketing-frameworks/performance-pr-framework]]
 
+## Organizational frame: PR не standalone функция (Update 2026-05-19, PR DOCTOR)
+
+Шифт 2026 описывает **что** делает современный B2B-PR. Но PR не существует в вакууме — он соседствует с маркетингом и продажами, и **большая часть failure-modes происходит не от плохой PR-стратегии, а от неправильной организационной рамки**.
+
+PR DOCTOR в Pressfeed ([[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict]]) формализует это как **3-департаментный конфликт**: см. [[canon/marketing-frameworks/three-dept-conflict-prdoctor]]. Три рычага оттуда применимы к PR-стратегии напрямую:
+
+- **Рычаг 1 «фиксировать роли письменно»** → смысловая архитектура (рычаг 1 здесь) требует CEO-уровня approval, иначе PR работает в вакууме. См. [[canon/marketing-frameworks/gtm-shared-understanding-anchor|GTM anchor]] как родственный pattern.
+- **Рычаг 2 «продукт-зависимый sales-ownership»** → для сложных B2B-продуктов (типа Интенсива GRO) PR-материалы становятся sales-поддержкой. Для несложных SaaS PR может работать stand-alone на awareness/lidogen.
+- **Рычаг 3 «system-level Revenue KPIs»** → PR оценивается **не по упоминаниям в СМИ**, а по вкладу в awareness + лояльность ЦА (которые в свою очередь конвертируются в leads и закрытия продаж). См. [[canon/marketing-frameworks/pr-measurement-digital-footprint|цифровой след]] как операционализация.
+
+**Anti-pattern из PR DOCTOR кейса:** *«Production-руководители требовали PR/маркетинг бросить абстрактные задачи и запускать прямые рекламные материалы с призывами к покупке».* Это типичная executive-misunderstanding функции PR. Шифт-2026 даёт PR-команде arguments **что** делать; 3-dept рамка даёт arguments **почему** этого не надо ломать.
+
+**Numerical signal:** CMO-парадокс [[evolving-strict/market-data/cmo-strategist-executor-gap-2026|84%/64%]] — изоморфная дисфункция на уровне маркетинг-лидера. Тот же gap (declared stratagy → реальные tactic-метрики) бьёт по PR-функции.
+
 ## Anti-pattern
 
 - ❌ «Сначала медиаплан, потом тематика» — обратный shift-логике порядок
@@ -111,6 +132,7 @@ GRO — B2B-tech-стартап (приложение + Интенсив). Вс�
 - ❌ «Один формат на одну тему» — упускает контент-цепочки и efficiency переупаковки
 - ❌ «PR = публикации в СМИ» — упускает собственные каналы влияния и коллаборации
 - ❌ «Делаем PR без экспертной территории» — публикации без unifying-thesis не дают экспертного следа, не цитируются AI
+- ❌ **«PR — продолжение маркетинга»** (Update 2026-05-19) — PR имеет другой временной горизонт; подчинение PR маркетингу убивает long-term brand-работу. Лечение — 3-dept рамка с PR как самостоятельной функцией
 
 ## Связанные страницы
 
@@ -127,4 +149,9 @@ GRO — B2B-tech-стартап (приложение + Интенсив). Вс�
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — AEO/GEO
 - [[evolving/industry-trends/native-pr-russia-2026]] — RU native PR
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — целевая аудитория шифта
+- [[canon/marketing-frameworks/three-dept-conflict-prdoctor]] — 3-департаментная организационная рамка (PR ↔ маркетинг ↔ продажи)
+- [[canon/marketing-frameworks/event-coordination-checklist-prdoctor]] — operational microcase 3-dept координации (PR раздаёт смыслы, маркетинг готовит брифы, продажи фиксируют ОС)
+- [[canon/marketing-frameworks/gtm-shared-understanding-anchor]] — anchor-понимание продукта как input смысловой архитектуры
+- [[evolving-strict/market-data/cmo-strategist-executor-gap-2026]] — изоморфный gap на уровне маркетинг-лидера
 - [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]] — первоисточник
+- [[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict]] — organizational frame

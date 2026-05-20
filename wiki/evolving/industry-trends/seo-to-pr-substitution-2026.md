@@ -9,8 +9,8 @@ tags: [seo, pr, geo, aeo, ai-search, content, channels, organic-traffic]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md]
+updated: 2026-05-19  # +Стадлей expert-level validation: trust-площадки для эксперта-одиночки (b17.ru, Дзен) — RU-аналог тезиса для не-СМИ-вертикалей
+sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-19-pressfeed-stadley-seo-articles-expert-case.md]
 namespace: mkt
 ---
 
@@ -166,11 +166,24 @@ GRO как маркетинговая организация:
 
 См. родительские концепты → [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]], [[canon/marketing-frameworks/pr-measurement-digital-footprint]], [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]].
 
+## Update 2026-05-19 — Expert-level валидация через Стадлей: trust-площадки в не-СМИ-вертикалях
+
+[[sources/2026-05-19-pressfeed-stadley-seo-articles-expert-case|Pressfeed/Стадлей]] (бизнес-психолог, former CCO Pressfeed 7+ лет) даёт **expert-level** валидацию SEO→PR substitution для **эксперта-одиночки без своего сайта/бренда**: вместо собственного домена эксперт публикует SEO-статьи на **trust-площадках практической тематики** — b17.ru (психологический портал) и Яндекс Дзен. Это RU-аналог тезиса о PR-площадках, но в **не-СМИ-вертикалях**.
+
+Что нового по сравнению с 13-кейсами и B2B-вебинаром:
+
+1. **Расширение типов trust-площадок.** До сих пор consensus фокусировался на СМИ (vc.ru, Habr, Pressfeed.Журнал) и B2B-журналах. Стадлей показывает, что **тематические порталы практики** (b17.ru — психологи) и **own-property платформ-агрегаторов** (Яндекс Дзен) работают по тому же механизму domain-trust × тематика — для psychology, healthcare, law, education, real-estate их аналоги есть в каждой нише.
+2. **Контент-side фундамент substitution.** Стадлей делает явным, что PR/trust-площадки **не работают без правильного intent-метода**. Гладкая «PR-публикация» на vc.ru без работы с поисковым интентом не индексируется в топ и не цитируется AI. Сама substitution-механика работает только когда контент закрывает интент — см. [[canon/marketing-frameworks/seo-search-intent-content-method-stadley]].
+3. **CapEx-рамка SEO-статьи.** Стадлей формализует ключевое экономическое отличие SEO-актива на trust-площадке от соцсетей и СМИ-публикаций: SEO-статья работает **месяцами и годами** (см. [[canon/marketing-frameworks/seo-article-as-digital-asset-stadley]]), тогда как пост в TG/Instagram умирает за дни. Это дополнительный аргумент **финансового** characer'а в пользу substitution: SEO-актив на trust-площадке = capex (платишь раз — получаешь годами), типичный PR-комментарий = opex (платишь и забываешь).
+
+Связь с broader-сигналом: Стадлей закрывает **expert / solo-practitioner вертикаль**, которая до неё в RU consensus была slot-ом без operational-обвязки. Магась и B2B-вебинар описывают шаги для агентств/брендов; Стадлей — для эксперта-одиночки (психолог, юрист, врач, тренер) — самая массовая категория в RU SMB-сегменте.
+
 ## Источники
 
 - [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] — 13 RU-практиков (май 2026)
 - [[sources/2026-04-14-peregudov-telegram-dec25-apr26]] — Шевченко / Перегудов формулировка external-trust-sites тезиса
 - [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]] — B2B-угол (Pressfeed-вебинар, 21 мая 2026)
+- [[sources/2026-05-19-pressfeed-stadley-seo-articles-expert-case]] — expert-level валидация trust-площадок в не-СМИ-вертикалях (Стадлей, май 2026)
 
 ## Связанные страницы
 
@@ -186,6 +199,9 @@ GRO как маркетинговая организация:
 - [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]] — B2B-shift framework
 - [[canon/marketing-frameworks/pr-measurement-digital-footprint]] — новая модель измерения
 - [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]] — каталог B2B-форматов
+- [[canon/marketing-frameworks/seo-search-intent-content-method-stadley]] — content-side фундамент (без него substitution не работает)
+- [[canon/marketing-frameworks/expert-trust-platforms-leverage-method]] — operational подложка trust-площадок для не-СМИ-вертикалей
+- [[canon/marketing-frameworks/seo-article-as-digital-asset-stadley]] — CapEx-рамка SEO-актива (финансовый аргумент substitution)
 
 ## Backlinks
 

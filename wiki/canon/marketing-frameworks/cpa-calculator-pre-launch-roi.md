@@ -9,8 +9,8 @@ tags: [framework, performance, roi, paid-ads, calculation]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md]
+updated: 2026-05-19  # +cross-link на hot-lead-share-kpi-vtochku (KPI горячих лидов как верх pre-launch расчёта)
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md, sources/2026-05-19-pressfeed-target-ads-construction-5-methods-vtochku.md]
 namespace: mkt
 ---
 

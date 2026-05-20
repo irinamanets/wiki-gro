@@ -9,8 +9,8 @@ tags: [ai, education, intensive, ru-smb, competitor-positioning, consideration]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-ai-intensives-overview.md]
+updated: 2026-05-19  # +second Pressfeed-обзор (focal Барановой) + RU-tool inventory 15+ instruments по 7 этапам + cross-links на новые рамки
+sources: [sources/2026-05-18-pressfeed-ai-intensives-overview.md, sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md]
 namespace: mkt
 ---
 
@@ -26,11 +26,13 @@ namespace: mkt
 
 - **Курс:** «Нейросети для контента, бизнеса и творчества»
 - **Формат:** сжатое погружение в практику. Уроки короткие, после каждого блока — задания, привязанные к реальным задачам.
-- **Покрываемые направления:** генерация текстов, изображений и видео, AI-инструменты для автоматизации рутины.
-- **Параллельный курс той же школы:** «нейросети + заработок» — маркетинг, упаковка, продажи.
-- **Pressfeed-оценка** (важно — это PR-площадка, не EdTech-эксперт): «один из наиболее удобных вариантов для быстрого старта». `[conf:low, src:2026-05-18]`
+- **Покрываемые направления:** генерация текстов, изображений и видео, AI-инструменты для автоматизации рутины. Из второго Pressfeed-обзора уточнение: «сценарии от создания текстов до автоматизации простых действий».
+- **Параллельный курс той же школы:** «нейросети + заработок» — маркетинг, упаковка, продажи. Это **monetization-vertical** под аудиторию «фрилансеры + предприниматели в росте».
+- **Pressfeed-оценка** (важно — это PR-площадка, не EdTech-эксперт): «один из наиболее удобных вариантов для быстрого старта» (повторено в обоих обзорах серии). `[conf:low, src:2026-05-19]`
+- **Promise:** «обучение через действие, с понятными задачами и без перегрузки теорией» — формула focal-позиционирования. **Подходит для новичка без технического образования.** `[conf:medium, src:2026-05-19]`
 - **Цены:** не раскрыты в обзоре. Школы-одиночки в RU-нише обычно держат точки 5 000 – 30 000 ₽ за интенсив (отраслевая норма) `[conf:low, src:2026-05-18]`.
 - **Сегмент:** новички + специалисты-универсалы, заинтересованные в коммерческой применимости.
+- **Editorial pattern сигнал:** focal product в **обеих** Pressfeed-статьях серии (см. [[evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern|Pressfeed paid-placement pattern]]). Это значит — школа использует Pressfeed как стабильный PR-канал. Это сигнал, что они **активно инвестируют в paid PR** в нише массового AI-edu.
 
 ### Skillbox — «Нейросети с нуля: ваш ИИ-ассистент для жизни и работы»
 
@@ -95,6 +97,24 @@ Pressfeed-обзор формулирует это в ответе на FAQ: «�
 
 **Implication для GRO:** если GRO «Интенсив» **не включает** этот hygiene-набор — это не интенсив в восприятии аудитории. Если включает — это **floor**, а не дифференциация. Дифференциация GRO-Интенсива должна быть на **другом уровне** (founder+CMO формат, под конкретный бизнес, takeaway = маркетинговая стратегия, а не «5 промптов»).
 
+### Расширенное операционное наполнение через 7-этапный inventory (Pressfeed 2026-05-18, обзор инструментов)
+
+Второй Pressfeed-обзор «Нейросеть для курсов: 15+ доступных в РФ сервисов» ([[sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15]]) детализирует hygiene-набор до **7 этапов производства курса** с привязкой конкретных RU-доступных инструментов к каждому. Это переход от **navigation** (5 пунктов сверху) к **production-pipeline** (7 этапов + 15 имён инструментов).
+
+**7 этапов** (полностью в [[canon/marketing-frameworks/ai-course-production-conveyor-7-stages]]):
+
+1. Структура курса (LLM)
+2. Контент уроков (LLM + поисковой ассистент)
+3. Задания и тесты (LLM)
+4. Иллюстрации (image-generators + специализированные tools для инфографики)
+5. Презентации (AI-конструкторы слайдов)
+6. Видеоуроки: фоновое видео + озвучка + музыка + монтаж (text-to-video + TTS + text-to-music + AI-editor)
+7. Доп. материалы: саммари + флеш-карточки + чек-листы + FAQ (LLM)
+
+**Implication для landscape:** школы в выборке (Барановой, Skillbox, Эдюсон) обычно покрывают этапы 1–5 (структура + контент + задания + иллюстрации + презентации) хорошо, но **слабо** или **никак** не покрывают этап 6 (видеоуроки) и этап 7 (доп. материалы). Это **gap-возможность** для дифференциации: AI-интенсив, обучающий **полному 7-этапному pipeline**, покрывает более широкий operational scope, чем стандартные программы 2026.
+
+**Implication для GRO «Интенсив»:** при позиционировании high-ticket (240–400k ₽) **обязательно покрытие всех 7 этапов** — это часть value proposition. Mass-market low-ticket (5–80k ₽) могут позволить себе покрыть 3–4 этапа, high-ticket такой роскоши не имеет.
+
 ## Длительность как параметр позиционирования
 
 Pressfeed-обзор задаёт диапазон **2–3 дня — 2 недели**. «За несколько вечеров можно освоить работающие связки». Длительность ниже 2 дней — это уже не интенсив, а мастер-класс/вебинар. Выше 2 недель — это уже короткий курс.
@@ -127,8 +147,15 @@ GRO «Интенсив» — длительность из источника н
 
 ## Cross-links
 
-- [[sources/2026-05-18-pressfeed-ai-intensives-overview]] — единственный текущий источник landscape
+- [[sources/2026-05-18-pressfeed-ai-intensives-overview]] — обзор 1: широкий landscape (3 школы + 5 критериев)
+- [[sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement]] — обзор 2: beginner-фокус, focal школа Барановой
+- [[sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15]] — обзор 3: операционное наполнение через 15+ RU-tools и 7 этапов
+- [[canon/marketing-frameworks/ai-course-production-conveyor-7-stages]] — 7-этапная методология production
+- [[evolving/content-trends/ru-ai-course-production-stack-2026]] — RU-tool inventory под 7 этапов (дрейфующий snapshot)
+- [[canon/marketing-frameworks/ai-content-3-limitations-pressfeed]] — 3 ограничения AI в обучающем контенте
 - [[canon/marketing-frameworks/ai-intensive-format-criteria]] — рамка оценки качества интенсивов
+- [[canon/marketing-frameworks/beginner-edu-3-differentiators]] — 3 differentiators beginner-курса (рамка для entry-level позиционирования)
+- [[evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern]] — editorial-pattern, через который видим этот landscape
 - [[canon/product-knowledge/gro-intensive]] — GRO в этом landscape (high-ticket b2b sub-segment)
 - [[canon/target-audience/gro-segments]] — сегментация ЦА (1-в-1 с отраслевой)
 - [[evolving/competitor-positioning/tablichnyj-biatlon-niche-vertical-edu-product]] — vertical niche-edu как параллельный landscape

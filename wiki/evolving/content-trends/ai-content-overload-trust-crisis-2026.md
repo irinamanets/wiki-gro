@@ -9,8 +9,8 @@ tags: [ai, trust, content, communications, content-quality, expert-opinion, cont
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md]
+updated: 2026-05-19  # +LZ.Media: 63% потребителей хотят знать о AI-контенте (consumer-quants metric); content-marketing-уровневая делегационная карта параллельно communications-уровню Стеценко
+sources: [sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md]
 namespace: mkt
 ---
 
@@ -52,9 +52,16 @@ namespace: mkt
 - **dnative ([[evolving/content-trends/ai-screenshot-trust-crisis-2026]])** — 2026-05-14, тренд AI-генерации скриншотов и in-camera-only-верификации. Тот же класс trust-кризиса AI-эпохи, но через operational-platform-layer (KYC, доставка, поддержка). Стеценко закрывает creative-content-layer; dnative — transactional-platform-layer.
 - **Petrochenkov ([[evolving/industry-trends/ai-marketing-limits-2026]])** — март-апрель 2026, лимиты AI в performance-маркетинге: AI делает «приемлемые, но не необходимые» ответы → ровно тот класс контента, который читатель чувствует как AI-сгенерированный и **отвергает**. Стеценко описывает downstream-эффект на доверии аудитории; Petrochenkov — upstream-механику generation.
 - **Дмитрий Кот ([[canon/marketing-frameworks/dmitry-kot-ai-text-5-insights]])** — операционный антидот: 5 шагов промптинга, чтобы AI не выдавал ту самую «воду для всех и ни для кого», которая триггерит trust-кризис.
+- **LZ.Media ([[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]])** — 2026-05-19, content-marketing-уровневая делегационная карта (что ИИ хорошо делает в контент-маркетинге vs где границы). Конвертирует Стеценко-паттерн в **operational чек-лист** для контент-команды: 6 горячих зон + 4 холодные зоны делегирования.
 - **Закон 2 мая 2026 о маркировке AI ([[volatile-strict/industry-news/ru-ai-marking-law-2026]])** — государственный признак того, что user **не отличает** AI-контент от реального, что подтверждает existence самого кризиса.
 
-Триангуляция: **три независимых эксперта + один регуляторный сигнал** в одном квартале → high-confidence-сдвиг behavior-паттерна аудитории.
+Триангуляция: **четыре независимых эксперта + один регуляторный сигнал** в одном квартале → high-confidence-сдвиг behavior-паттерна аудитории.
+
+### Quants-якорь: 63% consumer-demand на disclosure
+
+LZ.Media (Pressfeed, май 2026) приводит цифровой ориентир: **63% потребителей хотят знать, когда контент создан ИИ**. Это первый в нашей вики **числовой** замер consumer-demand на AI-content transparency.
+
+Подробно — на отдельной странице [[evolving-strict/market-data/ai-content-transparency-demand-2026]]. Метрика подкрепляет qualitative-сдвиг Стеценко конкретной цифрой и переводит «премия за живое» из абстрактного нарратива в **measurable consumer behavior**.
 
 ## Что делать бренду
 
@@ -101,7 +108,10 @@ namespace: mkt
 - [[evolving/industry-trends/ai-marketing-limits-2026]] — upstream механика «приемлемого, не необходимого» AI-контента
 - [[canon/marketing-frameworks/dmitry-kot-ai-text-5-insights]] — operational антидот: 5 шагов промптинга
 - [[canon/marketing-frameworks/ai-text-markers-checklist]] — диагностика AI-маркеров постфактум
+- [[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]] — operational делегационная карта (LZ.Media, content-marketing)
+- [[evolving-strict/market-data/ai-content-transparency-demand-2026]] — 63% consumer-demand на AI-content disclosure (LZ.Media quants)
 - [[canon/marketing-frameworks/trust-as-managed-asset-coin-principle]] — трактовка доверия как управляемого актива
 - [[volatile-strict/industry-news/ru-ai-marking-law-2026]] — регуляторный сигнал того же тренда
 - [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]] — кейс mass-scale healthcare-AI-fail
-- [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — первоисточник
+- [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — первоисточник Стеценко
+- [[sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits]] — LZ.Media content-marketing-frame + 63% quants

@@ -97,7 +97,9 @@ GPT-4.1: 10,62 тире на 1000 слов. Человек: 3,23. Разница
 - [[sources/2026-04-16-pressfeed-12-ai-text-markers]] -- первоисточник
 - [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] -- второй источник (Кот, 2026-05-13)
 - [[sources/2026-05-18-pressfeed-b2b-homepage-blocks-guide]] -- маркеры в B2B-копирайте вне AI-контекста
+- [[sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits]] -- LZ.Media: делегационная карта + platform-moderation operational риски
 - [[canon/marketing-frameworks/dmitry-kot-ai-text-5-insights]] -- профилактика на этапе промптинга (дополняет этот чек-лист)
+- [[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]] -- что отдать AI / что не отдавать в контент-маркетинге (LZ.Media)
 - [[canon/marketing-frameworks/specificity-test-strip-company-name]] -- copy-тест для B2B-сайтов
 - [[canon/marketing-frameworks/about-us-block-anti-cliche-b2b]] -- каталог штампов B2B-блоков
 - [[canon/marketing-frameworks/native-advertising]] -- нативная реклама особенно уязвима к AI-маркерам

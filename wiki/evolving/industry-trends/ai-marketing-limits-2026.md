@@ -9,8 +9,8 @@ tags: [ai-marketing, llm, automation, paid-ads, performance, russia, trust, heal
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-18  # +Стеценко (Loyalty Group) zonal-layer: tabu-зоны healthcare как qualitative complement к performance-лимитам
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md]
+updated: 2026-05-19  # +LZ.Media: content-marketing-уровневая делегационная карта parallel to Petrochenkov performance-frame — 6 горячих зон + 4 холодные зоны
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md]
 namespace: mkt
 ---
 
@@ -124,6 +124,37 @@ Tabu-зоны (Стеценко): **медицина, фарма, семейны
 
 **Кейс-anchor этого зонального лимита** — Medvi (US): более 5 000 рекламных объявлений с AI-сгенерированными врачами `[conf:medium, src:2026-05-18]`, см. [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]]. Это «5 000-violations подтверждение» гипотезы Стеценко.
 
+## May 2026 update — content-marketing analog от LZ.Media
+
+Если Petrochenkov-рамка отвечает на «что AI делает в performance-маркетинге», а Стеценко-рамка — «**где** AI запрещён по зональной этике», то третья ось — **content-marketing-уровневая делегационная карта** от руководителя SEO-агентства LZ.Media (Самара, Pressfeed-публикация 2026-05-19, [[sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits]]).
+
+LZ.Media формулирует **content-marketing-аналог Petrochenkov-формулы**:
+
+> «ИИ-технологии эффективны только при четко (и верно) заданных специалистом условиях. В противном случае — это просто масштабирование ошибок».
+
+— симметрично «AI — multiplier для опытного, breaker для неопытного». Та же формула, тот же класс рамок, но на content-marketing-материале (не performance).
+
+**Делегационная карта LZ.Media:**
+
+- **6 горячих зон ИИ:** адаптация одного материала под форматы; повторяющиеся жанровые тексты (статьи, кейсы, экспертные колонки, новости); видео/аудио (нарезка, субтитры, монтаж); управленческий аспект (брифы, ревью, согласования); персонализация (SMB-демократизация: email, динамический контент, tone-adaptation); data analysis + A/B-тестирование.
+- **4 холодные зоны:** контент-стратегия; интерпретация результатов; финальная ответственность за фактчек/legal; авторский голос и уникальная экспертиза.
+
+Подробно — на отдельной странице [[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]].
+
+**Полная картина 2026 (тройная ось):**
+- **Performance-ось (Petrochenkov):** AI = `f(skill оператора)` — multiplier для опытного, breaker для слабого
+- **Zonal-ось (Стеценко):** AI = `f(зональная этика)` — таbu-зоны независимо от skill
+- **Content-marketing-ось (LZ.Media):** AI = `f(тип задачи)` — 6 горячих зон делегирования + 4 холодные зоны
+
+Все три рамки **дополняют, не противоречат друг другу**. Это canon-устойчивый трианглу для AI-marketing-стратегии 2026.
+
+**Кейс-anchors content-marketing-ошибок** из LZ.Media (тот же класс, что у Стеценко 5 000 Medvi-объявлений, но в другой зоне):
+- **2023, US-адвокаты** — ChatGPT-фабрикованные судебные прецеденты со штрафом за введение суда в заблуждение `[conf:medium, src:2026-05-19]`
+- **Август 2024, Рен-ТВ** — Midjourney-фейк про мадагаскарского дрозда в новостном сюжете `[conf:medium, src:2026-05-19]`
+- **Февраль 2025, Опра/Пирс Морган** — дипфейки в нелицензированной рекламе курса `[conf:medium, src:2026-05-19]`
+
+**63%-quants-якорь** — [[evolving-strict/market-data/ai-content-transparency-demand-2026]]: 63% потребителей хотят знать о AI-генерации (LZ.Media-цитата, общий тренд cross-corroborated через WCIOM + Anthropic 81k + RU-закон 2 мая).
+
 ## TTL и план верификации
 
 - TTL: 90 дней soft (быстро эволюционирующий тренд)
@@ -145,8 +176,11 @@ Tabu-зоны (Стеценко): **медицина, фарма, семейны
 - [[sources/2026-04-14-tg-petrochenkow-mar-apr-2026]] — первоисточник
 - [[sources/2026-05-05-tg-petrochenkow-apr-may-2026]] — продолжение, AI-cheat-собес кейс + demping-курса как маркетинговый response
 - [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]] — qualitative-zonal complement (Стеценко, Loyalty Group)
+- [[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]] — content-marketing-уровневая делегационная карта (LZ.Media), третья ось рамки
+- [[evolving-strict/market-data/ai-content-transparency-demand-2026]] — 63%-quants-якорь consumer-disclosure-demand (LZ.Media)
 - [[evolving/content-trends/ai-content-overload-trust-crisis-2026]] — макро-тренд trust-кризиса AI-эпохи
 - [[evolving/industry-trends/ai-invisibility-shift-2026]] — параллельный сдвиг к «AI как невидимая инфраструктура»
+- [[sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits]] — LZ.Media content-marketing-frame
 - [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]] — кейс-anchor (5 000+ AI-врачей в US)
 - [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — источник Стеценко
 

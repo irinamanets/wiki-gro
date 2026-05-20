@@ -9,8 +9,8 @@ tags: [content, social, smm, ugc, seo, video, ai-tools, community]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-04-16
-sources: [sources/2026-04-16-pressfeed-smm-content-trends-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-04-16-pressfeed-smm-content-trends-2026.md, sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku.md]
 namespace: mkt
 ---
 
@@ -94,8 +94,23 @@ UGC -- не приятное дополнение, а одно из трёх к�
 6. Делать ставку на локальные коллаборации и микроинфлюенсеров
 7. Выбрать 2-3 тренда и сфокусироваться на них
 
+## Update 2026-05-19 — эмпирическое подтверждение «В точку»
+
+Кейс агентства «В точку» (Pressfeed 2026-05-19, см. [[sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku]]) подтверждает **три** из семи трендов одной серией данных в нише доставки авто из Японии/Китая:
+
+| Тренд (Андреева) | Эмпирика «В точку» |
+|---|---|
+| **2. UGC как ключевой столп** | Метод 2: фото клиентов с конкретными цифрами вместо сток-фото → дало рост заявок на нулевом бюджете. См. [[canon/marketing-frameworks/customer-photos-with-metrics-ugc]]. |
+| **5. Social SEO** | Метод 1: заголовки-вопросы клиентов = ровно те запросы, которые ищут в соцпоисковиках. См. [[canon/marketing-frameworks/customer-fears-as-content-pillar]]. |
+| **7. «Живой бренд»** | Реальные клиенты, телефонные фото, без оценочных прилагательных, без stock-сценариев — точно по описанию «живого бренда». |
+
+Дополнительная **эмпирическая находка** про длину постов (не входит в 7 трендов Андреевой явно, но усиливает её принцип «гибкого планирования»): сокращение постов **2000-3000 → 500-800 знаков** дало **engagement ×3** в 5-месячном кейсе `[conf:medium, src:2026-05-19]`. Полный разбор — [[evolving/content-trends/short-form-engagement-vtochku-case-2026]].
+
+Сводные числовые метрики кейса — [[evolving-strict/campaign-metrics/distrust-niche-smm-vtochku-benchmarks]].
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/distrust-niche-smm-playbook-vtochku]] — операциональный плейбук «В точку», эмпирика к трендам 2, 5, 7
 - [[canon/marketing-frameworks/ugc-and-microinfluencers]] -- UGC-фреймворк и микроинфлюенсеры
 - [[canon/marketing-frameworks/native-advertising]] -- нативная реклама как контекст для UGC
 - [[evolving/content-trends/telegram-native-formats]] -- нативные форматы в Telegram 2026

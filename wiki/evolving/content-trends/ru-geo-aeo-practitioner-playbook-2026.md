@@ -9,8 +9,8 @@ tags: [seo, geo, aeo, ai-search, ru-market, pr, content, faq-schema, e-e-a-t]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18  # +Язовский (Pressfeed май 2026): SMB-перспектива дополняет corporate-уровень — 8й practitioner-голос в RU consensus
-sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb.md]
+updated: 2026-05-19  # +Стадлей (Pressfeed май 2026): content-side фундамент (поисковый интент, trust-площадки, цифровой актив) — 9й practitioner-голос, complement к технической GEO/PR-обвязке
+sources: [sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb.md, sources/2026-05-19-pressfeed-stadley-seo-articles-expert-case.md]
 namespace: mkt
 ---
 
@@ -189,6 +189,52 @@ DiaClass:
 
 **Когда какой плейбук использовать**: корпоративный (13 кейсов) — для теmplates агентств и in-house команд; SMB (Язовский) — для founder-led / небольших команд без выделенных SEO/PR-ресурсов. Для GRO — **смешанный**: SMB-level diagnostics + corporate-level PR (Pressfeed-аккаунт, vc.ru/Habr публикации).
 
+## Update 2026-05-19 — Стадлей (Pressfeed): content-side фундамент интента + trust-площадки
+
+[[sources/2026-05-19-pressfeed-stadley-seo-articles-expert-case|Pressfeed/Стадлей]] добавляет **девятый practitioner-голос** с **уникальным content-side углом**: предыдущие 8 практиков фокусировались на технических механиках (FAQ-schema, JSON-LD, entity-разметка, GEO-monitoring) и платформенных решениях (PR-площадки, экспертные профили). Стадлей закрывает **content-side фундамент**, без которого все технические механики работают вхолостую: **методология выбора темы** + **формат-актив**.
+
+### Подтверждаемое для consensus
+
+Стадлей подтверждает паттерны 1, 4 RU consensus:
+
+1. **SEO как фундамент** — её кейс ровно об этом: SEO-статьи дают устойчивое присутствие в поиске, которое не дают ни соцсети, ни СМИ
+4. **E-E-A-T через экспертные публикации** — Стадлей опирается на свою верифицированную экспертизу (former CCO Pressfeed 7+ лет, автор публикации Института психологии РАН) при отборе тем
+
+И подтверждает имплицитно паттерн 7 (анти-pattern «промпт-магия»): её принцип «никакого механического добавления ключевых слов» — анти-паттерн SEO-stuffing, изоморфный анти-паттерну GEO-промптинга.
+
+### Уникальный content-side угол (новое для consensus)
+
+1. **Метод поискового интента** ([[canon/marketing-frameworks/seo-search-intent-content-method-stadley]]) — тема = пересечение проф.экспертизы автора и реального намерения пользователя, не от volume-листа keywords
+2. **Двухосевая модель подбора тем** — категоричный отказ от «обо всём понемногу», только зона органичного соответствия
+3. **Trust-площадки как лифт** ([[canon/marketing-frameworks/expert-trust-platforms-leverage-method]]) — b17.ru / Дзен как готовый domain-trust для эксперта-одиночки без своего сайта; конкретизация общего тезиса PR-площадок для не-СМИ-вертикалей (психология, медицина, юриспруденция)
+4. **SEO-статья = CapEx, не OpEx** ([[canon/marketing-frameworks/seo-article-as-digital-asset-stadley]]) — рамка форматов контента по сроку жизни; делает явным финансовое отличие SEO-актива от соцсетей и СМИ
+5. **Парная модель эксперт + копирайтер** — operational solution для производства контента: эксперт держит интент, копирайтер — оформление
+
+### Иерархия RU consensus после Стадлей (full stack)
+
+| Уровень | Что обеспечивает | Чей вклад |
+|---|---|---|
+| 1. **Content-side фундамент** | Тема + глубина + честность | **Стадлей** (новое) |
+| 2. **Структурная обвязка** | FAQ + Schema.org + entity-разметка | 13 кейсов + Шевченко + Кравченко |
+| 3. **Платформенное размещение** | Trust-площадки (психология/SMB/B2B-СМИ) | **Стадлей** (углубление) + Виас (PR) |
+| 4. **PR-уровень** | Цитирование в крупных медиа для E-E-A-T | Магась + Yandex GEO-комментарий + Pressfeed-кейсы |
+| 5. **Operational diagnostics** | 30-мин self-audit + 6-шаговый workflow | Язовский (SMB) |
+| 6. **Measurement** | GEO-monitoring discipline, видимость в Алисе/Перплекcити | Кравченко + wallmeter Яндекса |
+
+**Стадлей закрывает уровни 1 и 3** (углубление). До неё RU-consensus был сильно перекошен в сторону уровней 2 и 4 (технические + PR), а уровень 1 (содержательный фундамент) предполагался implicit. Теперь он явный.
+
+### Когда использовать какой подход — расширенная матрица
+
+| Профиль | Что брать |
+|---|---|
+| Агентство / in-house с командой SEO/PR | 13 кейсов + Кравченко GEO-monitoring (corporate-уровень) |
+| Founder-led SMB без команды | Язовский 6-шаговый плейбук (SMB-уровень) |
+| **Эксперт-одиночка / solo practitioner** | **Стадлей content-side + trust-площадки** (expert-уровень) |
+| Контент-завод / publishing house | 13 кейсов + Стадлей метод интента (масштабирование content-side) |
+| B2B-SaaS с продуктовой страницей | 13 кейсов + PRAGMATIX product-data-as-architecture + GEO-monitoring |
+
+Для GRO: рекомендуется **смешанная подложка** — Стадлей content-side (как выбирать темы для блога ГРО) + Язовский self-audit + Pressfeed PR + Кравченко GEO-monitoring.
+
 ## Connection map
 
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — родительский тренд
@@ -206,6 +252,10 @@ DiaClass:
 - [[evolving-strict/campaign-metrics/pressfeed-pr-cases-2026]] — Pressfeed PR-кейсы
 - [[sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation]] — первоисточник 13 кейсов
 - [[sources/2026-05-18-pressfeed-yazovsky-geo-6-steps-smb]] — первоисточник SMB-плейбука
+- [[canon/marketing-frameworks/seo-search-intent-content-method-stadley]] — content-side метод поискового интента (Стадлей)
+- [[canon/marketing-frameworks/expert-trust-platforms-leverage-method]] — trust-площадки для эксперта (Стадлей)
+- [[canon/marketing-frameworks/seo-article-as-digital-asset-stadley]] — SEO-актив как CapEx-формат (Стадлей)
+- [[sources/2026-05-19-pressfeed-stadley-seo-articles-expert-case]] — первоисточник 9-го голоса (Стадлей)
 
 ## Backlinks
 

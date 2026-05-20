@@ -9,8 +9,8 @@ tags: [framework, vk, paid-ads, ecommerce, edtech, b2c, real-estate, performance
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-tg-petrochenkow-apr-may-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-19-pressfeed-vk-channels-playbook.md]
 namespace: mkt
 ---
 
@@ -128,6 +128,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/hyperseg-funnel-replication]] — связка 1 (e-commerce без аналитики) использует hyperseg-логику (сегментация на креативе).
 - [[canon/marketing-frameworks/multichannel-cumulative-effect]] — VK как один из 8 параллельных каналов, не единственный.
 - [[evolving/competitor-positioning/max-messenger]] — соседний по логике RU-канал, MAX-supplements VK по подписочной аудитории.
+- [[canon/marketing-frameworks/vk-channels-playbook-pressfeed]] — **соседний tooling в VK-экосистеме**, решает противоположную задачу: VK Ads = acquisition (платный трафик в паблик/landing), VK-каналы = retention (удержание уже привлечённой аудитории через канал внутри сообщества). Каналы компенсируют ограничение «на канал нельзя вести рекламу» — funnel: Ads → подписка на паблик → прогрев через канал.
 
 ## Ограничения
 

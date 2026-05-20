@@ -9,8 +9,8 @@ tags: [framework, segmentation, funnel, paid-ads, scale, ai-augmented]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06  # +cross-link на niche-RACE как pre-step перед гиперсегментацией
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md]
+updated: 2026-05-19  # +cross-link на purchase-scenario-segmentation-vtochku (сценарии как input в матрицу)
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-19-pressfeed-target-ads-construction-5-methods-vtochku.md]
 namespace: mkt
 ---
 
@@ -119,6 +119,7 @@ namespace: mkt
 
 ## Связь с другими фреймворками
 
+- [[canon/marketing-frameworks/purchase-scenario-segmentation-vtochku]] — pre-step: матрицу гиперсегментации полезно строить **поверх сценариев покупки** (мотивация+критерии+JTBD), а не поверх демо-сегментов. Это превращает 50-60 произвольных связок в 6-18 содержательных.
 - [[canon/marketing-frameworks/qualitative-adjectives-ad-copy]] — на шаге 4 (генерация креативов) прилагательные дают +CTR в каждом сегменте.
 - [[canon/marketing-frameworks/cpa-calculator-pre-launch-roi]] — pre-launch расчёт даёт верхнюю границу выплаты за лид, ниже которой связка остаётся убыточной.
 - [[canon/marketing-frameworks/refused-customer-interview]] — feeding loop: отказники из квиз-лендингов идут в интервью, обогащая описание сегмента в следующей итерации.

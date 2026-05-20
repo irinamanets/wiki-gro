@@ -9,8 +9,10 @@ tags: [marketing-frameworks, kpi, lead-qualification, smarketing, b2b, revenue-o
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-dp-ru-marketing-sales-sync.md]
+updated: 2026-05-19  # +3-департаментное расширение PR DOCTOR + cross-ref на CMO-парадокс 84%/64%
+sources:
+  - sources/2026-05-14-dp-ru-marketing-sales-sync.md
+  - sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md
 namespace: mkt
 ---
 
@@ -19,6 +21,8 @@ namespace: mkt
 Реюзабельная методология устранения системного конфликта между отделом маркетинга и отделом продаж. Применима в любой компании, где эти функции разделены — включая SaaS, edtech, productized services.
 
 Источник: редакционная статья dp.ru, 2026-05-04 ([[sources/2026-05-14-dp-ru-marketing-sales-sync]]). Уровень доверия: `medium` — контент стандартный маркетинговый праймер, не атрибутирован конкретному эксперту.
+
+**Расширение до 3-департаментной рамки (Update 2026-05-19, PR DOCTOR в Pressfeed).** Эта 2-департаментная модель **неполна для организаций с отдельным PR-отделом** — PR имеет собственный временной горизонт (годы вместо месяцев) и собственные конфликты с обеими сторонами. См. [[canon/marketing-frameworks/three-dept-conflict-prdoctor]] — расширенная рамка (маркетинг ↔ PR ↔ продажи) с тремя рычагами: письменная фиксация ролей + продукт-зависимый sales-ownership + system-level Revenue KPIs. Три рычага оттуда **суперсетят и операционализируют** Shared KPIs / Lead Definition SLA / Feedback Loop ниже. Параллельный numerical signal — [[evolving-strict/market-data/cmo-strategist-executor-gap-2026|CMO-парадокс 84%/64%]]: тот же tactic-strategy дисфункциональный паттерн на уровне одного маркетинг-лидера, а не отделов.
 
 ## Диагностика: почему возникает конфликт
 
@@ -98,5 +102,10 @@ namespace: mkt
 - [[canon/marketing-frameworks/kpi-parallel-hypothesis-petrochenkov]] — параллельный запуск гипотез для улучшения KPI после того как метрики согласованы
 - [[canon/marketing-frameworks/funnel-simplicity-principle]] — принцип простоты воронки (меньше шагов = выше конверсия), дополняет рычаг 2
 - [[canon/marketing-frameworks/refused-customer-interview]] — интервью с отказавшимися клиентами как инструмент структурированного feedback loop
+- [[canon/marketing-frameworks/three-dept-conflict-prdoctor]] — 3-департаментное расширение (включает PR как отдельную функцию)
+- [[canon/marketing-frameworks/event-coordination-checklist-prdoctor]] — Lead Definition SLA на конкретных event-полях (microcase)
+- [[canon/marketing-frameworks/gtm-shared-understanding-anchor]] — upstream: shared понимание продукта до запуска alignment-механик
+- [[evolving-strict/market-data/cmo-strategist-executor-gap-2026]] — CMO-парадокс 84%/64% (numerical signal того же tactic-strategy gap)
 - [[canon/target-audience/gro-segments]] — сегменты ГРО, для которых B2B-применение этого фреймворка наиболее релевантно
 - [[sources/2026-05-14-dp-ru-marketing-sales-sync]]
+- [[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict]]

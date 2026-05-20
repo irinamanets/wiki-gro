@@ -9,8 +9,8 @@ tags: [founder-content, operations, frameworks, mentor-economy, ru-smb]
 confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-15
-sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md]
+updated: 2026-05-18  # +cross-ref на attention-as-managed-resource-pressfeed-ceo (Pressfeed CEO достигает того же диагноза founder-bottleneck через лексику «внимание как ресурс», не через разделение ролей)
+sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-18-pressfeed-ceo-focus-essay.md]
 namespace: mkt
 ---
 
@@ -86,6 +86,7 @@ GRO работает с founder'ами, которые **застряли в с�
 
 ## Связь со смежными фреймворками
 
+- [[canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo]] — Pressfeed-CEO достигает того же диагноза founder-bottleneck («руководитель = узкое горлышко компании»), но через **другую framing'у** — управление вниманием как ресурсом. Спиридонов: разделение ролей. Pressfeed-CEO: разделение ресурсов (внимание / время / энергия / решения команды). Две взаимодополняющие модели одной и той же управленческой реальности — структурная (роли) и операциональная (ресурсы).
 - [[canon/marketing-frameworks/krylov-7-mentor-meetings]] — Krylov говорит о тех же ролях, но через метафору «менторских встреч»; пересечение в зоне operator-escape
 - [[canon/marketing-frameworks/parallel-consulting-monetization-model]] — Krylov-модель монетизации, доступная только в стадии «оператор вне операционки»
 - [[canon/marketing-frameworks/owner-escape-operations-hooks]] — content-hooks для founder-аудитории; Спиридонов-фрейм — основная структурная рамка под эти hooks
@@ -101,6 +102,8 @@ GRO работает с founder'ами, которые **застряли в с�
 ## Cross-links
 
 - [[sources/2026-05-14-tg-mspiridonov-may-2026]] — первичный источник (пост 4398, 2026-05-13)
+- [[sources/2026-05-18-pressfeed-ceo-focus-essay]] — Pressfeed-CEO о founder-bottleneck через лексику attention-management
+- [[canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo]] — параллельный фрейм founder-bottleneck (управление вниманием вместо разделения ролей)
 - [[canon/marketing-frameworks/huang-narrative-preheating-leadership]] — техника подготовки команды к смене ролей
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — три формата работы Спиридонова с founder-CEO в этой ситуации
 - [[canon/marketing-frameworks/owner-escape-operations-hooks]] — готовые content-hooks под фрейм

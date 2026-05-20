@@ -9,8 +9,8 @@ tags: [pr, personal-brand, content, channels, social, awareness, networking, eve
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-magas-personal-brand-7-steps.md]
+updated: 2026-05-19
+sources: [sources/2026-05-18-pressfeed-magas-personal-brand-7-steps.md, sources/2026-05-19-pressfeed-guschina-networking-6-rules.md, sources/2026-05-19-pressfeed-vk-channels-playbook.md]
 namespace: mkt
 ---
 
@@ -40,6 +40,8 @@ namespace: mkt
 - [[evolving/content-trends/telegram-author-channel-patterns]] — паттерны авторских каналов
 - [[evolving/content-trends/contrarian-framing-expert-telegram]] — тактический паттерн контента
 - [[evolving/content-trends/ai-translator-curator-channel-pattern-egoshin]] — operational пример для GRO
+- [[canon/marketing-frameworks/vk-channels-playbook-pressfeed]] — **VK-канал внутри сообщества как новый sub-channel** (фича запущена лето 2025): для эксперта с established ВК-пабликом — дополнительная точка касания через мессенджер. Pattern Format 12 (личные истории) особенно подходит для personal brand (exemplar Мария Шеди — стилист с established ВК-сообществом)
+- [[evolving/content-trends/vk-channels-brand-exemplars-2026]] — каталог exemplar'ов; personal-brand-сегмент пока недопредставлен (только 2/11 exemplar'ов) → **открытое окно для GRO co-founders**
 
 ## Канал 2 — Публикации в СМИ
 
@@ -97,6 +99,10 @@ namespace: mkt
 - Регулярные нишевые мероприятия
 
 **Метрика:** не количество контактов, а **возвращающиеся** контакты — те, кто помнит вас через 6 месяцев.
+
+**Operational handbook на per-эпизод уровне** — [[canon/marketing-frameworks/networking-6-rules-guschina|6 правил Гущиной (PR Group)]]: карта целевых сред → 3-уровневая подготовка → первый контакт через контекст → миссия-самопрезентация → искренний интерес → 24-часовой follow-up + цифровой след. Магась даёт **типологию каналов**, Гущина — **что делать внутри одного networking-эпизода**. Без операционного handbook'а Канал 4 рискует выродиться в «хаотичное посещение мероприятий» (anti-pattern, явно названный Гущиной).
+
+**Mental model темпорального построения** — [[canon/marketing-frameworks/voronin-preventive-social-capital]]: социальный капитал строится годами, превентивно. Канал 4 без этого horizon'а работает только тактически (5-10 контактов с одного мероприятия), но не накопительно (10-летний reputation-актив).
 
 ## Канал 5 — Выступления (спикерство)
 
@@ -166,3 +172,5 @@ namespace: mkt
 - [[canon/marketing-frameworks/brand-podcast-launch-playbook]] — операционализация канала 3
 - [[evolving/content-trends/personal-brand-shift-2026]] — текущий тренд
 - [[evolving/content-trends/telegram-author-channel-patterns]] — канал 1 в деталях
+- [[canon/marketing-frameworks/networking-6-rules-guschina]] — operational handbook к Каналу 4
+- [[canon/marketing-frameworks/voronin-preventive-social-capital]] — темпоральная mental model для Канала 4

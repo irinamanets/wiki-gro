@@ -9,8 +9,8 @@ tags: [industry-trends, pr, native-advertising, telegram, regulation]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-18
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-rbc-news-telegram-digest-apr13-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-16-pressfeed-geo-vmesto-seo.md, sources/2026-04-16-vtb-hh-mashina-vremeni.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md]
+updated: 2026-05-19  # +Kovpak: local-media как новый channel-shift (Apr-May 2026), 90/10 ratio, CPL 300-400₽, 4 platform types
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-rbc-news-telegram-digest-apr13-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-16-pressfeed-geo-vmesto-seo.md, sources/2026-04-16-vtb-hh-mashina-vremeni.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md]
 namespace: mkt
 ---
 
@@ -143,6 +143,31 @@ namespace: mkt
 
 Эти 5 рычагов — операционная **B2B-версия** общей рекомендации «вырастет ценность собственных каналов и долгих отношений» из Прогноза 2-3 года (DocsInBox, ЕМЦ). См. подробно → [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]], [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]].
 
+## Апдейт 2026-05-19 — local-media channel-shift (Ковпак, Pressfeed)
+
+[[sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel|Pressfeed/Дмитрий Ковпак (RU-practitioner SEO/маркетплейсы)]] фиксирует **новое направление** в общей картине нативного PR 2026: массовый шифт SMB и performance-практиков от перегретых paid-каналов (Telegram Ads, VK Ads) к **локальным медиа и нишевым блог-платформам** как недо-эксплуатированному каналу с дешёвым контактом.
+
+**Ключевые параметры сдвига:**
+
+- **Цена контакта в 3-5× дешевле**, чем у блогеров-миллионников из global-каналов `[conf:medium, src:2026-05-19]`
+- **CPL anchor 300-400 ₽** для real-estate/B2B/SMB ниш с локальной геопривязкой `[conf:medium, src:2026-05-19]`
+- **4 типа площадок** в новой таксономии локального performance-PR:
+  1. Крупные городские порталы (Fontanka.ru, E1.ru, 74.ru, сетка Shkulev Media) — 25-150k₽ за лонгрид, высокий доменный траст для SEO long-tail
+  2. Нишевые блог-платформы (VC.ru, специализированные медиа) — 0₽ органика / 15k₽ промо-пакет, жёсткая модерация
+  3. ЖК-чаты и районные TG-каналы — от 15k₽ тесты, «доверительная атмосфера»
+  4. Дзен реклама-кабинеты по интенту — системные расценки
+- **90/10 пропорция** native/sales — обязательное операционное правило для прохождения модерации VC.ru/Дзен `[conf:medium, src:2026-05-19]`
+- **Free placement** через 4 механики: эксклюзивные данные журналистам, ответы на Pressfeed-запросы, ЖК-обмены, постоянные колонки
+- **SEO long-tail** — +50 органических лидов за 6 мес. бесплатно на одной публикации `[conf:medium, src:2026-05-19]`
+
+**Что это меняет в общей рамке:**
+
+- Раньше «местные медиа» упоминались как одна из тематик в матрице форматов натива (см. раздел «Формат vs тематика канала» в [[canon/marketing-frameworks/native-advertising]]). Теперь это **отдельный operational канал** со своей экономикой, methodology, и benchmark CPL.
+- Подтверждает тренд №2 «Telegram перегрет, но никто не уходит» и расширяет: куда уходят те, кому Telegram-аукционы стали невыгодны — в локальные медиа, не в новые messenger.
+- Подтверждает тренд №6 «доверие смещается вниз пирамиды» с дополнительной геопривязкой: «сосед по подъезду» через ЖК-чат — даже более высокий доверительный сигнал, чем «микроинфлюенсер» из global-канала.
+
+Подробная methodology — [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]]; CPL бенчмарки — [[evolving-strict/campaign-metrics/local-media-cpl-benchmarks-2026]]; полный сдвиг как отдельный тренд — [[evolving/industry-trends/local-media-overheated-paid-shift-2026]].
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/native-advertising]]
@@ -164,6 +189,11 @@ namespace: mkt
 - [[sources/2026-04-14-tg-dnative-digest-7497-7546]]
 - [[sources/2026-04-14-tg-stodnevka2-mar-apr-2026]]
 - [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]]
+- [[sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel]]
+- [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]] — методология локальных медиа
+- [[canon/marketing-frameworks/native-90-10-ratio-moderated-platforms]] — пропорция для модерации
+- [[evolving-strict/campaign-metrics/local-media-cpl-benchmarks-2026]] — CPL benchmarks
+- [[evolving/industry-trends/local-media-overheated-paid-shift-2026]] — рыночный сдвиг
 
 ## Backlinks
 

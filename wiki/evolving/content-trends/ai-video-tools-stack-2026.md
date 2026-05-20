@@ -9,8 +9,8 @@ tags: [creative, video, ai, tools, seedance, runway, higgsfield, veo3, sora, kli
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +Bach.Art (Video Rebirth, май 2026: Multi-Shot Montage 30 сек, без фильтров на лица актёров, $0.45/видео); +Peanut (опенсорс на text-to-image арене 8-е место); +Ideogram отдельный bg-remover; +LTX2.3 All-in-one workflow (LoRA+ControlNet+Detailer+Upscaler+Audio+Keyframes в одном пайплайне)
-sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md]
+updated: 2026-05-19  # +cross-link на RU-parallel snapshot (ru-ai-course-production-stack-2026 — Kandinsky Video / Шедеврум как RU-доступная альтернатива без VPN, существенно отстают качественно от global stack)
+sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md]
 namespace: mkt
 ---
 
@@ -188,6 +188,8 @@ namespace: mkt
 - [[canon/marketing-frameworks/ai-video-production-pipeline]] — механика 5 этапов, внутри которой эти модели выполняют этап IV
 - [[canon/marketing-frameworks/andromeda-creative-framework-2026]] — почему нужно так много креативов, что окупается массовое производство
 - [[evolving/content-trends/ai-static-creative-templates-2026]] — параллельный стек для статических креативов (Nano Banana, Midjourney, Flux, DALL-E 3)
+- [[evolving/content-trends/ru-ai-course-production-stack-2026]] — RU-parallel snapshot (Kandinsky Video, Шедеврум) для course production без VPN; качественно отстаёт от global stack, но достаточен для фонового видео в обучающих курсах
+- [[canon/marketing-frameworks/ai-course-production-conveyor-7-stages]] — 7-этапный pipeline production курса; эта страница покрывает sub-этап 6.1 (фоновое видео) глобальным стеком
 - [[evolving/industry-trends/ai-native-marketer-skillset-2026]] — навык «промптить Nano Banana, VEO3, Higgsfield» как часть профиля
 - [[volatile-strict/industry-news/ai-model-releases-mar-apr-2026]] — свежие релизы, которые могут вытеснить текущих лидеров
 - [[volatile-strict/industry-news/ai-coding-tools-consolidation-2026q1]] — параллельная консолидация вайбкодинг-tooling'а

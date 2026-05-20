@@ -9,13 +9,14 @@ tags: [pr, content, smb, awareness, organic]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-18  # +Pressfeed «достаточно посеять сомнение»: те же критерии работают в атакующем режиме — внутренний чат как локальное СМИ
+updated: 2026-05-19  # +Pressfeed PR-readiness: эти критерии — downstream-инструмент после прохождения PR-readiness-чек-листа
 sources:
   - sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md
   - sources/2026-05-18-pressfeed-22-press-release-ideas.md
   - sources/2026-05-18-pressfeed-4-sposoba-infopovod.md
   - sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md
   - sources/2026-05-18-pressfeed-black-pr-community-doubt.md
+  - sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md
 namespace: mkt
 ---
 
@@ -26,6 +27,8 @@ namespace: mkt
 Базовый тезис: бесплатные публикации в СМИ — это не исключение, а правило для SMB, если материал устроен правильно. Платные размещения — частный случай, когда нужно попасть в конкретное tier-1 издание в конкретный момент.
 
 Первоисточник: комментарий Екатерины Терешкиной (руководитель отдела внешних связей Барнаульского филиала «Сибирской генерирующей компании»), опубликованный в бизнес-журнале «Жажда» ([[sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese]]).
+
+**Когда применять.** Эти критерии — downstream-инструмент: вы их применяете **после того**, как [[canon/marketing-frameworks/pr-readiness-10-signals-checklist|PR-readiness-чек-лист]] сработал (4–5+ признаков из 10) и решение «делаем PR» уже принято. Если по чек-листу рано — можно собирать каталог потенциальных инфоповодов «впрок», не разворачивая активную дистрибуцию.
 
 ## Пять критериев
 

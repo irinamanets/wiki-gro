@@ -9,8 +9,8 @@ tags: [framework, networking, community, partnerships, founder-routine, preventi
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-community-tech-voronin-may-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-14-tg-community-tech-voronin-may-2026.md, sources/2026-05-19-pressfeed-guschina-networking-6-rules.md]
 namespace: mkt
 ---
 
@@ -83,6 +83,10 @@ namespace: mkt
 
 Воронин выходит на 23 ЛПР за 2 дня именно потому, что они уже не cold-traffic — отношения построены до запроса.
 
+### Operational handbook на per-эпизод уровне
+
+Этот воронинский framework говорит **что** строить (карта людей) и **зачем** превентивно (темпоральная асимметрия). Но не отвечает на «**как** правильно провести одно networking-событие?». Эту операционную ось закрывает [[canon/marketing-frameworks/networking-6-rules-guschina|6 правил Гущиной (PR Group)]]: карта целевых сред → 3-уровневая подготовка → первый контакт через контекст → миссия-самопрезентация → искренний интерес → 24-часовой follow-up + цифровой след. Воронин — стратегия 5-10 лет, Гущина — тактика 24 часов. Используются вместе: без воронинского horizon'а Гущина-handbook вырождается в «лиды с одного мероприятия»; без гущиновского handbook'а воронинский horizon вырождается в «годами хожу по мероприятиям без результата».
+
 ## Связь с GRO-product narrative
 
 Прямой связи нет — GRO не платформа для нетворкинга. Но **темпоральная асимметрия** перекликается с центральным narrative GRO «system > intensity»:
@@ -122,3 +126,5 @@ Counter-fact: ритуал [[canon/marketing-frameworks/krylov-7-mentor-meetings
 - [[evolving/industry-trends/ru-smb-mentor-community-market-2026]]
 - [[volatile/weekly-digest/voronin-community-tech-feb-apr-2026]]
 - [[sources/2026-05-14-tg-community-tech-voronin-may-2026]]
+- [[canon/marketing-frameworks/networking-6-rules-guschina]] — operational handbook на per-эпизод уровне
+- [[sources/2026-05-19-pressfeed-guschina-networking-6-rules]]

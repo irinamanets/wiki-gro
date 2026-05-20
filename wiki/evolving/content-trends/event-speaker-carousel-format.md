@@ -9,8 +9,10 @@ tags: [content, events, awareness, consideration, creative-reference, telegram, 
 confidence: medium
 stale: false
 created: 2026-04-17
-updated: 2026-04-17
-sources: [sources/2026-04-17-tg-tinkoffbank-10539-tolk-pro-speakers.md]
+updated: 2026-05-19  # +cross-link to Cherednichenko/LZ.Media speaker operational layer (4 страницы)
+sources:
+  - sources/2026-04-17-tg-tinkoffbank-10539-tolk-pro-speakers.md
+  - sources/2026-05-19-pressfeed-lz-media-speaker-first-event-prep.md
 namespace: mkt
 ---
 
@@ -77,6 +79,8 @@ _Раздел будет дополняться по мере появления
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/speaking-as-marketing-channel]] — спикерство как маркетинговый канал (теория ROI)
+- [[canon/marketing-frameworks/speaker-event-type-selection-cherednichenko]] — типология площадок (когда group-collage carousel оправдан для peer-event vs target-audience event)
+- [[canon/marketing-frameworks/speaker-marketing-kit-structure-cherednichenko]] — спикерский маркетинг-кит (carousel — публичная демонстрация кита event-организатором)
 - [[canon-strict/historical-campaigns/tbank-tinvest-tolk-pro-2026-04]] — базовый наблюдаемый кейс для этого паттерна
 - [[evolving/content-trends/telegram-native-formats]] — нативные форматы TG, в т.ч. carousel
 - [[evolving/content-trends/sweepstake-promocode-combo-mechanics]] — альтернативная промо-формула (сопоставление: event vs sweepstakes)

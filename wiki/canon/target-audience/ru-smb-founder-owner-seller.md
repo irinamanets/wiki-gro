@@ -9,8 +9,8 @@ tags: [smb, founder, sales, russia, segment]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-16  # +task-manager / productivity-tool baseline (Жажда 2016): подтверждение pre-AI productivity-стека SMB-founder'а
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-16-zhazhda-biz-lifestyle-kogda-brat-dengi-investora-2427f149.md, sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md, sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom.md, sources/2026-04-16-zhazhda-biz-lifestyle-stoit-li-pokupat-gotovyj-biznes-c44f319d.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-neskuchnye-finansy-avtomoyka-avito-razbor.md, sources/2026-05-05-yt-neskuchnye-finansy-salon-krasoty-avito-razbor.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-rental-couriers.md, sources/2026-05-06-yt-uVD3QAoiLF0-hartmann-agalarov.md, sources/2026-05-05-yt-margulan-six-toxic-types.md, sources/2026-05-05-yt-margulan-vicious-circle.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-month4-bilanc.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-06-yt-tokovinin-no-need-to-think-ai.md, sources/2026-05-05-yt-tokovinin-economic-crisis.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-05-yt-batyrev-management-news-mar1-15.md, sources/2026-05-05-yt-predprinimatel-dela-sv-mebel-factory-tour.md, sources/2026-05-05-yt-predprinimatel-dela-vasilyev-erp-google-sheets.md, sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels.md, sources/2026-05-14-zhazhda-biz-lifestyle-premii-dlja-predprinimatelej-v-rossii.md, sources/2026-05-14-zhazhda-online-booking-services-evergreen-2016.md, sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016.md]
+updated: 2026-05-19  # +Pressfeed PR-readiness/sarafan-ceiling: добавлен паттерн «потолок сарафана» как структурный триггер перехода от sarafan-роста к системному маркетингу
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-16-zhazhda-biz-lifestyle-kogda-brat-dengi-investora-2427f149.md, sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md, sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom.md, sources/2026-04-16-zhazhda-biz-lifestyle-stoit-li-pokupat-gotovyj-biznes-c44f319d.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-neskuchnye-finansy-avtomoyka-avito-razbor.md, sources/2026-05-05-yt-neskuchnye-finansy-salon-krasoty-avito-razbor.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-rental-couriers.md, sources/2026-05-06-yt-uVD3QAoiLF0-hartmann-agalarov.md, sources/2026-05-05-yt-margulan-six-toxic-types.md, sources/2026-05-05-yt-margulan-vicious-circle.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-month4-bilanc.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-06-yt-tokovinin-no-need-to-think-ai.md, sources/2026-05-05-yt-tokovinin-economic-crisis.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-05-yt-batyrev-management-news-mar1-15.md, sources/2026-05-05-yt-predprinimatel-dela-sv-mebel-factory-tour.md, sources/2026-05-05-yt-predprinimatel-dela-vasilyev-erp-google-sheets.md, sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels.md, sources/2026-05-14-zhazhda-biz-lifestyle-premii-dlja-predprinimatelej-v-rossii.md, sources/2026-05-14-zhazhda-online-booking-services-evergreen-2016.md, sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016.md, sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md]
 namespace: mkt
 ---
 
@@ -85,6 +85,21 @@ namespace: mkt
 3. **«100 сделок в воронке и я не знаю почему они не закрываются»** — ощущение, что система сломана, но нет bandwidth чтобы разобраться.
 4. **Страх потерять команду** — субсидирует зарплаты из личных средств.
 5. **Дежавю «в прошлый кризис я справился»** — и параллельное ощущение «но на этот раз другое».
+
+## Структурный триггер: потолок сарафана (enrich 2026-05-19)
+
+Дополнительный структурный паттерн, объясняющий момент, когда сегмент готов вкладываться в системный маркетинг/PR: **исчерпание личной сети founder'а**. Подробно — [[canon/marketing-frameworks/sarafan-growth-ceiling-pattern]].
+
+Узнаётся по 4 fingerprint-симптомам, типичным именно для founder-owner-seller:
+
+- На встречах объясняете базовое (чем занимаетесь, чем отличаетесь) **повторно одним и тем же типам клиентов** — публичного контента, который делал бы это заранее, нет
+- Холодных входящих почти нет, любые попытки выйти на новую ЦА упираются в «нас не знают»
+- В переговорах «у других дешевле» парировать нечем, кроме скидок — экспертиза не упакована в публичный след
+- Конкуренты «в эфире» (статьи, интервью, цитаты), про вас — тишина, хотя по уровню продукта вы не хуже
+
+Это не сигнал «продукт плохой» — это сигнал, что **personal-contacts-модель роста исчерпана** и пора подключать инженерный канал (PR / контент / performance-traffic / personal-brand / партнёрства).
+
+Operational-чек-лист для self-диагностики — [[canon/marketing-frameworks/pr-readiness-10-signals-checklist]] (10 признаков, порог 4–5).
 
 ## Полная траектория «Рекордного апреля» — что произошло с участниками (enrich 2026-05-05)
 

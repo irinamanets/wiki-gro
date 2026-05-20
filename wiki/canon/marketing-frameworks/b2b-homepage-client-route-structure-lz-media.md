@@ -9,9 +9,10 @@ tags: [b2b, homepage, website-structure, content-marketing, conversion, copywrit
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-19  # +ai-content-marketing-delegation-frame от того же LZ.Media-автора (cross-link, не контентное обновление)
 sources:
   - sources/2026-05-18-pressfeed-b2b-homepage-blocks-guide.md
+  - sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md
 namespace: mkt
 ---
 

@@ -9,15 +9,18 @@ tags: [b2b, industrial, brand, positioning, trust, pr, sales-cycle, awareness, d
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-20  # +крос-ссылка на зеркальный негативный фрейм Тарасовой (degradation-7-mechanisms)
 sources:
   - sources/2026-05-18-pressfeed-tarasova-zavod-brand.md
+  - sources/2026-05-20-pressfeed-tarasova-kompas-zavod-strategy.md
 namespace: mkt
 ---
 
 # Бренд завода как актив: 6 механизмов конвертации репутации в деньги
 
 Авторский фреймворк Анны Тарасовой (маркетолог-стратег, «промышленный хакер») для B2B-индустриального сегмента: **репутация — это не «расход на маркетинг», а измеримый актив, который конвертируется в 6 разных финансовых выгод**. Источник: колонка на news.pressfeed.ru ([[sources/2026-05-18-pressfeed-tarasova-zavod-brand]]).
+
+**Зеркало-двойник:** [[canon/marketing-frameworks/industrial-b2b-no-strategy-degradation-tarasova]] — вторая колонка Тарасовой с 7 механизмами **деградации** при отсутствии маркетинговой стратегии. Вместе формируют двустороннюю объяснительную рамку «brand-as-asset (как репутация конвертируется в деньги) vs no-strategy-as-degradation (как отсутствие стратегии конвертируется в провалы)», особенно полезную для pitch-материалов с двусторонней аргументацией.
 
 `confidence: medium` — автор inferred-эксперт (bio + специализация на промышленных предприятиях), фреймворк структурно близок к классической B2B-trust-литературе (Cialdini, Sandhusen B2B Marketing, RAIN Group sales-cycle data), но опирается на анекдотические single-case кейсы без независимой верификации. Применять как объяснительную рамку и rhetorical anchor для GRO-аудитории, не как бенчмарк рынка.
 
@@ -133,6 +136,8 @@ Talent-acquisition становится inbound. Это перекрываетс
 
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/industrial-b2b-no-strategy-degradation-tarasova]] — зеркальный негативный фрейм того же автора (7 механизмов деградации без стратегии)
+- [[evolving/industry-trends/industrial-marketing-strategy-as-survival-condition-2026]] — отраслевой тренд, в который вписываются обе рамки Тарасовой
 - [[evolving/content-trends/proof-driven-b2b-content-pattern]] — content-trends operationalization этого фреймворка
 - [[canon/marketing-frameworks/b2b-services-client-maturity-funnel]] — воронка B2B-services, в стадиях 4-5 которой proof-driven контент критичен
 - [[canon/marketing-frameworks/trust-as-managed-asset-coin-principle]] — более глубокая рамка про доверие как управляемый актив

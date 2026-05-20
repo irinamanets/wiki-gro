@@ -9,8 +9,8 @@ tags: [productivity, essentialism, focus, signal-noise, pareto, content, framewo
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06  # +companion godin-dip vs dead-end фрейм Спиридонова #5/5 final — persistence-dimension; explicit end-screen-CTA #5 → #1 (это видео); серия #1–#5 closed как cluster
-sources: [sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md]
+updated: 2026-05-18  # +cross-ref на attention-as-managed-resource-pressfeed-ceo (Pressfeed CEO достигает того же тезиса фокуса через лексику время→внимание, не сигнал→шум — двойной перевод одной идеи для разных аудиторий)
+sources: [sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-18-pressfeed-ceo-focus-essay.md]
 namespace: mkt
 ---
 
@@ -99,10 +99,32 @@ namespace: mkt
 
 > «Не обманывайтесь галочками в ежедневнике или календаре. Имитация бурной деятельности — это часто анестезия, а не факт, что жизнь проходит мимо.»
 
+## Параллельная рамка от Pressfeed-CEO — «время vs внимание» (2026-05-18)
+
+Pressfeed-CEO в editorial-эссе на news.pressfeed.ru от ~май 2026 ([[sources/2026-05-18-pressfeed-ceo-focus-essay]]) достигает **того же ключевого тезиса** (личная эффективность ≠ количество задач; фокус — central management problem) через **другую лексику и другую framing'у**:
+
+| Ось | Спиридонов (signal/noise) | Pressfeed-CEO (время vs внимание) |
+|---|---|---|
+| Управляемая единица | Сигнал (важное) vs шум (текучка) | Внимание vs время |
+| Главная asymmetry | 20% сигнала = 80% результата (Парето) | Время линейно — внимание дискретно и зависит от энергии |
+| Founder-bottleneck | Не центральная тема (выводится через «фокус = мужество сказать нет») | **Явный anti-pattern №1** — «руководитель = узкое горлышко компании» |
+| Strategy vs operations | Не разделяется лексически | **Явное правило** — выделять отдельные блоки только для стратегии |
+| Энергия | Не упомянута | **Четвёртый ресурс** наравне со вниманием |
+| Биографический anchor | Джобс 1977 (исторический) | Личная сцена («день расписан, вечером — ничего важного») |
+| Self-test | «Больно ли отказываться от задач?» | «Приближает ли это к ключевым целям?» |
+| AI-era angle | Не специфический | **Явный** — AI снижает стоимость экспериментов → больше возможностей → внимание ещё дефицитнее |
+| Atribution | Verified expert (Спиридонов — serial founder, Нетология, Elbrus) | Inferred — CEO Pressfeed без указания имени, editorial-voice бренда |
+| Confidence | medium | medium |
+
+Подробная рамка Pressfeed-CEO — в [[canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo]].
+
+**Двойной перевод как content-tool.** Обе рамки можно подавать **параллельно** для разных сегментов аудитории GRO: «сигнал/шум» лучше работает на **тех, кто думает в категориях priorities** (карьеристы, fрилансеры), «внимание как ресурс» лучше работает на **тех, кто думает в категориях management** (предприниматели в росте, founder-CEO). Carousel или серия постов «один и тот же принцип в двух языках» — рабочий формат.
+
 ## Связь с другими фреймворками вики
 
 | Фреймворк | Связь |
 |---|---|
+| [[canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo]] | Параллельная рамка от Pressfeed-CEO — «время vs внимание». Тот же тезис в другой лексике (см. подробную delta-таблицу выше). Хорошо комбинируется как **двойной перевод** одной идеи для разных аудиторий |
 | [[canon/marketing-frameworks/pareto-80-20-marketing]] | Спиридонов = operational vocabulary над Парето. Сигнал = 20% входов, шум = 80% входов. Парето как индикатор + «сигнал/шум» как лексика для коммуникации |
 | [[canon/marketing-frameworks/visotsky-productivity-heuristics]] | Параллельный playbook от Высоцкого. Спиридонов даёт *концептуальную рамку* (что такое сигнал/шум), Высоцкий даёт *числовые heuristics* (1-3-5 на день, 30 часов на неделю, 2 часа на подчинённого). Хорошо комбинируются |
 | [[canon/marketing-frameworks/focus-strategy-porter]] | Porter focus strategy = бизнес-стратегический уровень того же принципа: «нельзя быть всем для всех». Сигнал/шум = индивидуальный/командный уровень |
@@ -218,6 +240,8 @@ Reusable как референс-cluster для **сравнения с GRO**: �
 ## Связанные страницы
 
 - [[sources/2026-05-05-yt-spiridonov-signal-noise-essentialism]] — source-страница видео #1 (фрейм)
+- [[sources/2026-05-18-pressfeed-ceo-focus-essay]] — параллельная рамка Pressfeed-CEO «время vs внимание»
+- [[canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo]] — параллельная рамка Pressfeed-CEO (двойной перевод)
 - [[sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg]] — source-страница видео #2 (биологическая иллюстрация шума)
 - [[sources/2026-05-06-yt-spiridonov-housel-psychology-of-money]] — source-страница видео #4 (money-companion)
 - [[canon/marketing-frameworks/housel-psychology-of-money-spiridonov]] — money-companion фрейм (двухосный комплект)

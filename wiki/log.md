@@ -6414,3 +6414,294 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {canon: 7, sources: 1}
 - touched: 8 pages
 - raw: raw/processed/articles/web_news.pressfeed.ru_glavnaya-stranicza-b2b-sajta-gajd-po-osnovnym-blokam-i-pravi_55196fb6.md
+
+## [2026-05-19 20:43] [ingest] | Pressfeed — Какие курсы по нейросетям подойдут новичку с нуля (paid-placement школы Барановой)
+- source: wiki/sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md
+- created:
+  - wiki/canon/marketing-frameworks/beginner-edu-3-differentiators.md
+  - wiki/evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern.md
+- updated:
+  - wiki/evolving/industry-trends/ru-ai-intensive-courses-landscape-2026.md
+  - wiki/canon/marketing-frameworks/ai-intensive-format-criteria.md
+  - wiki/canon/product-knowledge/gro-intensive.md
+  - wiki/canon/target-audience/gro-segments.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kakie-kursy-po-nejrosetyam-podojdut-novichku-s-nulya-obzor-p_39197096.md
+
+## [2026-05-19 20:45] [ingest] | Pressfeed/LZ.Media: Как ИИ влияет на контент-маркетинг — где помогает, где вредит (май 2026)
+- source: wiki/sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md
+- created:
+  - wiki/canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media.md
+  - wiki/evolving-strict/market-data/ai-content-transparency-demand-2026.md
+- updated:
+  - wiki/evolving/content-trends/ai-content-overload-trust-crisis-2026.md
+  - wiki/evolving/content-trends/ai-text-detection-landscape-2026.md
+  - wiki/evolving/industry-trends/ai-marketing-limits-2026.md
+  - wiki/canon/marketing-frameworks/ai-text-markers-checklist.md
+  - wiki/canon/marketing-frameworks/b2b-homepage-client-route-structure-lz-media.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 3, evolving-strict: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-ii-vliyaet-na-kontent-marketing_264b00dc.md
+
+## [2026-05-19 20:51] [ingest] | Pressfeed — Нейросеть для курсов: 15+ доступных в РФ сервисов (production stack для онлайн-обучения)
+- source: wiki/sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md
+- created:
+  - wiki/canon/marketing-frameworks/ai-course-production-conveyor-7-stages.md
+  - wiki/evolving/content-trends/ru-ai-course-production-stack-2026.md
+  - wiki/canon/marketing-frameworks/ai-content-3-limitations-pressfeed.md
+- updated:
+  - wiki/canon/marketing-frameworks/ai-intensive-format-criteria.md
+  - wiki/evolving/industry-trends/ru-ai-intensive-courses-landscape-2026.md
+  - wiki/canon/product-knowledge/gro-intensive.md
+  - wiki/evolving/content-trends/ai-video-tools-stack-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-ispolzovat-nejroseti-dlya-sozdaniya-kursov-15-instrument_bbe7f0a1.md
+
+## [2026-05-19 20:50] [ingest] | Pressfeed: личная эффективность руководителя — внимание как ограниченный управленческий ресурс (CEO-essay, параллельная рамка к Спиридонову)
+- source: wiki/sources/2026-05-18-pressfeed-ceo-focus-essay.md
+- created:
+  - wiki/canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo.md
+  - wiki/evolving/content-trends/pressfeed-ceo-personal-effectiveness-essay-pattern-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/signal-noise-essentialism-spiridonov.md (+параллельная рамка Pressfeed-CEO «время vs внимание»: delta-таблица (управляемая единица, asymmetry, founder-bottleneck, strategy/ops, energy, biographic anchor, self-test, AI-era angle, attribution); двойной перевод как content-tool; cross-link в Связь и Связанные)
+  - wiki/canon/marketing-frameworks/owner-strategist-operator-three-roles-separation.md (+Pressfeed-CEO как параллельная рамка founder-bottleneck (управление ресурсами vs разделение ролей); 2 cross-link в Связь со смежными и Cross-links; +sources update)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_lichnaya-effektivnost-rukovoditelya-pochemu-problema-ne-vo-v_95feadf4.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-19 20:55] [ingest] | Pressfeed/Гущина (PR Group): 6 правил нетворкинга — operational handbook на per-эпизод уровне (третья ось networking-кластера)
+- source: wiki/sources/2026-05-19-pressfeed-guschina-networking-6-rules.md
+- created:
+  - wiki/canon/marketing-frameworks/networking-6-rules-guschina.md
+- updated:
+  - wiki/canon/marketing-frameworks/personal-brand-channels-5-types-magas.md (+операционализация Канала 4 (нетворкинг) через handbook Гущиной + cross-link на Воронина (mental model темпорального построения))
+  - wiki/canon/marketing-frameworks/voronin-preventive-social-capital.md (+секция Operational handbook на per-эпизод уровне (Гущина дополняет Воронина: стратегия 5-10 лет + тактика 24 часов))
+  - wiki/canon/marketing-frameworks/sales-follow-up-second-touch-fomichev.md (+секция Перенос на networking-контекст (Гущина: тот же принцип второго касания, окно 24ч, артефакт = фото/контекст))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-prevratit-znakomstva-v-soczialnyj-kapital-pravila-netvor_2a37739e.md (+ .note.md + .triage.json sidecars)
+
+## [2026-05-19 21:00] [ingest] | Pressfeed: 10 признаков, что бизнесу нужен PR (диагностический чек-лист + sarafan-growth-ceiling pattern)
+- source: wiki/sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md
+- created:
+  - wiki/canon/marketing-frameworks/pr-readiness-10-signals-checklist.md
+  - wiki/canon/marketing-frameworks/sarafan-growth-ceiling-pattern.md
+- updated:
+  - wiki/canon/marketing-frameworks/b2b-pr-influence-shift-2026.md (+upstream-link на PR-readiness-чек-лист (gating-вопрос «пора ли?») и sarafan-growth-ceiling (root-cause); +источник в sources)
+  - wiki/canon/marketing-frameworks/infopovod-criteria-smb-pr.md (+секция «когда применять» — критерии работают downstream от PR-readiness-чек-листа; +источник)
+  - wiki/canon/marketing-frameworks/b2b-services-client-maturity-funnel.md (+связка стадий 3–5 воронки с PR-readiness-чек-листом; отсутствие публичного следа = выпадение из воронки на стадиях 4–5; +источник)
+  - wiki/canon/marketing-frameworks/performance-pr-framework.md (+upstream-gating-links на pr-readiness-10-signals-checklist и sarafan-growth-ceiling-pattern в связанных страницах; +источник)
+  - wiki/canon/target-audience/ru-smb-founder-owner-seller.md (+enrich-секция «Структурный триггер: потолок сарафана» — 4 fingerprint-симптома исчерпания personal-contacts-модели роста; ссылки на sarafan-growth-ceiling-pattern и pr-readiness-10-signals-checklist; +источник)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 6, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-ponyat-chto-vashemu-biznesu-uzhe-nuzhen-pr_c04b6721.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-19 21:05] [ingest] | Pressfeed/«В точку» — 5 методов таргета в сложных нишах (B2B/long-cycle playbook + benchmarks кейс застройщика Нижний Новгород)
+- source: wiki/sources/2026-05-19-pressfeed-target-ads-construction-5-methods-vtochku.md
+- created:
+  - wiki/canon/marketing-frameworks/purchase-scenario-segmentation-vtochku.md
+  - wiki/canon/marketing-frameworks/competitor-community-targeting-vtochku.md
+  - wiki/canon/marketing-frameworks/three-tier-funnel-budget-split-vtochku.md
+  - wiki/canon/marketing-frameworks/single-fear-utp-vtochku.md
+  - wiki/canon/marketing-frameworks/hot-lead-share-kpi-vtochku.md
+  - wiki/evolving-strict/campaign-metrics/long-cycle-niche-targeting-benchmarks-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/hyperseg-funnel-replication.md (+cross-link на purchase-scenario-segmentation-vtochku как pre-step (сценарии покупки как input для построения матрицы — превращает 50-60 произвольных связок в 6-18 содержательных); +source)
+  - wiki/canon/marketing-frameworks/cpa-calculator-pre-launch-roi.md (+source-link на vtochku-playbook (hot-lead-share как корректировка верхней границы CPHL до запуска))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 7, evolving-strict: 1, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-nastraivat-targetirovannuyu-reklamu-v-stroitelstve-i-dru_3ae90678.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-19 21:17] [ingest] | Pressfeed/LZ.Media: Как предпринимателю стать спикером — готовимся к первому выступлению (Cherednichenko 4-frame)
+- source: wiki/sources/2026-05-19-pressfeed-lz-media-speaker-first-event-prep.md
+- created:
+  - wiki/canon/marketing-frameworks/speaker-event-type-selection-cherednichenko.md
+  - wiki/canon/marketing-frameworks/speaker-marketing-kit-structure-cherednichenko.md
+  - wiki/canon/marketing-frameworks/speaker-event-discovery-channels-cherednichenko.md
+  - wiki/canon/marketing-frameworks/speaker-economics-reality-cherednichenko.md
+- updated:
+  - wiki/canon/marketing-frameworks/speaking-as-marketing-channel.md
+  - wiki/evolving/content-trends/event-speaker-carousel-format.md
+  - wiki/canon/marketing-frameworks/performance-pr-framework.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, evolving: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-predprinimatelyu-stat-spikerom-gotovimsya-k-pervomu-vyst_795ddf16.md
+
+## [2026-05-19 21:27] [ingest] | Pressfeed/Стадлей: SEO-статьи для эксперта — кейс психолога (топ Яндекса по 3 запросам, b17.ru + Дзен)
+- source: wiki/sources/2026-05-19-pressfeed-stadley-seo-articles-expert-case.md
+- created:
+  - wiki/canon/marketing-frameworks/seo-search-intent-content-method-stadley.md
+  - wiki/canon/marketing-frameworks/expert-trust-platforms-leverage-method.md
+  - wiki/canon/marketing-frameworks/seo-article-as-digital-asset-stadley.md
+- updated:
+  - wiki/evolving/content-trends/ru-geo-aeo-practitioner-playbook-2026.md
+  - wiki/evolving/industry-trends/seo-to-pr-substitution-2026.md
+  - wiki/canon/marketing-frameworks/seo-for-ai-era-playbook.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-psiholog-i-biznes-kouch-vyshla-v-top-poiska-s-pomoshhyu-_7b98ebc5.md
+
+## [2026-05-19 21:35] [ingest] | Pressfeed/«В точку» — Как продвигать услугу, которой не доверяют: 4 метода SMM для сложных ниш (кейс доставки авто)
+- source: wiki/sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku.md
+- created:
+  - wiki/canon/marketing-frameworks/distrust-niche-smm-playbook-vtochku.md
+  - wiki/canon/marketing-frameworks/customer-fears-as-content-pillar.md
+  - wiki/canon/marketing-frameworks/customer-photos-with-metrics-ugc.md
+  - wiki/canon/marketing-frameworks/filter-not-list-comparison-format.md
+  - wiki/canon/marketing-frameworks/a4-content-strategy-doc.md
+  - wiki/canon/marketing-frameworks/pre-approved-content-formats.md
+  - wiki/evolving/content-trends/short-form-engagement-vtochku-case-2026.md
+  - wiki/evolving-strict/campaign-metrics/distrust-niche-smm-vtochku-benchmarks.md
+- updated:
+  - wiki/canon/marketing-frameworks/single-fear-utp-vtochku.md
+  - wiki/evolving/content-trends/smm-strategy-trends-2026.md
+  - wiki/canon/marketing-frameworks/chatbot-roi-4-economic-effects.md
+  - wiki/canon/marketing-frameworks/purchase-scenario-segmentation-vtochku.md
+  - wiki/canon/marketing-frameworks/ugc-and-microinfluencers.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 6, evolving: 1, evolving-strict: 1, sources: 1}
+- touched: 13 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-prodvigat-uslugu-kotoroj-ne-doveryayut-4-metoda-smm-dlya_26555a1c.md
+
+## [2026-05-19 21:35] [ingest] | Pressfeed/Ковпак: как выжимать продажи из локальных медиа и блог-платформ — рабочие связки
+- source: wiki/sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md
+- created:
+  - wiki/canon/marketing-frameworks/local-media-sales-funnel-kovpak.md
+  - wiki/canon/marketing-frameworks/native-90-10-ratio-moderated-platforms.md
+  - wiki/canon/marketing-frameworks/exclusive-data-for-journalists-free-placement.md
+  - wiki/evolving-strict/campaign-metrics/local-media-cpl-benchmarks-2026.md
+  - wiki/evolving/industry-trends/local-media-overheated-paid-shift-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/native-advertising.md
+  - wiki/canon/marketing-frameworks/performance-pr-framework.md
+  - wiki/evolving/industry-trends/native-pr-russia-2026.md
+  - wiki/canon/marketing-frameworks/seo-for-ai-era-playbook.md
+  - wiki/evolving-strict/campaign-metrics/pressfeed-pr-cases-2026.md
+  - wiki/canon/marketing-frameworks/petrochenkov-2026-q2-channel-priority.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 8, evolving: 2, evolving-strict: 2, sources: 1}
+- touched: 11 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-vyzhimat-prodazhi-iz-lokalnyh-media-i-blog-platform-rabo_ee156186.md
+
+## [2026-05-19 21:46] [ingest] | Pressfeed/Тарасова: «Компас в бурю — зачем современному заводу точная маркетинговая стратегия» (industrial B2B)
+- source: wiki/sources/2026-05-20-pressfeed-tarasova-kompas-zavod-strategy.md
+- created:
+  - wiki/canon/marketing-frameworks/industrial-b2b-no-strategy-degradation-tarasova.md
+  - wiki/evolving/industry-trends/industrial-marketing-strategy-as-survival-condition-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/industrial-b2b-brand-framework-tarasova.md
+  - wiki/evolving/content-trends/proof-driven-b2b-content-pattern.md
+  - wiki/canon/marketing-frameworks/b2b-services-client-maturity-funnel.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 2, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kompas-v-buryu-zachem-sovremennomu-zavodu-tochnaya-marketing_5eff4af5.md
+
+## [2026-05-19 21:47] [ingest] | Pressfeed: Канал «ВКонтакте» — как создать и вести, что публиковать (VK channels playbook)
+- source: wiki/sources/2026-05-19-pressfeed-vk-channels-playbook.md
+- created:
+  - wiki/canon/marketing-frameworks/vk-channels-playbook-pressfeed.md
+  - wiki/evolving/content-trends/vk-channels-brand-exemplars-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/personal-brand-channels-5-types-magas.md
+  - wiki/canon/marketing-frameworks/vk-ads-2026-niche-playbook.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kanal-vkontakte-novaya-vozmozhnost-vovlech-auditoriyu-kak-eg_fbd8d132.md
+
+## [2026-05-19 21:52] [ingest] | Pressfeed: Лучшие публикации за апрель 2026 (дайджест) — audit-only digest, no extractions
+- source: wiki/sources/2026-05-19-pressfeed-luchshie-publikaczii-aprel-2026-digest.md
+- created:
+  - none
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1}
+- touched: 1 page
+- raw: raw/processed/articles/web_news.pressfeed.ru_luchshie-publikaczii-za-aprel-2026-go_ede4b1fa.md
+
+## [2026-05-19 21:53] [ingest] | Pressfeed: Что такое медиамониторинг и как он стал базовым навыком в PR (СКАН-Интерфакс кейсы)
+- source: wiki/sources/2026-05-19-pressfeed-mediamonitoring-pr-base-skill.md
+- created:
+  - wiki/canon/marketing-frameworks/media-monitoring-pr-framework.md
+  - wiki/evolving/industry-trends/pr-competence-shift-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/pr-measurement-digital-footprint.md
+  - wiki/canon/marketing-frameworks/b2b-pr-influence-shift-2026.md
+  - wiki/canon/marketing-frameworks/crisis-pr-principles.md
+  - wiki/canon/marketing-frameworks/performance-pr-framework.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, evolving: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-mediamonitoring-stal-bazovym-navykom-pr-speczialista_8c198d47.md
+
+## [2026-05-19 22:01] [ingest] | Pressfeed: Мониторинг СМИ как инструмент прогнозирования, а не отчётности (weak-signals + Byju collapse case)
+- source: wiki/sources/2026-05-19-pressfeed-mediamonitoring-prognozirovanie-weak-signals.md
+- created:
+  - wiki/canon/marketing-frameworks/weak-signals-crisis-3-stages.md
+  - wiki/canon/marketing-frameworks/convenient-blame-association-pattern.md
+  - wiki/canon-strict/historical-campaigns/byju-reputation-collapse-case.md
+- updated:
+  - wiki/canon/marketing-frameworks/crisis-pr-principles.md
+  - wiki/canon/marketing-frameworks/black-pr-community-doubt-mechanic.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, canon-strict: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_monitoring-smi-kak-instrument-prognozirovaniya-a-ne-otchetno_e82e4a9d.md
+
+## [2026-05-19 22:01] [ingest] | Pressfeed/PR DOCTOR: маркетинг, пиар и продажи в погоне за лидами (3-dept conflict frame + event-coordination + GTM anchor + CMO-парадокс)
+- source: wiki/sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md
+- created:
+  - wiki/canon/marketing-frameworks/three-dept-conflict-prdoctor.md
+  - wiki/canon/marketing-frameworks/event-coordination-checklist-prdoctor.md
+  - wiki/canon/marketing-frameworks/gtm-shared-understanding-anchor.md
+  - wiki/evolving-strict/market-data/cmo-strategist-executor-gap-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/marketing-sales-alignment-framework.md (+PR DOCTOR 3-departmental extension note во вводной части (рамка неполна для организаций с PR-отделом); +cross-ref на CMO-парадокс 84%/64%; +5 новых links в Связанных страницах)
+  - wiki/canon/marketing-frameworks/b2b-pr-influence-shift-2026.md (+organizational frame section: PR не standalone функция, а часть 3-dept системы; mapping 3 PR DOCTOR-рычагов на смысловую архитектуру/sales-ownership/system-KPI; production-executive anti-pattern; +cross-ref CMO-парадокс)
+  - wiki/canon/marketing-frameworks/refused-customer-interview.md (+Feedback Loop (Рычаг 3 marketing-sales-alignment) как scalable proxy для refused-customer interview: интервью для глубины, CRM-feedback для покрытия объёма, комплементарно)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 6, evolving-strict: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_marketing-piar-i-prodazhi-kto-glavnyj-v-pogone-za-lidami_367c52fa.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-20 00:36] [ingest] | Pressfeed: анонс вебинара «Как продвигаться, когда всё отключено» (Кузнецова, Академия Pressfeed) — irrelevant audit-only
+- source: wiki/sources/2026-05-19-pressfeed-kak-prodvigatsya-kogda-vsyo-otklyucheno-vebinar.md
+- created:
+  - none
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1}
+- touched: 1 page
+- raw: raw/processed/articles/web_news.pressfeed.ru_kak-prodvigatsya-kogda-vsyo-otklyucheno-vebinar_5d3e4263.md (+ 2 sidecars: .note.md, .triage.json)

@@ -9,14 +9,19 @@ tags: [b2b, sales, consulting, awareness, consideration, decision, target-audien
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-18  # +Pressfeed/Tarasova: industrial B2B brand framework; +Pressfeed/LZ.Media: маршрут клиентских мыслей на главной B2B-сайта как операционное приложение
+updated: 2026-05-20  # +Pressfeed PR-readiness: связка со стадиями 3–5; +Tarasova вторая колонка: сдвиг клиентских ожиданий с товара на «комплексное решение»
 sources:
   - sources/2026-05-14-condense-e-xecutive-ru-34-articles.md
   - sources/2026-05-14-exec-339137-kak-vybiraut-konsultantov.md
   - sources/2026-05-18-pressfeed-tarasova-zavod-brand.md
   - sources/2026-05-18-pressfeed-b2b-homepage-blocks-guide.md
+  - sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md
+  - sources/2026-05-20-pressfeed-tarasova-kompas-zavod-strategy.md
 namespace: mkt
 ---
+
+> **Update 2026-05-20 (Тарасова, вторая колонка):** в индустриальном B2B 2026 стандартное ожидание клиента — **комплексное решение**, а не товар: товар + сервисная поддержка + прогнозирование износа + интеграция в существующие процессы + прозрачные условия обслуживания. Поставщики, продающие «деталь», теряют долю даже среди долгосрочных партнёров — это операционное приложение механизма №2 в [[canon/marketing-frameworks/industrial-b2b-no-strategy-degradation-tarasova]]. Для стадий 4-5 воронки B2B-services это значит: «решение» — не маркетинговое усилие на лендинге, а реальная структура offerings.
+
 
 # Воронка созревания B2B-клиента — как выбирают консультантов / экспертов
 
@@ -33,9 +38,9 @@ Reusable framework из статьи «Как выбирают консульт�
 5. **Выбор эксперта** — long list → short list → одна фирма
 
 **Implication для маркетинга:** на каждой стадии нужен свой контент-формат:
-- Стадии 1-2: проблемно-ориентированный контент («признаки, что у вас проблема X»)
+- Стадии 1-2: проблемно-ориентированный контент («признаки, что у вас проблема X»). Хороший пример формата — [[canon/marketing-frameworks/pr-readiness-10-signals-checklist|чек-лист «10 признаков, что нужен PR»]]: читатель сам диагностирует свою проблему, что даёт self-recognition-эффект.
 - Стадия 3: tactical-уровень контент («как сделать своими руками»; здесь же кросс-линки на «когда стоит позвать эксперта»)
-- Стадии 4-5: case studies, social proof, методологии, expert positioning
+- Стадии 4-5: case studies, social proof, методологии, expert positioning. **Если у вашей компании здесь публичный след беден** (см. PR-readiness-чек-лист пункт #5 «в поиске про вас бедно»), клиент уйдёт к конкуренту, у которого след богаче — даже при equal-quality продукте.
 
 ## В head-to-head клиент выбирает ЛЮДЕЙ, не фирмы
 

@@ -9,8 +9,8 @@ tags: [product, pricing, b2b, landing-page]
 confidence: medium
 stale: false
 created: 2026-05-16
-updated: 2026-05-18  # +landscape context: GRO «Интенсив» в RU-AI-intensive-landscape (Pressfeed 2026-05-18) — high-ticket b2b/cohort sub-segment vs low-ticket mass intensives (Барановой/Skillbox/Эдюсон)
-sources: [sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md]
+updated: 2026-05-19  # +second Pressfeed-обзор: GRO «Интенсив» — НЕ beginner-формат; +operational content scope: 7-этапный AI-course-production-conveyor + RU-tool inventory как reference-scope
+sources: [sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md, sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md]
 namespace: mkt
 ---
 
@@ -130,9 +130,39 @@ GRO «Интенсив» **не конкурирует напрямую** с э�
 **Применение 5 критериев** ([[canon/marketing-frameworks/ai-intensive-format-criteria]]) к GRO «Интенсиву»:
 - **Критерий 1 (практика в каждом блоке)** — для high-ticket это **глубокая работа на собственном бизнесе**, не «попробовали Midjourney».
 - **Критерий 2 (чёткий фокус)** — фокус GRO «Интенсива» должен быть на **бизнес-маркетинге через AI**, не на «обзоре AI-инструментов».
-- **Критерий 3 (актуальные сервисы)** — должны быть в программе, но это floor, не differentiator.
+- **Критерий 3 (актуальные сервисы)** — должны быть в программе, но это floor, не differentiator. **Operational benchmark:** покрытие ≥5 из 7 этапов конвейера ([[canon/marketing-frameworks/ai-course-production-conveyor-7-stages]]) — необходимый минимум, иначе провал критерия 3 по Pressfeed-mass-medium-стандарту 2026. Inventory конкретных RU-инструментов — в [[evolving/content-trends/ru-ai-course-production-stack-2026]].
 - **Критерий 4 (разбор результатов)** — для high-ticket это **личный feedback от founder-команды**, не AI-проверка.
 - **Критерий 5 (takeaway-сценарий)** — должен быть на уровне **операционного маркетингового плана**, а не «5 промптов».
+
+**Применение 3 differentiators** ([[canon/marketing-frameworks/beginner-edu-3-differentiators]]) к GRO «Интенсиву» — diagnostic «является ли это beginner-форматом»:
+
+| Differentiator | GRO «Интенсив» проходит? | Implication |
+|---|---|---|
+| 1. Работа со страхами | **Нет** | Целевой клиент уже преодолел барьер «AI слишком сложно» (он уже founder с CMO, у него есть маркетинговая функция). Адресация страхов irrelevant. |
+| 2. Быстрый первый результат | **Условно** | Артефакт «попробовать инструмент в 1 сессии» не релевантен. Релевантен «получить готовую стратегию в 2–3 дня». Это **другая** ось «быстроты», не beginner. |
+| 3. Наглядная система координат | **Нет** | Целевой клиент не нуждается в карте «какие бывают ИИ». Ему нужна карта «куда вписать AI в маркетинг моего бизнеса». Это **корпоративная** карта, не категориальная. |
+
+**Diagnostic**: GRO «Интенсив» **не проходит** beginner-тест ни по одной оси из трёх — это **корректное состояние** для high-ticket B2B-формата. **Anti-positioning**: не использовать рекламные сообщения beginner-уровня («без программирования», «первый результат за вечер», «карта всех нейросетей»). Корректные сообщения: «вашему бизнесу нужна AI-маркетинговая стратегия, которую внедрит ваша команда» — это **decision-фаза corporate buyer**, не **awareness-фаза beginner**.
+
+**Подтверждение из Pressfeed-обзора 2** (см. [[sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement]]): рынок массовых beginner-курсов имеет focal-school (Барановой), активно продвигаемого через Pressfeed paid-placement (см. [[evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern]]). Это значит **broad-funnel внимание** в нише AI-обучения занято — GRO не должен пытаться выиграть SEO/PR в этой нише напрямую (high cost-of-attention).
+
+### Content scope из Pressfeed 2026-05-18 (обзор 15+ инструментов)
+
+Второй Pressfeed-обзор «Нейросеть для курсов: 15+ доступных в РФ сервисов» ([[sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15]]) даёт **готовый content scope** для GRO «Интенсива», если содержательный фокус — обучение AI-инструментам для маркетинга. Семь этапов = семь возможных дневных модулей (см. [[canon/marketing-frameworks/ai-course-production-conveyor-7-stages]]):
+
+| День | Этап | Класс инструмента | Operational outcome для участника |
+|---|---|---|---|
+| 1 | Структура и контент | LLM + поисковой ассистент | Структура собственного контент-плана/курса на 90 дней |
+| 2 | Задания и тесты | LLM | Готовый банк сценариев для маркетинговых задач (тесты для клиентов, кейсы для продаж) |
+| 3 | Иллюстрации | Image-generators | Серия консистентных авторских иллюстраций для бренда |
+| 4 | Презентации | AI-Presentation-Builder | Готовый шаблон корпоративной презентации с AI-генерируемыми вариантами |
+| 5 | Видеоуроки (4 sub-этапа) | TTS + text-to-video + AI-editor | Готовый видеоурок/promo-видео для бренда |
+| 6 | Доп. материалы | LLM | FAQ-секция / чек-листы / lead-magnet'ы из существующего контента |
+| 7 | Интеграция в pipeline | Все вместе | Собственный production-pipeline для команды + ROI-план |
+
+**Anti-pattern:** «дать обзор 30 нейросетей за день» (Pressfeed-style mass-market). **Pro-pattern:** один день = один этап с глубокой практикой на 2–3 инструментах + ручная работа на собственном бизнесе участника.
+
+**Обязательный модуль про ограничения AI** — каждый день включает гигиенический блок из 3 ограничений (галлюцинации, шаблонность, правовая серость), см. [[canon/marketing-frameworks/ai-content-3-limitations-pressfeed]]. Без него интенсив провалится по критерию 5 (takeaway-сценарий): участники выйдут с pipeline, который ломается на проде без human-checkpoint'ов.
 
 ## Связанные страницы
 
@@ -143,5 +173,10 @@ GRO «Интенсив» **не конкурирует напрямую** с э�
 - [[canon/product-knowledge/gro-team]] — команда, потенциальные ведущие интенсива
 - [[canon/marketing-frameworks/premium-perception-through-price]] — рамка про high-ticket pricing как маркетинговый сигнал
 - [[canon/marketing-frameworks/ai-intensive-format-criteria]] — 5 критериев качественного AI-интенсива (отраслевая рамка для дифференциации GRO)
+- [[canon/marketing-frameworks/beginner-edu-3-differentiators]] — рамка beginner-уровня (GRO «Интенсив» не должен по ней позиционироваться)
+- [[canon/marketing-frameworks/ai-course-production-conveyor-7-stages]] — 7-этапная методология production курса (готовый content-scope для интенсива)
+- [[evolving/content-trends/ru-ai-course-production-stack-2026]] — RU-tool inventory под 7 этапов (готовый toolset для программы)
+- [[canon/marketing-frameworks/ai-content-3-limitations-pressfeed]] — 3 ограничения AI в обучающем контенте (обязательный гигиенический модуль)
 - [[evolving/industry-trends/ru-ai-intensive-courses-landscape-2026]] — RU-landscape массовых AI-интенсивов, на фоне которых позиционируется GRO «Интенсив»
+- [[evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern]] — paid-placement пейзаж в нише AI-edu (GRO как корпоративный игрок vs Барановой как mass-market focal)
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — близкий по cost-структуре формат стратегической сессии 2–3 дней

@@ -9,8 +9,8 @@ tags: [ai, education, intensive, frameworks, consideration, product]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-ai-intensives-overview.md]
+updated: 2026-05-19  # +confirmation сигнал из второго Pressfeed-обзора (Баранова placement); +операционное наполнение критерия 3 «актуальные сервисы» через 7-этапный inventory
+sources: [sources/2026-05-18-pressfeed-ai-intensives-overview.md, sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md]
 namespace: mkt
 ---
 
@@ -70,6 +70,17 @@ namespace: mkt
 
 **Operational test для проверки актуальности:** в программе названы конкретные имена инструментов с указанием версии/года. Anti-pattern: «работа с нейросетями», «современные AI-инструменты», «передовые сервисы» — generic-формулировки сигнализируют, что список устарел или его нет.
 
+**Операционное наполнение через 7-этапный inventory.** Второй Pressfeed-обзор (2026-05-18, [[sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15|«Нейросеть для курсов: 15+ доступных в РФ сервисов»]]) даёт **полный inventory** по этапам производства курса:
+
+- **Структура и контент:** Qwen, DeepSeek, GigaChat, Алиса AI, Perplexity (для академического поиска)
+- **Иллюстрации:** Kandinsky, Шедеврум (PRO 100 ₽/мес снимает водяной знак и правовое ограничение), Алиса AI; для инфографики — StudyAi, BotHub, ruGPT (RU-кириллица)
+- **Видео:** Kandinsky Video, Шедеврум (text-to-video режим)
+- **Озвучка:** SaluteSpeech App (200k знаков/мес бесплатно, далее 1000 ₽/1 млн знаков)
+- **Музыка:** инструмент GigaChat
+- **Монтаж с AI:** Clipchamp (автовырезка пауз)
+
+Полный inventory с тарифами и нюансами — в [[evolving/content-trends/ru-ai-course-production-stack-2026]]. Конвейерная методология (7 этапов + класс инструмента под каждый) — в [[canon/marketing-frameworks/ai-course-production-conveyor-7-stages]]. **Implication для критерия 3:** программа AI-интенсива, не покрывающая ≥5 из 7 этапов конвейера, провалит operational test актуальности по версии Pressfeed-mass-medium стандарта 2026.
+
 ## Критерий 4 — Разбор результатов
 
 «Обратная связь важна и в коротком формате: что получилось, где ошибка, как улучшить.»
@@ -109,11 +120,32 @@ namespace: mkt
 - **Критерии описывают consumer-интенсив, не corporate.** Для корпоративных программ (стратегическая сессия Спиридонова, GRO-Интенсив 240k+) актуальны **дополнительные критерии**: ROI-обоснование, фолоу-ап после программы, тailoring под клиента, контрактные обязательства. Не путать рамку. Эти дополнительные критерии — отдельная страница в будущем.
 - **Жанр меняется быстро.** AI-инструменты обновляются ежемесячно (новые модели Claude, ChatGPT, появление Sora, миграция Midjourney на web). Критерий №3 (актуальные сервисы) **обновляется чаще остальных**. Если страница не обновлялась >6 мес — список конкретных инструментов в Критерии 3 устарел. Раз в полгода ревью.
 
+## Дополнение из обзора 2 (Pressfeed 2026-05-19)
+
+Второй обзор Pressfeed в серии (focal — школа Барановой) **повторяет** в формулировке критериев выбора курса:
+- **Критерий 1** («практика в каждом блоке») → в обзоре 2 сформулирован как «знания без немедленного применения рассеиваются; лучшие курсы устроены так, что после каждого объяснения следует задание».
+- **Критерий 3** («актуальные сервисы») → «нейросети обновляются каждые несколько месяцев; устаревшие интерфейсы или рекомендации неработающих сервисов делают обучение бесполезным».
+- **Критерий 4** («разбор результатов») → «важно, чтобы кто-то подсветил типовые ошибки, разобрал и предложил корректное решение; без этого можно застрять, потеряв мотивацию».
+
+Это **confirmation signal** валидности рамки как **отраслевого консенсуса**. Но **caveat**: оба обзора — paid-placement (см. [[evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern]]), и критерии в обзоре 2 сформулированы так, что школа Барановой по ним выигрывает (focal product). Поэтому рамка остаётся `confidence: medium` — не противоречит EdTech-разуму, но не подкреплена независимым исследованием.
+
+**Контраст с beginner-edu-3-differentiators.** 5 критериев — **операционная** рамка (как организовать интенсив), 3 differentiators — **позиционная** (как продать его новичку). Не путать осей. На уровне дизайна продукта обе работают комплементарно:
+- Критерий №1 (практика) реализует differentiator №2 (быстрый результат)
+- Критерий №2 (фокус) реализует differentiator №3 (карта)
+- Критерий №3 (актуальные сервисы) не пересекается с differentiator-осями (это hygiene-факт жанра, а не differentiator beginner-уровня)
+
 ## Cross-links
 
 - [[sources/2026-05-18-pressfeed-ai-intensives-overview]] — первоисточник 5 критериев
+- [[sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement]] — confirmation сигнал из второго обзора
+- [[sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15]] — операционное наполнение критерия 3 через 15+ RU-инструментов
 - [[evolving/industry-trends/ru-ai-intensive-courses-landscape-2026]] — landscape, который оценивается через эти критерии
+- [[canon/marketing-frameworks/beginner-edu-3-differentiators]] — комплементарная позиционная рамка для beginner-уровня
+- [[evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern]] — paid-placement формат, в котором эти критерии транслируются
 - [[canon/product-knowledge/gro-intensive]] — GRO «Интенсив», позиционируемый через эту рамку
+- [[canon/marketing-frameworks/ai-course-production-conveyor-7-stages]] — 7-этапная методология (наполняет критерий 3 операционно)
+- [[evolving/content-trends/ru-ai-course-production-stack-2026]] — RU-tool inventory (наполняет критерий 3)
+- [[canon/marketing-frameworks/ai-content-3-limitations-pressfeed]] — 3 ограничения AI в обучающем контенте (применяются к каждому этапу)
 - [[canon/marketing-frameworks/egoshin-education-formula-2026]] — комплементарный диагностический layer
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — другая tier-классификация форматов
 - [[canon/product-knowledge/gro-app-overview]] — GRO-продукт, реализующий критерий №4 (обратная связь) через AI-цикл

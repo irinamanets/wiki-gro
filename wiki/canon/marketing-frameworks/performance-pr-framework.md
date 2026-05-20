@@ -9,7 +9,7 @@ tags: [pr, content, seo]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-18  # +Магась (PReach): PR-горизонт 6-12 мес как параметр measurement, метрики выставляются «до старта»
+updated: 2026-05-19  # +media monitoring reputation contour; +PR-readiness gating; +Cherednichenko/LZ.Media: спикерство; +Kovpak local-media channel
 sources:
   - sources/2026-04-16-condense-pressfeed-35-articles.md
   - sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md
@@ -17,6 +17,10 @@ sources:
   - sources/2026-05-18-pressfeed-4-sposoba-infopovod.md
   - sources/2026-05-18-pressfeed-magas-personal-brand-7-steps.md
   - sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md
+  - sources/2026-05-19-pressfeed-mediamonitoring-pr-base-skill.md
+  - sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md
+  - sources/2026-05-19-pressfeed-lz-media-speaker-first-event-prep.md
+  - sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md
 namespace: mkt
 ---
 
@@ -81,13 +85,42 @@ Pressfeed-вебинар «B2B-пиар после эпохи простых о�
 
 Полная семимерная модель — в [[canon/marketing-frameworks/pr-measurement-digital-footprint]]. Стратегический сдвиг, для которого эта модель измерения создана — в [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]].
 
+## Три контура измерения B2B-PR 2026
+
+К performance-инструментам (бизнес-контур) и цифровому следу (созидательный контур) добавляется **репутационный контур** — то, что приходит к бренду извне:
+
+| Контур | Что меряет | Где описан |
+|---|---|---|
+| **Бизнес-метрический** | Лиды, продажи, бренд-трафик, NPS-attribution, UTM, промокоды | Эта страница (выше) |
+| **Цифровой след** | Цитируемость, AI-видимость, экспертное позиционирование, входящие запросы, контент-цепочки | [[canon/marketing-frameworks/pr-measurement-digital-footprint]] |
+| **Репутационный** (media monitoring) | Тональность, индекс заметности, ИРР, индекс прямой речи, дисбаланс vs конкуренты | [[canon/marketing-frameworks/media-monitoring-pr-framework]] |
+
+**Зачем все три**: бизнес-контур отвечает на вопрос «PR окупается?», цифровой след — «бренд набирает влияние?», репутационный — «бренд не теряет защитную оболочку?». Без репутационного контура PR-команда может «выигрывать по бизнес-метрикам», но пропустить incoming-атаку или эрозию доверия. См. [[canon/marketing-frameworks/crisis-pr-principles]] — ранняя диагностика опирается именно на репутационный контур.
+
+## Локальные медиа как канал performance-PR (Ковпак, 2026)
+
+В 2026 RU-practitioner Дмитрий Ковпак ([[sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel|Pressfeed]]) выделяет локальные медиа как самостоятельный performance-канал в условиях перегретых paid-аукционов:
+
+- **CPL anchor 300-400 ₽** для real-estate/B2B/SMB ниш в локальной геопривязке
+- **SEO long-tail** — публикация на домене с высоким трастом даёт +50 органических лидов за 6 мес бесплатно
+- **4 типа площадок** (городские порталы / нишевые блог-платформы / ЖК-чаты / Дзен реклама) — каждый со своим CPL и UTM-attribution
+- **MVP-бюджет теста** 30-50 000 ₽ на 10 медиа — низкий barrier-to-entry
+
+Эталонный кейс: ЭРА девелопмент — 21 000+ просмотров на единичной публикации с «атакой на привычное мнение» вместо прямого офера (см. также [[evolving-strict/campaign-metrics/pressfeed-pr-cases-2026]]).
+
+Этот канал **дополняет** existing performance-PR арсенал (tier-1 СМИ / собственный блог / выступления). Полная методология — [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]]; бенчмарки CPL — [[evolving-strict/campaign-metrics/local-media-cpl-benchmarks-2026]]; рыночное обоснование — [[evolving/industry-trends/local-media-overheated-paid-shift-2026]].
+
 ## Связанные страницы
+- [[canon/marketing-frameworks/pr-readiness-10-signals-checklist]] -- upstream-gating: если по чек-листу не пора, performance-PR-замеры будут шумом
+- [[canon/marketing-frameworks/sarafan-growth-ceiling-pattern]] -- upstream: структурная причина, почему вообще встаёт вопрос «нужны ли публичные каналы»
 - [[canon/marketing-frameworks/infopovod-generation-4-techniques]] -- upstream: 4 техники конструирования инфоповода (trend extraction, re-frame, ньюсджекинг, превосходная степень)
 - [[canon/marketing-frameworks/infopovod-criteria-smb-pr]] -- upstream: критерии работающего инфоповода для SMB (без правильного инфоповода замеры performance PR = 0)
 - [[canon/marketing-frameworks/press-release-types-7-categories]] -- upstream: какой тип релиза измерять (метрики разные)
 - [[canon/marketing-frameworks/press-release-22-topic-ideas]] -- upstream: какие темы дают измеримый эффект
 - [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]] -- родительский стратегический сдвиг 2026 (от каналов к влиянию)
 - [[canon/marketing-frameworks/pr-measurement-digital-footprint]] -- расширенная семимерная модель измерения (цифровой след + AI)
+- [[canon/marketing-frameworks/media-monitoring-pr-framework]] -- репутационный контур (тональность, ИРР, индекс заметности) + 6 операционных принципов мониторинга
+- [[evolving/industry-trends/pr-competence-shift-2026]] -- competence shift: PR-команды нанимают аналитиков, не копирайтеров
 - [[canon/marketing-frameworks/newsjacking-technique]] -- частный случай: измерение эффекта реактивных релизов
 - [[canon/marketing-frameworks/outlier-content-pr-case-studies]] -- когда собственный контент сам становится инфоповодом
 - [[canon/marketing-frameworks/crisis-pr-principles]] -- антикризисный PR
@@ -98,6 +131,14 @@ Pressfeed-вебинар «B2B-пиар после эпохи простых о�
 - [[evolving-strict/campaign-metrics/pressfeed-pr-cases-2026]] -- кейсы ORENSHAL и THERMAGENT
 - [[canon/marketing-frameworks/personal-brand-7-steps-magas]] -- personal brand methodology, в которой Performance-PR — каркас
 - [[canon/marketing-frameworks/personal-brand-channels-5-types-magas]] -- 5 каналов personal brand с performance-attribution
+- [[canon/marketing-frameworks/speaking-as-marketing-channel]] -- спикерство как один из performance-PR каналов
+- [[canon/marketing-frameworks/speaker-economics-reality-cherednichenko]] -- ресурсная экономика спикерства (8-10 отказов / 20-40ч / opportunity cost)
+- [[canon/marketing-frameworks/speaker-event-type-selection-cherednichenko]] -- выбор типа event'а под PR-задачу
+- [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]] -- локальные медиа как самостоятельный performance-канал (Ковпак)
+- [[canon/marketing-frameworks/native-90-10-ratio-moderated-platforms]] -- пропорция для прохождения модерации (VC.ru, Дзен)
+- [[canon/marketing-frameworks/exclusive-data-for-journalists-free-placement]] -- 4 free-placement тактики при нулевом бюджете
+- [[evolving-strict/campaign-metrics/local-media-cpl-benchmarks-2026]] -- CPL-бенчмарки для local-media канала
+- [[evolving/industry-trends/local-media-overheated-paid-shift-2026]] -- рыночный сдвиг 2026 как драйвер канала
 
 ## Backlinks
 

@@ -9,8 +9,10 @@ tags: [pr, community, narrative, crisis-pr, anti-pattern, reputation-management,
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-black-pr-community-doubt.md]
+updated: 2026-05-20  # +cross-link на 3-стадийную таксономию weak-signals (параллельный фреймворк для публичного инфополя, Pressfeed 2026-05)
+sources:
+  - sources/2026-05-18-pressfeed-black-pr-community-doubt.md
+  - sources/2026-05-19-pressfeed-mediamonitoring-prognozirovanie-weak-signals.md
 namespace: mkt
 ---
 
@@ -158,6 +160,8 @@ Operational-фреймворк, описывающий, как **управля�
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/doubt-vs-fact-question-pattern]] — unit-уровневый анти-паттерн «вопрос с готовым выводом»
+- [[canon/marketing-frameworks/weak-signals-crisis-3-stages]] — параллельная таксономия для **публичного** инфополя (vs закрытого сообщества здесь): 3 стадии, 11 маркеров, кейс «Уральских авиалиний»
+- [[canon/marketing-frameworks/convenient-blame-association-pattern]] — финальная точка дрейфа (бренд = «удобный виновник»); чёрный PR в сообществе может ускорить попадание в эту роль
 - [[canon/marketing-frameworks/crisis-pr-principles]] — антикризисный PR (стратегии ответа на острую фазу)
 - [[canon/marketing-frameworks/business-crisis-playbook-apollo13]] — Apollo-13 playbook для острого кризиса
 - [[canon/marketing-frameworks/thomas-kilmann-conflict-strategies]] — 5 стратегий поведения в конфликте
