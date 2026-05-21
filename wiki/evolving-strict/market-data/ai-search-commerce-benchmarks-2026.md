@@ -102,6 +102,7 @@ _Пока нет противоречий с другими страницами
 - [[volatile-strict/industry-news/openai-stripe-chatgpt-checkout-2026-05]] — Adobe-цифры подтверждают growth canvas
 - [[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]] — RU-приземление
 - [[volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026]] — B2B-катализатор
+- [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]] — Comscore platform-level замер AI-обзоров (Google 34,9% / Bing 15,7%, плато поиска +3% YoY) [conf:medium, src:2026-05-18]
 - [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] — первоисточник
 
 ## Backlinks

@@ -9,8 +9,8 @@ tags: [robotics, narrative, boston-dynamics, irobot, humanoid, ai, companion-rob
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14  # +3 новых сигнала через Edinorog (mid-may): Familiar Machines & Magic ($60M+ raise estimate, AI emotion recognition, aging-tech целевая аудитория); Unitree mech-suit за $650K (4-я ниша «toy-for-rich»); Mind Robotics $400M (rj Скаринджа = founder Rivian, total >$1B с ноября 2025); +vcnews 61313 (2026-05-12) cross-source на Unitree GD01: цена от $650 тысяч, вес ~500 кг, кабина для человека на месте туловища, готов к массовому производству; +vcnews 61291 (2026-05-10) Mirumi character-toy parallel (32 стран Kickstarter, $100+, single-feature)
-sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
+updated: 2026-05-19  # +Figure AI vs люди (breakingtrends, 2026-05-18): productivity-нога получила reality-check — роботы проиграли людям в сортировке посылок (12 757 vs 12 926, 2,83 vs 2,79 сек/коробка)
+sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-19-tg-breakingtrends-may14-19.md]
 namespace: mkt
 ---
 
@@ -149,6 +149,18 @@ Boston Dynamics запостили выразительное видео Atlas �
 
 Cross-link: [[evolving-strict/market-data/humanoid-robot-unit-economics-2024-2050]] — McKinsey/Bain/Morgan Stanley unit-economics ($100K средний, $16K минимальный, $7-10/час, окупаемость 5.3→2.8 лет).
 
+## Update 2026-05-19 — productivity-нога получила reality-check (Figure AI проиграл людям)
+
+[[sources/2026-05-19-tg-breakingtrends-may14-19|@breakingtrends #16762]] (2026-05-18) фиксирует первый публичный head-to-head productivity-test: **роботы Figure AI проиграли людям в реальной сортировке посылок**.
+
+- 3 робота Figure AI + команда стажёров, 10 часов на линии сортировки в условиях, близких к реальным.
+- Люди работали с перерывами (30 мин обед + 2 паузы), роботы — без остановки.
+- Итог: люди **12 926** посылок @ 2,79 сек/коробка; роботы **12 757** @ 2,83 сек/коробка — люди впереди на **169 посылок** и 0,04 сек/коробку.
+
+Полные цифры с inline-маркерами — на [[evolving-strict/market-data/figure-ai-vs-humans-sorting-benchmark-2026]].
+
+**Что это меняет для нарратива.** До сих пор productivity-вертикаль раскручивалась исключительно на capital-сигналах (Boston Dynamics IPO, Mind Robotics $400M, Hyundai «десятки тысяч роботов»). Это первый **performance-датапоинт** — и он показывает, что в реальной задаче робот пока **проигрывает** человеку, хоть и с минимальным (1-1,4%) отрывом. Productivity-нарратив получает **reality-check**: «роботы заменят рабочих» сдвигается с «завтра» на «отрыв уже 1%, и он схлопывается». Это не отменяет productivity-вертикаль, а **калибрует её таймлайн** — полезно для контента, чтобы не повторять hype-нарратив, а давать сбалансированную картину.
+
 ## Применимость для маркетинга GRO
 
 ### Как пример сегментирования рынка
@@ -207,3 +219,5 @@ GRO продукт изначально позиционировался как 
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — productivity-robot как часть displacement-нарратива
 - [[evolving/industry-trends/hollywood-ai-institutional-shift-2026]] — параллельный нарратив институциональности
 - [[canon/marketing-frameworks/hockey-stick-adoption-curve]] — Boston Dynamics inverse pattern (compression, не expansion)
+- [[evolving-strict/market-data/figure-ai-vs-humans-sorting-benchmark-2026]] — productivity reality-check: Figure AI проиграл людям в сортировке
+- [[sources/2026-05-19-tg-breakingtrends-may14-19]] — источник Figure AI теста (пост #16762)

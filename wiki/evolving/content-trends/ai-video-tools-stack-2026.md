@@ -9,8 +9,8 @@ tags: [creative, video, ai, tools, seedance, runway, higgsfield, veo3, sora, kli
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +cross-link на RU-parallel snapshot (ru-ai-course-production-stack-2026 — Kandinsky Video / Шедеврум как RU-доступная альтернатива без VPN, существенно отстают качественно от global stack)
-sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md]
+updated: 2026-05-19  # +cgevent дамп 8-19 мая: HiDream-O1 (=Peanut раскрыт, vivago.ai, 8B pixel-space no-VAE), Krea K-2 (всем + безлимит неделю), AsymFLUX.2 Klein (+40% скорости pixel-space), Starchild-1 (Odyssey world model realtime 20FPS), HY-World-2.0/Pixal3D (Tencent опенсорс), Viggle P.I.N.O.C (нейромокап), Video2Video нейрорендер, LTX Director (Comfy timeline). Peanut раскрыт → теперь HiDream-O1. Prior: +cross-link на RU-parallel snapshot
+sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md]
 namespace: mkt
 ---
 
@@ -108,13 +108,71 @@ namespace: mkt
 - **Когда НЕ брать:** коммерческий проект без явного consent на face — регуляторный риск
 - **Подробный разбор:** [[volatile-strict/competitor-news/bach-art-video-gen-2026-05]]
 
-### Peanut (открытая бета, опенсорс coming soon)
+### HiDream-O1-Image (8B) — раскрытый Peanut (опенсорс выпущен)
 
-- **Платформа:** засветился на text-to-image арене под кодовым именем «Peanut (Open Weights Coming Soon)» `[conf:high, src:2026-05-06]`
-- **Позиция на text-to-image арене:** **8-е место**, перед ним только закрытые модели (выше Z-Image Turbo, Qwen-Image, FLUX.2 [dev]) `[conf:medium, src:2026-05-06]`
-- **Статус:** open weights анонсированы, но пока не выпущены `[conf:medium, src:2026-05-06]`
-- **Когда брать:** не сейчас — ждать релиза weights; **сигнал для трекинга** опенсорс-сегмента
-- **Caveat:** «Мы, конечно, не очень верим Арене, но воодушевлены!» (@cgevent) — позиция на арене не всегда коррелирует с production-качеством
+<!-- superseded 2026-05-10 by [[sources/2026-05-19-tg-cgevent-may08-19-2026]] : раньше эта модель была загадочным «Peanut (Open Weights Coming Soon)» на text-to-image арене, статус open weights — анонсированы но не выпущены. Теперь раскрыта личность и веса выложены. -->
+
+- **Идентичность:** «загадочный Peanut» с арены оказался **HiDream-O1-Image (8B) от vivago.ai** `[conf:high, src:2026-05-10]`
+- **Прежняя позиция на арене:** 8-е место, перед ним только закрытые модели (выше Z-Image Turbo, Qwen-Image, FLUX.2 [dev]) `[conf:medium, src:2026-05-06]`
+- **Архитектура:** **pixel-space, без VAE, без text-encoder** — «pixels in, pixels out», без latent compression и decoder-артефактов `[conf:medium, src:2026-05-10]`. Внутри — рассуждающий prompt-агент (типа gpt-image-2 и Nano Banana)
+- **Версии:** dev (28 шагов инференса) / standard (50 шагов); разрешение до 2048; есть режим редактирования `[conf:medium, src:2026-05-10]`
+- **Выложено:** дистиллированный + недистиллированный варианты + Reasoning-Driven Prompt Agent; код с WebUI; FP8-версии для 16GB/10GB VRAM; Pinokio Launcher; раскатано на Fal и других агрегаторах
+- **Рассуждающий агент:** локальная Gemma-4-31B-it или любой OpenAI-compatible endpoint
+- **Оценка:** Ostriss (AI Toolkit) — «самая крутая модель, которую я видел… суперэффективное использование пиксельного пространства, обучается очень быстро, изменит всю отрасль». Caveat @cgevent: дистиллят пока «мылит картинку, с кожей не очень», проблемы с анатомией и лицами `[conf:medium, src:2026-05-10]`
+- **Когда брать:** опенсорс-эксперименты с pixel-space подходом; LoRA-обучение (Ostriss отмечает быстрое обучение); ждать нативной поддержки в ComfyUI (кастом-ноды уже есть)
+
+### Krea K-2 — собственная модель Krea (художественные стили)
+
+- **Платформа:** [krea.ai/krea-2](https://www.krea.ai/krea-2) `[conf:high, src:2026-05-12]`
+- **Архитектура:** тренирована **с нуля**, заточена на разные художественные стили — «креатив в духе Midjourney», не фоторил/рендеринг текста `[conf:high, src:2026-05-12]`
+- **Доступ:** на старте (12 мая) только Max/Business; **19 мая раскатили всем подписчикам + безлимитные генерации без кредитов на неделю** для всех тарифов (Basic/Pro/Max/Business) `[conf:high, src:2026-05-19]`
+- **Key trick (гайд Олега, тестил 2 недели до релиза):** **первое слово промпта = тег жанра/стиля** (фото / иллюстрация / коллаж / мурал) — управляет рендером ещё до того, как модель узнаёт, что рисовать. Без жанрового тега скатывается в дефолтный сглаженный реализм `[conf:medium, src:2026-05-13]`
+- **Принцип:** не зажимать длинными промптами
+- **Когда брать:** художественный/иллюстративный контент, сюрреализм, коллажи; неделя безлимита — окно для массового теста без затрат
+- **Гайд:** [olegpars.com/k2guide](https://olegpars.com/k2guide/read/#ru)
+
+### AsymFLUX.2 Klein — pixel-space, +40% скорости
+
+- **Платформа:** [hanshengchen.com/asymflow](https://hanshengchen.com/asymflow/), есть код + быстрое демо, поддержка ComfyUI на днях `[conf:high, src:2026-05-15]`
+- **Архитектура:** работает напрямую в пиксельном пространстве, **No VAE** `[conf:high, src:2026-05-15]`
+- **Главная фишка:** **на 40% быстрее**, меньше мыла `[conf:medium, src:2026-05-15]`
+- **Caveat @cgevent:** понимание промпта — типичный Flux, «чуда нет»; слово `poster` в промпте заставляет рисовать буквы (убирать) `[conf:medium, src:2026-05-15]`
+- **Когда брать:** быстрая локальная генерация, когда нужна скорость и приемлемое качество Flux-уровня
+
+### Starchild-1 (Odyssey) — multimodal world model
+
+- **Платформа:** [odyssey.ml/introducing-starchild-1](https://odyssey.ml/introducing-starchild-1); демо пока нет, только техрепорт `[conf:medium, src:2026-05-18]`
+- **Тип:** интерактивный генератор сцен между «генераторами миров» и «генераторами видео» (преемник Odyssey 2)
+- **Суперсила:** **реалтайм 20 FPS**, редактирование и стриминг видео в реальном времени, упор на звук и полную мультимодальность; управление генерацией в реальном времени, **в т.ч. голосом** `[conf:medium, src:2026-05-18]`
+- **Позиционирование:** «обучение на основе богатого мультимодального взаимодействия с миром» vs только визуального наблюдения. @cgevent: «если размотать вперёд — это реально матрица»
+- **Когда брать:** не сейчас (демо нет) — **сигнал для трекинга** реалтайм-интерактивной генерации
+
+### Tencent: HY-World-2.0 + Pixal3D (3D / world, опенсорс)
+
+- **HY-World-2.0** — опенсорсный генератор миров (аналог Marble), код и веса выложены ([github.com/Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0)); есть и web-демо с китайским логином `[conf:high, src:2026-05-18]`
+- **Pixal3D** — 3D-генератор, под капотом **Trellis.2**, pixel back-projection в 3D-feature-volume для direct pixel-to-3D соответствия; веса + код + демо ([ldyang694.github.io/projects/pixal3d](https://ldyang694.github.io/projects/pixal3d/)) `[conf:medium, src:2026-05-12]`
+- **Когда брать:** 3D-ассеты и сцены для опенсорс-пайплайнов; альтернатива Trellis/Hunyuan
+
+### Viggle.ai P.I.N.O.C — нейромокап (видео → fbx/glb)
+
+- **Платформа:** [viggle.ai/3d-studio](https://viggle.ai/3d-studio/landing) — pivot из мемных видео в нейромокап `[conf:medium, src:2026-05-13]`
+- **Вход → выход:** видео персонажа → **скелет с анимацией в fbx/glb** для импорта в Blender/Maya; либо фото персонажа → превью анимации в гауссианах
+- **Доступ:** «вроде как бесплатно», есть login as guest
+- **Когда брать:** перенос движения из видео в 3D-пайплайн; мост между AI-генерацией и классическим CG
+
+### Video2Video / обобщённый нейрорендер
+
+- **Подход:** снимаешь себя реальной камерой → нейрорендеришь через video2video (проще, чем раскадровки + промпты), но надо понимать, что и как снимать/монтировать `[conf:medium, src:2026-05-18]`
+- **Замена персонажа (Seedance мультиреференс):** на вход анимация + картинка нового персонажа + промпт `change the girl in the video (@video) to the man in the image (@image)` `[conf:medium, src:2026-05-18]`
+- **Импликация (@cgevent):** для каждой страны в прокате/стриминге можно подменять персонажей; «выбор персонажа на стартовом экране Нетфликса»
+- **Когда брать:** локализация контента под аудитории, замена актёров без пересъёмки
+
+### LTX Director — All-in-One Timeline в ComfyUI
+
+- **Платформа:** [github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) `[conf:high, src:2026-05-15]`
+- **Что это:** таймлайн и монтаж прямо в ComfyUI — I2V, T2V, FLFF, Prompt Relay, Custom Audio
+- **Позиционирование:** «никаких агентов и токенов» — **контр-тренд к agentic-продуктам** (Higgsfield Super Computer), full control в Comfy
+- **Когда брать:** Comfy power-users, которым нужен таймлайн без переключения на агентов и без сжигания кредитов
 
 ### Ideogram Background Remover (май 2026)
 
@@ -158,9 +216,13 @@ namespace: mkt
 | Nano Banana | Подписка / Google Ads | Быстрая | Высокая | Консистентный персонаж, работает с текстом | `[conf:high, src:2025-12-03]` |
 | PrunaAI p-video-avatar | Free trial / Replicate-rate | Быстрая (self-claim) | Хорошая (talking-head) | РУ-голос, фото+аудио → аватар | `[conf:medium, src:2026-04-30]` |
 | Bach.Art | $0.45 / 6 сек видео | Средняя | Декларируется как ключевая фича | **Multi-Shot Montage 30 сек, no face-fence** | `[conf:medium, src:2026-05-08]` |
-| Peanut (opensource bake) | Бета / waiting weights | TBD | TBD | 8-е место на text-to-image арене | `[conf:medium, src:2026-05-06]` |
+| HiDream-O1 (8B, =Peanut) | Опенсорс (compute сам) | dev 28 / std 50 шагов | TBD (дистиллят слабый) | Pixel-space, no VAE, reasoning prompt-agent | `[conf:medium, src:2026-05-10]` |
+| Krea K-2 | Безлимит/неделя, далее тариф | Быстрая | — (художественные стили, не фоторил) | Тег жанра первым словом промпта | `[conf:high, src:2026-05-19]` |
+| AsymFLUX.2 Klein | Опенсорс (compute сам) | +40% vs Flux | — | Pixel-space, no VAE, скорость | `[conf:medium, src:2026-05-15]` |
+| Starchild-1 (Odyssey) | Демо нет (техрепорт) | Realtime 20 FPS | TBD | World model, управление голосом в realtime | `[conf:medium, src:2026-05-18]` |
 | Ideogram bg-remover | Free / Ideogram tier | Быстрая | — | Отдельная модель для альфы | `[conf:medium, src:2026-05-08]` |
 | LTX2.3 All-in-One workflow | Опенсорс (compute сам) | Variable | Высокая через ID LoRA | Full Comfy pipeline single-workflow | `[conf:high, src:2026-05-08]` |
+| LTX Director | Опенсорс (Comfy) | Variable | — | Таймлайн+монтаж в Comfy, без агентов/токенов | `[conf:high, src:2026-05-15]` |
 
 Все оценки — **self-reported** практикой Kumar & Solo. Независимых бенчмарков (например, Arena-style) в статьях нет, поэтому `confidence: medium` везде. Для более строгих оценок нужны независимые замеры.
 
@@ -193,6 +255,9 @@ namespace: mkt
 - [[evolving/industry-trends/ai-native-marketer-skillset-2026]] — навык «промптить Nano Banana, VEO3, Higgsfield» как часть профиля
 - [[volatile-strict/industry-news/ai-model-releases-mar-apr-2026]] — свежие релизы, которые могут вытеснить текущих лидеров
 - [[volatile-strict/industry-news/ai-coding-tools-consolidation-2026q1]] — параллельная консолидация вайбкодинг-tooling'а
+- [[volatile-strict/competitor-news/higgsfield-super-computer-agent-2026-05]] — agentic-надстройка над этим стеком (агент сам выбирает модель)
+- [[volatile/weekly-digest/tg-cgevent-may-w3-2026]] — дайджест дампа, откуда пришли HiDream-O1 / Krea K-2 / AsymFLUX
+- [[sources/2026-05-19-tg-cgevent-may08-19-2026]] — source-дамп 8-19 мая (новые модели)
 
 ## Backlinks
 

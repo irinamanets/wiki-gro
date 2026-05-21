@@ -9,8 +9,8 @@ tags: [smm, analytics, content, social, decision, frameworks, ru]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-cossaru-may-5-14-2026.md]
+updated: 2026-05-19  # +ERV vs ER decision-grade блок (@dnative/LiveDune, май 2026) + 3 cross-ref
+sources: [sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-19-tg-dnative-digest-7613-7628.md]
 namespace: mkt
 ---
 
@@ -46,6 +46,15 @@ namespace: mkt
 4. **Передача в команды** — продакт (фичи, объекции), бренд (мессаджинг), маркетинг (форматы, каналы)
 5. **Закрытие петли** — отдельный аудит, какие решения были приняты на основе сигналов и какие сработали
 
+## ERV вместо ER как decision-grade метрика (дополнение, май 2026)
+
+Частный, но важный случай «vanity vs decision-grade» из ранней эпохи (лайки/подписчики) — пара **ER vs ERV**, артикулированная Дмитрием Нативкой (@dnative) на данных LiveDune по ВК. Принцип:
+
+- **ER** (реакции/подписчики) растёт **механически** при удалении ботов и мёртвой аудитории — знаменатель уменьшается, а сам рост ничего не говорит о качестве контента.
+- **ERV** (реакции/просмотры) — настоящий сигнал: рост ERV означает, что контент лучше доходит до живой аудитории и/или алгоритм актуализировал ранжирование.
+
+Тот же диагностический разрыв возникает при **накрутке роста**: подписчики растут (vanity), а просмотры стоят — признак ботов (см. кейс конкурса в [[evolving/content-trends/telegram-contest-bot-inflation-risk-2026]]). **Практика для SMM-аналитики:** в дашбордах канала держать ERV рядом с ER и читать их совместно; при любом скачке подписной базы (конкурс, чистка, накрутка) первичный вопрос — «выросли ли просмотры/ERV соразмерно?». Конкретные ВК-бенчмарки ERV по когортам — в [[evolving-strict/campaign-metrics/erv-vs-er-bot-cleanup-livedune-2026]].
+
 ## Связь с GRO
 
 - **Telegram-канал GRO** — главный источник такого сигнала: комментарии под постами + DM в техподдержку. Имеет смысл наладить периодический (раз в месяц) дайджест: топ-3 объекций, топ-3 запросов на функционал, топ-3 хвалебных нарратива
@@ -60,4 +69,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/marketer-task-typing-fomichev]] — типизация маркетинговых задач
 - [[evolving/customer-feedback]] и [[evolving/product-reception]] — слои, куда переходит структурированный сигнал из SMM-аналитики
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — обсуждения как сигнал для AI-видимости
+- [[evolving-strict/campaign-metrics/erv-vs-er-bot-cleanup-livedune-2026]] — ВК-бенчмарки ERV/ER (LiveDune), почему ERV честнее
+- [[evolving/content-trends/telegram-contest-bot-inflation-risk-2026]] — диагностика накрутки по разрыву подписчики/просмотры
 - [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] — первоисточник
+- [[sources/2026-05-19-tg-dnative-digest-7613-7628]] — дополнение про ERV vs ER (@dnative, май 2026)

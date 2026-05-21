@@ -9,8 +9,8 @@ tags: [content, video, reel, tiktok, instagram, algorithm, retention, awareness]
 confidence: low
 stale: false
 created: 2026-04-14
-updated: 2026-05-06
-sources: [sources/2026-04-14-tg-boris-again-mar-apr-2026.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md]
+updated: 2026-05-08  # +reach-to-subscriber economics (@bezsmuzi 15949): 1,3M views→~300 subs, RU монетизация off
+sources: [sources/2026-04-14-tg-boris-again-mar-apr-2026.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
 namespace: mkt
 ---
 
@@ -57,9 +57,20 @@ GRO по определению — продукт про **рост через 
 
 Маркетинговое следствие для GRO: при проектировании коротких видео мы можем **сознательно избегать** dark-patterns соцсетей, не теряя в watch-time, — за счёт meta-форматных трюков типа [[evolving/content-trends/yt-multitrack-audio-meta-format-spiridonov|Klingon-track]], которые **тренируют** внимание зрителя, а не **эксплуатируют** его. Это congruent-positioning к GRO-обещанию «AI без зависимости» (см. [[evolving/content-trends/social-media-addiction-design-patterns]]).
 
+## Reach-to-subscriber economics (добавлено 2026-05-08, @bezsmuzi)
+
+К format- и attention-сторонам теперь добавляется **economics-сторона** short-form в RU-контексте. First-person datapoint Максима Кульгина ([[sources/2026-05-08-tg-bezsmuzi-may-7-8]], пост 15949 + img YouTube Studio):
+
+- **1,3 млн просмотров Shorts за 28 дней → +293 подписчика** (время просмотра 6,2 тыс. ч). То есть **conversion ~0,02% просмотр→подписчик** (Кульгин обобщает: «1,3 млн просмотров ≈ ~300 новых подписчиков»). `[conf:low, src:2026-05-08]`
+- **Расчётный доход = «—»**: монетизация YouTube **отключена в РФ**. Reach есть, прямого дохода нет.
+- Вывод автора: «Шортики рулят, даже если вам они не нравятся. Но люди смотрят, пишут комментарии... как наркотик».
+
+**Маркетинговое следствие для GRO.** Short-form в РФ — это **awareness/top-of-funnel канал, не revenue-канал**: огромные охваты конвертируются в подписчиков по очень низкой ставке (~0,02%) и **не монетизируются напрямую** через платформу. Поэтому ROI short-form для GRO считается не через ad-revenue, а через downstream-конверсию подписчик→установка→активация. Это congruent с тезисом «формат важнее контента» (раздел выше): дешёвый по производству формат с массовым охватом, но монетизация — только через собственную воронку, не через платформу. `[conf:low, src:2026-05-08]`
+
 ## Связанные страницы
 
 - [[sources/2026-04-14-tg-boris-again-mar-apr-2026]] — первичный источник (Цейтлин, формат vs контент)
+- [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] — reach-to-subscriber economics + RU монетизация off (Кульгин 15949)
 - [[sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg]] — attention-cost-сторона (ЭЭГ-evidence)
 - [[evolving/content-trends/social-media-addiction-design-patterns]] — отдельная страница про dark-patterns + ЭЭГ
 - [[evolving/content-trends/yt-multitrack-audio-meta-format-spiridonov]] — congruent-formal альтернатива (фокус через payoff, не через бесконечную ленту)

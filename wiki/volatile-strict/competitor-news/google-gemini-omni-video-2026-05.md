@@ -9,8 +9,8 @@ tags: [google, gemini, veo, video-generation, multimodal, ai-platform-wars]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-ai-newz-may-2026.md]
+updated: 2026-05-19  # +second-source attest @cgevent (11-12 мая, посты 15656/15661/15662): пользователи Gemini видят приглашение «Meet our new video model», cgevent сравнивает с Seedance (математика/текст «явно получше», наследие Flash+Nanobanana), цензура (Will Smith не пропускает)
+sources: [sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md]
 namespace: mkt
 ---
 
@@ -25,6 +25,19 @@ namespace: mkt
 **Структурное следствие:** **линейке Veo как отдельной линейке моделей пришёл конец** `[conf:medium, src:2026-05-11]`. Veo консолидируется внутрь Gemini.
 
 **Ожидаемая презентация:** на **Google I/O** (предполагаемо в следующую неделю после поста, то есть конец мая 2026) `[conf:medium, src:2026-05-11]`.
+
+## Second-source attestation: @cgevent (11–12 мая)
+
+[[sources/2026-05-19-tg-cgevent-may08-19-2026|@cgevent]] независимо подтверждает сигнал (посты 15656/15661/15662, 11–12 мая):
+
+- У части пользователей приложения Gemini появилось приглашение **«Meet our new video model. Remix your videos, edit directly in chat, try a template, and more»** `[conf:medium, src:2026-05-11]`
+- На Reddit: качество следования промпту отличное, генерация звука «улучшена в разы» `[conf:low, src:2026-05-11]`
+- Контекстное окно **>12 млн токенов**, агентные рабочие процессы (модель сама выбирает формат/модель под задачу) `[conf:low, src:2026-05-11]`
+- Прямое сравнение с Seedance (пост 15662): на одном промпте в **математике и тексте Gemini Omni «явно получше»** (наследие Flash + Nanobanana), в остальном нужны расширенные тесты `[conf:medium, src:2026-05-12]`
+- **Сильно цензурирована** — Will Smith не пропускает (генерит только обобщённого «mature African-American man») `[conf:medium, src:2026-05-11]`
+- Google пересматривает систему лимитов токенов (вкладка usage limits) — новая модель «жрёт токены ещё интенсивнее»
+
+Это укрепляет confidence сигнала с одного второисточника (@ai_newz) до **двух независимых** — но оба остаются leak/insider-watch до официального анонса на I/O.
 
 ## Контекст — unified multimodal foundation
 

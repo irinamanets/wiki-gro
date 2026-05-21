@@ -9,8 +9,8 @@ tags: [ai, ru-market, vertical-ai, deeptech, industry-trends, consideration]
 confidence: low
 stale: false
 created: 2026-04-14
-updated: 2026-05-06  # +Сигнал 12: Novatorix (gov AI-консультант для МСП) через @moibiz 2026-05-05; +Сигналы 9–11: MWS GPT Model Hub, Sber GigaChain (Крестников), VK Видео Discovery (через @neuraldvig 2026-04-29..05-05)
-sources: [sources/2026-04-14-tg-boris-again-mar-apr-2026.md, sources/2026-04-14-tg-startupoftheday-mar-apr-2026.md, sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents.md, sources/2026-04-16-dzen-inc-rocket-control-industrial-ai-roi.md, sources/2026-05-05-tg-boris-again-mar-may-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-moibiz-apr-21-may-05.md]
+updated: 2026-05-19  # +Сигнал 13: Seely (MCP-обёртка над Яндекс.Метрикой/Вебмастером, marketing-tech вертикаль) через @boris_again 2026-05-14
+sources: [sources/2026-04-14-tg-boris-again-mar-apr-2026.md, sources/2026-04-14-tg-startupoftheday-mar-apr-2026.md, sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents.md, sources/2026-04-16-dzen-inc-rocket-control-industrial-ai-roi.md, sources/2026-05-05-tg-boris-again-mar-may-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-moibiz-apr-21-may-05.md, sources/2026-05-19-tg-boris-again-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -243,6 +243,18 @@ namespace: mkt
 
 Это **всё ещё не доказательство роста**, но это разрушает симметрию «сворачивается всё и сразу». Для content-hooks GRO ([[evolving/content-trends/ai-solopreneur-narrative-hooks]]) это полезно как **anti-pessimism proof-points** в постах про рынок — цитаты, которые перебивают общее настроение «в РФ с AI всё плохо». Сигнал 8 особенно пригоден, потому что цифры Рокет Контрол — первые публичные financial datapoints, а не только user-metrics или PR-сигналы.
 
+## Сигнал 13 — Seely: MCP-обёртка над маркетинговой аналитикой (marketing-tech вертикаль)
+
+По посту 3903 Цейтлина от 2026-05-14 ([[sources/2026-05-19-tg-boris-again-may-14-18-2026]]) `[src:2026-05-14]`:
+
+- **Продукт:** [seely.ru](https://seely.ru/) — **MCP-сервер к Яндекс.Метрике и Яндекс.Вебмастеру**. Запрос обычным языком («Почему упал трафик на прошлой неделе?», «Какие страницы в шаге от топа?») → ИИ достаёт реальные данные → конкретный ответ.
+- **Read-only by design:** «нельзя ничего изменить или удалить в яндексе». `[conf:medium, src:2026-05-14]`
+- **Покрытие:** инструменты Метрики (трафик, отказы, конверсии, аудитория, устройства, рефералы) + Вебмастера (индексация, запросы, битые ссылки, сайтмапы, диагностика).
+- **Roadmap:** MCP для Google Search Console + Google Analytics. `[conf:low, src:2026-05-14]`
+- **Источник:** reader-submission в «неделе пет-проектов» @boris_again, автор не верифицирован как эксперт.
+
+**Что это значит:** Seely — это **новый под-тип RU vertical-AI: MCP-обёртка над существующим marketing data source**. В отличие от aggregator-платформ (сигнал 9, MWS Model Hub — доступ к моделям) Seely не даёт модели, а **превращает маркетинговую аналитику в conversational-инструмент внутри чужого AI-клиента**. Это первый зафиксированный RU-пример «conversational marketing analytics» в этом inventory. Полный разбор маркетинговых импликаций — [[evolving/content-trends/conversational-marketing-analytics-mcp-2026]]. Для GRO — двойной сигнал: (а) marketing-tech категория в РФ живёт и инновирует на стыке LLM+MCP; (б) дистрибуционный паттерн «продукт-как-MCP-инструмент» (встраивание в чужие агенты) как альтернатива SaaS-дашборду.
+
 ## Объективные gaps
 
 - **Cross-source уже три, но всё ещё концентрирован.** После сигналов 7–8 источников стало три (Цейтлин + Горный + Inc. Russia), при этом из Inc. Russia пришли два сигнала одного редакционного направления. Это всё ещё не десять независимых отчётов, и два из трёх — neutral наблюдатели (Горный, Inc.), а не insider-эксперты. Для превращения в индустриальный тренд нужны специализированные отраслевые отчёты (IDC, Strategic Business Insights, CNews Analytics) с методологией.
@@ -271,6 +283,8 @@ namespace: mkt
 - [[volatile-strict/industry-news/ai-model-releases-mar-apr-2026]] — глобальный фон темпа релизов
 - [[evolving/competitor-positioning/novatorix-moibiz-ai-consultant-2026]] — детальный профиль Сигнала 12 (Novatorix)
 - [[sources/2026-05-05-tg-moibiz-apr-21-may-05]] — источник сигнала 12
+- [[evolving/content-trends/conversational-marketing-analytics-mcp-2026]] — детальный разбор Сигнала 13 (Seely, conversational marketing analytics)
+- [[sources/2026-05-19-tg-boris-again-may-14-18-2026]] — источник сигнала 13
 
 ## Backlinks
 

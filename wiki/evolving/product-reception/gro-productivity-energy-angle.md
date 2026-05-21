@@ -9,8 +9,8 @@ tags: [content, positioning, productivity, energy, focus, hooks, bruch-ghoshal, 
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-14  # +declarative-register hook от Алиева 618 (5-й регистр в content-mix: somatic + empirical + operational + identity + declarative)
-sources: [sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-10-groapp-landing.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-dzen-deloviy-mir-ceo-cognitive-endurance.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md]
+updated: 2026-05-19  # +category-tailwind register (6-й): сдвиг велнеса к мозгу (Фомичёв 2426 / cognitive-wellness-shift-2026)
+sources: [sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-10-groapp-landing.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-dzen-deloviy-mir-ceo-cognitive-endurance.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -259,8 +259,22 @@ Declarative-регистр — **самый низкозатратный для 
 - Cross-check с [[evolving/content-trends/owner-escape-operations-hooks]] — там Крылов даёт paired self-test «5 признаков сильного/слабого сотрудника», который может работать как downstream-тест для «кластера» читателя (если сотрудник слабый по 4 из 5 признаков — он скорее прокрастинатор или суетливый, вопрос энергии).
 - **Enrich 2026-04-15 (podcast 1493):** Крылов в подкасте формулирует engagement-тест: «Люди, которые работают в вашей команде — они хотят биться за ваш бизнес? Они готовы в 8 вечера пойти не домой, а в офис?». Это map'ится на кластер **Отключившиеся (20%)** по Bruch/Ghoshal: высокий фокус, низкая вовлечённость. Добавляет ещё один diagnostic hook для Arc 3 (см. выше): «Если честный ответ — "нет, моя команда не горит" — начните с себя. Вовлечённость заразительна, и она начинается с лидера, у которого есть собственный ритм.»
 
+## Дополнения 2026-05-19 (категорийный tailwind — сдвиг велнеса к мозгу)
+
+Внешний рыночный сигнал, усиливающий productivity/energy angle на уровне **категории**, а не отдельного hook'а. По наблюдению Кирилла Фомичёва ([[sources/2026-05-19-tg-fomichevkirill-may-14-19-2026]], пост 2426, нативка Neiry): велнес-фокус смещается от тела (пульс, сон, шаги, Garmin/Whoop) к **когнитивному состоянию** — вниманию, концентрации, перегрузке, когнитивному ресурсу. Полная страница тренда — [[evolving/industry-trends/cognitive-wellness-shift-2026]].
+
+Почему это важно для GRO-контента:
+- **Легитимизация рынка.** До сих пор productivity/energy angle GRO стоял на одном empirical-якоре (Bruch & Ghoshal). Сдвиг «трекинг тела → трекинг когниции» — это широкий потребительский тренд, в который GRO вписывается без необходимости каждый раз объяснять «зачем вообще работать с вниманием».
+- **Готовый месседж:** «в мире, где все борются за ваше внимание, умение управлять собственным состоянием = конкурентное преимущество» (формулировка Фомичёва). Это 6-й регистр в content-mix наряду с somatic/empirical/operational/identity/declarative — назовём его **category-tailwind register** (опираться на широкий тренд, а не только на личный опыт автора).
+- **Дифференциация vs hardware:** Neiry играет в железо (ЭЭГ-хедбенд). Если GRO — software/практика без девайса, это точка позиционирования «когнитивный ресурс без гаджета». Требует отдельной проработки.
+- **Связка с attention warfare:** тот же тренд с другой стороны — [[canon/positioning/attention-warfare-thesis]] (бренд защищает внимание потребителя) ↔ cognitive-wellness (человек защищает собственное внимание).
+
+`confidence: medium` — наблюдение practitioner-а в промо-контексте; не количественный benchmark, но устойчивый категорийный сигнал.
+
 ## Связанные страницы
 
+- [[evolving/industry-trends/cognitive-wellness-shift-2026]] — категорийный tailwind: сдвиг велнеса к мозгу
+- [[sources/2026-05-19-tg-fomichevkirill-may-14-19-2026]] — источник дополнения 2026-05-19 (Фомичёв 2426)
 - [[sources/2026-04-14-tg-howtomake10x-mar-apr-2026]] — первоисточник якоря (пересказ Крылова поста 1537)
 - [[canon/positioning/gro-value-proposition]] — value proposition, который эта страница операционализирует в content-strategy
 - [[canon/product-knowledge/gro-app-overview]] — механика продукта, к которой ведёт bridge

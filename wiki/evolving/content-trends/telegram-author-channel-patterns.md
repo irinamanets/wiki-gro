@@ -9,8 +9,8 @@ tags: [content, social, telegram, author-blogger, content-format, pr]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-15  # +joint multi-author giveaway + short-form history parable + southern-identity humanization hook (3513/3517/3519 из @hutzp 2026-05-06…13)
-sources: [sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-tg-sokolay-mar-apr-2026.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-14-tg-hutzp-may-2026-bundle.md]
+updated: 2026-05-19  # +compression-roundup при overflow'е (curator-week sub-mechanic) + curator-cross-promo+own-participation ивент-формат (3908/3910 из @boris_again 14-18 мая)
+sources: [sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-tg-sokolay-mar-apr-2026.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-14-tg-hutzp-may-2026-bundle.md, sources/2026-05-19-tg-boris-again-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -115,8 +115,10 @@ namespace: mkt
 - [[evolving/industry-trends/native-pr-russia-2026]] — макро-тренд, в который встраивается авторский формат
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]] — готовые hooks для авторского канала GRO
 - [[canon/product-knowledge/gro-team]] — founder'ы GRO как потенциальные авторы собственного канала
-- [[evolving/content-trends/indie-pet-project-pitch-patterns-tg-2026]] — анатомия 24 reader-submitted self-pitch'ей из @boris_again недели пет-проектов (sub-pattern 4)
+- [[evolving/content-trends/indie-pet-project-pitch-patterns-tg-2026]] — анатомия reader-submitted self-pitch'ей из @boris_again недели пет-проектов (sub-pattern 4)
 - [[sources/2026-05-14-tg-boris-again-may-2026]] — источник sub-pattern'а 4 «Weekly themed crowdsourced content»
+- [[sources/2026-05-19-tg-boris-again-may-14-18-2026]] — хвост недели: compression-roundup + curator-cross-promo под-механики
+- [[evolving/content-trends/conversational-marketing-analytics-mcp-2026]] — Seely (один из submission'ов хвоста недели) как marketing-tech signal
 
 ## Подкатегории author-blogger формата (добавлено 2026-04-14)
 
@@ -208,6 +210,25 @@ namespace: mkt
 **Risk:** **submission'ы должны быть relevant для аудитории**. Если GRO запустит curator-week «присылайте свои self-development артефакты» — есть риск получить 80% не-релевантных submission'ов. Нужен **строгий фильтр**, согласованный с GRO content-team до запуска.
 
 **Baseline для GRO:** **1 curator-week в квартал**, с четко определённой темой и заранее обещанной публикацией 80% от полученного, чтобы submission'ы понимали свои шансы.
+
+### Под-механика: compression-roundup при overflow'е (добавлено 2026-05-19)
+
+Из второго дампа @boris_again ([[sources/2026-05-19-tg-boris-again-may-14-18-2026]], хвост недели 14–18 мая) видно, что submission-поток **не иссякает к концу анонсированной недели** — Цейтлин публиковал ещё неделю. При overflow'е появляется **под-механика**: вместо «1 submission = 1 пост» куратор **сжимает N питчей в один roundup-пост**. В посте 3910 — открывающая мета-реплика «Мои подписчики слишком продуктивные и пет-проектов слишком много. Придётся сжимать в один пост» → 5 проектов в одном посте (Skiller, Palatine Speech/Spectra, Sublex, ai-dotfiles, AI-agents course), каждый — 1 абзац формата `[название](ссылка) от @автора: one-line + 2-3 буллета`.
+
+- **Когда применять:** submission-поток > дневной publication-capacity, и/или часть submission'ов вторична.
+- **Trade-off:** density растёт (читатель сканирует 5 проектов за один скролл), но **personal-pain origin story** (главный trust-элемент indie-pitch'а, см. [[evolving/content-trends/indie-pet-project-pitch-patterns-tg-2026]]) теряется.
+- **Anti-pattern:** не сжимать сильнейшие submission'ы — их оставлять полноразмерными; roundup годится для уже-валидированных или второстепенных.
+- **GRO-применение:** при overflow'е GRO-curator-week compression-roundup сохраняет publication-cadence без потери submission'ов.
+
+### Под-механика: curator-cross-promo + own-participation (ивент-анонс, добавлено 2026-05-19)
+
+Параллельно с curator-week (но применимо и вне её) Цейтлин в постах 3908/3909 **анонсирует чужой индустриальный ивент (Data Fest Белград)** и добавляет личную причастность: «Приезжайте в Белград. **Я буду выступать с докладом 31 мая!**». Это разновидность ивент-промо для author-канала:
+
+- Куратор амплифицирует **чужой** ивент (не свой продукт) — низкий коммерческий риск для репутации.
+- **Skin-in-the-game frame** («я сам выступаю») усиливает доверие к анонсу — это не платная интеграция, а personal endorsement.
+- Формат поста: промо-карточка организатора (3908, готовый визуал ивента) + короткий personal-follow-up (3909, один-два предложения от первого лица).
+
+**GRO-применение:** если founder GRO выступает/участвует в индустриальном ивенте — связка «репост официального промо + personal-причастность от первого лица» работает как low-risk humanization + authority-signal, не требуя ad-marking (не реклама за вознаграждение, а personal endorsement участника).
 
 ## Sub-pattern: Joint multi-author giveaway (@hutzp coalition, 2026-05-06…14)
 

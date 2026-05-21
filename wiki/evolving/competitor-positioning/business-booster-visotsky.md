@@ -9,8 +9,8 @@ tags: [competitor, business-education, telegram, personal-brand, mastermind, saa
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +third observational slice 2026-05-06..05-13: 1440 Camp recap reportage, mobile-app Platform launch, hiring-as-marketing reframe, team-AI-adoption product narrative, AI sales-audit prompt-asset
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md]
+updated: 2026-05-20  # +fourth observational slice 2026-05-14..05-19: возврат к ≈2 поста/день после camp-window; dashboard-фичи Platform; Davyd Yan/Newo.ai AI-employees podcast; carousel «3 убийцы бизнеса»; Sunday Scaries lead-magnet; чек-ап бизнеса offer
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -251,9 +251,55 @@ Frame-формула: «X — это не про инструменты, X — �
 
 **Сигнал к watch-point**: 4-й срез должен показать, (а) восстановился ли темп ≈2/день, (б) реализован ли team-AI-adoption announce 3785 в конкретный продукт/программу, (в) появилось ли продолжение mobile-app history (use-case-сторис, кейсы клиентов, integrations).
 
+## Update 2026-05-19 — четвёртый наблюдательный срез (5 дней, возврат к baseline)
+
+Дамп [[sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026|2026-05-14..05-19]] (13 постов 3792–3804) — узкое 5-дневное окно. **Темп вернулся к ≈2 поста/день** после camp-распухания третьего среза, что подтверждает гипотезу о временной искажённости окна 3 (Silicon Valley Camp 1440 был временным режимом, не структурным сдвигом). Conference-recap reportage исчез полностью. Канал вернулся к обычному content-mix.
+
+### 1. Davyd Yan / Newo.ai — AI-employees podcast (посты 3794, 3797)
+
+Реализация team-AI-adoption announce из третьего среза (пост 3785) в **конкретный контент**: подкаст с Давидом Яном (создатель ABBYY → founder Newo.ai). Нарратив сместился с «как внедрить AI в команде» (окно 3) на **«AI-сотрудники заменяют найм»**: «если думаете о найме менеджеров, администраторов или операторов — посмотрите сначала это видео. Возможно, решите, что нанимать никого не нужно». Метрики Newo.ai (35 000 агентов, ABBYY 50M юзеров) и экономика потерянных звонков (40% звонков теряется = до 30% выручки) — вынесены в отдельную страницу [[volatile-strict/industry-news/newo-ai-david-yan-2026-05]]. YouTube-thumbnail «СОТРУДНИК С AI ДЕГРАДИРУЕТ» (3797) — образец [[evolving/content-trends/youtube-thumbnail-face-trend|face-thumbnail-паттерна]].
+
+**Сигнал:** AI-tooling-контент канала эволюционирует от personal-assistant-кейсов (Claude Cowork, окно 2) к **vertical AI-agent advocacy** (voice-AI для звонков, окно 4). Это часть rotation позиционирования BOS → BOS+AI.
+
+### 2. Platform dashboard-фичи (пост 3792)
+
+Новая детализация Platform: instant-metric popup на оргструктуре + minimap-навигация, обёрнутые в фирменную «приборную панель»-метафору («5 часов → 5 минут»). Полный feature-update — в [[evolving-strict/competitor-metrics/business-booster-platform-features-2026]]. Это инкрементальное development, не новый блок — согласуется с release-cycle ~6-8 недель.
+
+### 3. Carousel «3 убийцы бизнеса» (посты 3801/3802/3803)
+
+Новый для канала **инфографик-карусельный формат**: текстовый якорь + 3 визуальные карточки (одна боль на карточку), единый визуальный стиль (жёлтый хайлайт + line-art диаграмма). Три named anti-patterns: «сам быстрее сделаю» (псевдо-делегирование), решения на ощущениях (кассовые разрывы), жажда диверсификации. Подробный разбор как reusable-формат — в [[evolving/content-trends/three-business-killers-carousel-visotsky]]. Это **обогащение content-mix**: визуальный диагностический формат добавлен к serious case-studies и promo-постам.
+
+### 4. Sunday Scaries lead-magnet (пост 3799)
+
+Новый lead-magnet-паттерн: named-syndrome (Sunday Scaries) + внешняя статистика (>80% по LinkedIn) + reframe причины (стёртые границы, не работа) + бесплатная инструкция «5 техник отказа». Reusable-разбор — в [[evolving/content-trends/sunday-scaries-lead-magnet-hook]]. Расширяет тематику канала на **work-life-boundaries** — relatable-тема, не требующая owner-контекста.
+
+### 5. Чек-ап бизнеса как mid-funnel offer (пост 3795)
+
+Новый видимый продукт воронки: **чек-ап бизнеса с экспертом Business Booster** (90 минут, разбор бизнес-процессов «по косточкам», поиск бутылочного горлышка, план действий). Два мини-кейса (Артём IT, Алексей производство в Польше с потерей 4000 € из-за размытых зон ответственности). Это **диагностический lead-product** между free-контентом и high-ticket мастермайндами.
+
+### 6. Author-collab podcast (пост 3793, лёгкий сигнал)
+
+Подкаст с Игорем Сивовым (канал Empower Your Mind) — продолжение паттерна founder-collab-подкастов (ранее Давид Ян, Ник Давыдов). YouTube-thumbnail «КАКОЙ БИЗНЕС ОТКРЫТЬ СЕЙЧАС?» (Sivov Podcast). Cross-promo-механика: взаимный обмен аудиторией через гостевые подкасты. В слой не выносится отдельной страницей — фиксируется как повторение known-паттерна.
+
+### Обновлённая таблица типов постов (четвёртый срез, 13 постов)
+
+| Тип | Окно 2 | Окно 3 | Окно 4 (3792–3804) | Тренд |
+|---|---|---|---|---|
+| Conference-recap reportage | 0% | 61% | 0% | вернулось к нулю (camp-window закрылось) |
+| Промо paid/free-продукта | 18% | 20% | 31% (3792 Platform, 3795 чек-ап, 3799 инструкция, 3801 МК) | ↑ |
+| AI-tooling / AI-agent content | 4% | 8% | 15% (3794, 3797 Newo.ai podcast) | ↑↑ |
+| Carousel/infographic | 0% | 0% | 23% (3801/3802/3803 серия) | НОВОЕ |
+| Management insight | 6% | 8% | 8% (3796 аудио Q&A) | стабильно |
+| Paradox/контр-хук | 6% | 3% | 8% (3799 Sunday Scaries, 3801 серия) | стабильно |
+| Personal family | 4% | 0% | 8% (3798 ребёнок) | стабильно |
+| Engagement-вопрос | 0% | 0% | 8% (3800) | НОВОЕ (приём вовлечения) |
+| Media-only / video без caption | 26% | 47% | 15% (3804 видео) | ↓ (возврат к норме) |
+
+**Качественный сдвиг (окно 4):** возврат к baseline-режиму после camp-распухания + **два новых content-формата** (инфографик-карусель, named-syndrome lead-magnet) + **усиление AI-agent advocacy** (от personal-assistant к vertical voice-AI). Промо-доля выросла (31%), но за счёт диагностических lead-продуктов (чек-ап, инструкция), а не агрессивного offline-FOMO. Watch-point на 5-й срез: (а) закрепится ли carousel как регулярный формат, (б) появятся ли клиентские кейсы внедрения AI-сотрудников (proof-points), (в) реализуется ли team-AI-продукт из announce 3785 в отдельную программу.
+
 ## Contradictions
 
-_Нет._ Второй срез не противоречит первому, только дополняет.
+_Нет._ Второй, третий и четвёртый срезы не противоречат первому, только дополняют.
 
 ## Backlinks
 
@@ -275,6 +321,9 @@ _30 pages link to this one._
 - [[evolving/content-trends/iq-hiring-criteria-hook]]
 - [[evolving/content-trends/owner-escape-operations-hooks]]
 - [[evolving/content-trends/plastic-ai-content-pushback-hook]]
+- [[evolving/content-trends/three-business-killers-carousel-visotsky]]
+- [[evolving/content-trends/sunday-scaries-lead-magnet-hook]]
+- [[volatile-strict/industry-news/newo-ai-david-yan-2026-05]]
 - [[evolving/content-trends/ru-sales-infobiz-content-patterns]]
 - [[evolving/content-trends/telegram-native-formats]]
 - [[evolving/content-trends/urgency-window-launch-playbook]]

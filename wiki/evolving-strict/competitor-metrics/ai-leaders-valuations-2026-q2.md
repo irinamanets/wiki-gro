@@ -9,8 +9,8 @@ tags: [openai, anthropic, cerebras, coinbase, nebius, eigen-ai, valuation, ai, p
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-06  # +Tesla/SpaceX/xAI Маск 800 млрд через A→A покупки (Рыбаков 4-й YouTube-выпуск ~февраль 2026); secondary attribution low-confidence
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2909934-openai-privlekla-finansirovanie-dlya-vnedreniya-i.md, sources/2026-05-05-vcru-invest-2909377-cerebras-planiruet-ipo-dlya-privlecheniya-inv.md, sources/2026-05-05-vcru-crypto-2910180-coinbase-uvolit-14-sotrudnikov.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-anthropic-openai-enterprise-jv.md, sources/2026-05-05-dzen-nebius-eigen-acquisition.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-06-yt-rybakov-rzd-epstein-india-oil.md]
+updated: 2026-05-08  # +Anthropic ARR $44B + margin 36%→70% (@bezsmuzi пост 15914); revenue-anchor к $380B primary (~8,6× ARR)
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2909934-openai-privlekla-finansirovanie-dlya-vnedreniya-i.md, sources/2026-05-05-vcru-invest-2909377-cerebras-planiruet-ipo-dlya-privlecheniya-inv.md, sources/2026-05-05-vcru-crypto-2910180-coinbase-uvolit-14-sotrudnikov.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-anthropic-openai-enterprise-jv.md, sources/2026-05-05-dzen-nebius-eigen-acquisition.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-06-yt-rybakov-rzd-epstein-india-oil.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
 namespace: mkt
 ---
 
@@ -134,6 +134,22 @@ namespace: mkt
 Это **третья категория валюация-механики**, кроме legitimate primary fundraising (OpenAI $122B) и secondary-market premium (Anthropic $1T Forge). Для контента — указывать **тип валюации** при цитировании сделок.
 
 **Caveat для GRO content:** не использовать как «вот плохие крупные парни», это conspiracy-tone. Использовать как **structural observation** про эпоху эмиссионных денег + capital абсорбции.
+
+## Update 2026-05-08 — Anthropic ARR + margin update (@bezsmuzi)
+
+Дамп [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] (Кульгин, пост 15914 + img + 15926) добавляет **ARR-измерение** к уже зафиксированным valuation-числам Anthropic. Источник Кульгина — officechai.com / semi-analysis report. `confidence: medium` (retold, но согласованная числовая серия).
+
+| Компания | Метрика | Значение | Дата | Source |
+|---|---|---|---|---|
+| Anthropic | ARR (серия 2025→2026) | $1B → $4,5B → $7B → $9B → $14B → $19B → $30B → **$44B** | май 2026 | `[conf:medium, src:2026-05-07]` |
+| Anthropic | Реальная маржа (без «фейковых убытков» от вводимых мощностей) | **36% → 70%** | 2025 → 2026 | `[conf:medium, src:2026-05-07]` |
+| Anthropic | IPO-оценка (retold) | **~$380 млрд** | 2026-05 | `[conf:medium, src:2026-05-07]` |
+
+**Интерпретации:**
+
+1. **ARR $44B даёт revenue-anchor к valuation $380B primary** → мультипликатор **~8,6× ARR**. Для сравнения с secondary $1T (Forge) — ~22,7× ARR. Это **квантифицирует** primary/secondary разрыв через выручку, а не только через оценку. `[conf:medium, src:2026-05-08]`
+2. **Маржа 36%→70%** — Кульгин трактует как «никакого пузыря ИИ, AI — сверхприбыльный бизнес». Caveat: «реальная маржа» в его формулировке = после исключения CapEx-related «фейковых убытков» — это **non-GAAP adjusted** взгляд, не аудированная цифра. `[conf:medium, src:2026-05-08]`
+3. **Контр-тезис того же автора:** «справедливая цена LLM ~⅓ от ценника Claude в токенах». То есть высокая маржа вендора сосуществует с ожиданием падения цены для покупателя — механика cost-collapse (см. [[evolving/industry-trends/ai-dev-cost-collapse-narrative-2026]]). `[conf:low, src:2026-05-08]`
 
 ## Связанные страницы
 

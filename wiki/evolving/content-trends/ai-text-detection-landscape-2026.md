@@ -9,8 +9,8 @@ tags: [content, ai, content-quality, detection, research]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +LZ.Media: platform-moderation как двухуровневая (auto-detectors + ручные редакторы) — субъективная и непрозрачная, false-positives на качественном авторском тексте + конкурентные жалобы как новый PR-вектор
-sources: [sources/2026-04-16-pressfeed-12-ai-text-markers.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md]
+updated: 2026-05-19  # +LZ.Media: platform-moderation как двухуровневая (auto-detectors + ручные редакторы) — субъективная и непрозрачная, false-positives на качественном авторском тексте + конкурентные жалобы как новый PR-вектор; +ZeroGPT (@bezsmuzi 2026-05-08) — SEO-мотив проверки
+sources: [sources/2026-04-16-pressfeed-12-ai-text-markers.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
 namespace: mkt
 ---
 
@@ -80,9 +80,20 @@ Binoculars (популярный open-source детектор):
 
 Это **усиливает** ценность [[canon/marketing-frameworks/ai-text-markers-checklist|чек-листа 12 маркеров]] как инструмента: чек-лист помогает писать AI-чистый текст, а LZ.Media-наблюдение показывает, почему это не достаточно — нужна ещё **процессуальная защита** от ложных обвинений.
 
+## Update 2026-05-08 — ZeroGPT в обиходе RU-практиков (@bezsmuzi)
+
+Дамп [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] (Кульгин, пост 15910 + img zerogpt.com) фиксирует **конкретный детектор в практическом обиходе RU-предпринимателей**: ZeroGPT (zerogpt.com), free-лимит 15 000 символов.
+
+- Кульгин: «говорят, что надо любой текст на сайте проверять через этот сервис, чтобы минимизировать риски пессимизации в выдаче поисковиков из-за ИИ-генерации». `[conf:low, src:2026-05-07]`
+- Тест автора: текст карточки товара помечен **«100% AI GPT*»** (верно — текст был написан ИИ).
+- Мотивация — **не качество контента, а SEO-риск**: страх пессимизации сайта поисковиками за AI-генерацию.
+
+**Что это добавляет к картине.** Это **третий мотив проверки на AI**, отдельный от двух уже зафиксированных (редакторская модерация платформ + конкурентные жалобы из LZ.Media): **SEO/ранжирование**. Владелец сайта проверяет собственный контент превентивно, опасаясь пессимизации. Это смещает use-case детекторов от «поймать чужой AI-текст» к «проверить свой перед публикацией». Caveat остаётся прежним (см. бенчмарки выше): single-detector verdict «100% AI» ненадёжен на cross-domain, и сам ZeroGPT — коммерческий инструмент с неизвестной методологией. Для GRO-контента: ZeroGPT — пример **народного инструмента**, не authority; рекомендовать связку «чек-лист маркеров + documented authorship trail», а не доверие к проценту детектора.
+
 ## Связанные страницы
 - [[sources/2026-04-16-pressfeed-12-ai-text-markers]] -- первоисточник
 - [[sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits]] -- LZ.Media: platform-moderation operational risks
+- [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] -- ZeroGPT в обиходе RU-практиков (SEO-мотив проверки)
 - [[canon/marketing-frameworks/ai-text-markers-checklist]] -- 12 устойчивых маркеров AI-текста
 - [[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]] -- делегационная карта LZ.Media (где не отдавать AI)
 - [[canon/marketing-frameworks/native-advertising]] -- нативная реклама, уязвимая к AI-маркерам

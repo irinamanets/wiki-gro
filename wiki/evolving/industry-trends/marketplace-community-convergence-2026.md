@@ -9,8 +9,8 @@ tags: [marketplace, community, b2c, b2b, ai, market-trends, decision]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md]
+updated: 2026-05-19  # +АтлантГПТ как RU-пример AI-augmented community-платформы
+sources: [sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md]
 namespace: mkt
 ---
 
@@ -50,6 +50,8 @@ Customer Acquisition Cost для marketplace вырос (paid ads → $50-100 н
 
 LLM позволяют **automatically segment** аудиторию marketplace и matching её с community-обсуждениями. Это снижает barrier «маркетплейс слишком безличный» и community «маркетплейс не учитывает мой контекст».
 
+**RU-пример: АтлантGPT.** Бизнес-клуб «Атланты» (Воронин) встроил в своё приложение ИИ-помощника **АтлантGPT** «для быстрого поиска нужных людей и решения запросов» (пост 991, 2026-05-15, см. [[sources/2026-05-19-tg-community-tech-voronin-april-recap-991]]). Это конкретное воплощение AI-amplification драйвера на community-стороне конвергенции: AI-слой матчит резидента с релевантными людьми в community-графе (аналог marketplace-matching, но для социального капитала, а не товаров). Профиль клуба — [[evolving/competitor-positioning/atlanty-business-club-positioning-2026]]; модель его метрик решённых запросов (215/мес) — [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]]. Сигнал: RU-community-продукты начинают встраивать AI-помощников как core feature, а не add-on.
+
 ### 3. Substack / Patreon как пример
 
 Substack и Patreon **доказали modeл** — community + paid (subscription) + product (newsletter / video) в одном UX. К 2026 — $1B+ ARR collectively `[conf:medium, src:2026-05-12]` (retell без точной первички).
@@ -70,6 +72,7 @@ Substack и Patreon **доказали modeл** — community + paid (subscripti
 | Etsy | Marketplace | Etsy Insider community, expert AMAs, social discovery |
 | Telegram channels (RU) | Community | Comments-as-marketplace, paid subscriptions, bot commerce |
 | Avito (RU) | Marketplace | Categories-as-community, expert content, Q&A features |
+| Бизнес-клуб «Атланты» (RU) | Community (membership) | Собственное приложение + **АтлантGPT** (AI-помощник для matching людей и решения запросов), календарь событий, библиотека знаний |
 
 ## Следствия для рынка
 
@@ -148,4 +151,7 @@ GRO **уже сам по себе** — community-driven product (cohort trainin
 - [[evolving/competitor-positioning/avito-smb-analytical-content-play]] — RU marketplace, идущий в community
 - [[evolving/content-trends/telegram-native-formats]] — Telegram как платформа convergence
 - [[canon/positioning/gro-value-proposition]] — позиционирование GRO с учётом тренда
+- [[evolving/competitor-positioning/atlanty-business-club-positioning-2026]] — RU-community с AI-augmentation (АтлантGPT)
+- [[evolving/industry-trends/ru-smb-mentor-community-market-2026]] — RU-категория paid peer-community, где идёт конвергенция
 - [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] — источник
+- [[sources/2026-05-19-tg-community-tech-voronin-april-recap-991]] — источник (АтлантGPT)

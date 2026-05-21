@@ -9,8 +9,8 @@ tags: [competitor, business-booster, saas, platform, features, telegram-bot, das
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md]
+updated: 2026-05-20  # +четвёртый срез (пост 3792): org-chart instant-metric popup + minimap-навигация; dashboard-метафора «5 часов → 5 минут»
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -77,6 +77,17 @@ Business Booster Platform — **all-in-one SaaS для систематизац�
 **Соотношение с блоком 4 «Полный контроль 24/7»**: блок 4 формулирует mobile-first как **доступ владельца к управлению со смартфона**. Блок 5 расширяет mobile-first на **сторону исполнителей** — это **смена аудитории фичи** (владельцы → field-сотрудники), а не technical-feature. Это типичный для SaaS expansion-vector «move down the org-chart».
 
 **Сигнал для feature-set эволюции**: первое существенное расширение функциональности после 6-недельной stability фазы первого + второго срезов. Это **single-snapshot signal** — нужно подтверждение в 4-м срезе, что mobile-app не remains просто пилотным анонсом, а в действительно работает с клиентами `[conf:low, src:2026-05-07]`.
+
+## Org-chart UX-фичи — четвёртый срез (пост 3792, 2026-05-14)
+
+Четвёртый срез [[sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026|@alexander_visotsky 2026-05-14..05-19]] добавляет **две UX-фичи поверх оргструктуры** (пост 3792, 2026-05-14). Это не новый функциональный блок, а **детализация блока 1 «Оцифровка процессов»** — конкретизация того, как владелец взаимодействует с дашбордами на оргструктуре. Высоцкий описывает их как «две простые, но мощные фичи на оргструктуру, которые экономят время»:
+
+- **Instant-metric popup**: клик по любому сотруднику прямо на оргструктуре открывает всплывающее окно с **графиками его метрик** — без проваливания в CRM или таблицы `[conf:medium, src:2026-05-14]`. Это сокращает путь «увидеть метрику конкретного человека» до одного клика.
+- **Minimap-навигация**: миникарта для моментального перемещения по оргструктуре — «посмотреть на всю компанию с высоты птичьего полёта и мгновенно приблизить любой участок» `[conf:medium, src:2026-05-14]`.
+
+**Dashboard-метафора (приборная панель).** Пост обрамляет фичи фирменной метафорой: владелец, управляющий «на чуйке» = пилот без приборов. Заявленный outcome — «не 5 часов на совещания и чтение чатов, а **5 минут на анализ ключевых цифр**» `[conf:low, src:2026-05-14]` (self-reported экономия времени, не measured). CTA — тот же 7-дневный демо-доступ. Контент-разбор метафоры — в [[evolving/content-trends/owner-escape-operations-hooks]].
+
+**Классификация:** инкрементальное development внутри существующего блока, согласуется с гипотезой «stable platform с release-cycle ~6-8 недель». Не меняет общую структуру feature-set из 5 блоков.
 
 ## Distribution-механика
 

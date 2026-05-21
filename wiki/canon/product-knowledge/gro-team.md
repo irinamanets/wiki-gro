@@ -9,8 +9,8 @@ tags: [product, team, founders, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-14-tg-startupoftheday-mar-apr-2026.md, sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026.md]
-updated: 2026-05-14
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-14-tg-startupoftheday-mar-apr-2026.md, sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md]
+updated: 2026-05-20
 namespace: mkt
 ---
 
@@ -131,3 +131,4 @@ namespace: mkt
 - [[canon/marketing-frameworks/egoshin-education-formula-2026]] — формула образования + ИИ-усилитель (Егошин на подкасте «Поколение ИИ»)
 - [[evolving/content-trends/eklapshinaofficial-channel-patterns]] — форматы и рубрики канала Лапшиной
 - [[sources/2026-05-12-tg-eklapshinaofficial]] — дамп канала Лапшиной (822 поста)
+- [[canon/marketing-frameworks/ai-not-marketing-system-shkipin]] — Виктор Шкипин как partnership-эксперт GRO («фирменный тренажёр от Виктора», контент-коллаборация)

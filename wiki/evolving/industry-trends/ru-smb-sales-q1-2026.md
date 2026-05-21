@@ -9,8 +9,8 @@ tags: [smb, sales, russia, q1-2026, weak-demand, telegram]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-06  # +Spiridonov #4 (Хаузел «доход − эго», 8:39 YouTube): 9-й голос с psychological dimension cooling cycle — закрывает gap про personal-finance founder'ов, mirroring Tholai 3 правила на personal-уровень
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-05-05-tg-moibiz-apr-21-may-05.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-ofd24-apr-3-may-5-2026.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-06-yt-rybakov-vvp-trump-oil.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md]
+updated: 2026-05-08  # +10-й голос Кульгин (@bezsmuzi): organic SMB-owner voice через неплатежи/суды + Google Trends банкротство 54
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-05-05-tg-moibiz-apr-21-may-05.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-ofd24-apr-3-may-5-2026.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-06-yt-rybakov-vvp-trump-oil.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
 namespace: mkt
 ---
 
@@ -398,6 +398,25 @@ vcnews 61169 (2026-05-02 16:08 UTC) `[conf:medium, src:2026-05-02]`: «**Рос�
 
 **Маркетинговое следствие для GRO:** narrative-fit Q2 контента сдвигается с «держись» на «вот что делать сейчас». Hook'и типа «Что главное надо исправить во 2-м квартале?» или «"После майских" — это не план» работают точно по таймингу — см. дополнения в [[evolving/content-trends/sales-ai-narrative-hooks-2026]].
 
+## Addendum 2026-05-08 — десятый голос: Кульгин (@bezsmuzi) — organic SMB-owner voice через неплатежи и суды
+
+`[conf:medium, src:2026-05-07]` — дамп [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] (Максим Кульгин, IT-предприниматель, посты 15901/15903/15912/15916) добавляет в кластер Q1-2026 cooling **десятый независимый голос** — но уникален тем, что это **не консультант и не аналитик, а owner операционного бизнеса**, описывающий кризис изнутри своих процессов.
+
+### Сигналы из канала Кульгина
+
+- **Рост поисковых запросов «банкротство»** (img 15901, Google Trends RU, последние 5 лет): «банкротство» = 54 (восходящий тренд с 2024), «ликвидация» = 45 (плоский). Кульгин: «no comments. Цифры не врут. Уровень банкротств растёт». `[conf:low, src:2026-05-07]`
+- **«4 якоря» кризиса оборудования** (пост 15903, цитата владельца бизнеса 15 лет): заморозка обновления станочного парка до нуля, неплатежи по отгруженному с отсрочкой, рост налоговых платежей, демпинг выживающих участников. `[conf:medium, src:2026-05-07]`
+- **Неплатежи как главная боль + суды нон-стоп.** Кульгин (15903): «Самые большие проблемы в неплатежах. У нас суды нон-стоп за сделанные, но не оплаченные работы». Конкретный кейс (15912): иск на 104 613 ₽ за неоплаченные работы удовлетворён полностью, «дальше приставы, и допускаю, что у ответчика просто нет денег». `[conf:medium, src:2026-05-07]`
+- **Эйджизм на жёстком рынке труда** (15916, письмо читателя): DevOps 51 год, к.т.н., 4 мес без работы при 0,11 резюме на вакансию — структурный сигнал того, как cooling рынка обостряет дискриминацию по возрасту даже при низкой конкуренции резюме. `[conf:low, src:2026-05-07]`
+
+### Чем уникален Кульгин как 10-й voice
+
+В отличие от 9 предыдущих голосов (sales-консультанты, mentor-ecosystem, large-scale ритейл, fiscal data, gov, corporate-РСПП, industriaalist, psychology), Кульгин — **micro-owner-perspective**: показывает, как кризис спроса **транслируется в неплатежи** по цепочке (клиент не платит → его поставщик судится → деньги всё равно не получить → клиент потерян). Это **mechanism на уровне отдельной сделки**, complementary к макро-«сжимающей спирали» Рыбакова (8-й голос). Кульгин не теоретизирует — он сам ответчик/истец в этих процессах, что даёт высокую достоверность для founder-аудитории.
+
+**Confidence на самой рамке Q1-кризиса:** остаётся `high` (как было после 9 голосов). Кульгин добавляет **transaction-level mechanism** (неплатежи → суды → потеря клиента) + независимое подтверждение через Google Trends. Confidence на конкретных claim'ах автора — `low`/`medium` (retold через личный канал).
+
+**Что это значит для маркетинга ГРО:** для founder-сегмента появляется ещё один **relatable proof-point** — «суды нон-стоп за неоплаченные работы» резонирует с owner'ами, у которых дебиторка зависла. Hook: «Кризис спроса — это не "клиентов нет". Это "клиенты есть, но не платят, и судиться бесполезно — у них тоже нет денег"». Кросс-ref на банк хуков [[evolving/content-trends/bezsmuzi-smb-owner-content-hooks]].
+
 ## Что это значит для маркетинга ГРО
 
 - **Сдвиг месседжа**: в Q1 2026 продуктивность-нарратив «делай больше» менее актуален, чем survival-нарратив «держись и не ломайся». GRO как ИИ-помощник может позиционироваться не как «рост», а как «личная устойчивость в трудное время».
@@ -444,6 +463,8 @@ vcnews 61169 (2026-05-02 16:08 UTC) `[conf:medium, src:2026-05-02]`: «**Рос�
 - [[evolving-strict/market-data/ru-vvp-investment-cooling-2026]] — макро-каркас: ВВП-прогноз 0,8% + сжимающая спираль (от Рыбакова)
 - [[volatile-strict/industry-news/ru-rostix-bankruptcy-jan-2026]] — Ростик-с операционная фиксация Q1 2026 cooling
 - [[evolving-strict/market-data/ru-self-employed-2025]] — параллельный structural-shift сигнал: рост соло-формата работы +26.8% в 2025
+- [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] — 10-й голос (Кульгин: неплатежи, суды, Google Trends банкротство)
+- [[evolving/content-trends/bezsmuzi-smb-owner-content-hooks]] — банк хуков SMB-owner Кульгина
 
 ## Backlinks
 

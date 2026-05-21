@@ -9,8 +9,8 @@ tags: [anthropic, claude-design, claude-opus, figma, design, ai, visual-design, 
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-solokumi-redump-dec25-apr26.md]
+updated: 2026-05-19  # +cgevent дамп 8-19 мая: новый use-case — генерация игрового UI-прототипа (скриншот → кликабельный HTML), связка GPT Image 2 → Claude Design; третий продукт на Claude Opus 4.7 (после Claude Code и Higgsfield Super Computer)
+sources: [sources/2026-05-05-tg-solokumi-redump-dec25-apr26.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md]
 namespace: mkt
 ---
 
@@ -79,9 +79,21 @@ namespace: mkt
 
 Гид для не-дизайнеров: [creatoreconomy.so/p/claude-design-everything-you-can-build](https://creatoreconomy.so/p/claude-design-everything-you-can-build). Tips&tricks от ранних пользователей: [youtube.com/watch?v=IoGffRVc41g](https://www.youtube.com/watch?v=IoGffRVc41g).
 
+## Новый use-case: игровой UI-прототип из скриншота (май 2026)
+
+Подтверждающее наблюдение от @VAI_ART ([[sources/2026-05-19-tg-cgevent-may08-19-2026|@cgevent]] пост 15699, 19 мая): связка **GPT Image 2 → Claude Design** для **игрового прототипа**:
+
+1. Сгенерировать референс-интерфейс в GPT Image 2
+2. Закинуть скриншот в Claude Design → за пару итераций получить **кликабельный HTML-прототип игрового UI** (промпт для этого писал тот же Claude)
+3. Промпт-шаблон: «attach UI screenshot → build a fully functional interactive HTML prototype: воссоздать все экраны, навигацию/переходы, single self-contained HTML с embedded CSS/JS, smooth-переходы, preserve визуальный стиль»
+
+**Тезис автора:** «10 минут назад была идея — вы уже делаете прототип»; «средний по сложности интерфейс раньше — ~месяц, теперь сильно короче двумя инструментами» `[conf:medium, src:2026-05-19]`. Иконки можно вытащить из референса, перевести в вектор через ИИ и использовать. Экспорт в ZIP/PDF/HTML, Send to Canva/Figma (для Figma — обходные пути).
+
+**Значение:** расширяет применимость Claude Design за пределы маркетинговых артефактов (слайды/лендинги) в **product-prototyping** (игровые/приложенческие UI). Подтверждает killer-связку «скриншот-референс → working prototype» — теперь не только wireframe → high-fidelity, но и **image-reference → interactive HTML**.
+
 ## Сигнал для рынка
 
-Это не просто новый продукт — это **позиционная заявка Anthropic** на то, что они хотят занимать не категорию «ассистента-разработчика», а **категорию «универсального AI-инструмента продуктового цикла»** (от research через design до code). Похожий сдвиг делает OpenAI с ChatGPT for Work и DeployCo (см. [[sources/2026-04-16-vc-openai-competition-memo-apr2026|внутреннюю записку CRO OpenAI]]).
+Это не просто новый продукт — это **позиционная заявка Anthropic** на то, что они хотят занимать не категорию «ассистента-разработчика», а **категорию «универсального AI-инструмента продуктового цикла»** (от research через design до code). Дополнительный сигнал из мая 2026: **Claude Opus 4.7 становится default-движком и в чужих agentic-продуктах** — Higgsfield Super Computer ([[volatile-strict/competitor-news/higgsfield-super-computer-agent-2026-05]]) использует Opus 4.7 под капотом, то есть Anthropic монетизируется не только как продукт, но и как инфраструктурный слой. Похожий сдвиг делает OpenAI с ChatGPT for Work и DeployCo (см. [[sources/2026-04-16-vc-openai-competition-memo-apr2026|внутреннюю записку CRO OpenAI]]).
 
 В терминах этой wiki: это часть [[volatile-strict/industry-news/ai-coding-tools-consolidation-2026q1|более широкой консолидации AI-tooling]] вокруг 2-3 платформ (Anthropic, OpenAI, Google), где каждая пытается покрыть весь user journey.
 
@@ -107,6 +119,8 @@ namespace: mkt
 - [[evolving/content-trends/sales-ops-ai-tooling-stack-2026]] — Gamma как ближайший конкурент в presentations slot
 - [[canon/marketing-frameworks/landing-15min-figma-cursor]] — конкурирующий pipeline (Figma + Cursor + Claude Code) — Claude Design делает то же одним инструментом
 - [[evolving/industry-trends/ai-native-marketer-skillset-2026]] — навык работы с visual-AI как часть профиля 2026
+- [[volatile-strict/competitor-news/higgsfield-super-computer-agent-2026-05]] — параллельный продукт на Claude Opus 4.7 (агент для генерации всего)
+- [[sources/2026-05-19-tg-cgevent-may08-19-2026]] — источник use-case игрового прототипа (пост 15699)
 
 ## Backlinks
 

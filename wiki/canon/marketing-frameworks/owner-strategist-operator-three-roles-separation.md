@@ -92,6 +92,7 @@ GRO работает с founder'ами, которые **застряли в с�
 - [[canon/marketing-frameworks/owner-escape-operations-hooks]] — content-hooks для founder-аудитории; Спиридонов-фрейм — основная структурная рамка под эти hooks
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — Спиридонов как content-channel применения фрейма
 - [[canon/marketing-frameworks/business-metrics-for-owners]] — связанный фрейм метрик, которые смотрит каждая роль
+- [[canon/marketing-frameworks/grebenyuk-scale-via-people-listening]] — **операциональный близнец**: Гребенюк даёт поведенческую технику для того же диагноза («собственнику надо заткнуться») — на совещании молчать, слушать и задавать вопросы, чтобы команда сама давала завершённые ответы. Спиридонов объясняет *почему* (роли ≠), Гребенюк показывает *как* (стиль ведения планёрки)
 
 ## Anti-pattern — частые ошибки
 

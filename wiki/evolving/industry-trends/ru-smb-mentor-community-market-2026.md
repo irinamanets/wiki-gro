@@ -9,8 +9,8 @@ tags: [industry-trend, smb, russia, mentor-community, paid-community, competitor
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +Стрельников (XLevel + Бизнес-Баня 450+) as 5th HNWI-tier player from @fomichevkirill 2414
-sources: [sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md]
+updated: 2026-05-19  # +«Атланты» cohort 1231 + АтлантGPT; +Аномалия консолидирует 3 бренда в движение «НАДО» с pyramidal cascade-mentoring (структурный сдвиг top-anchor'а)
+sources: [sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md, sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md, sources/2026-05-19-tg-grebenukm-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -34,11 +34,13 @@ namespace: mkt
 
 ### Прямые peer-community (full-stack)
 
-**Аномалия (Михаил Гребенюк)** — см. [[evolving/competitor-positioning/grebenyuk-anomaly-community]].
-- Ценник: 5 000 ₽/мес базовая подписка + pay-per-challenge (оргвзносы за тематические программы) + «десятки» как платные pod'ы
-- Target: SMB РФ, 1–10 человек, регионы в особенности
-- Model: единый community-вход + pay-per-extension; urgency-driven launch windows
-- Signature value: offline-выезды к топ-предпринимателям РФ (Аскона, Доброград, клиника Седова, фабрика Мария, Додо Пицца regional)
+**Аномалия → движение «НАДО» (Михаил Гребенюк)** — см. [[evolving/competitor-positioning/grebenyuk-anomaly-community]].
+- **Структурный сдвиг (2026-05-16, пост 7481):** Гребенюк объединил 3 проекта (Прорыв + Клуб + Аномалия) в **единое движение «НАДО» с 3-tier pyramidal-структурой по доходу**: Экспонента (10M+/мес, 30 человек) → Прорыв (1M+/мес, цель 700+) → Аномалия (стартовая площадка до 1M+/мес) `[conf:high, src:2026-05-16]`. Это переход **от horizontal product-ladder к vertical membership-pyramid**.
+- **Cascade-mentoring модель (новое в категории):** каждый участник верхнего tier'а обязан вести группу 25 человек как наставник — **distributed peer-mentoring снимает founder-bottleneck**, главное структурное ограничение всей категории (founder-as-product). Первый игрок категории, явно operationalising mentoring-каскад как обязательство, а не побочный effect `[conf:medium, src:2026-05-16]`.
+- Ценник: исходно 5 000 ₽/мес (нижний tier); цены верхних tier'ов не раскрыты, но доход-gated вход (10M+/мес для Экспоненты) предполагает high-ticket
+- Target: SMB РФ всех стадий, теперь явно сегментированы по доходу с восходящей mobility; регионы в особенности
+- Model: 3-tier pyramidal-движение с membership-идентичностью («анти-посредственность») + cascade-mentoring + pay-per-event; urgency-driven launch windows
+- Signature value: offline-выезды к топ-предпринимателям РФ (Аскона, Доброград, клиника Седова, фабрика Мария, Додо Пицца regional) + слёты («логово»)
 
 **Business Booster / x100 Strategy (Александр Высоцкий)** — см. [[evolving/competitor-positioning/business-booster-visotsky]].
 - Ценник: не раскрыт, но каскад SKU от free контента до high-ticket offline-сессий (Стратегическая перезагрузка в Варшаве/Анталии/Майами)
@@ -57,11 +59,13 @@ namespace: mkt
 - Stage: **emerging player**, продуктовая зрелость ниже двух top-tier; в 2026-Q2 активно тестирует formats (публичные разборы бизнеса в эфире, созвоны с tier-1 спикерами типа Сметнёва/Skyeng/Хирковского)
 - Cross-link к [[canon/marketing-frameworks/krylov-7-mentor-meetings|7 менторских встреч]], [[canon/marketing-frameworks/krylov-reference-call-question|reference-call вопрос]], [[canon/marketing-frameworks/krylov-sales-imitator-3-markers|3 маркера sales-имитатора]], [[canon/marketing-frameworks/krylov-morning-phone-protocol|morning phone protocol]], [[canon/marketing-frameworks/parallel-consulting-monetization-model|parallel consulting model]] — Крылов формирует canon-уровневые frameworks как content-magnet для acquisition в community.
 
-**«Атланты» (Михаил Воронин)** — упоминается через [[sources/2026-05-05-tg-howtomake10x-mar-may-2026|@howtomake10x пост 1561]].
-- Krylov характеризует «Атланты» как **самый крупный бизнес-клуб в стране** `[conf:medium, src:2026-05-04]`. Это **publicly-known** community, существующий с конца 2010-х.
+**«Атланты» (Михаил Воронин)** — теперь с собственным competitor-профилем [[evolving/competitor-positioning/atlanty-business-club-positioning-2026]] и numeric-метриками [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]]. Изначально упоминался через [[sources/2026-05-05-tg-howtomake10x-mar-may-2026|@howtomake10x пост 1561]].
+- Krylov характеризует «Атланты» как **самый крупный бизнес-клуб в стране** `[conf:medium, src:2026-05-04]`. Это **publicly-known** community, существующий с конца 2010-х (~9 лет к маю 2026).
+- **Cohort-size signal (новый, self-reported):** ~**1231 предприниматель в сообществе** + **16 новых резидентов/мес** (апрель 2026, инфографика поста 991) `[conf:medium, src:2026-05-15]`. Это **third cohort-size data point** в категории и order-of-magnitude больше emerging-игроков (Команда А ~200+, Бизнес-Баня ~450+) — подтверждает «mature anchor»-статус числом. Полные метрики и event-throughput (90/мес) — в [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]].
 - Ценник: не раскрыт в этом срезе, но публично — annual high-ticket membership
 - Target: established business-owners с выручкой от 100M ₽
-- Model: fee-based community + offline events + business-club networking
+- Model: fee-based community + offline events + business-club networking; **проводит ~90 мероприятий/мес** `[conf:medium, src:2026-05-15]` — высочайший event-throughput в категории.
+- **Product-augmentation (новое):** клуб встроил в приложение ИИ-помощника **АтлантGPT** для matching людей и решения запросов (пост 991, 2026-05-15) — первый в категории с AI-augmented community-платформой; связь с трендом [[evolving/industry-trends/marketplace-community-convergence-2026]].
 - Differentiator: **club-первый** позиционирование — value не в наставничестве founder'а (Воронин не разбирает индивидуально каждого), а в **доступе к peer-cohort'у уровня founder'ов крупных бизнесов**.
 - Stage: **mature anchor** на RU-SMB-community рынке; Voronin цитируется другими founder'ами (Krylov post 1561) как peer-anchor of category.
 
@@ -76,9 +80,9 @@ namespace: mkt
 - Cross-link к [[canon/marketing-frameworks/voronin-preventive-social-capital|preventive social capital framework]] — оба founder'а (Воронин и Стрельников) operationalise networking как пре-emptive practice, но на разных tier'ах капитала.
 
 В 2026-Q2 категория эволюционирует от dual-anchor (Гребенюк + Высоцкий) к **multi-player landscape** с минимум 5 значимыми full-stack игроками. Это сигнал зрелости рынка, а не его насыщения — каждый игрок сегментирует свою audience иначе:
-- **Гребенюк** — массовый low/mid-ticket (5K ₽/мес), регионы РФ, micro-SMB
+- **Гребенюк (движение «НАДО»)** — теперь full-spectrum 3-tier pyramid: micro-SMB (Аномалия 5K ₽/мес, регионы) → 1M+/мес (Прорыв) → 10M+/мес (Экспонента); единственный в категории с обязательным cascade-mentoring (см. [[evolving/competitor-positioning/grebenyuk-anomaly-community]])
 - **Высоцкий** — international RU-диаспора, mid/high-ticket, mid-SMB owner'ы
-- **Воронин** — established Russia-resident high-tier mature business owners (clubhouse)
+- **Воронин («Атланты»)** — established Russia-resident high-tier mature business owners (clubhouse), ~1231 резидент, 90 событий/мес, AI-augmented приложение (АтлантGPT) — см. [[evolving/competitor-positioning/atlanty-business-club-positioning-2026]]
 - **Крылов** — emerging tier, ex-CEO bias, hybrid B2B-corp-обучение + B2C-community
 - **Стрельников (XLevel)** — emerging HNWI/UHNWI-tier с transactional bias (M&A, structured deals, IT-стартап-доли); adjacent физ-сообщество «Бизнес-Баня Екатеринбург» 450+ резидентов
 
@@ -175,6 +179,8 @@ GRO (собственный продукт) — **не competitor** в этой 
 
 - [[evolving/competitor-positioning/grebenyuk-anomaly-community]] — основной anchor 1
 - [[evolving/competitor-positioning/business-booster-visotsky]] — основной anchor 2
+- [[evolving/competitor-positioning/atlanty-business-club-positioning-2026]] — mature anchor «Атланты» (Воронин)
+- [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]] — numeric-метрики «Атланты»
 - [[canon/marketing-frameworks/krylov-7-mentor-meetings]] — DIY-альтернатива paid community
 - [[canon/marketing-frameworks/krylov-reference-call-question]] — другой Krylov framework
 - [[evolving/content-trends/owner-escape-operations-hooks]] — content для category awareness

@@ -9,9 +9,10 @@ tags: [industry-trends, pr, paid-ads, local-media, regional-smi, telegram-ads, v
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-19  # +второй practitioner-голос (Фомичёв 2430) на тезис «перегрев paid → органика/личный бренд»
 sources:
   - sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md
+  - sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md
 namespace: mkt
 ---
 
@@ -96,5 +97,5 @@ namespace: mkt
 ## Атрибуция и confidence
 
 - **Базовый источник:** один practitioner-голос (Ковпак, Pressfeed-publication). Тренд подкреплён, но не доказан независимыми числовыми замерами.
-- **Triangulation:** косвенно подтверждается [[evolving/industry-trends/native-pr-russia-2026]] (55% брендов считают TG перегретым) и [[canon/marketing-frameworks/petrochenkov-2026-q2-channel-priority]] (search for alternative channels).
-- **Уровень trend:** ранний; нужны второй и третий голоса (Pressfeed-аналитика, отдельная отраслевая статья) для подтверждения как mainstream-сдвига.
+- **Triangulation:** косвенно подтверждается [[evolving/industry-trends/native-pr-russia-2026]] (55% брендов считают TG перегретым), [[canon/marketing-frameworks/petrochenkov-2026-q2-channel-priority]] (search for alternative channels) и **независимым practitioner-голосом** Кирилла Фомичёва ([[sources/2026-05-19-tg-fomichevkirill-may-14-19-2026]], 2430): «некоторые площадки закрылись, остальные перегреты; реклама либо не работает, либо не окупается» → выход в личный бренд основателя как органический канал (см. [[evolving-strict/market-data/publishing-founder-growth-premium-2026]]). Это второй голос того же тезиса с другого ракурса (Ковпак → локальные медиа; Фомичёв → личный бренд).
+- **Уровень trend:** ранний-средний; голос Фомичёва добавляет второй практический источник к тезису «перегрев paid», хотя оба — qualitative, без независимых числовых замеров.

@@ -9,8 +9,8 @@ tags: [brand-guidelines, tone-of-voice, founder, content, telegram, author-chann
 confidence: high
 stale: false
 created: 2026-05-12
-updated: 2026-05-14
-sources: [sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md]
+updated: 2026-05-20
+sources: [sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md]
 namespace: mkt
 ---
 
@@ -183,6 +183,32 @@ namespace: mkt
 | Уязвимость / гипотезы | Да («грешным делом подумала...») | — |
 | Tag system | Не используется в обоих постах напрямую | Сигнал: hashtag-free длинные эссе — отдельный формат, не редкая аномалия |
 
+## Incremental delta 2026-05-20 (посты #903, #904, #906, #907)
+
+Ещё 4 поста за 15-19 мая 2026 ([[sources/2026-05-19-tg-eklapshinaofficial-903-907]]). Подтверждают базовые маркеры и добавляют 2 уточнения.
+
+### Подтверждение: lifestyle/grounding-регистр существует параллельно с бизнес-экспертизой
+
+Пост #903 «Пятничное Заземление» — личный пост о «местах силы», заземлении, «настройке камертона души». Тёплый эмоциональный регистр без бизнес-связки, сопровождён [декоративным фото](https://t.me/eklapshinaofficial/903) средиземноморского сада. Это уточняет TOV-картину: founder сознательно держит **lifestyle/эстетический пласт** рядом с бизнес-аналитикой — не отдельный личный канал, а часть founder-author позиционирования (человек, а не только эксперт). Для GRO brand voice **не переносится** (продуктовый бренд не ведёт «дневник»), но объясняет, почему аудитория воспринимает Лапшину как живого автора, а не как контент-машину.
+
+### Уточнение: разбор-видео допускает яркий хук, текстовый пост — нет
+
+Пост #904 (Duolingo) сопровождён **провокационно-кликбейтной YouTube-обложкой** «ЗЕЛЕНАЯ СОВА ПРИДЕТ ЗА ТОБОЙ» (threat-framing + деньги-как-визуал, см. [[evolving/content-trends/duolingo-gamification-monetization-breakdown]]). Это **не противоречит** базовому «ценность > виральность»: яркий хук живёт на **визуальном слое видео-обёртки**, а текст поста остаётся аналитическим (3 структурных инсайта). Уточнение для GRO content-team: допустимый регистр визуальных хуков для образовательного **видео** шире, чем для текстового поста.
+
+### Подтверждение: «личная история / диалог → деловой тезис» + анти-AI-overpromise
+
+- Пост #906 (личная стратегия) — каноничный «personal disclaimer → operational framework» (см. [[canon/marketing-frameworks/lapshina-personal-strategy-two-paths]]): «лично я больше ходила первым [путём]» → рамка из двух путей.
+- Пост #907 (AI в маркетинге) — **диалоговый формат** (founder + приглашённый эксперт Шкипин), новый под-приём: тезис раскрывается через цитаты собеседника, а не монолог. Содержательно — продолжение анти-инфобизнес/анти-overpromise линии: «систему роста не делегируют ящику с инструментами» (см. [[canon/marketing-frameworks/ai-not-marketing-system-shkipin]]). Здесь же присутствует **soft product-CTA** (GRO-тренажёры + курс партнёра) — мягче, чем инфо-бизнес, но это первый явный продуктовый призыв в наблюдаемом срезе.
+
+### Обновление operational TOV-checklist
+
+| Маркер | Этот срез | Уточнение |
+|---|---|---|
+| Польза > виральность | Подтверждён в тексте | Визуальный хук видео — исключение, не нарушение |
+| Личная история → деловой тезис | Да (#906) | + диалоговый под-формат (#907): цитаты эксперта вместо монолога |
+| Lifestyle/эстетический пласт | Да (#903) | Новый: founder держит человеческий регистр рядом с экспертным |
+| Soft product-CTA | Да (#907) | Первый явный, но мягкий продуктовый призыв (GRO-тренажёры + партнёрский курс) |
+
 ## Связанные страницы
 
 - [[canon/brand-guidelines/gro-typography]] — визуальный слой brand-guidelines GRO
@@ -194,4 +220,8 @@ namespace: mkt
 - [[evolving/content-trends/podcast-driven-author-channel-patterns]] — паттерны подкаст-driven каналов (@sokolay как сравнение)
 - [[sources/2026-05-12-tg-eklapshinaofficial]] — исходный дамп (822 поста, базовый срез)
 - [[sources/2026-05-14-tg-eklapshinaofficial-896-897]] — incremental delta (посты #896-897)
+- [[sources/2026-05-19-tg-eklapshinaofficial-903-907]] — incremental delta (посты #903-907)
+- [[canon/marketing-frameworks/lapshina-personal-strategy-two-paths]] — рамка личной стратегии (#906)
+- [[canon/marketing-frameworks/ai-not-marketing-system-shkipin]] — AI не заменяет маркетинг-систему (#907)
+- [[evolving/content-trends/duolingo-gamification-monetization-breakdown]] — Duolingo разбор + провокационный хук (#904)
 - [[sources/2026-04-14-tg-egoshin-kedprof]] — TOV co-founder Егошина для сравнения

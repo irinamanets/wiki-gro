@@ -9,8 +9,8 @@ tags: [content, telegram, author-channel, founder, podcast, edtech, brand-guidel
 confidence: high
 stale: false
 created: 2026-05-12
-updated: 2026-05-14
-sources: [sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md]
+updated: 2026-05-20
+sources: [sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md]
 namespace: mkt
 ---
 
@@ -174,6 +174,10 @@ Interdisciplinary — не только бизнес:
 - [[evolving/content-trends/portnyagin-founder-channel-patterns]] — другой founder-channel паттерн
 - [[canon/product-knowledge/gro-team]] — роль Лапшиной в GRO-команде
 - [[canon/positioning/gro-value-proposition]] — как TOV канала отражается в позиционировании GRO
+- [[evolving/content-trends/duolingo-gamification-monetization-breakdown]] — кейс-разбор Duolingo из этого канала (#904)
+- [[canon/marketing-frameworks/lapshina-personal-strategy-two-paths]] — рамка личной стратегии (#906)
+- [[canon/marketing-frameworks/ai-not-marketing-system-shkipin]] — диалог-формат с экспертом (#907)
+- [[sources/2026-05-19-tg-eklapshinaofficial-903-907]] — incremental delta (посты #903-907)
 - [[sources/2026-05-12-tg-eklapshinaofficial]] — исходный дамп
 
 ## Incremental delta 2026-05-14 (посты #896-897)
@@ -207,6 +211,36 @@ Interdisciplinary — не только бизнес:
 
 Пост #897 демонстрирует **structured markdown emphasis** (жирный для тезисов, __курсив подчёркнутый__ для подзаголовков anti-pattern'ов, нумерация). В оригинальном дампе 822 постов формирование структуры на markdown-уровне не было детально описано. Новый сигнал: long-form эссе в канале **используют typographic structure** на уровне Notion-документа, не plain Telegram post.
 
+## Incremental delta 2026-05-20 (посты #903, #904, #906, #907)
+
+Ещё 4 поста за 15-19 мая 2026 ([[sources/2026-05-19-tg-eklapshinaofficial-903-907]]). Что новое в delta:
+
+### Новая рубрика-маркер: «Пятничное Заземление» (lifestyle/grounding)
+
+Пост #903 — именованный lifestyle/grounding-формат («Пятничное Заземление»), эмоциональный личный регистр без бизнес-связки + декоративное фото сада. Это попадает в ранее зафиксированную «личное vs деловое 30/70»-долю, но даёт **именованный паттерн** регулярного personal-grounding-поста (вероятно, привязан к дню недели — «пятничное»). Фиксируем как low-confidence рубрику (n=1 в этом срезе).
+
+### Новый формат: диалог с приглашённым экспертом
+
+Пост #907 (AI в маркетинге) — **dialogue-формат** с цитированием внешнего эксперта (Виктор Шкипин, [@PragmaticMarketingShkipin](http://t.me/PragmaticMarketingShkipin)). Это отдельный под-формат relative к монологу/кейс-разбору: тезис строится через прямые цитаты собеседника + авторская рамка вокруг. Сопровождается **soft cross-promo** (курс эксперта + GRO-тренажёры, в т.ч. «фирменный тренажёр от Виктора»). Сигнал: канал используется и как **partnership-площадка** (эксперт-коллаборации), не только как сольный author-channel.
+
+### Новые типы кейс-разборов в content-bank
+
+К существующим (LABUBU, e.l.f., Skype, Малевич, Venice Biennale, Архитектор Матрицы) добавляется:
+
+| Кейс | Тип | Источник пост | Применимость для GRO |
+|---|---|---|---|
+| **Duolingo — gamification + монетизация** | EdTech engagement-эталон (3 инсайта) | #904 | Прямой бенчмарк: общая категория «обучение через AI/геймификацию» |
+
+См. полный разбор в [[evolving/content-trends/duolingo-gamification-monetization-breakdown]] + метрики в [[evolving-strict/competitor-metrics/duolingo-engagement-metrics-2026]].
+
+### Новый формат-маркер: «Выходные с…» + видео-разбор с кликбейт-обложкой
+
+Пост #904 — формат «бизнес-разбор → видео» с **провокационной YouTube-обложкой** (threat-framing хук, см. [[evolving/content-trends/duolingo-gamification-monetization-breakdown]]). Фиксируем: для **видео-обёрток** канал допускает яркий кликбейт-хук, тогда как текст остаётся аналитическим. Это видео-driven sub-формат рядом с подкастом #БеседысЛапшиной — но не интервью, а сольный разбор.
+
+### Подтверждение: framework-через-personal-disclaimer
+
+Пост #906 (личная стратегия) — снова «personal disclaimer → operational framework» (см. [[canon/marketing-frameworks/lapshina-personal-strategy-two-paths]]), подтверждает базовый паттерн. Тематика — strategy/goal-setting, пересекается с #ИнструкцияКБудущему по содержанию, но без явного hashtag (продолжение off-tag long-form тренда из delta 2026-05-14).
+
 ## Contradictions
 
-_Пока отсутствуют._ Incremental delta 2026-05-14 подтверждает базовый срез, не противоречит. При появлении следующего дампа (или аналитики другого канала Лапшиной) — сравнить эволюцию рубрик, hashtag-free essay-формата и tone'а.
+_Пока отсутствуют._ Incremental delta 2026-05-14 и 2026-05-20 подтверждают базовый срез, не противоречат. При появлении следующего дампа — сравнить эволюцию рубрик, hashtag-free essay-формата, dialogue/partnership-формата и tone'а.

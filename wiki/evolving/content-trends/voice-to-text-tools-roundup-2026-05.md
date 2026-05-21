@@ -9,8 +9,8 @@ tags: [ai, voice, tools, content-format, ru-market, consumer-ai]
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-techno-yandex-may-6-13-2026.md]
+updated: 2026-05-19  # +cross-ref Palatine Speech (B2B speech-tech) из @boris_again compression-roundup 3910
+sources: [sources/2026-05-14-tg-techno-yandex-may-6-13-2026.md, sources/2026-05-19-tg-boris-again-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -74,6 +74,13 @@ Vibe в Yandex-listing занимает позицию «privacy / без под
 - [[evolving/competitor-positioning/vibecoding-stack-ecosystem-2026]] — opensource-стек как растущий сегмент
 - [[evolving/content-trends/podcast-driven-author-channel-patterns]] — параллельный audio-канал паттерн (founder-driven)
 - [[sources/2026-05-14-tg-techno-yandex-may-6-13-2026]] — источник
+- [[sources/2026-05-19-tg-boris-again-may-14-18-2026]] — источник cross-ref Palatine Speech
+
+## B2B-расширение категории: Palatine Speech (добавлено 2026-05-19)
+
+Этот roundup каталогизирует **consumer** voice-to-text (Superwhisper, Wispr Flow, Vibe, Яндекс Клавиатура). Из [[sources/2026-05-19-tg-boris-again-may-14-18-2026|@boris_again 3910]] приходит **B2B-сегмент** той же категории: **Palatine Speech** ([speech.palatine.ru](https://speech.palatine.ru/)) — речевые технологии для бизнеса (контакт-центры, отделы продаж, интервью, созвоны): перевод аудио/видео/звонков в текст + **диаризация** + субтитры + краткие итоги + **речевая аналитика**.
+
+**Сигнал:** voice-to-text растёт не только в consumer-input (диктовка вместо клавиатуры), но и в **enterprise-обработке** (анализ накопленного аудио процессов, где «люди говорят, а потом это нужно разбирать руками»). Для GRO-контента — расширение тезиса «voice как дефолтное ожидание» с input-стороны на analysis-сторону. Anti-pattern остаётся: не делать roundup с одним брендом — сегментировать по mental-сегменту (consumer-input vs B2B-process-analysis).
 
 ## TTL
 

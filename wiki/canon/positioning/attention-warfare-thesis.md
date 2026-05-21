@@ -9,10 +9,11 @@ tags: [positioning, attention-economy, brand, anti-pattern]
 confidence: low
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-19  # +рыночное подтверждение 2026 (Фомичёв 2430): личный бренд основателя как owned-attention-актив против перегретых paid-каналов
 sources:
   - sources/2026-05-05-e-xecutive-ru-condensed.md
   - sources/2026-05-05-exec-buduschee-biznesa-entertainment.md
+  - sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md
 namespace: mkt
 ---
 
@@ -73,6 +74,10 @@ namespace: mkt
 - [[canon/positioning/gro-value-proposition]] — собственная позиционная карта GRO
 - [[canon/marketing-frameworks/narrative-as-brand-currency]] — нарратив как защита от шума
 - [[canon/marketing-frameworks/marketing-as-communication-5th-p]] — communication как 5-я P, расширение позиционирования
+
+## Подтверждение со стороны рынка (2026)
+
+RU-предпринимательский Telegram в 2026 формулирует ту же логику на практическом языке: рекламный рынок «либо не работает, либо не окупается» (площадки закрылись/перегреты), и выигрывает не тот, кто покупает больше показов, а тот, кто стал **«публичным активом»** — «их зовут, им доверяют, у них покупают» (по Кириллу Фомичёву, [[sources/2026-05-19-tg-fomichevkirill-may-14-19-2026]], пост 2430). Это операционализация attention-warfare для founder-аудитории: личный бренд основателя — owned-attention-актив против rented paid-каналов. Циркулирующие на рынке числа (рост на ~30% быстрее, 63% платят больше) собраны в [[evolving-strict/market-data/publishing-founder-growth-premium-2026]] с `conf:low` (без первоисточника). Параллельный потребительский разворот тезиса — [[evolving/industry-trends/cognitive-wellness-shift-2026]]: умение защищать собственное внимание становится конкурентным преимуществом человека.
 
 ## Caveat
 

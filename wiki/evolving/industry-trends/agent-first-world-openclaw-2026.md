@@ -9,8 +9,8 @@ tags: [ai, b2b, consideration, awareness]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-16  # +Морейнис «маркетинг для агентов» insight (пост 7833, 2026-05-14): маркетинговые инструменты для людей устаревают
-sources: [sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-04-14-tg-techno-yandex-mar-apr-2026.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md]
+updated: 2026-05-19  # +OpenClaw fully-agentic-team operational signal (@ai_newz 4576, 2026-05-16): сотня агентов, $1,3M/мес токенов, агенты слушают митинги
+sources: [sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-04-14-tg-techno-yandex-mar-apr-2026.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-ai-newz-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -145,6 +145,18 @@ namespace: mkt
 
 **Усиление основного тренда:** Морейнис добавляет **новую плоскость** к death-of-interfaces — это не только UI пользователя «умирает», но и **UI маркетинга** (creatives, viral posts) уходит в тень для agent-as-user сегмента. → Маркетинговая революция параллельная UI-революции.
 
+## Fully-agentic-team operational signal (2026-05-16)
+
+Свежий operational-маркер из [[sources/2026-05-19-tg-ai-newz-may-14-19-2026|@ai_newz пост 4576]]: команда **создателей самого OpenClaw** перешла на режим **fully-agentic team** —
+
+- штат **3–6 человек**, при этом одновременно запущена **сотня агентов**, которые ревьювят все пулреквесты/коммиты/ишью и **пишут весь код**;
+- агенты **слушают митинги команды** и сразу имплементируют обсуждаемые фичи;
+- расход токенов — **~$1,3 млн/мес** (платит OpenAI; полная экономика — в [[evolving-strict/market-data/ai-coding-tools-cost-explosion-2026|cost-explosion anchor]]).
+
+**Что это добавляет к тезису страницы.** Раньше agent-first валидировался четырьмя углами (consumer POC → enterprise → mass-media → government). Этот сигнал даёт **пятый угол — self-application**: продукт-агент применяется к разработке самого себя в режиме, где люди уже **оркестраторы, а не операторы IDE**. Это эмпирическое подтверждение прогноза «программист → оркестратор агентов» (Замесин), но с важной оговоркой по экономике: режим **дорогой** ($1,3M/мес), то есть пока доступен только тем, у кого compute субсидирован (здесь — OpenAI). Distribution-первичность (Табунов-correction выше) дополняется **capital-первичностью**: fully-agentic team в 2026 — привилегия, не норма.
+
+**Следствие для GRO-контента.** Хук «команда из 3 человек запускает сотню агентов, которые слушают её митинги и пишут код» — сильный awareness-материал про будущее работы; но обязательно с caveat про стоимость, иначе создаёт ложное ожидание доступности для массового пользователя.
+
 ## Supersession watch
 
 - Проверить через 3 месяца: вышел ли OpenClaw в стабильный релиз, появились ли enterprise-конкуренты (Anthropic computer use, OpenAI Operator, etc.), каков реальный темп роста API-first продуктов.
@@ -174,6 +186,8 @@ namespace: mkt
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — search-layer параллельный тренд (AEO/GEO для агентов)
 - [[evolving/industry-trends/marketplace-community-convergence-2026]] — связанный structural тренд commerce community
 - [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] — источник Морейнис «маркетинг для агентов» (пост 7833)
+- [[sources/2026-05-19-tg-ai-newz-may-14-19-2026]] — источник fully-agentic-team сигнала (OpenClaw self-application, @ai_newz 4576)
+- [[evolving-strict/market-data/ai-coding-tools-cost-explosion-2026]] — экономика fully-agentic режима ($1,3M/мес)
 
 ## Backlinks
 

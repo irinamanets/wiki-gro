@@ -9,8 +9,8 @@ tags: [seo, ai, content, search, decision-layer, infrastructure, product-data, a
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия» (SparkToro стохастичность + платформенная сегментация + legal RU + disqualification)
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md]
+updated: 2026-05-20  # +Comscore AI Intelligence Report (34,9% Google AI-обзоров конец 2025 + плато поиска +3% YoY); +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия» (SparkToro стохастичность + платформенная сегментация + legal RU + disqualification)
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-cossaru-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -383,8 +383,24 @@ Pressfeed формулирует **3 кейса**, когда инвестици
 3. Клиент выбирает по цене (AI пойдёт по price-comparison)
 4. **Sameness anti-pattern** — все следуют одинаковым GEO-tutorials → AI не различает; нужна **уникальная позиция, собственные данные, оспариваемый тезис**
 
+## Update 2026-05-20 — Comscore: 34,9% Google-поисков с AI-обзором (Cossa)
+
+[[sources/2026-05-19-tg-cossaru-may-14-19-2026|Cossa @cossaru пост 23157]] (2026-05-18) приводит [Comscore AI Intelligence Report](https://www.comscore.com/Insights/Presentations-and-Whitepapers/2025/AI-Intelligence-Report) — **первый известный нам публичный platform-level замер доли AI-обзоров в Google по итогам года**:
+
+- **34,9% запросов Google содержат AI-обзор** к концу 2025 (с 25,9% в июне 2025) — почти +9 п.п. за полгода
+- **Bing Copilot: 15,7%** в декабре (рост с 11,7% в октябре)
+- **Рост поисков в США резко замедлился: +3% YoY в IV кв. 2025 vs +12% в IV кв. 2024** при стабильном абсолютном объёме (77→78 млрд)
+- **Прогноз: AI-поиск обгонит традиционный по объёму трафика к 2028**
+
+Полные цифры с inline-маркерами → [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]].
+
+**Что это добавляет к рамке.** Прежние замеры в вики были преимущественно **outcome-уровня на отдельных сайтах** (Duda +320% трафика, RU practitioner-доли AI-трафика). Comscore даёт **canvas-уровень** — какую долю поисковых сессий вообще занимает AI-обзор. Эти слои комплементарны: Comscore показывает **охват поверхности**, site-level замеры — **дельту для тех, кто попал в ответ**. Если треть Google-поисков уже с AI-обзором, отсутствие в retrieval-корпусе = потеря видимости в трети сессий — количественное обоснование GEO/AEO-приоритета.
+
+**Согласованность с прежними сигналами.** Comscore-плато (+3% vs +12%) и прогноз-2028 укладываются в линию Gartner −25% органики к концу 2026 (Кумар Виас выше), Brand Analytics −33–38% RU-органики за 2025 ([[evolving-strict/market-data/ai-search-commerce-benchmarks-2026]]) и RU practitioner-консенсуса 30–40% падения. Замер — US/Google; для RU-аудитории GRO приоритет остаётся за Яндекс/Алиса (см. RU-специфика выше).
+
 ## Связанные страницы
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] -- практические рекомендации по AI-оптимизации
+- [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]] -- Comscore platform-level замер (34,9% Google AI-обзоров конец 2025)
 - [[canon/marketing-frameworks/ai-search-measurable-vs-dark-zone]] -- Алла Рауд measurable vs dark-zone
 - [[evolving/content-trends/ai-aeo-must-haves-2026]] -- 5 must-have Duda (operational)
 - [[evolving-strict/market-data/duda-ai-traffic-conversion-2026]] -- метрики Duda study

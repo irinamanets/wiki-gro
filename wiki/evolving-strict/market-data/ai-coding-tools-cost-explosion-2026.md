@@ -9,8 +9,8 @@ tags: [ai, claude-code, cost, market-data, anthropic, anchor]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-cgevent-apr30-may05-2026.md]
+updated: 2026-05-19  # +OpenClaw $1,3M/мес токенов anchor (@ai_newz 4576, 2026-05-16) с dashboard-валидацией $1,305,088.81/30d
+sources: [sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-19-tg-ai-newz-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -40,6 +40,17 @@ CTO Uber **Правин Нага** официально признал, что �
 
 Стартап Swan AI получил счёт от **Anthropic на $113 000 за один месяц** на команду из **4 человек** `[conf:medium, src:2026-05-04]`. Это **~$28 000 на человека в месяц** — официально превысило их зарплаты `[conf:medium, src:2026-05-04]`.
 
+### OpenClaw — $1,3 млн/мес токенов на команду 3–6 человек (май 2026)
+
+Команда OpenClaw тратит **~$1,3 млн в месяц на токены** при штате всего **3–6 разработчиков** `[conf:medium, src:2026-05-16]` (по пересказу [[sources/2026-05-19-tg-ai-newz-may-14-19-2026|@ai_newz пост 4576]]).
+
+- Одновременно запущена **сотня агентов**, которые ревьювят все пулреквесты/коммиты/ишью и пишут весь код `[conf:medium, src:2026-05-16]`.
+- Агенты слушают митинги команды и сразу имплементируют обсуждаемые фичи `[conf:medium, src:2026-05-16]`.
+- Высокая цена во многом из-за **fast-режима**, который в **2,5× дороже** обычного `[conf:medium, src:2026-05-16]`.
+- За всё платит **OpenAI** (главный разработчик там работает) `[conf:medium, src:2026-05-16]`.
+
+Числовая dashboard-валидация порядка (media 4576, OpenAI API spend через CodexBar): **30d spend $1 305 088,81**, 603B токенов, 7,6M запросов, top model gpt-5.5 `[conf:medium, src:2026-05-16]`. Это **первый anchor, где счёт на токены измеряется миллионами в месяц** — на порядок выше Swan AI ($113K/мес), потому что здесь не assisted-coding, а **fully agentic dev** (сотня автономных агентов).
+
 ### Nvidia — VP подтверждает токен-перевес
 
 Вице-президент Nvidia **Брайан Катанзаро** подтвердил, что для его команды **стоимость вычислительных мощностей (токенов) уже превысила стоимость найма людей** `[conf:medium, src:2026-05-04]` (qualitative — конкретные цифры не раскрыты).
@@ -53,6 +64,9 @@ CTO Uber **Правин Нага** официально признал, что �
 | Uber | Per-engineer план | $500–2 000/мес | `[conf:medium, src:2026-05-04]` |
 | Swan AI | Anthropic-счёт за месяц | $113 000 (4 чел) | `[conf:medium, src:2026-05-04]` |
 | Swan AI | Per-engineer факт | ~$28 000/мес | `[conf:medium, src:2026-05-04]` |
+| OpenClaw | Токены/мес на 3–6 чел | ~$1 300 000/мес | `[conf:medium, src:2026-05-16]` |
+| OpenClaw | Dashboard 30d spend | $1 305 088,81 | `[conf:medium, src:2026-05-16]` |
+| OpenClaw | Запущено агентов | сотня | `[conf:medium, src:2026-05-16]` |
 | Nvidia | cost(токены) vs cost(найм) | токены > найм | `[conf:medium, src:2026-05-04]` |
 | Q1 2026 | IT-сокращения с AI-обоснованием | ~81 000 чел | `[conf:medium, src:2026-05-04]` |
 
@@ -92,7 +106,11 @@ CTO Uber **Правин Нага** официально признал, что �
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — Q2 2026 общая картина
 - [[canon/positioning/gro-value-proposition]] — «системность vs хаос» как точка приклейки
 - [[volatile-strict/industry-news/ai-coding-tools-consolidation-2026q1]] — общая консолидация AI-coding-tooling
+- [[evolving/industry-trends/agent-first-world-openclaw-2026]] — OpenClaw как продукт (откуда $1,3M/мес кейс)
+- [[volatile-strict/industry-news/gpu-scarcity-neocloud-anthropic-2026-05]] — инфраструктурная причина роста стоимости (GPU-дефицит)
+- [[volatile-strict/competitor-news/cursor-composer-2-5-2026-05]] — pricing-эффект (удвоение fast mode)
 - [[sources/2026-05-05-tg-cgevent-apr30-may05-2026]] — источник
+- [[sources/2026-05-19-tg-ai-newz-may-14-19-2026]] — источник OpenClaw-anchor (@ai_newz 4576)
 
 ## Backlinks
 

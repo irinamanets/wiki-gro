@@ -9,8 +9,8 @@ tags: [ai, adoption, b2b, marketing, russia, 2026, productivity]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-16  # +MegaFon MegaRITM datapoint: 500M personal offers/mo, 1500rps, GenAI in production
-sources: [sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md]
+updated: 2026-05-08  # +Яндекс 85% рекламных бюджетов под управлением ИИ (Q1 2026, +7,8 п.п. г/г, @bezsmuzi img 15918 / Ведомости)
+sources: [sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
 namespace: mkt
 ---
 
@@ -85,6 +85,19 @@ namespace: mkt
 
 **Маркетинговое значение:** для GRO как productivity-tool это **внешний количественный аргумент** в копирайтинге про «усталость и потолок энергии». Не нужно убеждать читателя, что «недосып = деньги»; есть конкретная цифра — 44–54 потерянных рабочих дня. Для GRO это анти-objection к продакту «100% Энергии» в App Store IAP (см. [[canon/product-knowledge/gro-app-store-listing]]) и контент-ось вокруг сегмента карьеристов. [conf:medium, src:2026-04-14]
 
+## 6. Яндекс: доля рекламных бюджетов под управлением ИИ (первый квартал)
+
+Датапоинт из дампа [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] (Кульгин, img 15918, скриншот заголовка Ведомостей):
+
+| Метрика | Значение | Source |
+|---|---|---|
+| Доля рекламных бюджетов, полностью управляемых ИИ в «Яндексе» | **85%** | `[conf:medium, src:2026-05-07]` |
+| Рост доли г/г (Q1 2026 vs Q1 2025) | **+7,8 п.п.** | `[conf:medium, src:2026-05-07]` |
+
+**Source:** «Ведомости» (через скриншот в канале Кульгина, первоисточник в посте — заголовок Ведомостей по итогам I квартала 2026). `confidence: medium` — retold через скриншот, методология автоопределения «полностью управляется ИИ» в заголовке не раскрыта.
+
+**Маркетинговое значение.** Это — **числовой anchor demand-side AI-автоматизации в RU performance-маркетинге**: на крупнейшей рекламной платформе РФ 85% бюджетов уже крутят автостратегии, а не ручная настройка. Прямо квантифицирует нарратив «перформанс-маркетолог среднего уровня обесценивается» (см. [[evolving/content-trends/perf-marketer-automation-narrative-2026]]) и согласуется с экспертной рамкой лимитов ИИ из [[evolving/industry-trends/ai-marketing-limits-2026]] (ИИ забирает рутину bid-management, не judgment). Для GRO — proof-source под skill-shift нарратив для [[canon/target-audience/gro-segments|сегмента карьеристов-маркетологов]]. `[conf:medium, src:2026-05-08]`
+
 ## Cross-table: что куда влияет
 
 | Метрика | Первичный effect | Cross-link на страницы вики |
@@ -95,6 +108,7 @@ namespace: mkt
 | 65% малого B2B-маркетинга в провале `[conf:medium, src:2026-04-08]` | структурное преимущество среднего бизнеса | [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] |
 | 41% готовы менять работу `[conf:medium, src:2026-04-03]` | пул для career-сегмента GRO | [[canon/target-audience/gro-segments]] |
 | 44–54 дня / 1,3% ВВП от инсомнии `[conf:medium, src:2026-04-11]` | productivity tax — angle для «100% Энергии» | [[canon/target-audience/gro-segments]], [[canon/product-knowledge/gro-app-store-listing]] |
+| Яндекс 85% ad budgets под ИИ `[conf:medium, src:2026-05-07]` | demand-side AI-автоматизации в perf-маркетинге | [[evolving/content-trends/perf-marketer-automation-narrative-2026]], [[evolving/industry-trends/ai-marketing-limits-2026]] |
 
 ## TTL и refresh policy
 

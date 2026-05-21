@@ -9,8 +9,8 @@ tags: [content, telegram, founder-voice, indie, pet-projects, self-pitch, conten
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-boris-again-may-2026.md]
+updated: 2026-05-19  # +delta хвоста «недели пет-проектов» (3902-3907, 3910): 6 новых submission'ов + compression-roundup, корпус N=24 → N≈35
+sources: [sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-19-tg-boris-again-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -212,6 +212,46 @@ Reusable content-паттерн: как individual developers / индивиду
 - Explicit-sales CTA «зарегистрируйтесь сейчас», «бесплатная консультация» — это paid-ad-маркер, отталкивает builder-аудиторию
 - Перечисление крупных партнёров как trust-signal без context'а — это тоже paid-ad-маркер
 - Метрики бизнеса (MRR, valuation, fundraising) — это VC-pitch, не indie-pitch
+
+## Delta — хвост «недели пет-проектов» (дамп 2026-05-19, посты 3902–3910)
+
+Добавлено из [[sources/2026-05-19-tg-boris-again-may-14-18-2026|второго дампа канала]]. Submission-поток **не иссяк** к 2026-05-14 — Цейтлин публиковал ещё неделю (14–18 мая). Это **подтверждает long-tail устойчивость curator-week-формата** и расширяет корпус с N=24 до N≈35 (6 explicit self-pitches + 5 микро-проектов из compression-roundup). Скелетная структура и tone-сигналы из тела страницы **подтверждаются**, без изменений; ниже — новые точки данных и один новый sub-pattern публикации.
+
+### Новые submission'ы (укладываются в существующий скелет)
+
+| Пост | Проект | Cluster | Подтверждает / добавляет |
+|---|---|---|---|
+| 3902 | **Geneva drive** (geneva-drive.onefile.space) — параметрический генератор мальтийских механизмов, 17 параметров, экспорт STL/Fusion-360, 3D-просмотр + анимация | D (dev-infra / niche) | Personal-pain origin в чистейшем виде: «**Мне 14 лет**, занимаюсь роботами и ИИ… нужен был механизм прерывистого движения». **Vibecoding origin** явно назван («с вайбкодингом сделал полноценный генератор»). Усиливает [[evolving/industry-trends/ai-solopreneurship-window-2026-2029|тезис «окно соло-фаундера»]] — теперь и для подростков. |
+| 3903 | **Seely** (seely.ru) — MCP к Яндекс.Метрике + Вебмастеру | A (AI/dev-tooling) | **Сильнейший marketing-signal дампа** — вынесен в отдельную страницу [[evolving/content-trends/conversational-marketing-analytics-mcp-2026]]. Pitch-структура каноничная: personal-context → product + value-prop → bullet-фичи (инструменты Метрики/Вебмастера) → roadmap (GSC/GA) → read-only trust-signal. |
+| 3904 | **AI-Security / Red-Teaming course** (Stepik 225332) — prompt injection, jailbreaks, CTF-тренажёр | A | Подтверждает self-deprecating closer + call-for-feedback: «курс пока развивается, особенно полезна обратная связь: где непонятно, где слишком легко». Edtech-под-кластер AI-tooling'а. |
+| 3905 | **Софи** (job-search bot, HH.ru) | B (B2B-utilities) | **PLG launch-mechanic** — самая ценная новая точка. См. ниже отдельный разбор. Также: «полгода назад я писал про…» — **re-pitch одного проекта в том же канале спустя время** с delta-апдейтом (новый под-паттерн «progress re-pitch»). |
+| 3906 | **Пополаму** (popolama.com) — split-bills app с OCR-чеков + tg/vk login | C (gamified consumer) | Каноничный personal-pain origin (компания друзей, эксель-таблицы, «итого с тебя ещё 800 рублей»). **Competitor-callout как value-prop:** «Splitwise и Tricount пробовали, но там нет OCR, удобного входа через tg/vk и UI режет глаза» — differentiation через named competitors (нечастый приём в корпусе). |
+| 3907 | **LLM-engineering course** (Stepik 287333) — 15 модулей, prompt-eng/RAG/агенты/eval | A | «Студент ПМИ», 15 модулей, **planned низкая/бесплатная цена** + explicit ask «буду признателен, если упомянешь у себя». Подтверждает anti-paywall tone consumer/edu-кластера. |
+
+### Новые «минорные» питчи из compression-roundup (3910)
+
+Skiller (skill-менеджмент для агентов), Palatine Speech + Spectra (речевые технологии для бизнеса + CV-дефектоскопия), AI-agents course (Stepik, бесплатный), Sublex (двойные субтитры YouTube), ai-dotfiles («npm для контекста агентов» для Claude Code). Все 5 — Cluster A/D, все с GitHub/лендингом как CTA, все короткие (1 абзац). **Palatine Speech** — cross-ref в [[evolving/content-trends/voice-to-text-tools-roundup-2026-05|voice-to-text roundup]] как B2B-расширение категории.
+
+### Новый sub-pattern публикации: compression-roundup при overflow'е
+
+Пост 3910 открывается мета-репликой куратора: «**Мои подписчики слишком продуктивные и пет-проектов слишком много. Придётся сжимать в один пост**». Это **новая механика curator-week**, отличная от baseline «1 submission = 1 пост»:
+
+- При превышении дневного capacity куратор **сжимает N submission'ов в один roundup-пост** (5 проектов в 3910).
+- Каждый проект получает **1 абзац** вместо полного поста: `[название](ссылка) от @автора: one-line + 2-3 буллета`.
+- Tone сохраняется (founder-voice авторов, минимум редактуры), но **density растёт** — читатель сканирует 5 проектов за один скролл.
+
+Это добавлено как **расширение sub-pattern'а «Weekly themed crowdsourced content»** в [[evolving/content-trends/telegram-author-channel-patterns]]. **GRO-применение:** если GRO запустит curator-week (см. ту же страницу) и получит overflow — compression-roundup сохраняет publication-cadence без потери submission'ов. Anti-pattern: компрессия убивает personal-pain origin story (главный trust-элемент), поэтому roundup годится только для **уже-валидированных** или второстепенных submission'ов, а сильнейшие оставлять полноразмерными.
+
+### PLG launch-mechanic из Софи (3905) — детальный разбор
+
+Самая переиспользуемая marketing-механика в delta. Структура запуска:
+
+1. **Honest constraint как причина запуска:** «Следующий шаг — откалибровать мэтчер до точности 80%+, **но это невозможно без реальных пользователей**». Превращает need-for-users в legitimate reason-to-act (не «попробуйте наш продукт», а «нам нужна ваша помощь, чтобы стать точнее»).
+2. **Free trial с дефицитом:** «бесплатный трёхдневный тест… **места будут ограничены**». Scarcity + free.
+3. **Post-trial discount:** «первым пользователям предлагают **скидку 15% после триала**». Tier-gated reward за раннее участие.
+4. **Soft CTA через подписку:** «подписывайтесь на канал, там будет анонс о наборе» — не прямая продажа, а opt-in в waitlist.
+
+Это компактный **launch-combo «honest-constraint → free-trial → scarcity → post-trial discount → waitlist-opt-in»**, резонирующий с [[evolving/content-trends/your-pet-project-channel-hooks|traffic-first hooks Табунова]] (free trial → первая оплата) и tier-gated-discount-механикой. **GRO-применение:** GRO имеет 14-дневный триал — формулировка Софи «нам нужны реальные пользователи, чтобы стать точнее» — образец **honest-constraint launch-копирайта**, который снимает «продают» восприятие. Caveat: цифры Софи (110+ источников, 80%, 15%) — заявления автора submission'а, `[conf:low, src:2026-05-15]`, в GRO-контенте подавать как **референс приёма**, не как verified-кейс.
 
 ## Связь с другими страницами
 

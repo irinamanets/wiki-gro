@@ -9,8 +9,8 @@ tags: [ai-agents, agent-economy, content, b2b-sales, partnerships]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +contrarian B2C-signal dnative о Google Gemini agentic shopping как мета-вселенский хайп (отдельная страница skeptic-thesis)
-sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-mspiridonov-mar-apr-2026.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md]
+updated: 2026-05-20  # +§12 voice-AI-employees RU-SMB demand-нарратив (Newo.ai/Давид Ян через Высоцкого), missed-calls экономика
+sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-mspiridonov-mar-apr-2026.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -177,6 +177,17 @@ namespace: mkt
 - **Sentiment-маркер** для understanding почему массовая B2C-adoption agent-shopping будет идти неравномерно (по категориям, не по уровню агентности).
 - **Content-anchor** для anti-AI-agent контент-потока (GRO как продукт, который не делает за вас, а развивает).
 - **Hypothesis-test** на ноябрь 2026: если к этому времени Google Gemini-агенты массово в продакшене → пересмотр; если только анонсы и pre-release → тезис усиливается.
+
+## 12. Voice-AI-employees как RU-SMB demand-нарратив — Newo.ai через Высоцкого (2026-05-15)
+
+Александр Высоцкий ([[sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026|@alexander_visotsky, посты 3794, 3797]]) записал подкаст с Давидом Яном (создатель ABBYY → founder Newo.ai) и встроил его продукт в нарратив **«AI-сотрудники заменяют найм»**. Полная трекинг-страница метрик — [[volatile-strict/industry-news/newo-ai-david-yan-2026-05]].
+
+**Релевантность для этого тренда.** До сих пор страница накапливала сигналы из western/global-стека (Stripe MPP, Anthropic, Cadence) и RU-Telegram как агрегатора западных новостей (§8 portnyaginlive). §12 — другой класс сигнала: **demand-side нормализация voice-AI-agents в RU-SMB-аудитории через авторитетного founder'a**, не как новость, а как product-recommendation с problem→solution-связкой.
+
+- **Vertical voice-AI для входящих звонков** (стоматологии, рестораны, бронирование) — конкретные индустрии, где голосовой агент закрывает измеримую боль. Заявленная экономика: теряется **40% входящих звонков = до 30% упущенной выручки** `[conf:low, src:2026-05-16]` (self-reported через промо-контекст). Это смежно с RU no-code AI-agent инвентарём ([[evolving/competitor-positioning/ru-nocode-ai-agent-platforms-2026]]), но Newo.ai — глобальный игрок, продвигаемый через RU-диаспору-канал.
+- **«AI вместо найма» как messaging-сдвиг.** Высоцкий: «если думаете о найме менеджеров, администраторов или операторов — посмотрите сначала это видео». Это эволюция его собственного AI-нарратива: от personal-assistant-кейсов (Claude Cowork, начало 2026) к **operations-replacement advocacy**. Для GRO — content-context для [[evolving/content-trends/ai-agents-demand-hooks-2026|hooks про спрос на ИИ-агентов]] и proof-point того, что «автоматизировать руководство проще, чем физический труд» (рифмуется с выводом §7 Luna).
+
+**Атрибуция и осторожность:** все числа — заявления в промо-контексте (Высоцкий рекламирует подкаст, гость — платформу), не верифицированы. `confidence: low`. Цитировать в GRO-контенте только как «по словам X».
 
 ## Что это значит для marketing-memory
 

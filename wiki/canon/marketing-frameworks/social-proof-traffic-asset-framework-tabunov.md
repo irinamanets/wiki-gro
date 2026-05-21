@@ -9,8 +9,10 @@ tags: [social-proof, pruefs, conversion, paid-traffic, founder-voice, customer-o
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
+updated: 2026-05-19  # +real-world кейс ZXMoto («сила пруфов» в действии, Табунов @bossofyourboss пост 1200) как иллюстрация тезиса
+sources:
+  - sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md
+  - sources/2026-05-19-tg-bossofyourboss-may-2026.md
 namespace: mkt
 ---
 
@@ -93,6 +95,16 @@ namespace: mkt
 > «**Без пруфов любой, даже самый гениальный продукт, конвертит как унылое говно. С пруфами — даже унылое говно конвертит как гениальный продукт.**
 > Выбирай сам, что тебе ближе.»
 
+## Real-world кейс: ZXMoto (пруф высшего ранга в действии)
+
+В отдельном посте ([[sources/2026-05-19-tg-bossofyourboss-may-2026]], @bossofyourboss пост 1200, 2026-05-15) Табунов разбирает кейс китайского мотопроизводителя ZXMoto как **наглядную иллюстрацию собственного тезиса о силе пруфов**:
+
+- ZXMoto — ноунейм год назад, основан в апреле 2024. В дебютный сезон WorldSSP-2026 берёт 3-е место в чемпионате конструкторов, обходя Yamaha/Ducati/Honda с десятилетиями опыта.
+- Результат для маркетинга: «ещё даже не выиграли чемпионат, а уже из ноунейм производителя стали легендой меньше чем за полгода». Спортивная победа над авторитетом — **пруф высшего ранга** (пересечение типов «кейсы с результатами» + «победа над признанным игроком»), который объективно нельзя «нарисовать на лендинге».
+- Усиление: ценовой контраст (в 2–2,5× дешевле японцев/итальянцев) + меметичная упаковка (рилс, «фаундер в кепке»). Цифры роста (5 543 заказа за 100 ч, +200% предзаказов за 3 дня после победы) — в [[evolving-strict/competitor-metrics/zxmoto-growth-metrics-2026]].
+
+**Вывод для применения framework:** объективная победа над признанным конкурентом — самый shareable пруф; обёрнутая в underdog-историю фаундера и меметичный формат, она даёт вирусную узнаваемость за месяцы, а не годы. Перенос механики — [[evolving/content-trends/proof-driven-underdog-story-content-pattern]].
+
 ## Применение к GRO
 
 GRO — массовый B2C-продукт без типичных корпоративных кейсов (нет "logos: Nike, IBM"). Но социальное доказательство особенно важен для GRO **из-за специфики продукта** (психологическая работа, не software):
@@ -127,4 +139,7 @@ GRO — массовый B2C-продукт без типичных корпор
 - [[evolving/content-trends/your-pet-project-channel-hooks]] — hook-инвентарь канала, включая пруфы
 - [[evolving/customer-feedback/gro-app-store-reviews]] — реальные пруфы GRO в публичном пространстве
 - [[canon/target-audience/gro-segments]] — кому адресовать
+- [[evolving/content-trends/proof-driven-underdog-story-content-pattern]] — меметичная underdog-упаковка пруфа (ZXMoto-механика)
+- [[evolving-strict/competitor-metrics/zxmoto-growth-metrics-2026]] — цифры роста ZXMoto-кейса
 - [[sources/2026-05-13-tg-your-pet-project-may-6-13-2026]] — источник
+- [[sources/2026-05-19-tg-bossofyourboss-may-2026]] — источник ZXMoto-кейса

@@ -9,8 +9,8 @@ tags: [content, social, telegram, author-blogger, giveaway, growth, awareness, s
 confidence: medium
 stale: false
 created: 2026-05-15
-updated: 2026-05-15
-sources: [sources/2026-05-14-tg-hutzp-may-2026-bundle.md]
+updated: 2026-05-19  # +risk data-point бот-накрутки конкурсного прироста (@dnative, 64к→94к/+25к ботов) + 3 cross-ref
+sources: [sources/2026-05-14-tg-hutzp-may-2026-bundle.md, sources/2026-05-19-tg-dnative-digest-7613-7628.md]
 namespace: mkt
 ---
 
@@ -89,6 +89,15 @@ namespace: mkt
 3. **Реклама vs органика — границы ФАС.** Подписка как условие для возможности выиграть приз = реклама собственного канала. Технически попадает под обязательную маркировку ([[canon-strict/legal-claims/ad-marking-russia-2026]]) — но в наблюдаемом кейсе пост не маркирован. Практика правоприменения в 2026-Q2 не устоялась.
 4. **Tier-mismatch с ЦА.** Если призы не резонируют с identity-категорией аудитории — frame не срабатывает. MacBook + Watch + AirPods работают только если ЦА = creator-class. Для tech-ML-аудитории та же mech требовала бы GPU / Claude API-кредитов / Vision Pro.
 
+## Risk data-point: бот-накрутка прироста (@dnative, май 2026)
+
+Реальное подтверждение рисков 1 и 2 выше. Дмитрий Нативка (@dnative) участвовал в партнёрском конкурсе «в качестве эксперимента» (все участники — знакомые с хорошей аудиторией, отличные призы) и задокументировал результат: **+30к подписчиков за неделю (64к → ~94к), но просмотры почти не выросли** — оценка автора ~25к ботов накручено каждому участнику. Это иллюстрирует, что даже «правильный» partner-fit joint-giveaway уязвим к **внешней бот-накрутке** (ботоводы сами накручивают участников громкого розыгрыша), не только к естественному post-event churn.
+
+**Усиление рекомендаций для GRO:**
+- Замерять успех giveaway по **просмотрам/ERV до и после**, а не по приросту подписчиков (см. [[evolving/content-trends/telegram-contest-bot-inflation-risk-2026]] и [[evolving-strict/campaign-metrics/erv-vs-er-bot-cleanup-livedune-2026]]).
+- Закладывать в план **фильтрацию ботов** и не строить публичный success-кейс на сыром приросте.
+- Полная (скептическая) позиция Нативки про конкурсы как канал — [[evolving/content-trends/telegram-contest-bot-inflation-risk-2026]].
+
 ## Применимость для GRO
 
 **Подходит**, если GRO готов на acquisition-вложение порядка 40–80 тыс ₽ на разовую кампанию + готов координировать с 3–5 SaaS/EdTech-каналами с пересекающейся ЦА «креативных предпринимателей / самопредставителей».
@@ -110,6 +119,9 @@ namespace: mkt
 - [[evolving/competitor-positioning/settersgroup-ecosystem]] — экосистема Давыдова, один из со-организаторов кейса
 - [[canon-strict/legal-claims/ad-marking-russia-2026]] — правила маркировки для giveaway-постов
 - [[canon/target-audience/gro-segments]] — потенциальные ЦА GRO для joint-кампании
+- [[evolving/content-trends/telegram-contest-bot-inflation-risk-2026]] — risk data-point: бот-накрутка конкурсного прироста (@dnative)
+- [[evolving-strict/campaign-metrics/erv-vs-er-bot-cleanup-livedune-2026]] — как мерить вовлечение после прироста/чистки
+- [[sources/2026-05-19-tg-dnative-digest-7613-7628]] — источник risk data-point
 
 ## Contradictions
 

@@ -9,10 +9,11 @@ tags: [content, community, event-marketing, russia, author-channel, digest, cros
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14
+updated: 2026-05-19  # +section 6: апрельский recap-пост 991 (метрики 1231/16/90/215/259 + АтлантGPT)
 sources:
   - sources/2026-04-14-tg-community-tech-voronin-feb-apr-2026.md
   - sources/2026-05-14-tg-community-tech-voronin-may-2026.md
+  - sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md
 namespace: mkt
 ---
 
@@ -135,11 +136,39 @@ namespace: mkt
 
 Это не отбраковано как «плохое» — просто не попадает в marketing-memory предметно. Полный audit — в source-странице [[sources/2026-04-14-tg-community-tech-voronin-feb-apr-2026]].
 
+## 6. Апрельский recap-пост 991 (2026-05-15) — community-метрики + АтлантGPT (источник: [[sources/2026-05-19-tg-community-tech-voronin-april-recap-991|тг-пост 991 + инфографика]])
+
+Третий ingest канала. Один пост-recap «Как прошел апрель в „Атлантах“» с прикреплённой брендированной инфографикой «Ключевые цифры». Этот installment дал **сразу три полноценные слоевые страницы** — рекордный «выход» для канала Воронина, потому что пост содержит и numeric-метрики, и продуктовый сигнал, и воспроизводимый content-формат.
+
+### 6.1. Community-engagement метрики → новая evolving-strict страница
+
+Recap + инфографика дали первый numeric-снимок членской базы клуба: **1231 предприниматель в сообществе**, **16 новых резидентов/мес**, **90 мероприятий/мес**, **215 решённых запросов**, **259 благодарностей** (всё за апрель 2026, self-reported). Числа 1231 и 16 — только в инфографике-картинке, не в тексте. Полные числа с inline-маркерами + расчётные коэффициенты (плотность событий, peer-reciprocity) — в [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]]. Это первый раз, когда канал даёт benchmark по размеру базы (раньше — только cross-promo speaker-swap числа из мая).
+
+### 6.2. АтлантGPT → competitor-positioning + convergence-тренд
+
+Клуб встроил в своё приложение ИИ-помощника **АтлантGPT** «для быстрого поиска нужных людей и решения запросов». Это конкретный RU-пример конвергенции community-платформы в AI-augmented platform → обновлён тренд [[evolving/industry-trends/marketplace-community-convergence-2026]] и создан dedicated competitor-профиль [[evolving/competitor-positioning/atlanty-business-club-positioning-2026]] (раньше «Атланты» жили только bullet-point'ом внутри [[evolving/industry-trends/ru-smb-mentor-community-market-2026]]).
+
+### 6.3. Формат месячного recap-дайджеста → новая content-trends страница
+
+Структура поста (метрики-заголовок → спикер-ростер → product-update → engagement-CTA + scannable-инфографика) — воспроизводимый proof-of-vitality content-pattern для membership-сообщества. Разобран в [[evolving/content-trends/community-monthly-recap-digest-format-2026]] с adaptation для GRO («product-pulse» вариант).
+
+### 6.4. Не вошло в слои из поста 991 (audit)
+
+- Спикер-ростер апреля (STONE/Санфиров, СКОЛКОВО/Витчак, SPLAT/Дёмин, AI-инвестиции/Давыдов) — зафиксирован в source-странице и competitor-профиле как иллюстрация уровня программы, отдельной страницей не выносится.
+- Описание состава приложения (календарь + библиотека знаний) — продуктовая деталь, в competitor-профиль, не отдельно.
+- Эмоциональный CTA-хвост «А как у вас дела? 👀» — пример engagement-CTA, зафиксирован в content-trends странице как элемент формата.
+
 ## Связанные страницы
 - [[sources/2026-04-14-tg-community-tech-voronin-feb-apr-2026]]
 - [[sources/2026-05-14-tg-community-tech-voronin-may-2026]]
+- [[sources/2026-05-19-tg-community-tech-voronin-april-recap-991]]
 - [[canon/marketing-frameworks/voronin-preventive-social-capital]]
 - [[evolving-strict/campaign-metrics/cross-promo-speaker-swap-benchmark-2026]]
+- [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]]
+- [[evolving/competitor-positioning/atlanty-business-club-positioning-2026]]
+- [[evolving/content-trends/community-monthly-recap-digest-format-2026]]
+- [[evolving/industry-trends/marketplace-community-convergence-2026]]
+- [[evolving/industry-trends/ru-smb-mentor-community-market-2026]]
 - [[canon/target-audience/gro-segments]]
 - [[evolving/content-trends/telegram-native-formats]]
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
