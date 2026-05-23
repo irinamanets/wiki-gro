@@ -9,8 +9,8 @@ tags: [legal, compliance, pr, erid, erir, fas, rkn, hr-ai, gdpr-equivalent]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-15
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-14-dzen-delovoy-mir-brand-podcasts-markina.md]
+updated: 2026-05-23
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-14-dzen-delovoy-mir-brand-podcasts-markina.md, sources/2026-05-22-pressfeed-survey-tools-data-localization-ru.md, sources/2026-05-18-pressfeed-168fz-anglicism-check-services.md]
 namespace: mkt
 ---
 
@@ -122,6 +122,8 @@ namespace: mkt
 
 **Implication для маркетинга:** все продуктовые тексты, рекламирующие AI-инструменты HR с обработкой данных кандидатов, должны явно указывать локализацию (где хранятся данные) и наличие согласия. Для российских продуктов это конкурентное преимущество над западными SaaS — см. [[evolving/competitor-positioning/hh-ru-ai-hiring-suite-2026]].
 
+**Локализация данных (ред. 2025) — отдельная страница.** Жёсткое ужесточение требования локализации (с 1 июля 2025 однозначный запрет иностранных серверов под ПДн граждан РФ, конкретный размер штрафов, запрет Google Forms и иностранных конструкторов опросов/форм) вынесено в [[canon-strict/legal-claims/ru-data-localization-152fz-2025]]. `[conf:high, src:2026-05-22]`
+
 ## ФЗ №168-ФЗ: русификация брендов (с 1 марта 2026)
 
 Параллельно маркировке рекламы действует ФЗ №168-ФЗ — жёсткие ограничения на использование иностранных слов в публичном пространстве. `[conf:medium, src:2026-04-16]`
@@ -130,7 +132,16 @@ namespace: mkt
 
 Штрафы: до 500 000 руб. по ст. 14.3 КоАП. `[conf:medium, src:2026-04-16]`
 
-**Исключения:** бренд в ЕГРЮЛ или зарегистрированный в Роспатенте товарный знак; слова, вошедшие в нормативные словари РАН («ивент», «нетворкинг», «кейтеринг», «тимбилдинг»). `[conf:medium, src:2026-04-16]`
+**Исключения:** бренд в ЕГРЮЛ или зарегистрированный в Роспатенте товарный знак; слова, вошедшие в нормативные словари РАН («ивент», «нетворкинг», «кейтеринг», «тимбилдинг»); **B2B-материалы** (информация для представителей бизнеса, не для конечных потребителей — например, сайт B2B-компании). `[conf:medium, src:2026-05-18]`
+
+**Надзор и применимые статьи КоАП.** Специальных штрафов под 168-ФЗ не вводили — соответствие контролируют Роспотребнадзор и ФАС через уже действующие статьи КоАП. `[conf:medium, src:2026-05-18]`
+
+- Ст. 14.8 КоАП (нарушение прав потребителей на достоверную информацию): должностное лицо/ИП — 500–1 000 ₽ `[conf:medium, src:2026-05-18]`; компания — 5 000–10 000 ₽ `[conf:medium, src:2026-05-18]`.
+- Ст. 14.3 ч.1 КоАП (нарушение закона «О рекламе»): гражданин — 2 000–2 500 ₽ `[conf:medium, src:2026-05-18]`; ИП/должностное лицо — 4 000–20 000 ₽ `[conf:medium, src:2026-05-18]`; юрлицо — 100 000–500 000 ₽ `[conf:medium, src:2026-05-18]`.
+
+**Требование к оформлению перевода.** Иностранные слова убрать, продублировать на русском или дать понятное пояснение; перевод должен быть на виду, в том же оформлении (нельзя мелким шрифтом внизу баннера). `[conf:medium, src:2026-05-18]`
+
+**Compliance-тулинг.** Сервисы автопроверки текстов/файлов/сайтов на англицизмы по нормативным словарям («Орфограммка», «Можнослов», «ГосСловарь», «Белинский» и др.) — обзор и цены в [[evolving/content-trends/ru-anglicism-check-tools-2026]]. Автопроверка — ориентир, не юр. заключение. `[conf:medium, src:2026-05-18]`
 
 Подробнее — [[evolving/industry-trends/ru-brand-russification-law-2026]].
 
@@ -159,6 +170,7 @@ namespace: mkt
 - [[evolving/industry-trends/native-pr-russia-2026]] — как рынок адаптируется к регуляторике
 - [[evolving/competitor-positioning/max-messenger]] — MAX как ответ на регуляторное давление
 - [[evolving/industry-trends/ru-brand-russification-law-2026]] — закон о русификации брендов
+- [[evolving/content-trends/ru-anglicism-check-tools-2026]] — сервисы автопроверки на англицизмы (168-ФЗ compliance)
 - [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]] — кумулятивный эффект ограничений
 - [[evolving/competitor-positioning/hh-ru-ai-hiring-suite-2026]] — пример hr-ai продукта с 152-ФЗ-compliance
 - [[evolving-strict/campaign-metrics/hh-ru-call-channel-effectiveness-2026]] — звонки через hh.ru как ответ на ограничения WhatsApp/Telegram

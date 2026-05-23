@@ -9,8 +9,8 @@ tags: [ai-influencer, content-stack, heygen, elevenlabs, solopreneurship, paid-t
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
+updated: 2026-05-19  # +FaceKit (4-й ingest канала, пост 631): второй cross-corroborating AI-инфлюенсер кейс — теперь AI-аватары продают софт/подписку, не только физпродукт; новые dark-pattern abandon-cart + face-scan-before-paywall
+sources: [sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -19,6 +19,25 @@ namespace: mkt
 Operational-playbook **AI-инфлюенсера** как масштабируемой замены живого инфлюенсер-маркетинга, описанный Михаилом Табуновым ([[sources/2026-05-13-tg-your-pet-project-may-6-13-2026]] пост 629, 2026-05-13). Источник на пост — оригинальный тред в твиттере неназванного "чувака из США" про **$75M+ all-time выручки на сетке AI-инфлюенсеров-бабушек**.
 
 `confidence: medium`: первичные метрики ($250K/мес, $75M all-time) — single-source self-reported через пересказ Табунова, не верифицированы напрямую. **AmzScout-данные по продуктам Amazon** (70-80k продаж/мес × $35 = $2.5M/мес/$30M год) — публично проверяемые, но Табунов сам отмечает «если сложить выручку всех продуктов через amzscout, то похоже на правду». Stack ($206/мес HeyGen+ElevenLabs+прокси) — публичные тарифы, верифицируемые. Concept-level (рабочая ли механика) — **высокое consensus** на уровне индустрии, см. cross-corroboration с [[evolving/content-trends/ai-impersonation-into-classic-scenes-2026]] и [[evolving/content-trends/neuroprozharka-ai-indie-filmmaking-format]].
+
+## Cross-corroboration: FaceKit (второй кейс, теперь продаёт софт)
+
+[delta 2026-05-19] Второй cross-corroborating кейс AI-инфлюенсерной монетизации от того же автора ([[sources/2026-05-19-tg-your-pet-project-may-14-18-2026]] пост 631): **FaceKit – 3D Face Analysis** — iOS-приложение ($110K за 4 месяца), где сеть AI-аватаров-парней в TikTok гонит трафик на looksmaxxing-сканер лица. Полные метрики — [[evolving-strict/competitor-metrics/facekit-ai-influencer-app-monetization-2026]].
+
+**Что добавляет FaceKit к playbook:**
+
+1. **AI-инфлюенсеры продают не только физпродукт, но и софт/подписку.** Нейробабушки → БАДы на Amazon. FaceKit → подписка приложения в App Store. Та же дистрибуционная механика (сеть нейроперсонажей + органика + ноль ad spend), другая монетизация. Это **расширяет применимость paттерна** с e-commerce на SaaS/apps.
+2. **Другой демографический аватар, та же механика.** Бабушки разных этничностей («зашёл в гости») → накачанные молодые парни (looksmaxxing-мемы «до/после»). Аватар адаптируется под нишу, структура «hook на сегмент + узнаваемый персонаж + слайдшоу + CTA через Linktree» — инвариант.
+3. **Ноль performance-трафика подтверждён вторым кейсом.** FaceKit: $0 Meta/Google/TikTok ads. Это усиливает тезис «AI-инфлюенсер = органический канал, не paid».
+4. **Новые dark-pattern механики:** abandon-cart downsell (~50% выручки) + face-scan-before-paywall (sunk-cost trap). Вынесены в отдельную canon-страницу [[canon/marketing-frameworks/abandon-cart-paywall-dark-patterns]].
+
+| Ось | Нейробабушки | FaceKit |
+|---|---|---|
+| Монетизация | физпродукт (Amazon FBA) | подписка приложения (App Store) |
+| Аватар | пожилые женщины | накачанные молодые парни |
+| Платформа | TikTok + Instagram | TikTok |
+| Performance ads | ноль (органика) | ноль (органика) |
+| Источник метрик | пересказ US-треда | прямое наблюдение Табунова |
 
 ## Главный тезис
 
@@ -167,6 +186,8 @@ GRO как продукт **не может напрямую использов�
 
 ## Связанные страницы
 
+- [[evolving-strict/competitor-metrics/facekit-ai-influencer-app-monetization-2026]] — второй AI-инфлюенсер кейс (софт/подписка вместо физпродукта)
+- [[canon/marketing-frameworks/abandon-cart-paywall-dark-patterns]] — dark-pattern механики из FaceKit-кейса
 - [[canon/marketing-frameworks/build-in-public-as-paid-traffic-anti-pattern]] — то же founder, противоположный pattern (бабушки — это **paid-content-engine**, не build-in-public)
 - [[canon/marketing-frameworks/social-proof-traffic-asset-framework-tabunov]] — счётчик аудитории «150к подписчиков» — пруф, который бабушки сами создают
 - [[canon/marketing-frameworks/ai-text-markers-checklist]] — почему AI-content детектируется (и нужно решать, как это компенсировать)

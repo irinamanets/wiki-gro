@@ -9,8 +9,8 @@ tags: [vibecoding, ai, cursor, claude-code, lovable, base44, tools, ecosystem]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-05  # +Спиридонов: founder-CEO normalization signal +Atria (конкурентный шпион) +Claude Design (visual-AI слот) из второго solokumi-дампа
-sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-solokumi-redump-dec25-apr26.md]
+updated: 2026-05-22  # +cross-ref на RU app-builder inventory (локальные аналоги L1 prompt-to-app: Чатиум/Miniapps.ai vs Lovable/Base44/Rork). Prior: +Спиридонов founder-CEO normalization +Atria +Claude Design
+sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-solokumi-redump-dec25-apr26.md, sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov.md]
 namespace: mkt
 ---
 
@@ -57,6 +57,9 @@ namespace: mkt
 ### Replit Agent
 - **Позиционирование:** code-first подход. AI генерит код, но ты сам его редактируешь и дебажишь
 - **Когда брать:** ты уже немного кодишь и хочешь гибридный режим — не L2 с агентом, но и не полный L1 без контроля
+
+### RU-локализованные prompt-to-app аналоги
+Для русскоязычного пользователя с проблемами оплаты западных L1-инструментов есть **RU-аналоги prompt-to-app слоя** — «Чатиум», Miniapps.ai, GigaStudio (Сбер), Yandex AI Studio. Они проще и шаблоннее западных (Lovable/Base44), сильно завязаны на Telegram Mini Apps и интернет-магазины, и редко дают выгрузку в сторы. Это **не dev-tools** (нет терминала/файлов/контроля), а конструкторы конечных приложений. Полный inventory с под-типами и ценами — [[evolving/competitor-positioning/ru-nocode-app-builder-platforms-2026]]. Функциональный аналог Rork (мобайл из промта) в RU-стеке пока отсутствует — gap для отслеживания.
 
 ## L2 — IDE + агент (основной рабочий уровень)
 
@@ -184,6 +187,8 @@ namespace: mkt
 - [[evolving/content-trends/ai-tools-self-hosting-arbitrage]] — экономический рычаг: in-house infra + Claude Code-агенты вместо SaaS
 - [[evolving/content-trends/sales-ops-ai-tooling-stack-2026]] — параллельный sales-ops стек (Clay, Gumloop, ElevenLabs, Granola, NotebookLM)
 - [[canon/marketing-frameworks/landing-15min-figma-cursor]] — пайплайн «лендинг за 15 минут» через Figma+Cursor+Claude Code, конкурент Claude Design в визуальном слоте
+- [[evolving/competitor-positioning/ru-nocode-app-builder-platforms-2026]] — RU-локализованный prompt-to-app слой (Чатиум/Miniapps.ai/GigaStudio) — конструкторы, не dev-tools
+- [[sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov]] — источник RU app-builder аналогов L1-слоя
 
 ## Backlinks
 

@@ -9,14 +9,16 @@ tags: [ai-agents, no-code, yandex, gigachat, just-ai, mws, nodul, ru-market, b2b
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +Just AI open distribution kit (on-prem, free-month, @mspiridonov 4401, erid 2VtzqwqNSUw) — 3-й трекаемый Just AI advertorial; on-prem GTM-сдвиг от Cloud-варианта
-sources: [sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md]
+updated: 2026-05-22  # +disambiguation от соседней категории app-builders (новая страница ru-nocode-app-builder-platforms-2026); GigaStudio (Сбер) как app-builder-сосед к ГигаЧат Бизнес. Prior: +Just AI open distribution kit (on-prem, free-month, @mspiridonov 4401, erid 2VtzqwqNSUw)
+sources: [sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md, sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov.md]
 namespace: mkt
 ---
 
 # RU no-code AI-agent платформы — inventory апрель 2026
 
 К апрелю 2026 в РФ публично оформилась категория **no-code / low-code AI-agent платформ для бизнеса** — инструменты, которые позволяют компаниям собирать собственных чат-, голосовых и action-агентов без команды разработчиков. Эта страница — первый inventory этого сегмента в marketing-memory. До этого момента была только одиночная запись про Yandex B2B Tech в [[evolving/industry-trends/ru-vertical-ai-signals-2026|сигналах RU vertical-AI]] (сигнал 4).
+
+> **Disambiguation — agent-builder ≠ app-builder.** Эта страница про **сборку агентов** (чат-/голос-/action), которые встраиваются в бизнес-процесс. Соседняя, но **отдельная** категория — **сборка готовых приложений** (нативных, PWA, Telegram Mini Apps): см. [[evolving/competitor-positioning/ru-nocode-app-builder-platforms-2026]]. Из источника [[sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov|Pressfeed (май 2026)]] видно, что **Yandex AI Studio** и **GigaStudio (Сбер)** играют сразу в обеих категориях (BigTech, гибрид конструктора + ИИ). GigaStudio — новый для нашей вики Сбер-продукт, app-builder-сосед к уже зафиксированному здесь «ГигаЧат Бизнес».
 
 Источник inventory: [[sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents|Inc. Russia через Дзен]]. Это **вендорский нарратив из делового медиа, не независимое исследование**, поэтому confidence `medium` и TTL 180 дней.
 
@@ -133,6 +135,8 @@ Evolving + loose — soft TTL 180 дней. Обязательная ре-вер
 - [[evolving-strict/market-data/ru-business-ai-adoption-2026]] — 71% компаний РФ наращивают AI-бюджеты (контекст спроса)
 - [[evolving/industry-trends/ai-agent-economy-2026]] — глобальный фон экономики AI-агентов (Stripe MPP, webmcp)
 - [[evolving/competitor-positioning/vibecoding-stack-ecosystem-2026]] — adjacent-category: no-code AI-агенты vs vibecoding стек (разные задачи — автоматизация бизнес-процессов vs prompt-to-app)
+- [[evolving/competitor-positioning/ru-nocode-app-builder-platforms-2026]] — соседняя категория: сборка готовых приложений (не агентов); пересечение по Yandex AI Studio / GigaStudio (Сбер)
+- [[sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov]] — источник disambiguation app-builder vs agent-builder + новый Сбер-продукт GigaStudio
 
 ## Backlinks
 

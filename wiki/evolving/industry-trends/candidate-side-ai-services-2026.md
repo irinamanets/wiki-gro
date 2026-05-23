@@ -9,8 +9,8 @@ tags: [hr-tech, ai-agents, candidate-side, hiring, career, awareness, considerat
 confidence: medium
 stale: false
 created: 2026-04-27
-updated: 2026-05-05  # +whohasjobs.com US (15847), «бизнес на резюме» в РФ (15811), IT-coaching circle 30-50% зарплаты × 2 года (15815) через @bezsmuzi
-sources: [sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md]
+updated: 2026-05-18  # +HR-side reframe (Е. Середа, Pressfeed): ATS/AI — оптимизация скрининга, не причина отказов; точечные позиции — ручной поиск
+sources: [sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md]
 namespace: mkt
 ---
 
@@ -112,6 +112,21 @@ Confidence по факту существования: `medium` — Горный
 
 **Hook для GRO-content:** «За 2 года coaching ты отдашь 30-50% дохода. AI делает то же быстрее за 10%. Что сделаешь?» `[conf:low, src:2026-05-04]` — резонирует с Hook 13 в [[evolving/content-trends/career-audience-hooks-2026]] и развивает ROI-аргумент Горного.
 
+## HR-side reframe: ИИ — оптимизация скрининга, а не причина отказов (Е. Середа, Pressfeed)
+
+Через [[sources/2026-05-18-pressfeed-rynok-truda-2026-sereda|вебинар Е. Середа]] (HR-эксперт, карьерный консультант 10+ лет, inferred-эксперт, событие 5 марта 2026, `confidence: medium`) — голос **с другой стороны воронки**, балансирующий candidate-side-нарратив этой страницы.
+
+По мнению Середа, распространённая гипотеза кандидатов «меня отсеивает автоматический отбор» верна лишь отчасти:
+
+- Инструменты автоматизации (ATS, первичный скрининг) применяются **в основном для массового подбора** и фильтрации большого потока откликов.
+- Точечные и **управленческие позиции по-прежнему закрываются ручным поиском**.
+- Вывод Середа: автоматизация — это **способ оптимизировать процесс, а не причина отказов**. Главная причина отказа — **несоответствие ожиданиям бизнеса**, а не алгоритм.
+
+**Почему это важно для категории candidate-side AI-сервисов:**
+
+1. **Уточняет value-границу AI-tutor.** Если ATS-обход работает преимущественно на массовом потоке (где автоматизация и стоит), то candidate-side AI-агенты (Горный thesis: резюме + массовые отклики + переписка) дают максимальный leverage **именно на массовом сегменте** вакансий. На точечных/управленческих позициях, где решает ручной отбор и «соответствие ожиданиям», AI-аутсорс отклика даёт меньше — там работает прямой контакт и медийность (см. Hook 34 в [[evolving/content-trends/career-audience-hooks-2026]]).
+2. **Балансирует ATS-collapse narrative.** Страница [[evolving/industry-trends/ru-job-seeker-experience-2026]] (Hook 9 «резюме пишут роботы, читают роботы») фиксирует candidate-side фрустрацию. Середа добавляет HR-side коррекцию: алгоритм — не злодей, проблема в mismatch ожиданий. Для GRO-content это означает: нельзя строить нарратив только на «победи ATS» — реальный leverage в **усилении реальных компетенций** под ожидания бизнеса (мостик к core-value GRO «системность»).
+
 ## Стратегические вопросы для маркетинга GRO
 
 GRO — фитнес-приложение, не HR-tech. Прямого пересечения нет. Но категория важна как **adjacent narrative-источник**:
@@ -129,6 +144,7 @@ GRO — фитнес-приложение, не HR-tech. Прямого пере
 - [[evolving/industry-trends/ru-job-seeker-experience-2026]] — qualitative-side того же тренда
 - [[sources/2026-04-27-tg-startupoftheday-apr-15-27-2026]] — оригинал
 - [[sources/2026-05-05-tg-bezsmuzi-may-3-5]] — reinforcing signals (whohasjobs.com US, RU «бизнес на резюме», IT-coaching pricing 30-50% × 2 года)
+- [[sources/2026-05-18-pressfeed-rynok-truda-2026-sereda]] — HR-side reframe (ИИ как оптимизация скрининга, не причина отказов)
 - [[evolving-strict/market-data/ru-labor-market-q1-2026]] — макро: 105 147 сокращений, +43%, безработица 2,2% — фон для роста спроса
 
 ## Ре-верификация

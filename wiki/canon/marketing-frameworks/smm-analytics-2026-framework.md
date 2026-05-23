@@ -9,8 +9,8 @@ tags: [smm, analytics, content, social, decision, frameworks, ru]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +ERV vs ER decision-grade блок (@dnative/LiveDune, май 2026) + 3 cross-ref
-sources: [sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-19-tg-dnative-digest-7613-7628.md]
+updated: 2026-05-19  # +ERV vs ER decision-grade блок (@dnative/LiveDune, май 2026) + 3 cross-ref | +Telegram-аналитика caveat (дефицит нативной аналитики TG → TGStat/Telemetr/Popsters; глобальный поиск постов как источник сигнала) из обзора Pressfeed
+sources: [sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-19-tg-dnative-digest-7613-7628.md, sources/2026-05-18-pressfeed-telegram-updates-2025-2026.md]
 namespace: mkt
 ---
 
@@ -55,9 +55,15 @@ namespace: mkt
 
 Тот же диагностический разрыв возникает при **накрутке роста**: подписчики растут (vanity), а просмотры стоят — признак ботов (см. кейс конкурса в [[evolving/content-trends/telegram-contest-bot-inflation-risk-2026]]). **Практика для SMM-аналитики:** в дашбордах канала держать ERV рядом с ER и читать их совместно; при любом скачке подписной базы (конкурс, чистка, накрутка) первичный вопрос — «выросли ли просмотры/ERV соразмерно?». Конкретные ВК-бенчмарки ERV по когортам — в [[evolving-strict/campaign-metrics/erv-vs-er-bot-cleanup-livedune-2026]].
 
+## Telegram-специфика аналитики (дополнение, май 2026)
+
+Обзор Pressfeed [[sources/2026-05-18-pressfeed-telegram-updates-2025-2026]] фиксирует структурный пробел: **нативной аналитики Telegram недостаточно** для decision-grade чтения сигнала — глубокие метрики (путь пользователя, влияние форматов на вовлечённость) доступны только у сторонних сервисов **TGStat, Telemetr, Popsters, Adstat.pro**. Практический вывод для этого фреймворка на TG: держать в стеке сторонний аналитический сервис, а не полагаться только на встроенную статистику канала.
+
+Дополнительный источник сигнала на TG — **глобальный поиск постов** (вкладка «Посты»): позволяет находить тематические обсуждения и упоминания бренда даже вне своей подписочной базы → сырьё для шага «Сбор» в workflow выше. Прикладной плейбук — [[canon/marketing-frameworks/telegram-global-post-search-leadgen]]. Карта механик платформы, влияющих на сбор сигнала, — [[evolving/content-trends/telegram-platform-capabilities-2026]].
+
 ## Связь с GRO
 
-- **Telegram-канал GRO** — главный источник такого сигнала: комментарии под постами + DM в техподдержку. Имеет смысл наладить периодический (раз в месяц) дайджест: топ-3 объекций, топ-3 запросов на функционал, топ-3 хвалебных нарратива
+- **Telegram-канал GRO** — главный источник такого сигнала: комментарии под постами + DM в техподдержку (включая новую механику «сообщение каналу», см. [[evolving/content-trends/telegram-platform-capabilities-2026]]). Имеет смысл наладить периодический (раз в месяц) дайджест: топ-3 объекций, топ-3 запросов на функционал, топ-3 хвалебных нарратива
 - **Соцсети конкурентов** (Nike Training Club, FitBod, Adidas Training, Yoga Journal RU): отслеживать sentiment под постами, разрывы между обещанием и реальностью — это контент-идеи для нашего блога
 - **Не путать с tracking-метриками медиаплана** — SMM-аналитика 2026 это качественный сигнал, не количественный CTR/CPM. Эти два потока должны жить параллельно
 - **AEO-связка** — обсуждения в соцсетях создают семантический сигнал для LLM (см. [[evolving/industry-trends/ai-search-aeo-geo-2026]]): чем больше про бренд говорят, тем выше шанс попасть в AI-ответ
@@ -71,5 +77,8 @@ namespace: mkt
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — обсуждения как сигнал для AI-видимости
 - [[evolving-strict/campaign-metrics/erv-vs-er-bot-cleanup-livedune-2026]] — ВК-бенчмарки ERV/ER (LiveDune), почему ERV честнее
 - [[evolving/content-trends/telegram-contest-bot-inflation-risk-2026]] — диагностика накрутки по разрыву подписчики/просмотры
+- [[evolving/content-trends/telegram-platform-capabilities-2026]] — карта механик TG, влияющих на сбор сигнала; дефицит нативной аналитики
+- [[canon/marketing-frameworks/telegram-global-post-search-leadgen]] — глобальный поиск постов как источник сигнала и lead-gen
 - [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] — первоисточник
 - [[sources/2026-05-19-tg-dnative-digest-7613-7628]] — дополнение про ERV vs ER (@dnative, май 2026)
+- [[sources/2026-05-18-pressfeed-telegram-updates-2025-2026]] — Telegram-аналитика caveat + глобальный поиск постов

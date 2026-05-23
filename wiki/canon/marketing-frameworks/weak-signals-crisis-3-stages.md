@@ -9,7 +9,7 @@ tags: [pr, media-monitoring, crisis-pr, reputation-management, weak-signals, fra
 confidence: medium
 stale: false
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-23  # +cross-ref на crisis-speed-gap-zharinov: внутренний контур опережающих сигналов (вовлечённость/CX) комплементарен внешнему медийному
 sources:
   - sources/2026-05-19-pressfeed-mediamonitoring-prognozirovanie-weak-signals.md
 namespace: mkt
@@ -130,6 +130,7 @@ Operational-плейбук для PR / коммуникационной кома
 - **Метрики для мониторинга** (тональность, заметность, индекс прямой речи, ИРР, дисбаланс с конкурентами) — см. [[canon/marketing-frameworks/media-monitoring-pr-framework]] раздел «Метрические оси».
 - **«Удобный виновник»** — паттерн поздней стадии 3.3 разворачивается в самостоятельный narrative-фреймворк: [[canon/marketing-frameworks/convenient-blame-association-pattern]].
 - **Кейс Byju's** — пример того, как при отсутствии активного управления слабые сигналы за **2 года** доводят даже самого дорогого edtech-стартапа Индии до банкротства. См. [[canon-strict/historical-campaigns/byju-reputation-collapse-case]].
+- **Внутренний контур опережающих сигналов.** Эта таксономия описывает **внешний** (медийный) ранний контур; её внутренний аналог — два опережающих индикатора Жаринова (**вовлечённость команды → клиентский опыт → финансы**) против запаздывающего «посмертного учёта» по P&L. См. [[canon/marketing-frameworks/crisis-speed-gap-zharinov]]. Вместе они дают полный early-warning охват: weak-signals ловит, как кризис проявляется *снаружи* (в инфополе), Жаринов — как он зреет *внутри* (в команде и CX) до того, как станет публичным или финансовым.
 
 ## Применимость к GRO
 

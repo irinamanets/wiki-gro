@@ -9,8 +9,8 @@ tags: [hh, automation, productivity, knowledge-workers, ru-labor, talantix]
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-06  # +second independent publication confirmation through Inc.Russia 36707
-sources: [sources/2026-05-05-dzen-hh-automation-survey.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md]
+updated: 2026-05-23  # +regional SPb corroboration (dp.ru 68%)
+sources: [sources/2026-05-05-dzen-hh-automation-survey.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-07-dp-68-peterburzhcev-avtomatizaciya-effektivnost.md]
 namespace: mkt
 ---
 
@@ -85,6 +85,12 @@ namespace: mkt
 2. **Inc.Russia editorial framing** — материал заходит как «Что это значит для бизнеса»: **«Сотрудники уже воспринимают автоматизацию как базовое условие нормальной работы, а не как бонус. При этом компании заметно отстают от этих ожиданий — и это становится фактором эффективности и удержания персонала»**. `[conf:high, src:2026-05-05]` Это рамка-вывод для маркетингового контента, **резонирует с automation-eager ЦА** ([[canon/target-audience/automation-eager-knowledge-worker-ru]]).
 3. **Reusable hook-pattern из материала Inc**: «**Рутина напрямую "съедает" рабочее время и деньги; автоматизация постепенно превращается в конкурентное преимущество на рынке труда — особенно в условиях дефицита кадров**.» `[conf:high, src:2026-05-05]` Готовая формула для employer-branding контента.
 
+## Региональное подтверждение — Санкт-Петербург (dp.ru, 2026-05-07)
+
+Деловой Петербург (dp.ru) 2026-05-07 опубликовал региональный датапоинт: **68% петербуржцев считают автоматизацию инструментом для рабочей эффективности** `[conf:low, src:2026-05-07]`. Цифра практически совпадает с национальным «70% сотрудников РФ» из опроса HH × Talantix `[conf:high, src:2026-05-05]` — региональный срез корроборирует national-тренд (разница в пределах ~2 п.п.).
+
+**Caveat:** источник dp.ru захвачен краулером только в виде заголовка — тело статьи (методология, выборка, организация-исполнитель, дата проведения опроса) не получено, поэтому датапоинт держится с `confidence: low` и не используется как самостоятельный факт, только как директионное подтверждение национального числа. См. [[sources/2026-05-07-dp-68-peterburzhcev-avtomatizaciya-effektivnost]].
+
 ## Связанные страницы
 
 - [[canon/target-audience/automation-eager-knowledge-worker-ru]] — ЦА-портрет
@@ -93,6 +99,7 @@ namespace: mkt
 - [[evolving-strict/market-data/ru-corporate-ai-assistants-2026]] — корпоративные AI-ассистенты
 - [[sources/2026-05-05-dzen-hh-automation-survey]]
 - [[sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026]] — параллельная публикация на Inc.Russia 36707
+- [[sources/2026-05-07-dp-68-peterburzhcev-avtomatizaciya-effektivnost]] — региональное подтверждение по Санкт-Петербургу
 
 ## Backlinks
 

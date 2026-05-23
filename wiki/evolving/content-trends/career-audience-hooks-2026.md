@@ -9,8 +9,8 @@ tags: [content, post, awareness, consideration, career]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +Hook 32 «Перестаньте переписывать резюме» (HH единая карьерная история + resume-SEO) + Hook 33 «Окно перехода после бонусов» + книга-трансформация (Бриджес)
-sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-dzen-hh-kareernyj-marketplace-checklist.md, sources/2026-04-16-dzen-hh-profession-test-15.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-hh-ru-official-may-7-13-2026.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md]
+updated: 2026-05-18  # +Hook 34 «Кандидат как продукт: мультитач + личная медийность» (Е. Середа, Pressfeed-вебинар)
+sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-dzen-hh-kareernyj-marketplace-checklist.md, sources/2026-04-16-dzen-hh-profession-test-15.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-hh-ru-official-may-7-13-2026.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md]
 namespace: mkt
 ---
 
@@ -1008,10 +1008,35 @@ GRO-перенос: тот же frame применим к **готовности
 - **Не подавать сезонность как универсальную.** Bonus-migration применима к финансово-юридическому/руководящему сегменту; для middle/junior календарь другой. Маркировать аудиторию явно.
 - **Не превращать книжную рекомендацию в продажу книги.** Книга — иллюстрация рамки, а не аффилиат-CTA. Hook про **состояние аудитории**, не про «купите Бриджеса».
 
+## Hook 34 — «Кандидат как продукт: мультитач + личная медийность» (Е. Середа, Pressfeed)
+
+**Сегмент ЦА:** карьеристы (сегмент 1), особенно офисный средний слой — ядро ЦА GRO.
+
+**Источник:** вебинар Екатерины Середа (HR-эксперт, карьерный консультант 10+ лет, inferred-эксперт), пересказ на news.pressfeed.ru ([[sources/2026-05-18-pressfeed-rynok-truda-2026-sereda]], событие 5 марта 2026, `confidence: medium`).
+
+**Суть:** Середа фреймит рынок труда 2026 как **рынок товаров и услуг**: работодатель — клиент, кандидат — продукт, конкурирующий за внимание. Следствие — одного отклика недостаточно, нужно выстраивать **несколько точек контакта** с работодателем + **присутствие в медиа/СМИ** (блог, экспертные публикации). `[conf:medium, src:2026-05-18]` «Побеждает тот, кто проявляет инициативу и ищет нестандартные способы выйти на контакт и продемонстрировать свою экспертизу».
+
+**Формулировка hook для поста GRO:**
+> «Резюме улетело в ATS и пропало? В 2026 один отклик — это как один пост в пустоту. Рынок труда стал рынком товаров: вы — продукт, работодатель — клиент. Продукты не ждут, пока их найдут на полке. 3 точки контакта вместо одного отклика — и вас замечают».
+
+**Под-вариант (личная медийность как актив):**
+> «Самый недооценённый карьерный актив 2026 — это то, что про вас можно прочитать **до** собеседования. Блог, экспертные комментарии, кейсы в открытом доступе. Когда HR гуглит — он должен найти подтверждение, а не пустоту».
+
+**Почему работает:** даёт **конкретную тактику** (мультитач, медийность) вместо тревоги, и переводит соискателя из пассивной роли («жду ответа на отклик») в активную («строю присутствие») — это resonance с core-value GRO «инициатива + системность». Усиливает Hook 1 («7 шагов до резюме») практической дистрибьюционной частью.
+
+**Связь с другими hooks:**
+- **Cross-link к Hook 9** «Это не ты плохой соискатель» — Hook 34 даёт **решение** к той же боли (ATS не видит → стройте каналы помимо ATS).
+- **Cross-link к Hook 13** «AI-аутсорс соискательства» — Середа добавляет качественную причину: ИИ оптимизирует скрининг, поэтому ручной leverage (медийность, прямой контакт) важнее на точечных позициях. См. [[evolving/industry-trends/candidate-side-ai-services-2026]].
+
+**Anti-hook:**
+- **Не превращать в «заведите личный бренд» инфобиз-нарратив.** Hook про **доказуемую экспертизу в открытом доступе**, а не про «упаковку себя» ради лайков. Медийность здесь — proof, а не косметика.
+- **Не подавать как универсальную для всех ролей.** Для массовых/линейных профессий (где дефицит кадров, см. [[evolving/industry-trends/ru-labor-market-employer-turn-2026]]) мультитач избыточен — hook адресован офисному/экспертному слою.
+
 ## Маппинг hook'ов на воронку
 
 | Hook | Awareness | Consideration | Decision | Retention |
 |---|---|---|---|---|
+| Кандидат как продукт: мультитач + медийность (Hook 34, Середа/Pressfeed) | + | + | | |
 | 7 шагов до резюме | + | + | | |
 | 5 пунктов Poleschuk | + | + | | |
 | Схема 300/250/350 | + | | | |
@@ -1080,6 +1105,8 @@ GRO-перенос: тот же frame применим к **готовности
 - [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]] — @recruiter_live дамп 18–19 мая — источник Hook 32 (HH «единая карьерная история» + resume-SEO, Гусева LinkedIn) и Hook 33 (сезонный «переход после бонусов» + книга-трансформация Бриджес)
 - [[evolving/competitor-positioning/hh-ru-hrtech-platform]] — продуктовая механика «единая карьерная история» за Hook 32
 - [[evolving/content-trends/book-recommendation-carousel-tg]] — книжно-рекомендательный формат, в который укладывается Hook 33Б
+- [[sources/2026-05-18-pressfeed-rynok-truda-2026-sereda]] — вебинар Е. Середа (Pressfeed) — источник Hook 34 («кандидат как продукт: мультитач + медийность»)
+- [[evolving/industry-trends/ru-labor-market-employer-turn-2026]] — макро-контекст Hook 34 (дуальный split массовые/офисные, найм-vs-удержание)
 
 ## Backlinks
 

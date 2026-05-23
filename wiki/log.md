@@ -6705,3 +6705,813 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {sources: 1}
 - touched: 1 page
 - raw: raw/processed/articles/web_news.pressfeed.ru_kak-prodvigatsya-kogda-vsyo-otklyucheno-vebinar_5d3e4263.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-19 12:50] [ingest] | Telegram @gurinovich_shares 917–919 (14–18 мая 2026) — Новак-growth, быстрый контент, AI-производительность [bundle: +2 видео, transcript pending]
+- source: wiki/sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md
+- created:
+  - wiki/evolving/content-trends/fast-content-consumption-shift-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-macro-snapshot-may-2026.md
+  - wiki/evolving/industry-trends/ai-replacing-jobs-global-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 1, evolving-strict: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_gurinovich_shares_20260519-124008.md + 2 video children (918, 919)
+
+## [2026-05-22 20:25] [ingest] | Telegram @gro_me — посты 379–389 (14–19 мая 2026): Чмух «личный бренд vs репутация», карусель рефрейминга, расширение ICP, герой Гудимова
+- source: wiki/sources/2026-05-19-tg-gro-me-379-389.md
+- created:
+  - wiki/canon/marketing-frameworks/personal-brand-vs-reputation-chmukh.md
+  - wiki/evolving/content-trends/news-reframing-carousel-gro.md
+- updated:
+  - wiki/evolving/product-reception/gro-channel-content-history.md (+раздел «Май 2026 (вторая половина), посты 379–389»; +Арка 6 (расширение ICP вниз + контент=демонстрация продукта); Чмух в Арке 5.)
+  - wiki/evolving/content-trends/gro-content-rubrics-system.md (+Чмух в гостевые эксперты #отпервоголица; +Гудимова/Bionova в Герои GRO; +секция про карусель «Рефрейминг новостей» (#помесим).)
+  - wiki/canon/brand-guidelines/gro-channel-tone-of-voice.md (+цитаты «элегантная публичность» и про планку предпринимательства; +Чмух в гостевой пул; +секция расширения ICP (пост 388); +секция #людидела/Гудимова.)
+  - wiki/evolving/industry-trends/blue-collar-ai-resilience-2026.md (+секция «GRO операционализировал тренд в контенте» (reframe-карточка «синие воротнички», пост 384) как подтверждённый кейс.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 4, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_gro_me_20260519-170005.md + 10 children (media/tg_gro_me_{379,381-389}.jpg)
+
+## [2026-05-19 09:50] [ingest] | Telegram @hh_ru_official — 16 постов 15–18 мая 2026 (HeadHunter Q1 2026 финрезультаты + зарплатный рост по профессиям)
+- source: wiki/sources/2026-05-19-tg-hh-ru-official-may-15-18-2026.md
+- created:
+  - wiki/evolving-strict/competitor-metrics/headhunter-group-q1-2026.md
+  - wiki/evolving-strict/market-data/ru-salary-growth-by-profession-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-hrtech-market-2023-2025.md
+  - wiki/evolving-strict/market-data/ru-labor-market-q1-2026.md
+  - wiki/evolving/competitor-positioning/hh-ru-hrtech-platform.md
+  - wiki/evolving/content-trends/hh-ru-blog-content-patterns.md
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 4, evolving: 3, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_hh_ru_official_20260519-095003.md
+
+## [2026-05-22 20:30] [ingest] | Telegram @howtomake10x (Крылов) 18–19 мая 2026 — loyal-core retention-инсайт «Азбуки вкуса» (6,2%→36%) + вебинар Mindbox/SKMS (bundle: 1 article + 2 media)
+- source: wiki/sources/2026-05-19-tg-howtomake10x-1571-1572.md
+- created:
+  - wiki/evolving-strict/market-data/azbuka-vkusa-loyal-core-revenue-2026.md
+  - wiki/volatile-strict/industry-news/mindbox-skms-retention-webinar-2026-05.md
+- updated:
+  - wiki/canon/marketing-frameworks/retention-benchmarks-b2c.md (+секция loyal-core revenue-concentration (комплементарный B2C-retention-срез: ~6% базы держат ~⅓ выручки, переток в ядро = leading-indicator, selective retention); +5 cross-links; +source)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving-strict: 1, volatile-strict: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_howtomake10x_20260519-132001.md + 2 children (raw/processed/media/tg_howtomake10x_1571.jpg, tg_howtomake10x_1572.jpg)
+
+## [2026-05-22 01:45] [ingest] | Telegram @hutzp — 16 сообщений (3528–3543, 14–19 мая 2026): intellectual-club event-format + SETTERS EDUCATION + Creator-leadership фреймворк + recruitment-as-content
+- source: wiki/sources/2026-05-19-tg-hutzp-may-14-19-2026.md
+- created:
+  - wiki/evolving/content-trends/founder-intellectual-club-event-format.md
+  - wiki/canon/marketing-frameworks/creator-leadership-paradigm-shift.md
+- updated:
+  - wiki/evolving/competitor-positioning/settersgroup-ecosystem.md (+SETTERS EDUCATION как 5-я единица экосистемы (курс «Креативное лидерство» B2C + B2B corp-edu + суб-бренд найма A-Teams by SM); +операционная анатомия интеллектуального клуба изионистов (Бобков/Багаутдинов, T-Бизнес co-sponsor))
+  - wiki/evolving/content-trends/telegram-author-channel-patterns.md (+sub-pattern «recruitment-as-content» (3537, вакансия как brand-post в фирменном визуале A-Teams by SM); +подтверждение устойчивости ритуала «Цитата недели» через 5+ недель (3538 Соррентино))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, canon: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_hutzp_20260519-125006.md + 16 children → status: processed
+
+## [2026-05-19 10:26] [ingest] | Telegram @incrussiamedia — дайджест 11–17 мая 2026 (RU ИИ-видимость брендов, distinctive brand assets, потреб-терроризм маркетплейсов, research-4-questions)
+- source: wiki/sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md
+- created:
+  - wiki/evolving-strict/market-data/ru-ai-visibility-index-banks-2026.md
+  - wiki/canon/marketing-frameworks/distinctive-brand-asset-cases.md
+  - wiki/canon/marketing-frameworks/consumer-terrorism-marketplace-defense.md
+  - wiki/canon/marketing-frameworks/research-need-4-questions-pre-start.md
+- updated:
+  - wiki/evolving/content-trends/aeo-geo-llm-search-optimization-2026.md
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md
+  - wiki/evolving/industry-trends/ai-agent-economy-2026.md
+  - wiki/evolving-strict/market-data/ru-business-ai-adoption-2026.md
+- superseded:
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, evolving-strict: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_incrussiamedia_20260519-102655.md
+
+## [2026-05-22 02:00] [ingest] | Telegram @kwork_kwork — пост 566 (2026-05-19) «Цифровой порядок фрилансера»: новый digital-order productivity content-vector для Сегмента 3 + подтверждение бренд-канального ритма
+- source: wiki/sources/2026-05-19-tg-kwork-566-digital-order-freelancer.md
+- created:
+  - wiki/evolving/content-trends/digital-organization-freelancer-hooks.md
+- updated:
+  - wiki/evolving/content-trends/marketplace-content-driven-category-dev.md (+пост 566 как 5-я точка наблюдаемой последовательности (supply-side digital-order content-vector, не категориальный шаг); уточнение buyer-shift гипотезы (565 не получил продолжения → ослабление); editorial-ритм 565→566 = 7 дней без дрейфа; +cross-link на digital-organization-freelancer-hooks)
+  - wiki/evolving/content-trends/freelancer-growth-narrative-hooks.md (+cross-link на digital-organization-freelancer-hooks как параллельный content-угол для той же фрилансер-аудитории)
+  - wiki/evolving/product-reception/gro-productivity-energy-angle.md (+cross-link на digital-organization-freelancer-hooks как смежную operational/space productivity-ось (другой вход в ту же ценность))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_kwork_kwork_20260519-100001.md + 1 child (raw/processed/media/tg_kwork_kwork_566.jpg)
+
+## [2026-05-22 01:58] [ingest] | Telegram @kommersant — bundle 50 постов + 19 медиа за 6 мая 2026 (преим. нерелевантный новостной дайджест; 3 релевантных кластера: облачный рынок РФ + AI в авторынке Avito + автокредиты)
+- source: wiki/sources/2026-05-19-tg-kommersant-20260519-110036.md
+- created:
+  - wiki/evolving-strict/market-data/ru-cloud-datacenter-regional-2026.md
+  - wiki/evolving/industry-trends/ai-automotive-marketplace-avito-2026.md
+  - wiki/evolving-strict/market-data/ru-auto-credit-q2-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-macro-snapshot-may-2026.md (+second-source corroboration от «Ъ» (6 мая): недельная дефляция 0,02% (28.04–04.05), годовая инфляция 5,6%, нефтегаз +40% MoM >855 млрд ₽; +2 cross-link (autocredit, cloud); +source)
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md (+second-source corroboration vector 15 (mobile-internet shutdown): «Ъ» пост 106810 — Билайн/МегаФон/Т2 предупредили о перебоях перед 9 мая, рассылка повторная (4 мая), отключение уже было 5 мая до 12:00 → серия отключений, усиливает structural-pattern тезис; +source)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 3, evolving: 2, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_kommersant_20260519-110036.md + 19 children (18 media + 1 video) → status: processed
+
+## [2026-05-22 20:30] [ingest] | @moibiz (Минэк/Нацагентство «Мой бизнес») — 22 поста 14–19 мая 2026 (Минэк×Сбер «новая норма», AI-инфраструктура, креативный код)
+- source: wiki/sources/2026-05-19-tg-moibiz-may-14-19-2026.md
+- created:
+  - wiki/evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-business-ai-adoption-2026.md (+§8: consumer AI spend РФ ~10% ежемесячно + «AI для бизнеса стала инфраструктурой» (@moibiz дайджесты 7543/7555) + cross-table row)
+  - wiki/evolving-strict/market-data/ru-creative-industries-public-perception-2026.md (+рост креативных компаний/ИП +46% за 3 года + анонс нацпрограммы «Креативный код. Россия» (Авито генпартнёр, ТАСС))
+  - wiki/evolving/industry-trends/ru-smb-trends-corpmsp-2025.md (тренд 2: третье подтверждение «предпринимательство как новая норма» (Минэк×Сбер 38%/51%) — массовизация, не только молодёжь)
+  - wiki/canon/target-audience/gro-segments.md (+«совмещающие» (51%) как сегмент-мост между Сегментами 1 и 2 + мотивационный профиль запуска (Минэк×Сбер))
+  - wiki/evolving-strict/market-data/ru-youth-entrepreneurs-2026.md (+cross-ref на мотивационно-поведенческий срез той же когорты (Минэк×Сбер))
+  - wiki/evolving-strict/market-data/ru-self-employed-segments-2026.md (+cross-ref на поведенческий контекст соло-режима (42% без сотрудников, Минэк×Сбер))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 5, evolving: 1, canon: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_moibiz_20260519-111502.md + 16 children (media/jpg) → processed
+
+## [2026-05-22 21:10] [ingest] | Telegram @neuraldvig — 4-й срез 50 постов + 50 медиа за 2026-05-13..19 (промт-доля рекорд 18%, anti-hallucination 2-я ось honesty-промтов, OpenRouter RU-блок, недельная AI-news сводка)
+- source: wiki/sources/2026-05-19-tg-neuraldvig-may-13-19-2026.md
+- created:
+  - wiki/volatile/weekly-digest/ai-news-digest-2026-05-13-19.md
+- updated:
+  - wiki/evolving/content-trends/ai-news-channel-prompt-packs.md (+4-й срез @neuraldvig (10683..10732): 9/50=18% feed-доля (рекорд, выше коридора 10-12%, держим как medium-confidence единичный пик); +таблица 9 образцов; +image-generation промты как новый подтип (10683 Midjourney, 10721 ГигаЧат LEGO — редкий RU-вендорный); +anti-hallucination 10710 как вторая ось honesty-промтов; +Lyra meta-prompt 10706; XML-структура закрепляется (10726 русскоязычный); +source)
+  - wiki/evolving/content-trends/anti-flattery-prompt-canon-2026.md (+вторая ось honesty-контрактов: anti-hallucination промт 10710 (русскоязычный, «не выдумывай, помечай [Не проверено]») рядом с anti-flattery 10639; +таблица двух осей; +импликация для GRO (honesty by design по обеим осям: не льстит и не выдумывает); +tag anti-hallucination; +source)
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md (+расширение 15-го вектора: OpenRouter (агрегатор LLM-API) блокирует RU-доступ к американским моделям + режет пополнение (@neuraldvig 10711) — сужение доступа смещается с прямого вендора на инфраструктурного посредника, закрывает обходной путь; +source)
+  - wiki/evolving/content-trends/telegram-native-formats.md (+4-й дамп @neuraldvig (2026-05-13..19): промт-доля 18% (выше коридора), ad-плотность ~10% (рекорд за 4 среза, банковские erid: Сбер ×2/Альфа/оператор/Зерокодер), усиление AI-tools-radar роли (4 анонса инструментов за неделю → рубрика-кандидат «AI-инструмент недели» для GRO); +2 source (3-й и 4-й срезы))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, volatile: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_neuraldvig_20260519-135724.md + 50 children (32 media jpg + 18 video mp4) -> status: processed
+
+## [2026-05-19 16:30] [ingest] | Telegram @olegcloser — 14–19 мая 2026 (bundle: 18 дыр PDF + open live + Закрыватель re-promo)
+- source: wiki/sources/2026-05-19-tg-olegcloser-may-14-19-2026.md
+- created:
+  - wiki/sources/2026-05-19-olegcloser-18-holes-checklist-pdf.md
+  - wiki/canon/marketing-frameworks/sales-system-18-holes-shevelev.md
+- updated:
+  - wiki/canon/marketing-frameworks/business-reality-show-format.md (+content-payload summary asset (PDF «18 дыр» как 2-й слой re-purposing finale-видео) + документированная механика open live (100/100 мест, 5 новых бизнесов, live-чат как social proof) + 2 source/cross-links)
+  - wiki/evolving/competitor-positioning/zakryvatel-sdelok-ai-agent.md (+раздел re-promo пост-cohort (пост 2305): symptom-driven hook, role-expansion предприниматель→РОП→менеджер, anti-ChatGPT differentiator, 400+ бизнесов, бесплатная экскурсия funnel, старт ПРОКАЧКИ 27 мая)
+  - wiki/evolving/content-trends/sales-ai-narrative-hooks-2026.md (+cycle-4 hooks (пост 2305): symptom-first «зависшие клиенты = первый симптом», anti-ChatGPT differentiator, role-expansion «должно быть у каждого: X/Y/Z»)
+  - wiki/canon/marketing-frameworks/sales-100-formula-shevelev.md (+cross-link на новый 18-holes фреймворк (формула 100% = решение дыры №5) + новый source)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, evolving: 2, sources: 2}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_olegcloser_20260519-123519.md + 6 children (1 pdf, 2 video, 3 media) → processed/. Видео 2302/2303 без транскрипта (whisper quota 429) — кандидаты на --enrich позже.
+
+## [2026-05-22 02:05] [ingest] | Telegram @mspiridonov — 11 постов 14–19 мая 2026 (Just AI distribution kit, Think Week, diagnostic-prompt, Figure AI livestream) [bundle: primary + 7 children]
+- source: wiki/sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/poc-first-enterprise-adoption-just-ai.md
+  - wiki/canon/marketing-frameworks/think-week-structured-reading-gates.md
+  - wiki/evolving/content-trends/self-diagnosing-prompt-lead-magnet-2026.md
+- updated:
+  - wiki/evolving/competitor-positioning/ru-nocode-ai-agent-platforms-2026.md (+Just AI open distribution kit (on-prem, free-month, 3-й трекаемый advertorial, erid 2VtzqwqNSUw); two-track GTM (Cloud SMB vs on-prem enterprise); усиление advertorial-frequency signal.)
+  - wiki/evolving/industry-trends/humanoid-robot-narrative-shift-2026.md (+Cross-source того же Figure AI livestream (@mspiridonov 4410): PR/маркетинговый угол (viral livestream как anti-skeptic proof-of-capability, ~3 сек/посылка), reconcile с breakingtrends performance-данными.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 3, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_mspiridonov_20260519-122127.md + 7 children (6 media jpg, 1 video mp4) → processed/. Видео 4410: транскрипт НЕ получен (whisper 429 insufficient_quota); .audio.mp3 сохранён рядом; подлежит wiki-ingest --enrich при восстановлении квоты.
+
+## [2026-05-22 02:13] [ingest] | TG @peregudov — 4 поста 15 мая 2026 (441–444): PR/бренд как драйвер exit-стоимости (3 экзита) + observational content-hook «скрытое мастерство» (bundled: 1 silent mp4 + 1 jpg)
+- source: wiki/sources/2026-05-19-tg-peregudov-may-15-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/pr-as-exit-value-driver-peregudov.md
+  - wiki/evolving/content-trends/hidden-mastery-observation-hook.md
+- updated:
+  - wiki/canon/marketing-frameworks/b2b-pr-influence-shift-2026.md (+Practitioner-свидетельство Рычага 3 (system-level Revenue KPIs): Перегудов с 3 экзитами формулирует exit-стоимость как верхний рубеж бизнес-результата PR; смещение аудитории PR с клиентов на инвесторов/покупателей; +source, +2 cross-links)
+  - wiki/canon/marketing-frameworks/narrative-as-brand-currency.md (+cross-links на hidden-mastery-observation-hook (конкретная narrative-форма) и pr-as-exit-value-driver-peregudov (операционализация метрики «притяжение ресурсов» до инвесторов/покупателей); +source)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_peregudov_20260519-134600.md + 2 children (video/tg_peregudov_442.mp4 silent-no-audio, media/tg_peregudov_443.jpg) → processed
+
+## [2026-05-22 02:14] [ingest] | Telegram: @petrochenkow — 2026-05-19 11:25 UTC (увольнения 2026 + AI-usability-тест через аватары) [bundle: primary + 2 media children]
+- source: wiki/sources/2026-05-19-tg-petrochenkow-20260519-112501.md
+- created:
+  - wiki/canon/marketing-frameworks/ai-persona-usability-test-petrochenkov.md
+  - wiki/evolving/content-trends/ai-synthetic-usability-test-hook-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ru-labor-market-employer-turn-2026.md (+Петроченков как 6-й практик-голос на разворот рынка труда: +43% увольнений к апр-2026, кейс «-20% персонала через ИИ», K-образное расслоение (low-skill вымывает / high-skill дефицит), ценностный reframe «оздоровление, а не кризис».)
+  - wiki/canon/marketing-frameworks/refused-customer-interview.md (+раздел «Синтетический pre-launch-прокси: AI-persona usability-тест (Петроченков)»: дешёвая pre-fact гипотеза дыр воронки до залива трафика, комплементарно к post-fact интервью с отказниками; рекомендуемая последовательность; cross-link.)
+  - wiki/evolving/industry-trends/ai-marketing-limits-2026.md (+data-point «что ИИ делает хорошо»: синтетический usability-тест через AI-аватар совпадает с живыми респондентами до 80% (Петроченков 1301-1302); вписан в TL;DR «ИИ как дешёвый второй пилот для диагностики восприятия».)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 3, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_petrochenkow_20260519-112501.md + 2 children (media: tg_petrochenkow_1301.jpg шаблон-аватар, tg_petrochenkow_1302.jpg пример AI-вывода) → processed/. Bundle вручную: .bundle.json отсутствовал, дети резолвлены из _(attached:)_ маркеров.
+
+## [2026-05-22 20:30] [ingest] | Telegram @opora_russia — дайджест 7191–7213 (14–19 мая 2026): VK Реклама deck + Форум МСП ПМЭФ + 3PL + Исламские рынки [bundle: primary + 12 children]
+- source: wiki/sources/2026-05-19-tg-opora-russia-may-14-19.md
+- created:
+  - wiki/canon/marketing-frameworks/vk-reklama-official-campaign-guide-2026.md
+  - wiki/evolving-strict/market-data/ru-3pl-logistics-outsourcing-2026.md
+  - wiki/evolving/industry-trends/ru-msp-islamic-markets-pivot-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ai-generated-creatives-in-advertising.md (+VK Реклама AI Gen «Креативная студия» как второй платформенный сигнал; таблица 2 подтверждённых кейсов.)
+  - wiki/canon/marketing-frameworks/vk-ads-2026-niche-playbook.md (+cross-ref на официальный vendor-канон VK Реклама; sources +deck.)
+  - wiki/volatile-strict/industry-news/pmef-2026-program-announcement.md (+секция Форум МСП (3 июня): 5-блочная программа, тема «Креативный код экономики», пленар с Новаком.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, evolving-strict: 1, volatile-strict: 1, sources: 2}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_opora_russia_20260519-110508.md + 12 children (11 media + 1 documents) → processed/
+
+## [2026-05-22 20:30] [ingest] | Heavyweight bundle child: VK Реклама официальный deck (PDF 7201) — source-page
+- source: wiki/sources/2026-05-19-vk-reklama-effective-campaigns-deck.md
+- created:
+  - none
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1}
+- touched: 1 pages
+- raw: raw/processed/documents/tg_opora_russia_7201.pdf → processed/
+
+## [2026-05-22 02:18] [ingest] | Telegram @portnyaginlive — 3-й дамп (открытие Siberia на Бауманской: immersive-theater event + B2B-закупка), 15-19 мая 2026
+- source: wiki/sources/2026-05-19-tg-portnyaginlive-20260519-122009.md
+- created:
+  - wiki/evolving/content-trends/immersive-theater-brand-launch-event.md
+- updated:
+  - wiki/evolving/content-trends/portnyagin-founder-channel-patterns.md (+3-й дамп: format #7 закрыл дугу teaser→execution (immersive launch); +13-й формат (B2B-закупка на consumer founder-канале, 11258); +раздел доп.наблюдений; +cross-links на immersive-theater и новый source)
+  - wiki/evolving/content-trends/cultural-narrative-brand-storytelling.md (+cross-link на immersive-theater-brand-launch-event (физическая активация нарратива на open-event) + новый source)
+  - wiki/evolving/content-trends/factory-tour-pro-day-event-format.md (+cross-link на immersive-theater (рациональное operational vs эмоциональное sensory immersion))
+  - wiki/evolving/content-trends/extreme-pr-event-audience-segmentation.md (+cross-links на immersive-theater (механизм перевода аудитории) и factory-tour-pro-day)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 5, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_portnyaginlive_20260519-122009.md + 11 children (raw/processed/media/tg_portnyaginlive_11248..11258.jpg) + sidecars
+
+## [2026-05-19 10:55] [ingest] | Telegram @rbc_news — 50 постов 6–7 мая 2026 (дайджест; search-distribution platform risk Яндекс vs финмаркетплейсы)
+- source: wiki/sources/2026-05-19-tg-rbc-news-20260519-105509.md
+- created:
+  - wiki/evolving/industry-trends/ru-search-distribution-platform-risk-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md
+  - wiki/volatile/raw-notes/ru-platform-access-april-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, volatile: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_rbc_news_20260519-105509.md
+
+## [2026-05-22 02:30] [ingest] | Telegram @ProductsAndStartups (Байрам Аннаков) — 7 постов 15–19 мая 2026 (1749–1755): accountability premium, страхование AI-агентов, OOD adversarial-атаки, дистилляция Code w/ Claude 2026 [bundle]
+- source: wiki/sources/2026-05-19-tg-products-and-startups-may-15-19-2026.md
+- created:
+  - wiki/evolving/industry-trends/ai-accountability-premium-2026.md
+  - wiki/volatile-strict/competitor-news/elevenlabs-aiuc-agent-insurance-2026.md
+  - wiki/canon/marketing-frameworks/ai-agent-architectural-guardrails-2026.md
+  - wiki/evolving/industry-trends/code-with-claude-2026-frameworks.md
+  - wiki/evolving/content-trends/ai-augmented-content-consumption-pipeline-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/ceo-cto-ai-adoption-bridge.md (+Шаг 3.5 (accountability-ось поверх верификации) из поста 1750 «Заметки с полей - 2»; +cross-links на accountability-premium и guardrails; +источник 1750.)
+  - wiki/evolving/industry-trends/ai-value-migration-2026.md (+cross-source confirmation direction #3 (верификация→accountability) от Аннакова + рыночное доказательство (страховка AIUC); апгрейд тезиса от спорного к sedimented consensus; +источник 1750.)
+  - wiki/canon/marketing-frameworks/harness-engineering-for-ai-agents.md (+Update 2026-05-18: Advisor pattern (Code w/ Claude 2026) как production-форма правила «7×Haiku» — Haiku-executor с Opus-advisor через tool call; +источник 1752.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 3, volatile-strict: 1, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/tg_ProductsAndStartups_20260519-133332.md + 7 children (1749-1755, media) → processed; видео 1752 transcript unavailable (whisper quota 429), покрыто текстом+OCR
+
+## [2026-05-22 20:31] [ingest] | Telegram @recruiter_live — дамп 18-19 мая 2026 (5 постов, 4-й дамп): HH «единая карьерная история» + resume-SEO + сезонный «переход после бонусов» + книга-трансформация
+- source: wiki/sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/competitor-positioning/hh-ru-hrtech-platform.md (+секция «Единая карьерная история» + resume-SEO ранжирование (синхронизация блоков опыта между резюме; заголовок/summary/skills > переписывание опыта); прямое продолжение edit-history feature поста 4462)
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md (+Hook 32 «Перестаньте переписывать резюме под каждую вакансию» (HH единая карьерная история + resume-SEO) +Hook 33 «Окно перехода после бонусов» (сезонность финансисты/юристы) + книга-трансформация Бриджес)
+  - wiki/evolving/industry-trends/ru-labor-market-shift-2026.md (+сезонный sub-pattern «переход после бонусов» (апрель→май, CFO ~40%/юристы ~15% ленты LinkedIn) в май-срез + timing-aware GRO-следствие)
+  - wiki/evolving/industry-trends/skill-based-hiring-russia-2026.md (+candidate-side проявление навыкоцентричности: HH «единая карьерная история» + resume-SEO (целостность профиля + явный skills-набор > tactic-подгонка опыта))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_recruiter_live_20260519-091001.md + 3 children (media/4473,4474,4475.jpg) + sidecars
+
+## [2026-05-22 02:31] [ingest] | Telegram @rff_channel — 14–18 мая 2026 (14 постов, ids 4417..4430): sponsored-ads Альфа-Банка, новый паттерн bank × cultural-institution co-branding (Альфа × Подписные)
+- source: wiki/sources/2026-05-18-tg-rff-channel-may14-18-2026.md
+- created:
+  - wiki/evolving/content-trends/bank-cultural-institution-cobranding-2026.md
+- updated:
+  - wiki/evolving/content-trends/collectible-card-design-fintech.md (+второй RU-кейс cobranded-карты (Альфа 6 гравировок × Подписные) — валидирует прогноз о copy-paradigm; добавлены explicit limited-edition и theme-binding-дивергенция vs T-Bank; обновлена таблица сравнения банков.)
+  - wiki/evolving/industry-trends/russian-cultural-code-branding-2026.md (+fintech арендует культурный код через heritage-институт (Альфа × Подписные) — частично закрывает gap «нет потребительских брендов с русским кодом, только культурно-туристический сегмент».)
+  - wiki/evolving/content-trends/founder-channel-sponsored-ad-formats-2026.md (+Pattern 4: vertical-community-канал (HR/@rff_channel) как ad-площадка крупного рекламодателя (Альфа ×3 кампании/неделя), audience-overlap targeting «предприниматель + HR»; обновлена таблица сравнения паттернов.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_rff_channel_20260519-094602.md + 14 children (11 media jpg + 3 video mp4)
+
+## [2026-05-22 20:30] [ingest] | Telegram @rb_ru (Russian Business) — дайджест 14–19 мая 2026, 27 постов (bundle: 1 статья + 23 jpg + 4 mp4); 5 релевантных извлечений из новостного дампа
+- source: wiki/sources/2026-05-19-tg-rb-ru-may-14-19-2026.md
+- created:
+  - wiki/evolving/content-trends/brand-cancellation-response-playbook-2026.md
+  - wiki/volatile-strict/industry-news/roscosmos-rocket-advertising-2026.md
+  - wiki/volatile-strict/industry-news/sber-business-comms-platform-2027.md
+- updated:
+  - wiki/evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026.md (+Duolingo CEO walkback как 5-й независимый сигнал 2-й фазы и первый executive self-reversal (фон Ан публично откатил forced-AI mandate апр-2025 под давлением сотрудников/рынка))
+  - wiki/evolving/content-trends/wtf-hr-ai-skeptic-hooks.md (+6-е hook-семейство «Duolingo-reversal» (executive self-reversal сильнее SalesForce-наблюдателя); 5→6 семейств)
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md (+раздел 5b: измеримый эффект VPN-ограничений на маркетплейсы (WB −10%, Ozon/Я.Маркет −3%, отрасль ~7 млрд ₽) — первый numeric proof collateral damage по резидентным RU-сервисам)
+  - wiki/canon/marketing-frameworks/crisis-pr-principles.md (+поджанр «культура отмены» (cancel culture) с cross-ref на 2-сценарный playbook; специализация общей рамки под скорость соцсетевой отмены)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, volatile-strict: 2, canon: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_rb_ru_20260519-103520.md + 27 children (23 media/jpg + 4 video/mp4) → status: processed
+
+## [2026-05-22 00:00] [ingest] | Telegram @solokumi пост 416 (Кумар Виас) — OpenClaw vs Hermes сравнение AI-агентов + cost-routing + reaction-gate content-формат
+- source: wiki/sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes.md
+- created:
+  - wiki/evolving/competitor-positioning/openclaw-vs-hermes-agent-tools-2026.md
+  - wiki/evolving/content-trends/ai-tool-comparison-reaction-gate-format.md
+  - wiki/sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes.md
+- updated:
+  - wiki/evolving/industry-trends/agent-first-world-openclaw-2026.md (+раздел «DIY-agent commoditization» (Кумар Виас): OpenClaw vs Hermes как 6-й угол валидации тренда — bottom-up массовизация агент-конструкторов, self-learning память мейнстримится, cost-routing снижает capital-барьер; +2 cross-links; updated→2026-05-22.)
+  - wiki/evolving/industry-trends/ai-agent-economy-2026.md (+§14 «Cost-routing как операционная переменная»: ClawRouters auto-route на дешёвую модель (-70-90% по словам автора, conf:low) + Hermes VPS $5/мес + OpenRouter 200+ моделей; model-routing как новый GTM-слой; +2 cross-links; updated→2026-05-22.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_solokumi_20260519-125500.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-22 14:51] [ingest] | Telegram @selfworkru — 8 постов 14–18 мая 2026 (ФЗ-168: 5 исключений для латиницы + платформенные преференции самозанятым ≥2,9%)
+- source: wiki/sources/2026-05-19-tg-selfworkru-may-14-18-2026.md
+- created:
+  - wiki/volatile-strict/industry-news/ru-self-employed-platform-preferences-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ru-brand-russification-law-2026.md (+раздел «5 легальных исключений для латиницы» (товарные знаки Роспатента 6-12 мес; фирменные наименования ЕГРЮЛ; техтермины; наименования произведений/псевдонимы; фантазийные наименования) + 2 cross-links + source.)
+  - wiki/canon/target-audience/gro-segments.md (+регуляторный попутный ветер Сегмента 3 (платформенные преференции ≥2,9%, ФЗ-168 исключения как фоновый сигнал) + source.)
+  - wiki/evolving-strict/market-data/ru-self-employed-2025.md (+cross-link на платформенные преференции как сигнал регуляторного взросления формата самозанятости.)
+  - wiki/volatile-strict/industry-news/ru-mediator-platforms-registry-2026-05.md (+cross-link на платформенные преференции самозанятым как следующий шаг платформенной регуляторики.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {volatile-strict: 2, evolving: 1, canon: 1, evolving-strict: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_selfworkru_20260519-100506.md + 8 children (1 video + 7 media)
+
+## [2026-05-22 14:55] [ingest] | Telegram @forbesrussia — дайджест 7-8 мая 2026 (50 постов, 8 релевантных marketing-сигналов)
+- source: wiki/sources/2026-05-19-tg-forbesrussia-20260519-104004.md
+- created:
+  - wiki/volatile-strict/competitor-news/adobe-acquires-semrush-2026-05.md
+  - wiki/evolving/industry-trends/ai-tax-labor-erosion-2026.md
+  - wiki/evolving-strict/market-data/ru-platform-employment-market-2026.md
+  - wiki/evolving-strict/market-data/ru-middle-class-segments-2026.md
+  - wiki/evolving/industry-trends/proptech-ai-housing-management-ru-2026.md
+- updated:
+  - wiki/evolving/content-trends/forbes-russia-native-ad-pattern-2026.md (Третье подтверждение шаблона: +4 кейса 7-8 мая (Кронунг/PropTech blogs-колонки, Alfa-Bank brandvoice про AI-агенты, форум «Движение» spetsproekt+erid); «Информационная поддержка» закрепилась как доминирующий disclaimer)
+  - wiki/evolving-strict/competitor-metrics/ai-leaders-valuations-2026-q2.md (+FT-подтверждение Anthropic ~$1T primary raise летом 2026 (vs OpenAI $852B); закрывает primary/secondary разрыв в пользу повышения primary)
+  - wiki/evolving/industry-trends/ru-labor-market-shift-2026.md (+объёмный якорь под расширение гиг-контура: ссылка на ru-platform-employment-market-2026 (38 млрд ₽, +56%, закон))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1, volatile-strict: 1, evolving: 4, evolving-strict: 3}
+- touched: 9 pages
+- raw: raw/processed/articles/tg_forbesrussia_20260519-104004.md + 20 children (media) → processed
+
+## [2026-05-22 20:30] [ingest] | Telegram @startupoftheday (Горный) — 8 постов 14–19 мая 2026 (5068–5075)
+- source: wiki/sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/influencer-pyramid-mavrck-5-tiers.md
+- updated:
+  - wiki/evolving/industry-trends/influencer-marketplace-failure-paradox.md (Mavrck data-point: market-leader ($300M) = agency-tool, НЕ маркетплейс — structural confirmation гипотез через winners)
+  - wiki/canon/marketing-frameworks/ugc-and-microinfluencers.md (cross-link на 5-уровневую пирамиду Mavrck, расширяющую таксономию вниз (адвокаты/рефералы/лоялисты))
+  - wiki/evolving/industry-trends/ai-marketing-limits-2026.md (Omni semantic-layer лимит ($120M/$1.5B): AI-аналитика без слоя определений даёт формально-валидный, но вводящий в заблуждение output)
+  - wiki/canon/marketing-frameworks/llm-bot-customer-tolerance-gorny-frame.md (Descript расширение frame на роль видеомонтажёра + новая moat-erosion ось (general-purpose агент обходит специализированный продукт))
+  - wiki/evolving/industry-trends/software-moat-erosion-2026.md (Gorny 2.0 Descript: специализированный prosumer-продукт обходится general-purpose агентом из коробки — commoditization сверху)
+  - wiki/evolving/content-trends/vibe-coding-curse-content-hooks-2026.md (Горный vibecoding-flood second voice + Ikigai Magic кейс (Hook 5: книга→приложение за выходные, дистрибуция как узкое горло))
+  - wiki/evolving/industry-trends/ru-vertical-ai-signals-2026.md (Сигнал 14 Ikigai Magic — первый consumer self-development vertical AI (vibecoding-flood proof-point в нише GRO))
+  - wiki/evolving/competitor-positioning/aiacademy-claude-code-course-gorny-shevchenko-2026.md (финальный 4-й анонс курса (5069): 2 вебинара ~4ч, старт суббота 16 мая, высокая частота author-promo подтверждена)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 5, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/tg_startupoftheday_20260519-101000.md (+ .note.md, .triage.json)
+
+## [2026-05-22 14:55] [ingest] | Telegram @rybakovigor — 20 постов 14–18 мая 2026 (бандл 1 текст + 19 медиа): «быть собой» frame + Эквиум×Физтех2050 карусель + многосредие essay + бизнес-сериал эп.3 + #УтроТНТ
+- source: wiki/sources/2026-05-19-tg-rybakovigor-may14-18-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/strength-as-constraint-reinvention-rybakov.md
+  - wiki/canon/marketing-frameworks/business-university-bridge-equium-phystech.md
+  - wiki/evolving/content-trends/founder-tv-morning-show-appearance-format.md
+- updated:
+  - wiki/evolving/content-trends/rybakov-management-narrative-hooks.md (+4 хука (#27 «быть собой больше не помогает» — сила как ограничение; #28 «стоимость совместного действия» — многосредие; #29 «правила 90-х устарели» — anachronism-risk; #30 «один вопрос меняет годы» — practice-leverage); счётчик 26→30; +5 cross-links + source)
+  - wiki/evolving/content-trends/telegram-native-formats.md (+3-й Equium-карусель sub-exemplar (Эквиум × Физтех 2050, 9 страниц, msg 6557–6565) — тройное подтверждение формата + calibration-правило «объём = функция значимости инфоповода»; +source)
+  - wiki/evolving/content-trends/founder-history-edutainment-format.md (+эпизод 3 «жёсткие правила 90-х» (msg 6573) — self-diagnosis/anachronism-угол «возможно, ТЫ ведёшь дела по правилам 90-х»; pattern-эволюция через 3 эпизода (memoir→math→self-diagnosis); +cross-link + source)
+  - wiki/canon/marketing-frameworks/environment-architecture-entrepreneur-safety.md (+межсубъектный уровень «многосредие / стоимость совместного действия» (essay msg 6569) — расширение от внутрифирменной к межсубъектной архитектуре + новая метрика; +2 cross-links + source)
+  - wiki/canon/marketing-frameworks/community-as-evolution-vs-business-as-deal.md (+operationalization рамки (Эквиум × Физтех 2050 bridge + essay многосредие) — доказательство, что «сообщество-эволюция» реализуется через институт-партнёрства + снижение стоимости совместного действия; +cross-link + source)
+- superseded: none
+- sensitive flag: msg 6569 содержит № банковского счёта благотворит. кампании — не перенесён в слои, остаётся в raw/
+- layer-touched: {canon: 4, evolving: 4, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/tg_rybakovigor_20260519-114138.md + 19 children (11 media jpg + 8 video mp4) → status: processed
+
+## [2026-05-22 20:30] [ingest] | Telegram @stodnevka2 (Армен Петросян) — 5 постов 15–19 мая 2026 (минимализм инструментов, штиль, три зоны риска, content-as-method, кризисная describe-the-state + market-mood) + 1 инфографика
+- source: wiki/sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/petrosian-tool-fetish-minimalism.md
+  - wiki/canon/marketing-frameworks/petrosian-third-problem-type-stillness.md
+  - wiki/canon/marketing-frameworks/petrosian-three-risk-zones.md
+- updated:
+  - wiki/canon/marketing-frameworks/petrosian-content-as-accelerator.md (+секция content-as-method (пост 2310): книжная часть 2 готова за 2 мес, «методом была сама рассылка», emergent-method «план рождается из шагов»; +source 2026-05-22.)
+  - wiki/evolving/industry-trends/max-messenger-author-rejection-2026.md (+update 2026-05-22: книжная часть 2 подтверждена готовой (closing datapoint), newsletter cadence ~75+ дней; +market-mood signal «охваты падают, покупок меньше, режим выживания, туман» — расширение рамки с platform-decay на macro-demand-decay; +source.)
+  - wiki/evolving/content-trends/owner-escape-operations-hooks.md (+расширение шахматной секции (пост 2311): «размытая тревога опаснее конкретной», «сегодня решаю только сегодняшнее», 4-шаговый describe-the-state протокол, 5 новых hook-формулировок для жанра «работа в тумане», +2 trinity-cross-link на новые страницы; +source.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_stodnevka2_20260519-133500.md + 1 child (raw/processed/media/tg_stodnevka2_2309.jpg) + 3 sidecars → status: processed
+
+## [2026-05-22 15:10] [ingest] | Telegram @Theedinorogblog — 14 постов + 9 медиа 14–19 мая 2026 (стартап-новости bundle: 4 столпа B2B-аутрич, «Кампус» edtech, Figure AI PR, OpenClaw $1,3M 2nd-source)
+- source: wiki/sources/2026-05-19-tg-theedinorog-may-14-19-2026.md
+- created:
+  - wiki/volatile/weekly-digest/edinorog-may-14-19-2026-digest.md
+  - wiki/canon/marketing-frameworks/b2b-outreach-4-pillars-leadgenvalley.md
+  - wiki/evolving/competitor-positioning/kampus-edtech-ru-2026.md
+- updated:
+  - wiki/evolving/industry-trends/humanoid-robot-narrative-shift-2026.md (+третий RU-источник того же Figure AI livestream (Edinorog 7959): displacement-frame «человек умудрился не проиграть» + livestream-merch как PR-приём (120 ч нон-стоп + магазин мерча))
+  - wiki/evolving/industry-trends/agent-first-world-openclaw-2026.md (+second-RU-attestation $1,3 млн/мес токенов OpenClaw (Edinorog 7956 via VC) к fully-agentic-team сигналу; стоимость стала предметом публичной дискуссии)
+  - wiki/evolving/content-trends/competitor-data-poisoning-defense-pattern.md (+cross-ref на новый продуктовый/метрический профиль «Кампуса» (второе появление в корпусе, питч 7950))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 4, volatile: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_Theedinorogblog_20260519-123147.md + 9 children (5 media + 4 video) → status: processed
+
+## [2026-05-22 15:05] [ingest] | Telegram @techsparks (Себрант) — 6 постов 14–18 мая 2026 (5600–5605): Monet confirmation-bias + Economist acceptance-pivot + AI-vs-EV энергия + Шмидт освистан (bundle: primary + 5 children, видео 5602 без транскрипта quota 429)
+- source: wiki/sources/2026-05-19-tg-techsparks-monet-economist-may-2026.md
+- created:
+  - wiki/evolving/content-trends/ai-confirmation-bias-monet-experiment-2026.md
+  - wiki/evolving/industry-trends/ai-narrative-acceptance-economist-pivot-2026.md
+  - wiki/evolving-strict/market-data/ai-vs-ev-energy-consumption-2026.md
+- updated:
+  - wiki/evolving/content-trends/slopshaming-counter-hook-2026.md (+раздел «Эмпирическая опора — Monet-эксперимент SHL0MS»: натурное подтверждение тезиса о гейткипинге (метка AI → достроенная критика подлинного Моне); +cross-link на новую страницу Monet-эксперимента; +source)
+  - wiki/evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026.md (+раздел «Mainstream-слой и аудиторные сигналы (@techsparks)»: Economist acceptance-pivot как более поздний mainstream-слой (движение к 3-й фазе) + Шмидт освистан студентами как audience-backlash на 1-фазную adoption-риторику; +2 cross-links; +source)
+  - wiki/evolving/industry-trends/ai-energy-bottleneck-debunked-gorny-2026.md (+раздел «Второй независимый RU counter-anchor — Себрант (EV-vs-AI энергия)»: два RU-эксперта (Горный макро-расчёт + Себрант EV-сравнение) независимо опровергают AI-energy-bottleneck; +строка в triangulation-таблицу; +cross-link на strict-страницу цифр; +source)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 5, evolving-strict: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_techsparks_20260519-141927.md + 5 children (media/5601,5603,5604,5605 + video/5602, all → processed; video .audio.mp3 audit-sidecar included)
+
+## [2026-05-22 15:10] [ingest] | Telegram @techno_yandex — бандл 24 постов 14–19 мая 2026 (AI-фотосессия how-to + ML-планировщик роботов + гиперконтекст)
+- source: wiki/sources/2026-05-19-tg-techno-yandex-may-14-19-2026.md
+- created:
+  - wiki/evolving/content-trends/ai-photoshoot-prompt-framework-2026.md
+  - wiki/evolving-strict/product-metrics/yandex-delivery-robot-ml-planner-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ai-personalization-industrial-shift-2026.md (+2-й RU B2C predictive-intent кейс — Яндекс «Моя волна» гиперконтекст (context-aware рекомендации: день/время/локация/устройство → «музыкальный сценарий момента»); подтверждает переход стадии context-aware B2C из «единиц» в «нормализуется» (после VK Видео); +source +2 cross-link; updated 05-06→05-19)
+  - wiki/evolving/content-trends/plastic-ai-content-pushback-hook.md (+Vendor self-own exemplar — Sony Xperia 1 VIII «лучшая антиреклама ИИ» (AI-ассистент камеры пересветил/убил детали): empirical content-hook «AI делает хуже, не лучше», 2 готовые формулировки; +source +2 cross-link; updated 05-05→05-19)
+  - wiki/evolving/content-trends/ai-impersonation-into-classic-scenes-2026.md (+5-й канал self-insertion — «себя на матче»/«Нейротренды» Яндекс (@techno_yandex 5232): mass-consumer self-insertion + вендорский how-to, расширяет тренд из creator-нишы в consumer-tool; +source +2 cross-link; updated 05-14→05-19)
+  - wiki/evolving/content-trends/ai-in-pr-workflows-2026.md (+cross-link на новый sibling Яндекс-how-to (ai-photoshoot-prompt-framework-2026) + новый source — awareness-фронт расширяется от профессионалов к массовому пользователю)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, evolving-strict: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_techno_yandex_20260519-140657.md + 24 children (18 jpg + 6 mp4) → processed
+
+## [2026-05-22 20:30] [ingest] | Telegram @temno (Морейнис) — 4-й дамп 14–19 мая 2026 (9 постов + 9 изображений, bundle)
+- source: wiki/sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/sell-the-answer-not-platform-moreynis.md
+  - wiki/canon/marketing-frameworks/only-product-scales-harvey-moreynis.md
+  - wiki/canon/marketing-frameworks/able-and-willing-customer-selection-moreynis.md
+  - wiki/evolving/industry-trends/open-extensible-saas-shift-2026.md
+  - wiki/evolving-strict/market-data/chatgpt-entrepreneur-industry-mix-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ai-native-company-architecture-2026.md (+аксиоматическая дефиниция Морейниса «ИИ-нативная компания > ИИ-нативный продукт» (тройное отрицание) + 3 операционных maxim (агентов делать не людей нанимать; SKILLS.md вместо должностных инструкций); 2-й независимый RU-голос к Перегудову)
+  - wiki/evolving/industry-trends/ai-solopreneurship-window-2026-2029.md (+под-рамка «масштабируемая самозанятость» (Морейнис 7842): ИИ снимает потолок руки×часы; self-selection insight (anti-management disposition = pro-AI-native-solo); 0-employee вариант micro-team)
+  - wiki/canon/marketing-frameworks/b2b-ai-sales-playbook-moreynis.md (+4-й source; усиление правила 5 industry-mix данными (массовый ИИ-предприниматель = non-tech сервисный SMB); cross-ref на 3 новые sibling-страницы)
+  - wiki/evolving/content-trends/moreynis-hand-drawn-meme-format.md (+4-й последовательный дамп (four-source convergence); возврат архетипа B (a16z-карточка 7834) — уточнён как periodic, не выбывший; формат идентичен)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 3, evolving-strict: 1, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/tg_temno_20260519-122010.md + 9 children (media/tg_temno_7834..7842.jpg) + sidecars (.note.md ×10, .triage.json ×1)
+
+## [2026-05-22 20:30] [ingest] | TG @typicalcompany пост 1337 (18 мая) — Тим Кук как операционный CEO-стратег (5-й ingest канала, bundle +1 фото)
+- source: wiki/sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md
+- created:
+  - wiki/canon/marketing-frameworks/operational-ceo-as-strategist-cook.md
+- updated:
+  - wiki/evolving/competitor-positioning/typical-company.md (+Continuity-update пост 1337 (пятый ingest): новый content-pillar «бизнес-кейс CEO как management-урок» + CEO-succession Apple-серия (1333/1336/1337) + наблюдение о снижении фактологической аккуратности (Apple-датировка); confidence сохранён medium-high)
+  - wiki/canon/marketing-frameworks/operational-turnaround-playbook-wiedeking.md (+Cross-ref секция: production-first CEO в рост-режиме (Кук) vs turnaround-режиме (Wiedeking); оба делают операционку стратегией)
+  - wiki/canon/marketing-frameworks/apple-ecosystem-recurring-revenue-frame.md (+Секция «кто построил эту экосистему» — Apple Services/recurring как результат операционной дисциплины Кука, не визии Джобса; cross-ref на cook-рамку)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_typicalcompany_20260519-010501.md + 1 child (media/tg_typicalcompany_1337.jpg) + 3 sidecars → status: processed
+
+## [2026-05-22 15:20] [ingest] | Telegram @t_jrnl (Тинькофф Журнал) — дайджест 09–13 мая 2026 (маркетплейс-комиссии + editorial-форматы)
+- source: wiki/sources/2026-05-19-tg-t-jrnl-may-9-13-2026.md
+- created:
+  - wiki/evolving/content-trends/t-j-editorial-format-playbook-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-marketplace-margin-collapse-may-2026.md (+категорийно-максимальные комиссии Т—Ж (Я.Маркет 68% / Ozon 55% / WB 33%) как independent numeric cross-check practitioner-диапазона 25-35%; раскрытие дисперсии комиссий.)
+  - wiki/evolving-strict/campaign-metrics/ru-marketplace-channel-economics-2026-05.md (+per-platform детализация комиссий Т—Ж, уточняющая baseline-строку «25-35%» вверх (до 68% для нишевых категорий).)
+  - wiki/evolving/content-trends/news-reframing-carousel-gro.md (+cross-ref на t-j-editorial-format-playbook (числовая карусель Т—Ж как exemplar того же карусельного принципа).)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 2, evolving: 2, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_t_jrnl_20260519-105011.md + 49 children (media/*.jpg)
+
+## [2026-05-22 15:18] [ingest] | Telegram @tinkoffbank — батч 10694–10718 (14–18 мая 2026): Город→logistics, Т-Мобайл, Кэшбэк месяца, Вклад в поколение, Доли-агрегатор (bundle: 1 article + 22 media)
+- source: wiki/sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md
+- created:
+  - wiki/evolving/content-trends/tbank-recurring-monthly-cashback-format-2026.md
+  - wiki/evolving/content-trends/csr-grant-as-referable-content-2026.md
+- updated:
+  - wiki/evolving/industry-trends/tbank-corporate-platform-stack-2026.md (+«Город»→«Отправка посылок» (2-я merchant-категория, multi-courier aggregation), +Т-Мобайл telecom-vertical (390₽/50ГБ, MNP-retention), +«Кэшбэк месяца» recurring loyalty, +«Вклад в поколение» CSR/Т-Образование adjacency; обновлён updated + sources)
+  - wiki/volatile-strict/competitor-news/tbank-doli-bnpl-aggregator-2026-05.md (+раздел «Consumer-facing подтверждение»: aggregator-мессаджинг #10706 «все магазины-партнёры и графики списаний в одном приложении» вышел в consumer-канал; 4-split без комиссии, летние партнёры; inline-маркеры [conf:high, src:2026-05-15])
+  - wiki/evolving/content-trends/daily-streak-gamification-in-finance.md (+раздел «Контраст: daily-streak vs monthly-window»: «Кэшбэк месяца» как дополняющий cadence-режим, закрывающий ограничение daily-streak (mass-retail); cross-ref на новую страницу формата)
+  - wiki/evolving/competitor-positioning/tbank-consumer-visual-style-yellow-block-flatlay.md (+обновление май-батч #10706/#10714: подтверждение lifestyle-object-hero вариации (Доли mint headline-overlay, «Кэшбэк месяца» жёлтый product-crate как brand-accent на нейтральном BG))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, volatile-strict: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_tinkoffbank_20260519-104504.md + 22 children → raw/processed/media/ (all + sidecars)
+
+## [2026-05-22 15:18] [ingest] | Telegram @TorbosovLife — re-dump 50 постов 11–15 мая 2026 (AI-рилсы краудсорсинг + premium-RE май + Dubai-cooling); bundle primary + 48 children
+- source: wiki/sources/2026-05-19-tg-torbosov-life-may-2026.md
+- created:
+  - wiki/evolving/content-trends/torbosov-ai-reels-repurposing-2026.md
+- updated:
+  - wiki/evolving/content-trends/contrarian-framing-expert-telegram.md (+второй дамп Торбосова как мульти-паттерн-кейс; контр-нарративная рамка применена к искусству (#культпросвет 19672) — третий под-приём вариации 4-го элемента (historical-precedent-anchor); +source в sources/front-matter)
+  - wiki/evolving-strict/market-data/ru-premium-real-estate-q1-2026.md (+раздел «Обновление 2026-05-19» с майскими Whitewill operational numbers (Dubai +$15m, Solaya off-plan ₽312,4m=AED15,554k [conf:high], Bluewaters 4 выкупа, Dubai-cooling-прогноз) — все с inline [conf:*,src:*] маркерами; +source)
+  - wiki/evolving/industry-trends/ru-premium-segment-cooling-2026.md (+четвёртый sentinel (cross-geo Dubai) от того же оператора Торбосова: «до осени не жду активности от покупателей»; cross-geo caveat (тот же информант, но географическое расширение); +source)
+  - wiki/evolving/content-trends/founder-history-edutainment-format.md (+смежный variant «curator-edutainment» (Торбосов #культпросвет/#подомам vs personal-history Рыбакова): сравнительная таблица + структура curator-поста + перенос в GRO (доступно молодому бренду без 30-летнего timeline); +source)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, evolving-strict: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_TorbosovLife_20260519-114702.md + 48 children (45 media/jpg, 1 audio/ogg [transcript deferred — whisper 429], 2 video/mp4) → status: processed
+
+## [2026-05-22 15:25] [ingest] | Telegram @vcnews — 50 постов 12–14 мая 2026 (Cerebras IPO close, Anthropic credits live, RU marketing-кейсы)
+- source: wiki/sources/2026-05-19-tg-vcnews-may-12-14-2026.md
+- created:
+  - wiki/volatile/weekly-digest/2026-05-19-tg-vcnews-may-12-14-digest.md
+  - wiki/evolving/content-trends/irnby-nike-lookalike-ad-controversy-2026.md
+  - wiki/evolving/content-trends/swatch-ap-royal-pop-hype-mismatch-2026.md
+  - wiki/volatile-strict/competitor-news/google-gemini-intelligence-android-2026-05.md
+  - wiki/volatile-strict/competitor-news/notion-developer-platform-agents-2026-05.md
+- updated:
+  - wiki/volatile-strict/industry-news/cerebras-ipo-2026-05.md (supersession: IPO ЗАКРЫТ — $5,55 млрд raised (выше price-up target $4,8 млрд), cap после IPO ~$40 млрд (~$49 млрд с опционами), pre-IPO estimate $48,8 млрд superseded)
+  - wiki/volatile-strict/competitor-news/anthropic-third-party-credits-2026-06.md (анонс → подтверждённый запуск (vc.ru second-source): кредиты через SDK/GitHub Actions/OpenClaw, не в чате, overflow по API; caveat снят, confidence medium→high)
+  - wiki/volatile-strict/competitor-news/thinking-machines-interaction-model-2026-05.md (4-й источник: первая публичная демо TML-Interaction (vc.ru, с видео), подтверждение product-rollout phase, reconcile product-name TML-Interaction)
+  - wiki/volatile-strict/competitor-news/google-googlebook-2026-fall.md (vc.ru second-source + детали: Android+ChromeOS, Gemini Intelligence до уровня указателя мыши; cross-link на Gemini-Intelligence-Android)
+  - wiki/volatile-strict/competitor-news/android-pause-point-doomscroll-2026.md (vc.ru second-source: подтверждение Pause Point, вариативность интервенции (пауза/дыхание/таймер))
+  - wiki/evolving/competitor-positioning/max-messenger.md (+Update 2026-05-12: операторская A2P-сделка (Билайн/МТС/Мегафон/Т2 + MAX) — транзакционный канал OTP + сообщения компаний, конкуренция SMS-агрегаторам)
+  - wiki/evolving/industry-trends/ai-corporate-race-mar-may-2026.md (+Update 2026-05-19 vcnews 12-14 мая: два сигнала закрылись фактом (Cerebras IPO, Anthropic credits), Google consumer-волна (Gemini Intelligence/GoogleBook), Thinking Machines демо, Notion agents, Wispr $2B, Cisco $15,8B)
+  - wiki/evolving/content-trends/engineered-scandal-attention-playbook.md (+documented example Irnby/Nike lookalike-провокация (2-й кейс), sample size 1→2)
+- superseded:
+  - wiki/volatile-strict/industry-news/cerebras-ipo-2026-05.md
+- sensitive flag: none
+- layer-touched: {volatile: 1, evolving: 4, volatile-strict: 7, sources: 1}
+- touched: 14 pages
+- raw: raw/processed/articles/tg_vcnews_20260519-102022.md + 47 children (44 jpg + 3 mp4) + sidecars (.note.md, .triage.json)
+
+## [2026-05-18 21:00] [ingest] | Pressfeed/Слотина — клонирование сайта эксперта: playbook первых часов + медиакапитал как защита + takedown-бенчмарк
+- source: wiki/sources/2026-05-18-pressfeed-website-clone-fraud-playbook-slotina.md
+- created:
+  - wiki/canon/marketing-frameworks/website-clone-incident-playbook-2026.md
+  - wiki/evolving/content-trends/media-capital-as-clone-defense-2026.md
+  - wiki/evolving-strict/campaign-metrics/website-clone-takedown-cost-benchmark-2026.md
+- updated:
+  - wiki/evolving/content-trends/ai-screenshot-trust-crisis-2026.md
+  - wiki/evolving/content-trends/anti-impersonation-operational-notice.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 3, evolving-strict: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_moshenniki-skopirovali-sajt-chto-predprinyat-ekspertu-v-perv_57926a5d.md
+
+## [2026-05-22 21:00] [ingest] | Pressfeed — замена Google Forms (11 RU-сервисов опросов): 152-ФЗ локализация ПДн + импортозамещение + тарифы + survey design
+- source: wiki/sources/2026-05-22-pressfeed-survey-tools-data-localization-ru.md
+- created:
+  - wiki/canon-strict/legal-claims/ru-data-localization-152fz-2025.md
+  - wiki/evolving/industry-trends/ru-survey-tools-import-substitution-2026.md
+  - wiki/evolving-strict/market-data/ru-survey-tools-pricing-2026.md
+  - wiki/canon/marketing-frameworks/survey-design-best-practices.md
+- updated:
+  - wiki/canon-strict/legal-claims/ad-marking-russia-2026.md
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon-strict: 2, evolving: 2, evolving-strict: 1, canon: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_na-zamenu-gugl-formam-11-servisov-dlya-oprosov-razreshennyh-_a10cd00c.md
+
+## [2026-05-22 02:15] [ingest] | Pressfeed: нейросети/конструкторы для приложений без кода (10+ сервисов) — новый RU app-builder inventory (3 под-типа) + disambiguation от agent-builders + content-нарратив «приложение собирает каждый»
+- source: wiki/sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov.md
+- created:
+  - wiki/evolving/competitor-positioning/ru-nocode-app-builder-platforms-2026.md
+  - wiki/evolving/content-trends/no-code-everyone-builds-narrative-2026.md
+- updated:
+  - wiki/evolving/competitor-positioning/ru-nocode-ai-agent-platforms-2026.md (+disambiguation-врезка agent-builder ≠ app-builder с cross-ref на новый inventory; +GigaStudio (Сбер) как новый app-builder-сосед к ГигаЧат Бизнес; +2 link в Связанные страницы; +source.)
+  - wiki/evolving/competitor-positioning/vibecoding-stack-ecosystem-2026.md (+подсекция «RU-локализованные prompt-to-app аналоги» в L1 (Чатиум/Miniapps.ai/GigaStudio vs Lovable/Base44/Rork; Rork-аналога в RU нет — gap); +2 link; +source.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_nejroseti-i-konstruktory-dlya-sozdaniya-prilozhenij-bez-znan_0fc9d0c1.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-22 15:33] [ingest] | Telegram @your_pet_project (Табунов) — посты 630–632 (FaceKit AI-инфлюенсер app-кейс + 10 пунктов про рынок РФ) [bundle: 1 article + 1 image]
+- source: wiki/sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md
+- created:
+  - wiki/evolving-strict/competitor-metrics/facekit-ai-influencer-app-monetization-2026.md
+  - wiki/canon/marketing-frameworks/abandon-cart-paywall-dark-patterns.md
+  - wiki/canon/marketing-frameworks/ru-it-market-launch-playbook-tabunov.md
+  - wiki/evolving-strict/market-data/ru-it-market-launch-economics-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/ai-influencer-grandma-playbook.md (+FaceKit как второй cross-corroborating AI-инфлюенсер кейс (AI-аватары продают софт/подписку, не только физпродукт); +сравнительная таблица бабушки vs FaceKit; +2 cross-ref + delta-секция)
+  - wiki/evolving/content-trends/your-pet-project-channel-hooks.md (+дельта 4-го дампа (посты 631-632): 6 FaceKit-hooks + 8 RU-рынок-hooks; +5 cross-ref в backlinks; +новый source)
+  - wiki/evolving/industry-trends/ai-solopreneurship-window-2026-2029.md (+RU-специфика окна (Табунов 632): «запускаться проще, масштабировать сложнее», дефицит трафика как главный RU-constraint вместо капитала, русский венчур не заливает ниши → соло-преимущество; +новый source)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 2, evolving-strict: 2, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_your_pet_project_20260519-122011.md + 1 child (raw/processed/media/tg_your_pet_project_631.jpg)
+
+## [2026-05-18 11:50] [ingest] | Pressfeed: От креатива к конверсии — 4-этапный фреймворк продающей кампании + температура аудитории
+- source: wiki/sources/2026-05-18-pressfeed-creative-to-conversion-campaign.md
+- created:
+  - wiki/canon/marketing-frameworks/creative-to-conversion-campaign-framework.md
+  - wiki/canon/marketing-frameworks/audience-temperature-cold-warm-hot.md
+- updated:
+  - wiki/canon/marketing-frameworks/qualitative-adjectives-ad-copy.md (+cross-link на creative-to-conversion (A/B заголовков = самый дешёвый рычаг этапа 3; заголовок = первый из 3 обязательных элементов креатива по редакции Pressfeed); +source в front-matter, updated 2026-05-18)
+  - wiki/canon/marketing-frameworks/funnel-simplicity-principle.md (+cross-link на creative-to-conversion (правило 2 = outcome-фокус этапов 1-2, правило 1 = чёткость CTA этапа 2); +source в front-matter, updated 2026-05-18)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_ot-kreativa-k-konversii-kak-sozdavat-reklamnye-kampanii-koto_e64c9ef8.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-18 21:00] [ingest] | Pressfeed/Середа — вебинар «Рынок труда 2026: кто диктует правила» (update-only)
+- source: wiki/sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/industry-trends/ru-labor-market-employer-turn-2026.md
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md
+  - wiki/evolving/industry-trends/candidate-side-ai-services-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_rynok-truda-2026-kto-diktuet-pravila-i-kak-iskat-rabotu-v-no_de037c0d.md
+
+## [2026-05-18 21:00] [ingest] | Pressfeed/Жаринов — кризис как перезагрузка (crisis-speed-gap фреймворк + опережающие индикаторы)
+- source: wiki/sources/2026-05-18-pressfeed-krizis-perezagruzka-zharinov.md
+- created:
+  - wiki/canon/marketing-frameworks/crisis-speed-gap-zharinov.md
+- updated:
+  - wiki/canon/marketing-frameworks/business-crisis-playbook-apollo13.md
+  - wiki/canon/marketing-frameworks/weak-signals-crisis-3-stages.md
+  - wiki/canon/marketing-frameworks/change-management-tuckman-kotter-ramazanov.md
+  - wiki/canon/target-audience/ru-smb-founder-owner-seller.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_padenie-kak-instrument-pochemu-krizis-v-biznese-eto-ne-konec_8fb38f79.md
+
+## [2026-05-23 18:46] [ingest] | Pressfeed: Обновления Telegram 2025–2026 — capabilities-карта + global-post-search lead-gen + Stars/подарки монетизация + расширение Telegram Ads
+- source: wiki/sources/2026-05-18-pressfeed-telegram-updates-2025-2026.md
+- created:
+  - wiki/evolving/content-trends/telegram-platform-capabilities-2026.md
+  - wiki/canon/marketing-frameworks/telegram-global-post-search-leadgen.md
+  - wiki/evolving/content-trends/telegram-stars-gifts-creator-monetization-2026.md
+- updated:
+  - wiki/evolving-strict/campaign-metrics/telegram-ads-benchmarks-2026.md (+раздел «Расширение рекламного инвентаря Telegram Ads 2025–2026»: Banner in Video, реклама в ботах от 1000 пользователей, поиск по ключевым словам, Pixel Tag, снижение порога входа (5 inline-маркеров conf:medium/src:2026-05-18) + 2 cross-ref + источник в front-matter)
+  - wiki/canon/marketing-frameworks/smm-analytics-2026-framework.md (+раздел «Telegram-специфика аналитики»: дефицит нативной аналитики TG → TGStat/Telemetr/Popsters/Adstat.pro; глобальный поиск постов как источник сигнала; +механика «сообщение каналу» в Связь-с-GRO; +3 cross-ref + источник)
+  - wiki/evolving/content-trends/telegram-native-formats.md (+2 cross-ref на новые capabilities/monetization страницы в Связанных + источник в front-matter)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, canon: 2, evolving-strict: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_obnovleniya-telegram-v-2025-2026-obzor-novyh-vozmozhnostej-v_9d605de6.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 00:00] [ingest] | Pressfeed: Рерайт текстов в 2026 — ландшафт AI-рерайт-инструментов (3 задачи + 5 категорий + бенчмарк качества + детектор≠доказательство)
+- source: wiki/sources/2026-05-18-pressfeed-rerajt-tools-2026-landscape.md
+- created:
+  - wiki/canon/marketing-frameworks/rewrite-task-tool-matching-2026.md
+  - wiki/evolving/competitor-positioning/ai-rewriter-tool-landscape-5-tiers-2026.md
+  - wiki/evolving-strict/competitor-metrics/llm-rewrite-quality-benchmark-2026.md
+- updated:
+  - wiki/evolving/content-trends/ai-text-detection-landscape-2026.md (+секция «детектор ≠ доказательство оригинальности» (Text.ru/Advego/GPTZero/Originality.ai/ZeroGPT врут в обе стороны; фактчек = ручная сверка по первоисточникам); уникальность ≠ оригинальность.)
+  - wiki/canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media.md (+секция «операционный нижний слой»: cross-ref на rewrite-task-tool-matching как «каким инструментом» выполнить делегированное; 2 из 6 горячих зон = 2 из 3 задач рерайта; trap скрытой модели.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, evolving-strict: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_rerajt-tekstov-v-2026-na-chyom-realno-rabotayut-redakczii-i-_cab61ab7.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-07 21:00] [ingest] | Деловой Петербург — 68% петербуржцев: автоматизация как инструмент эффективности (update-only)
+- source: wiki/sources/2026-05-07-dp-68-peterburzhcev-avtomatizaciya-effektivnost.md
+- created:
+  - none
+- updated:
+  - wiki/evolving-strict/market-data/hh-automation-survey-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 1, sources: 1}
+- touched: 2 pages
+- raw: raw/processed/articles/web_www.dp.ru_a_2026_05_07_68-peterburzhcev-schitajut-avtomatizaciju_765f311c.md
+
+## [2026-05-18 21:00] [ingest] | Pressfeed — Топ-12 подборок книг (listicle-hub SEO-pattern: «подборка подборок» как pillar)
+- source: wiki/sources/2026-05-18-pressfeed-top-12-book-collections-listicle-hub.md
+- created:
+  - wiki/evolving/content-trends/pressfeed-listicle-hub-seo-pattern.md
+- updated:
+  - wiki/evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern.md
+  - wiki/evolving/content-trends/pressfeed-ceo-personal-effectiveness-essay-pattern-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_top-12-podborok-knig-dlya-piarshhikov-marketologov-i-vseh-kt_3c022fc1.md
+
+## [2026-05-18 11:50] [ingest] | Pressfeed: Скорость сайта как основа роста интернет-магазина (advertorial Smink) — site-speed conversion lever + platform-advertorial pattern
+- source: wiki/sources/2026-05-18-pressfeed-skorost-sajta-rost-internet-magazina.md
+- created:
+  - wiki/canon/marketing-frameworks/site-speed-as-conversion-lever.md
+  - wiki/evolving/content-trends/pressfeed-platform-advertorial-pattern.md
+- updated:
+  - wiki/canon/marketing-frameworks/mobile-ux-b2b-conversion.md (+cross-ref на site-speed-as-conversion-lever как смежный технический рычаг конверсии)
+  - wiki/evolving/content-trends/vcru-hr-content-patterns-2026.md (+cross-ref на pressfeed-platform-advertorial-pattern (контраст тонкий platform-advertorial vs серийный SEO-лонгрид))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_skorost-sajta-kak-osnova-rosta-internet-magazina-praktichesk_59fa1c61.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 18:50] [ingest] | Pressfeed/Горская — «Владелец устал: бизнес — зеркало владельца» (founder-bottleneck личностный регистр)
+- source: wiki/sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md
+- created:
+  - wiki/canon/marketing-frameworks/owner-as-mirror-transformation-gorskaya.md
+- updated:
+  - wiki/canon/target-audience/ru-smb-founder-owner-seller.md (+«зеркало владельца» recognition-hook в секцию маркетинговых хуков: болевой профиль выгорания founder'а из колонки Горской дословно совпадает с маркерами сегмента.)
+  - wiki/evolving/content-trends/owner-escape-operations-hooks.md (+cross-ref на owner-as-mirror-transformation-gorskaya как личностный регистр того же owner-escape problem-space + source.)
+  - wiki/canon/marketing-frameworks/owner-strategist-operator-three-roles-separation.md (+cross-ref на owner-as-mirror как личностный близнец структурного фрейма разделения ролей.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_vladelecz-ustal-pochemu-biznes-ne-rastet-i-kak-vyjti-iz-tupi_250a8863.md (+ .note.md, .triage.json)
+
+## [2026-05-23 13:51] [ingest] | Pressfeed: запрет иностранных слов по 168-ФЗ — детали КоАП (ст. 14.8), B2B-исключение + 14 сервисов автопроверки на англицизмы
+- source: wiki/sources/2026-05-18-pressfeed-168fz-anglicism-check-services.md
+- created:
+  - wiki/evolving/content-trends/ru-anglicism-check-tools-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ru-brand-russification-law-2026.md (+ст. 14.8 КоАП (вилки штрафов), B2B-исключение, надзор Роспотребнадзор/ФАС без спец-штрафов, требование «перевод на виду в том же оформлении», ссылка на compliance-тулинг.)
+  - wiki/canon-strict/legal-claims/ad-marking-russia-2026.md (168-ФЗ subsection: +B2B-исключение, +ст. 14.8 КоАП и детализация ст. 14.3 ч.1 (inline-маркеры), +требование к оформлению перевода, +ссылка на тулинг автопроверки.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, canon-strict: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_news.pressfeed.ru_zapret-inostrannyh-slov-po-168-fz-14-servisov-dlya-proverki-_ad37e6ad.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 00:00] [ingest] | dp.ru — зарплаты СЗФО апрель 2026 (no relevant extractions: boilerplate-only crawl)
+- source: wiki/sources/2026-05-08-www-dp-ru-a-2026-05-08-peterburg-v-aprele-stal-samim-d7ca8951.md
+- created:
+  - none
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1}
+- touched: 1 pages
+- raw: raw/processed/articles/web_www.dp.ru_a_2026_05_08_peterburg-v-aprele-stal-samim_d7ca8951.md
+
+## [2026-05-23 00:00] [ingest] | dp.ru: Петербург третий по числу психологов-предпринимателей — контент не извлечён (фетч захватил только boilerplate), audit-only
+- source: wiki/sources/2026-05-08-dp-ru-peterburg-psihologi-predprinimateli.md
+- created:
+  - none
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1}
+- touched: 1 pages
+- raw: raw/processed/articles/web_www.dp.ru_a_2026_05_08_peterburg-okazalsja-tretim_c5441b5d.md (+ 3 sidecars: .bundle.json, .note.md, .triage.json)

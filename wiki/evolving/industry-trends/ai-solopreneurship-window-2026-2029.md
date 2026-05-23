@@ -9,8 +9,8 @@ tags: [ai, solopreneurship, market-trends, agentic, content, awareness]
 confidence: medium
 stale: false
 created: 2026-04-11
-updated: 2026-05-19  # +Moreynis (temno 7842) «масштабируемая самозанятость»: ИИ снимает потолок «руки × часы», самозанятый запускает десятки агентов 24/7; self-selecting в ИИ-бизнес тех, кто «с людьми работать не умеет и не хочет»
-sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md]
+updated: 2026-05-19  # +Tabunov (yp 632) RU-специфика окна: «запускаться проще, масштабировать сложнее», главный constraint РФ — дефицит трафика, а не капитал; русский венчур не заливает ниши деньгами → соло-преимущество; +Moreynis (temno 7842) «масштабируемая самозанятость»
+sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -197,6 +197,25 @@ Hyperliquid — это **не AI-продукт** (крипто-деривати
 4. **Cross-platform paid-content engine.** Нейробабушки работают через **TikTok + Instagram + Amazon** (последний — destination), 36 ед/день. Это **massive content production rate**, который ни один live-influencer не может поддерживать.
 
 **Implication для GRO:** этот case — **awareness-hook**, но **не template для GRO**: brand-mismatch (GRO — серьёзный self-development продукт), legal в RU/EU (требование маркировки AI-content 2026), и trust-decay-risk. **GRO остаётся в "AI as helper for human" team-shape**, не "AI as face replacement".
+
+## RU-специфика окна: «запускаться проще, масштабировать сложнее» (Табунов, май 2026)
+
+Дополнено [delta] из [[sources/2026-05-19-tg-your-pet-project-may-14-18-2026|4-го дампа канала @your_pet_project, пост 632]]. Табунов даёт **RU-локализацию** общего solopreneur-нарратива, объясняя, почему окно открывается на российском рынке иначе, чем на глобальном. Полная рамка — [[canon/marketing-frameworks/ru-it-market-launch-playbook-tabunov]], числа — [[evolving-strict/market-data/ru-it-market-launch-economics-2026]].
+
+**Почему окно на RU-рынке благоприятно для соло-фаундера:**
+
+1. **«Русский венчур — много разговоров, мало дела».** Раунды микроскопические → нет залива денег и гигантов, скупающих клики по $5. В US ниша заливается деньгами за 6 месяцев; в РФ — нет. Это **прямо усиливает соло-преимущество** страницы: соло-фаундер не конкурирует с venture-backed гигантами за трафик. `[conf:medium, src:2026-05-18]`
+2. **Низкая конкуренция + отставание бигтеха ~2 года** → «30 валидных ниш в моменте» (см. counter-anchor выше) на RU-рынке шире, потому что половина продуктов «непригодна к использованию».
+3. **Дешёвый CAC ~$10 + конверсия 1–3%** делают unit-экономику соло-запуска жизнеспособной без больших бюджетов.
+
+**Но RU-специфичный constraint инвертирует часть нарратива:**
+
+> «В России запускаться проще, но масштабироваться сложнее.»
+
+- **Главное горлышко RU — не капитал, а трафик.** $10K/мес = «крупный рекламодатель»; объёмов нигде нет. Это противоположно глобальному нарративу «барьер $200 → запускай что угодно»: на RU-рынке запустить дёшево, но **упереться в потолок качественной аудитории за полгода**.
+- Соответственно **«масштабируемая самозанятость» Морейниса** (см. ниже) на RU-рынке упирается не в «руки × часы», а в **абсолютный объём платящего трафика (~20 млн человек)**.
+
+**Implication для GRO:** для RU-аудитории GRO нарратив окна надо локализовать: не «барьер упал, запускай», а «запустить дёшево легко, но твой реальный constraint — отсечь неплатёжеспособную половину трафика и удержать узкую качественную аудиторию». GRO позиционируется как инструмент системности именно на фазе «после сбора низковисящих фруктов».
 
 ## «Масштабируемая самозанятость» — снятие потолка «руки × часы» (Морейнис, май 2026)
 

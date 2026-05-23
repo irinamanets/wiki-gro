@@ -9,8 +9,8 @@ tags: [framework, copywriting, ad-copy, paid-ads, ctr, ab-testing]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md]
+updated: 2026-05-18  # +cross-link на creative-to-conversion (A/B заголовков как этап 3 кампании)
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-18-pressfeed-creative-to-conversion-campaign.md]
 namespace: mkt
 ---
 
@@ -78,6 +78,7 @@ Petrochenkov-эвристика: качественные прилагатель
 
 - [[canon/marketing-frameworks/hyperseg-funnel-replication]] — следующий уровень, где разные прилагательные поданы разным сегментам.
 - [[canon/marketing-frameworks/cpa-calculator-pre-launch-roi]] — A/B по прилагательным улучшает CTR, тем самым снижает CPC и сдвигает ROI-калькулятор в плюс.
+- [[canon/marketing-frameworks/creative-to-conversion-campaign-framework]] — A/B-тестирование заголовков — самый дешёвый рычаг этапа 3 (запуск+тест) общего фреймворка продающей кампании; редакция Pressfeed (2026-05-18) фиксирует заголовок как первый из трёх обязательных элементов креатива.
 - [[evolving/content-trends/telegram-native-formats]] — в нативных форматах прилагательные работают через ритм и тон, а не через резкий оценочный фрейм.
 
 ## См. также

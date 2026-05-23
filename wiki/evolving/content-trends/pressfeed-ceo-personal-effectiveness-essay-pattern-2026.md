@@ -9,7 +9,7 @@ tags: [pressfeed, ceo-essay, founder-content, personal-effectiveness, content-pa
 confidence: low
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-23
 sources: [sources/2026-05-18-pressfeed-ceo-focus-essay.md]
 namespace: mkt
 ---
@@ -118,6 +118,7 @@ Pressfeed News — **специфический архетип** business-public
 - [[evolving/content-trends/dzen-republication-preview-pattern-2026]] — Дзен как distribution-канал
 - [[evolving/content-trends/ceo-somatic-energy-hooks]] — соседний hook-словарь для CEO-аудитории
 - [[evolving/content-trends/pressfeed-paid-placement-ai-edu-pattern]] — соседний paid-placement паттерн Pressfeed
+- [[evolving/content-trends/pressfeed-listicle-hub-seo-pattern]] — третий распознанный Pressfeed-формат (listicle-hub / SEO-pillar)
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — ICP-overlap с Pressfeed-аудиторией
 - [[canon/marketing-frameworks/ai-content-3-limitations-pressfeed]] — соседний фрейм Pressfeed по AI-контенту (CEO-эссе vs guest-expert posts)
 - [[evolving/product-reception/gro-productivity-energy-angle]] — content-angle GRO, к которому applies этот distribution-канал

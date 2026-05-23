@@ -9,7 +9,7 @@ tags: [content, seo, landing-page]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-05-18  # +cross-ref на site-speed-as-conversion-lever как смежный технический рычаг
 sources: [sources/2026-04-16-condense-pressfeed-35-articles.md]
 namespace: mkt
 ---
@@ -39,3 +39,4 @@ GRO -- mobile-first продукт. Но лендинг groapp.ru и веб-ве
 - [[canon/marketing-frameworks/tabunov-landing-anatomy]] -- 4-блочная структура лендинга
 - [[canon/product-knowledge/gro-web-app]] -- веб-версия GRO
 - [[canon/marketing-frameworks/visual-content-design-for-conversion]] -- визуальный контент-дизайн
+- [[canon/marketing-frameworks/site-speed-as-conversion-lever]] -- скорость сайта как смежный технический рычаг конверсии (UX-правки работают на быстрой странице)

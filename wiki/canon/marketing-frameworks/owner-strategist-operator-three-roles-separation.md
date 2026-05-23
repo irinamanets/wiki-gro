@@ -9,7 +9,7 @@ tags: [founder-content, operations, frameworks, mentor-economy, ru-smb]
 confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-18  # +cross-ref на attention-as-managed-resource-pressfeed-ceo (Pressfeed CEO достигает того же диагноза founder-bottleneck через лексику «внимание как ресурс», не через разделение ролей)
+updated: 2026-05-23  # +cross-ref на owner-as-mirror-transformation-gorskaya (личностный регистр того же founder-bottleneck диагноза). Ранее: +attention-as-managed-resource-pressfeed-ceo
 sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-18-pressfeed-ceo-focus-essay.md]
 namespace: mkt
 ---
@@ -93,6 +93,7 @@ GRO работает с founder'ами, которые **застряли в с�
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — Спиридонов как content-channel применения фрейма
 - [[canon/marketing-frameworks/business-metrics-for-owners]] — связанный фрейм метрик, которые смотрит каждая роль
 - [[canon/marketing-frameworks/grebenyuk-scale-via-people-listening]] — **операциональный близнец**: Гребенюк даёт поведенческую технику для того же диагноза («собственнику надо заткнуться») — на совещании молчать, слушать и задавать вопросы, чтобы команда сама давала завершённые ответы. Спиридонов объясняет *почему* (роли ≠), Гребенюк показывает *как* (стиль ведения планёрки)
+- [[canon/marketing-frameworks/owner-as-mirror-transformation-gorskaya]] — **личностный/феноменологический близнец**: Горская достигает того же диагноза founder-bottleneck («бизнес — зеркало владельца, его застой = ваш внутренний кризис»), но через личностно-эмоциональный регистр вместо разделения ролей. Спиридонов: структура (роли). Горская: внутреннее состояние. `confidence: low` (неверифицированный наставник), полезна как awareness-hook, не как методология
 
 ## Anti-pattern — частые ошибки
 

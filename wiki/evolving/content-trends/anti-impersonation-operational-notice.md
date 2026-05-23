@@ -9,8 +9,8 @@ tags: [content, security, fraud, telegram, personal-brand, operational, scam]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md]
+updated: 2026-05-18  # +связка с reactive clone-playbook и медиакапитал-defence (Слотина/Pressfeed): превентивный слой brand-protection
+sources: [sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-18-pressfeed-website-clone-fraud-playbook-slotina.md]
 namespace: mkt
 ---
 
@@ -97,8 +97,20 @@ GRO имеет sales-воронку через support и потенциальн
 2. Мы быстро проверим и дадим вам зелёный свет (или красный, если это мошенник).
 ```
 
+## Место в наборе brand-protection
+
+Этот паттерн — **превентивный** слой защиты бренда: single source of truth + обученная аудитория **до** инцидента. Он образует пару с двумя реактивно-стратегическими страницами из кейса Слотиной ([[sources/2026-05-18-pressfeed-website-clone-fraud-playbook-slotina|Pressfeed]]):
+
+- **Реактивный слой** — [[canon/marketing-frameworks/website-clone-incident-playbook-2026]]: что делать в первые часы, когда клон/импьерсонация уже произошли (фиксация → юр-следы → инфраструктурная блокировка).
+- **Стратегический слой** — [[evolving/content-trends/media-capital-as-clone-defense-2026]]: почему плотный публичный след делает подделку нерентабельной.
+
+**Audience-as-detection-network.** Адаптация 2 (превентивный pinned-пост) и адаптация 4 (обучение на анонимизированном примере) превращают аудиторию в распределённую сеть детекции: подписчики, которых заранее научили проверять через bot-handle, **первыми сигналят** о фейке. В кейсе Слотиной именно аудитория (включая бывших сотрудников) первой включилась в проверку клона — эмпирическое подтверждение, что превентивная дисциплина + медиакапитал работают вместе.
+
 ## Связанные страницы
 
 - [[sources/2026-05-05-tg-alexander-visotsky-apr-may-2026]] — source, пост 3706
+- [[sources/2026-05-18-pressfeed-website-clone-fraud-playbook-slotina]] — кейс Слотиной (reactive + strategic слои)
+- [[canon/marketing-frameworks/website-clone-incident-playbook-2026]] — реактивный clone-incident playbook
+- [[evolving/content-trends/media-capital-as-clone-defense-2026]] — стратегическая защита через медиакапитал
 - [[evolving/competitor-positioning/business-booster-visotsky]] — профиль автора
 - [[evolving/content-trends/telegram-native-formats]] — родственный контент-формат-каталог

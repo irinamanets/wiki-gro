@@ -9,8 +9,8 @@ tags: [funnel, conversion, copywriting, landing-page, user-psychology, positioni
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14
-sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md]
+updated: 2026-05-18  # +cross-link на creative-to-conversion (чёткость CTA + outcome-фокус)
+sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md, sources/2026-05-18-pressfeed-creative-to-conversion-campaign.md]
 namespace: mkt
 ---
 
@@ -71,6 +71,7 @@ Reusable маркетинговый фреймворк: **чем проще во
 
 ## Связь с другими фреймворками GRO-вики
 
+- **[[canon/marketing-frameworks/creative-to-conversion-campaign-framework]]** — оба правила переносятся в общий 4-этапный фреймворк продающей кампании: правило 2 («говори про него, а не про себя») = outcome-фокус этапа 1-2 (выгода, не feature); правило 1 (простота) = чёткость CTA этапа 2 (редакция Pressfeed: призыв должен быть заметным и однозначным).
 - **[[canon/marketing-frameworks/retention-benchmarks-b2c]]** — правило простоты работает на верхнюю часть воронки (acquisition / activation), retention-бенчмарки — на нижнюю. Оба про PMF, только с разных концов.
 - **[[canon/positioning/gro-value-proposition]]** — правило 2 прямо применимо к текущему value proposition.
 - **[[evolving/content-trends/ai-solopreneur-narrative-hooks]]** и **[[evolving/content-trends/tabunov-founder-growth-hooks]]** — переиспользуемые формулировки на основе этого фреймворка.

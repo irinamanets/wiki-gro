@@ -9,8 +9,8 @@ tags: [ai, trust, deepfake, content, pr, social, dnative, expert-opinion, conten
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-18  # +Стеценко (Loyalty Group) creative-content-layer как parallel-axis к platform-layer dnative
-sources: [sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md]
+updated: 2026-05-18  # +Слотина (Pressfeed): clone/brand-impersonation как третий слой того же trust-кризиса (AI удешевляет подделку идентичности)
+sources: [sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-18-pressfeed-website-clone-fraud-playbook-slotina.md]
 namespace: mkt
 ---
 
@@ -35,6 +35,12 @@ namespace: mkt
 > «При желании, делаешь скриншоты всратых переписок с поддержкой банка, любого сервиса, да чего угодно. Идёшь в Твиттер, Тредс, паблики ТГ и ВК, закидываешь везде в духе "Бренд ХХХ совсем охерел такое мне предлагать", добавляешь ещё сюда политики в переписке и всё. Миллионы просмотров обеспечены, и PR-служба с этим ничего сделать не сможет.»
 
 Это **новый класс PR-кризиса**: фейк-скриншот переписки с поддержкой выглядит так же, как настоящий, виральный в соцсетях. Классический PR-инструментарий (Right-of-Reply, фактчек, юридический отбой) — медленный, против виральности соцсетей не работает.
+
+### 3. Brand-impersonation (клонирование всей идентичности)
+
+Третий слой того же тренда (Слотина, [[sources/2026-05-18-pressfeed-website-clone-fraud-playbook-slotina|Pressfeed]]): AI удешевил не только подделку отдельного скриншота, но и **подделку всей оболочки бренда** — сайт, упаковку, тексты, фото с подставленным лицом. Раньше для клона нужны были дизайнер + копирайтер + верстальщик; теперь достаточно скормить в ИИ сайт и референсы. Клон может выглядеть не как прямая копия, а как **«версия бренда»**. Это переводит deepfake-screenshot-сценарий в более широкий класс: подделывается **идентичность эксперта/бизнеса целиком**, а не разовое «доказательство».
+
+Reactive-ответ — инцидент-playbook (фиксация → юр-следы → инфраструктурная блокировка): [[canon/marketing-frameworks/website-clone-incident-playbook-2026]]. Strategic-ответ — медиакапитал как защита (наращивать публичность, а не прятаться): [[evolving/content-trends/media-capital-as-clone-defense-2026]].
 
 ## Самореферентный кейс: 7599 → 7603
 
@@ -80,8 +86,11 @@ dnative использовал ChatGPT для генерации серии ре
 - [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]] — зональная рамка: где AI-применение запрещено по этической границе
 - [[evolving/industry-trends/ai-invisibility-shift-2026]] — отраслевой сдвиг к «AI становится невидимым»
 - [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]] — параллельный mass-scale кейс, иллюстрирующий тот же trust-кризис
+- [[canon/marketing-frameworks/website-clone-incident-playbook-2026]] — reactive playbook на brand-impersonation (третий слой кризиса)
+- [[evolving/content-trends/media-capital-as-clone-defense-2026]] — стратегическая защита: медиакапитал против AI-удешевлённых клонов
 - [[sources/2026-05-14-tg-dnative-7598-7611]] — первоисточник (пост 7599 + visual recursion 7600–7603)
 - [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — параллельный источник по creative-content-layer
+- [[sources/2026-05-18-pressfeed-website-clone-fraud-playbook-slotina]] — источник brand-impersonation-слоя (кейс Слотиной)
 
 ## TTL
 

@@ -9,8 +9,8 @@ tags: [content, telegram, founder-voice, hooks, solopreneurship, case-studies, l
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-18  # +4 hooks из третьего ingest'a 2026-05-13: «наклейка на стекле» build-in-public anti-pattern, «5 НЕТ для пет-проекта», «социальное доказательство x3 конверсия», «$75M на нейробабушках»
-sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
+updated: 2026-05-19  # +4-й ingest 2026-05-19 (посты 631-632): FaceKit AI-инфлюенсер кейс (looksmaxxing app, abandon-cart) + 10 пунктов про рынок РФ
+sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -251,6 +251,34 @@ namespace: mkt
 
 **Caveat для GRO content:** AI-инфлюенсер playbook **не для применения напрямую** (brand-mismatch, legal в RU/ЕС), но **готов как awareness-hook** про state-of-the-art в performance-маркетинге 2026.
 
+## Hooks из дельты четвёртого дампа (посты 630–632, 2026-05-19)
+
+Добавлено [delta] из [[sources/2026-05-19-tg-your-pet-project-may-14-18-2026|четвёртого ingest'a канала]]. Две темы: FaceKit (AI-инфлюенсер кейс для apps) и 10 пунктов про рынок РФ.
+
+### FaceKit — AI-инфлюенсеры продают приложения (пост 631)
+
+См. [[evolving-strict/competitor-metrics/facekit-ai-influencer-app-monetization-2026]] и [[canon/marketing-frameworks/abandon-cart-paywall-dark-patterns]]. Killer one-liners:
+
+- **«$110K за 4 месяца на 3D-сканере лица. Ноль рекламы. Весь трафик — нейро-парни в TikTok.»** `[conf:medium, src:2026-05-15]` — opening hook awareness-стадии.
+- **«Luke и Logan, 50K и 27K фолловеров, миллионы лайков. Их не существует — это AI-аватары. В комментах никто не понял.»** — provocative state-of-the-art hook.
+- **«Приложение 15 MB, без backend, без AI. ARKit + красивый UI + псевдонаучный golden ratio. И $110K.»** — «продукт не делает деньги, делает дистрибуция» hook.
+- **«Половина выручки FaceKit — это abandon-cart: не купил с первого пейволла? Лови оффер дешевле.»** `[conf:medium, src:2026-05-15]` — operational paywall hook.
+- **«Сначала 30 секунд сканируешь лицо, ждёшь, и только потом видишь цену. Вложился — заплатишь.»** — sunk-cost dark-pattern hook (см. abandon-cart-paywall framework).
+- **Anti-pattern для GRO:** «AI-инфлюенсеры теперь продают и софт. Но FaceKit — пустышка с golden ratio. Учитесь отличать механику от ценности.» — editorial-skepticism тон.
+
+### 10 пунктов про рынок РФ (пост 632)
+
+См. [[canon/marketing-frameworks/ru-it-market-launch-playbook-tabunov]] и [[evolving-strict/market-data/ru-it-market-launch-economics-2026]]. Killer one-liners:
+
+- **«Миф "в России не платят" — ложь. Конверсия 1–3%, на уровне лучших мировых рынков. Попробуй запустись в Бразилии.»** `[conf:medium, src:2026-05-18]` — contrarian opening hook.
+- **«Привлечь платящего юзера в РФ — 800–1000₽. Это $10. По мировым меркам это даром.»** `[conf:medium, src:2026-05-18]` — economics hook.
+- **«Половина трафика на русском рынке неплатёжеспособна. Учись её отсекать.»** — operational targeting hook.
+- **«Русский венчур — как подростковый секс: много разговоров, мало дела. Для соло-фаундера это плюс.»** — provocative founder-voice one-liner (переформулировать для GRO-тона).
+- **«В США нишу зальют деньгами за 6 месяцев. В России — нет. Конкуренты не скупают клики по $5.»** — RU-преимущество hook.
+- **«Главная проблема рынка РФ — не деньги, а дефицит трафика. $10K/мес — и ты уже огого рекламодатель.»** `[conf:low, src:2026-05-18]` — structural-constraint hook.
+- **«В России запускаться проще, масштабировать сложнее. Низковисящие фрукты собираются за полгода.»** — realistic-roadmap hook.
+- **«RU-финтех — это кайф. Банки и платёжки: быстро, чётко, без KYC по полгода.»** — fintech-advantage hook.
+
 ## Anti-hooks (что не транслировать)
 
 - **Матерок** — «нафиг», «хана», «жопа», «блин сука» — нормально для founder-voice Табунова, но tone of voice GRO не канонизирован (см. [[canon/brand-guidelines/gro-typography]]), по умолчанию переформулировать.
@@ -273,6 +301,11 @@ namespace: mkt
 - [[canon/marketing-frameworks/ai-influencer-grandma-playbook]] — третий ingest (пост 629)
 - [[evolving-strict/competitor-metrics/yp-may-2026-50k-mrr-app-cluster]] — третий ingest (посты 623–627)
 - [[volatile-strict/industry-news/supreme-ai-bot-merc-decay-case-2026-05]] — третий ingest (пост 621, контр-кейс)
+- [[evolving-strict/competitor-metrics/facekit-ai-influencer-app-monetization-2026]] — четвёртый ingest (пост 631, FaceKit)
+- [[canon/marketing-frameworks/abandon-cart-paywall-dark-patterns]] — четвёртый ingest (пост 631, paywall-механики)
+- [[canon/marketing-frameworks/ru-it-market-launch-playbook-tabunov]] — четвёртый ingest (пост 632, рынок РФ)
+- [[evolving-strict/market-data/ru-it-market-launch-economics-2026]] — четвёртый ingest (пост 632, числа рынка РФ)
+- [[sources/2026-05-19-tg-your-pet-project-may-14-18-2026]] — четвёртый ingest
 - [[evolving/content-trends/tabunov-founder-growth-hooks]]
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
 - [[evolving/content-trends/contrarian-framing-expert-telegram]]

@@ -9,7 +9,7 @@ tags: [content-marketing, vc-ru, native-advertising, job-seekers]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-05-18  # +cross-ref на pressfeed-platform-advertorial-pattern (контраст: тонкий platform-advertorial vs серийный SEO-лонгрид)
 sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md]
 namespace: mkt
 ---
@@ -63,3 +63,4 @@ Garmony AI продемонстрировала устойчивый форма�
 - [[evolving/content-trends/vcru-top10-advertorial-pattern-2026]] -- формат «Топ-N» advertorial
 - [[evolving/industry-trends/ru-job-seeker-experience-2026]] -- голос соискателя
 - [[canon/marketing-frameworks/native-advertising]] -- нативная реклама
+- [[evolving/content-trends/pressfeed-platform-advertorial-pattern]] -- контраст: тонкий platform-advertorial (Pressfeed/Smink) vs серийный SEO-лонгрид (Garmony AI)

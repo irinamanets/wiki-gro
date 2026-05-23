@@ -9,8 +9,8 @@ tags: [content, ai, content-quality, detection, research]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +LZ.Media: platform-moderation как двухуровневая (auto-detectors + ручные редакторы) — субъективная и непрозрачная, false-positives на качественном авторском тексте + конкурентные жалобы как новый PR-вектор; +ZeroGPT (@bezsmuzi 2026-05-08) — SEO-мотив проверки
-sources: [sources/2026-04-16-pressfeed-12-ai-text-markers.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
+updated: 2026-05-18  # +Pressfeed (рерайт-тест): детекторы (Text.ru, Advego, GPTZero, Originality.ai, ZeroGPT) врут в обе стороны и не годятся как доказательство оригинальности — реальный фактчек = ручная сверка ключевых утверждений по первоисточникам. Prior: LZ.Media platform-moderation + ZeroGPT SEO-мотив (@bezsmuzi 2026-05-08)
+sources: [sources/2026-04-16-pressfeed-12-ai-text-markers.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-18-pressfeed-rerajt-tools-2026-landscape.md]
 namespace: mkt
 ---
 
@@ -90,10 +90,29 @@ Binoculars (популярный open-source детектор):
 
 **Что это добавляет к картине.** Это **третий мотив проверки на AI**, отдельный от двух уже зафиксированных (редакторская модерация платформ + конкурентные жалобы из LZ.Media): **SEO/ранжирование**. Владелец сайта проверяет собственный контент превентивно, опасаясь пессимизации. Это смещает use-case детекторов от «поймать чужой AI-текст» к «проверить свой перед публикацией». Caveat остаётся прежним (см. бенчмарки выше): single-detector verdict «100% AI» ненадёжен на cross-domain, и сам ZeroGPT — коммерческий инструмент с неизвестной методологией. Для GRO-контента: ZeroGPT — пример **народного инструмента**, не authority; рекомендовать связку «чек-лист маркеров + documented authorship trail», а не доверие к проценту детектора.
 
+## Update 2026-05-18 — детектор ≠ доказательство оригинальности (Pressfeed рерайт-тест)
+
+Источник [[sources/2026-05-18-pressfeed-rerajt-tools-2026-landscape]] (Pressfeed, разбор 24 рерайт-инструментов) добавляет **четвёртый ракурс** к уже зафиксированным мотивам проверки на AI (редакторская модерация платформ + конкурентные жалобы из LZ.Media + SEO-страх пессимизации у @bezsmuzi): **детектор как формальное «доказательство оригинальности» в споре о плагиате**.
+
+Тезис автора:
+
+> «Text.ru, Advego, GPTZero, Originality.ai, ZeroGPT врут в обе стороны и не годятся как доказательство оригинальности. Реальный фактчек на оригинальность — только ручная проверка ключевых утверждений по первоисточникам. Никакой синонимайзер не защитит от обвинений в плагиате, если сами факты вы не сверили.»
+
+**Что это добавляет к картине.**
+- **Расширяет список инструментов в обиходе RU:** к ZeroGPT (зафиксирован выше) добавляются Text.ru, Advego (SEO-синонимайзеры с детектор-функцией), GPTZero, Originality.ai (специализированные AI-детекторы). Это **народный набор**, не authority.
+- **Подтверждает «врут в обе стороны»** — то же, что academic-бенчмарки выше (cross-domain F1 67,23; Binoculars независимо 43%): false-positive на сильном тексте + false-negative на свежих моделях.
+- **Смещает рекомендацию** от «прогнать через детектор» к **ручной сверке ключевых утверждений по первоисточникам**. Это согласуется с [[canon/marketing-frameworks/ai-content-3-limitations-pressfeed|ограничением 1 (галлюцинации)]]: AI = «способный, но невнимательный автор», каждый числовой/именной факт — обязательная сверка с первоисточником, а не с другим AI или детектором.
+- **Важный нюанс:** SEO-синонимайзер (Text.ru, Advego) поднимает % уникальности, но **не защищает от обвинений в плагиате по сути** — уникальность формулировок ≠ оригинальность фактов. Эту разницу разворачивает [[canon/marketing-frameworks/rewrite-task-tool-matching-2026|рамка «3 задачи рерайта»]]: «SEO-уникализация» (зелёный кружок) — отдельная задача от «смыслового рерайта», их путают.
+
+Для GRO-контента: позиция «детектор — не доказательство, фактчек по первоисточникам — единственная защита» — honest-framing, усиливающий ценность [[canon/marketing-frameworks/ai-text-markers-checklist|чек-листа маркеров]] + documented authorship trail.
+
 ## Связанные страницы
 - [[sources/2026-04-16-pressfeed-12-ai-text-markers]] -- первоисточник
 - [[sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits]] -- LZ.Media: platform-moderation operational risks
+- [[sources/2026-05-18-pressfeed-rerajt-tools-2026-landscape]] -- детектор ≠ доказательство оригинальности (рерайт-тест)
 - [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] -- ZeroGPT в обиходе RU-практиков (SEO-мотив проверки)
+- [[canon/marketing-frameworks/rewrite-task-tool-matching-2026]] -- уникальность ≠ оригинальность: 3 задачи рерайта
+- [[canon/marketing-frameworks/ai-content-3-limitations-pressfeed]] -- ограничение 1: сверка фактов по первоисточникам
 - [[canon/marketing-frameworks/ai-text-markers-checklist]] -- 12 устойчивых маркеров AI-текста
 - [[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]] -- делегационная карта LZ.Media (где не отдавать AI)
 - [[canon/marketing-frameworks/native-advertising]] -- нативная реклама, уязвимая к AI-маркерам

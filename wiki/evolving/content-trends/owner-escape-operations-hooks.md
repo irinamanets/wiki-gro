@@ -9,8 +9,8 @@ tags: [content, telegram, narrative, hooks, objections, burnout, owner-self-mana
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-22  # +Петросян пост 2311 (2026-05-19): «размытая тревога опаснее конкретной» + «сегодня решаю только сегодняшнее» + describe-the-state protocol — расширение шахматной секции; market-mood «туман» context. Ранее: +Visotsky 4-й срез (3792, 3801, 3802, 3803, 3795)
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md]
+updated: 2026-05-23  # +cross-ref «зеркало владельца» (Горская/Pressfeed) — личностный регистр того же owner-escape problem-space. Ранее: +Петросян пост 2311 (2026-05-19) «размытая тревога опаснее конкретной» + describe-the-state protocol; +Visotsky 4-й срез
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md]
 namespace: mkt
 ---
 
@@ -712,6 +712,8 @@ GRO — продукт ежедневного журналирования. Petr
 - [[canon/marketing-frameworks/parallel-consulting-monetization-model]] — adjacent монетизационная модель (1-2 млн ₽/мес параллельно)
 - [[canon/marketing-frameworks/hartmann-instant-reply-principle]] — counter-mode (mass-reply orchestration)
 - [[sources/2026-05-14-tg-howtomake10x-may-2026]] — Krylov мая 2026, source hook'ов 1563/1570
+- [[canon/marketing-frameworks/owner-as-mirror-transformation-gorskaya]] — «зеркало владельца»: личностный/феноменологический регистр того же owner-escape problem-space (founder выгорел → бизнес застрял). Recognition-hook на узнавании внутреннего состояния; `confidence: low` (неверифицированный наставник). Берём диагностическую рамку, отбрасываем коучинговую «воду»
+- [[sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror]] — источник фрейма «зеркало владельца» (Pressfeed News, Горская)
 
 ## Backlinks
 

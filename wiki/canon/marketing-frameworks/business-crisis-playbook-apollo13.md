@@ -9,7 +9,7 @@ tags: [frameworks, crisis-management, owner-self-management, content, hooks]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-06  # +Tholai/Metro Россия live-illustrative case: Metro растёт +5%/мес на падающем рынке через категорийную пересборку (алкоголь → soft drinks pivot, 9 категорий в дефляции компенсируются ростом штук) — реальный proof-point Apollo-13 шага «поиск скрытых ресурсов» + шага «выход более сильным»
+updated: 2026-05-23  # +cross-ref на crisis-speed-gap-zharinov как превентивно-диагностическую пару (Apollo-13 = острая фаза, Жаринов = пре-кризис / опережающие индикаторы)
 sources: [sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md]
 namespace: mkt
 ---
@@ -146,6 +146,7 @@ Metro = €2,6 млрд выручки, многосотенная команд�
 
 ## Связь с другими фреймворками
 
+- [[canon/marketing-frameworks/crisis-speed-gap-zharinov]] — **превентивно-диагностическая пара** к этому playbook'у. Apollo-13 учит *что делать в огне* (острая фаза); Жаринов — *как заметить дым раньше пожара* (пре-кризис) через опережающие индикаторы (вовлечённость → клиентский опыт → финансы) вместо запаздывающего «посмертного учёта» по P&L. Шаг 5 «выход более сильным» здесь = anti-fragility тезис Жаринова «без кризисов не бывает роста». Оба сходятся на founder-self-management (emotional resilience протокол ↔ принцип 3 «личная вовлечённость и смысл»).
 - [[canon/marketing-frameworks/crisis-pr-principles]] — фокус на внешней коммуникации в кризис; этот фреймворк дополняет внутренней.
 - [[canon/marketing-frameworks/kpmg-5-stage-restructuring]] — корпоративная реструктуризация (большие компании); Apollo 13 framing — для SMB.
 - [[canon/marketing-frameworks/environment-architecture-entrepreneur-safety]] — превентивная архитектура safety-net.

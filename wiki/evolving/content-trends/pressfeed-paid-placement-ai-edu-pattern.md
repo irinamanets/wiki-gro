@@ -9,7 +9,7 @@ tags: [content, pr, paid-placement, advertorial, ai-education, competitor-positi
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-23
 sources: [sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md]
 namespace: mkt
 ---
@@ -17,6 +17,8 @@ namespace: mkt
 # Pressfeed paid-placement pattern в AI-edu обзорах
 
 **Pressfeed Journal** (news.pressfeed.ru) — контент-маркетинговая площадка PR-сервиса [Pressfeed.ru](https://pressfeed.ru). Между апрелем и маем 2026 в очередь GRO попало **≥3 статьи** одного жанра — «обзоры курсов по нейросетям». При анализе обнаруживается **повторяющийся editorial pattern**, по структурным признакам близкий к **paid-placement / advertorial**.
+
+> **Смежный Pressfeed-формат (2026-05-18):** помимо advertorial-обзоров, площадка использует [[evolving/content-trends/pressfeed-listicle-hub-seo-pattern|listicle-hub («подборка подборок»)]] — pillar-страницу, агрегирующую N тематических sub-listicle'ов с такими же вшитыми self-promo CTA. Тот же funnel-as-content механизм, но без focal-продукта (продаётся сама площадка). Вместе оба паттерна показывают: editorial Pressfeed системно работает как воронка, не как earned media.
 
 Эта страница фиксирует **жанровую механику**, чтобы:
 
@@ -96,4 +98,5 @@ namespace: mkt
 - [[canon/marketing-frameworks/beginner-edu-3-differentiators]] — 3 differentiators (рамка из второго обзора)
 - [[evolving/industry-trends/ru-ai-intensive-courses-landscape-2026]] — landscape, в котором focal школа Барановой
 - [[evolving/content-trends/expert-column-corporate-pr-format-soulful]] — альтернативный формат PR-публикации без focal product paid-placement
+- [[evolving/content-trends/pressfeed-listicle-hub-seo-pattern]] — третий распознанный Pressfeed-формат (listicle-hub / SEO-pillar)
 - [[canon/target-audience/gro-segments]] — пересечение ЦА школы Барановой с GRO
