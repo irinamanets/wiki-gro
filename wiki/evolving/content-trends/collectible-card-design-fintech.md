@@ -9,8 +9,8 @@ tags: [content, creative-reference, t-bank, credit-card, collectible, premium-si
 confidence: medium
 stale: false
 created: 2026-04-17
-updated: 2026-04-17
-sources: [sources/2026-04-14-tg-tinkoffbank-10570-platinum-wildlife.md]
+updated: 2026-05-18  # +Альфа-Банк × «Подписные издания» — второй RU-кейс, валидирует прогноз о copy-paradigm; Альфа добавила explicit limited-edition (6 гравировок) и theme-binding, которых не было у T-Bank
+sources: [sources/2026-04-14-tg-tinkoffbank-10570-platinum-wildlife.md, sources/2026-05-18-tg-rff-channel-may14-18-2026.md]
 namespace: mkt
 ---
 
@@ -19,6 +19,8 @@ namespace: mkt
 Наблюдаемый паттерн: банковские карты **перестают быть utility-object'ами** и превращаются в collectible-серии с custom-illustrated дизайнами — часто **wildlife, нейронет, культурные референсы, ограниченные тиражи**. Это сдвиг в **premium-collectibles territory**, знакомый из fashion (Louis Vuitton × McLaren), sneakers (Nike × Tiffany), consumer-electronics (iPhone colorways). В банковской вертикали это относительно свежо.
 
 Base-кейс — Т-Банк «Платинум» wildlife series (апрель 2026): видны карты с owl и snow leopard ([[sources/2026-04-14-tg-tinkoffbank-10570-platinum-wildlife]]). `[conf:high, src:2026-04-14]`
+
+**Второй RU-кейс (май 2026) — Альфа-Банк × «Подписные издания»:** красная Альфа-Карта с **лимитированной коллекцией из 6 гравировок** «с признанием в любви к Питеру и книгам», в рамках co-branding-партнёрства с книжным магазином ([[sources/2026-05-18-tg-rff-channel-may14-18-2026]]). Этот кейс **валидирует прогноз** ниже («Альфа имеет ресурс на artist/theme-collab'ы и скопирует paradigm») и привносит два элемента, отсутствовавших у T-Bank: **explicit limited-edition** (6 штук, объявленная коллекция, а не open-ended серия) и **theme-binding к культурному партнёру** (привязка дизайна к нарративу конкретного бренда-партнёра, а не к нейтральному wildlife-мотиву). Полный разбор партнёрства — [[evolving/content-trends/bank-cultural-institution-cobranding-2026]].
 
 ## Анатомия паттерна
 
@@ -50,9 +52,9 @@ Base-кейс — Т-Банк «Платинум» wildlife series (апрель
 | **Тинькофф Black** (RU legacy) | Чёрный monochrome + сдержанный brand | Authority-signal (historical premium tier) |
 | **Сбер** | Plain zelen plastic с белым шрифтом | Utility, no design-signal |
 | **ВТБ** | Синий чёрный corporate | Utility, low design-signal |
-| **Альфа-Банк** | Красно-чёрная палитра + метал для premium-tier | Mid-design-signal |
+| **Альфа-Банк** | Красно-чёрная палитра + метал для premium-tier; **с мая 2026 — cobranded limited-collection (6 гравировок × «Подписные издания»)** | Mid → collectible-design-signal `[conf:medium, src:2026-05-18]` |
 
-T-Bank Платинум **первый в RU-рынке**, кто системно запускает **illustrated wildlife series** в mass-premium tier'е. Это potentially copiable другими банками (Альфа, Сбер имеют ресурс на artist-collab'ы), но first-mover advantage в пользу T-Bank на 6–12 месяцев.
+T-Bank Платинум **первый в RU-рынке**, кто системно запускает **illustrated wildlife series** в mass-premium tier'е. Прогноз «potentially copiable другими банками (Альфа, Сбер имеют ресурс на artist-collab'ы)» **подтвердился через ~1 месяц**: Альфа-Банк в мае 2026 запустил cobranded limited-collection (6 гравировок) в партнёрстве с «Подписными изданиями» ([[sources/2026-05-18-tg-rff-channel-may14-18-2026]]). При этом подходы **дивергировали**: T-Bank делает open-ended wildlife-series (нейтральная тема, identity-expression), Альфа — closed limited co-branded edition (тема привязана к культурному партнёру). First-mover advantage T-Bank на illustrated-серии сохраняется, но Альфа заняла соседнюю нишу (co-branded collectible) первой.
 
 ## Кросс-industry параллели
 
@@ -88,6 +90,8 @@ GRO — digital product, но **physical merch + digital-accessories** могу�
 ## Связанные страницы
 
 - [[sources/2026-04-14-tg-tinkoffbank-10570-platinum-wildlife]] — base-кейс wildlife-series Платинум
+- [[sources/2026-05-18-tg-rff-channel-may14-18-2026]] — второй RU-кейс (Альфа × Подписные, 6 гравировок)
+- [[evolving/content-trends/bank-cultural-institution-cobranding-2026]] — co-branding-разбор кейса Альфа × Подписные
 - [[evolving/content-trends/metaphor-reframing-utility-hook]] — caption-metaphor, взаимно усиливающий collectible-visual
 - [[evolving/competitor-positioning/tbank-premium-sub-brand-palette]] — palette-architecture внутри T-Bank group, куда вписывается wildlife-premium
 - [[evolving/competitor-positioning/tbank-consumer-visual-style-yellow-block-flatlay]] — визуальный протокол consumer-yellow, в который embedded'ится collectible product

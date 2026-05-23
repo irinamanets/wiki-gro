@@ -9,8 +9,8 @@ tags: [career, awareness, content, retention]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-16  # +micro-пост 4470 подтверждает cross-posting LinkedIn → @jobsIndustry pattern (recruiter_live)
-sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md, sources/2026-05-16-tg-recruiter-live-may-14-2026.md]
+updated: 2026-05-19  # +сезонный sub-pattern «переход после бонусов» (финансисты/юристы, апрель→май) из @recruiter_live 4472
+sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md, sources/2026-05-16-tg-recruiter-live-may-14-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md]
 namespace: mkt
 ---
 
@@ -22,7 +22,7 @@ namespace: mkt
 
 **Обновление 2026-05-15:** два количественных сигнала, добавленные Inc. Russia 2026-05-06/08 ([[sources/2026-05-14-tg-incrussiamedia-may-5-11-2026|посты 36722 и 36756]]), укрепляют narrative-тезис на новом уровне:
 
-1. **Гиг-контур расширяется двусторонне** — Авито Подработка фиксирует +46% YoY вакансий с посменной оплатой и +64% YoY откликов в Q1 2026. Это первый количественный якорь под расширение «гиг-контура» в three-track narrative-рамке (FTE / гиг / транзит). Детали — [[evolving-strict/market-data/ru-side-gig-shift-pay-q1-2026]].
+1. **Гиг-контур расширяется двусторонне** — Авито Подработка фиксирует +46% YoY вакансий с посменной оплатой и +64% YoY откликов в Q1 2026. Это первый количественный якорь под расширение «гиг-контура» в three-track narrative-рамке (FTE / гиг / транзит). Детали — [[evolving-strict/market-data/ru-side-gig-shift-pay-q1-2026]]. **Объёмный якорь** (рынок временных работников 38 млрд ₽, +56% за 2025, закон с 1 окт 2026, вход WB/Ozon/X5) — [[evolving-strict/market-data/ru-platform-employment-market-2026]].
 2. **Loyalty-premium умерла** — РИА Новости через Inc.: новички (<1 года стажа) обогнали по росту зарплат всех старших стаж-категорий за 2023→2025 (+34,3%), сотрудники со стажем 30+ лет в одной компании получают **меньше всех**. Это quantitative-подтверждение наблюдения Татьяны о уходе модели «удержать контроффером +20%». Детали — [[evolving-strict/market-data/ru-newcomer-wage-overtake-2025]].
 
 Совместно эти данные показывают, что **«хаос правил»** имеет конкретный численный профиль: гиг-формат вытесняет FTE снизу, а внутри FTE кривая seniority-pricing инвертируется. Loyalty-инвестиции, которые рекомендуют HR-консультанты ([[evolving/industry-trends/ru-labor-market-employer-turn-2026]]), не подтверждаются numerically — это структурное противоречие между HR-нарративом и payroll-практикой.
@@ -272,11 +272,26 @@ namespace: mkt
 
 `[conf:low, src:2026-05-13]` — наблюдение, не данные. Согласуется с numerical опорой Lydia Zhirnova (норма прибавки при переходе ТОП-менеджмента **снизилась с 20-50% (2021-22) до 10-20% (2026)**, [[evolving-strict/market-data/ru-top-management-hiring-q1-2026]]). На уровне middle/junior количественной опоры пока нет, но **направление тренда** — то же: реальная стагнация / возможное снижение.
 
+### 4. Сезонная мобильность «переход после бонусов» (пост 4472, 2026-05-18)
+
+По наблюдению Татьяны (@recruiter_live, [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]]) по ленте LinkedIn, `confidence: medium` (практикующий рекрутер, отслеживающий поток вакансий):
+
+> «В апреле компании выплатили годовые премии и начался ежегодный переход финансистов и юристов между компаниями — новыми работодателями. Вся лента LinkedIn на 40% состоит из вакансий для финансовых директоров, 15% — юристы. Тренд на переход после бонусов — один из самых устойчивых, который не изменяет себе многие годы.»
+
+- Сезонный sub-pattern: апрель (выплата годовых бонусов) → запуск волны переходов финансистов и юристов. `[conf:medium, src:2026-05-18]`
+- Структура ленты LinkedIn в мае: ~40% вакансий — финансовые директора, ~15% — юристы. `[conf:medium, src:2026-05-18]`
+- Это **долгоиграющий устойчивый паттерн**, а не разовое наблюдение — Татьяна явно квалифицирует его как «не изменяющий себе многие годы».
+
+**Связка с salary-pressure (срез 3 выше):** при общем давлении на зарплаты по новым вакансиям сезонная bonus-migration — **исключение по сегментам**: высокооплачиваемые финансовые/юридические руководящие роли сохраняют переговорную силу через timing (после получения бонуса = bargaining-окно), даже когда middle/junior-зарплаты стагнируют. Это согласуется с numerical опорой Lydia Zhirnova по топ-менеджменту ([[evolving-strict/market-data/ru-top-management-hiring-q1-2026]]) — топ-сегмент остаётся подвижным, но норма прибавки снизилась (20-50% → 10-20%).
+
+**Связка с fragmented channels (срез 2 выше):** наблюдение снова сделано **по ленте LinkedIn** — подтверждает, что для high-end белых воротничков (CFO, юристы) LinkedIn остаётся primary каналом размещения вакансий, несмотря на РФ-блокировку без VPN.
+
 ### Маркетинговое следствие для GRO (от май-среза)
 
 1. **Sector-specific content.** При написании постов для карьерной аудитории — называть конкретные растущие сектора (FMCG retail, аптеки, e-com, агро-pet feed), а не общие фразы «рынок где-то растёт». GRO как «друг профессионала» должен быть фактологичен — указывать, **где** рынок открыт прямо сейчас.
 2. **Multi-channel presence.** Для GRO самого: контент должен жить параллельно в hh-блоге (если есть), Telegram, LinkedIn, vc.ru — аудитория не приходит в одно место.
 3. **Не обещать рост дохода как automatic.** Hook «системно растёт доход» (сегмент 1 «карьеристы») сейчас требует **квалификатора**: «растёт через перепозиционирование/новый сектор/новый канал», а не «растёт автоматически с опытом». Реальная стагнация + инфляция → дрейф зарплат вниз, и аудитория это чувствует.
+4. **Timing-aware content (сезонность).** Bonus-migration даёт календарный hook: для финансово-юридического сегмента карьеристов окно перехода — сразу после выплаты годового бонуса (апрель–май). Content «как готовиться к переходу» для этой аудитории лучше публиковать **до** окна (февраль–март), а не во время — когда конкуренция за позиции максимальна. См. Hook 33 в [[evolving/content-trends/career-audience-hooks-2026]].
 
 ## Contradictions
 
@@ -304,6 +319,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/hr-strategy-three-scenarios]] — три сценария Заморозка/Бег/Эволюция, порождены из той же hh-аналитики
 - [[sources/2026-05-05-tg-recruiter-live-apr-may-2026]] — восьмой голос (Taice Bulat про post-offer-гостинг) + numerical опора (РБК top-management-hiring 2026-04-21)
 - [[evolving-strict/market-data/ru-top-management-hiring-q1-2026]] — strict-данные топ-менеджмент-найма (60/90/180 дней, 10-20% прибавка)
+- [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]] — сезонный «переход после бонусов» (финансисты/юристы, апрель→май 2026) + HH «единая карьерная история»
 - [[sources/2026-05-14-tg-recruiter-live-may-2026]] — май-срез (растущие сектора Q2, fragmented channels, salary pressure)
 - [[sources/2026-05-16-tg-recruiter-live-may-14-2026]] — micro-confirmation (пост 4470, cross-posting LinkedIn → @jobsIndustry pattern)
 - [[evolving/industry-trends/ru-offline-retail-decline-2026]] — резолюция apparent contradiction (сети растут, отдельные категории теряют)

@@ -9,8 +9,8 @@ tags: [market-data, target-audience, sme-russia, demographics]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-16
-sources: [sources/2026-04-14-tg-opora-russia-week-7.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md]
+updated: 2026-05-19  # +cross-ref на мотивационно-поведенческий срез той же когорты (Минэк×Сбер, @moibiz)
+sources: [sources/2026-04-14-tg-opora-russia-week-7.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-05-19-tg-moibiz-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -65,6 +65,8 @@ namespace: mkt
 - Отраслевой сдвиг к образованию (+59,8%) и ИТ (+14,5%) усиливает фокус GRO на «системность роста» — ключевой value pillar в [[canon/positioning/gro-value-proposition]]. [conf:medium, src:2026-04-14]
 - Региональные лидеры (Москва, СПб, Татарстан, Краснодарский край) совпадают с крупнейшими русскоязычными ИИ-аудиториями.
 - Северо-Кавказский pocket (Дагестан/Чечня) — потенциальный экспериментальный канал, требующий отдельного research'а перед таргетингом.
+
+**Мотивационно-поведенческое дополнение (Минэк×Сбер, май 2026):** эта страница даёт демографию когорты, а [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]] — мотивы и модель занятости той же аудитории (38% вовлечены, 51% совмещают бизнес и наём, топ-мотив самостоятельность 47%). Две страницы комплементарны: «кто и сколько» (здесь) + «зачем и как входят» (там). `[conf:medium, src:2026-05-18]`
 
 ## Что не покрыто этим источником
 

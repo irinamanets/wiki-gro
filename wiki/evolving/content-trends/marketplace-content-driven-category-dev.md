@@ -9,8 +9,8 @@ tags: [content, marketplace, kwork, telegram, category-development, proprietary-
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-14
-sources: [sources/2026-04-14-tg-kwork-may2025-apr2026.md, sources/2026-05-05-tg-kwork-may25-may26-redump.md, sources/2026-05-14-tg-kwork-may12-2026-pricing-teaser.md]
+updated: 2026-05-19  # +пост 566 (digital-order content-vector + подтверждение недельного editorial-ритма)
+sources: [sources/2026-04-14-tg-kwork-may2025-apr2026.md, sources/2026-05-05-tg-kwork-may25-may26-redump.md, sources/2026-05-14-tg-kwork-may12-2026-pricing-teaser.md, sources/2026-05-19-tg-kwork-566-digital-order-freelancer.md]
 namespace: mkt
 ---
 
@@ -33,6 +33,12 @@ Pattern, обнаруженный на наблюдении бренд-кана�
 4. **«Как цена влияет на решение о покупке» (пост 565, 2026-05-12)** — **новый аудиторный shift**: впервые за 11+ месяцев Kwork адресует пост **заказчикам** (buyer-side), а не фрилансерам. Тема — психология цены, мотивы выбора более дорогих услуг. Это **потенциально 4-я категориальная волна**: следующий шаг — buyer-onboarding контент, рубрики «как формулировать заказ», или продуктовый шаг — улучшение search/discovery для заказчиков. Слабый signal (1 пост из 51), нужно подтверждение в следующих 4–8 ingest'ах `[conf:low, src:2026-05-14]`. См. [[sources/2026-05-14-tg-kwork-may12-2026-pricing-teaser]].
 
 **Интерпретация аудиторного shift'а.** Маркетплейсу для роста нужно поддерживать **обе стороны** (supply + demand). Канал @kwork_kwork исторически был supply-only (контент для фрилансеров). Появление buyer-side поста — гипотетический сигнал, что Kwork работает над spinup'ом спроса. Если за пост 565 последуют ещё 2–3 buyer-side поста до июля 2026, это **подтверждает product-стратегический shift** и даёт GRO предсказание: следующие 6–12 месяцев Kwork будет наращивать buyer-конверсионные продуктовые фичи, а конкурировать с ним за supply-сегмент станет относительно проще.
+
+5. **«Цифровой порядок фрилансера» (пост 566, 2026-05-19)** — **возврат к supply-side** после buyer-side эксперимента 565. Тема — цифровая организация рабочего места/файлов для фрилансеров. Это **не** категориальный шаг (нет анонса новой рубрики каталога), а **operational-productivity content-vector** — новая ось контента для той же фрилансер-аудитории. Зафиксирована отдельно как [[evolving/content-trends/digital-organization-freelancer-hooks]]. См. [[sources/2026-05-19-tg-kwork-566-digital-order-freelancer]] `[conf:high, src:2026-05-19]`.
+
+**Уточнение к гипотезе buyer-side shift'а (после поста 566).** Пост 565 (buyer-side) **не** получил немедленного продолжения — следующий пост 566 вернулся к supply-side (фрилансеры). Это **ослабляет** гипотезу системного buyer-shift'а: пока выглядит как **разовый** buyer-эксперимент, а не начало волны. Окно наблюдения остаётся открытым (нужны 2–3 buyer-поста до июля 2026), но один supply-пост между ними — аргумент в пользу того, что канал остаётся преимущественно supply-only `[conf:medium, src:2026-05-19]`.
+
+**Editorial-ритм.** Пост 565 (2026-05-12) → пост 566 (2026-05-19) = ровно 7 дней. Недельный ритм ≈0,15 поста/день держится без дрейфа на горизонте 12+ месяцев — ещё одна точка, подтверждающая, что low-budget low-frequency бренд-канал маркетплейса — устойчивая операционная норма `[conf:high, src:2026-05-19]`.
 
 ## Структура pattern
 
@@ -71,3 +77,4 @@ Pattern, обнаруженный на наблюдении бренд-кана�
 - [[evolving/content-trends/ai-agents-demand-hooks-2026]] — ИИ-рубрики (560) как первый product-шаг РФ-маркетплейса под ИИ
 - [[canon/target-audience/gro-segments]] — сегмент 3 GRO (фрилансеры) как ЦА Kwork-аудитории
 - [[canon/marketing-frameworks/premium-perception-through-price]] — pricing-as-signal как тема нового поста 565 (buyer-side mirror рамки Якубы)
+- [[evolving/content-trends/digital-organization-freelancer-hooks]] — digital-order content-vector, выведенный из поста 566 (supply-side productivity-угол)

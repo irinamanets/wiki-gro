@@ -151,6 +151,18 @@ namespace: mkt
 2. **Маржа 36%→70%** — Кульгин трактует как «никакого пузыря ИИ, AI — сверхприбыльный бизнес». Caveat: «реальная маржа» в его формулировке = после исключения CapEx-related «фейковых убытков» — это **non-GAAP adjusted** взгляд, не аудированная цифра. `[conf:medium, src:2026-05-08]`
 3. **Контр-тезис того же автора:** «справедливая цена LLM ~⅓ от ценника Claude в токенах». То есть высокая маржа вендора сосуществует с ожиданием падения цены для покупателя — механика cost-collapse (см. [[evolving/industry-trends/ai-dev-cost-collapse-narrative-2026]]). `[conf:low, src:2026-05-08]`
 
+## Update 2026-05-19 — FT-подтверждение Anthropic ~$1T raise (через @forbesrussia)
+
+Forbes (со ссылкой на FT, пересказ @forbesrussia 8 мая 2026, [[sources/2026-05-19-tg-forbesrussia-20260519-104004|пост 95743]]) даёт **второй независимый источник** к уже зафиксированному $1T-нарративу Anthropic:
+
+| Компания | Метрика | Значение | Дата | Source |
+|---|---|---|---|---|
+| Anthropic | Планируемый primary раунд (этим летом) | **десятки млрд $** на расширение compute | лето 2026 | `[conf:medium, src:2026-05-08]` |
+| Anthropic | Оценка после раунда (приблизится к) | **~$1 трлн** | 2026 (forecast) | `[conf:medium, src:2026-05-08]` |
+| OpenAI | Оценка-бенчмарк для сравнения (FT) | **$852 млрд** | 2026-05 | `[conf:medium, src:2026-05-08]` |
+
+**Ключевая интерпретация:** FT прямо формулирует, что Anthropic «уже летом сможет опередить OpenAI по стоимости у инвесторов». Это **сдвиг от secondary-market premium** (зафиксированного выше как $1T Forge на 2026-04-23) **к ожиданию primary-раунда** на сопоставимом уровне. Если primary закроется около $1T, это **закроет тот primary/secondary разрыв 2,6×**, который выше отмечен как «не может быть устойчиво» — в пользу повышения primary, а не схлопывания secondary. `[conf:medium, src:2026-05-19]` Привязка raise к «расширению вычислительных мощностей» согласуется с [[volatile-strict/competitor-news/anthropic-spacex-colossus-rental-2026-05|арендой Colossus у SpaceX]] — compute остаётся узким местом и главным драйвером капитала.
+
 ## Связанные страницы
 
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — продуктовый и стратегический контекст всех чисел в этой таблице
@@ -163,6 +175,8 @@ namespace: mkt
 - [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] — обратная сторона концентрации капитала
 - [[sources/2026-05-05-vc-ru-condensed]] — источник
 - [[sources/2026-05-05-dzen-ru-condensed]] — дополнительный источник (Anthropic JV + Nebius)
+- [[sources/2026-05-19-tg-forbesrussia-20260519-104004]] — FT-подтверждение Anthropic ~$1T raise
+- [[volatile-strict/competitor-news/adobe-acquires-semrush-2026-05]] — параллельная martech M&A того же дайджеста
 
 ## Backlinks
 

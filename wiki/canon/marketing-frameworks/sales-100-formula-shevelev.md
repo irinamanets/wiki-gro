@@ -9,8 +9,8 @@ tags: [sales, framework, b2b, smb, closing, methodology]
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-14
-sources: [sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -119,6 +119,8 @@ Reusable методология оценки sales-сделки на этапе 
 
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/sales-system-18-holes-shevelev]] — диагностический чек-лист системы продаж; формула 100% — это решение «дыры №5» (зависшие сделки)
+- [[sources/2026-05-19-tg-olegcloser-may-14-19-2026]] — 4-й срез канала (PDF «18 дыр» + open live)
 - [[sources/2026-05-14-tg-olegcloser-may-7-13-2026]] — источник канонических расшифровок (2026-05-07)
 - [[sources/2026-05-05-tg-olegcloser-mar-may-2026]] — первый источник аббревиатур формулы (без расшифровок)
 - [[canon/marketing-frameworks/soprano-discovery-technique]] — инструмент диагностики критерия ОП

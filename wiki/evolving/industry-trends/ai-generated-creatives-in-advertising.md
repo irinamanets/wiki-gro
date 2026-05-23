@@ -5,12 +5,12 @@ type: page
 subtype: trend
 layer: evolving
 theme: industry-trends
-tags: [ai, paid-ads, content, ad-copy]
+tags: [ai, paid-ads, content, ad-copy, vk]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-04-16
-sources: [sources/2026-04-16-hh-clickme-ai-tools.md]
+updated: 2026-05-19  # +VK Реклама AI Gen «Креативная студия» как второй платформенный сигнал (official deck)
+sources: [sources/2026-04-16-hh-clickme-ai-tools.md, sources/2026-05-19-vk-reklama-effective-campaigns-deck.md]
 namespace: mkt
 ---
 
@@ -33,6 +33,16 @@ namespace: mkt
 - AI-сгенерированные персонажи дают на 20-30% больше переходов, чем стоковые и случайные изображения (данные Clickme)
 - Генерация занимает до 1 минуты, доступна бесплатно всем пользователям платформы
 - Разработка стартовала в 2023 году с ручных тестов, к 2026 — масштабное внедрение в интерфейс
+- **VK Реклама — AI Gen «Креативная студия»** (официальный deck, май 2026): второй крупный RU-платформенный сигнал. Встроены генерация изображений, ИИ-редактирование (с текстом на изображении), текстовые ассистенты (пассивный по содержимому объекта + активный по УТП) и **лента перформящих ИИ-креативов от других рекламодателей** (поиск по категории, «креативы с результатом», вдохновение на основе эффективности). Подробно — [[sources/2026-05-19-vk-reklama-effective-campaigns-deck]], синтез — [[canon/marketing-frameworks/vk-reklama-official-campaign-guide-2026]].
+
+## Платформенный паттерн (2 подтверждённых кейса)
+
+| Платформа | AI-инструмент | Отличительная черта |
+|---|---|---|
+| Clickme (hh.ru) | AI-генерация текста + персонажей | замеренный +20-30% CTR vs stock |
+| VK Реклама | AI Gen «Креативная студия» | лента «перформящих» креативов конкурентов (social-proof + benchmarking прямо в кабинете) |
+
+Тренд закрепился: к маю 2026 минимум две крупные RU-платформы встроили AI-генерацию в кабинет как штатную функцию, причём VK добавила **социальный слой** — обучение на чужих успешных креативах внутри интерфейса.
 
 ## Значение для маркетинга GRO
 
@@ -48,3 +58,5 @@ namespace: mkt
 - [[evolving/content-trends/telegram-native-formats]] — форматы контента, в которые интегрируются AI-визуалы
 - [[canon/target-audience/gro-segments]] — сегменты ЦА GRO, для которых можно генерировать персонализированные AI-креативы
 - [[evolving/industry-trends/native-pr-russia-2026]] — более широкий тренд нативного PR
+- [[canon/marketing-frameworks/vk-reklama-official-campaign-guide-2026]] — vendor-канон VK, частью которого является AI Gen
+- [[sources/2026-05-19-vk-reklama-effective-campaigns-deck]] — официальный VK deck с AI Gen «Креативной студией»

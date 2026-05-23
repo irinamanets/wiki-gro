@@ -9,8 +9,8 @@ tags: [market-data, russia, marketplaces, wildberries, ozon, sellers, margin, q2
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14  # +Селихов 2026-05-14: consumer-side давление — 51,6% trust-first потребителей усугубляет CAC и возвраты у селлеров без anti-counterfeit-сигнала; risk-first логика как behavioral катализатор margin-collapse
-sources: [sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels.md, sources/2026-05-14-tg-bezsmuzi-may-5-7.md, sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md]
+updated: 2026-05-19  # +Т—Ж 2026-05-13: категорийно-максимальные комиссии площадок (Я.Маркет 68%, Ozon 55%, WB 33%) как independent numeric cross-check practitioner-диапазона «25-35%»
+sources: [sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels.md, sources/2026-05-14-tg-bezsmuzi-may-5-7.md, sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md, sources/2026-05-19-tg-t-jrnl-may-9-13-2026.md]
 namespace: mkt
 ---
 
@@ -64,6 +64,22 @@ namespace: mkt
 
 **Интерпретация:** поведенческий сигнал @bezsmuzi (−127 000 ₽ weekly чистой прибыли `[conf:low, src:2026-05-05]`, призыв коллег «слить хотя бы по себестоимости») — **операционное проявление** структурной механики, описанной Деловым миром. Это **не идиосинкразия отдельной ниши**, а **симптом зрелости маркетплейс-модели**: когда каталог заполнен и аукцион перегрет, маркетплейс начинает извлекать ренту, не делясь ростом со селлерами.
 
+## Категорийно-максимальные комиссии — independent cross-check (Тинькофф Журнал, 2026-05-13)
+
+[[sources/2026-05-19-tg-t-jrnl-may-9-13-2026|Тинькофф Журнал]] (карусель 34396–34399, 2026-05-13) со ссылкой на публичные тарифы площадок даёт **верхние границы** комиссий по конкретным категориям. Это independent numeric cross-check practitioner-диапазона «25–35%» из Делового мира — и он показывает, что для дорогих/нишевых категорий комиссия уходит **далеко за 35%, вплоть до двух третей цены** `[conf:medium, src:2026-05-13]`:
+
+| Площадка | Категорийный максимум | Базовая / средняя | Source |
+|---|---|---|---|
+| Яндекс Маркет | до 68% | в среднем ~40% | `[conf:medium, src:2026-05-13]` |
+| Ozon | до 55% | зависит от цены: <100 ₽ ~14%, >10 000 ₽ ~40% | `[conf:medium, src:2026-05-13]` |
+| Wildberries | до 33% | базовая ставка 15–20% | `[conf:medium, src:2026-05-13]` |
+
+**Что добавляет к картине:**
+
+- **Подтверждение тезиса «запланированная корректировка тарифов».** Verbatim из карточки WB: «Комиссии Wildberries регулярно меняются и зависят от количества предложений на платформе, маркетинговых акций, времени доставки товара на склад и даже рейтинга продавца». `[conf:medium, src:2026-05-13]` Это independent повторение пункта 1 механики Делового мира — комиссии **динамические**, не фиксированные.
+- **Раскрытие дисперсии комиссий.** Practitioner-диапазон «25–35%» был **усреднением**; Т—Ж показывает, что распределение **широкое и категорийно-зависимое** — от 14% (дешёвый товар на Ozon) до 68% (нишевая категория на Я.Маркете). Это объясняет, почему margin-collapse бьёт **неравномерно**: селлер дорогих/нишевых товаров отдаёт площадке в 2× больше, чем селлер ходового дешёвого ассортимента. `[conf:medium, src:2026-05-13]`
+- **Confidence-граница:** Т—Ж — вторичный источник (переупаковка публичных тарифов в редакционный контент), не сам тариф-документ площадки. Категорийные максимумы (68/55/33) — `medium`; усреднённые «около 40% / 14% / 15–20%» — `medium`, но без раскрытия методологии выборки. [conf:low, src:2026-05-19]
+
 ## Контекст — почему «все одновременно закрывают»
 
 Конкретные причины **не сформулированы в посте**, но контекстуально это пересекается с тремя параллельными давлениями (см. [[evolving-strict/market-data/ru-business-q1-2026-survey]]):
@@ -104,6 +120,7 @@ namespace: mkt
 - [[sources/2026-05-14-tg-bezsmuzi-may-5-7]] — numeric anchors 1% net margin + 80% селлеров оборот 600к/мес [conf:low, src:2026-05-14]
 - [[sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels]] — структурное объяснение механики «продавец платит дважды»
 - [[sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026]] — consumer-side давление: 51,6% trust-first, 830k контрафакта — behavioral катализатор margin-collapse [conf:low, src:2026-05-14]
+- [[sources/2026-05-19-tg-t-jrnl-may-9-13-2026]] — категорийно-максимальные комиссии (Я.Маркет 68% / Ozon 55% / WB 33%) как independent numeric cross-check [conf:medium, src:2026-05-13]
 - [[canon/marketing-frameworks/risk-first-consumer-decision-online]] — risk-first логика покупателя, усиливающая давление на cost-leader-селлеров
 - [[evolving/industry-trends/ecommerce-trust-decision-shift-ru-2026]] — макро-сдвиг, делающий margin-collapse структурным
 - [[evolving-strict/market-data/ru-ecommerce-consumer-journey-2026]] — поведенческая воронка (тестовые покупки → распределённый бюджет → лояльность)

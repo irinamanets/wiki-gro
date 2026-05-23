@@ -9,8 +9,8 @@ tags: [content, telegram, sponsored-ad, native-advertising, founder-channel, eri
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md]
+updated: 2026-05-18  # +Pattern 4: крупный рекламодатель (Альфа-Банк) размещает множественные кампании в нишевом vertical-community-канале (HR/@rff_channel) для охвата аудитории «предприниматели + HR»
+sources: [sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md, sources/2026-05-18-tg-rff-channel-may14-18-2026.md]
 namespace: mkt
 ---
 
@@ -91,13 +91,32 @@ namespace: mkt
 - Текст маркировки должен включать: «Реклама», полное название юр.лица рекламодателя, ИНН (для ООО) или ОГРНИП (для ИП), Erid-токен.
 - Шрифт мелкий, но читаемый. Размещение обычно — нижняя часть изображения.
 
-## Сравнение трёх паттернов
+## Pattern 4: Vertical-community-канал как ad-площадка крупного рекламодателя
+
+**Источник:** @rff_channel (Recruitment for Friends, 60K+ HR/рекрутеров), 14–18 мая 2026 ([[sources/2026-05-18-tg-rff-channel-may14-18-2026]]).
+
+В отличие от Pattern 1–2 (sponsored-ad **внутри личного авторского** канала, где trust держится на персоне эксперта), здесь — **нишевый vertical-community-канал** (не founder-персона, а тематическое HR-медиа) выступает площадкой для **крупного институционального рекламодателя**. За одно недельное окно Альфа-Банк разместил **три разных кампании** в одном канале:
+
+1. **Фонд немалого бизнеса** (4418, видео) — grant-fund для предпринимателей: 100 млн ₽ призовых, звёздное жюри (Баста, Сысоев, Осин, Дукалис).
+2. **Авито Работа кэшбэк** (4420, видео) — до 100% кэшбэка предпринимателям на онлайн-рекрутинг (продукт прямо релевантен HR-аудитории канала).
+3. **× «Подписные издания»** (4421–4429, карусель) — co-branding-партнёрство (разобрано в [[evolving/content-trends/bank-cultural-institution-cobranding-2026]]).
+
+**Что в формате наблюдается:**
+- **Audience-overlap targeting.** Канал HR/рекрутеров содержит двойную аудиторию: (a) сами HR/рекрутеры, (b) предприниматели-владельцы, которые нанимают. Альфа таргетирует именно пересечение «предприниматель + decision-maker по найму» — Авито-Работа-кэшбэк бьёт прямо в job (рекрутинг), Фонд бьёт в identity (предприниматель).
+- **Channel-as-media, not persona-as-trust.** Trust здесь держится не на эксперте-авторе (как у Фомичёва), а на **тематической релевантности площадки**. Это ближе к classic media-buy, чем к influencer-нативу.
+- **Campaign-density.** Высокая частота (3 кампании/неделя одного рекламодателя) — сигнал, что канал монетизируется агрессивно; риск ad-fatigue аудитории и размывания organic-value канала.
+- **Маркировка:** erid-токены присутствуют (2Vtzqx6RKqA на Авито-посте, 2VtzqvvNSxo/2Vtzqx9SpGP на in-store-визуале) — тот же compliance-pattern, что в Pattern 3.
+
+**Применимо ли в GRO-контенте:** косвенно — это **distribution-инсайт**, а не creative-формат. Если GRO покупает размещения, **нишевые vertical-community-каналы с audience-overlap** (предприниматели + продуктивность) могут давать лучший таргет, чем широкие founder-каналы. Но campaign-density выше 1–2/мес на одном канале рискует ad-fatigue.
+
+## Сравнение четырёх паттернов
 
 | Паттерн | Engagement-механика | Maintenance cost | Trust-impact на канал |
 |---|---|---|---|
 | 1. Fear-framing risk-narrative | High emotional pull, low retention если ЦА не зацепило | Low (один post = одна кампания) | Medium-low (явно реклама, читатель замечает manipulation) |
 | 2. «Гостевой профиль» (Коннект) | Medium engagement, high curation-value | High (нужен curator, регулярный cadence) | High (sponsored-ad seamlessly integrated с organic-form) |
 | 3. Footer-маркировка на визуале | Не самостоятельный паттерн — supplement к (1) или (2) | Минимум (один template) | Не влияет на trust сам по себе |
+| 4. Vertical-community-канал (media-buy) | Зависит от audience-overlap; relevance площадки вместо persona-trust | Низкий для рекламодателя (классический media-buy), но требует подходящей площадки | Снижается при высокой campaign-density (ad-fatigue) |
 
 ## Гипотезы про дрейф формата на 2026-Q3–Q4
 
@@ -108,6 +127,8 @@ namespace: mkt
 ## Связанные источники и страницы
 
 - [[sources/2026-05-14-tg-fomichevkirill-may-6-14-2026]] — первичный источник pattern'а 1 и подтверждение pattern'а 2
+- [[sources/2026-05-18-tg-rff-channel-may14-18-2026]] — источник pattern'а 4 (Альфа-Банк ×3 кампании в @rff_channel)
+- [[evolving/content-trends/bank-cultural-institution-cobranding-2026]] — одна из кампаний (Альфа × Подписные), разобранная как co-branding
 - [[evolving/content-trends/tabunov-founder-growth-hooks]] — близкий founder-объяснил-боль pattern в @bossofyourboss
 - [[evolving/content-trends/forbes-russia-native-ad-pattern-2026]] — длинноформатный native в editorial-канале
 - [[evolving/content-trends/inc-russia-ai-music-track-promo-2026]] — sponsored AI-music-промо в editorial

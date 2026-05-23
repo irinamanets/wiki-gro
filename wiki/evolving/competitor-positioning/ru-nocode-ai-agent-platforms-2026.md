@@ -9,8 +9,8 @@ tags: [ai-agents, no-code, yandex, gigachat, just-ai, mws, nodul, ru-market, b2b
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-04-27  # +Just AI Cloud-вариант (advertorial в @startupoftheday) + advertorial-frequency signal
-sources: [sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md]
+updated: 2026-05-19  # +Just AI open distribution kit (on-prem, free-month, @mspiridonov 4401, erid 2VtzqwqNSUw) — 3-й трекаемый Just AI advertorial; on-prem GTM-сдвиг от Cloud-варианта
+sources: [sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -89,6 +89,30 @@ GRO — не AI-agent платформа и не конкурирует функ
 
 Это **визуально мягче**, чем typical SaaS-advertorial — соответствует tech-аудитории Горного, но с ясной CTA-структурой.
 
+## Just AI open distribution kit — обновление май 2026 (on-prem GTM-сдвиг)
+
+Через [[sources/2026-05-19-tg-mspiridonov-may-14-19-2026|@mspiridonov 4401]] (2026-05-14, рекламный пост, erid `2VtzqwqNSUw`, та же ООО «Маинд Крафт») зафиксирован **третий** трекаемый advertorial Just AI — и важный **GTM-сдвиг**: после Cloud-варианта (apr 2026) Just AI выкатил **открытый дистрибутив** платформы.
+
+**Что нового:**
+
+- **Открытый дистрибутив = бесплатно отдают enterprise-версию** того, «за что обычно платят и долго согласовывают». `[conf:medium, src:2026-05-14]`
+- **On-prem развёртывание в собственном контуре клиента за несколько часов** — данные не утекают, всё внутри периметра. `[conf:medium, src:2026-05-14]`
+- **Месяц бесплатного теста** реальных сценариев, потом решение о контракте. `[conf:medium, src:2026-05-14]`
+- Позиционирование против **«паралича анализа»** корпоративных внедрений (полгода согласований → пилот, который тихо умирает).
+
+**Стратегический разворот GTM.** Cloud-вариант (apr) и open distribution kit (may) — это **две противоположные ноги** одной воронки:
+
+| | Cloud (apr 2026) | Open distribution kit (may 2026) |
+|---|---|---|
+| Развёртывание | SaaS, без серверов | On-prem, в контуре клиента |
+| ИБ-вопрос | решается доверием к вендору | снят архитектурно (данные не утекают) |
+| Сегмент | SMB + разработчики (быстрый MVP) | Enterprise (большие компании с ИБ-блокерами) |
+| GTM-логика | freemium → upsell | POC-first: «потрогай → договаривайся» |
+
+Это **two-track-стратегия**: Cloud ловит SMB low-touch, on-prem kit ломает enterprise-паралич там, где Cloud не проходит ИБ-review. Сам GTM-паттерн вынесен в [[canon/marketing-frameworks/poc-first-enterprise-adoption-just-ai]].
+
+**Advertorial-frequency signal усилился.** Три зафиксированных advertorial Just AI за ~1 месяц (apr 27 @startupoftheday, may 14 @mspiridonov) через **разные** authoritative-каналы (Горный → VC-startup-аудитория; Спиридонов → founder/CEO-аудитория). Just AI системно покупает personal-brand-каналы под B2B-decision-makers. Это самый агрессивный paid-content-маркетинг среди пятёрки RU-платформ.
+
 ## TTL и ре-верификация
 
 Evolving + loose — soft TTL 180 дней. Обязательная ре-верификация к **2026-10-16**. Ключевые задачи:
@@ -102,6 +126,8 @@ Evolving + loose — soft TTL 180 дней. Обязательная ре-вер
 
 - [[sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents]] — первоисточник inventory
 - [[sources/2026-04-27-tg-startupoftheday-apr-15-27-2026]] — apr 27 update про Just AI Cloud-вариант + advertorial-frequency signal
+- [[sources/2026-05-19-tg-mspiridonov-may-14-19-2026]] — may 19 update про Just AI open distribution kit (on-prem GTM-сдвиг)
+- [[canon/marketing-frameworks/poc-first-enterprise-adoption-just-ai]] — «потрогай → договаривайся» GTM-паттерн kit'а
 - [[evolving/industry-trends/ru-vertical-ai-signals-2026]] — сигналы RU vertical-AI, Yandex B2B Tech как сигнал 4 + Yandex AI Studio Academy как сигнал 7
 - [[evolving-strict/market-data/ru-corporate-ai-assistants-2026]] — оценка рынка корп. ИИ-ассистентов РФ (30 млрд ₽)
 - [[evolving-strict/market-data/ru-business-ai-adoption-2026]] — 71% компаний РФ наращивают AI-бюджеты (контекст спроса)

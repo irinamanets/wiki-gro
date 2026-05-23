@@ -9,8 +9,8 @@ tags: [blue-collar, ai-resilience, labor-market, nvidia, jensen-huang, trade-job
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md]
+updated: 2026-05-19
+sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-19-tg-gro-me-379-389.md]
 namespace: mkt
 ---
 
@@ -96,6 +96,12 @@ Cantor / Goldman / McKinsey-style анализ AI-resilience в blue-collar:
 
 ## Маркетинговое значение для GRO
 
+### GRO уже операционализировал тренд в собственном контенте (15 мая 2026)
+
+В карусели «Рефрейминг новостей через призму GRO» (пост 384, [[sources/2026-05-19-tg-gro-me-379-389]]) одна из трёх reframe-карточек — буквально «Спрос на "синие воротнички"». Фрейм карточки: новость («хедхантинг на сварщиков, строителей, электриков») → реакция («хорошо, что отец научил меня обращаться с инструментами») → рефрейминг: навыки физического труда — конкурентное преимущество; дефицит рабочих профессий = новые ниши для бизнеса; блогеры-«рабочие» имеют миллионные охваты и рекламные контракты в TikTok.
+
+Это **подтверждённый кейс** того, как тренд из этой страницы превращается в готовый контент-актив. Reframe «дефицит рабочих профессий = новые ниши для бизнеса» — предпринимательская переформулировка, точно ложащаяся на ICP GRO (RU-SMB, founder'ы). Формат разобран в [[evolving/content-trends/news-reframing-carousel-gro]].
+
 ### Hook 1 — Anti-fatalism, pro-tradesman
 **«Дженсен Хуанг, NVIDIA: будущее за сантехниками. Не за маркетологами. За 3 года спрос на строителей +30%, на сварщиков +25%. Если у вашего ребёнка способности к ручному труду — не отбивайте, не "иди в IT".»**
 
@@ -138,7 +144,9 @@ Cantor / Goldman / McKinsey-style анализ AI-resilience в blue-collar:
 - [[evolving/industry-trends/ru-labor-market-employer-turn-2026]] — РФ labor market context
 - [[evolving/industry-trends/ru-retail-robotization-labor-deficit-2025-2026]] — РФ tradesman context
 - [[evolving/content-trends/specialist-vs-generalist-hook-2026]] — connected content-hooks
+- [[evolving/content-trends/news-reframing-carousel-gro]] — карусель GRO с reframe-карточкой «синие воротнички»
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — первоисточник пересказа Хуанга
+- [[sources/2026-05-19-tg-gro-me-379-389]] — кейс операционализации тренда в контенте GRO
 
 ## TTL и обновления
 

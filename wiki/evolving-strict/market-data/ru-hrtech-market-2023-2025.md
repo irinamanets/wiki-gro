@@ -9,8 +9,8 @@ tags: [hrtech, hhru, market-data, genai, skillaz, hrlink, dream-job, talantix]
 confidence: high
 stale: false
 created: 2026-04-15
-updated: 2026-04-16
-sources: [sources/2026-04-14-tg-hh-ru-official-mar-apr-2026.md, sources/2026-04-16-condense-hh-ru-blog-43.md]
+updated: 2026-05-19  # +Q1 2026 квартальный срез HRTech-сегмента (₽698М, +32% г/г) из investor-карусели @hh_ru_official 4877
+sources: [sources/2026-04-14-tg-hh-ru-official-mar-apr-2026.md, sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-19-tg-hh-ru-official-may-15-18-2026.md]
 namespace: mkt
 ---
 
@@ -35,6 +35,18 @@ namespace: mkt
 - Сегмент ускоряется: прирост 2024 +63% `[conf:high, src:2026-03-06]`, прирост 2025 +94% `[conf:high, src:2026-03-06]` — не замедление, а именно ускорение темпа. В абсолюте: +0,5 млрд за 2024, +1,2 млрд за 2025.
 - За 2 года выручка утроилась с 0,8 до 2,5 млрд ₽ `[conf:high, src:2026-03-06]` — 3,13× прирост.
 - Источник-bar-chart раскрашивает 2025-столбец как «HRlink», что неоднозначно: либо HRlink — ведущий продукт сегмента (самый крупный по выручке), либо это визуальный акцент без per-product разбивки. Per-product breakdown из source недоступен.
+
+### HRTech-сегмент: квартальная динамика Q1 (добавлено 2026-05-19)
+
+Из investor-карусели Q1 2026 ([[sources/2026-05-19-tg-hh-ru-official-may-15-18-2026|@hh_ru_official слайд 4877]]) — **первый квартальный срез** того же сегмента (Skillaz, HRlink, Dream Job, Talantix):
+
+| Период | Выручка, млн ₽ | Прирост YoY | Source |
+|---|---|---|---|
+| Q1 2024 | 363 | — | `[conf:high, src:2026-05-15]` |
+| Q1 2025 | 528 | +45% | `[conf:high, src:2026-05-15]` |
+| Q1 2026 | 698 | +32% | `[conf:high, src:2026-05-15]` |
+
+**Согласованность с годовыми данными:** годовой 2025 = 2,5 млрд ₽ (+94%), квартальный Q1 2026 = 0,698 млрд ₽ (+32% к Q1'25). Замедление темпа (+94% годовой → +32% квартальный) ожидаемо при выходе из low-base фазы, но в абсолюте сегмент стабильно прибавляет ~165–170 млн ₽ за квартал YoY. На фоне **плоской выручки группы** (₽9,5 млрд, +0,3% calendar в Q1 2026) HRTech — единственный двузначно растущий блок. Полный квартальный финансовый разбор группы — [[evolving-strict/competitor-metrics/headhunter-group-q1-2026]]. `[conf:high, src:2026-05-15]`
 
 ### HeadHunter Group (весь HH): выручка и EBITDA-маржа 2020–2026
 
@@ -135,6 +147,8 @@ namespace: mkt
 - [[evolving/competitor-positioning/max-messenger]] — hh.ru как федеральный бренд-якорь для MAX
 - [[evolving/competitor-positioning/hh-ru-hrtech-platform]] — полный профиль hh.ru как HRTech-экосистемы
 - [[sources/2026-04-16-condense-hh-ru-blog-43]] — condensed extraction из 43 статей блога
+- [[sources/2026-05-19-tg-hh-ru-official-may-15-18-2026]] — Q1 2026 investor-карусель (квартальный HRTech-срез)
+- [[evolving-strict/competitor-metrics/headhunter-group-q1-2026]] — полные квартальные финансы HH Group Q1 2026
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [ai, solopreneurship, market-trends, agentic, content, awareness]
 confidence: medium
 stale: false
 created: 2026-04-11
-updated: 2026-05-18  # +AI-инфлюенсер $75M/нейробабушки case (Tabunov 629): $206/мес × 6 = $1.2K stack vs $250K/мес выручки. Extreme-point соло-substitution: AI заменяет не только команду продаж, но и face-of-content.
-sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
+updated: 2026-05-19  # +Moreynis (temno 7842) «масштабируемая самозанятость»: ИИ снимает потолок «руки × часы», самозанятый запускает десятки агентов 24/7; self-selecting в ИИ-бизнес тех, кто «с людьми работать не умеет и не хочет»
+sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -197,6 +197,30 @@ Hyperliquid — это **не AI-продукт** (крипто-деривати
 4. **Cross-platform paid-content engine.** Нейробабушки работают через **TikTok + Instagram + Amazon** (последний — destination), 36 ед/день. Это **massive content production rate**, который ни один live-influencer не может поддерживать.
 
 **Implication для GRO:** этот case — **awareness-hook**, но **не template для GRO**: brand-mismatch (GRO — серьёзный self-development продукт), legal в RU/EU (требование маркировки AI-content 2026), и trust-decay-risk. **GRO остаётся в "AI as helper for human" team-shape**, не "AI as face replacement".
+
+## «Масштабируемая самозанятость» — снятие потолка «руки × часы» (Морейнис, май 2026)
+
+[[sources/2026-05-19-tg-temno-moreynis-may-14-19-2026|@temno пост 7842, 2026-05-19]] добавляет **новую под-рамку** к нарративу окна: переопределение самозанятости как масштабируемой категории. Это смежно с micro-team тезисом, но касается **нижней границы** — одного человека.
+
+**Старый потолок самозанятости:**
+> Раньше самозанятость имела очевидный и приземлённый потолок роста — пропорциональный количеству рук самозанятого и количеству часов в сутках. И даже наличие нескольких помощников принципиально картинку не меняло. — Морейнис
+
+**ИИ снимает потолок:**
+> Один самозанятый может теперь запустить десятки или даже сотни ИИ-агентов, которые будут работать 24/7 и которых не нужно мотивировать.
+
+Это переводит самозанятость из категории «линейный труд ∝ часам» в категорию «масштабируемый бизнес» — буквально 0-employee вариант micro-team тезиса страницы (1 человек + N агентов вместо 3-5 человек + десятки агентов).
+
+**Self-selection insight (новый — нет в других голосах).** Морейнис добавляет психологический фильтр, объясняющий, **кто** первым уйдёт в масштабируемую самозанятость:
+
+> Самозанятому может оказаться проще запустить масштабируемый ИИ-бизнес. Потому что он изначально будет планировать его именно как «ИИ-бизнес»… потому что с людьми он работать не умеет и не хочет.
+
+То есть люди, осознанно избегающие управления сотрудниками (не хотят «нанимать, мотивировать, уговаривать, контролировать»), — **естественный ранний сегмент** AI-native соло-бизнеса, потому что они изначально проектируют без людей. Это **поведенческий предиктор** для таргетинга: anti-management-disposition = pro-AI-native-solo-disposition.
+
+**Связь с able+willing.** Этот сегмент пересекается с [[canon/marketing-frameworks/able-and-willing-customer-selection-moreynis|able+willing]] частично: «не хочет управлять людьми» ≠ «не хочет расти». Морейнис снимает старое предположение, что рост требует найма — теперь willing-to-grow + unwilling-to-manage-people = идеальный AI-solo founder.
+
+**Implication для GRO:** под-сегмент «масштабируемый самозанятый» — это [[canon/target-audience/gro-segments|фрилансер]], переходящий в соло-founder через агентов, но **сознательно остающийся без команды**. Content hook: «Масштаб больше не требует найма. Что если твой потолок — не руки, а система?»
+
+**Confidence:** мнение priority-2 эксперта (Морейнис), single-source на конкретную «масштабируемую самозанятость» формулировку, но согласуется с уже multi-source-поддержанным нарративом окна. Сама под-рамка — `[conf:low]` на genus «новая категория», но усиливает существующий medium-тезис страницы.
 
 ## Contradictions
 

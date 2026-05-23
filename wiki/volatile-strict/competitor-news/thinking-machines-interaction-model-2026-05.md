@@ -9,8 +9,8 @@ tags: [thinking-machines, murati, ai, voice, multimodal, interaction, sebrant]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +third-source attest @cgevent (12 мая, пост 15664): архитектурные детали (200мс микрокусочки, асинхронное мышление, фоновая модель) + hard-числа 276B MoE/12B активных, FD-bench v1.5 77.8 vs 46-54, turn-taking 400мс + конкретные capabilities (перебивать, синхроперевод, визуальные триггеры). Prior: +second-source Edinorog 7944
-sources: [sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md]
+updated: 2026-05-19  # +fourth-source @vcnews 61327 (12 мая): RU-mainstream фиксация первой ПУБЛИЧНОЙ демо TML-Interaction (с видео) — переход в product-rollout phase подтверждён. Prior: +third-source @cgevent (12 мая, пост 15664) архитектура + hard-числа 276B MoE/12B активных, FD-bench v1.5 77.8 vs 46-54, turn-taking 400мс. Prior: +second-source Edinorog 7944
+sources: [sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md]
 namespace: mkt
 ---
 
@@ -100,6 +100,18 @@ Thinking Machines обнародовали **interaction model** — модел�
 - Research preview закрытый, доступ «в ближайшие месяцы»
 
 **Релевантность визуальных триггеров для GRO:** возможности «посчитай отжимания» / «напоминай дышать каждые 4 секунды» — ровно тот тип проактивного wellness/coaching-присутствия, который GRO мог бы дать в голосовом интерфейсе. Tracking-релевантно для product-стороны.
+
+## Fourth-source attestation: @vcnews (12 мая) — публичная демо, mainstream-RU фиксация
+
+[[sources/2026-05-19-tg-vcnews-may-12-14-2026|@vcnews пост 61327 (12 мая 2026, с видео)]] переводит сигнал из «техпост/анонс» в **первую публичную демонстрацию** через RU-mainstream бизнес-медиа `[conf:medium, src:2026-05-12]`:
+
+> «Стартап Thinking Machines Lab бывшего техдиректора OpenAI Миры Мурати **впервые показал** свою разработку **TML-Interaction**. Это "модель взаимодействия", которая должна приблизить общение с ИИ-моделями к человеческому. Нейросеть одновременно обрабатывает аудио и видео и "обдумывает" ответ, быстро реагирует на перебивания и **может перебить сама**, параллельно ищет в интернете и визуализирует данные.»
+
+**Что это меняет:**
+- **Подтверждение product-rollout phase.** Предыдущие источники (@techsparks, @theedinorog, @cgevent) описывали blog-пост / research-preview. vc.ru фиксирует **публичный показ** — компания вышла из «раунды без релизов» в публичную демонстрацию.
+- **Mainstream-RU coverage.** До этого Thinking Machines был сигналом для AI-tracking-каналов; теперь попал в крупнейшее RU-бизнес-медиа — расширение awareness за пределы технической аудитории.
+- **Reconcile названия.** vc.ru использует имя **TML-Interaction** для продукта (раньше в вики фигурировало просто «interaction model» по blog-посту thinkingmachines.ai). Использовать **TML-Interaction** как product-name.
+- **Capabilities совпали** с @cgevent-описанием (перебивания, аудио+видео параллельно, параллельный поиск/визуализация) — четвёртый источник без противоречий усиливает confidence в фактуре, но остаётся medium (демо ≠ GA-доступ).
 
 ## Применимость для marketing-memory GRO
 

@@ -9,8 +9,8 @@ tags: [tbank, corporate-messenger, ai, marketplace, fintech, industry-trends]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-15  # +link to historical foundation 2019–2024 (condensed vc.ru/tbank 27 articles): Voice AI Олег, VoiceKit, AI-matching 1M/1500, Долями × Рив Гош BNPL +26% AOV, Клубы лояльности pilot 2024 +20%/×2/+40%, Tinkoff Pay 99% vs card 81%, Вселенная Тинькофф viral 2020, content-mix 40/30/20/10
-sources: [sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-14-condense-web-vc-ru-tbank-27.md]
+updated: 2026-05-19  # +май-батч @tinkoffbank 10694-10718: «Город»→«Отправка посылок» (logistics merchant-категория, multi-courier aggregation), Т-Мобайл telecom-vertical (390₽/50ГБ + MNP-retention), «Кэшбэк месяца» recurring loyalty-формат, «Вклад в поколение» CSR-грант учителям (Т-Образование adjacency)
+sources: [sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md]
 namespace: mkt
 ---
 
@@ -101,6 +101,28 @@ Significance для Т-Банк-ecosystem narrative: это **defensive-solidari
 
 Обновлённая ecosystem-sequence: **banking → B2B tools → Escrow (Сделка) → B2B-defensive (Т-Бизнес) → BNPL (Доли) → edtech (Т-Образование) → lifestyle-travel (Т-Путешествия) → consumer-superapp (Город → Топливо → ?)**.
 
+## «Город» → «Отправка посылок» — logistics merchant-категория (май 2026)
+
+Май-батч (#10695, [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]]) добавляет **вторую наблюдаемую merchant-категорию в «Город»** — **«Отправка посылок»**. Сервис **автоматически сравнивает условия партнёрских курьерских служб**: Яндекс Доставка, СДЭК, 5Post, Каргобукинг «и другие» `[conf:high, src:2026-05-14]`. Путь: app → «Город» → «Все сервисы» → «Отправка посылок» → адреса/размер/ценность → варианты с ценами/сроками → выбор и оплата. Повышенный кэшбэк за оплату доставки картой Т-Банка (размер зависит от службы) `[conf:high, src:2026-05-14]`.
+
+**Что это подтверждает.** «Город» — не одноразовый fuel-эксперимент, а **систематический superapp-layer**, в который наливаются целые категории merchant'ов по единому паттерну: horizontal-aggregation (multi-АЗС → multi-courier) + comparison-UI + cashback-stacking. Logistics — **вторая после fuel** категория, что валидирует прогноз «каждая merchant-категория в Городе — потенциальный future sub-brand». Aggregation-механика идентична Доли-BNPL-агрегатору (см. ниже) — Т-Банк системно делает ставку на **«дом для всех провайдеров категории»**, а не на проприетарную долю.
+
+Обновлённая «Город»-sequence: **Топливо (multi-АЗС) → Отправка посылок (multi-courier) → ?**.
+
+## Т-Мобайл — telecom-vertical в стеке (май 2026)
+
+Май-батч (#10705) фиксирует **telecom-vertical** в ecosystem-стеке: тариф Т-Мобайл **390 ₽/мес = безлимитные минуты + 50 ГБ интернета** `[conf:high, src:2026-05-15]`. Ключевая механика — **MNP-retention**: «чтобы сохранить цену, перенесите свой номер в Т-Мобайл» (перенос номера как условие price-lock). Позиционирование оператора — «который действительно на вашей стороне» (anti-incumbent-фрейм против большой тройки). Формат announce — пронумерованная инструкция (instruction-format), не promo-креатив.
+
+Telecom (как и edtech, travel) — **non-financial vertical**, продвигаемый через primary consumer-канал @tinkoffbank без отдельной brand-identity (inherit consumer-yellow). Это ещё один пример **audience-reuse paradigm**: один канал-платформа для всех sub-brands. Обновлённая vertical-карта: banking → B2B tools → Escrow → Т-Бизнес → Доли → edtech → travel → superapp (Город) → **telecom (Т-Мобайл)**.
+
+## «Кэшбэк месяца» — recurring loyalty-формат (май 2026)
+
+Параллельно с daily-streak «Кэшбэк дня» Т-Банк запустил **«Кэшбэк месяца»** — recurring-формат с фиксированным окном **с 15-го по последнее число каждого месяца** `[conf:high, src:2026-05-18]`, ротация партнёрских офферов, единый entry-point в разделе «Кэшбэк и бонусы». Это **третий cashback-cadence-режим** у бренда (daily-streak / dated-SKU / monthly-window) — диверсификация loyalty-механик под разные engagement-tolerance сегменты. Полный разбор формата — [[evolving/content-trends/tbank-recurring-monthly-cashback-format-2026]].
+
+## «Вклад в поколение» — CSR-грант под Т-Образование (май 2026)
+
+Май-батч (#10713) фиксирует CSR-активность **«Вклад в поколение»** — ежегодный грант **200 000 ₽** учителям математики/физики/информатики (стаж от года), дедлайн 18 июня 2026 `[conf:high, src:2026-05-18]`. Бонусы участникам — методматериалы/курсы Т-Образования, сообщество, мастер-классы, экскурсии в офисы Т-Банка. Это **forwardable-content + soft-funnel в Т-Образование** (см. формат в [[evolving/content-trends/csr-grant-as-referable-content-2026]]). CSR подтверждает **Т-Образование adjacency**: грант — ещё один канал awareness для edtech-sub-brand'а через consumer-аудиторию.
+
 ## Историческая основа (2019–2024) — как ecosystem собирался
 
 Современный ecosystem-стек Т-Банка собирался **6+ лет** через последовательность отдельных activations, каждая из которых становилась publicly publicised контент-кейсом на vc.ru. Подробная сводка — [[evolving-strict/competitor-metrics/tbank-historical-metrics-2019-2024]]; ключевые узловые точки:
@@ -159,6 +181,10 @@ Significance для Т-Банк-ecosystem narrative: это **defensive-solidari
 - [[sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses]] — Т-Путешествия summer-promo (second B2C lifestyle-adjacent brand-extension observed)
 - [[sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback]] — «Город» → «Топливо» как consumer-superapp layer с multi-АЗС merchant-backend, ambassador-launch via AcademeG
 - [[evolving/content-trends/ambassador-product-demo-hybrid]] — launch-pattern для каждого «Город»-сервиса (category-ambassador × how-to video)
+- [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]] — май-батч: «Город»→Отправка посылок (logistics), Т-Мобайл, «Кэшбэк месяца», «Вклад в поколение»
+- [[evolving/content-trends/tbank-recurring-monthly-cashback-format-2026]] — «Кэшбэк месяца» recurring loyalty-формат (третий cashback-cadence-режим)
+- [[evolving/content-trends/csr-grant-as-referable-content-2026]] — «Вклад в поколение» forwardable CSR-грант (Т-Образование adjacency)
+- [[volatile-strict/competitor-news/tbank-doli-bnpl-aggregator-2026-05]] — Доли BNPL-агрегатор (та же aggregation-механика, что «Город»→logistics)
 
 ## Backlinks
 

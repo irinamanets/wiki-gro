@@ -9,10 +9,11 @@ tags: [content, branding, narrative, positioning, jtbd]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-18  # +Pressfeed «достаточно посеять сомнение»: нарратив как атакуемый ресурс — 6-шаговая механика разрушения через сомнения симметрична построению
+updated: 2026-05-19  # +cross-link на наблюдательный content-hook «скрытое мастерство» (Перегудов) + на PR-as-exit-value (Перегудов) как операционализацию «притяжения ресурсов»
 sources:
   - sources/2026-04-14-hutzp-telegram-20260402-0414.md
   - sources/2026-05-18-pressfeed-black-pr-community-doubt.md
+  - sources/2026-05-19-tg-peregudov-may-15-2026.md
 namespace: mkt
 ---
 
@@ -101,6 +102,8 @@ Synopsis Group выводит формулу, которая обобщаетс�
 - [[canon/marketing-frameworks/black-pr-community-doubt-mechanic]] — атака на нарратив: 6-шаговая механика чёрного PR
 - [[canon/marketing-frameworks/doubt-vs-fact-question-pattern]] — unit-блок атакующего нарратива
 - [[canon/marketing-frameworks/crisis-pr-principles]] — защитный протокол при разрушении нарратива
+- [[evolving/content-trends/hidden-mastery-observation-hook]] — наблюдательный content-hook «скрытое мастерство» (конкретная narrative-форма)
+- [[canon/marketing-frameworks/pr-as-exit-value-driver-peregudov]] — операционализация метрики «притяжение ресурсов» до аудитории инвесторов/покупателей
 
 ## Contradictions
 

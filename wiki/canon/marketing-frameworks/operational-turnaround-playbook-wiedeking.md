@@ -9,8 +9,8 @@ tags: [frameworks, turnaround, operational-excellence, lean-manufacturing, porsc
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-yt-ilya-solovey-porsche-history.md]
+updated: 2026-05-22  # +cross-ref на operational-ceo-as-strategist-cook (production-first CEO в рост-режиме vs turnaround-режиме)
+sources: [sources/2026-05-05-yt-ilya-solovey-porsche-history.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md]
 namespace: mkt
 ---
 
@@ -156,6 +156,10 @@ Playbook сформулирован по одному кейсу (Wiedeking / Po
 - **Confirmation bias в разборе Соловья**: ретроспективный нарратив одного автора подбирает факты под уже известный исход.
 
 Для использования в реальной founder-стратегии **дополнительно сверять** с публичными turnaround-кейсами: Steve Jobs Apple 1997-1998, Carlos Ghosn Nissan 1999, Lou Gerstner IBM 1993. Каждый шаг playbook'а должен быть тестирован против минимум 3 **независимых** turnaround'ов перед канонизацией. До тех пор `confidence: medium`. `[conf:medium, src:2026-05-06]`
+
+## Cross-ref: production-first CEO в рост-режиме (Тим Кук)
+
+Wiedeking — production-first CEO в **turnaround-режиме** (спасение деградировавшего бренда). Родственный, но **другой** профиль — production-first CEO в **рост-режиме после стабилизации**: Тим Кук в Apple. См. [[canon/marketing-frameworks/operational-ceo-as-strategist-cook]]. Совпадение: и Wiedeking, и Кук делают **операционку стратегией** (supply-chain discipline, сокращение запасов, vertical integration), а не back-office. Различие стадий: Wiedeking тушит кризис, Кук масштабирует уже-восстановленную компанию в триллионную капитализацию. Обе страницы — аргумент против романтизации «визионер = стратег, операционник = исполнитель». `[conf:medium, src:2026-05-18]`
 
 ## Backlinks
 

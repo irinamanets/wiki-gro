@@ -9,8 +9,8 @@ tags: [content, attention-economy, anti-pattern, brand-guidelines, lapshina, sca
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-eklapshinaofficial-896-897.md]
+updated: 2026-05-19  # +documented example Irnby/Nike lookalike-провокация (vcnews 61347, 13 мая) — второй кейс «провокация ради внимания», sample size 1→2
+sources: [sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md]
 namespace: mkt
 ---
 
@@ -89,9 +89,15 @@ GRO маркетинг **не должен** использовать engineered
 | [[evolving/content-trends/anti-authority-positioning-hook]] | Anti-authority как «честная» альтернатива engineered scandal. |
 | [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]] | Engineered scandal = community-as-deal. GRO — community-as-evolution. |
 
+## Documented examples (накопитель)
+
+Накопитель реальных кейсов, где работала механика «провокация ради внимания» (шаг 1 «найти тех, кого захейтят» + неопределённость = распространение через спор):
+
+- **Irnby × Nike/Соболенко (RU, май 2026).** Российский бренд Irnby выпустил рекламный ролик, **идентичный** ролику Nike с теннисисткой Ариной Соболенко (сюжет, съёмка, финал), **без указания референса**. Аудитория раскололась: «плагиат» vs «умышленная провокация — чтобы написали все кому не лень». `[conf:medium, src:2026-05-13]` Это live-пример **lookalike-провокации** — упрощённая (не 7-шаговая) версия playbook'а: достаточно заимствовать узнаваемую форму + не атрибутировать → спор о легитимности сам распространяет контент. Полный разбор — [[evolving/content-trends/irnby-nike-lookalike-ad-controversy-2026]]. Источник: [[sources/2026-05-19-tg-vcnews-may-12-14-2026|@vcnews пост 61347]].
+
 ## Ограничения и неизвестные
 
-- **Sample size: 1 event.** Venice Biennale 2026 — единственный анализируемый кейс. Generalization нуждается в repeating examples.
+- **Sample size: 2 события.** Venice Biennale 2026 (полный 7-шаговый playbook) + Irnby/Nike (упрощённая lookalike-провокация). Generalization всё ещё нуждается в большем числе примеров, но второй кейс подтверждает базовую механику «спор о легитимности = бесплатное распространение».
 - **Attribution неопределённа.** +10% посетителей `[conf:medium, src:2026-05-14]` может быть результатом playbook'а, или просто post-COVID return-of-travel, или valutных колебаний. Лапшина сама oставляет вопрос открытым: «А если все это реально драматическое стечение обстоятельств...».
 - **Не подходит regulated industries.** В рекламе финансовых, медицинских и detskih продуктов применение playbook'а столкнётся с regulatory backlash, не attention gain.
 - **Lifecycle erosion.** Если event использует playbook повторно, audience adapts — surprise effect снижается. **Diminishing returns**.
@@ -99,6 +105,8 @@ GRO маркетинг **не должен** использовать engineered
 ## Связанные страницы
 
 - [[sources/2026-05-14-tg-eklapshinaofficial-896-897]] — первичный источник (пост #896)
+- [[evolving/content-trends/irnby-nike-lookalike-ad-controversy-2026]] — второй documented example (lookalike-провокация Irnby/Nike)
+- [[sources/2026-05-19-tg-vcnews-may-12-14-2026]] — источник Irnby/Nike кейса (пост 61347)
 - [[canon/brand-guidelines/lapshina-founder-tov]] — TOV Лапшиной, в контрасте с которым этот playbook становится anti-pattern'ом
 - [[canon/marketing-frameworks/lapshina-architect-new-type-founder-archetype]] — vision-уровень: «новый Архитектор», создающий среду, а не скандал
 - [[canon/positioning/attention-warfare-thesis]] — общий attention-economy фрейм

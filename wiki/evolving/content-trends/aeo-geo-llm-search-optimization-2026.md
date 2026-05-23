@@ -9,8 +9,8 @@ tags: [seo, aeo, geo, content, pr, organic-traffic, llm-search, json-ld, invento
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +PRAGMATIX, +Кравченко, +Pressfeed «GEO иллюзия позиций»: SparkToro стохастичность + 3-платформенная сегментация + information primacy theft + sameness anti-pattern
-sources: [sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md]
+updated: 2026-05-19  # +AIMonitor.pro первый публичный RU-индекс ИИ-видимости (банки top-5) + BrightEdge 68%/180% (Inc.Russia 36801)
+sources: [sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md]
 namespace: mkt
 ---
 
@@ -343,6 +343,16 @@ SparkToro даёт **теоретическое обоснование** тог�
 - **Почему probability, не позиция** → SparkToro (стохастичность retrieval'а)
 - **Что именно измерять** → Кравченко (4-осевая рамка: inclusion / citation quality / competitive parity / trend)
 
+## Update 2026-05-19 — первый публичный RU-индекс «ИИ-видимости» (AIMonitor.pro)
+
+[[sources/2026-05-19-tg-incrussiamedia-may-11-17-2026|Inc. Russia пост 36801]] (2026-05-15) фиксирует, что в России появился **первый публичный индекс «ИИ-видимости» брендов** — это переход GEO-мониторинга из «дисциплины, которую надо самому строить» в «готовый сервис на RU-рынке».
+
+- Платформа **AIMonitor.pro** проанализировала **>40 тыс. запросов** к ChatGPT/DeepSeek/Perplexity/«Алиса AI» и рассчитала индекс для крупнейших RU-банков `[conf:medium, src:2026-05-15]`.
+- Топ-5: Сбер 26,7%, Т-Банк 19,1%, ВТБ 17,9%, Альфа 14,8%, «Открытие» 5,4% — топ-5 покрывает ~85% видимости категории (power-law) `[conf:medium, src:2026-05-15]`.
+- Глобальный контекст (BrightEdge): **68% маркетологов** уже адаптируют стратегии под ИИ-поиск; трафик из генеративных систем **+180% за 2025** `[conf:medium, src:2026-05-15]`.
+
+**Значение для playbook'а:** баланс «инструментальный слой» сместился. Раньше [[canon/marketing-frameworks/geo-monitoring-discipline-2026|GEO-мониторинг]] требовал custom prompt-runner или зарубежных трекеров; теперь для RU-вертикали есть готовый индекс. Power-law-концентрация (топ-5 = ~85%) усиливает тезис sameness-anti-pattern: в нейровыдаче категория консолидируется вокруг 2–3 имён, поэтому для нишевого SaaS (профиль GRO) ранний вход в retrieval-корпус критичен. Полный срез — [[evolving-strict/market-data/ru-ai-visibility-index-banks-2026]].
+
 ## Contradictions
 
 _Пока нет._
@@ -373,6 +383,8 @@ _Пока нет._
 - [[volatile-strict/industry-news/ru-ai-law-march-2026]] — legal context: RU-закон март 2026 не защищает от пересказа
 - [[evolving-strict/market-data/ru-ai-trust-citation-2026]] — 28% trust / 87% no-citation RU-сигнал
 - [[sources/2026-05-18-pressfeed-geo-illusion-stability-measure]] — Pressfeed «GEO иллюзия позиций» (май 2026)
+- [[evolving-strict/market-data/ru-ai-visibility-index-banks-2026]] — первый публичный RU-индекс ИИ-видимости (AIMonitor.pro, банки)
+- [[sources/2026-05-19-tg-incrussiamedia-may-11-17-2026]] — Inc. Russia, AIMonitor.pro index + BrightEdge
 
 ## Backlinks
 

@@ -79,6 +79,7 @@ namespace: mkt
 - [[evolving/industry-trends/freelance-platform-dependency]]
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
 - [[evolving/content-trends/enough-vs-growth-narrative]] — контр-нарратив для калибровки hook 5
+- [[evolving/content-trends/digital-organization-freelancer-hooks]] — параллельный content-угол для той же фрилансер-аудитории (цифровой порядок рабочего места)
 
 ## Backlinks
 

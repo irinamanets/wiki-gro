@@ -9,14 +9,16 @@ tags: [android, google, ux, digital-wellbeing, doomscroll, tiktok, attention-des
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md]
+updated: 2026-05-19  # +vcnews 61330 (2026-05-12) second-source: «инструмент против бесконечного залипания», пометка приложения как отвлекающего → система не даёт сразу зайти, предлагает подышать или поставить таймер. Подтверждает Pause Point двумя независимыми источниками
+sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md]
 namespace: mkt
 ---
 
 # Android Pause Point — 10-секундная пауза против думскроллинга (май 2026)
 
 Google запускает **Pause Point** — новую механику в Android для борьбы с думскроллингом. Пользователь выбирает приложение, от которого хочет «спасаться» (например, TikTok). После попытки открыть выбранное приложение система показывает **10-секундную паузу с напоминанием остановиться и заняться чем-то более осмысленным**. Сигнал через @breakingtrends (AdIndex), 2026-05-13. См. [[sources/2026-05-14-tg-breakingtrends-may05-14]] пост 16744.
+
+**Second-source (vc.ru, 12 мая):** [[sources/2026-05-19-tg-vcnews-may-12-14-2026|@vcnews пост 61330]] (vc.ru/services/2922393) независимо подтверждает фичу: Android добавит **инструмент против бесконечного «залипания» в приложениях** — пользователь помечает приложение как отвлекающее, и при попытке открыть **система не даёт сразу зайти**, вместо этого предлагает **подышать или поставить таймер**. `[conf:medium, src:2026-05-12]` Совпадает с механикой Pause Point (self-imposed friction by user-consent); вариативность интервенции (пауза / дыхание / таймер) — деталь, которой не было в первичном @breakingtrends-сигнале.
 
 ## Параметры функции
 
@@ -110,4 +112,6 @@ Pause Point позиционирует Android как **«здоровая» а�
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — Google продуктовая активность Q2 2026
 - [[volatile-strict/competitor-news/google-gemini-macos-native-app-2026-04]] — параллельные Google product launches
 - [[evolving/content-trends/short-form-video-algo-retention-2026]] — context для doomscroll content
+- [[volatile-strict/competitor-news/google-gemini-intelligence-android-2026-05]] — параллельная Android-фича из того же дампа
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — первичный источник пересказа
+- [[sources/2026-05-19-tg-vcnews-may-12-14-2026]] — vc.ru second-source (пост 61330)

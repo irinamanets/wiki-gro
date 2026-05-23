@@ -9,8 +9,8 @@ tags: [content, gamification, fintech, retention, ux, daily-engagement, t-bank, 
 confidence: medium
 stale: false
 created: 2026-04-17
-updated: 2026-05-16  # +Todoist Karma (~2013) как ранний массовый productivity-gamification prior — добавлен historical-anchor для banking streak-паттерна
-sources: [sources/2026-04-14-tg-tinkoffbank-10557-daily-cashback-streak.md, sources/2026-04-14-tg-tinkoffbank-10572-cashback-100-typographic.md, sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016.md]
+updated: 2026-05-19  # +«Кэшбэк месяца» (май 2026) как контрастный recurring-monthly-window режим — daily-streak не единственный cashback-cadence у T-Bank, cross-ref на отдельную страницу формата
+sources: [sources/2026-04-14-tg-tinkoffbank-10557-daily-cashback-streak.md, sources/2026-04-14-tg-tinkoffbank-10572-cashback-100-typographic.md, sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md]
 namespace: mkt
 ---
 
@@ -98,6 +98,20 @@ Banking streak-pattern имеет **более глубокий historical-prior
 
 См. [[evolving/content-trends/ru-task-manager-listicle-baseline-2016]] для широкого контекста pre-AI productivity-tooling эпохи.
 
+## Контраст: daily-streak vs monthly-window (обновление 2026-05-19)
+
+Daily-streak — **не единственный** cashback-cadence у Т-Банка. В мае 2026 наблюдаем параллельный recurring-формат **«Кэшбэк месяца»** (окно с 15-го по последнее число каждого месяца, [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]]). Это важно для понимания границ daily-streak-паттерна: бренд держит **portfolio из cadence-режимов**, а не один.
+
+| Параметр | «Кэшбэк дня» (этот паттерн) | «Кэшбэк месяца» |
+|---|---|---|
+| Cadence | Ежедневный ритуал | Ежемесячное окно |
+| Психология | Gamification (streak/lock/crown) | Planning / anticipation |
+| Churn-risk | Высокий (разрыв streak) | Низкий (нет streak'а) |
+| Audience-fit | Active-users | Mass-retail, отторгающий daily-ритуал |
+| Personalization-нагрузка | Тяжёлая (новая категория каждый день) | Лёгкая (набор офферов раз в месяц) |
+
+**Вывод для рамки переноса:** daily-streak адресует ограничение #1 этой страницы (требует ежедневного внимания, не works для mass-retail) — Т-Банк закрывает этот gap **дополнительным monthly-window-режимом**, а не отказом от streak'а. Для GRO это значит: если daily-streak конфликтует с subscription-логикой или отторгается частью аудитории — не выбрасывать, а **дополнить monthly-cadence-режимом** под casual-сегмент. Полный разбор monthly-формата — [[evolving/content-trends/tbank-recurring-monthly-cashback-format-2026]].
+
 ## Gap и неизвестные
 
 - **Retention-performance Т-Bank Кэшбэк дня пока неизвестен.** Нельзя оценить cost-effectiveness без public-data. Следить по периодическим updates в отчётах T-Bank.
@@ -116,6 +130,8 @@ Banking streak-pattern имеет **более глубокий historical-prior
 - [[evolving/industry-trends/tbank-corporate-platform-stack-2026]] — ecosystem-инфраструктура позволяющая daily-personalization
 - [[evolving/content-trends/entertainment-over-pain-framing]] — gamification как entertainment-рамка поверх функциональной pain-killer-логики cashback
 - [[evolving/content-trends/ru-task-manager-listicle-baseline-2016]] — historical landscape, где Todoist Karma (productivity-gamification ~2013) — самый ранний массовый prior банковского streak-паттерна
+- [[evolving/content-trends/tbank-recurring-monthly-cashback-format-2026]] — контрастный cadence-режим («Кэшбэк месяца», monthly-window) в портфеле того же бренда
+- [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]] — источник «Кэшбэк месяца» (#10714)
 
 ## Backlinks
 

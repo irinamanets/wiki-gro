@@ -9,8 +9,8 @@ tags: [retention, b2c, pmf, metrics, benchmarks, subscription, saas]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14  # +второй Табунов-источник (@your_pet_project пост 575): subscription retention >90% как «bar of excellence»
-sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md, sources/2026-04-14-tg-your-pet-project-jan-apr2026.md]
+updated: 2026-05-19  # +loyal-core revenue-concentration срез (Mindbox/«Азбука вкуса» 6,2%→36%) как комплементарный B2C-retention-бенчмарк
+sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md, sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-19-tg-howtomake10x-1571-1572.md]
 namespace: mkt
 ---
 
@@ -62,6 +62,18 @@ Reusable референс для оценки качества B2C-продук�
 2. **Монетизацию можно подтюнить** (pricing, IAP, paywalls).
 3. **А retention — это про то, полезен ли твой продукт на самом деле** (это сигнал PMF, не tuning).
 
+## Loyal-core: концентрация выручки на «ядре» (комплементарный срез)
+
+Помимо когортного Day-30 и subscription retention есть третий способ смотреть на «качество удержания» — **концентрация выручки на лояльном «ядре»**. Это не cohort-метрика, а revenue-mix снимок: какая малая доля базы держит большую долю выручки.
+
+- **Directional benchmark** (премиальный B2C-ретейл, «Азбука вкуса»): **~6% постоянных клиентов дают ~36% выручки** (рекламная цифра Mindbox, `conf:low`). Точный разбор — в [[evolving-strict/market-data/azbuka-vkusa-loyal-core-revenue-2026]].
+
+Это острый Pareto-перекос (см. [[canon/marketing-frameworks/pareto-80-20-marketing]]): не 20/80, а ~6/36. Конкретные числа дрейфуют по индустрии и компании — поэтому **числа живут в evolving-strict, а здесь только правило интерпретации**: в зрелом B2C значимая доля выручки сидит в узком ядре, и маржинальный рубль на его удержание/расширение обычно эффективнее рубля на холодную acquisition.
+
+**«Переток новички → ядро» как leading-indicator.** Health воронки в ядро опережает выручку: когда скорость пополнения ядра падает, текущая выручка ещё ~квартал по инерции выглядит хорошо, а потом проседает. Мониторить нужно скорость перетока в ядро, а не только выручку (это аргумент за early-warning метрики, ср. [[canon/marketing-frameworks/kravchenko-predictive-loyalty-2026]]).
+
+**Selective retention.** Сопутствующий тезис: не каждого уходящего клиента целесообразно удерживать — часть оттока естественна и дешевле его принять, чем гнаться скидкой. Различать «спасаемый» и «неспасаемый» отток помогает [[canon/marketing-frameworks/defector-loyalty-crm-analysis|Defector + Loyalty Analysis]].
+
 ## Связь с Product-Market Fit
 
 Retention — количественный proxy для PMF в B2C-SAAS:
@@ -106,6 +118,12 @@ Retention — количественный proxy для PMF в B2C-SAAS:
 - [[canon/marketing-frameworks/agent-vs-saas-pricing-arbitrage]]
 - [[canon/marketing-frameworks/tabunov-landing-anatomy]]
 - [[canon/marketing-frameworks/tabunov-onboarding-principles]]
+- [[evolving-strict/market-data/azbuka-vkusa-loyal-core-revenue-2026]]
+- [[volatile-strict/industry-news/mindbox-skms-retention-webinar-2026-05]]
+- [[canon/marketing-frameworks/defector-loyalty-crm-analysis]]
+- [[canon/marketing-frameworks/kravchenko-predictive-loyalty-2026]]
+- [[canon/marketing-frameworks/pareto-80-20-marketing]]
+- [[sources/2026-05-19-tg-howtomake10x-1571-1572]]
 
 ## Backlinks
 

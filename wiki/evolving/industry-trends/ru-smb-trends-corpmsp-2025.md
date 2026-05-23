@@ -9,8 +9,8 @@ tags: [smb, russia, trends, corp-msp, digitalization, youth, hybrid-work, locali
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-14  # +РСПП Q4 2025 → Q1 2026 датапойнт: цифровизация как антикризисный приоритет 27% → 16% (атрибуция Григорьев/Aiston) — counter-сигнал тренду 1
-sources: [sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-05-05-tg-opora-russia-apr-may-2026.md, sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026.md]
+updated: 2026-05-19  # +тренд 2 третье подтверждение: «предпринимательство как новая норма» (Минэк×Сбер 38%/51%, @moibiz карусель 7547-7552)
+sources: [sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-05-05-tg-opora-russia-apr-may-2026.md, sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026.md, sources/2026-05-19-tg-moibiz-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -52,6 +52,8 @@ namespace: mkt
 - Структурный сдвиг от торговли к интеллектуальным нишам: образование (+59.8%), админуслуги (+27.6%), научно-техническая деятельность (+19.9%), ИТ (+14.5%).
 
 **Импликация для GRO:** молодёжный сегмент — прямая ЦА ГРО (пересекается с [[canon/target-audience/gro-segments|сегментом «предприниматели в росте»]] и с [[canon/target-audience/ru-ai-telegram-audience-segments|«Амбициозными» по Субботину]]). Официальная рамка усиливает маркетинговый контекст: ГРО обращается к когорте, которая явно выделена государством как приоритетная.
+
+**Третье подтверждение — «предпринимательство как новая норма» (Минэк × Сбер, май 2026):** через [[sources/2026-05-19-tg-moibiz-may-14-19-2026|@moibiz карусель 7547–7552]] госканал транслирует совместное исследование Минэкономразвития и Сбера: **38% россиян** ведут бизнес или рассматривают запуск, а среди начинающих **51% совмещают бизнес и найм** (см. полный разбор [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]]). Это расширяет тренд 2 с «вовлечения молодёжи» до **массовизации предпринимательства в целом** — государство и Сбер фреймят его как «новую норму», а не нишу. Для GRO усиливает институциональную легитимность когорты «совмещающих» (мост сегментов 1–2).
 
 ### 3. Гибридный формат работы
 
@@ -133,6 +135,7 @@ namespace: mkt
 - [[evolving-strict/market-data/ru-smb-ecosystem-scale-2025]] — макро-стат (7 млн SMB)
 - [[evolving-strict/market-data/ru-smb-digital-ad-spend-2026]] — тренд 1, количественная база (АРИР)
 - [[evolving-strict/market-data/ru-youth-entrepreneurs-2026]] — тренд 2, количественная база (Минэкономразвития)
+- [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]] — тренд 2, третье подтверждение (Минэк×Сбер «новая норма» 38%/51%)
 - [[evolving/industry-trends/hiring-trends-russia-2026]] — тренд 3, контекст рынка труда РФ
 - [[evolving/industry-trends/return-to-office-global-2026]] — контраст гибриду на глобальном уровне
 - [[evolving/industry-trends/ru-smb-sales-q1-2026]] — качественный срез SMB Q1 2026

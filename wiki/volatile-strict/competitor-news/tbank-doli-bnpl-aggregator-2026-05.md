@@ -9,8 +9,8 @@ tags: [t-bank, doli, bnpl, otp-bank, fintech, news, payment-rails]
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
+updated: 2026-05-19  # +consumer-facing подтверждение из @tinkoffbank/10706 (14-18 мая): «все магазины-партнёры и графики списаний в одном приложении» — aggregator-мессаджинг вышел в consumer-канал
+sources: [sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md]
 namespace: mkt
 ---
 
@@ -38,8 +38,15 @@ T-Bank добавил в **Долями** предложения **от друг
 
 4. **Сигнал для пресет-таксономии.** Лавандовый sub-brand Долями уже был задокументирован как [[evolving/competitor-positioning/tbank-doli-bnpl-sub-brand-palette-lavender|sub-brand pattern]]. Текущая новость — **второй этап эволюции product-architecture**: lavender brand-positioning → aggregator-platform mechanics. Это **classical playbook** для масштабирования вертикальных продуктов: identity первая, platformization вторая.
 
+## Consumer-facing подтверждение (14–18 мая 2026)
+
+Через ~неделю после b2b-новости (8 мая) aggregator-мессаджинг вышел в **consumer-канал** @tinkoffbank (#10706, [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]]): Доли позиционируются как приложение, где **«все магазины-партнёры и графики списаний — в одном приложении»** `[conf:high, src:2026-05-15]`. Механика для пользователя: товар у партнёра (онлайн или офлайн по QR на кассе) → на оплате выбрать «Долями» → сумма делится на **4 части без комиссии** (первая сразу, три — раз в 2 недели) `[conf:high, src:2026-05-15]`. Партнёры летнего набора: re:Store, Incanto, Amazing Red, Samsung Galaxystore, Malina Bonita `[conf:high, src:2026-05-15]`.
+
+**Значение.** Aggregator-сдвиг — не только backend payment-rails news, но и **consumer-facing positioning**: акцент в коммуникации смещается с «BNPL от Т-Банка» на **«единое приложение для управления всеми рассрочками и партнёрами»** (one-app-for-all-schedules) `[conf:high, src:2026-05-15]`. Это та же aggregation-логика, что в «Город»→logistics (см. [[evolving/industry-trends/tbank-corporate-platform-stack-2026]]): Т-Банк строит «дом для всей категории», а не проприетарную долю.
+
 ## Cross-links
 
+- [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]] — consumer-facing aggregator-мессаджинг (#10706)
 - [[evolving/competitor-positioning/tbank-doli-bnpl-sub-brand-palette-lavender]] — Долями brand-identity предшествующий этап
 - [[evolving/competitor-positioning/tbank-doli-bnpl-partner-album-format]] — Доли-партнёр контент-формат
 - [[evolving-strict/market-data/ru-bnpl-aov-uplift-2023]] — RU BNPL market context

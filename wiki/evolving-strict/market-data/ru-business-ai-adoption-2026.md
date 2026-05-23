@@ -9,8 +9,8 @@ tags: [ai, adoption, b2b, marketing, russia, 2026, productivity]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-08  # +Яндекс 85% рекламных бюджетов под управлением ИИ (Q1 2026, +7,8 п.п. г/г, @bezsmuzi img 15918 / Ведомости)
-sources: [sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
+updated: 2026-05-19  # +§8 consumer AI spend РФ ~10% ежемесячно + «AI стала инфраструктурой» (@moibiz дайджесты 7543/7555)
+sources: [sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-19-tg-moibiz-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -98,6 +98,39 @@ namespace: mkt
 
 **Маркетинговое значение.** Это — **числовой anchor demand-side AI-автоматизации в RU performance-маркетинге**: на крупнейшей рекламной платформе РФ 85% бюджетов уже крутят автостратегии, а не ручная настройка. Прямо квантифицирует нарратив «перформанс-маркетолог среднего уровня обесценивается» (см. [[evolving/content-trends/perf-marketer-automation-narrative-2026]]) и согласуется с экспертной рамкой лимитов ИИ из [[evolving/industry-trends/ai-marketing-limits-2026]] (ИИ забирает рутину bid-management, не judgment). Для GRO — proof-source под skill-shift нарратив для [[canon/target-audience/gro-segments|сегмента карьеристов-маркетологов]]. `[conf:medium, src:2026-05-08]`
 
+## 7. ИИ-фриланс РФ: спрос и цена услуг (Workzilla + chad, май 2026)
+
+Датапоинт из [[sources/2026-05-19-tg-incrussiamedia-may-11-17-2026|Inc. Russia пост 36796]] (2026-05-14), по данным Workzilla и маркетплейса нейросетей chad:
+
+| Метрика | Значение | Source |
+|---|---|---|
+| Запросы бизнеса на проекты с ИИ (за год) | **2 тыс. → 15 тыс.** (×7,5) | `[conf:medium, src:2026-05-14]` |
+| Средний чек на ИИ-заказ (конец 2025) | ~**1,4 тыс. ₽** | `[conf:medium, src:2026-05-14]` |
+| Средний чек на ИИ-заказ (май 2026) | **>2 тыс. ₽** | `[conf:medium, src:2026-05-14]` |
+| Рост среднего чека за несколько месяцев | **+43%** | `[conf:medium, src:2026-05-14]` |
+
+**Source:** Workzilla + chad (маркетплейс нейросетей), retold через Inc. Russia. `confidence: medium` — методология подсчёта «запросов с ИИ» не раскрыта, цифры от платформы-агрегатора.
+
+**Маркетинговое значение.** Это **demand-side датапоинт по AI-навыкам на уровне исполнителей** (фриланс), дополняющий корпоративные блоки 1 и 6. Спрос на ИИ-проекты вырос ×7,5 за год, при этом **предложение заметно отстаёт от спроса** — компании готовы платить больше за специалистов, умеющих работать с генеративными ИИ, автоматизацией и обработкой контента `[conf:medium, src:2026-05-14]`. Это прямой количественный proof-point для skill-shift нарратива GRO: ИИ-компетенция стала измеримо дефицитным и дорожающим навыком на RU-рынке труда. Согласуется с тезисом «41% готовы менять работу» (блок 4) — для [[canon/target-audience/gro-segments|сегмента карьеристов]] это рыночный сигнал, что инвестиция в ИИ-навыки окупается ростом ставки. См. также [[evolving/industry-trends/ru-creator-economy-monetization-2026]]. `[conf:medium, src:2026-05-14]`
+
+## 8. Consumer AI spend РФ + «AI стала инфраструктурой» (@moibiz, май 2026)
+
+Два датапоинта из [[sources/2026-05-19-tg-moibiz-may-14-19-2026|дайджестов @moibiz]] (госканал Минэкономразвития), дайджесты 7543 (15–17 мая) и 7555 (18 мая):
+
+| Сигнал | Значение | Source |
+|---|---|---|
+| Россиян, ежемесячно тратящих деньги на услуги ИИ | ~**10%** | `[conf:medium, src:2026-05-18]` |
+| Качественная рамка: «ИИ для бизнеса перестал быть экспериментом и стал инфраструктурой» | — | `[conf:medium, src:2026-05-18]` |
+
+**Source:** госканал @moibiz, оба числа — вторичные пересказы (via vk.cc), методология не раскрыта → `confidence: medium`.
+
+**Маркетинговое значение.**
+
+- **~10% consumer AI spend** — это первый зафиксированный в вики **demand-side датапоинт по платному потреблению ИИ конечными пользователями** в РФ (в отличие от корпоративного § 1 и фриланс-исполнительского § 7). 10% ежемесячно платящих за ИИ-сервисы — это уже не маргинальная привычка: монетизируемое потребление сформировалось у заметной доли населения. Для ГРО как платного AI-продукта это рыночный фон — готовность платить за ИИ-сервис существует и измерима. `[conf:medium, src:2026-05-18]`
+- **«AI стала инфраструктурой»** — институциональная (госканал) формулировка того же сдвига, что и [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026|вторая фаза AI-нарратива]]: от «попробовать ИИ» к «ИИ как данность». Подтверждает, что контент ГРО уже не должен «продавать идею ИИ» — он должен решать «как встроить в систему роста». Согласуется с тезисом § 1 (71% инвестируют → early/late majority). `[conf:medium, src:2026-05-18]`
+
+Связь с растущим креативным классом (+46% компаний/ИП в рекламе/PR/маркетинге/дизайне за 3 года из того же дампа) — см. [[evolving-strict/market-data/ru-creative-industries-public-perception-2026]]. Поведенческо-мотивационный профиль предпринимателей того же дампа — [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]]. [conf:low, src:2026-05-19]
+
 ## Cross-table: что куда влияет
 
 | Метрика | Первичный effect | Cross-link на страницы вики |
@@ -109,6 +142,8 @@ namespace: mkt
 | 41% готовы менять работу `[conf:medium, src:2026-04-03]` | пул для career-сегмента GRO | [[canon/target-audience/gro-segments]] |
 | 44–54 дня / 1,3% ВВП от инсомнии `[conf:medium, src:2026-04-11]` | productivity tax — angle для «100% Энергии» | [[canon/target-audience/gro-segments]], [[canon/product-knowledge/gro-app-store-listing]] |
 | Яндекс 85% ad budgets под ИИ `[conf:medium, src:2026-05-07]` | demand-side AI-автоматизации в perf-маркетинге | [[evolving/content-trends/perf-marketer-automation-narrative-2026]], [[evolving/industry-trends/ai-marketing-limits-2026]] |
+| ИИ-фриланс: спрос 2k→15k, чек +43% `[conf:medium, src:2026-05-14]` | ИИ-навык как дефицитный/дорожающий → skill-shift нарратив | [[canon/target-audience/gro-segments]], [[evolving/industry-trends/ru-creator-economy-monetization-2026]] |
+| ~10% россиян платят за ИИ ежемесячно + «AI стала инфраструктурой» `[conf:medium, src:2026-05-18]` | consumer demand-side: монетизируемое ИИ-потребление существует | [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]], [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026]] |
 
 ## TTL и refresh policy
 
@@ -118,7 +153,7 @@ namespace: mkt
 
 ## Caveat про источники
 
-Все пять блоков данных — **вторичные пересказы редакции Russian Business** без прямой атрибуции к первичному исследованию (кроме блока 5, где упомянут RAND Europe). Это типично для новостного формата rb.ru, но снижает confidence до `medium`. Для использования цифр в строгом контексте (питч клиенту, презентация) — рекомендуется верификация на первоисточнике через поиск по исходной формулировке.
+Большинство блоков данных — **вторичные пересказы деловой редакции** (rb.ru, Ведомости через скриншот, Inc. Russia) без прямой атрибуции к первичному исследованию (кроме блока 5, где упомянут RAND Europe). Это типично для новостного формата, но снижает confidence до `medium`. Блок 7 (ИИ-фриланс, май 2026) — данные платформ Workzilla + chad, retold через Inc. Russia. Для использования цифр в строгом контексте (питч клиенту, презентация) — рекомендуется верификация на первоисточнике через поиск по исходной формулировке.
 
 ## Backlinks
 
@@ -135,3 +170,4 @@ _11 pages link to this one._
 - [[sources/2026-04-16-forbes-megafon-megaritm-cvm]]
 - [[sources/2026-05-05-tg-opora-russia-apr-may-2026]]
 - [[volatile-strict/industry-news/megafon-megaritm-cvm-platform-2026-04]]
+- [[sources/2026-05-19-tg-incrussiamedia-may-11-17-2026]] — первоисточник §7 (ИИ-фриланс спрос/цена)

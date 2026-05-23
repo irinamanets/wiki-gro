@@ -9,8 +9,8 @@ tags: [competitor, t-bank, visual-identity, creative-template, telegram, content
 confidence: medium
 stale: false
 created: 2026-04-17
-updated: 2026-04-17  # +#10574 Щербаков-эпизод Stars-vs-Fraudsters (второй YT-thumbnail counter-example), +#10575 olive-green egg-cashback (новая sub-palette dated-offer), +#10577 Т-Образование math-course (yellow-block с textbook-style hero), +#10583 Т-Путешествия лето (canonical yellow-block с объектным hero) — раскрывают новые variations и закрепляют YT-counterexample
-sources: [sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10537-vzr-poleteli.md, sources/2026-04-17-tg-tinkoffbank-10539-tolk-pro-speakers.md, sources/2026-04-14-tg-tinkoffbank-10546-stars-vs-fraudsters.md, sources/2026-04-14-tg-tinkoffbank-10547-gac-tpremium-partnership.md, sources/2026-04-14-tg-tinkoffbank-10557-daily-cashback-streak.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10567-utair-closed-sale.md, sources/2026-04-14-tg-tinkoffbank-10570-platinum-wildlife.md, sources/2026-04-14-tg-tinkoffbank-10572-cashback-100-typographic.md, sources/2026-04-14-tg-tinkoffbank-10574-scherbakov-stars-vs-fraudsters.md, sources/2026-04-14-tg-tinkoffbank-10575-egg-cashback-olive.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md]
+updated: 2026-05-19  # +май-батч 10694-10718: #10706 Доли (lifestyle-hero + mint headline-overlay, не yellow-block) и #10714 «Кэшбэк месяца» (lifestyle-shopping hero, жёлтый product-crate как brand-accent на нейтральном BG) — подтверждают lifestyle-object-hero вариацию и sub-brand-palette discipline
+sources: [sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10537-vzr-poleteli.md, sources/2026-04-17-tg-tinkoffbank-10539-tolk-pro-speakers.md, sources/2026-04-14-tg-tinkoffbank-10546-stars-vs-fraudsters.md, sources/2026-04-14-tg-tinkoffbank-10547-gac-tpremium-partnership.md, sources/2026-04-14-tg-tinkoffbank-10557-daily-cashback-streak.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10567-utair-closed-sale.md, sources/2026-04-14-tg-tinkoffbank-10570-platinum-wildlife.md, sources/2026-04-14-tg-tinkoffbank-10572-cashback-100-typographic.md, sources/2026-04-14-tg-tinkoffbank-10574-scherbakov-stars-vs-fraudsters.md, sources/2026-04-14-tg-tinkoffbank-10575-egg-cashback-olive.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md]
 namespace: mkt
 ---
 
@@ -83,6 +83,13 @@ namespace: mkt
 Это **9 observed режимов** визуального протокола для одного consumer-бренда — уровень design-disciplины очень высокий.
 
 **Перенос для GRO:** не пытаться иметь «один креатив-шаблон навсегда», а **table of creative-modes → conditions → when-to-use**. Каждый режим attach'ен к specific content-goal или campaign-type. Это требует (a) design-system с flex параметрами (palette/composition/hero-type как variable), (b) editorial disciplинe на brand-team (knowing which mode when), (c) enough creative-production bandwidth для всех режимов.
+
+**Обновление 2026-05-19 (май-батч #10706 / #10714) — подтверждение lifestyle-object-hero режима.** Два новых экземпляра укрепляют ранее зафиксированную «lifestyle-object hero»-вариацию (см. #10583), без новых режимов:
+
+1. **#10706 Доли «Обновляем гардероб и технику к лету».** Lifestyle-hero (модель в белой блузе) + headline-overlay на **mint-акценте**, не классический yellow-block. Подтверждает: Доли как sub-brand уходит от consumer-yellow (lavender/mint палитра, см. [[evolving/competitor-positioning/tbank-doli-bnpl-sub-brand-palette-lavender]]) и использует **lifestyle-hero + headline-overlay** вместо flat-lay объектов.
+2. **#10714 «Кэшбэк месяца».** Lifestyle-shopping-hero (модель держит жёлтый перфорированный product-crate с продуктами на нейтрально-сером BG) — **жёлтый продуктовый ящик как brand-accent-объект**, а не yellow-block-плашка. Это **lifestyle-object hero** в чистом виде (по модели #10583), где brand-color живёт в hero-объекте, а не в нижней плашке. Подтверждает: для recurring-loyalty-офферов Т-Банк предпочитает warm-lifestyle-сцену, а не product-flat-lay. `[conf:high, src:2026-05-15]`
+
+Оба — не новые режимы, а **подтверждение sub-brand-palette discipline** и lifestyle-object-hero-вариации из апрельской серии. Полный визуал — в [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]].
 
 ## Counter-example: YouTube thumbnail ломает шаблон
 
@@ -158,6 +165,7 @@ namespace: mkt
 - [[evolving/competitor-positioning/tbank-doli-bnpl-sub-brand-palette-lavender]] — Доли lavender (5-й sub-brand, BNPL consumer)
 - [[evolving/competitor-positioning/tbiznes-smb-support-defensive-positioning-2026]] — Т-Бизнес beige/tan (B2B SMB)
 - [[evolving/industry-trends/tbank-corporate-platform-stack-2026]] — T-Bank как платформенный игрок
+- [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]] — май-батч: #10706 Доли mint-overlay, #10714 «Кэшбэк месяца» lifestyle-crate hero
 
 ## Backlinks
 

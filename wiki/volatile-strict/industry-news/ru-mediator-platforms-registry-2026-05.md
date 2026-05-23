@@ -65,5 +65,6 @@ namespace: mkt
 
 - [[evolving-strict/market-data/ru-ecommerce-platformization-reshetnikov-2026]] — нарратив платформизации
 - [[volatile-strict/industry-news/ru-fns-outstaff-control-2026-05]] — параллельные регуляторные меры
+- [[volatile-strict/industry-news/ru-self-employed-platform-preferences-2026]] — следующий шаг платформенной регуляторики: преференции самозанятым ≥2,9% (окт 2026) [conf:low, src:2026-05-14]
 - [[evolving/competitor-positioning/novatorix-moibiz-ai-consultant-2026]] — Минэк-инструменты для платформенной экономики
 - [[sources/2026-05-14-tg-moibiz-may-5-14-2026]] — источник

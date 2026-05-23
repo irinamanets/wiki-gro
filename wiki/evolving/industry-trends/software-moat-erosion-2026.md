@@ -9,12 +9,13 @@ tags: [moat, saas, distribution, personal-brand, ai-sales, network-effects, agen
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +cgevent дамп 8-19 мая: Higgsfield Super Computer как live-иллюстрация «интерфейсы уходят» в контент-продакшне (агент сам выбирает модель/коннекты) + первый тест показал разрыв «агент сделает всё» ≠ «сделает хорошо». Prior: +Gorny RevenueCat thesis (3rd voice)
+updated: 2026-05-22  # +Gorny Descript data-point (5074): специализированный prosumer-продукт обходится general-purpose агентом из коробки — commoditization сверху. Prior: +cgevent Higgsfield, +Gorny RevenueCat thesis
 sources:
   - sources/2026-04-14-peregudov-telegram-dec25-apr26.md
   - sources/2026-04-11-podcast-ai-solopreneur.md
   - sources/2026-04-14-tg-startupoftheday-mar-apr-2026.md
   - sources/2026-05-19-tg-cgevent-may08-19-2026.md
+  - sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md
 namespace: mkt
 ---
 
@@ -82,6 +83,16 @@ Caveat: Перегудов оговаривается, что в энтерпр�
 **Значение для тренда:** Горный переводит тезис Перегудова в **публично-рыночную плоскость** (биржевые мультипликаторы, капитализация, VC-оценки). Если Перегудов говорит про микро-SaaS и личный бренд как ответ, то Горный атакует **mid-cap B2B SaaS** (DataDog, CrowdStrike, RevenueCat) как следующую волну переоценки. Это расширяет тренд от «первые признаки в стартап-сцене» до «публичные рынки начинают видеть ту же динамику».
 
 Hook для GRO-контента: «API-wrapper SaaS, который раньше стоил $500M, завтра будет стоить $50M. Ваша карьера — не API-wrapper. Ваш рост — тоже.» (anti-positioning через аналогию, требует осторожной формулировки).
+
+### Горный 2.0 — Descript: prosumer-инструмент vs general-purpose агент (2026-05-18)
+
+Горный возвращается к тезису на **prosumer-уровне** ([[sources/2026-05-22-tg-startupoftheday-may-14-19-2026|пост 5074]], 2026-05-18). Тестирует Descript ($24/мес, автомонтаж видео; последний раунд 2023 при оценке ~$0,5 млрд). Качеством доволен. Но pointe:
+
+> «А ещё страшнее, что с другим роликом Claude Code то же самое сделал. Без отдельного стартапа и отдельных денег. Просто из коробки. Почти в один промпт. Как бы бесплатно, в рамках общей подписки.» — Горный, 2026-05-18
+
+**Новизна data-point'а:** RevenueCat-кейс был про **B2B SaaS повторяемый кодом**. Descript-кейс — про **специализированный prosumer-продукт, который обходится general-purpose агентом из коробки**. Это другая механика эрозии: не «конкурент скопирует твой код», а «универсальный агент в составе чужой подписки делает то же самое бесплатно, как побочный эффект». Специализированный продукт теряет moat не от клона, а от **commoditization сверху** — когда задача становится одним из тысяч промптов в general-purpose инструменте.
+
+Это усиливает тренд-тезис «интерфейсы уходят» (Перегудов, пункт 3): Descript — это специализированный интерфейс к задаче «убери паузы из видео», а Claude Code решает её без выделенного интерфейса. Связка с completion-vs-experience frame'ом Горного — [[canon/marketing-frameworks/llm-bot-customer-tolerance-gorny-frame]].
 
 ## Конец эпохи network effects как монополий
 

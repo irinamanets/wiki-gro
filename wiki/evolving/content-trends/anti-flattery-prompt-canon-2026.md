@@ -5,12 +5,12 @@ type: page
 subtype: trend
 layer: evolving
 theme: content-trends
-tags: [content, prompt-engineering, anti-flattery, ai, hooks, positioning, telegram, ugc]
+tags: [content, prompt-engineering, anti-flattery, anti-hallucination, ai, hooks, positioning, telegram, ugc]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-neuraldvig-may-5-12-2026.md, sources/2026-04-14-tg-gurinovich-shares-jan-mar-2026.md, sources/2026-05-14-tg-gro-me-370-377.md]
+updated: 2026-05-19  # +вторая ось honesty-контрактов: anti-hallucination промт @neuraldvig 10710 (don't fabricate, mark [Не проверено]) расширяет каталог с anti-flattery (tone) на anti-hallucination (factuality)
+sources: [sources/2026-05-14-tg-neuraldvig-may-5-12-2026.md, sources/2026-04-14-tg-gurinovich-shares-jan-mar-2026.md, sources/2026-05-14-tg-gro-me-370-377.md, sources/2026-05-19-tg-neuraldvig-may-13-19-2026.md]
 namespace: mkt
 ---
 
@@ -53,6 +53,39 @@ namespace: mkt
 Промт ретранслирован с Твиттера/Reddit (точный первоисточник не указан в посте). Это **первое известное нам появление формализованного anti-flattery промта в массовом RU AI-канале** (по выборке трёх дампов @neuraldvig за 2026-04-07..2026-05-12 — 150 постов). До этого RU-каналы публиковали generic role-priming («Ты — эксперт по X с 20+ годами опыта»), но не явно anti-flattery контракты.
 
 `[conf:medium, src:2026-05-06]` — wording-эволюция от generic persona-priming к explicit anti-flattery contract — наблюдается как одиночный сигнал и требует подтверждения вторым каналом для перевода в `high`.
+
+## Вторая ось honesty-контрактов — anti-hallucination (May 2026)
+
+Через 9 дней после anti-flattery контракта (10639) тот же канал ([[sources/2026-05-19-tg-neuraldvig-may-13-19-2026|@neuraldvig пост 10710]], 2026-05-15) ретранслирует **anti-hallucination контракт** — поведенческую перенастройку модели по второй оси: не лесть (tone), а **фактологическая честность** (factuality).
+
+Ключевые правила промта 10710 (русскоязычный, в отличие от англоязычного 10639):
+
+> • Никогда не представляй сгенерированную, выведенную, предположенную или логически заключённую информацию как факт.
+> • Если ты не можешь что-либо напрямую подтвердить, скажи: «Я не могу это подтвердить» / «У меня нет доступа к этой информации» / «В моей базе знаний этого нет».
+> • Помечай непроверенную информацию в начале предложения: [Вывод] [Предположение] [Не проверено].
+> • Проси разъяснения, если не хватает информации. Не угадывай и не заполняй пробелы.
+> • Если нарушишь правило — скажи: «Исправление: ранее я сделал не проверенное утверждение».
+
+### Две оси одного мета-запроса на честность
+
+| Ось | Anti-flattery (10639) | Anti-hallucination (10710) |
+|---|---|---|
+| Что отключает | RLHF-вежливость, поддакивание | over-confident выдачу сгенерированного за факт |
+| Ключевая фраза | «don't validate, don't soften, don't flatter» | «никогда не представляй сгенерированное как факт» |
+| Что требует взамен | критику, оппозицию, blind-spot exposure | пометки [Не проверено], явный отказ при незнании |
+| Тип честности | эмоциональная/мотивационная (tone) | фактологическая (factuality) |
+| Язык промта | англоязычный (Twitter/Reddit lineage) | **русскоязычный** (RU-адаптация) |
+
+Это не два разных тренда, а **две оси одного мета-запроса**: RU AI-аудитория хочет, чтобы модель была честной по обеим осям — не льстила и не выдумывала. Появление **русскоязычной** версии (10710) — сигнал, что honesty-by-contract выходит из стадии «копируем английский промт» в стадию «формулируем по-русски под себя». `[conf:medium, src:2026-05-15]`
+
+### Импликация для GRO
+
+Honesty-якорь GRO («спорит, но не отказывает» + «структура, не одобрение», см. [[canon/positioning/gro-value-proposition]]) теперь валидируется **по двум осям**:
+
+- **Anti-flattery** — GRO не льстит (совпадает с 10639), уже разобрано выше.
+- **Anti-hallucination** — GRO как продукт self-development даёт **структурированную методологию** (4 шага тренировки), а не «уверенный ответ на всё». Это естественно anti-hallucination by design: продукт не претендует знать ответ за пользователя, а ведёт его через структуру. Hook: **«Все пишут промты, чтобы ChatGPT перестал выдумывать и льстить. GRO не делает ни того, ни другого — by design.»**
+
+**Anti-pattern (тот же, что для anti-flattery):** не публиковать собственный anti-hallucination промт «для ChatGPT» — это рекламирует конкурента. Промт 10710 упоминается как **внешнее доказательство** двухосевого honesty-запроса, не как контент-актив GRO.
 
 ## Почему это валидирует позицию GRO
 
@@ -119,7 +152,8 @@ namespace: mkt
 - [[canon/positioning/gro-value-proposition]] — позиционирование GRO с якорем «спорит, но не отказывает»
 - [[canon/product-knowledge/gro-app-overview]] — продуктовая механика, реализующая anti-flattery
 - [[evolving/customer-feedback/gro-app-store-reviews]] — пользовательские отзывы, валидирующие anti-flattery восприятие
-- [[sources/2026-05-14-tg-neuraldvig-may-5-12-2026]] — исходный источник с промтом 10639
+- [[sources/2026-05-14-tg-neuraldvig-may-5-12-2026]] — исходный источник с промтом 10639 (anti-flattery)
+- [[sources/2026-05-19-tg-neuraldvig-may-13-19-2026]] — источник промта 10710 (anti-hallucination, вторая ось)
 - [[sources/2026-04-14-tg-gurinovich-shares-jan-mar-2026]] — оригинальный тезис Гуриновича про AI-лесть
 - [[sources/2026-05-14-tg-gro-me-370-377]] — UGC Дарьи с verbatim валидацией anti-flattery позиции
 

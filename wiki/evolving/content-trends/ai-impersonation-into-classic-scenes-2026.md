@@ -9,8 +9,8 @@ tags: [content, ai, video, deepfake, viral-pattern, hollywood, face-replacement]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md]
+updated: 2026-05-19  # +5-й канал: «себя на матче»/«Нейротренды» Яндекс (mass-consumer self-insertion, @techno_yandex 5232)
+sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-19-tg-techno-yandex-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -64,6 +64,17 @@ namespace: mkt
 - **Бен Аффлек для Dunkin' на Super Bowl** `[conf:medium, src:2026-05-07]`
 
 **Прецедент:** **дипфейк стал брендовым сервисом** с известными клиентами — **самое сильное legitimization-движение** для технологии. Когда Stone+Parker (South Park) делают это для Super Bowl, это **уже не «спорный эксперимент»**, а **проверенная креативная техника**.
+
+### 5. «Себя на матче» / «Нейротренды» (RU-mass, Яндекс) — @techno_yandex 5232
+
+**Канал:** [@techno_yandex](https://t.me/techno_yandex) (видео 5232, 15 мая 2026, [[sources/2026-05-19-tg-techno-yandex-may-14-19-2026]]) — рубрика «Нейротренды».
+
+**Что делает:** Яндекс разбирает массовый AI-тренд «все в ленте оказались фанатами спорта и подозрительно фотогенично попали в объектив на матче» — **self-insertion в событие, на котором человек не был** («спойлер: на стадион никто не ходил»). Формат поста — «откуда взялся этот ИИ-тренд и **как его повторить**».
+
+**Чем важен этот 5-й канал:**
+- Это **mass-consumer self-insertion** (не creator-fanbase, как FuruFuru, а «обычные люди в своей ленте») — формат спустился из creator-нишы в широкое потребление.
+- **Вендорская легитимация + how-to от Яндекса** превращает self-insertion в нормализованную массовую практику в RU-сегменте (тот же паттерн awareness-расширения, что в [[evolving/content-trends/ai-photoshoot-prompt-framework-2026]] и [[evolving/content-trends/ai-in-pr-workflows-2026]]).
+- Подтверждает гипотезу ниже («self-insertion будет расти как новый стандартный creator-tool») — но даже шире: это уже **consumer-tool**, не только creator.
 
 ## Структурное значение
 
@@ -133,3 +144,5 @@ CTA в конец: «**Какой бы AI-tool ни был — нужен пла
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]] — anchoring для self-insertion как «solo creator = студия»
 - [[volatile-strict/competitor-news/bach-art-video-gen-2026-05]] — Bach.Art позиционирует «без face-fence», прямо встает в этот тренд
 - [[evolving/content-trends/ai-flattery-dark-pattern]] — параллельный AI-content паттерн (там — про текст, тут — про face)
+- [[evolving/content-trends/ai-photoshoot-prompt-framework-2026]] — родственный Яндекс-how-to (AI-фотосессия, тот же канал/awareness-фронт)
+- [[sources/2026-05-19-tg-techno-yandex-may-14-19-2026]] — 5-й канал «себя на матче»/«Нейротренды»

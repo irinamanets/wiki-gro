@@ -9,8 +9,8 @@ tags: [ai, energy, bottleneck, counter-narrative, awareness, content]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-startupoftheday-apr-may-2026.md]
+updated: 2026-05-19  # +2-й независимый RU counter-anchor (Себрант EV-vs-AI энергия, @techsparks 5604)
+sources: [sources/2026-05-05-tg-startupoftheday-apr-may-2026.md, sources/2026-05-19-tg-techsparks-monet-economist-may-2026.md]
 namespace: mkt
 ---
 
@@ -102,6 +102,14 @@ GRO — фитнес-приложение, не AI-инфраструктура.
 
 В фитнес-домене это становится: «вы ждёте, что научные исследования отменят необходимость двигаться. Не отменят. Spinal mobility, sarcopenia после 40, BMI > 25 — это **inevitable trajectories**, и вы уже на них».
 
+## Второй независимый RU counter-anchor — Себрант (EV-vs-AI энергия, май 2026)
+
+К расчёту Горного добавился **второй независимый RU-голос** против AI-energy-FUD: Андрей Себрант ([@techsparks 5604](https://t.me/techsparks/5604), 2026-05-16, verified expert) атакует тот же тезис **с другой стороны** — через сравнение AI-датацентров с «милыми» электромобилями. Числовые данные вынесены в отдельную strict-страницу: [[evolving-strict/market-data/ai-vs-ev-energy-consumption-2026|AI-датацентры vs электромобили]].
+
+Кратко: дата-центры США потребляют ~260 ТВт·ч/год (AI-нагрузка ~100+ ТВт·ч), а зарядка электромобилей в 2025 — ~24 ТВт·ч и **удвоилась за год**. EV потребляют лишь в 4× меньше, чем AI-датацентры, и по потребности в новой генерации уже сравнимы. Тезис Себранта: «когда клеймят электрические аппетиты ИИ, активисты лукавят — электропереход в автотранспорте требует не меньше новой генерации».
+
+**Почему это усиливает страницу:** два RU-эксперта (Горный — макро-расчёт «на пальцах»; Себрант — сравнение с EV) **независимо** приходят к выводу, что AI-energy-bottleneck преувеличен. Это поднимает counter-narrative с уровня «одна гипотеза» к «два независимых голоса с разными методами». При появлении 3-го независимого подтверждения (IEA/Goldman/think-tank) — кандидат на промоушн рамки AI-energy-debunk в `canon/marketing-frameworks`.
+
 ## Сочетание с остальной content-картой
 
 Горный thesis по своей сути — **counter-FUD anchor** для AI-discourse:
@@ -110,6 +118,7 @@ GRO — фитнес-приложение, не AI-инфраструктура.
 |---|---|---|---|
 | Mainstream-FUD | (массовый media-нарратив) | «AI остановит scaling, gigawatts кончатся» | (нет в нашей вики, это контраст) |
 | **Горный (VC-observer)** | [[sources/2026-05-05-tg-startupoftheday-apr-may-2026]] | **Энергии хватит — 0.1% ВВП планеты** | (этот hook) `[conf:low, src:2026-05-03]` |
+| **Себрант (ex-Яндекс)** | [[sources/2026-05-19-tg-techsparks-monet-economist-may-2026]] | **EV жрут лишь в 4× меньше AI — bottleneck не уникален для ИИ** | [[evolving-strict/market-data/ai-vs-ev-energy-consumption-2026]] `[conf:medium, src:2026-05-16]` |
 | Горный (тот же автор, complementary) | [[sources/2026-04-27-tg-startupoftheday-apr-15-27-2026]] | «AI не даст макро-эффекта — feedback loop через увольнения» | [[evolving/content-trends/invisible-ai-paradox-gorny-hook]] |
 | Анник `cgevent` (контр-anchor cost-side) | [[sources/2026-05-05-tg-cgevent-apr30-may05-2026]] | «AI-tooling уже дороже зарплат» | [[evolving-strict/market-data/ai-coding-tools-cost-explosion-2026]] |
 
@@ -124,6 +133,7 @@ GRO — фитнес-приложение, не AI-инфраструктура.
 
 ## Связанные страницы
 
+- [[evolving-strict/market-data/ai-vs-ev-energy-consumption-2026]] — второй RU counter-anchor (Себрант, EV-vs-AI цифры)
 - [[evolving/content-trends/invisible-ai-paradox-gorny-hook]] — complementary thesis от того же автора
 - [[evolving-strict/market-data/ai-coding-tools-cost-explosion-2026]] — opposite anchor cost-side
 - [[evolving-strict/competitor-metrics/llm-token-pricing-deflation-2025-2026]] — связанная цена-токенов deflation thesis

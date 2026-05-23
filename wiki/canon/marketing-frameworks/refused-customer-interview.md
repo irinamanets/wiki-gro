@@ -9,8 +9,8 @@ tags: [framework, research, jtbd, conversion, customer-development]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +Feedback Loop sales→marketing connection (PR DOCTOR 3-dept frame): структурированные причины отказа в CRM как scalable proxy для refused-customer interview
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md]
+updated: 2026-05-19  # +AI-persona usability-тест (Петроченков) как синтетический pre-launch-прокси для post-fact refused-customer interview
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md]
 namespace: mkt
 ---
 
@@ -139,7 +139,19 @@ Practical implication для GRO product/marketing team:
 
 Cross-link: [[canon/marketing-frameworks/subscription-consumption-model-shift-tokovinin]] — детальный operational framework того же Tokovinin-фрейма, включая extended decision tree и emotional-reaction-as-signal.
 
+## Синтетический pre-launch-прокси: AI-persona usability-тест (Петроченков, май 2026)
+
+Refused-customer interview работает **post-fact** — после того, как за трафик уже заплачено и человек отказался. Антон Петроченков ([[sources/2026-05-19-tg-petrochenkow-20260519-112501]], посты 1301–1302) предлагает **дешёвый pre-fact прокси**: прогнать лендинг через LLM, вошедшую в роль аватара ЦА, и собрать те же 4 среза («что зацепило / что насторожило / что непонятно / что отталкивает»). Заявленная сходимость с реальными usability-тестами людей — **до 80%** `[conf:medium, src:2026-05-15]`.
+
+Связь с doctor-patient доктриной:
+- AI-аватар ловит **симптомы восприятия** (валидный usability-сигнал) и **не должен** проектировать решение — промпт явно запрещает «мыслить как маркетолог», что удерживает его в doctor-patient рамке и не даёт скатиться в Ford-trap.
+- Но это симуляция: она даёт **гипотезу дыр** до запуска, а не приоритизацию по реальному оттоку. Приоритет («где отвалилось больше людей в абсолюте») по-прежнему берётся из живой воронки + интервью с настоящими отказниками.
+
+**Рекомендуемая последовательность:** AI-persona-тест → дешёвая гипотеза дыр перед заливом трафика → правки очевидного → запуск → refused-customer interview на реальных отказниках для верификации и приоритизации. Полная методология — [[canon/marketing-frameworks/ai-persona-usability-test-petrochenkov]].
+
 ## Связь с другими фреймворками
+
+- [[canon/marketing-frameworks/ai-persona-usability-test-petrochenkov]] — синтетический pre-launch-прокси: LLM в роли аватара проходит лендинг до запуска трафика, ловит грубые дыры воронки (комплементарно к post-fact интервью с отказниками).
 
 - [[canon/marketing-frameworks/marketing-audit-protocol]] — refused-customer interview часто следует после протокола сверки, когда тот выявил расхождение в понимании ЦА.
 - [[canon/marketing-frameworks/hyperseg-funnel-replication]] — feeding loop: отказники обогащают описание сегментов для следующей итерации связок.
@@ -157,6 +169,7 @@ Cross-link: [[canon/marketing-frameworks/subscription-consumption-model-shift-to
 - [[sources/2026-05-05-tg-petrochenkow-apr-may-2026]] — продолжение (niche-RACE-mapping)
 - [[sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups]] — Токовинин (amoCRM) Ford «faster horse» / doctor-patient framing
 - [[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict]] — PR DOCTOR 3-dept frame: Feedback Loop как organizational precondition для refused-customer interview
+- [[sources/2026-05-19-tg-petrochenkow-20260519-112501]] — Петроченков: AI-persona usability-тест как синтетический pre-launch-прокси
 - [[canon/marketing-frameworks/subscription-consumption-model-shift-tokovinin]] — operational framework того же Tokovinin-фрейма
 
 ## Backlinks

@@ -9,8 +9,8 @@ tags: [ai-narrative, content-trend, narrative-evolution, risk-pivot, telegram, t
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md]
+updated: 2026-05-19  # +mainstream-слой (Economist acceptance-pivot) + аудиторный сигнал (Шмидт освистан) из @techsparks 5603/5605 — движение к 3-й фазе
+sources: [sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-19-tg-rb-ru-may-14-19-2026.md, sources/2026-05-19-tg-techsparks-monet-economist-may-2026.md]
 namespace: mkt
 ---
 
@@ -64,6 +64,22 @@ namespace: mkt
 
 **Где AI-management нарратив сейчас (май 2026):** **на границе 1→2 фазы**. Сигналы 2-й фазы стали появляться у крупных RU management-каналов (TYPICAL), но 1-я фаза продолжает доминировать в широком content-mainstream.
 
+## Mainstream-слой и аудиторные сигналы (май 2026, @techsparks)
+
+Помимо niche-каналов, в мае 2026 зафиксированы два сигнала с **разных уровней** нарративной системы — оба через [[sources/2026-05-19-tg-techsparks-monet-economist-may-2026|@techsparks]] (Себрант, verified expert):
+
+### Mainstream-пресса → принятие (Economist, 3-я фаза)
+
+The Economist (номер 16–22 мая 2026, обложка «The jobs apocalypse») в трёх статьях номера сменил тон с «пузырь / запретить / остановить» на **адаптацию**: anti-Luddite позиция, обсуждение экономических реакций (национализация бигтехов в области ИИ, налоги) вместо запретов. Подробности — на отдельной странице [[evolving/industry-trends/ai-narrative-acceptance-economist-pivot-2026|Economist-пивот к принятию ИИ]].
+
+**Почему это отдельный, более поздний слой:** niche-каналы (TYPICAL/WTF_HR) — ранние индикаторы 2-й фазы; The Economist — **mainstream деловой консенсус-голос**. Его переход к принятию маркирует, что нарратив достиг широкой аудитории decision-makers и движется к **3-й фазе (mainstream / matter-of-fact)**. То есть пока RU management-каналы только входят во 2-ю фазу, global mainstream-пресса уже на подступах к 3-й.
+
+### Аудитория-консерватор (Шмидт освистан)
+
+Эрик Шмидт (ex-CEO Google) на выпускной речи в Университете Аризоны сравнил компьютеры своей юности с ИИ — и был **громко освистан студентами**. Слова про «the future remains unwritten, the class of 2026 has real power to shape how AI develops» не помогли. Себрант: «студенты в роли консерваторов — интересно меняются настроения».
+
+**Что это значит для фазовой модели:** сопротивление сместилось с прессы/экспертов на **широкую аудиторию (студенты)**. Это согласуется с pattern'ом 2-й фазы — adoption-pressure нарратив («ИИ это будущее, у вас есть власть его формировать», классический 1-фазный tone от tech-евангелиста) встречает **усталость и backlash снизу**. Когда сама adoption-риторика начинает раздражать аудиторию, это сигнал, что 1-я фаза exhausted и аудитория готова к более nuanced 2-фазному tone.
+
 ## Параллельные сигналы 2-й фазы (помимо TYPICAL)
 
 Это не одиночный TYPICAL-сигнал. Параллельно появились:
@@ -84,7 +100,17 @@ namespace: mkt
 
 Сам факт, что Anthropic публикует **80 508 интервью про concerns пользователей AI** — это signal **vendor-side acknowledgment** проблем. Vendor обычно не публикует cons-research; то, что Anthropic делает это в May 2026, **сама по себе нарративная позиция**: «мы вендор, признающий риски». См. [[evolving-strict/market-data/anthropic-81k-ai-concerns-regional-2026|данные регионального среза]].
 
-**Combined signal:** четыре независимых источника (RU consultancy + RU vendor + US/global cautionary case + AI vendor own research) синхронно подтверждают переход в risk-discipline phase. Это **structural shift**, не одна гипотеза.
+### Duolingo CEO walkback (executive-level reversal, май 2026)
+
+Самый сильный новый сигнал 2-й фазы — **публичный откат forced-AI mandate на уровне CEO**. Гендиректор Duolingo Луис фон Ан признал, что **навязывать ИИ сотрудникам было ошибкой**: нейросети пока не способны достичь уровня лучших дизайнеров и художников компании, креативные задачи остаются за людьми. Зафиксировано по [[sources/2026-05-19-tg-rb-ru-may-14-19-2026|RB пост 46212]] (2026-05-14).
+
+**Почему это важнее предыдущих сигналов:**
+- **Тот же CEO развернулся на 180°.** В апреле 2025 фон Ан объявил, что платформа будет **оценивать эффективность персонала по активности работы с нейросетями** — каноничная 1-я фаза («внедряй или отстанешь»). Через год — публичное «это было ошибкой». Это не сторонний скептик (как WTF_HR) и не cautionary case про чужую компанию (как Klarna) — это **тот же лидер, который сам задавал 1-фазную риторику**, теперь её отзывающий.
+- **Источник отката — backlash сотрудников и рынка.** «Идея вызвала волну критики в компании и на рынке. Сотрудники не были готовы использовать ИИ только ради поощрения руководства». То есть откат вызван не технической неудачей продукта, а **сопротивлением forced-adoption механике** — это прямо 2-фазный урок «AI работает, но навязывание дисфункционально».
+
+Это **5-й независимый источник** перехода и первый **executive-level self-reversal**. Структурно — самый дорогой тип сигнала для нарратива: когда автор 1-й фазы публично переходит во 2-ю, это маркирует mainstream-tipping point ближе, чем сторонний скептицизм.
+
+**Combined signal:** пять независимых источников (RU consultancy Григорьев + RU vendor / AI vendor own research Anthropic + US/global cautionary case Klarna + RU management-каналы TYPICAL/WTF_HR + executive self-reversal Duolingo) синхронно подтверждают переход в risk-discipline phase. Это **structural shift**, не одна гипотеза.
 
 ## Что это значит для marketing-narrative ГРО
 
@@ -132,5 +158,8 @@ namespace: mkt
 - [[evolving-strict/market-data/anthropic-81k-ai-concerns-regional-2026]] — vendor-side research, sigh 2-й фазы
 - [[canon/marketing-frameworks/ai-smb-pilot-three-traps]] — параллельный 2-й фаза артефакт (Григорьев / Aiston)
 - [[evolving/industry-trends/ai-productivity-j-curve-2026]] — Klarna $15M reversal datapoint (canonical cautionary 2-й фазы)
-- [[evolving/content-trends/wtf-hr-ai-skeptic-hooks]] — раннее проявление 2-й фазы у RU HR/management каналов
+- [[evolving/content-trends/wtf-hr-ai-skeptic-hooks]] — раннее проявление 2-й фазы у RU HR/management каналов; туда же добавлен Duolingo-reversal hook
 - [[evolving/competitor-positioning/typical-company]] — distributor рамки 2-й фазы
+- [[sources/2026-05-19-tg-rb-ru-may-14-19-2026]] — Duolingo CEO walkback (executive self-reversal, 5-й сигнал 2-й фазы)
+- [[evolving/industry-trends/ai-narrative-acceptance-economist-pivot-2026]] — mainstream-пресса к принятию (Economist), более поздний слой того же сдвига
+- [[sources/2026-05-19-tg-techsparks-monet-economist-may-2026]] — @techsparks 5603 (Economist-пивот) + 5605 (Шмидт освистан)

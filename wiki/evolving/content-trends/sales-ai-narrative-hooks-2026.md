@@ -9,8 +9,8 @@ tags: [content, ai, sales, smb, hooks, telegram, russia]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-14  # +Vyakuba 3-й срез (sources/2026-05-14-tg-vyakuba-may-5-14-2026 пост 6821): hook «Раньше конкурентом был другой менеджер. Сейчас — менеджер с AI-привычкой» — sales-amplifier voice; ранее: enrich 2026-04-15 podcast hooks, 2026-05-05 cycle-2 hooks, 2026-05-14 cycle-3 hooks
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
+updated: 2026-05-19  # +cycle-4 (sources/2026-05-19-tg-olegcloser-may-14-19-2026 пост 2305): symptom-driven hook «зависшие клиенты = первый симптом просадки» + anti-ChatGPT differentiator; ранее: Vyakuba 3-й срез, enrich 2026-04-15 podcast hooks, 2026-05-05 cycle-2, 2026-05-14 cycle-3
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -170,6 +170,32 @@ Reusable для GRO:
 
 Карточка 2292 даёт **explicit ethical caveat** к urgency-инструментам: «дедлайн / дефицит / ажиотаж — честные инструменты только если будут реальными». Это **redundant**, но **delibrate** включение caveat'а — usable pattern для самой GRO: всякий раз когда пишем про urgency, давать «if real» disclaimer, иначе создаём впаривание-vibe.
 
+## Cycle-4 hooks (2026-05-19) — symptom-driven промо + anti-ChatGPT differentiator
+
+Из [[sources/2026-05-19-tg-olegcloser-may-14-19-2026]] (4-й ingest канала, окно 2026-05-14 → 2026-05-19, пост 2305) — повторный промо AI-агента, который вводит **symptom-driven hook-структуру** вместо feature-промо.
+
+### Symptom-first hook «зависшие клиенты = первый симптом просадки»
+
+**Оригинал:** «Первый признак серьёзной просадки в продажах — резкий рост количества зависших клиентов. То есть клиенты обращаются, узнают цены, смотрят ваши презентации и КП, но в итоге перестают выходить на связь и откладывают решение о покупке.»
+
+**Почему работает:** промо начинается **не с продукта, а с диагноза**. Hook называет **наблюдаемый симптом** (зависшие сделки), затем эскалирует его в **диагноз системной проблемы** («сотни зависших сделок, с которыми системно никто не работает»), и только потом подаёт продукт (AI-агент) как лекарство. Структура: симптом → диагноз → лекарство. Это сильнее прямого «у нас новый AI-агент», потому что читатель сначала узнаёт себя в симптоме.
+
+**Адаптация для GRO:** «Первый признак, что вы теряете контроль над днём — растёт число задач, которые вы переносите "на завтра". Они обращаются к вам снова и снова, висят в списке, но решение откладывается.» → GRO как система работы с «зависшими задачами».
+
+### Anti-ChatGPT differentiator hook
+
+**Оригинал:** «Это не банальные советы из ChatGPT, по которым сразу видно, что пишет бот и которые часто вредят продажам. Это точные касания по формуле 100%.»
+
+**Почему работает:** в 2026 аудитория уже **пресыщена generic-LLM выходом** и научилась его распознавать («сразу видно, что пишет бот»). Hook эксплуатирует эту усталость: позиционирует продукт **через отстройку от бесплатной альтернативы снизу**. Формула: «не [generic AI], а [мой методология-vertical AI]». Reusable для любого продукта, конкурирующего с «просто спроси ChatGPT».
+
+**Адаптация для GRO:** «GRO — это не очередной список советов "как быть продуктивным", которые ИИ выдаёт всем одинаково. Это [конкретная механика], адаптированная под твои реальные паттерны.» Differentiator против «просто спроси ChatGPT как мне всё успевать».
+
+### Role-expansion hook «должно быть у каждого: у X, у Y, у Z»
+
+**Оригинал:** «Такой ИИ-Закрыватель сделок должен быть у каждого. У предпринимателя. У РОПа. У менеджера.»
+
+**Почему работает:** перечисление ролей через парцелляцию (короткие отдельные предложения) расширяет self-recognition — каждая роль узнаёт себя. Это TAM-расширяющий hook: один продукт → много ролей. Reusable для GRO: «Ритм нужен каждому. Фаундеру. Фрилансеру. Студенту.»
+
 ## Cross-vertical hooks: Якуба (3-й срез 2026-05-14)
 
 Из [[sources/2026-05-14-tg-vyakuba-may-5-14-2026|3-го среза Якубы]] — sales-trainer в B2B-vertical (vs Шевелев в SaaS/тренинги-vertical). Второй голос про AI-amplifier для sales-команд.
@@ -191,6 +217,8 @@ Reusable для GRO:
 - [[sources/2026-04-14-olegcloser-telegram-dump]] — источник-якорь №1
 - [[sources/2026-05-05-tg-olegcloser-mar-may-2026]] — источник-якорь №2 (cycle-2 hooks)
 - [[sources/2026-05-14-tg-olegcloser-may-7-13-2026]] — источник-якорь №3 (cycle-3 hooks: co-branded carousel + canonical расшифровки + 18-дыр finale)
+- [[sources/2026-05-19-tg-olegcloser-may-14-19-2026]] — источник-якорь №4 (cycle-4: symptom-driven + anti-ChatGPT + role-expansion hooks)
+- [[canon/marketing-frameworks/sales-system-18-holes-shevelev]] — «18 дыр» как content-payload (hook-структура «N дыр в M областях»)
 - [[canon/marketing-frameworks/soprano-discovery-technique]] — 7-вопросный фреймворк как content-shaper
 - [[canon/marketing-frameworks/trust-formula-shevelev-echo]] — 4-карточная декомпозиция доверия как content-asset
 - [[canon/marketing-frameworks/here-and-now-closing-tools-3]] — 3 closing-инструмента как готовый content для urgency-hook'ов с ethical caveat

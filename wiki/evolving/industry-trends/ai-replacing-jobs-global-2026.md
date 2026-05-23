@@ -9,8 +9,8 @@ tags: [ai-displacement, labor-market, layoffs]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-15  # +Морейнис «AI-supervisor return» паттерн (post 7818, 2026-05-05): уволенные возвращаются как консультанты с 2x salary через 6 месяцев — counter-anchor к narrative «AI заменит всех»
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md]
+updated: 2026-05-19  # +RU-голос Гуринович (пост 919, 2026-05-18): «работать надо больше и продуктивнее, не меньше» = народный Jevons + бинарный sorting-test, RU-side подтверждение counter-anchor'а
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -385,8 +385,24 @@ Snap и Block добавляются к уже зафиксированным AI
 
 **Связь с [[canon/marketing-frameworks/b2b-ai-sales-playbook-moreynis|правилом 11]] (AI-self-automating employees):** правило 11 — это **soft альтернатива** этому циклу. Вместо «уволь → найми обратно с 2x» — **«найми того, кто сам себя заменит постепенно»**. Цена меньше, retention выше, headcount меньше, knowledge преемственность лучше.
 
+## RU-голос: Гуринович — «работать надо будет больше, не меньше» (пост 919, 2026-05-18)
+
+К нарративу добавляется ещё один **RU-предпринимательский голос**. Эдуард Гуринович (серийный предприниматель, Forbes 30 under 30; [[sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026]], пост 919 от 2026-05-18) формулирует **anti-«AI = меньше работы»** тезис `[conf:medium, src:2026-05-18]`:
+
+> «Рост производительности труда и ВВП возможен только так. Более того, если кто-то думал (или до сих пор думает!), что работать надо будет меньше — нет, работать надо будет больше и более продуктивно. Либо меньше за мелкий прайс. Так же было с паровыми машинами, история циклична.»
+> — Эдуард Гуринович, [@gurinovich_shares](https://t.me/gurinovich_shares/919), 2026-05-18 `[conf:medium, src:2026-05-18]`
+
+**Куда это ложится в существующую структуру страницы:**
+
+- Паровые-машины-аналогия Гуриновича — это **народная формулировка парадокса Джевонса** (уголь 1865 → больше потребления). Он независимо приходит к тому же выводу, что Леви/Морейнис/Спиридонов выше: AI не сокращает работу, а **переформатирует и интенсифицирует** её. Это **RU-side подтверждение** Jevons-counter-anchor'а (см. [[canon/marketing-frameworks/jevons-paradox-ai-positioning]]).
+- **Жёсткая дихотомия Гуриновича** («больше и продуктивнее **либо** меньше за мелкий прайс») — это, по сути, sorting-test Спиридонова в бинарной обёртке: кто наращивает производительность через AI — растёт; кто нет — деградирует к низкооплачиваемому остатку. Согласуется с fragmented-vs-modular рамкой ([[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]]).
+- **Attribution-вес:** `confidence: medium` — Forbes 30 under 30, квалификация по sidecar `.note.md` релевантна предпринимательской теме (см. правило определения эксперта в [[rules]]). Это **не верифицированный данными факт, а экспертное мнение** — использовать с «по мнению Гуриновича», не как безличный тезис.
+
+**Связь с макро-нарративом.** Тот же тезис про производительность через роботизацию/ИИ Гуринович берёт из growth-стороны интервью Новака (пост 917) — см. [[evolving-strict/market-data/ru-macro-snapshot-may-2026]] (раздел «Growth-сторона»). То есть на RU-уровне «AI → выше производительность → рост ВВП» подаётся как **официальный + предпринимательский консенсус**, а не маргинальный взгляд.
+
 ## Content-hooks для GRO
 - «29% россиян боятся AI-замены -- в 2024 было 9%. Три кратных за год.» (anxiety-hook, Сегмент 1)
+- **Новое (Гуринович 2026-05-18):** «"С AI будем работать меньше"? Нет. Работать будем больше и продуктивнее — либо меньше, но за мелкий прайс. Так было с паровыми машинами, история циклична.» (RU-предпринимательский Jevons-hook; жёсткая дихотомия «расти или деградировать»)
 - «Snap сэкономил $500M на AI-автоматизации. Ваш работодатель может быть следующим.» (urgency)
 - Балансирующий: «54% HR-лидеров уже запустили AI-апскиллинг. Вопрос не "если", а "когда начнёте вы"»
 - **Новое (Forbes 2026-04-16):** «Snap объявил сокращение 16% — и акции выросли на 9%. Рынок больше не боится AI-layoffs, он их поощряет. Значит, вашему CEO тоже скажут: оптимизируй или выйди в отставку.» (investor-loop hook, Сегмент 1–2)
@@ -403,6 +419,8 @@ Snap и Block добавляются к уже зафиксированным AI
 - [[evolving/content-trends/hiring-trends-content-hooks-gro]] -- content hooks найма
 - [[evolving/content-trends/career-audience-hooks-2026]] -- готовые hooks для карьерной аудитории GRO
 - [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] -- зеркальная сторона: окно для мелких на фоне AI-оптимизации крупных
+- [[evolving-strict/market-data/ru-macro-snapshot-may-2026]] -- growth-нарратив Новака (производительность через AI/роботизацию как драйвер ВВП), откуда Гуринович берёт тезис 919
+- [[sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026]] -- RU-голос Гуринович: «работать больше и продуктивнее» (пост 919), народный Jevons
 - [[sources/2026-05-05-tg-recruiter-live-apr-may-2026]] -- counter-anchor: РБК Pro 29.04.2026 «РФ компании судятся за AI-сделанную работу» (legal-side resistance, дополнение к уже существующим counter-anchor'ам)
 - [[evolving-strict/competitor-metrics/ai-leaders-valuations-2026-q2]] -- финансовый контекст Coinbase/Block + биткоин
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] -- глобальный нарратив гонки

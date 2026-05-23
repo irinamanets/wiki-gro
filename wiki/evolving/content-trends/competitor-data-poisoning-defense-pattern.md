@@ -9,8 +9,8 @@ tags: [content, hooks, viral, david-vs-goliath, defensive-pr, parsing, awareness
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-tg-theedinorog-apr-may-2026.md]
+updated: 2026-05-19  # +cross-ref на продуктовый/метрический профиль «Кампуса» (повторное появление в корпусе, питч О-мой-питч 7950)
+sources: [sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-19-tg-theedinorog-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -21,7 +21,7 @@ namespace: mkt
 ## Контекст кейса
 
 - **Атакующий:** «Цифровой кампус» — сервис от Ростелекома + УК «Цифра Инвест» (CEO Андрей Ремпель), работающий в кооперации с Авито и Авито (см. [соглашение 2024](https://www.company.rt.ru/press/news/d473532/)).
-- **Защищающийся:** «Кампус» — частный сервис расписания вузов, инвестиции от Kama Flow + бизнес-ангелов.
+- **Защищающийся:** «Кампус» — частный сервис расписания вузов, инвестиции от Kama Flow + бизнес-ангелов. Продуктовый/метрический профиль (выручка, MAU/DAU, AI-cost-reduction 25×, раунд) — на отдельной странице [[evolving/competitor-positioning/kampus-edtech-ru-2026]] (второе появление в корпусе, питч «О мой питч» #7950 от 2026-05-14).
 - **Атака:** «Цифровой кампус» начал парсить расписание вузов из «Кампуса».
 - **Defensive payload:** «Кампус» подменял данные на следующие сообщения внутри своего парсимого endpoint:
 
@@ -91,4 +91,6 @@ Counter-pattern: если конкурент применит data-poisoning п�
 - [[evolving/content-trends/anti-authority-positioning-hook]] — близкий по духу pattern «малый против системы»
 - [[evolving/content-trends/contrarian-framing-expert-telegram]] — общий narrative-фрейминг
 - [[canon/marketing-frameworks/external-validation-trap]] — почему лучше не ждать «легитимизации»
+- [[evolving/competitor-positioning/kampus-edtech-ru-2026]] — продуктовый/метрический профиль «Кампуса» (второе появление в корпусе)
 - [[sources/2026-05-05-tg-theedinorog-apr-may-2026]] — origin source
+- [[sources/2026-05-19-tg-theedinorog-may-14-19-2026]] — источник второго появления «Кампуса» (питч 7950)

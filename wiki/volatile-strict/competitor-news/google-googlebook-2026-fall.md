@@ -9,14 +9,14 @@ tags: [google, hardware, laptop, ai, googlebook, asus, lenovo, distribution]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-techsparks-may-2026.md]
+updated: 2026-05-19  # +vcnews 61333 (2026-05-13) second-source + детали: ноутбуки на ОБЪЕДИНЁННЫХ Android+ChromeOS с интеграцией Gemini Intelligence (ИИ даже в указателе мыши), первые модели осенью 2026, цена/характеристики пока неизвестны
+sources: [sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md]
 namespace: mkt
 ---
 
 # Googlebook — Google возвращается в ноутбуки (осень 2026)
 
-**Дата сигнала:** 2026-05-13 (пост 5597 в [[sources/2026-05-14-tg-techsparks-may-2026|@techsparks]], 18:36 UTC) `[conf:medium, src:2026-05-13]`.
+**Дата сигнала:** 2026-05-13 (пост 5597 в [[sources/2026-05-14-tg-techsparks-may-2026|@techsparks]], 18:36 UTC) `[conf:medium, src:2026-05-13]`. **Second-source + детали:** 2026-05-13 (пост 61333 в [[sources/2026-05-19-tg-vcnews-may-12-14-2026|@vcnews]], vc.ru/tech/2922757) `[conf:medium, src:2026-05-13]`.
 
 Google анонсирует возвращение в категорию ноутбуков под брендом **«Googlebook»**. Источник первичный — [notebookcheck.net/Pixel-Laptop-Return-of-Google-laptops-confirmed-with-Googlebooks-launching-this-fall](https://www.notebookcheck.net/Pixel-Laptop-Return-of-Google-laptops-confirmed-with-Googlebooks-launching-this-fall.1294854.0.html).
 
@@ -25,7 +25,14 @@ Google анонсирует возвращение в категорию ноу�
 - **Бренд:** Googlebook `[conf:medium, src:2026-05-13]`
 - **Партнёры по выпуску:** **Asus, Lenovo** `[conf:medium, src:2026-05-13]` (проверенные OEM-партнёры)
 - **Запуск:** **осень 2026** `[conf:medium, src:2026-05-13]`
+- **ОС:** работают на базе **объединённых Android и ChromeOS** `[conf:medium, src:2026-05-13]` (vc.ru-деталь, которой не было в первичном @techsparks-сигнале)
+- **Глубина AI-интеграции:** **Gemini Intelligence интегрирован вплоть до указателя мыши** `[conf:medium, src:2026-05-13]` — ИИ как системный слой, не приложение
+- **Что неизвестно:** цена и характеристики пока не раскрыты `[conf:medium, src:2026-05-13]`
 - **Позиционирование:** AI-first ноутбук от компании, которая «в ИИ действительно понимает и имеет свою крутую линейку продуктов» — Себрант контрастирует с конкурентами, которые «просто лепят этикетку "ИИ" из маркетинговых соображений»
+
+## Cross-source confirmation (vc.ru, 13 мая)
+
+vc.ru как RU-mainstream second-source **подтверждает** факт анонса Googlebook и добавляет две детали, отсутствовавшие в первичном @techsparks-сигнале: (а) ОС — **объединённые Android+ChromeOS** (а не «новая ChromeOS» как можно было трактовать), (б) **Gemini Intelligence интегрирован до уровня указателя мыши**. Это привязывает Googlebook к [[volatile-strict/competitor-news/google-gemini-intelligence-android-2026-05|Gemini Intelligence для Android]] — единый AI-слой across форм-факторов (смартфон → ноутбук).
 
 ## Контекст — история Pixel Laptop
 
@@ -88,6 +95,8 @@ Apple позиционируется как **«AI hardware integration»** (M-s
 ## Связь с другими страницами
 
 - [[sources/2026-05-14-tg-techsparks-may-2026]] — первоисточник пересказа
+- [[sources/2026-05-19-tg-vcnews-may-12-14-2026]] — vc.ru second-source + детали (Android+ChromeOS, AI-указатель мыши)
+- [[volatile-strict/competitor-news/google-gemini-intelligence-android-2026-05]] — единый Gemini-AI-слой across форм-факторов (смартфон → ноутбук)
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — Google 7-я нога; Googlebook добавляет hardware-layer
 - [[volatile-strict/competitor-news/google-gemini-omni-video-2026-05]] — Google Gemini Omni; Googlebook = device для распространения
 - [[volatile-strict/competitor-news/google-gemini-chrome-ai-2026-04]] — Chrome AI integration

@@ -69,3 +69,4 @@ namespace: mkt
 - [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] — соло-формат нарратив
 - [[evolving/industry-trends/ru-smb-sales-q1-2026]] — состояние SMB-спроса
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — ЦА GRO
+- [[volatile-strict/industry-news/ru-self-employed-platform-preferences-2026]] — регуляторное взросление формата (платформенные преференции ≥2,9% за соцстрахование, окт 2026) [conf:low, src:2026-05-14]

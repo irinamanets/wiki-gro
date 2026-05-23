@@ -9,8 +9,8 @@ tags: [ai, b2b, consideration, awareness]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +OpenClaw fully-agentic-team operational signal (@ai_newz 4576, 2026-05-16): сотня агентов, $1,3M/мес токенов, агенты слушают митинги
-sources: [sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-04-14-tg-techno-yandex-mar-apr-2026.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-ai-newz-may-14-19-2026.md]
+updated: 2026-05-22  # +second-RU-attestation $1,3M/мес токенов OpenClaw (@Theedinorogblog 7956 via VC, 2026-05-18) к fully-agentic-team сигналу; +DIY-agent commoditization signal: Кумар Виас сравнивает OpenClaw (broad-integrations) vs Hermes (self-learning + 3-layer memory + cost-routing) — массовизация агент-конструкторов
+sources: [sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-04-14-tg-techno-yandex-mar-apr-2026.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-ai-newz-may-14-19-2026.md, sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes.md, sources/2026-05-19-tg-theedinorog-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -157,6 +157,24 @@ namespace: mkt
 
 **Следствие для GRO-контента.** Хук «команда из 3 человек запускает сотню агентов, которые слушают её митинги и пишут код» — сильный awareness-материал про будущее работы; но обязательно с caveat про стоимость, иначе создаёт ложное ожидание доступности для массового пользователя.
 
+**Second-RU-attestation (2026-05-18).** Цифра **$1,3 млн/мес** (603 млрд токенов за 30 дней) подтверждена вторым независимым RU-источником: [[sources/2026-05-19-tg-theedinorog-may-14-19-2026|@Theedinorogblog 7956]] (через VC.ru) транслирует те же скриншоты статистики трат токенов Петера Штайнбергера. Edinorog добавляет нюанс: «в X пошла волна недоумения, чего так много — мол, проще нанять разработчиков», на что Штайнбергер объяснил, что команда из шести человек много тестирует и «всё экономно делает». То есть **сама стоимость fully-agentic режима стала предметом публичной дискуссии** — это маркер перехода capital-барьера из инсайдерского факта в общеобсуждаемую тему. Второй RU-источник на ту же цифру усиливает её надёжность ([[evolving-strict/market-data/ai-coding-tools-cost-explosion-2026|cost-explosion anchor]] держит inline-маркеры).
+
+## DIY-agent commoditization — Кумар Виас, май 2026
+
+Шестой угол к тренду — **массовизация агент-конструкторов в RU-founder-аудитории**. Роман Кумар Виас ([[sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes|@solokumi пост 416, 2026-05-14]]) публикует practitioner-гайд «как выбрать AI-агента под задачу», сравнивая два open-source тула:
+
+- **OpenClaw** — «широта интеграций»: 50+ платформ из коробки, 13000+ скиллов в реестре, cost-routing через ClawRouters (заявленная экономия 70–90%). Сценарий — операционка в мессенджере.
+- **Hermes** — «самообучение»: пишет себе Skill Document после каждой задачи, трёхслойная память (сессия + долгосрочные факты + Skill Memory), архивация навыков через 90 дней, 200+ моделей через OpenRouter, VPS $5/мес. Сценарий — контент / трендвотчинг / «второй мозг».
+
+Детальный разбор и атрибуция чисел — [[evolving/competitor-positioning/openclaw-vs-hermes-agent-tools-2026|OpenClaw vs Hermes]].
+
+**Что это добавляет к тезису страницы.** Раньше agent-first валидировался top-down (enterprise, mass-media, government, fully-agentic team). Этот сигнал — **bottom-up commoditization**: агент перестал быть «продуктом одной компании» и стал **категорией DIY-инструментов**, которые founder сравнивает в посте как «выбери под задачу». Два следствия:
+
+1. **Self-learning память мейнстримится как ожидаемый атрибут.** «Агент, который накапливает контекст про тебя и не переспрашивает» — больше не дифференциатор, а baseline expectation. Это усиливает раздел про [[canon/marketing-frameworks/harness-engineering-for-ai-agents|harness-инженерию]]: ценность смещается с «у меня есть память» на «что я с этой памятью делаю».
+2. **Cost-routing нормализуется как операционная переменная.** ClawRouters (auto-routing на дешёвую модель) — продуктовая операционализация того же тезиса, что fully-agentic team дорогая ($1,3M/мес): стоимость inference активно оптимизируется на уровне tooling, что снижает capital-барьер из предыдущего раздела. См. экономику в [[evolving/industry-trends/ai-agent-economy-2026|экономике AI-агентов]].
+
+**Следствие для GRO-content.** Появляется anti-positioning «DIY-агент vs готовый продукт»: массовому пользователю не нужен конструктор с VPS и `hermes model` — ему нужен результат из коробки. Это рифмуется с distribution-first прочтением (Табунов выше) и с [[canon/marketing-frameworks/agent-vs-saas-pricing-arbitrage|agent vs SaaS arbitrage]]. `confidence: medium` (verified-эксперт, но single-source promo-grade числа).
+
 ## Supersession watch
 
 - Проверить через 3 месяца: вышел ли OpenClaw в стабильный релиз, появились ли enterprise-конкуренты (Anthropic computer use, OpenAI Operator, etc.), каков реальный темп роста API-first продуктов.
@@ -187,7 +205,10 @@ namespace: mkt
 - [[evolving/industry-trends/marketplace-community-convergence-2026]] — связанный structural тренд commerce community
 - [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] — источник Морейнис «маркетинг для агентов» (пост 7833)
 - [[sources/2026-05-19-tg-ai-newz-may-14-19-2026]] — источник fully-agentic-team сигнала (OpenClaw self-application, @ai_newz 4576)
+- [[sources/2026-05-19-tg-theedinorog-may-14-19-2026]] — second-RU-attestation $1,3M/мес токенов (@Theedinorogblog 7956 via VC)
 - [[evolving-strict/market-data/ai-coding-tools-cost-explosion-2026]] — экономика fully-agentic режима ($1,3M/мес)
+- [[sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes]] — DIY-agent commoditization сигнал (Кумар Виас, OpenClaw vs Hermes)
+- [[evolving/competitor-positioning/openclaw-vs-hermes-agent-tools-2026]] — детальное сравнение двух агент-тулов
 
 ## Backlinks
 

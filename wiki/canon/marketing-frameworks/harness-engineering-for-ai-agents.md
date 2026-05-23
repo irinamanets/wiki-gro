@@ -9,8 +9,8 @@ tags: [ai-agents, harness, content, b2b-sales]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +Stanford 6K-session study квантифицирует тезис: 9× security vulnerabilities в чистом вайбкодинге, Plan Mode + capability scoping + швейцарский сыр получают numerical proof-points; METR Mythos выше 16h reliability ceiling
-sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-products-and-startups-may-2026.md]
+updated: 2026-05-19  # +Advisor pattern (Code w/ Claude 2026): production-форма «7×Haiku» — Haiku-executor с Opus-advisor через tool call; центральная тема конференции = узкое место в инфраструктуре вокруг модели
+sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-products-and-startups-may-2026.md, sources/2026-05-19-tg-products-and-startups-may-15-19-2026.md]
 namespace: mkt
 ---
 
@@ -139,6 +139,10 @@ Cross-link с разделом 2 (pass@k vs pass^k): METR-выбор 50% — э�
 [[sources/2026-05-14-tg-products-and-startups-may-2026]] пост 1744: новая модель/конфигурация (внутреннее кодовое имя «Mythos») попадает на отметку ~16h+ на графике METR при 50% надёжности. **METR подписали границу: «Measurements above 16 hrs are unreliable with our current task suite».** То есть лидер-borderline теперь не модель, а **сам benchmark** — test suite не успевает за моделями.
 
 **Signal:** при разговорах про конкретные модели важнее не их METR-точка, а **тип задачи**: на retryable шаге Mythos может быть избыточно мощным, на non-retryable — даёт reliability headroom. См. раздел 5 выше.
+
+### Update 2026-05-18 — Advisor pattern (Code w/ Claude 2026): productized «7×Haiku»
+
+[[sources/2026-05-19-tg-products-and-startups-may-15-19-2026|Пост 1752]] (дистилляция конференции Code w/ Claude 2026) даёт этому правилу production-форму — **Advisor pattern** (CPO GitHub): дешёвый executor (Haiku) с зарегистрированным дорогим советником (Opus) как **tool call**, к которому он обращается при затруднении. «Семь раз Haiku, один раз Opus» — но не вслепую 7 раз, а Haiku сам решает, когда позвать Opus. Near-Opus intelligence при Haiku-цене. Полная карта 24 mental models конференции — [[evolving/industry-trends/code-with-claude-2026-frameworks]]; там же центральная тема всех докладов = **«узкое место сдвигается в инфраструктуру вокруг модели»**, что и есть тезис этой страницы.
 
 ## 6. Stanford 6K-session study — quantitative proof для всех harness-тезисов
 

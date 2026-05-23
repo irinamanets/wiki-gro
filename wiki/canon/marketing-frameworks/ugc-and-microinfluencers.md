@@ -9,8 +9,8 @@ tags: [content, ugc, influencer-marketing, community]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-19
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku.md]
+updated: 2026-05-22  # +cross-link на 5-уровневую пирамиду Mavrck (Горный 5071): расширяет таксономию вниз — адвокаты/рефералы/лоялисты как отдельные операционные сегменты
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -42,6 +42,8 @@ namespace: mkt
 ## Микроинфлюенсеры
 
 **Микроинфлюенсер** — автор с небольшой (до 30 тыс. подписчиков), но лояльной и вовлечённой аудиторией в конкретной нише.
+
+> **Полная карта типов адвокации.** Микроинфлюенсеры — лишь один уровень в 5-уровневой пирамиде Mavrck (миллионники → микроинфлюенсеры → адвокаты бренда → рефералы → лоялисты). Эта страница покрывает уровни 1–2 (платные авторы), а нижние три уровня (бесплатная органическая адвокация) детально разобраны в [[canon/marketing-frameworks/influencer-pyramid-mavrck-5-tiers]]. Ключевая операционная разница: микроинфлюенсеров нанимают **только массово** (поштучно менеджер не отбивается).
 
 Почему микро работают лучше миллионников:
 - Уровень доверия пользователей к микроблогерам в 2,5 раза выше, чем к крупным блогерам (по данным [[sources/2026-04-10-piarhub-research-native-pr-2026]])

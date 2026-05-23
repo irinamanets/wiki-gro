@@ -9,8 +9,8 @@ tags: [ai-marketing, llm, automation, paid-ads, performance, russia, trust, heal
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +LZ.Media: content-marketing-уровневая делегационная карта parallel to Petrochenkov performance-frame — 6 горячих зон + 4 холодные зоны
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md]
+updated: 2026-05-22  # +Omni (Горный 5070): semantic-layer / context-limit — AI-аналитика без формализованного слоя определений даёт формально-правильные, но вводящие в заблуждение числа. Prior: +Petrochenkov синтетический usability-тест 80%
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -48,6 +48,12 @@ Polished list из поста 1256 (2026-04-14) — то, на чём Petrochenk
 
 **Подтверждение продуктизации (видео 1236, 56 сек).** В видео-кружке Petrochenkov лично описывает структуру отчёта по 50+ нишам и спрашивает аудиторию о готовности платить. Перечисленные deliverables в его собственных словах: ёмкость рынка, структура, ключевые тренды, сегменты услуг, «подробно расписанные аватары клиентов», «как выглядит воронка, где какие цифры», ценовые ориентиры, конкурентный ландшафт, 5 точек для роста продаж, риски и «действия для того, чтобы денег стало больше прямо сейчас». Подчёркивает: отчёт применим к конкретному гео и узкому сегменту. Это подтверждает, что AI-автоматизация исследования не осталась внутренним инструментом — она выносится на рынок как готовый продукт, что является сигналом зрелости «ИИ-второй пилот для маркетолога» модели.
 
+### Синтетический usability-тест: 80% сходимость с живыми респондентами (май 2026)
+
+Новый data-point в копилку «что ИИ делает хорошо» — от того же Petrochenkov ([[sources/2026-05-19-tg-petrochenkow-20260519-112501]], посты 1301–1302, 2026-05-15): LLM, вошедшая в роль аватара ЦА, проходит лендинг по экранам и выдаёт пошаговый разбор восприятия. При сравнении с реальными usability-тестами людей **совпадение доходит до 80%** `[conf:medium, src:2026-05-15]`.
+
+Это укладывается в TL;DR-модель страницы: ИИ хорош как **дешёвый второй пилот для диагностики восприятия** (находит грубые дыры лендинга до запуска трафика), но не заменяет верификацию на реальной воронке — приоритизация дыр и проектирование решений остаются за человеком (Ford-trap не снимается). Полная методология — [[canon/marketing-frameworks/ai-persona-usability-test-petrochenkov]]; content-угол — [[evolving/content-trends/ai-synthetic-usability-test-hook-2026]].
+
 ## Что ИИ делает плохо или вредит
 
 Из поста 1225 (2026-03-26):
@@ -72,6 +78,18 @@ Polished list из поста 1256 (2026-04-14) — то, на чём Petrochenk
 1. **Передача чистых данных из CRM через API** или хотя бы CRM↔Метрика. Идеально — статус «продажа», иначе «квалифицированный лид» / «договор отправлен». **Минимум 10-15 таких конверсий в неделю на 1 кампанию**, иначе автостратегия не учится.
 2. **Маркировка бот-трафика** — выявление паттернов (браузер, площадка, размер экрана), создание аудиторий, понижение ставок на них на 100%. Подробный алгоритм Petrochenkov ссылается на [habr.com/ru/articles/929926](https://habr.com/ru/articles/929926/).
 3. **При использовании автотаргетинга** — рекомендация прочитать [habr.com/ru/articles/964506](https://habr.com/ru/articles/964506/) перед запуском, чтобы не выкупать мусор.
+
+## Semantic-layer лимит — почему AI-аналитика без слоя определений врёт (Omni / Горный)
+
+Отдельная **категория лимита ИИ в аналитике** (не performance-конкретно, но смежно): зафиксирована через профиль BI-стартапа Omni ([[sources/2026-05-22-tg-startupoftheday-may-14-19-2026|Горный пост 5070]], 2026-05-15). Omni привлёк **$120 млн** при оценке **$1,5 млрд** именно на тезисе, что **человек до сих пор нужен для внесения контекста**.
+
+15 лет индустрия обещает «менеджер спрашивает компьютер — софт рисует графики, аналитики не нужны» (раньше BI-дашборды, с 2023 — AI-обвязка). Реальный лимит: AI **не знает корпоративных определений**.
+
+> Запрос «посчитай активных клиентов из Чили»: живой аналитик знает, что «активными» в компании называют купивших за последнюю неделю. А ChatGPT сегодня решит, что это «заходившие за месяц», завтра — «с работающей подпиской». И «из Чили» неоднозначно: адрес доставки / телефон / паспорт / IP. AI «что-то посчитает, но числа будут вводить в заблуждение». — Горный, 2026-05-15
+
+**Решение Omni** (= формализация semantic-layer): строит **внутреннюю базу знаний с определениями и корпоративными правилами**, пишет SQL опираясь на неё, а не «от балды».
+
+**Связь с TL;DR-моделью страницы:** это **тот же класс лимита**, что Petrochenkov #1 («приемлемое vs необходимое») и Кравченко object-oriented retrieval ([[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]] — LLM ищет граф сущностей, не текст). Все три говорят: **AI без формализованной онтологии/слоя определений даёт формально-валидный, но реально бесполезный output**. Для GRO-content это **готовый proof-point** в нарратив «AI = второй пилот, не автопилот»: даже простую BI-задачу нельзя отдать AI без человеко-заданного контекста — и за решение этой проблемы рынок платит $1,5 млрд оценки.
 
 ## Калибровочная формула
 
@@ -183,6 +201,8 @@ LZ.Media формулирует **content-marketing-аналог Petrochenkov-ф
 - [[sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits]] — LZ.Media content-marketing-frame
 - [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]] — кейс-anchor (5 000+ AI-врачей в US)
 - [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — источник Стеценко
+- [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]] — родственный лимит: AI ищет граф сущностей, не текст (онтологический слой)
+- [[sources/2026-05-22-tg-startupoftheday-may-14-19-2026]] — Omni semantic-layer лимит (Горный 5070)
 
 ## Backlinks
 

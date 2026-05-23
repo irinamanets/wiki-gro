@@ -9,8 +9,8 @@ tags: [real-estate, premium, moscow, dubai, market-snapshot]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +cross-vertical premium-cooling подтверждение (премиум-event-агентство через Гребенюка 7470); ranks the trend page reference
-sources: [sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-04-14-tg-kommersant-apr-13-14.md, sources/2026-05-14-tg-grebenukm-may-2026.md]
+updated: 2026-05-19  # +май 2026 Whitewill operational numbers (второй дамп Торбосова): Dubai +$15m май, Solaya off-plan ₽312,4m, Bluewaters 4-выкупа, Dubai-cooling «до осени не жду активности»
+sources: [sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-04-14-tg-kommersant-apr-13-14.md, sources/2026-05-14-tg-grebenukm-may-2026.md, sources/2026-05-19-tg-torbosov-life-may-2026.md]
 namespace: mkt
 ---
 
@@ -85,6 +85,22 @@ namespace: mkt
 
 **Важно для интерпретации:** DFM Real Estate Index — это биржевой индекс акций пяти девелоперских компаний на Dubai Financial Market, а не цена квадратного метра на рынке жилья. Торбосов в том же посте 19274 раскрывает эту дистанцию и предупреждает: «стоимость акций не отражает состояние рынка недвижимости». Т.е. цифры DFM выше использовать как индикатор настроения биржи, а не состояния рынка метров.
 
+## Обновление 2026-05-19 — Whitewill operational numbers, май 2026 (второй дамп Торбосова)
+
+Второй дамп канала ([[sources/2026-05-19-tg-torbosov-life-may-2026]], посты 19673/19679/19714 за 2026-05-11..15) даёт свежий operational-срез того же агентства месяцем позже Q1-снэпшота. Тренд продолжается: московский премиум остаётся под давлением, Dubai-спрос автор прямо называет охлаждающимся к лету.
+
+| Метрика (Whitewill, май 2026) | Значение | Source |
+|---|---|---|
+| Dubai, май 2026 — оборот за месяц | «+$15m в копилку мая», полные отели на майских праздниках | `[conf:medium, src:2026-05-12]` |
+| Dubai off-plan сделка Solaya (2-bed, брокер И. Матвеева) | ₽312 400 000 = AED 15 554 000 | `[conf:high, src:2026-05-12]` |
+| Bluewaters — контракты на выкуп новых квартир за весну 2026 | 4 квартиры | `[conf:medium, src:2026-05-13]` |
+| Bluewaters готовая квартира (продаётся) | 195 м², 3 спальни-сьюта + мэйдс, 5 санузлов, 2 парковки | `[conf:medium, src:2026-05-13]` |
+| Dubai-спрос лето 2026 (прогноз эксперта) | «до осени не жду привычной мне активности от покупателей» — cooling | `[conf:medium, src:2026-05-13]` |
+
+Сделка Solaya верифицирована OCR визуала 19673.jpg (та же цифра ₽312,4m / AED 15,554,000 в подписи, не только текст поста). `[conf:high, src:2026-05-12]`
+
+**Интерпретация:** московский раздел не получил новых чисел в майском дампе (автор был в Дубае/Стамбуле), но Dubai-раздел расширен. Главное новое — **явный cooling-прогноз по Дубаю** от того же оператора, который перенесён в [[evolving/industry-trends/ru-premium-segment-cooling-2026]] как четвёртый sentinel (теперь cross-geo, не только cross-vertical). `[conf:medium, src:2026-05-13]`
+
 ## Почему это в `evolving-strict`
 
 - Стабильные компоненты тезиса («премиум-рынок Москвы под давлением») дрейфуют с каждым новым кварталом
@@ -120,6 +136,7 @@ Front-matter `confidence:` остаётся `medium` как среднее по 
 - [[evolving-strict/market-data/digital-ad-market-ru-2024-2026]] — макро-контекст recl-рынка РФ, в который помещается 200 тыс ₽ стоимость целевого звонка
 - [[canon/target-audience/gro-segments]] — ЦА «предприниматели в росте» пересекается с сегментом, читающим экспертные personal-brand каналы
 - [[sources/2026-04-14-tg-torbosov-life-apr-2026]]
+- [[sources/2026-05-19-tg-torbosov-life-may-2026]] — второй дамп Торбосова, май 2026 operational numbers + Dubai-cooling
 - [[sources/2026-04-14-tg-kommersant-apr-13-14]] — официальный aggregate-срез −54% / 109 сделок [conf:high, src:2026-04-14]
 - [[sources/2026-05-14-tg-grebenukm-may-2026]] — cross-vertical premium-event confirmation
 - [[evolving-strict/market-data/ru-beauty-health-ecommerce-q1-2026]] — contra-cyclical vertical, для сравнения

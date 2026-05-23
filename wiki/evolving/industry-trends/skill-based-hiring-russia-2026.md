@@ -9,8 +9,8 @@ tags: [skills, hiring, hr, education, industry-trends, labor-market]
 confidence: high
 stale: false
 created: 2026-04-16
-updated: 2026-05-14  # +Skills inflation как мета-тренд: ценность ↓ при росте числа навыков на резюме, IT-инструменты с 3–5 летним жизненным циклом, Java −56%, MS PowerPoint −41,6%; мидлы/сеньоры −45/−48% вакансий
-sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-14-condense-hh-ru-12-articles.md]
+updated: 2026-05-19  # +candidate-side: «единая карьерная история» + resume-SEO ранжирование HH (заголовок/summary/skills > переписывание опыта) — навыкоцентричность доходит до архитектуры профиля соискателя
+sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md]
 namespace: mkt
 ---
 
@@ -90,6 +90,8 @@ hh.ru выявил 6 крупных мета-трендов рынка труд�
 
 Параллельный сигнал — **двойственность ИИ**: 50% соискателей уже используют нейросети при поиске работы (резюме, тестовые) `[conf:medium, src:2026-05-05]`. Это превращает теоретические тесты в malfunctioning сигнал — кандидат может пройти теоретический тест с ИИ-помощью. Поэтому переход к **практическим заданиям** — не roadmap-роскошь, а defensive необходимость в эпоху AI-driven скрининга кандидатов.
 
+**Candidate-side проявление: «единая карьерная история» + resume-SEO (наблюдение Гусевой через @recruiter_live, 2026-05-18).** Навыкоцентричность доходит до **архитектуры профиля самого соискателя**. По наблюдению Анастасии Гусевой (LinkedIn → пост 4471 @recruiter_live, [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]]) `[conf:low, src:2026-05-18]` HH переводит профили в формат единой карьерной истории (блоки опыта синхронизируются между резюме) и ранжирует резюме по целостности профиля + SEO-слою (заголовок / summary / **навыки**), а не по точности подгонки опыта под вакансию. Тезис автора: «SEO-слой резюме начинает влиять на выдачу сильнее, чем бесконечное переписывание опыта». Это та же навыкоцентричная логика, но **со стороны кандидата**: платформа поощряет понятную профессиональную идентичность + явный skills-набор, а не tactic-подгонку под каждую вакансию. Продуктовая механика разобрана в [[evolving/competitor-positioning/hh-ru-hrtech-platform]], content-применение — Hook 32 в [[evolving/content-trends/career-audience-hooks-2026]].
+
 ## ИИ в HR -- текущий статус (ускоритель навыкоцентричности)
 
 - **Яндекс:** "нейроэксперты" -- Нейроюрист (анализ законов), Нейроруководитель (коуч по управленческим практикам)
@@ -114,6 +116,9 @@ hh.ru выявил 6 крупных мета-трендов рынка труд�
 - [[sources/2026-05-05-hh-ru-condensed]] — обновление 2026-05-05 (×1,7 пул, AI-driven skill matching)
 - [[sources/2026-05-14-condense-hh-ru-12-articles]] — обновление 2026-05-14 (skills inflation, IT-навыки cheap vs expensive, мидлы/сеньоры −45/−48%)
 - [[canon/marketing-frameworks/internal-hiring-cost-reduction-strategies]] — 6 стратегий найма как ответ на дефицит мидлов/сеньоров
+- [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]] — candidate-side проявление: «единая карьерная история» + resume-SEO ранжирование HH (Гусева LinkedIn, 2026-05-18)
+- [[evolving/competitor-positioning/hh-ru-hrtech-platform]] — продуктовая механика синхронизации профиля + resume-SEO ранжирования
+- [[evolving/content-trends/career-audience-hooks-2026]] — Hook 32 (единая карьерная история / SEO-слой резюме)
 - [[evolving/competitor-positioning/hh-ru-ai-hiring-suite-2026]] — техническая обвязка skill-matching
 - [[evolving/industry-trends/hiring-trends-russia-2026]] -- тренды найма 2026
 - [[evolving/industry-trends/ru-labor-market-shift-2026]] -- качественный сдвиг рынка

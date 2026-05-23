@@ -9,8 +9,8 @@ tags: [framework, vk, paid-ads, ecommerce, edtech, b2c, real-estate, performance
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-19
-sources: [sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-19-pressfeed-vk-channels-playbook.md]
+updated: 2026-05-19  # +cross-ref на официальный vendor-канон VK Реклама (deck из дайджеста ОПОРЫ)
+sources: [sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-19-pressfeed-vk-channels-playbook.md, sources/2026-05-19-vk-reklama-effective-campaigns-deck.md]
 namespace: mkt
 ---
 
@@ -129,6 +129,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/multichannel-cumulative-effect]] — VK как один из 8 параллельных каналов, не единственный.
 - [[evolving/competitor-positioning/max-messenger]] — соседний по логике RU-канал, MAX-supplements VK по подписочной аудитории.
 - [[canon/marketing-frameworks/vk-channels-playbook-pressfeed]] — **соседний tooling в VK-экосистеме**, решает противоположную задачу: VK Ads = acquisition (платный трафик в паблик/landing), VK-каналы = retention (удержание уже привлечённой аудитории через канал внутри сообщества). Каналы компенсируют ограничение «на канал нельзя вести рекламу» — funnel: Ads → подписка на паблик → прогрев через канал.
+- [[canon/marketing-frameworks/vk-reklama-official-campaign-guide-2026]] — **vendor-канон самой платформы** (официальный deck VK Реклама, май 2026). Комплементарен этому playbook'у: тот — production-связки из практики (что работает в нишах), официальный канон — устройство кабинета, форматы/цели и формула креатива. Vendor-правило «давать ≥4-5 дней на обучение» = vendor-версия практик-наблюдения про 20-30 конверсий/нед для look-alike.
 
 ## Ограничения
 

@@ -9,8 +9,8 @@ tags: [ai, llm-bot, smb, customer-experience, automation, sales-ops, considerati
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19
-sources: [sources/2026-05-14-tg-startupoftheday-may-5-13-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md]
+updated: 2026-05-22  # +Descript data-point (Горный 5074): тот же frame на роли видеомонтажёра — completion over experience + moat-erosion (general-purpose агент обходит специализированный продукт)
+sources: [sources/2026-05-14-tg-startupoftheday-may-5-13-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -76,6 +76,18 @@ Bot работает, если:
    - Premium-service NO (раздражение → потеря бренда)
 ```
 
+## Расширение frame'а — Descript: тот же паттерн на роли видеомонтажёра (2026-05-18)
+
+Через 12 дней после исходного поста про подкаст-студию Горный применяет **тот же frame** к другой SMB-роли — **видеомонтажёру** ([[sources/2026-05-22-tg-startupoftheday-may-14-19-2026|пост 5074]]). Тестирует Descript ($24/мес): из 15 мин речи вырезано ~1,5 мин пауз и мусорных слов.
+
+> «Была же целая профессия. Я людей искал, платил им. Ждал их… А теперь клик-клик — и всё готово за 24 доллара… с другим роликом Claude Code то же самое сделал. Просто из коробки. Почти в один промпт. Как бы бесплатно.» — Горный, 2026-05-18
+
+Это **тот же completion-vs-experience tradeoff**:
+- **Customer-side tolerance:** «В паре мест мне не понравилась склейка, живому монтажёру я бы сказал… Тут забил.» — раздражение от качества **списано в transactional cost**, как и в подкаст-студии. Endpoint низко-stakes (внутренний контент, не life-critical), процесс структурирован (загрузил → обработал → готово).
+- **Owner-side unit-economics:** экономия на найме монтажёра ($X/ролик + ожидание) → $24/мес или ноль (Claude Code из подписки).
+
+**Новая ось, которую добавляет Descript к frame'у — moat-erosion слой:** в подкаст-студии бот заменял **человека**. Здесь специализированный **продукт** ($24/мес Descript) сам обходится **бесплатным general-purpose агентом** (Claude Code из коробки). То есть AI-replacement действует двухступенчато: (1) AI-инструмент заменяет человека-исполнителя; (2) general-purpose агент заменяет специализированный AI-инструмент. Вторая ступень — это уже [[evolving/industry-trends/software-moat-erosion-2026]] (третий Gorny-голос после RevenueCat-thesis). Operational-test frame'а распространяется и на «стоит ли строить специализированный продукт под задачу, которую general-purpose агент скоро закроет из коробки».
+
 ## Cross-market parallels
 
 Этот фрейм согласуется с другими паттернами в нашей вике:
@@ -130,9 +142,12 @@ Frame Горного отвечает на вопрос **«можно ли** з
 - [[canon/marketing-frameworks/chatbot-readiness-checklist]] — readiness gate для бот-внедрения (Евсеева)
 - [[evolving/industry-trends/ai-productivity-j-curve-2026]] — J-curve адопции AI в operations
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — макро-картина AI-замещения
+- [[evolving/industry-trends/software-moat-erosion-2026]] — moat-erosion слой (general-purpose агент обходит специализированный продукт)
+- [[canon/marketing-frameworks/ai-video-production-pipeline]] — Descript как звено AI-видео-pipeline (этап монтажа)
 - [[sources/2026-05-14-tg-startupoftheday-may-5-13-2026]] — оригинал (пост 5055)
 - [[sources/2026-04-14-tg-startupoftheday-mar-apr-2026]] — pre-history того же автора
 - [[sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva]] — параллельный источник Евсеевой
+- [[sources/2026-05-22-tg-startupoftheday-may-14-19-2026]] — Descript расширение frame'а (пост 5074)
 
 ## Backlinks
 

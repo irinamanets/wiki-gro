@@ -9,8 +9,8 @@ tags: [ai, b2b, market-trends, consideration, decision]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06  # +атомизация рынков, AI-франшиза, YC RFS triangulation, Tunguz cost-ratio (3 новых направления и 2 cross-source confirmations из @temno apr-may 2026)
-sources: [sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md]
+updated: 2026-05-19  # +cross-source confirmation direction #3 (верификация→accountability) от Аннакова + рыночное доказательство (страхование AI-агентов ElevenLabs/AIUC)
+sources: [sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-19-tg-products-and-startups-may-15-19-2026.md]
 namespace: mkt
 ---
 
@@ -71,6 +71,8 @@ Evolving-тренд на уровне всего AI-индустриальног
 Ценное следствие: **«этим нужно начать заниматься прямо сейчас — пока не все живые эксперты, воспитанные в эпоху «до ИИ», не вымерли»**. То есть эксперты-верификаторы, которые могут отличить правдоподобную галлюцинацию от правды, — это **вырождающийся ресурс**, и продукты, которые захватят их до вымирания, получат структурное преимущество.
 
 Этот тезис спорный (нет доказательств, что пост-ИИ поколения не смогут научиться верифицировать), но для **marketing narrative** это готовый hook — «пока ещё можно».
+
+**Cross-source confirmation (2026-05, независимый голос):** Байрам Аннаков ([[sources/2026-05-19-tg-products-and-startups-may-15-19-2026|пост 1750, 2026-05-16]]) независимо сформулировал ту же логику от лица practitioner-CTO: узкое место сместилось из «делания» в **верификацию**, а оттуда — в **accountability** (кто берёт ответственность за результат). И — впервые — это уже **рыночно материализовано**: появилось страхование действий AI-агентов (ElevenLabs/AIUC, до $50M, сертификация после 6К adversarial-тестов). Это **апгрейд direction #3 от «спорного тезиса» к sedimented consensus** — теперь у нас Морейнис (инвестор-наблюдатель) + Аннаков (practitioner) + рыночный механизм (страховой полис). Подробно — [[evolving/industry-trends/ai-accountability-premium-2026]] и [[volatile-strict/competitor-news/elevenlabs-aiuc-agent-insurance-2026]].
 
 ### 4. Вниз — к данным для обучения
 
@@ -237,6 +239,8 @@ Tomasz Tunguz — известный B2B-инвестор (Theory Ventures, ра
 - [[canon/marketing-frameworks/jevons-paradox-ai-positioning]] — Jevons-counter-anchor от того же автора (объясняет почему уплыв ценности к judgment не вытесняет professionals целиком)
 - [[sources/2026-04-14-tg-temno-moreynis-mar-apr-2026]] — первичный источник (направления 1–6)
 - [[sources/2026-05-05-tg-temno-moreynis-apr-may-2026]] — второй источник (новые направления 7–9, triangulation YC RFS и Tunguz)
+- [[evolving/industry-trends/ai-accountability-premium-2026]] — расширение direction #3 (верификация→accountability) от Аннакова + рыночное доказательство
+- [[sources/2026-05-19-tg-products-and-startups-may-15-19-2026]] — cross-source confirmation direction #3 (Аннаков, пост 1750)
 
 ## Backlinks
 

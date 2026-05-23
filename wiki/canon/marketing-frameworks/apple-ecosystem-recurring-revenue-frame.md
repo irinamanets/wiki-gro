@@ -9,8 +9,8 @@ tags: [framework, positioning, retention, ecosystem, subscription, ltv, post-pur
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
+updated: 2026-05-22  # +cross-ref: кто построил эту экосистему (Тим Кук) — operational-ceo-as-strategist-cook
+sources: [sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md]
 namespace: mkt
 ---
 
@@ -115,8 +115,13 @@ Apple касается пользователя **десятки раз в де�
 
 4. **Cross-link с [[canon/marketing-frameworks/subscription-consumption-model-shift-tokovinin]]** — Токовинин даёт похожий фрейм про subscription для periodic-goods, Apple-frame даёт complementary angle (subscription для recurring-services / habit-based).
 
+## Кто построил эту экосистему (агентурный контекст)
+
+Apple-экосистема / Services как recurring-revenue-движок — **не наследие Джобса**, а во многом результат работы **Тима Кука**: именно операционный CEO выстроил производственные цепочки, supply-chain discipline и сервисный бизнес масштаба Fortune 100. То есть post-purchase-экономика, которую описывает эта страница, — материализация «операционного мышления как стратегии». Reusable leadership-рамка вокруг этого — [[canon/marketing-frameworks/operational-ceo-as-strategist-cook]]. Полезно для content-нарратива: «экосистема не возникает из визии; её строит операционная дисциплина годами».
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/operational-ceo-as-strategist-cook]] — кто построил Apple-экосистему (Кук) как leadership-рамка
 - [[canon/marketing-frameworks/subscription-consumption-model-shift-tokovinin]] — Токовининский subscription-фрейм для periodic-goods (complement)
 - [[canon/marketing-frameworks/retention-benchmarks-b2c]] — численные бенчмарки B2C retention
 - [[canon/marketing-frameworks/defector-loyalty-crm-analysis]] — anti-pattern про loyalty programs

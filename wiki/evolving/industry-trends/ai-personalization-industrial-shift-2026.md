@@ -9,8 +9,8 @@ tags: [ai, personalization, gen-ai, advertising, e-commerce, consumer, predictiv
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-06  # +VK Видео Discovery (face-recog → +10% watch time, public RU production-grade case); +Inc.Russia 36708
-sources: [sources/2026-05-05-dzen-inc-personalization-vs-manipulation.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md]
+updated: 2026-05-19  # +Яндекс «Моя волна» гиперконтекст (2-й RU B2C predictive-intent кейс через @techno_yandex 5245)
+sources: [sources/2026-05-05-dzen-inc-personalization-vs-manipulation.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-19-tg-techno-yandex-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -90,6 +90,18 @@ VK 2026-05-05 публично раскрыл первый RU production-grade A
 
 **Маркетинговый smoke signal:** RU big tech начинает раскрывать архитектурные подробности AI-features как differentiation. Это совпадает с паттерном Sber GigaChain (community-driven open-source) — два независимых сигнала «технический transparency как PR-актив» в одну неделю. Полная страница метрики — [[evolving-strict/product-metrics/vk-video-recommendation-uplift-2026]].
 
+## Второй RU consumer-кейс — Яндекс «Моя волна» гиперконтекст (май 2026)
+
+19 мая 2026 Яндекс через [@techno_yandex](https://t.me/techno_yandex) (пост 5245, [[sources/2026-05-19-tg-techno-yandex-may-14-19-2026]]) публично раскрыл переход рекомендательной системы «Моя волна» к **гиперконтекстным рекомендациям** — это второй RU consumer-media кейс предиктивно-контекстной персонализации в одну месячную рамку после VK Видео.
+
+**Что изменилось:**
+- **Раньше:** рекомендации опирались на вкус пользователя и его действия внутри сервиса (лайки, сохранения, пропуски, плейлисты). Но часть сигналов (например дизлайк) не объясняет, чего человек хочет *сейчас* — погрустить или взбодриться.
+- **Теперь:** система учитывает «гиперконтекст» — то, что происходит вокруг человека в текущий момент, и предлагает не просто трек, а **«музыкальный сценарий для момента»** (например, «спокойный джаз для работы», «хип-хоп для пробежки»).
+
+**Внешние сигналы контекста:** день недели, время суток, локация, устройство — объединяются с анализом самих треков (звучание, настроение, темп, жанр, ситуативная пригодность) → индивидуальный плейлист.
+
+**Почему это важно для индустриального сдвига:** это ровно тот **predictive intent modeling**, который описан выше в разделе «Следующая стадия» (цитата Юдина: «судя по твоему контексту прямо сейчас… тебе понадобится вот это»). Если в апреле это было «B2B серийно / B2C единицы», то к маю 2026 уже **два публичных RU B2C-кейса** (VK Видео + Моя волна) — стадия context-aware B2C-персонализации в РФ переходит из «единиц» в «нормализуется». Это vendor-коммуникация без раскрытых метрик, поэтому `confidence: medium` для конкретики, но направление подтверждено вторым independent actor'ом.
+
 ## Импликации для GRO
 
 1. **GRO-приложение для self-management — это естественный кейс persistent personalization**: пользователь с месяцами истории целей, привычек, взаимодействий → данные есть для качественного profile, не нужны cold-start трюки.
@@ -110,6 +122,8 @@ VK 2026-05-05 публично раскрыл первый RU production-grade A
 - [[sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026]] — Inc.Russia 36708, второй материал на тему
 - [[evolving-strict/product-metrics/vk-video-recommendation-uplift-2026]] — VK Видео +10% детализация (RU production-grade case)
 - [[sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026]] — VK Видео Discovery, ретрансляция
+- [[sources/2026-05-19-tg-techno-yandex-may-14-19-2026]] — Яндекс «Моя волна» гиперконтекст (2-й RU B2C-кейс)
+- [[evolving-strict/product-metrics/yandex-delivery-robot-ml-planner-2026]] — сиблинг RU AI-в-продакшне (роботы-доставщики)
 
 ## Backlinks
 

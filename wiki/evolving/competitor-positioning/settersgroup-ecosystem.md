@@ -1,6 +1,6 @@
 ---
 id: mkt:evolving/competitor-positioning/settersgroup-ecosystem
-title: SETTERS Group — экосистема (SETTERS, SETTERS Media, REB8T, Изионист)
+title: SETTERS Group — экосистема (SETTERS, SETTERS Media, REB8T, Изионист, SETTERS EDUCATION)
 type: page
 subtype: competitor
 layer: evolving
@@ -9,8 +9,8 @@ tags: [competitor, agency, settersgroup, ecosystem, ru, creative]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-15  # +Изионист-сборник «Культурный код: инструкция к применению» (2026-05-08) — продуктизация thought-leadership через easylecturebot
-sources: [sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-05-14-tg-hutzp-may-2026-bundle.md]
+updated: 2026-05-19  # +SETTERS EDUCATION как 5-я единица экосистемы (курс «Креативное лидерство» + B2B corp-edu); +операционная анатомия интеллектуального клуба изионистов (Бобков/Багаутдинов, T-Бизнес co-sponsor)
+sources: [sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-05-14-tg-hutzp-may-2026-bundle.md, sources/2026-05-19-tg-hutzp-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -59,7 +59,18 @@ namespace: mkt
 - **Формат:** регулярные встречи-монологи экспертов с NPS-замером (из поста 3427: первая встреча с Сашей Пановым получила 10/10). Стратегический партнёр встреч — **Т-Бизнес**.
 - **Продукт:** журнал «Изионист» — печатное издание, где выходят исследования и материалы. Номер весны 2026 посвящён «русскому культурному коду» и содержит результаты исследования **Synopsis Group** (1000+ респондентов), см. [[evolving/industry-trends/russian-cultural-code-branding-2026]] и [[canon/marketing-frameworks/narrative-as-brand-currency]]. Дистрибуция: Подписные издания (`podpisnie.ru`), Яндекс.Маркет.
 - **Расширенный платный продукт (2026-05):** сборник «**Культурный код: инструкция к применению**» — 3-в-1 цифровой продукт по тому же исследованию Synopsis Group, продаваемый через Telegram-бот [@easylecturebot](https://t.me/easylecturebot?start=link_RqRfGK2FUz) (UTM-ссылка с affiliate-tracking конкретного канала-источника). Состав: ~100 слайдов детальной аналитики (расширение того, что в Telegram-карусели публикуется как 2-слайдовый превью) + диджитал-журнал «ИЗИОНИСТ» + тренд-репорт с примерами успешного применения «русского культурного кода» в проектах. Это **closed-loop monetization** thought-leadership-контента: исследование производится in-house → используется как магнит для Telegram-канала → tail-monetization через продажу сборника (см. [[sources/2026-05-14-tg-hutzp-may-2026-bundle]]). Паттерн **продуктизации thought-leadership** — ценный референс для GRO.
+- **Регулярный event-продукт «интеллектуальный клуб» (детализация 2026-05):** offline-встречи с ротацией экспертных гостей, специально подбираемых **НЕ из креативной/маркетинговой индустрии** — «у нас в комьюнити состоят не только ребята из креатива, поэтому подсвечиваем мы не только темы креативной индустрии, чтобы смотреть на привычные вещи под новым углом». Наблюдаемые гости: **Денис Бобков** (ресторатор, основатель Masa Madre / Carniceria vino / Bambule / Tabi izakaya — встреча + экскурсия в соляные подвалы «Солянки», 2026-05-14) и **Айрат Багаутдинов** (основатель «Глазами инженера» — экосистема экскурсионных бюро; встреча «Как читать архитектуру», 2026-05-21 `[conf:high, src:2026-05-19]`). Отдельные встречи **co-sponsored Т-Бизнесом** (ad-marked). Двухконтурная воронка: free-trial event через [@easylecturebot](https://t.me/easylecturebot?start=link_mWvsneYyiJ) → платное членство через paywall. Полная анатомия формата — [[evolving/content-trends/founder-intellectual-club-event-format]].
 - **Ценность для рынка:** Изионист действует как think-tank/nudge-tank для русского брендинга, задаёт рамку «новой идентичности» и «собственного языка» для российских компаний.
+
+### SETTERS EDUCATION (образовательная единица)
+
+Пятая единица экосистемы, ставшая видимой в дампе [[sources/2026-05-19-tg-hutzp-may-14-19-2026|@hutzp 3528–3543]] (раньше в вики фигурировали SETTERS-агентство, SETTERS Media, REB8T, Изионист, но не EDUCATION).
+
+- **Категория:** EdTech — B2C онлайн-курсы + B2B corporate-learning.
+- **B2C-флагман:** курс **«Креативное лидерство»** (5 лет на рынке), спикеры **Даша Золотухина** + **Саша Жаркова**, старт потока 25 мая 2026 `[conf:high, src:2026-05-18]`. Продуктовое позиционирование: alumni-community as moat (общий чат + оффлайн-встречи + совместные проекты выпускников), профессионально снятые лекции с cognitive-load-aware длиной, отдельная LMS-платформа с трекингом прогресса + конспектами лекций, peer-to-peer практика как заявленный главный USP. Контент платформы включает фреймворк «Creator: ты = создатель» (reactive→creative reframe) — см. [[canon/marketing-frameworks/creator-leadership-paradigm-shift]].
+- **B2B-направление:** corporate-learning для клиентов («как мы выстраиваем корпоративное обучение для наших клиентов» — статья на secrets.tbank.ru). Активно нанимает: вакансия «Менеджер по развитию B2B-направления» (middle, опыт B2B-продаж полного цикла от 2 лет, гибрид/Москва) `[conf:high, src:2026-05-14]`.
+- **Рекрутинговый суб-бренд:** **«A-Teams by SM»** (SETTERS Media) — найм оформляется как brand-content в фирменном тёмно-зелёном визуале и публикуется в author-канале (recruitment-as-content, см. [[evolving/content-trends/telegram-author-channel-patterns]]).
+- **Значение для GRO:** прямой EdTech-референс для GRO Интенсива ([[canon/product-knowledge/gro-intensive]]) — структура позиционирования онлайн-курса (community moat + production + LMS + peer-to-peer) переносима практически 1-в-1.
 
 ### Связанные проекты и люди (упоминания в дампе)
 
@@ -114,6 +125,8 @@ namespace: mkt
 - [[evolving/industry-trends/future-of-work-trends-2026]] — тренд-репорт SETTERS Media
 - [[evolving/content-trends/telegram-author-channel-patterns]] — паттерны контента автора-блогера из этой экосистемы
 - [[evolving/industry-trends/native-pr-russia-2026]] — где эта экосистема играет на рынке натив-рекламы
+- [[evolving/content-trends/founder-intellectual-club-event-format]] — анатомия event-формата Сообщества Изионист
+- [[canon/marketing-frameworks/creator-leadership-paradigm-shift]] — фреймворк из контента курса SETTERS EDUCATION «Креативное лидерство»
 - [[evolving/competitor-positioning/max-messenger]] — соседний профиль (другого типа объект — платформа, не агентство)
 
 ## Contradictions

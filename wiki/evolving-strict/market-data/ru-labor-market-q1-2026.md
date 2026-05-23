@@ -9,8 +9,8 @@ tags: [market-data, russia, labor-market, hh, cbr, cooling]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-15  # +Avito Подработка +46/+64% Q1 2026 + РИА Новости newcomer wage overtake +34,3% (через Inc. Russia 36722/36756)
-sources: [sources/2026-04-14-tg-hr-kak-delat-feb-apr-2026.md, sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-opora-russia-apr-may-2026.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-14-dzen-delovoymir-varako-hr-brand-survival-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-rff-channel-may-2026.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md]
+updated: 2026-05-19  # +зарплатный рост по профессиям/регионам Q1 2026 (HR +44%, синие воротнички абсолют) из @hh_ru_official 4885
+sources: [sources/2026-04-14-tg-hr-kak-delat-feb-apr-2026.md, sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-opora-russia-apr-may-2026.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-14-dzen-delovoymir-varako-hr-brand-survival-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-rff-channel-may-2026.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md, sources/2026-05-19-tg-hh-ru-official-may-15-18-2026.md]
 namespace: mkt
 ---
 
@@ -341,6 +341,20 @@ namespace: mkt
 - Для **креативной/стратегической аудитории** — открылся новый сегмент с **ещё более жёстким cooling**: искусство (44,9), стратегия (44,3), менеджмент (32,6). У них YoY−27..−32% по вакансиям + +21..+25% по резюме = **3× overshoot к общему рынку**. Hook «креатив-роли исчезли быстрее, чем HR» открывает новую subsegment для контента. `[conf:high, src:2026-04-30]`
 - Для **общего carer-narrative** — апрельское снижение peak'a (11,3 → 10,3) даёт **timing-hook**: «возможно, ты находишься у дна — не пропусти момент, прокачайся к возможному развороту в Q3».
 
+## Зарплатная ось Q1 2026 — рост по профессиям/регионам (добавлено 2026-05-19)
+
+Через [[sources/2026-05-19-tg-hh-ru-official-may-15-18-2026|@hh_ru_official карусель 4885]] (2026-05-18) — first-party hh-аналитика **зарплатного роста**, дополняющая cooling-снимок осью «кто/где/насколько растёт». Полная страница: [[evolving-strict/market-data/ru-salary-growth-by-profession-2026]].
+
+- **Тезис hh.ru:** зарплаты растут неравномерно — сильнее всего там, где дефицит специалистов или нужны редкие навыки. `[conf:high, src:2026-05-18]`
+- **Лидеры роста дохода по профобластям:** HR-специалисты +44%, топ/средний менеджмент +40%, стройка/недвижимость +38%, производство/сервис +34%, добыча +34% (за год). `[conf:high, src:2026-05-18]`
+- **HR-парадокс:** HR — №1 по росту дохода (+44%) и одновременно лидер по cooling вакансий (−39% YoY, hh-индекс 22,3 vs общий 10,3, см. [[evolving-strict/market-data/hh-vacancies-resumes-cooling-2024-2026]]). Спрос сужается, но оставшимся (стратегическим) HR-ролям платят премию. `[conf:high, src:2026-05-18]`
+- **Абсолютный рост offer'ов Q1 2026:** сварщики +148 100 ₽, монтажники +64 700 ₽, рук.групп разработки +58 000 ₽, геологи +49 900 ₽ — синие воротнички доминируют. `[conf:high, src:2026-05-18]` Подтверждает прежний тезис «синеворотничковые профессии становятся одними из самых дорогих».
+- **Регионы-лидеры роста:** Татарстан 39%, СПб 37%, Свердловская 34%, Самарская 34%, Тюменская 32% — без Москвы. `[conf:high, src:2026-05-18]` Согласуется с региональным catch-up из [[evolving-strict/market-data/ru-salary-gap-moscow-regions-2025]].
+- **СПб медиана дохода в вакансиях: 92,4 тыс ₽** (+11% г/г). `[conf:high, src:2026-05-18]`
+- **Восприятие (опрос):** у 28% доход вырос за год, у 33% не изменился. `[conf:high, src:2026-05-18]`
+
+**Финансовый контекст того же дампа:** выручка HH Group в Q1 2026 плоская (₽9,5 млрд, +0,3% calendar) — P&L-подтверждение cooling на уровне крупнейшей платформы. См. [[evolving-strict/competitor-metrics/headhunter-group-q1-2026]]. `[conf:high, src:2026-05-15]`
+
 ## Contradictions
 
 - **[2026-04-16]** hh-индекс 3,1 (июнь 2024, минимум из блога hh.ru, [[sources/2026-04-16-condense-hh-ru-blog-43]]) vs hh-индекс 9,8 (март 2026, [[sources/2026-04-14-tg-hr-kak-delat-feb-apr-2026]]). Вероятная причина: разный период (2024 vs 2026) и/или разная методология. hh-индекс 3,1 отражает пик дефицита кадров, 9,8 -- начало остывания. Оба сохранены, не противоречие а временная динамика.
@@ -372,6 +386,9 @@ namespace: mkt
 - [[canon/marketing-frameworks/varako-hr-brand-survival-2026]] — извлечённый из Варако фреймворк HR-бренда (5 драйверов × 8 инструментов × 5 метрик)
 - [[sources/2026-05-14-tg-rff-channel-may-2026]] — RFF dump 6-13 мая 2026: первичные hh chart'ы апреля 2026 (4408-4411) + RConf AI promo (4404) `[conf:high, src:2026-04-12]`
 - [[evolving-strict/market-data/hh-vacancies-resumes-cooling-2024-2026]] — расщепление hh-индекса на компоненты (вакансии vs резюме 2024-2026)
+- [[sources/2026-05-19-tg-hh-ru-official-may-15-18-2026]] — Q1 2026 investor-карусель + зарплатный рост по профессиям (@hh_ru_official)
+- [[evolving-strict/market-data/ru-salary-growth-by-profession-2026]] — зарплатная ось Q1 2026 (профессии/регионы/абсолют)
+- [[evolving-strict/competitor-metrics/headhunter-group-q1-2026]] — финансы HH Group Q1 2026 (P&L-подтверждение cooling)
 
 ## Backlinks
 

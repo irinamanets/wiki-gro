@@ -9,8 +9,8 @@ tags: [ai-agents, agent-economy, content, b2b-sales, partnerships]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-20  # +§12 voice-AI-employees RU-SMB demand-нарратив (Newo.ai/Давид Ян через Высоцкого), missed-calls экономика
-sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-mspiridonov-mar-apr-2026.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md]
+updated: 2026-05-22  # +§14 cost-routing как операционная переменная: ClawRouters auto-route на дешёвую модель (-70-90% по словам Кумара Виаса) — @solokumi 416
+sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-mspiridonov-mar-apr-2026.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes.md]
 namespace: mkt
 ---
 
@@ -189,6 +189,34 @@ namespace: mkt
 
 **Атрибуция и осторожность:** все числа — заявления в промо-контексте (Высоцкий рекламирует подкаст, гость — платформу), не верифицированы. `confidence: low`. Цитировать в GRO-контенте только как «по словам X».
 
+## 13. AI-агенты в операционном контуре общепита — Andon Café (Стокгольм) vs Restik (РФ) (2026-05-12/14)
+
+[[sources/2026-05-19-tg-incrussiamedia-may-11-17-2026|Inc. Russia посты 36770, 36793]] дают **парный кейс** на тему «насколько автономным можно отдать управление физическим бизнесом ИИ-агенту» — с противоположными ответами в глобальном и RU-контексте.
+
+**Andon Café (Стокгольм) — full-autonomy эксперимент (пост 36770, 2026-05-12).** Тот же Andon Labs, что в §7 запускал бутик Luna, открыл кафе, где **ежедневное управление передали ИИ-агенту «Мона» на базе Google Gemini** (напитки готовят бариста-люди, всё остальное — алгоритм). Самые заметные сбои — в управлении запасами: Мона заказала **6 тыс. салфеток, 4 аптечки, 3 тыс. резиновых перчаток и консервированные томаты, которых нет ни в одном блюде меню**. Доцент KTH Эмрах Каракайя указывает на главный пробел — **распределение ответственности**: если клиент получит пищевое отравление, кто отвечает — ИИ, стартап или бариста? Andon называет это «контролируемым экспериментом» для изучения этических вопросов автономного управления.
+
+**Restik (РФ) — assistant-not-autopilot подход (пост 36793, 2026-05-14).** RU-сервис автоматизации ресторанов Restik запустил ИИ-агента для управленческих задач в общепите: анализ продаж и списаний, сверка остатков с продажами, предложение закупок, действия внутри платформы по текстовой команде. Использует внешние модели **OpenAI и Anthropic**. Ключевое отличие от шведского Mona: **все действия, влияющие на данные внутри системы, Restik оставляет за человеком** — агент работает с внутренними данными заведения, но не управляет автономно. В компании прямо противопоставляют себя «полностью автономным ИИ-кафе вроде шведского Mona, где нейросеть прославилась странными блюдами и спорными решениями».
+
+**Паттерн (дополняет §7 Luna):** два полюса автономии ИИ-агента в физическом бизнесе:
+- **Full-autonomy demo** (Luna, Mona) — публичная демонстрация границ возможностей + этики, не коммерческий продукт. Ценность — выявление failure modes (абсурдные закупки, ответственность).
+- **Bounded-assistant продукт** (Restik) — коммерчески жизнеспособная середина: AI делает аналитику и предлагает действия, человек подтверждает изменения данных. Это **RU-консервативный design pattern**, рифмуется с end-user rejection voice-AI ([[evolving-strict/market-data/ru-business-ai-adoption-2026]]) — RU-рынок предпочитает «AI-ассистент под контролем человека», а не «AI-управленец».
+
+**Маркетинговый вывод для GRO:** «human-in-the-loop» как продающее свойство, а не ограничение. Restik-нарратив («все критичные действия за человеком») — готовый anti-positioning против страха автономного ИИ. Для GRO-контента — proof-point, что в RU-рынке зрелое позиционирование ИИ = «усилитель решений человека», а не замена (см. [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]]).
+
+## 14. Cost-routing как операционная переменная — ClawRouters (Кумар Виас, 2026-05-14)
+
+До сих пор экономика на этой странице крутилась вокруг **платежей** (Stripe MPP §2), **vendor lock-in** (§4) и **дорогого fully-agentic режима** (см. [[evolving/industry-trends/agent-first-world-openclaw-2026|$1,3M/мес у команды OpenClaw]]). §14 добавляет четвёртый кирпич — **активную оптимизацию стоимости inference на уровне tooling**.
+
+По разбору Романа Кумара Виаса ([[sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes|@solokumi пост 416]]), DIY-агент OpenClaw использует тулзу **ClawRouters**, которая автоматически отправляет каждый запрос **самой дешёвой модели, способной справиться с задачей** — заявленное снижение стоимости работы агента **на 70–90% без потери качества** `[conf:low, src:2026-05-14]` (single-source promo-grade, не верифицировано). Параллельно конкурирующий тул Hermes решает ту же проблему дешевизны иначе — через self-hosting на VPS за **$5/мес** `[conf:low, src:2026-05-14]` + доступ к 200+ моделям через OpenRouter с переключением одной командой.
+
+**Почему это здесь:**
+
+- **Cost-as-managed-variable.** Если fully-agentic team (§ выше, agent-first страница) показывает потолок стоимости ($1,3M/мес — привилегия subsidized-compute), то ClawRouters/OpenRouter показывают **противоположный вектор**: tooling-слой, который сбивает стоимость до доступной массовому пользователю. Два полюса agent-economy по capital-барьеру.
+- **Model-routing как новый GTM-слой.** Появляется промежуточный продуктовый слой между агентом и LLM-провайдером (router), который сам становится точкой конкуренции и lock-in (рифмуется с §4 vendor lock-in, но на уровне model-selection, а не harness).
+- **Связь с DIY-commoditization.** Это часть массовизации агент-конструкторов — детально в [[evolving/competitor-positioning/openclaw-vs-hermes-agent-tools-2026|OpenClaw vs Hermes]].
+
+**Атрибуция:** все числа — заявления автора в промо-формате, `confidence: low`. Цитировать как «по словам Кумара Виаса». Сам факт существования cost-routing-слоя как продуктовой практики — `confidence: medium`.
+
 ## Что это значит для marketing-memory
 
 - **Для контент-стратегии GRO:** появляется новый класс ЦА — founders, которые принимают стратегические решения про agent-native инфру. Это пересекается с [[canon/target-audience/gro-segments]] предприниматели + [[canon/target-audience/ru-ai-telegram-audience-segments]] амбициозный сегмент. Параллельно — [[evolving/content-trends/dnative-ai-agent-shopping-skeptic-2026]] открывает complementary B2C-anti-agent content-stream для consumer-сегмента продукта.
@@ -213,6 +241,11 @@ namespace: mkt
 - [[evolving-strict/competitor-metrics/zapier-automation-bench-2026]] — натурный замер state of agent autonomy (13% gpt-5.5 на multi-app)
 - [[sources/2026-04-14-tg-portnyaginlive-mar-apr-2026]]
 - [[sources/2026-05-05-tg-products-and-startups-mar-may-2026]]
+- [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]] — human-in-the-loop как design pattern (Restik vs Mona)
+- [[evolving-strict/market-data/ru-business-ai-adoption-2026]] — RU-предпочтение «AI под контролем человека»
+- [[sources/2026-05-19-tg-incrussiamedia-may-11-17-2026]] — первоисточник §13 (Andon Café Стокгольм + Restik РФ)
+- [[sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes]] — первоисточник §14 (cost-routing ClawRouters / OpenRouter)
+- [[evolving/competitor-positioning/openclaw-vs-hermes-agent-tools-2026]] — DIY-агенты OpenClaw vs Hermes (контекст §14)
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [ai, sales, agent, smb, productized-methodology, russia, competitor]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14
-sources: [sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -58,6 +58,20 @@ Narrow AI-agent в нише sales-closing, разработанный **Олег
 - **Pre-launch механика:** доступ к агенту открывается **до старта основного потока**, чтобы участники начали получать результат сразу — это ускоряет CTA «купить курс» до того, как человек дойдёт до основной программы
 - **Demo-evidence:** показано в реалити «Рекордный апрель» — 5 участникам дан доступ к агенту, для проработки сотен зависших сделок (пост 2255). Это work как proof-by-demonstration см. [[canon/marketing-frameworks/business-reality-show-format]]
 
+## Re-promo пост-cohort (2026-05-19, пост 2305)
+
+После завершения cohort'а автор делает **повторный промо-заход** на агента (см. [[sources/2026-05-19-tg-olegcloser-may-14-19-2026]]), который меняет позиционирование по трём осям:
+
+1. **Симптом-driven hook вместо feature-промо.** Промо начинается не с агента, а с диагноза: «Первый признак серьёзной просадки в продажах — резкий рост зависших клиентов». Агент подаётся как **лекарство от названной боли**, а не как «новая фича». Это новый sales-AI hook — см. [[evolving/content-trends/sales-ai-narrative-hooks-2026]].
+2. **Расширение target-роли: предприниматель → РОП → менеджер.** Прямая цитата: «такой ИИ-Закрыватель сделок должен быть у каждого. У предпринимателя. У РОПа. У менеджера». Раньше агент позиционировался для founder'а; теперь — для всей вертикали ролей в отделе продаж. Это расширяет TAM productized-методологии.
+3. **Anti-ChatGPT differentiator явно проговорён.** «Это не банальные советы из ChatGPT, по которым сразу видно, что пишет бот и которые часто вредят продажам. Это точные касания по формуле 100%.» Автор открыто отстраивается от generic-LLM «снизу» — позиционирует methodology-vertical как защиту от commoditization.
+
+**Distribution-обновление:**
+- Заявленный охват вырос: AI-агенты «помогают повысить продажи в **400+ бизнесах**» (vs «300+ компаний» в Q1). `[conf:low, src:2026-05-19]` — число не верифицировано, self-reported.
+- Funnel-вход теперь через **бесплатную «экскурсию»** (lead-magnet, `new.porarasti.com/prokachka_predzapis`), а не сразу через курс — softer entry перед bundled-only продажей.
+- Bundled-only сохраняется: агент доступен участникам «ПРОКАЧКИ с ИИ», ближайший старт **27 мая**.
+- **Social proof в промо** (медиа 2305): скриншоты отзывов участников «уже вовсю общаюсь с агентом по 100% закрытию сделки, он вскрывает все мои точки роста» — testimonial-driven доказательство вместо benchmark'а (которого по-прежнему нет).
+
 ## Сильные стороны (для конкурентного анализа)
 
 1. **Verified expert behind it.** Шевелев — кандидат наук, автор бестселлера на 5 retail-площадках. Это сильнее, чем «универсальный sales-bot».
@@ -99,6 +113,8 @@ GRO **не конкурирует прямо** с «Закрывателем с�
 ## Связанные страницы
 
 - [[sources/2026-05-05-tg-olegcloser-mar-may-2026]] — источник-якорь
+- [[sources/2026-05-19-tg-olegcloser-may-14-19-2026]] — re-promo пост-cohort (пост 2305)
+- [[canon/marketing-frameworks/sales-system-18-holes-shevelev]] — фреймворк диагностики (агент решает дыру №5)
 - [[canon/marketing-frameworks/sales-100-formula-shevelev]] — методология, на которой обучен агент
 - [[canon/marketing-frameworks/business-reality-show-format]] — demo-vehicle для агента
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — целевая аудитория агента

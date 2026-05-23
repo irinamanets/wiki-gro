@@ -9,8 +9,8 @@ tags: [product, target-audience, jtbd, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-19  # +confirmation сегментации из второго Pressfeed-обзора 2026-05-19 — повторение листинга «специалисты / фрилансеры / предприниматели / студенты» как отраслевого default
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-viktor-nikolaevich.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md, sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md]
+updated: 2026-05-19  # +регуляторный попутный ветер Сегмента 3 (платформенные преференции самозанятым ≥2,9%, @selfworkru); prior: +«совмещающие» как сегмент-мост (Минэк×Сбер 51% совмещают, мотивы запуска) из @moibiz карусели
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-viktor-nikolaevich.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md, sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md, sources/2026-05-19-tg-moibiz-may-14-19-2026.md, sources/2026-05-19-tg-selfworkru-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -67,6 +67,8 @@ namespace: mkt
 - Каналы: профильные Telegram-каналы, площадки фриланс-платформ, сообщества самозанятых, партизанские форматы в чатах.
 - Content angle: «как фрилансеру перестать быть исполнителем», «как поднять чек не теряя клиентов», «первый найм как способ снять потолок».
 - Social proof-gap: сегмент **не представлен** в публичных testimonials — это приоритет на сбор отзывов.
+
+**Регуляторный попутный ветер (2026-05-19):** формат самозанятости институционализируется. С 1 октября 2026 цифровые платформы обязаны давать самозанятым партнёрам преференции ≥2,9% от месячного дохода при добровольном соцстраховании (см. [[volatile-strict/industry-news/ru-self-employed-platform-preferences-2026]]). Для messaging Сегмента 3 это reframe от «фриланс = риск» к «фриланс = система со взрослеющими гарантиями» — согласуется с core-нарративом GRO «системность, а не лотерея». Параллельно ФЗ-168 («защита русского языка») затрагивает публичные тексты самозанятых, но даёт пять легальных исключений для латиницы ([[evolving/industry-trends/ru-brand-russification-law-2026]]) — фоновый, не первоочередной сигнал для сегмента.
 
 ## Внешние сигналы, усиливающие сегменты 2 и 3 (2026-04-11)
 
@@ -294,6 +296,20 @@ Pressfeed-обзор «Интенсивы по нейросетям» (2026-05-1
 2. **Канал-resonance.** Каналы, целящие в каждую из трёх Pressfeed-аудиторий (профильные обзоры, EdTech-СМИ, ремесленные сообщества по фрилансу), — приоритеты для размещений GRO.
 3. **Anti-positioning.** GRO **не AI-инструмент**, а **тренажёр роста** (см. [[canon/product-knowledge/gro-app-overview]]). Используя ту же сегментацию ЦА, GRO позиционируется через **другое обещание**: не «освоить AI-инструменты», а «системно вырасти, используя AI-помощник». Это перпендикулярно core-promise AI-курсов и Pressfeed-style школ.
 
+## «Совмещающие» как сегмент-мост (Минэк × Сбер, май 2026)
+
+Добавлено после ingest [[sources/2026-05-19-tg-moibiz-may-14-19-2026|@moibiz карусели Минэк×Сбер]] — полные данные на [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]]:
+
+Совместное исследование Минэкономразвития и Сбера (через госканал @moibiz) фиксирует, что **51% начинающих предпринимателей совмещают бизнес и наём**, причём доля совмещающих не убывает со зрелостью бизнеса (37% у молодого бизнеса, 41% у тех, кто >3 лет в деле). Это очерчивает **сегмент-мост** между Сегментом 1 (карьеристы в найме) и Сегментом 2 (предприниматели):
+
+- **Профиль «совмещающего»:** одновременно держит наёмную работу и развивает бизнес/практику. Не «либо найм, либо бизнес», а оба трека параллельно.
+- **Дефицит — не идеи и не капитал, а время и система** (тянет две роли). Это **точный product-fit** core-нарратива ГРО «системный рост маленькими шагами без выгорания».
+- **Hook:** «Ты совмещаешь бизнес и работу? Вас 51% — это норма, не переходное состояние. Вопрос не "когда уйдёшь в бизнес", а "как не выгореть на двух фронтах"». Анти-hook: «брось работу и уйди в бизнес» — противоречит данным (большинство сознательно совмещает).
+
+**Мотивационный профиль (тот же источник):** топ-мотив запуска — **самостоятельность (47%)**, а не высокий доход (43%) или контроль над временем (35%). Это калибрует messaging для Сегментов 2 и 3: автономия/контроль работают лучше денежных обещаний (совпадает с anti-hook «как заработать миллион» из [[evolving-strict/market-data/ru-self-employed-segments-2026]]).
+
+**Product-fit на старте:** исследование называет «внутреннюю готовность» одним из ключевых факторов старта (наряду с финансами и знаниями) — ровно то, что продаёт ГРО («тренажёр роста», работа с готовностью/системностью, а не капиталом). Готовый proof-point для лендинга.
+
 ## Общие наблюдения по всем трём сегментам
 
 - **Общее ядро JTBD:** «Я упёрся в потолок, нужен системный путь дальше». Эту формулировку лендинг выносит прямо в hero-блок («если ты уперся в потолок»).
@@ -310,6 +326,7 @@ Pressfeed-обзор «Интенсивы по нейросетям» (2026-05-1
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
 - [[evolving/content-trends/late-starter-founder-narrative-hooks]] — возрастная подгруппа 40+ в Сегменте 2
 - [[evolving/industry-trends/ru-creator-economy-monetization-2026]] — аспирационный креаторский overlap с Сегментом 3
+- [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]] — «совмещающие» (51%) как сегмент-мост + мотивы запуска (Минэк×Сбер)
 - [[canon/marketing-frameworks/fear-vs-shyness-tokovinin]] — operational различение страха vs стеснения (применимо во всех 3 сегментах: career promotion, sales pitch, scope expansion)
 - [[canon/marketing-frameworks/peer-environment-aspiration-tokovinin]] — среда, не нужда, мотивирует (universal anchor для всех 3 сегментов)
 - [[canon/marketing-frameworks/passion-test-real-entrepreneur-tokovinin]] — passion-test self-diagnostic для founder-сегмента (Сегмент 2)

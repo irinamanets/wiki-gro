@@ -280,6 +280,7 @@ Declarative-регистр — **самый низкозатратный для 
 - [[canon/product-knowledge/gro-app-overview]] — механика продукта, к которой ведёт bridge
 - [[canon/target-audience/gro-segments]] — 3 сегмента ЦА, которые могут пересекаться со всеми тремя кластерами Bruch/Ghoshal
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]] — hook-family #13 даёт параллельные формулировки
+- [[evolving/content-trends/digital-organization-freelancer-hooks]] — смежная (operational/space) productivity-ось — порядок в цифровом пространстве как другой вход в ту же ценность
 - [[evolving/content-trends/owner-escape-operations-hooks]] — mined hooks, которые работают как downstream-tools внутри каждого Arc
 - [[evolving/content-trends/visotsky-case-study-structure]] — reusable case-study формат, в котором можно оборачивать каждый Arc
 - [[evolving/industry-trends/ru-smb-sales-q1-2026]] — контекст Q1 SMB pain, к которому привязан engagement-тест Крылова

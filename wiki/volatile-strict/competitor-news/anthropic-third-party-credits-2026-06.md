@@ -6,17 +6,27 @@ subtype: news
 layer: volatile-strict
 theme: competitor-news
 tags: [anthropic, agent-sdk, openclaw, ecosystem, distribution, ai-agents]
-confidence: medium
+confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-ai-newz-may-2026.md]
+updated: 2026-05-19  # +vcnews 61362 (2026-05-14): ЗАПУСК подтверждён vc.ru — кредиты на программное использование Claude Code через SDK / GitHub Actions / сторонние приложения (вкл. OpenClaw), не расходуются в обычном чате, лимиты по тиру подписки, overflow по API-расценкам. caveat «needs verification» снят, confidence medium→high
+sources: [sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md]
 namespace: mkt
 ---
 
-# Anthropic — кредиты Claude для third-party apps с 15 июня 2026
+# Anthropic — кредиты Claude для third-party apps (запущены, 14 мая 2026)
 
-**Дата сигнала:** 2026-05-13 (пост 4571 в [[sources/2026-05-14-tg-ai-newz-may-2026|@ai_newz]]) `[conf:medium, src:2026-05-13]`.
+**Дата сигнала:** 2026-05-13 (пост 4571 в [[sources/2026-05-14-tg-ai-newz-may-2026|@ai_newz]]) `[conf:medium, src:2026-05-13]`. **Подтверждение запуска:** 2026-05-14 (пост 61362 в [[sources/2026-05-19-tg-vcnews-may-12-14-2026|@vcnews]], vc.ru/ai/2924655) `[conf:high, src:2026-05-14]`.
+
+## Подтверждение запуска (vc.ru, 14 мая 2026)
+
+vc.ru как RU-mainstream second-source подтверждает, что Anthropic **ввела** дополнительные кредиты на **программное использование Claude Code** через **SDK, GitHub Actions и сторонние приложения, в том числе OpenClaw**. `[conf:high, src:2026-05-14]` Подтверждённые механики:
+
+- Кредиты **не расходуются во время обычного общения с ботом в чате** — отдельный пул только под программное/agentic-использование. `[conf:high, src:2026-05-14]`
+- **Лимиты зависят от уровня подписки.** `[conf:high, src:2026-05-14]`
+- Когда токены закончатся, **работу можно продолжить с оплатой по расценкам в API** (overflow-механизм). `[conf:high, src:2026-05-14]`
+
+Это снимает прежний `caveat: needs verification` (анонс был future-dated на 15 июня) — паттерн подтверждён живым запуском двумя независимыми источниками (@ai_newz прогноз + vc.ru факт). Confidence повышен medium→high.
 
 ## Что произошло
 
@@ -85,4 +95,9 @@ Anthropic могла себе позволить это объявление **�
 
 ## Caveat
 
-`@ai_newz` — vторичный пересказ. Дата запуска (15 июня) — future-dated, **нужна верификация по факту анонса**. До этого момента — operational signal для tracking, не canonical fact для пресс-цитат.
+`@ai_newz` (13 мая) — первичный сигнал-прогноз, был future-dated на 15 июня. **vc.ru (14 мая, пост 61362) подтвердил фактический запуск** — кредиты введены, механики совпали с прогнозом. Каveat снят: это теперь **подтверждённый факт** двумя независимыми источниками, пригоден для пресс-цитат с атрибуцией. Точные размеры пула по тирам ($20/$100/$200 из @ai_newz) vc.ru не детализировал — для конкретных чисел использовать @ai_newz-источник с пометкой `conf:medium`.
+
+## Источник
+
+- [[sources/2026-05-14-tg-ai-newz-may-2026]] — первичный прогноз-сигнал (пост 4571, 13 мая)
+- [[sources/2026-05-19-tg-vcnews-may-12-14-2026]] — подтверждение запуска (пост 61362, 14 мая)

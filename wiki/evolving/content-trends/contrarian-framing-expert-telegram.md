@@ -9,8 +9,8 @@ tags: [content, telegram, narrative, personal-brand, expert-voice, native]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +dnative как второй независимый экспертный канал с этим паттерном (B2C-AI-shopping, мета-вселенский хайп), confidence повышен до high
-sources: [sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md]
+updated: 2026-05-19  # +второй дамп @TorbosovLife (май 2026): мульти-паттерн-канал — добавлены art-edutainment-пилляр (#культпросвет) и AI-репурпозинг как смежные форматы того же оператора
+sources: [sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-torbosov-life-may-2026.md]
 namespace: mkt
 ---
 
@@ -96,6 +96,14 @@ Reusable content-паттерн, в котором эксперт-автор п�
 Подробный разбор кейса в его собственной странице: [[evolving/content-trends/dnative-ai-agent-shopping-skeptic-2026]].
 
 **Confidence повышен medium → high:** теперь паттерн наблюдаем у двух независимых экспертных авторов в двух разных вертикалях. Третье подтверждение усилит paттern до **canon** candidate.
+
+## Дополнение: @TorbosovLife как мульти-паттерн-канал (второй дамп, май 2026)
+
+Второй дамп канала ([[sources/2026-05-19-tg-torbosov-life-may-2026]], посты 19663–19714 за 2026-05-11..15) подтверждает, что Торбосов использует контр-нарративную рамку **не только** на рыночных темах, но и применяет тот же риторический ход в **art-edutainment**:
+
+- **Контр-нарратив, применённый к искусству (пост 19672 «Что считается искусством»):** хук через расхожее представление («много веков считалось, что критериями искусства являются мастерство, красота, сходство с реальностью») → деконструкция через прецедент (писсуар Дюшана 1917, банан Cattelan за $6,2m) → новый тезис («искусство не обязательно должно быть красивым или мастерски сделанным; решают эмоция + намерение + институции») → read-through на читателя («что думаете?»). Это **та же 4-элементная механика**, но operational-numbers заменены на art-history прецеденты — вариация, аналогичная dnative (где numbers заменены на personal experience-anchor).
+
+**Что это даёт паттерну:** третий под-приём вариации 4-го элемента — после operational-numbers (Торбосов-real-estate) и personal-experience-anchor (dnative) теперь **historical-precedent-anchor** (Торбосов-art). Все три — формы «внутреннего/первичного proof вместо цитирования вторичных источников». Канал @TorbosovLife — **мульти-паттерн-кейс**: один оператор демонстрирует контр-нарративную рамку, art-edutainment-пилляр (см. [[evolving/content-trends/founder-history-edutainment-format]]) и AI-репурпозинг (см. [[evolving/content-trends/torbosov-ai-reels-repurposing-2026]]) одновременно.
 
 ## Backlinks
 

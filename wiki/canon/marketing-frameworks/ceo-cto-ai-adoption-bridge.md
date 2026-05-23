@@ -9,14 +9,16 @@ tags: [ai-agents, organization, b2b-sales, leadership, content, consideration]
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-products-and-startups-may-2026.md]
+updated: 2026-05-19  # +«Заметки с полей - 2» (пост 1750): accountability-слой поверх верификации; ось «кто берёт ответственность»; рыночное доказательство — страхование AI-агентов
+sources: [sources/2026-05-14-tg-products-and-startups-may-2026.md, sources/2026-05-19-tg-products-and-startups-may-15-19-2026.md]
 namespace: mkt
 ---
 
 # CEO–CTO AI-adoption bridge
 
 **Источник:** Байрам Аннаков, пост 1748 ([[sources/2026-05-14-tg-products-and-startups-may-2026]]). Бай отмечает, что наблюдает «одну и ту же ситуацию уже который раз» — то есть это **повторяющийся паттерн** в компаниях, а не одиночный кейс. Канонический для B2B-маркетинга и для контента, адресованного руководителям.
+
+**Продолжение (2026-05):** пост 1750 «Заметки с полей - 2» ([[sources/2026-05-19-tg-products-and-startups-may-15-19-2026]]) развивает «шаг 3 (инвестиция в верифицируемость)» в отдельную ось — **accountability**: кто берёт на себя ответственность за результат работы AI. Подробный разбор — в [[evolving/industry-trends/ai-accountability-premium-2026]]; ниже добавлен раздел «Шаг 3.5».
 
 ## Базовая ситуация
 
@@ -95,6 +97,14 @@ namespace: mkt
 - Всё опять упрётся в человека (никакой acceleration)
 - Жди алертов в проде
 
+### Шаг 3.5 — Развести вопрос ответственности (accountability) — добавлено постом 1750
+
+Пост 1750 «Заметки с полей - 2» уточняет: за верификацией стоит **ещё более глубокий вопрос — accountability**. «Проверить, что AI сделал» и «взять на себя ответственность за результат» — это **не одно и то же**. Когда CTO спрашивает «а кто будет отвечать?» — это не Stanford-страшилка, а вопрос про accountability: если код написал AI и я его не понимаю (**comprehension debt**), как я возьму ответственность за прод?
+
+Главный сдвиг, который Аннаков формулирует в 1750: **маржу в софте всё больше будет забирать не тот, кто пишет код, а тот, кто гарантирует поведение/результат.** Делать стало дёшево → премию платят за обуздание AI и за готовность взять ответственность. Это уже **рыночно подтверждено** — появилось страхование действий AI-агентов (ElevenLabs/AIUC, февраль 2026): третья сторона за деньги берёт на себя ответственность за поведение чужого агента. Полный разбор — [[evolving/industry-trends/ai-accountability-premium-2026]] + [[volatile-strict/competitor-news/elevenlabs-aiuc-agent-insurance-2026]].
+
+**Практический вывод для шага 3:** инвестиция в верифицируемость — это не только «снизить количество багов», это **сделать результат AI таким, за который кто-то готов взять ответственность** (внутренний owner или внешний страховщик). Без этого слой (c) (платежи/безопасность) остаётся закрытым для AI навсегда.
+
 ### Шаг 4 — Договориться об identity-сдвиге разработчика
 
 Это **самый политический шаг**. Если CTO рассматривает внедрение AI как **экзистенциальную угрозу** — никакие рациональные доводы не помогут. Ситуация политическая, маскируется под техническую.
@@ -153,9 +163,12 @@ namespace: mkt
 - [[evolving/industry-trends/ai-cognitive-atrophy-identity-2026]] — identity-вопрос и comprehension debt как технический корень спора
 - [[evolving/content-trends/ai-product-engineer-content-hooks]] — готовые хуки на основе этой рамки
 - [[canon/marketing-frameworks/ai-native-dev-andre-dataist]] — кейс CAIO в финтехе как пример успешного перехода с признанием identity-сдвига
+- [[evolving/industry-trends/ai-accountability-premium-2026]] — accountability-ось (шаг 3.5), пост 1750
+- [[canon/marketing-frameworks/ai-agent-architectural-guardrails-2026]] — как технически снизить цену ответственности в категории (c)
 
 ## Источники
 
 - [[sources/2026-05-14-tg-products-and-startups-may-2026]] — пост 1748, attached/1748 (Reddit /r/ClaudeCode meme)
+- [[sources/2026-05-19-tg-products-and-startups-may-15-19-2026]] — пост 1750 «Заметки с полей - 2» (accountability-слой)
 - t.me/ProductsAndStartups/1740 — Stanford-исследование, на которое опирается CTO
 - t.me/ProductsAndStartups/1734 — comprehension debt и кризис идентичности

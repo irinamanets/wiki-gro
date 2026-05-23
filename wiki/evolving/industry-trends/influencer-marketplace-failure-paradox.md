@@ -9,8 +9,8 @@ tags: [marketplace, influencer-marketing, paradox, awareness]
 confidence: low
 stale: false
 created: 2026-04-27
-updated: 2026-05-15  # +Ogilvy 2026 (Cossa 23127, 2026-05-12): 50% маркетологов не могут доказать ROI, 44% запускают без KPI — структурное объяснение marketplace failure через measurement gap
-sources: [sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-peregudov-jan-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md]
+updated: 2026-05-22  # +Mavrck data-point (Горный 5071, 2026-05-16): крупнейший игрок ($300M raised) — agency-tool, НЕ маркетплейс; structural confirmation гипотез через winners. Prior: +Ogilvy 2026 measurement gap (50%/44%)
+sources: [sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-peregudov-jan-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -106,6 +106,19 @@ Ogilvy Influencer Trends 2026 (Cossa 23127, 2026-05-12) даёт **первое 
 
 Этот сигнал поднимает страницы с `confidence: low` до `confidence: medium` — есть triangulation: Горный (наблюдение), Ogilvy (количественная мера measurement gap), Перегудов (Creally как обход через одностороннюю автоматизацию).
 
+## Update 2026-05-22 — Mavrck: market-leader выжил, потому что НЕ маркетплейс
+
+Горный возвращается к теме через профиль Mavrck (#субботнийповтор 2022, обновлённый 2026-05-16, [[sources/2026-05-22-tg-startupoftheday-may-14-19-2026|пост 5071]]). Mavrck называет себя **лидером рынка сервисов для рекламы у блогеров** и привлёк **$300 млн** инвестиций. Ключевое для этой страницы: Mavrck — **не двусторонний маркетплейс**, а **agency-tool/SaaS на стороне бренда** (классификация блогеров, поиск, скоринг — см. [[canon/marketing-frameworks/influencer-pyramid-mavrck-5-tiers]]).
+
+**Почему это сильный data-point гипотезы:**
+
+- Крупнейший игрок категории ($300M, растущая выручка, купил Later и переименовался в Later) — это **именно** не-маркетплейс-архетип. Пока «десятки попыток маркетплейсов в разных странах… доля рынка микроскопическая» (Горный, 2026-04-19), agency-tool архетип консолидирует деньги и долю.
+- Это **изоморфно** counterpoint'у Creally (Перегудов, см. выше): обе успешные модели решают **одностороннюю** задачу автоматизации брендовой команды, а не двустороннюю marketplace-fit. Mavrck — второй независимый пример того же обхода, теперь от market-leader с 4-летней историей.
+
+**Следствие:** гипотезы #1 (hyperpersonalization gap), #3 (двойная ценность блогера как media) и #4 (custom-deal premium) получают **structural confirmation через winners** — рынок не остался без решения, он **обошёл** marketplace-формат через agency-tooling. Категория не «не работает» — она **работает в другой форме**.
+
+`confidence` остаётся `medium` (теперь triangulation из четырёх: Горный-наблюдение, Ogilvy-measurement-gap, Перегудов/Creally-обход, Mavrck-market-leader-архетип).
+
 ## TTL и возможный promotion
 
 `evolving` — через 90-180 дней:
@@ -114,6 +127,7 @@ Ogilvy Influencer Trends 2026 (Cossa 23127, 2026-05-12) даёт **первое 
 
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/influencer-pyramid-mavrck-5-tiers]] — 5-уровневая классификация Mavrck (agency-tool, обходящий marketplace-проблему)
 - [[canon/marketing-frameworks/external-validation-trap]] — adjacent (когда «рынок думает X», а реально Y)
 - [[evolving/competitor-positioning/grebenyuk-anomaly-community]] — direct-deal influencer-marketing exemplar
 - [[evolving/industry-trends/software-moat-erosion-2026]] — discussion of moats; marketplace-моат тоже под вопросом в AI-эпоху

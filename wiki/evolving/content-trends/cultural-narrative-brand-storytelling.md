@@ -105,7 +105,9 @@ GRO — productivity / professional growth продукт. Direct-перенос
 ## Связанные страницы
 
 - [[evolving/content-trends/portnyagin-founder-channel-patterns]] — где зафиксирован сам format-pattern сериала постов
+- [[evolving/content-trends/immersive-theater-brand-launch-event]] — физическая активация этого нарратива на launch-event'е (открытие комплекса как иммерсивный спектакль)
 - [[canon/marketing-frameworks/narrative-as-brand-currency]] — мета-фреймворк (нарратив как валюта)
 - [[canon/marketing-frameworks/cross-industry-pattern-borrowing]] — pattern переносимости между нишами
 - [[canon/marketing-frameworks/consulting-brand-naming-typology]] — типология подходов к именованию (если страница существует)
 - [[sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026]]
+- [[sources/2026-05-19-tg-portnyaginlive-20260519-122009]] — открытие комплекса Siberia на Бауманской (нарратив активирован офлайн)

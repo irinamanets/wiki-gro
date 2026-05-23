@@ -97,4 +97,6 @@ GRO — **brand**, не «public figure». Прямое extreme-PR-event ред�
 
 ## См. также
 
+- [[evolving/content-trends/immersive-theater-brand-launch-event]] — конкретный механизм перевода аудитории «наблюдатель → вовлечённый» через иммерсию (open-event Siberia)
+- [[evolving/content-trends/factory-tour-pro-day-event-format]] — другой experiential-event формат, конверсию которого описывает этот 3-сегментный фрейм
 - [[sources/2026-05-05-tg-petrochenkow-apr-may-2026]] — первоисточник (посты 1280-1282 + transcript 1280.mp4, 2026-04-28)

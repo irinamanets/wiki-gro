@@ -9,8 +9,8 @@ tags: [premium, russia, market-snapshot, smb, crisis, sentinel]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-grebenukm-may-2026.md, sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-04-14-tg-kommersant-apr-13-14.md]
+updated: 2026-05-19  # +cross-geo sentinel: Dubai premium-cooling от того же оператора (Торбосов, второй дамп) — «до осени не жду активности от покупателей»
+sources: [sources/2026-05-14-tg-grebenukm-may-2026.md, sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-04-14-tg-kommersant-apr-13-14.md, sources/2026-05-19-tg-torbosov-life-may-2026.md]
 namespace: mkt
 ---
 
@@ -33,6 +33,9 @@ Trend-страница, фиксирующая распространение pr
 | Whitewill / Торбосов | 2026-04-08 | Premium real estate (Москва) | «Худший Q1 за 9 лет», «офисы продаж работают, кофе наливают — спроса не хватает», 200 тыс ₽ за один premium lead | `[conf:medium, src:2026-04-08]` |
 | Коммерсантъ — aggregate | 2026-04-14 | Premium real estate (Москва) | 109 сделок Q1 2026, **−54% YoY** | `[conf:high, src:2026-04-14]` |
 | **Премиум-event агентство (через Гребенюка)** | **2026-05-11** | **Premium events (детские праздники, Москва)** | **«Сильный тренд по всей вип-клиентской базе — начали экономить, считать деньги. Даже те, кто раньше жил на крайне широкую ногу»** | **`[conf:medium, src:2026-05-11]`** |
+| **Whitewill / Торбосов (cross-geo)** | **2026-05-13** | **Premium real estate (Дубай)** | **«До осени на рынке Эмиратов не жду привычной мне активности от покупателей»** — прямой cooling-прогноз по второй гео того же оператора | **`[conf:medium, src:2026-05-13]`** |
+
+**Cross-geo caveat (четвёртый sentinel).** Этот сигнал — от **того же оператора** (Торбосов/Whitewill), что и первый, поэтому он **не** добавляет independence в строгом смысле (тот же информант). Но он добавляет **географическое расширение**: cooling теперь констатируется тем же экспертом не только для Москвы (Q1), но и для Дубая (лето 2026). Это усиливает гипотезу, что речь о behavioral-shift самой premium-аудитории (которая мобильна между Москвой и Эмиратами), а не о локальном московском артефакте. См. полный operational-разрез в [[sources/2026-05-19-tg-torbosov-life-may-2026]] и [[evolving-strict/market-data/ru-premium-real-estate-q1-2026]]. `[conf:medium, src:2026-05-13]`
 
 ## Что это значит для маркетинга
 
@@ -85,6 +88,7 @@ Trend-страница, фиксирующая распространение pr
 ## Связанные страницы
 
 - [[evolving-strict/market-data/ru-premium-real-estate-q1-2026]] — первый sentinel (real estate, Q1)
+- [[sources/2026-05-19-tg-torbosov-life-may-2026]] — четвёртый (cross-geo Dubai) sentinel
 - [[evolving/competitor-positioning/grebenyuk-anomaly-community]] — носитель второго sentinel
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — смежный макро-stressor
 - [[evolving/content-trends/crisis-defiance-essay-long-form]] — narrative-реакция founder-channels

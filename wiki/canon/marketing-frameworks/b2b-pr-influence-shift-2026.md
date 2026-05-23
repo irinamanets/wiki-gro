@@ -9,12 +9,13 @@ tags: [pr, b2b, content, positioning, awareness, trendwatching]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-19  # +media monitoring; +PR competence shift; +PR-readiness-10-signals upstream gating; +PR-DOCTOR organizational frame (3-департаментная система)
+updated: 2026-05-19  # +media monitoring; +PR competence shift; +PR-readiness-10-signals upstream gating; +PR-DOCTOR organizational frame (3-департаментная система); +Перегудов practitioner-свидетельство Рычага 3 (exit-стоимость как верхний рубеж бизнес-результата PR)
 sources:
   - sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md
   - sources/2026-05-19-pressfeed-mediamonitoring-pr-base-skill.md
   - sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md
   - sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md
+  - sources/2026-05-19-tg-peregudov-may-15-2026.md
 namespace: mkt
 ---
 
@@ -121,6 +122,8 @@ PR DOCTOR в Pressfeed ([[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sal
 - **Рычаг 2 «продукт-зависимый sales-ownership»** → для сложных B2B-продуктов (типа Интенсива GRO) PR-материалы становятся sales-поддержкой. Для несложных SaaS PR может работать stand-alone на awareness/lidogen.
 - **Рычаг 3 «system-level Revenue KPIs»** → PR оценивается **не по упоминаниям в СМИ**, а по вкладу в awareness + лояльность ЦА (которые в свою очередь конвертируются в leads и закрытия продаж). См. [[canon/marketing-frameworks/pr-measurement-digital-footprint|цифровой след]] как операционализация.
 
+**Practitioner-свидетельство Рычага 3 (Update 2026-05-19, Перегудов).** Михаил Перегудов ([[sources/2026-05-19-tg-peregudov-may-15-2026|TG, пост 444]]) — founder с **тремя экзитами** («Партия еды»→Яндекс, Muzlab→Сбер, «Нешкола»→продана) — формулирует верхний рубеж бизнес-результата PR как **exit-стоимость компании**, а не только awareness/loyalty/leads: *«сила бренда (в том числе, в деловых кругах) … добавляет реальную ценность компании … которая может сконвертироваться в реальные рубли или доллары»*. Это **смещает целевую аудиторию PR** с клиентов на инвесторов и покупателей бизнеса, и подтверждает Рычаг 3 не теорией Pressfeed/PR DOCTOR, а founder-практикой. Полная рамка — [[canon/marketing-frameworks/pr-as-exit-value-driver-peregudov]].
+
 **Anti-pattern из PR DOCTOR кейса:** *«Production-руководители требовали PR/маркетинг бросить абстрактные задачи и запускать прямые рекламные материалы с призывами к покупке».* Это типичная executive-misunderstanding функции PR. Шифт-2026 даёт PR-команде arguments **что** делать; 3-dept рамка даёт arguments **почему** этого не надо ломать.
 
 **Numerical signal:** CMO-парадокс [[evolving-strict/market-data/cmo-strategist-executor-gap-2026|84%/64%]] — изоморфная дисфункция на уровне маркетинг-лидера. Тот же gap (declared stratagy → реальные tactic-метрики) бьёт по PR-функции.
@@ -153,5 +156,7 @@ PR DOCTOR в Pressfeed ([[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sal
 - [[canon/marketing-frameworks/event-coordination-checklist-prdoctor]] — operational microcase 3-dept координации (PR раздаёт смыслы, маркетинг готовит брифы, продажи фиксируют ОС)
 - [[canon/marketing-frameworks/gtm-shared-understanding-anchor]] — anchor-понимание продукта как input смысловой архитектуры
 - [[evolving-strict/market-data/cmo-strategist-executor-gap-2026]] — изоморфный gap на уровне маркетинг-лидера
+- [[canon/marketing-frameworks/pr-as-exit-value-driver-peregudov]] — practitioner-расширение Рычага 3: PR на инвесторов/покупателей ради exit-стоимости (Перегудов, 3 экзита)
 - [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]] — первоисточник
 - [[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict]] — organizational frame
+- [[sources/2026-05-19-tg-peregudov-may-15-2026]] — practitioner-свидетельство Рычага 3

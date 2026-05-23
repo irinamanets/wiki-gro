@@ -9,8 +9,8 @@ tags: [content, telegram, author-blogger, content-format, founder-channel, russi
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-05  # +апр-май-2026 dump: 11-й формат (serialized cultural-narrative product launch), 12-й (defensive brand-mission essay), recurrent rubric «бизнес-события мая» — продолжение
-sources: [sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026.md]
+updated: 2026-05-19  # +май-2026 dump (3-й): execution-фаза format #7 (immersive-theater launch Siberia на Бауманской) + 13-й формат (B2B-закупка на consumer founder-канале)
+sources: [sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026.md, sources/2026-05-19-tg-portnyaginlive-20260519-122009.md]
 namespace: mkt
 ---
 
@@ -138,6 +138,8 @@ namespace: mkt
 
 Формат — **scarcity-priming**: «открываем скоро, запоминайте локацию». Нет call-to-book, только awareness. Это работает как preparatory post перед более громким launch-моментом в будущем.
 
+**Execution-фаза подтверждена 3-м дампом (2026-05-15, посты 11248–11257):** обещанный «громкий launch-момент» состоялся — открытие комплекса оформлено как полноценный **иммерсивно-театральный event на 250+ гостей** (СМИ, инфлюенсеры, друзья бренда), с групповыми экскурсиями, костюмированными перформерами и пресс-зоной (медиа-партнёр The VOICE Mag). См. [[sources/2026-05-19-tg-portnyaginlive-20260519-122009]]. Это закрывает полную дугу format #7: **teaser (11167, апрель) → execution (11248, май)**. Сам event-формат вынесен отдельной страницей: [[evolving/content-trends/immersive-theater-brand-launch-event]]. Канал здесь работает как **distribution-канал собственного event'а** — founder-channel конвертирует охват в awareness реального launch'а.
+
 ### 8. Мем-news как регуляторный комментарий
 
 **Пример:** пост 11165 — VPN-metering news + мем с Кристофом Вальцом («Вы же включали сегодня ВПН, верно?»).
@@ -246,6 +248,28 @@ namespace: mkt
 
 **Для GRO:** применимо для критики «AI-замена реального обучения» / «эксплуатация чужого контента» / «инфоцыганство». Если GRO такие критики получает — defensive-mission essay должен быть готов заранее, не post-hoc написан под конкретный кейс.
 
+### 13. B2B-закупка на consumer founder-канале
+
+**Пример:** пост 11258 (2026-05-19) — «Ищем поставщиков пеллет и брикетов» для двух московских комплексов Siberia (по 50 т/мес каждого, ≈5000 упаковок, берёза в приоритете, низкая дымность/зольность, контакт закупщика @Zakup007).
+
+*Зафиксировано при ingest третьего дампа канала.*
+
+**Жанр:** **supply-chain-аутрич, размещённый не на B2B-площадке, а в личном бренд-канале** с массовой consumer-аудиторией. Канал, который обычно дистрибутирует brand-PR и educational-контент, используется как **procurement-инструмент**.
+
+**Структура поста:**
+1. Заголовок-задача (жирным): «Ищем поставщиков X»
+2. Контекст (зачем): «Расширяем сеть Siberia — нужны партнёры по топливу»
+3. Спецификация требований (нумерованный/маркированный список: объём, материал, качественные параметры)
+4. Гарантия для поставщика («стабильные объёмы, долгосрочное сотрудничество»)
+5. Прямой CTA с контактом закупщика
+
+**Почему это работает:**
+- **Reach-as-procurement-asset:** аудитория крупного founder-канала включает предпринимателей-поставщиков → один пост достаёт релевантных B2B-контрагентов без затрат на B2B-маркетплейс или тендер-площадку.
+- **Trust-transfer на закупку:** обращение от лица узнаваемого бренда снижает barrier у поставщика (известный платёжеспособный контрагент).
+- **Двойная функция контента:** пост одновременно (а) решает операционную задачу, (б) сигналит аудитории о масштабе бизнеса («расширяемся, нужно 100 т/мес топлива») — implicit growth-flex.
+
+**Для GRO:** прямой аналог — использование собственного бренд-канала/комьюнити для **поиска подрядчиков/партнёров/контента** (например, «ищем fitness-экспертов для коллабораций», «ищем UGC-авторов»). Тот же template: задача → контекст → требования → гарантия → контакт. Работает, когда у канала есть аудитория с нужным профилем поставщиков. Не применимо для масс-consumer аудитории без B2B-сегмента.
+
 ## Пропорции форматов в дампе
 
 | Формат | Кол-во постов в дампе | Комментарий |
@@ -277,6 +301,14 @@ namespace: mkt
 - **Serialized launch (новый 11-й формат) — 5 банных постов**: brand-storytelling сериал под один launch event Siberia на Бауманской.
 - **Defensive brand-mission essay (новый 12-й формат) — 11243**: response на критику.
 
+## Дополнительные наблюдения третьего дампа (май 2026)
+
+Третий дамп ([[sources/2026-05-19-tg-portnyaginlive-20260519-122009]], 11 постов 15-19 мая) добавляет:
+
+- **Format #7 закрыл полную дугу teaser → execution.** Pre-launch scarcity-teaser Siberia на Бауманской (11167, апрель) получил свою execution-фазу: открытие как **иммерсивно-театральный event на 250+ гостей** (СМИ + инфлюенсеры + друзья бренда), групповые экскурсии, костюмированные перформеры, пресс-зона с медиа-партнёром (The VOICE Mag). Сам event-формат вынесен отдельной страницей [[evolving/content-trends/immersive-theater-brand-launch-event]]. Канал здесь — **distribution-канал собственного event'а**.
+- **B2B-закупка на consumer-канале (новый 13-й формат) — 11258**: supply-chain-аутрич (поиск поставщиков топлива) размещён в личном бренд-канале, не на B2B-площадке. Reach-as-procurement-asset.
+- **Подтверждение паттерна «канал монетизирует через brand-PR собственных проектов»**: 10 из 11 постов дампа — про Siberia (открытие + закупка). Канал в редакторском режиме всё активнее работает как **owned-media основного бизнеса founder'а**, а не как independent media-проект.
+
 ## Маркетинговое следствие для GRO
 
 1. **Редакторский режим как option, не baseline:** GRO пока ведёт канал (если ведёт) в personal-founder-authorship режиме. Редакторский режим — это путь масштабирования, когда objem контент-плана превышает что founder может написать лично. Переход надо делать осознанно и с явным disclosure (тег `#редакцияканала` или аналог).
@@ -296,6 +328,7 @@ namespace: mkt
 - [[evolving/content-trends/telegram-author-channel-patterns]] — соседний паттерн (personal-authorship @hutzp)
 - [[evolving/content-trends/telegram-native-formats]] — общая рамка native-форматов
 - [[evolving/content-trends/ru-business-tg-content-drift-2026]]
+- [[evolving/content-trends/immersive-theater-brand-launch-event]] — execution-фаза format #7 (открытие Siberia на Бауманской как иммерсивный спектакль)
 - [[evolving/content-trends/cultural-narrative-brand-storytelling]] — детализация 11-го формата (5 бань Siberia)
 - [[canon/marketing-frameworks/petscom-unit-economics-failure]] — кейс из рубрики «Кладбище стартапов»
 - [[canon/marketing-frameworks/samwer-rocket-internet-fast-follower]] — positive case из той же educational рубрики (фактически в canon-strict, см. [[canon-strict/historical-campaigns/samwer-rocket-internet-fast-follower]])
@@ -305,6 +338,7 @@ namespace: mkt
 - [[volatile-strict/industry-news/ru-vpn-metering-proposal-2026-04]] — пример meme-news format
 - [[sources/2026-04-14-tg-portnyaginlive-mar-apr-2026]]
 - [[sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026]]
+- [[sources/2026-05-19-tg-portnyaginlive-20260519-122009]] — третий дамп (открытие Siberia + B2B-закупка)
 
 ## Backlinks
 

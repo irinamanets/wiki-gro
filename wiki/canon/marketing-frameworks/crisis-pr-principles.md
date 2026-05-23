@@ -9,12 +9,13 @@ tags: [pr, community]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-20  # +media monitoring as operational sensor for early diagnosis; +3-стадийная таксономия weak-signals + кейс «Уральские авиалинии»
+updated: 2026-05-20  # +media monitoring as operational sensor for early diagnosis; +3-стадийная таксономия weak-signals + кейс «Уральские авиалинии»; +поджанр «культура отмены» (cancel-culture) с 2-сценарным playbook (RB/Губанов)
 sources:
   - sources/2026-04-16-condense-pressfeed-35-articles.md
   - sources/2026-05-18-pressfeed-black-pr-community-doubt.md
   - sources/2026-05-19-pressfeed-mediamonitoring-pr-base-skill.md
   - sources/2026-05-19-pressfeed-mediamonitoring-prognozirovanie-weak-signals.md
+  - sources/2026-05-19-tg-rb-ru-may-14-19-2026.md
 namespace: mkt
 ---
 
@@ -70,6 +71,16 @@ Reusable фреймворк управления коммуникацией в �
 - Стадия снижения доверия (2.1–2.5) → нужен полноценный антикризисный протокол ↓ ниже + перехват нарратива
 - Устойчивый негатив (3.1–3.3) → классический PR не работает, нужен **рестейтмент** (см. [[canon/marketing-frameworks/convenient-blame-association-pattern]])
 
+## Поджанр: культура отмены (cancel culture)
+
+Отдельный класс кризиса со специфичной динамикой — **«отмена» бренда** в соцсетях (cancel culture). Отличается от классического репутационного кризиса скоростью (кейс набирает обороты за 1–2 дня) и эмоциональностью (сообщество-driven, не СМИ-driven). Прикладной 2-сценарный playbook реакции — отдельная страница [[evolving/content-trends/brand-cancellation-response-playbook-2026]] (RB/Губанов, май 2026):
+
+- **Сценарий 1 («не подливать масла в огонь»)** при ограниченном масштабе → точечная работа, единый голос команды, не оправдываться/не нападать/не удалять.
+- **Сценарий 2 («признать вину и исправить»)** при широком распространении → публичное признание ошибки + конкретное исправляющее действие (кейс медиа «А!»: увольнение + извинения + донат в профильный фонд).
+- **Decision-rule (Губанов):** масштаб распространения определяет выбор сценария — точка перехода в момент, когда тема вышла за пределы конкретного комьюнити в широкое инфополе.
+
+Антипаттерны там полностью совпадают с разделом «Антипаттерны» выше — это специализация общей рамки под скорость соцсетевой отмены.
+
 ## Применимость к GRO
 
 Для мобильного приложения кризисные сценарии:
@@ -86,6 +97,7 @@ Reusable фреймворк управления коммуникацией в �
 - [[canon/marketing-frameworks/weak-signals-crisis-3-stages]] -- 3-стадийная таксономия маркеров (ранние сигналы / снижение доверия / устойчивый негатив) для media-monitoring
 - [[canon/marketing-frameworks/convenient-blame-association-pattern]] -- финальная точка дрейфа: бренд = «удобный виновник»; требует рестейтмента вместо классического антикризиса
 - [[canon-strict/historical-campaigns/byju-reputation-collapse-case]] -- кейс полного цикла отсутствия активного управления (Byju's: 2 года до краха)
+- [[evolving/content-trends/brand-cancellation-response-playbook-2026]] -- поджанр «культура отмены»: 2-сценарный playbook реакции на отмену бренда (RB/Губанов)
 - [[evolving/industry-trends/native-pr-russia-2026]] -- рынок PR
 - [[evolving/customer-feedback/gro-app-store-reviews]] -- текущий feedback GRO
 

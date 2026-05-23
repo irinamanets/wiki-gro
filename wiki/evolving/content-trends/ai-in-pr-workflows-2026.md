@@ -90,6 +90,8 @@ namespace: mkt
 - [[sources/2026-04-14-tg-techno-yandex-mar-apr-2026]] — карусель 5056-5058 `@techno_yandex` 31.03.2026 + video transcripts (enrich 2026-04-15)
 - [[sources/2026-04-14-tg-moibiz-apr-04-14]] — запуск инструмента видимости в Алисе AI (параллельный Yandex-сигнал)
 - [[evolving/content-trends/ai-serial-content-format-2026]] — AI-сериалы как content-format (из того же канала, video 5083)
+- [[evolving/content-trends/ai-photoshoot-prompt-framework-2026]] — следующий Яндекс-how-to (AI-фотосессия, карусель 5223–5230, май 2026): тот же awareness-фронт от профессионалов к массовому пользователю
+- [[sources/2026-05-19-tg-techno-yandex-may-14-19-2026]] — выгрузка @techno_yandex 14–19 мая 2026
 
 ## Backlinks
 

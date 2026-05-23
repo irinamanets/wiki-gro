@@ -9,8 +9,8 @@ tags: [competitor, indirect-competitor, management, paid-community, telegram, co
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-18  # +Continuity-update mini-dump 2026-05-16: AI-нарратив pivot 1→2 фаза (risk discipline) — 6 рисков AI + dual-CEO OpenAI; см. также +Третий ingest 6-12 мая (cadence восстановлен, productized lestница раскрыта)
-sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md]
+updated: 2026-05-22  # +Continuity-update пост 1337 (18 мая): CEO-succession нарратив (Джобс→Кук→Тернус) + бизнес-кейс крупной компании как management-урок; извлечена canon-рамка operational-ceo-as-strategist-cook. Prior: mini-dump 2026-05-16 (AI-нарратив pivot 1→2 фаза); третий ingest 6-12 мая (cadence восстановлен, productized лестница раскрыта)
+sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md]
 namespace: mkt
 ---
 
@@ -189,6 +189,25 @@ TYPICAL позиционируется как «человеко-centric» manag
   - (в) Появляется ли отсылка к собственному продукту в risk-context (то есть «приходите в группу — там разбираем эти 6 рисков»)?
   - (г) Заходит ли voice ведущей в эту тему так же, как в emotional labour / cognitive biases — то есть, удержится ли personal voice при сложной AI-тематике, или перейдёт в более impersonal explanatory tone?
 
+## Continuity-update (пост 1337, 18 мая 2026 — пятый ingest)
+
+Через несколько дней после mini-dump 2026-05-16 — одиночный пост 1337 ([[sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook]], `2026-05-18`) с фото-вложением (Тим Кук). Это **первый одиночный-пост ingest** канала (предыдущие были дампами/мини-дампами).
+
+- **Новый content-pillar: «бизнес-кейс крупной компании как management-урок».** Пост — переупаковка известного кейса Apple/Тима Кука в reusable-нарратив «операционный руководитель может быть стратегом» (3 качества). Это **отличается** от предыдущих pillars (cognitive biases / performance management / AI-risk-discipline): TYPICAL добавляет формат **«разбор лидерства известного CEO»** — низкозатратный (берёт публично-известный кейс) и высоко-shareable. Извлечена canon-рамка [[canon/marketing-frameworks/operational-ceo-as-strategist-cook]].
+
+- **CEO-succession как нарративная рамка.** Пост открывается отсылкой к смене главы Apple (Кук → Джон Тернус) и линкуется на предыдущий пост 1333 («Раз уж мы заговорили про Apple»). Это **продолжение Apple-серии** внутри канала (1333 — Apple-Siri growth-vs-craft, 1337 — Кук-лидерство) и **тематически смыкается** с dual-CEO-фреймом ([[canon/marketing-frameworks/openai-dual-ceo-management-contours]], пост 1336). TYPICAL устойчиво разрабатывает тему **«навыки управления различаются по типу/стадии»** — теперь уже в 3 постах подряд (1333/1336/1337).
+
+- **Cadence — стабилен.** Пост через ~3-4 дня после mini-dump'а (1336 от 15 мая → 1337 от 18 мая) подтверждает ~2-3 поста/неделя. Watchlist «продолжается ли регулярная публикация» — снова **подтверждён**.
+
+- **Фактологическая аккуратность TYPICAL — снижена в этом посте.** Пост содержит датировочную неточность («Кук пришёл в 1998, когда компания была на грани банкротства» — near-bankruptcy фаза Apple это 1996-97). Это **второй наблюдаемый случай** Apple-датировочной неточности в RU-management-пересказах (первый — Спиридонов «1977» в [[canon/marketing-frameworks/jobs-2x2-product-line-radical-cut]]). Для GRO-content: TYPICAL — хороший source **рамок и нарративов**, но **не fact-checked source дат/чисел** про западные компании. Перепроверять фактуру перед републикацией.
+
+- **Что это меняет в profile.** Confidence сохраняется на `medium-high`. Добавляется наблюдение: TYPICAL диверсифицирует content-pillars (cognitive biases → AI-productivity → AI-risk → CEO-leadership-cases), сохраняя единый management-lens. Это признак зрелой content-машины, а не лаунч-кампании.
+
+- **Watchlist на следующий ingest:**
+  - (а) Продолжается ли Apple/CEO-leadership серия (4-й пост подряд)?
+  - (б) Появляется ли своя rubric для «разбора лидерства CEO» (brand-canonical формат) или это разовый ситуативный пост на актуальном news-поводе (смена CEO Apple)?
+  - (в) Появляются ли отсылки к собственному продукту TYPICAL в этих case-study постах (мост от кейса к группе/консалтингу)?
+
 ## Contradictions
 
 _Нет зафиксированных противоречий._
@@ -217,3 +236,5 @@ _13 pages link to this one._
 - [[sources/2026-05-05-tg-typicalcompany-may-2026-redump]]
 - [[sources/2026-05-05-tg-your-pet-project-feb-may-2026]]
 - [[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]]
+- [[sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook]]
+- [[canon/marketing-frameworks/operational-ceo-as-strategist-cook]]

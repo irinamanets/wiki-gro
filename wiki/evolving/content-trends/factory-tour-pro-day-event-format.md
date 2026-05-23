@@ -139,6 +139,7 @@ GRO как продукт может использовать этот форм�
 
 ## Связанные страницы
 
+- [[evolving/content-trends/immersive-theater-brand-launch-event]] — параллельный experiential-event формат: PRO-день = рациональное operational immersion (B2B), immersive-theater = эмоциональное sensory immersion (B2C/premium)
 - [[evolving/content-trends/event-speaker-carousel-format]] — стандартный premium-event-формат (Tinkoff Tolk), к которому PRO-день добавляет operational-измерение
 - [[evolving/content-trends/extreme-pr-event-audience-segmentation]] — Petrochenkov-фрейм 3-сегментной аудитории, через который можно описать конверсию PRO-дня (наблюдатель → вовлечённый → фанат)
 - [[evolving/content-trends/factory-discipline-narrative-hook]] — content-hook narrative, который PRO-день эксплуатирует на самой площадке

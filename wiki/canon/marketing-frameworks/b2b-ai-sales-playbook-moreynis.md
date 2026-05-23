@@ -9,8 +9,8 @@ tags: [b2b, ai, consideration, decision, sales, positioning]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +правило 11 (AI-self-automating employees, post 7832), усиление правил 1/5/10 (necessity vs nice-to-have $1T thesis, post 7831), revenue-share-promotion вариант (post 7825)
-sources: [sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md]
+updated: 2026-05-19  # +4-й source (temno 7834-7842): cross-ref на vertical-niche (7834), only-product-scales (7836), able+willing (7841); усиление правила 5 industry-mix данными
+sources: [sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -124,6 +124,8 @@ Cost-aware design rule, обнаруженный пользователями Op
 **Messaging-следствие:** не «ваш бизнес вырастет», а «вы получите обратно вечера с семьёй / спорт / хобби / сон». Anchor — лайфстайл, не P&L. Это **один из самых упускаемых moment'ов B2B-ИИ**, потому что фаундеры невольно подставляют в SMB свои мотивации.
 
 Для [[canon/target-audience/gro-segments|сегмента «предприниматели» GRO]] это прямое правило: позиционировать GRO для SMB-владельцев под «верните время на жизнь», не под «растите бизнес быстрее».
+
+**Усиление [2026-05-19] — эмпирика состава SMB-аудитории.** Дайджест @temno 7834 ([[sources/2026-05-19-tg-temno-moreynis-may-14-19-2026]]) приносит a16z/OpenAI [[evolving-strict/market-data/chatgpt-entrepreneur-industry-mix-2026|industry-mix данные]]: массовый ИИ-предприниматель — это professional services, ритейл, ремонтные/бьюти услуги, а **не** tech startup (5%). Это data-подтверждение правила 5: реальный SMB-сегмент = non-tech сервисный владелец, у которого мотивация — lifestyle/выживание, не «техностартаперский рост». Связано с [[canon/marketing-frameworks/sell-the-answer-not-platform-moreynis|vertical-niche позиционированием]] (продавать «ответ в формулировке ниши»).
 
 ## Правило 6: Экономия ИЛИ рост выручки — но не абстрактная «эффективность»
 
@@ -307,6 +309,11 @@ Cost-aware design rule, обнаруженный пользователями Op
 - [[sources/2026-04-14-tg-temno-moreynis-mar-apr-2026]] — первичный источник (правила 1–8)
 - [[sources/2026-05-05-tg-temno-moreynis-apr-may-2026]] — второй источник (дополнения к правилам 1, 4 + новые правила 9–10)
 - [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] — третий источник (правило 11 + necessity-vs-nice-to-have thesis в правило 1, $1T SMB thesis)
+- [[sources/2026-05-19-tg-temno-moreynis-may-14-19-2026]] — четвёртый источник (industry-mix данные для правила 5; sibling-фреймы vertical-niche / only-product-scales / able+willing)
+- [[canon/marketing-frameworks/sell-the-answer-not-platform-moreynis]] — vertical-niche positioning; позиционная сторона правил 1/5
+- [[canon/marketing-frameworks/only-product-scales-harvey-moreynis]] — «масштабируется только продукт»; product-сторона правила 1
+- [[canon/marketing-frameworks/able-and-willing-customer-selection-moreynis]] — able+willing выбор клиента; pre-filter для правил 1/5/10
+- [[evolving-strict/market-data/chatgpt-entrepreneur-industry-mix-2026]] — data-anchor для правила 5 (состав SMB-аудитории)
 
 ## Backlinks
 

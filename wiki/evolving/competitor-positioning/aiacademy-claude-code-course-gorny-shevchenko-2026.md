@@ -9,8 +9,8 @@ tags: [ai, course, education, ru-market, founder-led, entrepreneur-audience, cla
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14
-sources: [sources/2026-05-05-tg-startupoftheday-apr-may-2026.md, sources/2026-05-14-tg-startupoftheday-may-5-13-2026.md]
+updated: 2026-05-22  # +финальный анонс (5069, 2026-05-14): «последний анонс, откладывать не надо», 2 вебинара ~4 ч, старт-суббота 16 мая подтверждён. 4-й промо-пост за 14 дней
+sources: [sources/2026-05-05-tg-startupoftheday-apr-may-2026.md, sources/2026-05-14-tg-startupoftheday-may-5-13-2026.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -21,6 +21,8 @@ namespace: mkt
 Анонс через 3 поста в @startupoftheday: 5044 (запуск 2026-04-30), 5048 (objection-ответ 2026-05-02), 5051 (target-расширение 2026-05-04). Источник — [[sources/2026-05-05-tg-startupoftheday-apr-may-2026]].
 
 **Update 2026-05-14** (по 2 постам 5058 + 5067 из [[sources/2026-05-14-tg-startupoftheday-may-5-13-2026]]): добавлены данные о **составе группы** на момент 2026-05-08 и **программе** на момент старта 2026-05-16.
+
+**Update 2026-05-22** (пост 5069, 2026-05-14, из [[sources/2026-05-22-tg-startupoftheday-may-14-19-2026]]): **финальный (4-й) анонс** — «В субботу стартуем… Два вебинара, примерно 4 часа видео… Это последний анонс, откладывать не надо уже.» Подтверждает: (а) формат **2 вебинара ~4 ч видео**; (б) старт **в субботу 2026-05-16**; (в) **4 промо-поста за 14 дней** (5044 → 5048 → 5051 → 5058 → 5067 → 5069) — это **очень высокая частота author-promo** для @startupoftheday. Маркетинговый сигнал интенсивности: курс получает significant share-of-channel у автора в pre-launch окне, что подтверждает thesis #3 («AI-курс на AI-content-канале = высокая конверсия») из секции «Что это значит для GRO».
 
 ## Состав группы (на 2026-05-08, пост 5058)
 
@@ -147,6 +149,8 @@ GRO trust-pattern: **Лапшина (founder) сама использует GRO*
 - [[canon/marketing-frameworks/peregudov-vibecoding-founder-playbook-2026]] — founder-CEO внедряет AI sам → проявляется в content
 - [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]] — Рыбаковский фрейм community vs deal (Горный делает product-as-deal, не community; курс — product, не клуб)
 - [[sources/2026-05-05-tg-startupoftheday-apr-may-2026]] — оригинал (3 поста: 5044, 5048, 5051)
+- [[sources/2026-05-14-tg-startupoftheday-may-5-13-2026]] — состав группы + программа (5058, 5067)
+- [[sources/2026-05-22-tg-startupoftheday-may-14-19-2026]] — финальный анонс (5069)
 - [[sources/2026-04-14-tg-startupoftheday-mar-apr-2026]] — pre-launch контекст автора
 - [[sources/2026-04-27-tg-startupoftheday-apr-15-27-2026]] — пред-history того же канала
 

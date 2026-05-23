@@ -9,8 +9,8 @@ tags: [content, hooks, ai, authenticity, counter-narrative, telegram, brand-voic
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md]
+updated: 2026-05-19  # +Vendor self-own exemplar (Sony Xperia «лучшая антиреклама ИИ») через @techno_yandex 5235
+sources: [sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-19-tg-techno-yandex-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -90,6 +90,21 @@ Caveat: это работает, только если GRO **реально** н
 - **Не делать прямой product-pitch после hook'а.** Это убивает authenticity. Hook работает именно тем, что его нет.
 - **Не цитировать «кожаный диктор» дословно.** Узнаваемая фраза автора. Заимствовать формат, не формулировку.
 
+## Vendor self-own exemplar — Sony Xperia «лучшая антиреклама ИИ» (май 2026)
+
+Реальный публичный кейс, усиливающий counter-narrative с неожиданной стороны — **сам вендор**. По технодайджесту [@techno_yandex](https://t.me/techno_yandex) (видео 5235, 17 мая 2026, [[sources/2026-05-19-tg-techno-yandex-may-14-19-2026]]): после анонса флагмана Sony Xperia 1 VIII компания показала в соцсетях работу ИИ-ассистента камеры. По задумке он должен улучшать снимки, но на всех примерах **сильно пересветил кадры, убил контраст и детали** — комментаторы назвали пост «**лучшей антирекламой ИИ**», а часть аудитории спросила, не перепутали ли в Sony кадры местами.
+
+**Почему это сильнее authorского counter-narrative:**
+- Это **не мнение эксперта про AI-flood, а демонстрируемый провал AI-feature от самого производителя** — empirical, не оценочный.
+- Готовый **content-hook «когда ИИ делает хуже, не лучше»** для балансирующего контента: не «AI плохой», а «AI применённый бездумно вредит результату».
+- Резонирует с GRO-позицией «AI как инструмент-ассистент (good) vs AI-substitute (bad)» — здесь AI пытается *подменить* человеческое суждение фотографа и проигрывает.
+
+**Готовые формулировки:**
+- «"Лучшая антиреклама ИИ" — когда сам вендор показывает, как его AI портит результат» (с атрибуцией кейса Sony).
+- «AI не равно "лучше по умолчанию": иногда выключить ИИ — это и есть навык».
+
+**Caveat:** confidence: medium — кейс пересказан вторичным агрегатором (Яндекс-дайджест со ссылкой на vc.ru). Использовать с указанием «по сообщениям о реакции на пост Sony», не как установленный факт о качестве камеры.
+
 ## Сигнал-маркер для трекинга
 
 Если в Q3-Q4 2026 появятся ещё 2–3 независимых tier-1 голоса с похожим counter-narrative, это будет signal **mainstream-сдвига** в сторону authenticity-positioning. Это **content-trend**, а не одноразовый hook. Watch-list:
@@ -105,6 +120,8 @@ Caveat: это работает, только если GRO **реально** н
 - [[evolving/content-trends/ai-content-production-multiagent-2026]] — counter-trend (мейнстрим pro-AI-production)
 - [[evolving/content-trends/invisible-ai-paradox-gorny-hook]] — близкий по позиции AI-narrative-hook
 - [[evolving/content-trends/visotsky-ai-personal-assistant-narratives]] — параллельный AI-pro-tool hook того же автора
+- [[sources/2026-05-19-tg-techno-yandex-may-14-19-2026]] — Sony Xperia vendor self-own exemplar
+- [[evolving/content-trends/slopshaming-counter-hook-2026]] — смежный counter-trend (counter-counter к AI-критике)
 
 ## Backlinks
 
