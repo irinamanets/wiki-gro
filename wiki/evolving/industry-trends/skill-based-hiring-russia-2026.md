@@ -9,8 +9,8 @@ tags: [skills, hiring, hr, education, industry-trends, labor-market]
 confidence: high
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +OSINT/цифровой след как следующий слой верификации навыков (Мул) + culture-fit > навыки cross-ref; prior: candidate-side «единая карьерная история» + resume-SEO ранжирование HH
-sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md]
+updated: 2026-05-19  # +навыки-комбинации как новая норма работодателя (vc.ru/hr колонка для «Коммерсанта»): «не профессия вообще, а набор навыков под задачу»; prior: +OSINT/цифровой след как следующий слой верификации навыков (Мул) + culture-fit > навыки cross-ref
+sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md]
 namespace: mkt
 ---
 
@@ -55,6 +55,18 @@ namespace: mkt
 | Массовые | HTML | 101 000 ₽ | `[conf:medium, src:2026-05-14]` |
 
 Premium падает с ростом массовости навыка — это базовая микроэкономика, перенесённая на labor market. Hook для контента ГРО: «как выбирать навык для развития — массовые ≠ дорогие».
+
+## Навыки-комбинации как новая норма (vc.ru/hr колонка для «Коммерсанта», май 2026)
+
+Экспертная колонка для «Коммерсанта» (репост vc.ru/hr, [[sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026]], `confidence: medium`) даёт **demand-side формулировку** навыкоцентричности, дополняющую hh.ru-данные выше:
+
+> Работодатель всё реже ищет «профессию вообще» и всё чаще — конкретный набор навыков под задачу. Комбинации инженерии и цифровых компетенций, аналитики и коммуникации, функциональной экспертизы и продуктового мышления становятся новой нормой.
+
+Это **следующий уровень** навыкоцентричности: не просто «навыки > диплом» (зафиксировано выше через hh.ru-панель), а **гибридные комбинации навыков** как единица найма. Работодатель собирает роль из пересечения компетенций под конкретную задачу, а не закрывает «вакансию профессии». Прямо смыкается с мега-трендом hh.ru №2 («потребность в узких специалистах → внутренние маркетплейсы») и с формулой Батырева о пересборке роли ([[canon/marketing-frameworks/work-recomposition-batyrev]]): роль конструируется из навыков, а не наследуется из штатного расписания.
+
+**Карьерная проекция (candidate-side).** Та же колонка переворачивает это в стратегию роста соискателя: кардинальная смена профессии нужна реже, чем кажется — чаще работает **усложнение роли** надстройкой смежных навыков на ядро экспертизы (поддержка → управление процессом, специалист → +продуктовое мышление). Content-применение — Hook 39 в [[evolving/content-trends/career-audience-hooks-2026]]; макро-контекст разворота рынка — [[evolving/industry-trends/ru-labor-market-employer-turn-2026]].
+
+**Значение для GRO:** усиливает прямой alignment продукта (тренирует навыки, не выдаёт диплом). Если работодатель собирает роль из комбинаций, то ежедневная системная тренировка **набора** навыков (а не получение одного сертификата) попадает точно в demand-логику рынка. Content-hook: «работодатель ищет не профессию, а комбинацию навыков под задачу — GRO тренирует именно набор, каждый день».
 
 ## Голоса экспертов
 
@@ -128,6 +140,8 @@ hh.ru выявил 6 крупных мета-трендов рынка труд�
 - [[canon/marketing-frameworks/internal-hiring-cost-reduction-strategies]] — 6 стратегий найма как ответ на дефицит мидлов/сеньоров
 - [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]] — candidate-side проявление: «единая карьерная история» + resume-SEO ранжирование HH (Гусева LinkedIn, 2026-05-18)
 - [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]] — OSINT/цифровой след + culture-fit > навыки (Мул, Work Solutions)
+- [[sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026]] — навыки-комбинации как новая норма работодателя («не профессия вообще, а набор навыков под задачу»)
+- [[evolving/industry-trends/ru-labor-market-employer-turn-2026]] — макротренд разворота, где навыки-комбинации = часть demand-логики работодателя
 - [[evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026]] — OSINT-проверка как следующий слой верификации навыков
 - [[canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul]] — culture-fit через антипаттерны + soft-skills как дисциплина
 - [[evolving/competitor-positioning/hh-ru-hrtech-platform]] — продуктовая механика синхронизации профиля + resume-SEO ранжирования

@@ -98,6 +98,8 @@ Numerical-якоря (вынесены в [[evolving-strict/market-data/employee
 - [[canon/marketing-frameworks/huang-narrative-preheating-leadership]] — narrative preheating как конкретный приём партнёрского/ситуативного режима
 - [[canon/marketing-frameworks/work-recomposition-batyrev]] — параллельная рамка пересборки труда (Батырев) — системный редизайн как ответ на снижение engagement
 - [[canon/marketing-frameworks/employee-retention-cost-bredova]] — экономический якорь: cost-of-replacement до 80% годового дохода
+- [[canon/marketing-frameworks/organizational-conflict-taxonomy-sheinov]] — ситуативный стиль как практический ответ на conflict-prevention: классификация конфликтов и их причин, под которые подбирается режим управления
 - [[evolving-strict/market-data/employee-engagement-quiet-quitting-2026]] — numerical якоря для всех утверждений фрейма
 - [[evolving/industry-trends/gen-z-workforce-shift-2026]] — расширение фрейма до 25–35 лет
 - [[canon/target-audience/gro-segments]] — Сегмент 2 как primary audience для контента про management
+- [[canon/marketing-frameworks/seagull-management-survival-playbook]] — эмпирический vc.ru-кейс авторитарного режима, превращённого в «типовое поведение» («чайка-менеджмент»)

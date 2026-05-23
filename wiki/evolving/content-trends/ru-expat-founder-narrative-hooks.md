@@ -9,8 +9,8 @@ tags: [content, hooks, storytelling, founder, expat, abroad, international, arch
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-04-16
-sources: [sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom.md]
+updated: 2026-05-19  # +под-архетип 5 «bootstrap через стартап-визу» (NL-консалтинг-бутик финансиста, relocate-for-job → founder на месте, vc.ru/hr)
+sources: [sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom.md, sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir.md]
 namespace: mkt
 ---
 
@@ -75,6 +75,20 @@ namespace: mkt
 - Отраслевая нишевость (industrial coatings) — узкий B2B, не consumer.
 
 **Hook-формула:** «Экспансия не требует переезда founder'а. Требует готовности закладывать 3-летнюю окупаемость и принимать, что в каждой стране команда работает по-другому».
+
+### 5. Bootstrap через стартап-визу (relocate-for-job → стать founder'ом на месте)
+
+Финансист из [[sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir]]: переехал в Амстердам в 2008 на сеньорную банковскую позицию (не как founder), а после окончания 3-летнего контракта **остался в ЕС и запустил консалтинговый бутик через стартап-визу Нидерландов (2011)** — помощь компаниям СНГ в общении с инвесторами/кредиторами ЕС.
+
+**Структурный профиль:**
+- Релокация изначально **по найму**, не ради бизнеса; founder-решение принимается уже на месте, когда заканчивается контракт и возникает «время для старта собственного бизнеса».
+- Резидентство ЕС воспринимается как **конкурентное преимущество** для бизнеса-моста между СНГ и Европой («видел своё местонахождение в ЕС как буквально конкурентное преимущество»).
+- Стартап-виза 2011 — нестандартная практика: адвокаты называли ~7% одобрений; автор получил отказ, затем визу через апелляцию (~€10K + полгода + ещё ~€10K в капитал).
+- Это **не exit→pivot** (под-архетип 1, где переезд — следствие крупного exit'а), а **bootstrap-from-employment-abroad**: накопленный в найме за рубежом капитал/опыт конвертируется в свой бизнес на той же территории.
+
+**Hook-формула:** «Переезд по работе — это не финал, это билет на территорию, где можно построить своё. Резидентство, ради которого пришлось биться (виза, апелляция, отказ-потом-да), само становится конкурентным преимуществом твоего будущего бизнеса».
+
+**Caveat:** этот бизнес для автора был **временным мостом** обратно в найм (см. полный разбор в [[evolving/content-trends/career-change-via-entrepreneurship-bridge-hooks]]) — пересечение expat-оси с осью career-bridge, аналогично тому, как Горяев пересекает expat × late-start.
 
 ## Универсальные hook-формулы (кросс-архетипические)
 
@@ -148,6 +162,8 @@ namespace: mkt
 - [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] — counter-narrative (молодой solo-founder) к expat- и late-starter-хукам
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]] — смежная страница hooks для молодёжно-соло-нарратива
 - [[canon/positioning/gro-value-proposition]] — общий core message GRO
+- [[evolving/content-trends/career-change-via-entrepreneurship-bridge-hooks]] — пересекающаяся ось career-bridge (NL-бутик финансиста был временным мостом обратно в найм)
+- [[sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir]] — якорь под-архетипа 5 (bootstrap через стартап-визу)
 
 ## Backlinks
 

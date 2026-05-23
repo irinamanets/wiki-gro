@@ -9,8 +9,8 @@ tags: [content-trends, seo, hr-portal-ru, evergreen, competitor-content, ru]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +подтверждение жанра на новой выборке (статья «как оформить повышение»); +careerist content-angle
-sources: [sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md]
+updated: 2026-05-19  # +management-подтип (конфликтология) +author-persona вариация (работоспособность) +career-stage timing model (ротация) +careerist content-angle; жанр подтверждён на 5+ новых выборках
+sources: [sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md, sources/2026-05-19-web-hr-portal-konflikty-v-organizaciyah.md, sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov.md, sources/2026-05-19-web-hr-portal-rotaciya-razvitie-personala.md]
 namespace: mkt
 ---
 
@@ -121,13 +121,51 @@ hr-portal.ru держит позиции по огромному количес�
 
 **Careerist content-angle (новое наблюдение).** В отличие от чисто кадровых статей про трудовую книжку, тема «повышение» — это employer-side зеркало JTBD [[canon/target-audience/gro-segments|Сегмента 1 (карьеристы)]], чей промис лендинга дословно «получают повышение». Один тезис статьи переиспользуем как hook: **«руководство часто забывает спросить мнение работника» о повышении, хотя юридически нужно его согласие**. Это даёт GRO-контенту угол «повышение глазами сотрудника» (а не кадровика) — см. [[evolving/content-trends/career-audience-hooks-2026]]. Подтверждает тезис «SEO-арбитраж»: те же запросы можно атаковать с employee-side подачей вместо HR-procedural.
 
+## Подтверждение жанра на новой выборке (2026-05-19, №3) — management-подтип
+
+Статья [[sources/2026-05-19-web-hr-portal-konflikty-v-organizaciyah|«Конфликты в организациях»]] — третий зафиксированный экземпляр жанра, расширяющий его за пределы процедурных how-to в **management/textbook-объяснялку**:
+
+- **Анонимность** — автор не указан, хотя текст содержательно — пересказ конкретной управленческой книги (стиль В. П. Шейнова, с прямой ссылкой автора на собственную книгу внутри текста). ✓ — площадка снимает атрибуцию даже там, где первоисточник очевиден.
+- **Без даты публикации** — evergreen. ✓
+- **Textbook-структура** — определение → 4-осевая классификация → перечень причин → итог «искусство руководить». ✓
+- **Числа без attribution** — «70–80% вертикальных конфликтов», «10% эффективность коммуникации снизу-вверх», «более половины судебных восстановлений». Классический маркер жанра: цифры звучат авторитетно, но не верифицируемы → переносить только как textbook-иллюстрации.
+
+**Подтип «management-объяснялка».** Если предыдущие экземпляры были процедурными (трудовая книжка, оформление повышения), то этот — концептуальный management-материал (конфликтология). Это валидирует, что hr-portal.ru держит SEO-позиции не только по узким кадровым long-tail-запросам, но и по широким management-темам («типы конфликтов в организации», «причины конфликтов»). Для GRO это **второй слой SEO-арбитража**: атаковать management-запросы Сегмента 2 (предприниматели-управленцы) с дифференциацией через свежий кейс/attribution. Извлечённый management-фрейм оформлен в [[canon/marketing-frameworks/organizational-conflict-taxonomy-sheinov]].
+
+## Жанровая вариация: author-persona (2026-05-19)
+
+Статья [[sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov|«Повышаем работоспособность сотрудников»]] — ещё один экземпляр жанра, но с **важной вариацией**, уточняющей маркер №1 (анонимность):
+
+- **Маркер №1 (анонимность) — частично нарушен.** Текст ведётся **от первого лица** с author-persona: «Работаю менеджером по персоналу в производственно торговой компании. Часто замечаю "потухшие глаза" усталых сотрудников». Имени/должности-с-компанией нет, но появляется **нарративная маска практика**. Это не верифицируемая атрибуция — это приём (создаёт доверие «свой человек из индустрии» без проверяемых данных).
+- **Маркеры №2 (без даты) и №3 (textbook-структура) — выполнены.** Определение (работоспособность, утомление) → классификация (категории персонала, ритмы) → методы (6 рычагов) → итог («поддержание работоспособности — задача руководителя»).
+- **Тема** — широкая wellness/management how-to («как повысить X»), классический long-tail SEO.
+
+**Импликация для жанровой карты.** hr-portal.ru использует **две под-формы** evergreen-объяснялки: (а) чистая анонимная (13-статейная выборка + «как оформить повышение»), (б) **author-persona-driven** (этот экземпляр). Под-форма (б) — более тёплая, имитирует экспертный голос практика. Для GRO это сигнал: даже SEO-агрегатор начинает добавлять «человеческий голос», что подтверждает гипотезу, что **authorship/свежесть — главные дифференциаторы** в этой нише (GRO может пойти дальше — реальный, а не маскированный, голос практика).
+
+**Контентная ценность сверх жанра.** В отличие от чисто-процедурных статей, тематическое ядро этой («работоспособность / утомление / выгорание / ритмы») попадает прямо в productivity/energy angle GRO — извлечено в [[canon/marketing-frameworks/work-capacity-rhythms-textbook]] и [[evolving/product-reception/gro-productivity-energy-angle]] как ритмический content-register.
+
+## Подтверждение жанра на новой выборке (2026-05-19, 2-й экземпляр) — career-development
+
+Статья [[sources/2026-05-19-web-hr-portal-rotaciya-razvitie-personala|«Ротация как средство развития персонала»]] — ещё один экземпляр жанра в той же выгрузке, ещё одно подтверждение всех маркеров:
+
+- **Анонимность** — автор не указан. ✓
+- **Без даты публикации** — evergreen. ✓
+- **Textbook-структура** — определение термина (ротация = горизонтальное перемещение для развития) → различение «ротация vs механическое перемещение» → career-stage типология по возрастам → принципы → заключение «итого, главное помнить». ✓
+- **Числа без attribution** — «8–10 лет», «34–40 лет», этапы «до 25 / 25–30 / 30–45» поданы как textbook-обобщение без источника, **нельзя цитировать как данные**. ✓
+
+**Career-development content-angle (новое наблюдение).** В отличие от процедурных how-to (трудовая книжка, оформление повышения), эта статья даёт **переиспользуемый концептуальный scaffold** — career-stage timing model. Это первый случай в выборке hr-portal.ru, когда textbook-фрейм достаточно сильный, чтобы вынести его в отдельную canon-страницу ([[canon/marketing-frameworks/rotation-career-stage-timing-model]]) как baseline-контрапункт к свежим career-рамкам. Подтверждает тезис «жанр как scaffold»: берём узнаваемую textbook-рамку и переворачиваем через свежесть/attribution (employee-side reframe → [[evolving/content-trends/career-audience-hooks-2026]] Hook 37).
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/work-capacity-rhythms-textbook]] — textbook-фрейм, извлечённый из статьи про работоспособность (genre-content overlap с productivity angle)
+- [[evolving/product-reception/gro-productivity-energy-angle]] — productivity angle, куда ушло содержательное ядро статьи
+- [[canon/marketing-frameworks/rotation-career-stage-timing-model]] — textbook-фрейм ротации, извлечённый из этого жанра как scaffold
 - [[evolving/content-trends/career-audience-hooks-2026]] — careerist content-angle «повышение глазами сотрудника»
 - [[canon/target-audience/gro-segments]] — Сегмент 1 (карьеристы), целевая аудитория careerist-угла жанра
 - [[evolving/content-trends/hh-ru-blog-content-patterns]] — другой RU HR content benchmark
 - [[evolving/content-trends/vcru-hr-content-patterns-2026]] — третий RU HR content benchmark
 - [[canon/marketing-frameworks/thomas-kilmann-conflict-strategies]] — пример textbook-фрейма из этого источника
+- [[canon/marketing-frameworks/organizational-conflict-taxonomy-sheinov]] — management-фрейм, извлечённый из management-подтипа жанра
 - [[canon/marketing-frameworks/employee-adaptation-typology]] — другой textbook-фрейм из этого источника
 - [[canon/marketing-frameworks/us-japan-management-contrast]] — третий textbook-фрейм из этого источника
 - [[canon/target-audience/ru-key-account-manager-profile]] — портрет ЦА из этого источника

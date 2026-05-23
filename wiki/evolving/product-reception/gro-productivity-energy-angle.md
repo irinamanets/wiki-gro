@@ -9,8 +9,8 @@ tags: [content, positioning, productivity, energy, focus, hooks, bruch-ghoshal, 
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-19  # +category-tailwind register (6-й): сдвиг велнеса к мозгу (Фомичёв 2426 / cognitive-wellness-shift-2026)
-sources: [sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-10-groapp-landing.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-dzen-deloviy-mir-ceo-cognitive-endurance.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md]
+updated: 2026-05-19  # +rhythm/chrono register (7-й): ритмы работоспособности + 6 рычагов (hr-portal work-capacity textbook); prior: +category-tailwind register (6-й): сдвиг велнеса к мозгу (Фомичёв 2426 / cognitive-wellness-shift-2026)
+sources: [sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-10-groapp-landing.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-dzen-deloviy-mir-ceo-cognitive-endurance.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov.md]
 namespace: mkt
 ---
 
@@ -271,9 +271,34 @@ Declarative-регистр — **самый низкозатратный для 
 
 `confidence: medium` — наблюдение practitioner-а в промо-контексте; не количественный benchmark, но устойчивый категорийный сигнал.
 
+## Дополнения 2026-05-19 (ритмический регистр — work-capacity rhythms textbook)
+
+Из evergreen-статьи [[sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov|hr-portal.ru «Повышаем работоспособность сотрудников»]] извлечён **7-й регистр** content-mix'а — **ритмический / хронобиологический**. Полный фрейм — [[canon/marketing-frameworks/work-capacity-rhythms-textbook]].
+
+**Чем он отличается от шести предыдущих.** Регистры empirical / operational / somatic / identity / declarative / category-tailwind все отвечают на «**почему** энергия — рабочий инструмент». Ни один не отвечал на **«когда что делать»**. Ритмический регистр закрывает **временнУю ось**:
+
+- Суточный ритм: пик ~10:00 (окно для главного) → спад после 13:00 (обед/отдых) → вечерний пик 17–18:00.
+- Недельный ритм: рост с понедельника → провал в среду («маленькая пятница») → финальный порыв и спад в пятницу.
+- Понятийная пара **утомление → усталость → переутомление** даёт не-обвиняющий язык: усталость — это норма ритма, а не дефект воли (совпадает с anti-shaming-принципом Bruch & Ghoshal выше).
+
+**Готовые hooks ритмического регистра:**
+- «Ты не "ленивый сегодня в среду" — у тебя просто провал в недельном ритме. Среда — это "маленькая пятница", и это нормально.»
+- «Тяжёлую задачу — на 10 утра, в пик. Не на 14:00, когда вы себя ненавидите за прокрастинацию. Это не лень — это ритм.»
+- «Переутомление — это не "слабость". Это утомление без восстановления. GRO встраивает восстановление в день, а не оставляет на отпуск.»
+
+**Применение:**
+- Календарно-привязанный формат постов (день недели / время суток) — высокий resonance в Telegram/Instagram, естественный повод для регулярной публикации.
+- Прямая связка с китом [[canon/positioning/gro-value-proposition|«свой ритм, без давления и выгорания»]] — теперь у этого кита есть operational scaffold.
+
+**Caveat:** часы — это усреднённая учебниковая кривая, не измерение; подавать как «типичный ритм» с оговоркой про хронотипы. Pop-факты статьи (цвет стен, «сердце в 13:00») — **не цитировать**, не верифицированы.
+
+`confidence: medium` — textbook-компиляция без верифицированного первоисточника; ценен как scaffold/register, не как цитируемая фактура.
+
 ## Связанные страницы
 
 - [[evolving/industry-trends/cognitive-wellness-shift-2026]] — категорийный tailwind: сдвиг велнеса к мозгу
+- [[canon/marketing-frameworks/work-capacity-rhythms-textbook]] — ритмический регистр (7-й): ось «когда», ритмы работоспособности + 6 рычагов
+- [[sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov]] — источник ритмического регистра (hr-portal work-capacity)
 - [[sources/2026-05-19-tg-fomichevkirill-may-14-19-2026]] — источник дополнения 2026-05-19 (Фомичёв 2426)
 - [[sources/2026-04-14-tg-howtomake10x-mar-apr-2026]] — первоисточник якоря (пересказ Крылова поста 1537)
 - [[canon/positioning/gro-value-proposition]] — value proposition, который эта страница операционализирует в content-strategy

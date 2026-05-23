@@ -86,3 +86,4 @@ namespace: mkt
 - [[canon/marketing-frameworks/cry-as-cheap-system-crutch-soulful]] — связан с сигналом #6 (плохие новости не приходят, если предыдущие принесли крик)
 - [[evolving-strict/market-data/employee-engagement-quiet-quitting-2026]] — numerical контекст: 55% офисных РФ работают «спустя рукава», 39% — задачи множатся, зарплата стоит
 - [[canon/target-audience/gro-segments]] — Сегмент 2 как primary audience этого чек-листа
+- [[canon/marketing-frameworks/seagull-management-survival-playbook]] — эмпирический vc.ru-кейс сигнала #6 «нет плохих новостей» («боятся сказать правду до увольнения»)

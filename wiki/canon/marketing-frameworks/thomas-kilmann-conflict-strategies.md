@@ -9,8 +9,8 @@ tags: [conflict, negotiation, management, sales, hr, evergreen, frame]
 confidence: low
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-hr-portal-conflict-management.md, sources/2026-05-14-hr-portal-conflict-resolution.md, sources/2026-05-14-hr-portal-conflict-behavior-strategies.md]
+updated: 2026-05-19  # +cross-ref на комплементарную организационную рамку (taxonomy-sheinov) из новой статьи «Конфликты в организациях»
+sources: [sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-hr-portal-conflict-management.md, sources/2026-05-14-hr-portal-conflict-resolution.md, sources/2026-05-14-hr-portal-conflict-behavior-strategies.md, sources/2026-05-19-web-hr-portal-konflikty-v-organizaciyah.md]
 namespace: mkt
 ---
 
@@ -100,6 +100,7 @@ GRO-аудитория «карьеристы» и «предпринимате�
 
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/organizational-conflict-taxonomy-sheinov]] — комплементарная рамка: типы / причины / профилактика конфликтов на уровне организации (TK = *как реагировать*, та = *откуда берутся и как предупредить*)
 - [[canon/marketing-frameworks/seissembai-seven-power-sources-negotiation]] — другая reusable-рамка для переговоров
 - [[canon/marketing-frameworks/krylov-reference-call-question]] — другой sales-фреймворк для разговоров
 - [[canon/marketing-frameworks/entrepreneur-manager-mode-switching]] — связка с founder/manager-mode переключением

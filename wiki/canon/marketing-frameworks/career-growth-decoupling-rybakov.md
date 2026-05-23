@@ -9,7 +9,7 @@ tags: [content, leadership, career, narrative-hooks, b2b-saas, talent-management
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-19  # +cross-link на textbook-baseline (rotation-career-stage-timing-model) как классическую рамку, от которой расходится декаплинг
 sources: [sources/2026-05-14-tg-rybakovigor-may06-12-2026.md]
 namespace: mkt
 ---
@@ -115,8 +115,13 @@ GRO как продукт **личной композитной развития
 - ❌ **Подменять рамкой «карьерный коучинг»-контент.** Это **structural-frame**, не personal-advice. Personal-frame: ваш менеджер не виноват, ваш HR не виноват, модель не работает
 - ❌ **Не цитировать политику Рыбакова** (Школа-пансион МФТИ как личный благотворительный проект — отдельная плоскость, не путать с управленческой рамкой)
 
+## Классическая рамка, от которой произошёл декаплинг
+
+Декаплинг лучше всего читается на контрасте с **доцифровой моделью** career-development, зафиксированной в textbook-канонах HR-теории — см. [[canon/marketing-frameworks/rotation-career-stage-timing-model|career-stage rotation timing model]] (hr-portal.ru). В классической модели рост и развитие шли вместе по возрастным этапам: ротация (горизонталь) первые 8–10 лет → вертикальный рост к 34–40. Рыбаков фиксирует, что **именно эта связка сломалась**: возрастной тайминг больше не гарантирует developmental upside. Полезно как content-приём — взять узнаваемый textbook-scaffold и показать, где он расходится с реальностью 2026.
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/rotation-career-stage-timing-model]] — классическая (доцифровая) baseline-рамка career-development, от которой расходится декаплинг
 - [[canon/marketing-frameworks/data-illusion-management-rybakov]] — operational-рамка того же автора, в той же логике upstream-сигналов
 - [[canon/marketing-frameworks/respectable-infobiz-rybakov]] — другой operational-фреймворк того же автора
 - [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]] — рамочный фон для понимания «развитие как эволюция» vs «промоция как сделка»

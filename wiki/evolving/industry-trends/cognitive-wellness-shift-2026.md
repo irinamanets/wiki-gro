@@ -9,8 +9,8 @@ tags: [industry-trends, wellness, cognitive, neurofeedback, biohacking, attentio
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md]
+updated: 2026-05-19  # +«бумажный» предшественник: work-capacity textbook (hr-portal) — те же факторы (внимание/утомление/восстановление) в учебниковой подаче
+sources: [sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov.md]
 namespace: mkt
 ---
 
@@ -53,7 +53,14 @@ Compания проводит собственную конференцию Neir
 - **Месседж «управление вниманием = конкурентное преимущество»** — готовый хук, совместимый с [[evolving/product-reception/gro-productivity-energy-angle]] и [[canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo]].
 - **Дифференциация vs hardware:** Neiry — про железо/ЭЭГ; место для позиционирования GRO как software/практики без девайса (если применимо) — отдельный анализ.
 
+## «Бумажный» предшественник тренда (work-capacity textbook)
+
+Сдвиг «велнес → мозг» не возник на пустом месте — у него есть отечественный **учебниковый предшественник**. Evergreen-статья [[sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov|hr-portal.ru про работоспособность]] оперирует **теми же факторами** (внимание, утомление, концентрация, восстановление, ритмы энергии), но в **до-нейротеховой, учебниковой подаче**: без устройств, без «мозга в цифрах», без consumer-категории. Извлечена в [[canon/marketing-frameworks/work-capacity-rhythms-textbook|фрейм ритмов работоспособности + 6 рычагов]].
+
+**Значение для позиционирования.** Это показывает **глубину легитимности** темы: управление вниманием/энергией — не модный нейротех-хайп, а давно описанная физиология труда, которую consumer-нейротех (Neiry) лишь **переупаковывает в девайс**. Для GRO это аргумент дифференциации vs hardware: «то, для чего Neiry продаёт ЭЭГ-хедбенд, — это работа с ритмами и восстановлением, известная десятилетиями; GRO даёт это как ежедневную практику без гаджета». Учебниковый слой (work-capacity) + категорийный сдвиг (cognitive-wellness) = две опоры одного нарратива: проблема стара и признана, рынок решений — новый и растущий.
+
 ## Связанные страницы
+- [[canon/marketing-frameworks/work-capacity-rhythms-textbook]] — учебниковый предшественник тренда (ритмы + рычаги работоспособности)
 - [[canon/positioning/attention-warfare-thesis]]
 - [[canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo]]
 - [[evolving/product-reception/gro-productivity-energy-angle]]

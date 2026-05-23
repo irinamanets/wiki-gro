@@ -85,3 +85,4 @@ namespace: mkt
 - [[canon/marketing-frameworks/manager-weekly-reflection-3-questions-soulful]] — вопрос #1 рефлексии «где жёсткий по делу, где сорвался»
 - [[canon/marketing-frameworks/delegation-formula-7-elements-soulful]] — корректная постановка задачи как профилактика крика на этапе сдачи
 - [[evolving-strict/market-data/employee-engagement-quiet-quitting-2026]] — numerical контекст: 52% увольнений из-за нездорового климата
+- [[canon/marketing-frameworks/seagull-management-survival-playbook]] — эмпирический vc.ru-кейс той же механики: «без системы прилёты обесцениваются», крик-как-шум без результата

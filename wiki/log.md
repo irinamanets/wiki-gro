@@ -7701,3 +7701,124 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {canon: 3, evolving: 4, sources: 1}
 - touched: 8 pages
 - raw: raw/processed/articles/tg_vyakuba_20260519-122309.md + 20 children (4 video mp4 + 16 media jpg, + sidecars) → processed
+
+## [2026-05-23 23:40] [ingest] | hr-portal.ru — «Ротация как развитие персонала» (evergreen textbook; career-stage timing model как scaffold + Hook 37 employee-side reframe)
+- source: wiki/sources/2026-05-19-web-hr-portal-rotaciya-razvitie-personala.md
+- created:
+  - wiki/canon/marketing-frameworks/rotation-career-stage-timing-model.md
+- updated:
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md (+Hook 37 «Горизонтальный рост = развитие, не понижение» (hr-portal.ru ротация, employee-side reframe); +funnel-mapping row; +2 source/related cross-links.)
+  - wiki/evolving/content-trends/hr-portal-evergreen-genre-2026.md (+2-й экземпляр жанра в выборке (ротация) → подтверждение всех маркеров + первый случай textbook-scaffold, вынесенного в canon; +career-development content-angle; +source.)
+  - wiki/canon/marketing-frameworks/career-growth-decoupling-rybakov.md (+секция «Классическая рамка, от которой произошёл декаплинг» с cross-link на rotation-career-stage-timing-model как доцифровой baseline.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_hr-portal.ru_article_rotaciya-kak-sredstvo-razvitiya-personala_18336beb.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 23:40] [ingest] | hr-portal.ru — «Конфликты в организациях» (конфликтология Шейнова → canon-фрейм organizational-conflict-taxonomy; backfill genre+Сегмент2; triage uncertain→разрешён вручную)
+- source: wiki/sources/2026-05-19-web-hr-portal-konflikty-v-organizaciyah.md
+- created:
+  - wiki/canon/marketing-frameworks/organizational-conflict-taxonomy-sheinov.md
+- updated:
+  - wiki/canon/marketing-frameworks/thomas-kilmann-conflict-strategies.md (+cross-ref на комплементарную организационную рамку (taxonomy-sheinov): TK = как реагировать, та = типы/причины/профилактика; +source.)
+  - wiki/evolving/content-trends/hr-portal-evergreen-genre-2026.md (+3-е подтверждение жанра, новый management/textbook-подтип (конфликтология) поверх процедурных how-to; числа без attribution как маркер; 2-й слой SEO-арбитража (management-запросы).)
+  - wiki/canon/target-audience/gro-segments.md (+content-angle «первые конфликты в команде» Сегменту 2 (founder→manager): рефрейминг текучка/бунт = несовершенство системы, не плохие люди.)
+  - wiki/canon/marketing-frameworks/management-styles-2026-soulful.md (+cross-ref на conflict-taxonomy: ситуативный стиль как практический ответ на conflict-prevention.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_hr-portal.ru_article_konflikty-v-organizaciyah_ef82f6ba.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 23:55] [ingest] | hr-portal.ru — «Повышаем работоспособность сотрудников» (work-capacity ритмы + 6 рычагов → новый ритмический content-register productivity angle)
+- source: wiki/sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov.md
+- created:
+  - wiki/canon/marketing-frameworks/work-capacity-rhythms-textbook.md
+- updated:
+  - wiki/evolving/product-reception/gro-productivity-energy-angle.md (+7-й (ритмический/хронобиологический) регистр content-mix: ось «когда что делать» (10:00 пик / среда-провал), reframe усталости как нормы ритма, готовые календарно-привязанные hooks.)
+  - wiki/evolving/content-trends/hr-portal-evergreen-genre-2026.md (+жанровая вариация author-persona («работаю менеджером по персоналу») — частичное нарушение маркера анонимности; уточнение, что hr-portal использует две под-формы evergreen (чистая анонимная + author-persona); genre-content overlap с productivity angle.)
+  - wiki/evolving/industry-trends/cognitive-wellness-shift-2026.md (+«бумажный» предшественник тренда: work-capacity textbook оперирует теми же факторами (внимание/утомление/восстановление) в до-нейротеховой подаче; аргумент дифференциации GRO vs hardware (Neiry).)
+  - wiki/evolving/content-trends/owner-escape-operations-hooks.md (+6 рычагов работоспособности как employer-side зеркало consumer-self-management хуков; reframe «сколько рычагов вы применяете к себе» как мост leadership↔self-management.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 3, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_hr-portal.ru_article_povyshaem-rabotosposobnost-sotrudnikov_b6a4b0bf.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 23:55] [ingest] | vc.ru/hr — «Удалённая работа в Пензе» (programmatic geo-SEO листикл-воронка: новый 4-й RU-SEO-архетип + worker-side geo-arbitrage спрос на удалёнку)
+- source: wiki/sources/2026-05-19-vcru-hr-udalennaya-rabota-v-penze.md
+- created:
+  - wiki/evolving/content-trends/geo-templated-local-seo-listicle-funnel-2026.md
+- updated:
+  - wiki/evolving/content-trends/vcru-hr-content-patterns-2026.md (+Паттерн 5 (geo-шаблонный local-SEO листикл-воронка) + строка переносимости + импликация «vc.ru/hr не однородно-экспертная площадка».)
+  - wiki/evolving/industry-trends/return-to-office-global-2026.md (+секция worker-side: устойчивый региональный geo-arbitrage-спрос на удалёнку (противофаза корпоративному RTO), content-farm-ниша как индикатор спроса.)
+  - wiki/canon/target-audience/gro-segments.md (+региональный geo-arbitrage под-портрет Сегмента 1 (удалёнка вне столиц, «столичные доходы при региональных расходах»).)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, canon: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_vc.ru_hr_2808612-udalennaya-rabota-v-penze-vakansii-i-sovety_165c0c33.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-19 15:10] [ingest] | vc.ru/hr (репост колонки для «Коммерсанта») — тренды рынка труда 2026: технологии-инфраструктура + pay-for-results + навыки-комбинации + усложнение роли > смена профессии + РШУ 48% выгорания
+- source: wiki/sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md
+- created: none
+- updated:
+  - wiki/evolving/industry-trends/ru-labor-market-employer-turn-2026.md (+8-й голос (vc.ru/hr колонка для Коммерсанта): технологии как инфраструктура рекрутинга, pay-for-results (вознаграждение привязано к результату, фикс не растёт), усложнение роли > смена профессии, hh весна −25%/+33% триангуляция; +3 cross-link, +source.)
+  - wiki/evolving-strict/market-data/employee-engagement-quiet-quitting-2026.md (+РШУ конец 2025: 48% работающих россиян с симптомами выгорания (3-й независимый RU-якорь после hh 42%/33%) [conf:medium, src:2026-05-19]; +leadership-energy как критерий найма (эмоциональное отключение руководителей); +source.)
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md (+Hook 38 «Резюме читает робот раньше человека: цифры > отвечал за» (machine-readable резюме, прескриптивный угол к ATS-коллапсу); +Hook 39 «Не меняй профессию — усложняй роль» (anti-anxiety reframe); funnel-map + 3 cross-link + source.)
+  - wiki/evolving/industry-trends/skill-based-hiring-russia-2026.md (+навыки-комбинации как новая норма работодателя (vc.ru/hr колонка): «не профессия вообще, а набор навыков под задачу» (инженерия+цифра, аналитика+коммуникация); demand-side формулировка навыкоцентричности; +2 cross-link, +source.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, evolving-strict: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_vc.ru_hr_2808318-trendy-rynka-truda-v-2026-godu_ea184c98.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-19 15:10] [ingest] | vc.ru/hr — смена профессии банкир→финдир через предпринимательство (личный нарратив verified-финансиста): новый career-bridge архетип + proactive trend-watching методология
+- source: wiki/sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir.md
+- created:
+  - wiki/evolving/content-trends/career-change-via-entrepreneurship-bridge-hooks.md
+  - wiki/canon/marketing-frameworks/proactive-career-risk-management-trend-watching.md
+- updated:
+  - wiki/evolving/content-trends/late-starter-founder-narrative-hooks.md (+смежный архетип career-bridge (предпринимательство как мост, а не финал) + cross-links + source.)
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md (+Hook 38 «Настроить парус заранее: уходи из профессии до её сжатия» (финдир vc.ru/hr) с inline-маркером + cross-links + source.)
+  - wiki/evolving/content-trends/ru-expat-founder-narrative-hooks.md (+под-архетип 5 «bootstrap через стартап-визу» (NL-консалтинг финансиста, relocate-for-job → founder на месте) + cross-links + source.)
+  - wiki/canon/marketing-frameworks/entrepreneur-manager-mode-switching.md (+эмпирическая иллюстрация тренируемости режимов (предпринимательство как тренажёр проактивного режима, финансист) + cross-links + source.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 3, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_vc.ru_hr_2808290-smena-professii-ot-bankira-k-finansovomu-direktor_460eb590.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 23:55] [ingest] | vc.ru/hr — «Удалённая работа в Кемерово» (программатик гео-SEO content-farm): новый жанр площадки + trust-фреймворк вакансий + региональный leverage удалёнки
+- source: wiki/sources/2026-05-19-vcru-hr-remote-work-kemerovo-city-seo-listicle.md
+- created:
+  - wiki/evolving/content-trends/local-seo-city-vacancy-content-farm-2026.md
+- updated:
+  - wiki/evolving/content-trends/vcru-hr-content-patterns-2026.md (+Паттерн 5 (программатик гео-city content-farm) + строка в таблице переносимости (anti-pattern для GRO) + cross-link на отдельный разбор и exemplar.)
+  - wiki/evolving/industry-trends/ru-recruitment-fraud-patterns-2026.md (+Pattern 3 (классическая «pay-before-work» семья для entry-level remote) + раздел «Позитивные сигналы легитимности» (зеркало red-flag-чеклиста) + 2 cross-link.)
+  - wiki/evolving/industry-trends/return-to-office-global-2026.md (+раздел «Demand-side persistence — региональный leverage удалёнки»: employer-side RTO не убил соискательский спрос на «удалёнку из {город}»; honest-angle для GRO Сегментам 1+3; +2 cross-link.)
+  - wiki/canon/target-audience/gro-segments.md (+content-angle «региональный удалёнщик» (Сегменты 1+3) + «trust-фреймворк как honest content» (entry-level); +source; +3 cross-link.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, canon: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_vc.ru_hr_2808609-udalennaya-rabota-v-kemerovo-vakansii-na-domu-i-o_56dee405.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 23:58] [ingest] | vc.ru/hr — чайка-менеджмент (seagull management): анти-паттерн + employee survival-playbook + owner-side системный корень (кейс-разбор видео, доцент МГТУ Баумана)
+- source: wiki/sources/2026-05-19-vcru-hr-seagull-management-case.md
+- created:
+  - wiki/canon/marketing-frameworks/seagull-management-survival-playbook.md
+- updated:
+  - wiki/evolving/content-trends/founder-expert-hook-family-vcru.md (+третий инстанс Паттерна 2 (тот же автор-доцент МГТУ): кейс-разбор видео «чайка-менеджмент» → формат серийный; новый жанр «3-в-1» (концепт→playbook→учебные задания) для длинной SEO-статьи.)
+  - wiki/evolving/content-trends/owner-escape-operations-hooks.md (+owner-side зеркало «чайка-менеджмент»: хуки «без системы прилёты обесцениваются», «хаос-как-инструмент = ловушка владельца», double-bind как anti-hook для GRO tone.)
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md (+Hook 38 «Начальник-чайка: 5 ошибок + survival» (employee-side, Сегмент 1) + строка в funnel-таблице; reframe «хаос как тренажёр», «выживают самые структурные».)
+  - wiki/canon/target-audience/gro-segments.md (+employee-side angle «выживание у трудного руководителя» Сегменту 1 + owner-side angle «owner как чайка» Сегменту 2 (vc.ru/hr чайка-менеджмент).)
+  - wiki/canon/marketing-frameworks/management-styles-2026-soulful.md (+cross-ref на эмпирический vc.ru-кейс авторитарного режима как «типового поведения» (чайка-менеджмент).)
+  - wiki/canon/marketing-frameworks/cry-as-cheap-system-crutch-soulful.md (+cross-ref на vc.ru-кейс той же механики: крик-как-шум без результата, «без системы прилёты обесцениваются».)
+  - wiki/canon/marketing-frameworks/management-style-obsolete-6-signals-soulful.md (+cross-ref на vc.ru-кейс сигнала #6 «нет плохих новостей» («боятся сказать правду до увольнения»).)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, evolving: 3, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/web_vc.ru_hr_2803222-chajka-menedzhment-kak-vyjity-v-khaose-rossijskog_95eaed8d.md (+ 2 sidecars: .note.md, .triage.json) → processed

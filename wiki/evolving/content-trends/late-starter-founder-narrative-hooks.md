@@ -9,8 +9,8 @@ tags: [content, hooks, storytelling, founder, late-starter, archetype, age, coun
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-06  # +mainstream-валидация Т-Ж «План Б 158» (Виталий директор станции → ремонт радио, Екатерина 47 лет дизайн → детская книга), +mp4 transcript с verbatim-цитатой «ненавижу слово пенсионер»
-sources: [sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md]
+updated: 2026-05-19  # +смежный архетип «career-change через предпринимательство как мост» (банкир→консультант→финдир, vc.ru/hr) — отдельный файл, cross-link в новой секции; prior: +mainstream-валидация Т-Ж «План Б 158» (Виталий директор станции → ремонт радио, Екатерина 47 лет дизайн → детская книга), +mp4 transcript с verbatim-цитатой «ненавижу слово пенсионер»
+sources: [sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir.md]
 namespace: mkt
 ---
 
@@ -171,6 +171,16 @@ namespace: mkt
 - **Возраст Виталия не назван явно**, выводится из «скоро золотая свадьба» (50 лет в браке) ≈ 70 лет. `[conf:low]` Не цитировать «70 лет» как факт.
 - **«47 лет» Екатерины** взято из тизер-текста поста 34279 без независимой проверки. `[conf:medium]`
 
+## Смежный архетип: предпринимательство как мост (а не финал)
+
+Этот файл описывает предпринимательство как **финал** карьерной траектории (founder после 40 запускает свой бизнес и в нём остаётся). Есть зеркальный архетип, где предпринимательство — **транзитный мост** между двумя профессиями в найме, а не пункт назначения. Якорь: [[sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir]] — verified-эксперт (к.э.н., автор книги «Профессия финансист» в Эксмо, действующий финдир) прошёл путь **корпоративный банкир → консалтинговый бутик в Нидерландах → финансовый директор компании**, использовав свой бизнес как способ накопить экспертизу для смены профессии и затем вернувшись в найм на новой позиции.
+
+Ключевое отличие для контента:
+- **Late-starter** (этот файл): возрастная ось, бизнес = финал, hook «возраст как актив».
+- **Career-bridge** ([[evolving/content-trends/career-change-via-entrepreneurship-bridge-hooks]]): ось транзита, бизнес = инструмент перехода, hook «между двумя профессиями пропасть, и предпринимательство её мост».
+
+Оба — про асимметричный карьерный манёвр, но первый адресован тем, кто хочет **остаться** founder'ом, второй — тем, кто хочет **сменить профессию** и не боится использовать временное предпринимательство как ступень. Когда нужен контент про «уход из профессии», эти два файла читать в паре как «два сценария выхода».
+
 ## Пересечение с expat-архетипом
 
 Отдельно: Горяев из [[sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom|статьи «Жажды» про россиян за рубежом]] — редкий кейс пересечения двух асимметричных осей: late-start + expat. Цитата Горяева «мне всего 40 лет, и я ещё 40 лет могу заниматься чем-то полезным» работает как canonical late-starter-hook, но его траектория — pivot-after-exit в Англию — ставит его и в expat-archetype. Когда нужен один-ключевой пример, соединяющий оба нарратива («возраст + география как двойное асимметричное преимущество»), Горяев — лучший мостик.
@@ -192,6 +202,9 @@ namespace: mkt
 - [[sources/2026-05-05-tg-t-jrnl-may-1-5-2026]] — Т-Ж 01–05 мая 2026, mainstream-валидация late-start (Виталий, Екатерина)
 - [[evolving/content-trends/career-audience-hooks-2026]] — Hook 24 «Эйджизм — общемировая проблема» из того же эпизода «План Б 158»
 - [[evolving/content-trends/long-cycle-ridicule-conversion-niche-biz]] — комплементарный паттерн (long-cycle attention для нишевых продуктов; late-start товаров/сервисов = нишевые по определению)
+- [[evolving/content-trends/career-change-via-entrepreneurship-bridge-hooks]] — зеркальный архетип (предпринимательство как мост между профессиями, а не финал)
+- [[canon/marketing-frameworks/proactive-career-risk-management-trend-watching]] — методология «выйти из профессии заранее по глобальным трендам»
+- [[sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir]] — якорь career-bridge архетипа
 
 ## Backlinks
 
