@@ -5,12 +5,12 @@ type: page
 subtype: trend
 layer: evolving
 theme: content-trends
-tags: [content, telegram, carousel, awareness, consideration, books, expert-content]
+tags: [content, telegram, carousel, awareness, consideration, books, expert-content, management]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-stodnevka2-apr-may-2026.md]
+updated: 2026-05-23  # +second exemplar: TYPICAL «9 книг для руководителей» (single-image композит-вариант формата) → новый раздел; формат подтверждён вторым независимым образцом
+sources: [sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-23-tg-typicalcompany-may-20-22-2026.md]
 namespace: mkt
 ---
 
@@ -89,6 +89,27 @@ Exemplar — [[sources/2026-05-05-tg-stodnevka2-apr-may-2026]], посты 2284-
 - **CTA в каждой карточке** — обесценит «бесплатность» подачи.
 - **Больше 5-7 карточек** — overload, читатель отваливается. Petrosian остановился на 5; это, видимо, верхняя граница.
 
+## Variant: single-image композит (TYPICAL «9 книг для руководителей»)
+
+Второй наблюдаемый exemplar — пост 1339 @typicalcompany (Валерия Розова, 2026-05-22, [[sources/2026-05-23-tg-typicalcompany-may-20-22-2026]]). Это **тот же формат, но в свёрнутом single-image варианте**: вместо N последовательных постов — **один пост = один текстовый longread + одна композитная картинка** со всеми 9 обложками в сетке 3×3. Подтверждает, что «1 longread + N книг» — устойчивый формат (теперь два независимых образца → confidence держится на medium, но окреп).
+
+| Параметр | Petrosian (@stodnevka2) | TYPICAL (@typicalcompany) |
+|---|---|---|
+| Носитель N книг | N отдельных постов с N карточками | 1 пост + 1 композит-картинка (сетка обложек) |
+| Lead | longread в первом посте | longread в теле того же поста |
+| Объём подборки | 5 книг | 9 книг |
+| Аннотации | цитаты из книг на карточках | 1 строка-тезис на книгу в тексте поста |
+| Авторство аннотаций | цитаты авторов книг | оригинальная мини-рецензия ведущей |
+| Brand-маркер | белый клетчатый template | аватар автора + лого «вензель» на композите |
+| Топ-пик | нет (равнозначные) | есть («Разверните ваш корабль» — «с чего начать») |
+
+**Когда какой вариант выбирать:**
+
+- **N-постов вариант (Petrosian)** — лучше для feed-grouping и save'ов: каждая карточка — самостоятельный сохраняемый артефакт. Цена: технически N постов в одну минуту, нужен унифицированный template.
+- **Single-image композит (TYPICAL)** — проще в производстве (один пост), удобнее для repost/share как единого объекта, но проигрывает в save-per-book. Лучше работает, когда аннотации короткие (1 строка) и автор хочет добавить **личную рамку ценности** в тексте (TYPICAL: «зависимость бизнеса от руководителя — главная ловушка»).
+
+**Контент-наблюдение (для GRO).** TYPICAL-подборка — целиком про **management/устойчивость/системность** (Деминг, Toyota lean, Marquet про делегирование). Топ-пик Розовой («Разверните ваш корабль» — выход из зависимости бизнеса от руководителя) **дословно совпадает** с owner-bottleneck нарративом вики: [[evolving/content-trends/owner-escape-operations-hooks]], [[canon/marketing-frameworks/owner-strategist-operator-three-roles-separation]]. То есть книжная подборка — это ещё и **сигнал о боли ЦА** (founder/руководитель боится «бизнес зависит от меня»), не только формат.
+
 ## Атрибуция
 
 Сам формат — observed pattern, не proprietary к Петросяну. Visual template **(белый клетчатый фон + книга в руке + цитаты капителью)** — конкретно его. При воспроизводстве для GRO **template нужно адаптировать** (можно использовать другой фон/композицию, идею «1 фото + цитаты» — да). Цитаты в Petrosian-карусели взяты из **изданных книг** (Чиксентмихайи, Аллен, Клир, Тарт, Паддикомб) — это **не контент Петросяна**, и copyright issue с цитатами в маркетинге GRO решается стандартно (короткие цитаты с указанием автора и книги — fair use).
@@ -100,7 +121,10 @@ Exemplar — [[sources/2026-05-05-tg-stodnevka2-apr-may-2026]], посты 2284-
 - [[evolving/content-trends/event-speaker-carousel-format]] — смежный carousel-pattern, но для event-анонсов.
 - [[evolving/content-trends/ugc-testimonial-carousel-arc]] — смежный carousel-pattern, но для customer voices.
 - [[evolving/content-trends/telegram-native-formats]] — общий обзор форматов в TG, в нём добавлен Petrosian-exemplar блок.
+- [[evolving/content-trends/research-digest-to-course-module-mapping]] — соседний формат того же канала (TYPICAL, пост 1338), другой механизм lead-magnet'а.
+- [[evolving/competitor-positioning/typical-company]] — профиль автора second exemplar'а (TYPICAL).
 
-## Источник
+## Источники
 
-- [[sources/2026-05-05-tg-stodnevka2-apr-may-2026]] — посты 2284..2288, 2026-04-29.
+- [[sources/2026-05-05-tg-stodnevka2-apr-may-2026]] — посты 2284..2288, 2026-04-29 (Petrosian, N-постов вариант).
+- [[sources/2026-05-23-tg-typicalcompany-may-20-22-2026]] — пост 1339, 2026-05-22 (TYPICAL/Розова, single-image вариант).

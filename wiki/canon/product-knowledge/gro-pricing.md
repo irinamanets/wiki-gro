@@ -9,8 +9,8 @@ tags: [product, pricing, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-16  # +intensive track: 240k/400k ₽ tariff-2 (founder vs founder+CMO)
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-appstore-listing.md, sources/2026-04-10-gro-googleplay-listing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-10-gro-lk-auth.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md]
+updated: 2026-05-19  # +intensive tariff-1 чекаут: тот же набор 240k/400k ₽, что tariff-2 → тарифы различаются не ценой
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-appstore-listing.md, sources/2026-04-10-gro-googleplay-listing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-10-gro-lk-auth.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-19-groapp-payment-intensive-tarif1.md]
 namespace: mkt
 ---
 
@@ -67,16 +67,16 @@ namespace: mkt
 
 ## Второй ценовой контур — «Интенсив» (high-ticket B2B)
 
-По [[sources/2026-05-16-groapp-payment-intensive-tarif2|чекауту payment-intensive-tarif2]] зафиксирован отдельный продуктовый трек GRO — **«Интенсив»** с тарифной серией `tarif1...tarifN`. Конкретный «Тариф 2» имеет две ценовые точки:
+По чекаутам [[sources/2026-05-19-groapp-payment-intensive-tarif1|payment-intensive-tarif1]] и [[sources/2026-05-16-groapp-payment-intensive-tarif2|payment-intensive-tarif2]] зафиксирован отдельный продуктовый трек GRO — **«Интенсив»** с тарифной серией `tarif1...tarifN`. **Обе** заингесченные тарифные страницы несут идентичный ценовой набор:
 
-- «Иду один» — **240 000 ₽** `[conf:high, src:2026-05-16]`
-- «Иду с директором по маркетингу» — **400 000 ₽** `[conf:high, src:2026-05-16]`
+- «Иду один» — **240 000 ₽** (Тариф 1 `[conf:high, src:2026-05-19]`, Тариф 2 `[conf:high, src:2026-05-16]`)
+- «Иду с директором по маркетингу» — **400 000 ₽** (Тариф 1 `[conf:high, src:2026-05-19]`, Тариф 2 `[conf:high, src:2026-05-16]`)
 
 **Это не альтернатива подписке**, а отдельный продукт для другого ICP (см. [[canon/product-knowledge/gro-intensive]]):
 - Подписка — broad-funnel low-ticket (~2 490 ₽/мес), все три сегмента из [[canon/target-audience/gro-segments]]
 - Интенсив — narrow-funnel high-ticket (240–400k ₽), owner SMB с маркетинговой функцией (founder + CMO bundle)
 
-**Структура «Тарифа 1» и других тарифов на 2026-05-16 не зафиксирована** — известна только «Тарифа 2».
+**Структура «Тарифа 1» зафиксирована (2026-05-19): тот же ценовой набор, что у «Тарифа 2».** Значит тарифные страницы серии различаются **не ценой** (а потоком/датой/составом/трафик-каналом — пока не раскрыто). Существование `tarif3+` неизвестно.
 
 ### Как это использовать в контенте
 

@@ -9,8 +9,8 @@ tags: [framework, sales, consideration, decision, customer-experience, brand-gui
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
+updated: 2026-05-19  # +concrete-case 4-го среза Якубы (6871): IT-компания, лид за 1500 ₽ слит за секунды
+sources: [sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -58,6 +58,19 @@ Operational frame от Якубы (пост 6858, [[sources/2026-05-14-tg-vyakub
 - Call-centers с queue-based KPI (количество звонков в час)
 - Inbound-sales команд без individual conversion KPI
 - Аутстафф / тендерных лид-генераций, где приёмщик не отвечает за исход
+
+## Concrete-case: лид за 1500 ₽ слит за секунды (Якуба, 4-й срез)
+
+Якуба ([[sources/2026-05-19-tg-vyakuba-may-14-19-2026]], YouTube-разбор 6871, 2026-05-15) приводит **mystery-shopper-кейс**, иллюстрирующий фрейм буквально:
+
+> «IT-компания. 20 лет на рынке. 15 маркетологов. 5 человек в "отделе продаж". Во время разбора позвонил к ним под видом клиента. — "Я посмотрю на сайте" — "Хорошо, до свидания". Лид за 1500 ₽ слили за несколько секунд. Главная проблема? Люди 15–20 лет сидят на окладе без KPI и процентов. Они не продают. Они просто отвечают на входящие.»
+
+**Что подтверждает кейс:**
+- **15-секундный window реален в наблюдаемом поведении** — диалог свернулся за несколько секунд («я посмотрю» → «до свидания»), не дойдя до value-prop или цены.
+- **Misdiagnosis** — компания вложилась в маркетинг (15 маркетологов, лид стоит 1500 ₽), но проигрывает на первом контакте. Бюджет на attraction → слит на первой фразе.
+- **Корневая причина — incentive design**: оклад без KPI/процентов → сотрудник «отвечает на входящие», а не приобретает клиента. Это **front-line accountability gap** в чистом виде. Cross-link [[canon/marketing-frameworks/sales-quality-vs-quantity-vyakuba-kpi]] (там — как переустроить KPI).
+
+**Сила кейса для контента:** конкретная цифра (1500 ₽), узнаваемая фраза, mystery-shopper-механика «позвонил под видом клиента». Это **content-asset-формат** сам по себе (разбор реального бизнеса), не только иллюстрация фрейма. `[conf:low, src:2026-05-15]` (стоимость лида self-reported в разборе).
 
 ## Marketing-параллели
 
@@ -125,6 +138,7 @@ GRO — SaaS-продукт с self-service onboarding. «Первый конт�
 - [[evolving/competitor-positioning/vyakuba-sales-training]] — Якуба как source-context
 - [[evolving/content-trends/sales-ai-narrative-hooks-2026]] — связанные AI/sales hooks
 - [[sources/2026-05-14-tg-vyakuba-may-5-14-2026]] — первоисточник
+- [[sources/2026-05-19-tg-vyakuba-may-14-19-2026]] — concrete-case (IT-компания, лид за 1500 ₽)
 
 ## Caveat
 

@@ -9,7 +9,7 @@ tags: [gen-z, workforce, hr, retention, partnership-employment]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14  # +Soulful (Drivee, Дзен Деловой Мир): расширение фрейма до 25–35 лет — «они быстрее распознают управленческую фальшь», не «слабее», а пережили несколько кризисов
+updated: 2026-05-19  # +cross-ref на hr-profession-2040-fork-spk (long-horizon прогноз СПК); prior: +Soulful (Drivee, Дзен Деловой Мир) расширение фрейма до 25–35 лет
 sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2884750-kak-rabotat-s-zumerami-sovety-po-vzaimodejstviyu-.md, sources/2026-05-05-vcru-hr-2800108-10-klyuchevykh-insaitov-o-molodom-pokolenii-dlya-.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md]
 namespace: mkt
 ---
@@ -94,6 +94,7 @@ namespace: mkt
 - [[canon/target-audience/gro-segments]] — три сегмента ЦА
 - [[sources/2026-05-05-vc-ru-condensed]] — источник
 - [[sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026]] — Соулфул (Drivee) — расширение фрейма до 25-35
+- [[evolving/industry-trends/hr-profession-2040-fork-spk]] — long-horizon прогноз рынка труда до 2040 (кадровая мобильность, сокращение ролей как поколенческий фон)
 
 ## Backlinks
 

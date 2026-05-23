@@ -9,7 +9,7 @@ tags: [feedback, management, team, communication]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-23  # +cross-ref на hbr-superteam-7-practices-friedman (research-обоснование «почему формат фидбэка решает»: анализ 600 исследований — треть фидбэка вредит)
 sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2803581-kak-pravilno-davat-obratnuyu-svyaz-razrabotchikam.md]
 namespace: mkt
 ---
@@ -78,8 +78,13 @@ GRO как self-management-инструмент **может ассимилир�
 
 Этот фреймворк — не новый: SBI описан Center for Creative Leadership, GROW — Whitmore (1992). vc.ru-статья — практическое применение в команде разработчиков. Здесь сохранён без претензии на оригинальность — как **canonический** инструмент.
 
+## Почему этот фреймворк важен (research-обоснование)
+
+HBR-исследование (Friedman, 2026) даёт количественное подтверждение, **зачем** нужна структура подачи фидбэка: анализ 600 исследований показал, что примерно в трети случаев плохо поданная обратная связь не улучшает, а **ухудшает** результат (см. [[canon/marketing-frameworks/hbr-superteam-7-practices-friedman]] практика #4). SBI+GROW — это и есть «как подать так, чтобы не навредить»: SBI убирает оценочность (главную причину деморализации), GROW переводит разговор из «разбора прошлого» в «план будущего». То есть SBI+GROW — операционный ответ на риск, который Friedman фиксирует статистически.
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/hbr-superteam-7-practices-friedman]] — research-обоснование (фидбэк может вредить — анализ 600 исследований)
 - [[canon/marketing-frameworks/refused-customer-interview]] — пересекающаяся рамка обратной связи от пользователей
 - [[canon/marketing-frameworks/collective-intelligence-meeting-protocol]] — структура встреч, в которой SBI применим
 - [[canon/marketing-frameworks/distributed-team-management-principles]] — управление командой

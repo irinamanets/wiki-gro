@@ -75,4 +75,5 @@ Threads-пост (img 15922, christian_shkryum, 97 лайков / 116 комме
 - [[evolving/industry-trends/ecommerce-trust-decision-shift-ru-2026]] — сдвиг к конкуренции за доверие
 - [[evolving/industry-trends/freelance-platform-dependency]] — зависимость от одной платформы
 - [[evolving/industry-trends/marketplace-community-convergence-2026]] — конвергенция МП и community
+- [[volatile-strict/industry-news/wb-china-b2b-export-2026-05]] — WB расширяет leverage в новый канал: B2B-экспорт РФ-товаров в Китай (платформа как экспортная инфраструктура)
 - [[sources/2026-05-14-tg-bezsmuzi-may-5-7]] — предыдущий дамп (80/20 + 1% net margin anchor)

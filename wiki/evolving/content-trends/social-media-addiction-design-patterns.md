@@ -9,8 +9,8 @@ tags: [content, dark-patterns, addiction, ux, regulation, dsa, attention-economy
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-06
-sources: [sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md]
+updated: 2026-05-23  # +cross-ref: Pattern 2 (variable reward) = «переменная награда» элемент Hook Model — те же механики ethics-нейтрально лежат в основе retention-дизайна
+sources: [sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-19-dzen-delovoymir-habit-product-hook-model.md]
 namespace: mkt
 ---
 
@@ -47,6 +47,8 @@ namespace: mkt
 **Параллель:** механика идентична игровым автоматам с переменным reward schedule (Skinner box-эффект).
 
 **Биологический эффект:** дофаминовые пути меняются при частом использовании, формируется зависимость **аналогичная психоактивной**.
+
+> **Связь с retention-дизайном.** Этот Pattern 2 — это ровно «**переменная награда**», третий элемент петли [[canon/marketing-frameworks/hook-model-habit-loop|Hook Model]]. Сама механика ethics-нейтральна: она лежит в основе любого habit-продукта. Разница между «retention» и «dark pattern» — не в наличии переменной награды, а в том, проходит ли она [[canon/marketing-frameworks/yudin-personalization-vs-manipulation-test|тест Юдина]]: если убрать механику и пользователю станет лучше — это dark pattern; если хуже — это полезный retention. Соцсетевая variable reward = эксплуатация, честный аналог (персональный инсайт, неожиданная рекомендация) = retention.
 
 ### Pattern 3. Эмоциональный шантаж (FOMO design)
 
@@ -123,6 +125,8 @@ EU DSA и LA jury verdict — это **долгосрочный shift** регу
 - [[evolving/content-trends/daily-streak-gamification-in-finance]] — параллельный паттерн в fintech, контр-пример для GRO
 - [[evolving-strict/market-data/wgsn-future-consumer-2027]] — Witherwill как consumer-driver «не успевать без вины»
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — RU контекст регуляторных давлений
+- [[canon/marketing-frameworks/hook-model-habit-loop]] — те же механики (триггеры, переменная награда, инвестиция) ethics-нейтрально как retention-дизайн
+- [[sources/2026-05-19-dzen-delovoymir-habit-product-hook-model]] — Hook Model как retention-фреймворк (Деловой мир / Дзен)
 
 ## Backlinks
 

@@ -9,7 +9,7 @@ tags: [career, awareness, content, retention]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +сезонный sub-pattern «переход после бонусов» (финансисты/юристы, апрель→май) из @recruiter_live 4472
+updated: 2026-05-19  # +cross-ref на hr-profession-2040-fork-spk (long-horizon проекция, прогноз СПК до 2040); prior: +сезонный sub-pattern «переход после бонусов» (финансисты/юристы, апрель→май) из @recruiter_live 4472
 sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md, sources/2026-05-16-tg-recruiter-live-may-14-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md]
 namespace: mkt
 ---
@@ -324,6 +324,7 @@ namespace: mkt
 - [[sources/2026-05-16-tg-recruiter-live-may-14-2026]] — micro-confirmation (пост 4470, cross-posting LinkedIn → @jobsIndustry pattern)
 - [[evolving/industry-trends/ru-offline-retail-decline-2026]] — резолюция apparent contradiction (сети растут, отдельные категории теряют)
 - [[volatile-strict/industry-news/ru-ma-deals-q1-2026]] — фон консолидации, поддерживающий sector growth
+- [[evolving/industry-trends/hr-profession-2040-fork-spk]] — long-horizon проекция (прогноз СПК до 2040): этот краткосрочный сдвиг = первая фаза «развилки HR-профессии»
 
 ## Backlinks
 

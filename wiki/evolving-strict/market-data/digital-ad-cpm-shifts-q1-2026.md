@@ -9,8 +9,8 @@ tags: [market-data, advertising, paid-ads, ctv, dooh, retargeting, ai, zarubezhn
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-cossaru-may-5-14-2026.md]
+updated: 2026-05-19
+sources: [sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-19-dzen-diksi-bilayn-smart-tv-offline-sales-case.md]
 namespace: mkt
 ---
 
@@ -39,6 +39,7 @@ namespace: mkt
 
 - CTV (Smart TV) и DOOH (цифровые билборды) теперь покупаются программно, как обычный digital `[conf:high, src:2026-05-06]`
 - Барьер входа снизился, рекламодатели перемещают бюджеты с традиционного веб-дисплея в CTV/DOOH `[conf:high, src:2026-05-06]`
+- **RU-валидация эффекта:** на российском рынке кейс Билайн Adtech × «Дикси» уже доказал измеримый вклад Smart-TV-рекламы в офлайн-продажи (+23,4 п.п. инкремента к конверсии сверх сезонности) через детерминированную атрибуцию Stable ID — см. [[evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026]] и метод в [[canon/marketing-frameworks/clickless-channel-incrementality-stable-id]] `[conf:medium, src:2026-05-19]`
 
 ## Что это значит для маркетинга
 
@@ -58,4 +59,7 @@ namespace: mkt
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — AEO/GEO как новый top-of-funnel
 - [[evolving-strict/market-data/digital-ad-market-ru-2024-2026]] — российский контекст рынка цифровой рекламы
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — общий контекст AI-каннибализации
+- [[evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026]] — RU-кейс измеримости CTV/Smart TV на офлайн-продажи
+- [[canon/marketing-frameworks/clickless-channel-incrementality-stable-id]] — методология измерения click-less каналов
+- [[evolving/industry-trends/digital-indoor-retail-media-ru-2026]] — RU retail-media / Билайн Adtech как игрок
 - [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] — первоисточник

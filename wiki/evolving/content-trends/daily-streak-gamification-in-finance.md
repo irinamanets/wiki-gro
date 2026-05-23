@@ -9,8 +9,8 @@ tags: [content, gamification, fintech, retention, ux, daily-engagement, t-bank, 
 confidence: medium
 stale: false
 created: 2026-04-17
-updated: 2026-05-19  # +«Кэшбэк месяца» (май 2026) как контрастный recurring-monthly-window режим — daily-streak не единственный cashback-cadence у T-Bank, cross-ref на отдельную страницу формата
-sources: [sources/2026-04-14-tg-tinkoffbank-10557-daily-cashback-streak.md, sources/2026-04-14-tg-tinkoffbank-10572-cashback-100-typographic.md, sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md]
+updated: 2026-05-23  # +теоретическая рамка: streak = «инвестиция» + «переменная награда» элементы Hook Model — cross-ref на канон habit-петли
+sources: [sources/2026-04-14-tg-tinkoffbank-10557-daily-cashback-streak.md, sources/2026-04-14-tg-tinkoffbank-10572-cashback-100-typographic.md, sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md, sources/2026-05-19-dzen-delovoymir-habit-product-hook-model.md]
 namespace: mkt
 ---
 
@@ -112,6 +112,15 @@ Daily-streak — **не единственный** cashback-cadence у Т-Бан
 
 **Вывод для рамки переноса:** daily-streak адресует ограничение #1 этой страницы (требует ежедневного внимания, не works для mass-retail) — Т-Банк закрывает этот gap **дополнительным monthly-window-режимом**, а не отказом от streak'а. Для GRO это значит: если daily-streak конфликтует с subscription-логикой или отторгается частью аудитории — не выбрасывать, а **дополнить monthly-cadence-режимом** под casual-сегмент. Полный разбор monthly-формата — [[evolving/content-trends/tbank-recurring-monthly-cashback-format-2026]].
 
+## Теоретическая рамка: streak в терминах Hook Model
+
+Streak-механика — это не отдельный трюк, а **комбинация двух элементов петли [[canon/marketing-frameworks/hook-model-habit-loop|Hook Model]]**:
+
+- **Инвестиция** — накопленный streak делает продукт ценнее лично для пользователя; чем длиннее серия, тем выше switching cost (бросить на 200-м дне сложнее, чем на 3-м). Это и есть «инвестиция», замыкающая петлю.
+- **Переменная награда** — bonus-day (crown/trophy), непредсказуемая daily-category в «Кэшбэк дня» работают как variable reward, а не предсказуемый бонус.
+
+Streak-break churn-risk (ограничение #2) — это **обратная сторона инвестиции**: страх потерять накопленное (loss aversion). Здесь же лежит этическая граница — прогонять через [[canon/marketing-frameworks/yudin-personalization-vs-manipulation-test|тест Юдина]]: streak как honest-прогресс (GRO-тренировки) полезен, streak-loss-aversion как FOMO-давление — dark pattern (см. [[evolving/content-trends/social-media-addiction-design-patterns]]). Для GRO выбор сознательный: структурный прогресс, не streak-зависимость.
+
 ## Gap и неизвестные
 
 - **Retention-performance Т-Bank Кэшбэк дня пока неизвестен.** Нельзя оценить cost-effectiveness без public-data. Следить по периодическим updates в отчётах T-Bank.
@@ -132,6 +141,9 @@ Daily-streak — **не единственный** cashback-cadence у Т-Бан
 - [[evolving/content-trends/ru-task-manager-listicle-baseline-2016]] — historical landscape, где Todoist Karma (productivity-gamification ~2013) — самый ранний массовый prior банковского streak-паттерна
 - [[evolving/content-trends/tbank-recurring-monthly-cashback-format-2026]] — контрастный cadence-режим («Кэшбэк месяца», monthly-window) в портфеле того же бренда
 - [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]] — источник «Кэшбэк месяца» (#10714)
+- [[canon/marketing-frameworks/hook-model-habit-loop]] — теоретическая рамка: streak = «инвестиция» + «переменная награда» элементы петли привычки
+- [[canon/marketing-frameworks/yudin-personalization-vs-manipulation-test]] — этический фильтр honest-прогресс vs streak-FOMO
+- [[sources/2026-05-19-dzen-delovoymir-habit-product-hook-model]] — Hook Model как retention-фреймворк (Деловой мир / Дзен)
 
 ## Backlinks
 

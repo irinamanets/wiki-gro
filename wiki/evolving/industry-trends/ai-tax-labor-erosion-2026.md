@@ -9,7 +9,7 @@ tags: [ai, taxation, labor-market, automation, anthropic, openai, fiscal-policy,
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-19  # +cross-ref на hr-profession-2040-fork-spk (UBI/технологическая безработица как long-horizon проекция fiscal-shift)
 sources: [sources/2026-05-19-tg-forbesrussia-20260519-104004.md]
 namespace: mkt
 ---
@@ -68,6 +68,7 @@ Robot-tax кейс Южной Кореи (−28% автоматики) — **cou
 - [[evolving-strict/market-data/ai-driven-layoffs-2025-2026]]
 - [[evolving/industry-trends/ai-cognitive-atrophy-identity-2026]]
 - [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026]] — вторая фаза AI-нарратива (риски/предосторожности)
+- [[evolving/industry-trends/hr-profession-2040-fork-spk]] — long-horizon прогноз HR/рынка труда до 2040 (UBI как распределительный механизм fiscal-shift, технологическая безработица)
 - [[sources/2026-05-19-tg-forbesrussia-20260519-104004]]
 
 ## Caveats

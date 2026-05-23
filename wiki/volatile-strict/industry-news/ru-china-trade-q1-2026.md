@@ -43,4 +43,5 @@ namespace: mkt
 - [[volatile-strict/industry-news/ru-mobile-internet-shutdowns-may-2026]] — параллельный сигнал
 - [[evolving-strict/market-data/ru-ecommerce-platformization-reshetnikov-2026]] — RU-ecommerce контекст
 - [[evolving/industry-trends/china-ai-manufacturing-momentum-2026]] — китайский AI-pulse
+- [[volatile-strict/industry-news/wb-china-b2b-export-2026-05]] — Wildberries запускает B2B-экспорт РФ-товаров в Китай (свежий канал в том же РФ-Китай потоке)
 - [[sources/2026-05-14-tg-vcnews-may-8-12-2026]] — первичный источник (@vcnews 61284 → vc.ru/money/2915805)

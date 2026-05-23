@@ -9,8 +9,8 @@ tags: [competitor, indirect-competitor, management, paid-community, telegram, co
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-22  # +Continuity-update пост 1337 (18 мая): CEO-succession нарратив (Джобс→Кук→Тернус) + бизнес-кейс крупной компании как management-урок; извлечена canon-рамка operational-ceo-as-strategist-cook. Prior: mini-dump 2026-05-16 (AI-нарратив pivot 1→2 фаза); третий ingest 6-12 мая (cadence восстановлен, productized лестница раскрыта)
-sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md]
+updated: 2026-05-23  # +Continuity-update посты 1338-1339 (20-22 мая, шестой ingest): 2 новых content-pillar'а (HBR research-дайджест с module-mapping; книжная подборка) + раскрыто имя ведущей (Валерия Розова). Извлечены: canon hbr-superteam-7-practices-friedman + content-trends research-digest-to-course-module-mapping. Prior: пост 1337 (18 мая) CEO-succession + operational-ceo-as-strategist-cook; mini-dump 2026-05-16 (AI-нарратив pivot 1→2 фаза); третий ingest 6-12 мая (cadence восстановлен, productized лестница раскрыта)
+sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md, sources/2026-05-23-tg-typicalcompany-may-20-22-2026.md]
 namespace: mkt
 ---
 
@@ -91,7 +91,7 @@ TYPICAL позиционируется как «человеко-centric» manag
 
 ### Personal voice, но коллективный бренд
 
-Автор постов — явно одна ведущая (паттерн личных местоимений, собственных историй про мужа, клиентов, самоиронии). Но в self-description и UI канала автор не назван — это **collective-brand-с-faceless-ведущей** (в отличие от, например, Высоцкого → Business Booster, где имя founder'а — ключевой hook). Тактически это означает: TYPICAL не зависит от one-person risk-а (персональный бренд не масштабируется за founder-а), но и не использует преимущества face-brand'а.
+Автор постов — явно одна ведущая (паттерн личных местоимений, собственных историй про мужа, клиентов, самоиронии). Долгое время в self-description и UI канала автор не назывался — это читалось как **collective-brand-с-faceless-ведущей**. <!-- superseded 2026-05-23 by [[sources/2026-05-23-tg-typicalcompany-may-20-22-2026]] : раньше считали ведущую анонимной/faceless --> **Уточнение (пост 1339, 22 мая 2026):** ведущая впервые подписалась именем — **Валерия Розова** («Привет, на связи Валерия Розова»), с круглым аватар-фото на карточке. То есть бренд **не** полностью faceless: ведущая идентифицирована, но имя выводится мягко (только в личных постах-подборках, не в self-description бренда). Это **гибрид**: TYPICAL держит коллективный бренд для consulting-deliverable, но использует именованную ведущую как face-of-content-канала. Тактически снижает one-person risk (бренд ≠ только Розова), сохраняя преимущества personal voice. Для GRO-watchlist: появление имени → можно искать публичный LinkedIn/bio Розовой для upgrade confidence на style-marker-наблюдениях.
 
 ### Style marker: пост 1305
 
@@ -208,6 +208,30 @@ TYPICAL позиционируется как «человеко-centric» manag
   - (б) Появляется ли своя rubric для «разбора лидерства CEO» (brand-canonical формат) или это разовый ситуативный пост на актуальном news-поводе (смена CEO Apple)?
   - (в) Появляются ли отсылки к собственному продукту TYPICAL в этих case-study постах (мост от кейса к группе/консалтингу)?
 
+## Continuity-update (посты 1338-1339, 20-22 мая 2026 — шестой ingest)
+
+Мини-дамп из 2 постов ([[sources/2026-05-23-tg-typicalcompany-may-20-22-2026]]) — два разных content-pillar'а в одном окне:
+
+- **Раскрыто имя ведущей: Валерия Розова** (пост 1339). Первое за всё окно наблюдения называние имени. См. обновлённый §«Personal voice, но коллективный бренд» — диагноз сменился с «faceless» на «именованная ведущая внутри коллективного бренда».
+
+- **Новый content-pillar #1: research-дайджест → mapping на модули продукта** (пост 1338). TYPICAL берёт статью HBR («How to Build a Superteam», Ron Friedman, R2603A), вытаскивает 4 находки и **каждую привязывает к конкретному модулю интенсива** «Системный подход к управлению бизнесом». Это **distinct lead-magnet-механика** — образовательный пост, конструктивно превращённый в дробный product-tour. Зафиксировано как [[evolving/content-trends/research-digest-to-course-module-mapping]]. Содержательная рамка находок → canon [[canon/marketing-frameworks/hbr-superteam-7-practices-friedman]]. Это **возврат к продукту в content'е** после серии «чистых» case-study постов (1333/1336/1337 про Apple/OpenAI без явного моста к продукту) — теперь мост в продукт явный.
+
+- **Новый content-pillar #2: книжная подборка для руководителей** (пост 1339). Single-image композит «9 книг» с личной мини-рецензией от Розовой. Зафиксировано как second exemplar формата [[evolving/content-trends/book-recommendation-carousel-tg]] (single-image вариант). **Содержательный сигнал:** подборка целиком про устойчивость/системность/делегирование (Деминг, Toyota lean, Marquet); топ-пик Розовой — «Разверните ваш корабль» с тезисом «зависимость бизнеса от руководителя — главная управленческая ловушка». Это **то же owner-bottleneck problem-space**, что вика трекает в [[evolving/content-trends/owner-escape-operations-hooks]] и [[canon/marketing-frameworks/owner-strategist-operator-three-roles-separation]] — подтверждает, что TYPICAL и GRO целятся в смежную боль ЦА.
+
+- **Cadence — стабилен.** 2 поста за 3 дня (20/22 мая) после поста 1337 (18 мая) подтверждают ~2-3 поста/неделя. Watchlist «регулярная публикация» — снова подтверждён.
+
+- **Диверсификация content-pillars продолжается.** За месяц наблюдения TYPICAL прошёл: cognitive biases → AI-productivity → AI-risk-discipline → CEO-leadership-cases → **research-дайджест + book-list**. Единый management-lens сохраняется. Это зрелая content-машина с широким репертуаром форматов, а не лаунч-кампания. **Возврат product-bridge'а** (module-mapping в 1338) после серии «чистого» edutainment'а — здоровый баланс «ценность ↔ конверсия».
+
+- **Confidence-уровень profile** сохраняется на `medium-high`. Добавлено: раскрытие имени ведущей (фактологический upgrade) + 2 новых content-формата в репертуаре.
+
+- **Фактологический caveat — снова актуален.** Числа HBR-дайджеста (43%/33%/~50%/⅓) поданы TYPICAL как свои; первоисточник — Friedman/HBR R2603A. TYPICAL ранее путал даты (пост 1337, Кук «1998 банкротство»). При републикации в content GRO — сверять с HBR-оригиналом, атрибутировать к Friedman. См. [[canon/marketing-frameworks/hbr-superteam-7-practices-friedman]] §атрибуция.
+
+- **Watchlist на следующий ingest:**
+  - (а) Закрепляется ли имя Розовой как постоянная подпись (face-of-content), или это разовое появление?
+  - (б) Продолжается ли research-дайджест с module-mapping как regular-формат (повтор на втором исследовании)?
+  - (в) Появляется ли публичный bio/LinkedIn Розовой → upgrade confidence на style-marker'ах до `high`?
+  - (г) Возвращается ли product-bridge (module/group/consulting) в case-study посты, или 1338 был исключением?
+
 ## Contradictions
 
 _Нет зафиксированных противоречий._
@@ -237,4 +261,8 @@ _13 pages link to this one._
 - [[sources/2026-05-05-tg-your-pet-project-feb-may-2026]]
 - [[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]]
 - [[sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook]]
+- [[sources/2026-05-23-tg-typicalcompany-may-20-22-2026]]
 - [[canon/marketing-frameworks/operational-ceo-as-strategist-cook]]
+- [[canon/marketing-frameworks/hbr-superteam-7-practices-friedman]]
+- [[evolving/content-trends/research-digest-to-course-module-mapping]]
+- [[evolving/content-trends/book-recommendation-carousel-tg]]

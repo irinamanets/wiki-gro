@@ -9,8 +9,8 @@ tags: [legal, compliance, pr, erid, erir, fas, rkn, hr-ai, gdpr-equivalent]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-23
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-14-dzen-delovoy-mir-brand-podcasts-markina.md, sources/2026-05-22-pressfeed-survey-tools-data-localization-ru.md, sources/2026-05-18-pressfeed-168fz-anglicism-check-services.md]
+updated: 2026-05-23  # +обязательные сведения о рекламодателе в СМС + платформенная compliance-автоматизация (Билайн Adtech)
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-14-dzen-delovoy-mir-brand-podcasts-markina.md, sources/2026-05-22-pressfeed-survey-tools-data-localization-ru.md, sources/2026-05-18-pressfeed-168fz-anglicism-check-services.md, sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms.md]
 namespace: mkt
 ---
 
@@ -153,6 +153,12 @@ namespace: mkt
 - **Медицинские услуги/лекарства:** запрещено давать гарантии результата, ссылаться на случаи излечения, использовать фото «до/после» без предупреждений `[conf:medium, src:2026-04-16]`
 - **Обсценная лексика в рекламе:** кейс «Бургер Кинг» — штрафы за слоганы с намёками на обсценную лексику `[conf:medium, src:2026-04-16]`
 
+## Обязательные сведения о рекламодателе в СМС + платформенная автоматизация
+
+Для значительной части рекламных СМС-рассылок обязателен **юридический блок** со сведениями о рекламодателе. Состав, заявленный на стороне платформы билайн.ПРОдвижение (Билайн Adtech): организационно-правовая форма, наименование компании, ИНН, ОГРН/ОГРНИП, а также лицензии/проектные декларации, если этого требует отрасль `[conf:high, src:2026-05-19]`. Обязательность вытекает из законодательства о рекламе и редакционной политики оператора связи `[conf:high, src:2026-05-19]`.
+
+**Платформенный compliance-тулинг (наблюдаемый паттерн).** Рекламные кабинеты начинают автоматизировать заполнение юр-блока: билайн.ПРОдвижение подбирает шаблон по категории товара и автоподставляет реквизиты из профиля `[conf:high, src:2026-05-19]`. Эффект, заявленный платформой: в первый месяц после запуска число кампаний, не прошедших модерацию из-за ошибок в юр-поле, снизилось на 8% `[conf:high, src:2026-05-19]` — ошибки в этом поле названы одной из распространённых причин reject'а `[conf:high, src:2026-05-19]`. Детали и маркетинговая интерпретация — [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]]. Автозаполнение — операционный инструмент платформы, не освобождает рекламодателя от ответственности за достоверность сведений.
+
 ## Влияние на рынок подкастов
 
 Регуляторика маркировки рекламы напрямую влияет на экономику аудио-рекламы:
@@ -177,6 +183,8 @@ namespace: mkt
 - [[canon/marketing-frameworks/brand-podcast-launch-playbook]] — методология запуска собственного подкаста как media-build ответа на регуляторное давление
 - [[evolving/content-trends/brand-podcast-vs-integration-shift-2026]] — наблюдаемый сдвиг рынка под влиянием регуляторики
 - [[evolving-strict/market-data/ru-podcast-audience-2023-2025]] — рынок подкастов в РФ
+- [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]] — платформенная автоматизация юр-блока в СМС (Билайн Adtech)
+- [[evolving/industry-trends/ai-generated-creatives-in-advertising]] — AI расширяется из креатива в compliance в рекламных кабинетах
 
 ---
 \* Принадлежит Meta, организация признана экстремистской и запрещена в РФ.

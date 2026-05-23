@@ -9,8 +9,8 @@ tags: [product, target-audience, jtbd, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-19  # +регуляторный попутный ветер Сегмента 3 (платформенные преференции самозанятым ≥2,9%, @selfworkru); prior: +«совмещающие» как сегмент-мост (Минэк×Сбер 51% совмещают, мотивы запуска) из @moibiz карусели
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-viktor-nikolaevich.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md, sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md, sources/2026-05-19-tg-moibiz-may-14-19-2026.md, sources/2026-05-19-tg-selfworkru-may-14-18-2026.md]
+updated: 2026-05-19  # +employee-side content angle на «получение повышения» Сегменту 1 (hr-portal.ru); prior: +вторичное подтверждение founder+CMO buyer-pair (тот же pattern и цены на чекауте Тарифа 1); +регуляторный попутный ветер Сегмента 3 (платформенные преференции самозанятым ≥2,9%, @selfworkru)
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-zhazhda-biz-lifestyle-predprinimateli-posle-40.md, sources/2026-04-16-dp-ru-puls-msp-avito-corpmsp-2025.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-viktor-nikolaevich.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-18-pressfeed-ai-intensives-overview.md, sources/2026-05-19-pressfeed-kakie-kursy-novichku-baranova-placement.md, sources/2026-05-19-tg-moibiz-may-14-19-2026.md, sources/2026-05-19-tg-selfworkru-may-14-18-2026.md, sources/2026-05-19-groapp-payment-intensive-tarif1.md, sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md]
 namespace: mkt
 ---
 
@@ -34,6 +34,7 @@ namespace: mkt
 **Что это значит для маркетинга:**
 - Каналы: LinkedIn-подобные контексты (для РФ — VC, Habr Career, HH-блог), Telegram-каналы про career-growth.
 - Content angle: не «как стать миллионером», а «как пробить потолок на текущем месте работы».
+- **Employee-side content angle на «получение повышения»:** промис лендинга «получают повышение» можно раскрывать не только как «как добиться повышения», но и как «что делать, когда повышение **уже предлагают**». Кадровая сторона ([[sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti|hr-portal.ru]]) фиксирует: повышение оформляется как перевод и требует **согласия работника**, а руководство «часто забывает спросить мнение». Reframe «повышение = переговоры, а не подарок» — готовый decision/retention-hook, см. [[evolving/content-trends/career-audience-hooks-2026]] (Hook 36).
 - Social proof-gap: в [[canon/product-knowledge/gro-testimonials|публичных testimonials]] этот сегмент сейчас **не представлен** — есть только предприниматели. Собирать отзывы от карьеристов — приоритет.
 
 ## Сегмент 2 — предприниматели в росте
@@ -244,10 +245,13 @@ Late-starter founder — устойчивый под-архетип, релев�
 - [[canon/marketing-frameworks/premium-perception-through-price]] — high-ticket pricing как сигнал
 - Сегмент 2 (выше) — broad-funnel предприниматели; intensive sub-segment — narrow zoom этой же когорты с условием «есть выделенный CMO»
 
+**Вторичное подтверждение buyer-pair (2026-05-19):** чекаут [[sources/2026-05-19-groapp-payment-intensive-tarif1|«Тарифа 1»]] несёт **тот же** pair-pattern «Иду один» (240 000 ₽) vs «Иду с директором по маркетингу» (400 000 ₽), что и «Тариф 2». Это значит, что owner+CMO buyer-pair — **устойчивый, а не разовый** дизайн checkout'а: формулировка повторяется на разных тарифных страницах серии. Тарифы при этом **различаются не ценой** (она идентична), а чем-то иным (поток/дата/состав) — то есть один и тот же ICP-сигнал проходит сквозь всю серию.
+
 **Что неизвестно:**
 
-- **Бренд-fit с другими функциями.** Существуют ли тарифы «иду с COO», «иду с CFO», «иду с CTO» — checkout-серия `tarif1...tarifN` это допускает, но на 2026-05-16 не подтверждено
+- **Бренд-fit с другими функциями.** Существуют ли тарифы «иду с COO», «иду с CFO», «иду с CTO» — checkout-серия `tarif1...tarifN` это допускает, но на 2026-05-19 (для двух заингесченных тарифов) подтверждён только «директор по маркетингу»
 - **Размер компании покупателя** — выделенная маркетинговая функция типично начинается с команды 10+ человек, но точного критерия из источника нет
+- **Чем `tarif1` отличается от `tarif2`** при идентичной цене — поток/дата/состав/трафик-канал, не раскрыто
 
 ## Сегмент 2 — cautionary tale: малый бизнес 90-х без подушки безопасности (vc.ru/story 2026-05-14)
 

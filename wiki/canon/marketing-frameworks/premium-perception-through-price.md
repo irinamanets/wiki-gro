@@ -9,8 +9,8 @@ tags: [framework, positioning, premium, pricing, perceived-value, brand]
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-14  # +Goyard concrete-case (sources/2026-05-14-tg-vyakuba-may-5-14-2026): premium-через-трение как параллельный axis к premium-через-цену
-sources: [sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-kwork-may12-2026-pricing-teaser.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
+updated: 2026-05-19  # +GRO «Интенсив» как concrete-case premium-через-цену: 240–400k ₽ high-ticket, цена стабильна между tarif1/tarif2 (deliberate anchor, не себестоимость)
+sources: [sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-kwork-may12-2026-pricing-teaser.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-16-groapp-payment-intensive-tarif2.md, sources/2026-05-19-groapp-payment-intensive-tarif1.md]
 namespace: mkt
 ---
 
@@ -90,12 +90,16 @@ namespace: mkt
 
 ## Что это значит для маркетинга GRO
 
-**Прямая релевантность для GRO — частичная.** GRO — SaaS-продукт, и его текущая ценовая модель (subscription + 14 дней триал, см. [[canon/product-knowledge/gro-pricing|gro-pricing]] / `wiki/rules.md`) — это **mass-market subscription**, не премиум-tier.
+**Обновлено 2026-05-19: у GRO premium-tier УЖЕ существует.** Помимо mass-market подписки (subscription + 14 дней триал, см. [[canon/product-knowledge/gro-pricing|gro-pricing]] / `wiki/rules.md`) у GRO есть отдельный high-ticket трек — [[canon/product-knowledge/gro-intensive|«Интенсив»]] (240 000–400 000 ₽). Это **concrete-case рамки** «premium-через-цену» внутри собственного продукта, а не гипотетика.
 
-**Но если GRO введёт premium-tier** — рамка применима:
-- **Premium-tier позиционируется как «уровень профессиональной практики»**, не «больше фичей за больше денег».
-- Контент **показывает не функции**, а **изменения в жизни пользователей** (career-leveling, founder-growth).
-- Premium-цена **не объясняется** дополнительными функциями. Она оправдывается **результатом**, к которому стремится пользователь.
+**Сигнал «цена подтверждается, а не калькулируется» — наблюдаем напрямую.** Оба заингесченных чекаута интенсива ([[sources/2026-05-19-groapp-payment-intensive-tarif1|tarif1]], [[sources/2026-05-16-groapp-payment-intensive-tarif2|tarif2]]) несут **идентичный** ценовой набор 240k/400k ₽. Цена **стабильна между тарифными страницами** — это поведение **deliberate anchor**, а не себестоимостной калькуляции (которая давала бы разброс между «уровнями»). Прямое практическое воплощение тезиса Якубы «цена в премиуме не объясняется себестоимостью, она подтверждается спросом»: GRO держит планку, не дробит её по тарифам.
+
+**Применение рамки к интенсиву:**
+- **Позиционируется как «уровень профессиональной практики»**, не «больше фичей за больше денег» — high-ticket оправдан результатом (стратегия + операционный план для команды owner+CMO), а не объёмом контента.
+- Контент **показывает не функции**, а **изменения в бизнесе** (founder+CMO alignment, выход маркетинга из исполнительного режима в стратегический).
+- **Anti-pattern:** не дробить интенсив на «дешевле базовый / дороже премиум» — это разрушило бы anchor. Текущая модель (равная цена, разделение НЕ ценой) этого избегает.
+
+**Cross-применимость на mass-tier подписку** — рамка переносима в **выбор кейсов для рассказывания**. Не «как пользователь нажал кнопку», а «как изменилась его рабочая неделя». Это premium-контент, даже если ценник массовый.
 
 **Cross-применимость**: для контент-стратегии GRO даже на mass-tier — рамка переносима в **выбор кейсов для рассказывания**. Не «как пользователь нажал кнопку», а «как изменилась его рабочая неделя». Это premium-контент, даже если ценник массовый.
 
@@ -120,6 +124,7 @@ Premium-positioning имеет **два независимых axis**:
 
 ## Связанные страницы
 
+- [[canon/product-knowledge/gro-intensive]] — GRO «Интенсив» как собственный concrete-case premium-через-цену (240–400k ₽, стабильный anchor)
 - [[canon/marketing-frameworks/goyard-anti-marketing-luxury-friction]] — parallel premium-через-трение (Goyard concrete-case)
 - [[canon/marketing-frameworks/refused-customer-interview]] — отказ от неподходящего клиента как часть премиум-позиционирования
 - [[canon/marketing-frameworks/value-for-customer-concept]] — рамка ценности для клиента, complementary

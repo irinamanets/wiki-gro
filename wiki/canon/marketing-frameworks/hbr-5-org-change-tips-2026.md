@@ -9,7 +9,7 @@ tags: [change-management, organisational-development, hbr, leadership, hr]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-19  # +cross-ref на gentle-optimization-10-ideas-hr-club: эта страница = идеи 1-5, продолжение (идеи 6-10) в посте 1991
 sources:
   - sources/2026-05-14-tg-hr-kak-delat-may-6-14-2026.md
 namespace: mkt
@@ -18,6 +18,8 @@ namespace: mkt
 # HBR 5 шагов оргизменений «без крови»
 
 Сжатая пересборка статьи [Harvard Business Review «Our Favorite Management Tips on Organizational Change» (april 2026)](https://hbr.org/2026/04/our-favorite-management-tips-on-organizational-change?ab=HP-latest-text-3), сделанная HR-клубом «Как делать» ([@HR_kak_delat пост 1984](https://t.me/hr_kak_delat) от 2026-05-06). Пять шагов, каждый со собственной practical-механикой и анти-паттерном.
+
+> **Это первая половина серии.** Пост 1984 = идеи 1-5 (HBR-каркас, «что и в каком порядке менять»). Пост 1991 (2026-05-18) добавил идеи 6-10 — коммуникационно-эмоциональный слой («что и как говорить команде»). Полная карта 10 идей и разбор 6-10 — на странице [[canon/marketing-frameworks/gentle-optimization-10-ideas-hr-club|Бережная оптимизация: 10 идей]].
 
 **Зачем эта страница:** HBR — один из самых цитируемых первоисточников в B2B-content (consulting, HR, leadership). Этот 5-шаговый каркас — компактный alternative-fit к Kotter 8 шагам, удобен для contentа в TG / на лендингах / в blog-постах: легче запомнить, проще применить в SMB-контексте (где Kotter с его «guiding coalition» и «institutionalize change» избыточен).
 
@@ -118,3 +120,4 @@ Test-вопрос: **«какие будут последствия, если м
 - [[canon/marketing-frameworks/hr-strategy-three-scenarios]] — выбор сценария (Заморозка / Бег / Эволюция) до запуска 5 шагов HBR
 - [[canon/target-audience/hrd-portrait-2025-2026]] — HRD как user этого фреймворка
 - [[canon/marketing-frameworks/varako-hr-brand-survival-2026]] — другой свежий HR-фреймворк, complementary к этому
+- [[canon/marketing-frameworks/gentle-optimization-10-ideas-hr-club]] — продолжение серии (идеи 6-10): коммуникационно-эмоциональный слой бережной оптимизации

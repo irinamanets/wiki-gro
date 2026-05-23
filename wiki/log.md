@@ -7515,3 +7515,189 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {sources: 1}
 - touched: 1 pages
 - raw: raw/processed/articles/web_www.dp.ru_a_2026_05_08_peterburg-okazalsja-tretim_c5441b5d.md (+ 3 sidecars: .bundle.json, .note.md, .triage.json)
+
+## [2026-05-23 20:30] [ingest] | Demis Group/Дзен — квартальный аудит маркетинга (7 зон) + агентская экспертная колонка как content-trend
+- source: wiki/sources/2026-05-19-dzen-demis-quarterly-marketing-audit.md
+- created:
+  - wiki/canon/marketing-frameworks/quarterly-marketing-audit-demis-7-zones.md
+  - wiki/evolving/content-trends/demis-group-seo-agency-expert-column-pattern-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/marketing-audit-protocol.md (+cross-ref на квартальный аудит Demis: one-time диагностика расхождений (опрос) vs регулярная каденция ревизии систем/метрик.)
+  - wiki/canon/marketing-frameworks/marketing-sales-alignment-framework.md (+cross-ref: этот фреймворк = зона 7 квартального аудита Demis (синхронизация маркетинга и продаж) + source.)
+  - wiki/evolving/content-trends/expert-column-corporate-pr-format-soulful.md (+cross-ref на агентский sibling-вариант Дзен-колонки (Demis Group): персональный vs корпоративный бай-лайн.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 2, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_dzen.ru_a_agcEWFU4_3gzP-Vp_171841c5.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 19:15] [ingest] | Telegram @HR_kak_delat — посты 1990-1991 (15-18 мая 2026): прогноз HR до 2040 + бережная оптимизация ч.2
+- source: wiki/sources/2026-05-19-tg-hr-kak-delat-may-15-18-2026.md
+- created:
+  - wiki/evolving/industry-trends/hr-profession-2040-fork-spk.md
+  - wiki/canon/marketing-frameworks/gentle-optimization-10-ideas-hr-club.md
+- updated:
+  - wiki/canon/marketing-frameworks/hbr-5-org-change-tips-2026.md (+cross-ref на gentle-optimization-10-ideas (эта страница = идеи 1-5, продолжение в посте 1991))
+  - wiki/canon/marketing-frameworks/change-management-tuckman-kotter-ramazanov.md (+коммуникационно-эмоциональный слой (идеи 6-10) в «Связь с другими рамками» + related-pages + source)
+  - wiki/evolving/industry-trends/ru-labor-market-shift-2026.md (+cross-ref на hr-profession-2040-fork-spk как long-horizon проекцию краткосрочного сдвига)
+  - wiki/evolving/industry-trends/ai-tax-labor-erosion-2026.md (+cross-ref на hr-profession-2040-fork-spk (UBI/технологическая безработица как long-horizon проекция fiscal-shift))
+  - wiki/evolving/industry-trends/gen-z-workforce-shift-2026.md (+cross-ref на hr-profession-2040-fork-spk (кадровая мобильность/сокращение ролей как поколенческий фон))
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, canon: 3}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_hr_kak_delat_20260519-094001.md
+
+## [2026-05-23 14:16] [ingest] | Telegram @recruiter_live — дамп 19–22 мая 2026 (WB B2B-экспорт в Китай + границы NDA + карьерные хуки)
+- source: wiki/sources/2026-05-23-tg-recruiter-live-may-19-22-2026.md
+- created:
+  - wiki/canon-strict/legal-claims/ru-nda-confidentiality-limits-2026.md
+  - wiki/volatile-strict/industry-news/wb-china-b2b-export-2026-05.md
+- updated:
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md
+  - wiki/evolving/industry-trends/ru-job-seeker-experience-2026.md
+  - wiki/volatile-strict/industry-news/ru-china-trade-q1-2026.md
+  - wiki/evolving/industry-trends/ru-marketplace-seller-squeeze-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon-strict: 1, volatile-strict: 2, evolving: 3, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_recruiter_live_20260523-091000.md (+ 3 media children: tg_recruiter_live_4477.jpg, _4478.jpg, _4481.jpg)
+
+## [2026-05-23 14:16] [ingest] | TG @typicalcompany — посты 1338-1339 (20-22 мая 2026): HBR-«суперкоманды» (Friedman) + 9 книг для руководителей
+- source: wiki/sources/2026-05-23-tg-typicalcompany-may-20-22-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/hbr-superteam-7-practices-friedman.md
+  - wiki/evolving/content-trends/research-digest-to-course-module-mapping.md
+- updated:
+  - wiki/evolving/competitor-positioning/typical-company.md
+  - wiki/evolving/content-trends/book-recommendation-carousel-tg.md
+  - wiki/canon/marketing-frameworks/sbi-grow-feedback-framework.md
+- superseded: 1 supersession
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_typicalcompany_20260523-010501.md
+
+## [2026-05-23 19:20] [ingest] | Telegram @psilonsk — 4-й дамп (range 5563..5569, week 3 мая): миллиметровка-antipattern + ИИ-как-инструмент + возврат платной интеграции
+- source: wiki/sources/2026-05-19-tg-psilonsk-may-2026-week3.md
+- created:
+  - wiki/canon/marketing-frameworks/millimetrovka-overengineered-product-antipattern.md
+- updated:
+  - wiki/evolving/content-trends/psilonsk-management-hooks-bank.md (+ветка 13.x (бизнес-образ/личный бренд 5566, миллиметровка 5567, ИИ-как-инструмент 5568, observation платной интеграции 5569); окно наблюдения до ≈11,1 нед, 4-й дамп в sources.)
+  - wiki/evolving/content-trends/psilonsk-channel-patterns.md (+4-й столбец метрик (окно 4: 7 постов / 4 дня), окно до ≈11,1 нед / 83 поста; supersession наблюдения о коммерческой нагрузке (нулевая→эпизодическая, возврат интеграции 5569); рекламный креатив 5569 как функциональное исключение из декоративных обложек.)
+  - wiki/canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs.md (+operational-механика amplify от Колганова (5568): декомпозиция задачи до делегирования ИИ как «как именно» fragmented-amplify; cross-attribution, остаётся confidence high.)
+- superseded: wiki/evolving/content-trends/psilonsk-channel-patterns.md
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_psilonsk_20260519-131003.md + 4 children (media 5566-5569)
+
+## [2026-05-19 09:30] [ingest] | GRO — чекаут интенсива Тариф 1 (240k/400k ₽, идентичен Тарифу 2 → тарифы различаются не ценой; founder+CMO pair подтверждён вторично)
+- source: wiki/sources/2026-05-19-groapp-payment-intensive-tarif1.md
+- created:
+  - none
+- updated:
+  - wiki/canon/product-knowledge/gro-intensive.md (Тариф 1 = Тариф 2 по цене (240k/400k); корректировка модели «тарифы = ценовые уровни» → различаются НЕ ценой; частично закрыт open question #2.)
+  - wiki/canon/product-knowledge/gro-pricing.md (Структура Тарифа 1 зафиксирована: идентична Тарифу 2; снята пометка «структура Тарифа 1 не зафиксирована».)
+  - wiki/canon/target-audience/gro-segments.md (Вторичное подтверждение founder+CMO buyer-pair: тот же pair-pattern и цены на чекауте Тарифа 1 → устойчивый, не разовый дизайн.)
+  - wiki/canon/marketing-frameworks/premium-perception-through-price.md (GRO «Интенсив» оформлен как собственный concrete-case premium-через-цену; стабильность цены между tarif1/tarif2 = deliberate anchor (не себестоимость); обновлён устаревший тезис «если GRO введёт premium-tier».)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_groapp.ru_payment-intensive-tarif1_1e913e3d.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 20:30] [ingest] | Деловой мир (Дзен) — билайн.ПРОдвижение: ИИ автозаполняет юр-блок в рекламных СМС (AI adtech: креатив → compliance)
+- source: wiki/sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms.md
+- created:
+  - wiki/volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05.md
+- updated:
+  - wiki/evolving/industry-trends/ai-generated-creatives-in-advertising.md (+второй вектор тренда: AI расширяется из генерации креатива в автоматизацию compliance (юр-блок СМС, билайн.ПРОдвижение как 3-й RU-кейс) + таблица векторов + cross-refs.)
+  - wiki/canon-strict/legal-claims/ad-marking-russia-2026.md (+секция «Обязательные сведения о рекламодателе в СМС + платформенная автоматизация»: состав юр-блока СМС, платформенный compliance-тулинг (Билайн Adtech), −8% reject (inline-маркеры).)
+  - wiki/evolving/industry-trends/digital-indoor-retail-media-ru-2026.md (+cross-ref на второй adtech-вектор того же игрока (Билайн Adtech): AI-юр-блок в СМС — широта стека offline-инвентарь + AI-кабинет.)
+  - wiki/evolving-strict/campaign-metrics/mindbox-channel-shift-2025.md (+cross-ref: supply-side контрапункт к оттоку из SMS — оператор снижает операционную стоимость SMS-промо AI-compliance-автоматизацией (−8% reject, inline-маркер).)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {volatile-strict: 1, evolving: 2, canon-strict: 1, evolving-strict: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_dzen.ru_a_agq24lrEqxFxzel0_503ac109.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-19 15:45] [ingest] | Дзен/Деловой мир — кейс Дикси × Билайн Adtech: Smart TV → офлайн-продажи (тест-контроль + Stable ID, +23,4 п.п. инкремента) + фреймворк измерения click-less каналов
+- source: wiki/sources/2026-05-19-dzen-diksi-bilayn-smart-tv-offline-sales-case.md
+- created:
+  - wiki/canon/marketing-frameworks/clickless-channel-incrementality-stable-id.md
+  - wiki/evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026.md
+- updated:
+  - wiki/evolving/industry-trends/digital-indoor-retail-media-ru-2026.md (+RU-валидация измеримости CTV/Smart TV (кейс Билайн Adtech × «Дикси», +23,4 п.п. инкремента) в секции «Связь с глобальным трендом» и в конкурентном ландшафте; +2 cross-link, +source, updated→2026-05-19.)
+  - wiki/evolving-strict/market-data/digital-ad-cpm-shifts-q1-2026.md (+RU-валидация перехода на «подключённые экраны»: кейс Дикси доказал измеримый офлайн-эффект Smart TV через Stable ID [conf:medium, src:2026-05-19]; +3 cross-link, +source, updated→2026-05-19.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving-strict: 2, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_dzen.ru_a_agVwrVrEqxFxx5qI_60ff34a0.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 20:30] [ingest] | Деловой мир (Дзен) — Hook Model + Fogg + habit-retention диагностики (формирование привычки к продукту, Захар Константинов)
+- source: wiki/sources/2026-05-19-dzen-delovoymir-habit-product-hook-model.md
+- created:
+  - wiki/canon/marketing-frameworks/hook-model-habit-loop.md
+  - wiki/canon/marketing-frameworks/fogg-behavior-model.md
+  - wiki/canon/marketing-frameworks/habit-retention-diagnostics.md
+- updated:
+  - wiki/canon/marketing-frameworks/retention-benchmarks-b2c.md (+секция «бенчмарки vs механики»: пороги говорят «дырявое ли ведро», habit-framework family отвечает «как поднять числа и почему пользователь возвращается»; cross-ref на Hook Model / Fogg / habit-diagnostics)
+  - wiki/evolving/content-trends/social-media-addiction-design-patterns.md (+связка Pattern 2 (variable reward) = «переменная награда» элемент Hook Model — те же механики ethics-нейтрально как retention; граница через тест Юдина)
+  - wiki/evolving/content-trends/daily-streak-gamification-in-finance.md (+теоретическая рамка: streak = «инвестиция» + «переменная награда» элементы Hook Model; streak-break churn = loss aversion; этический фильтр honest-прогресс vs FOMO)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/web_dzen.ru_a_agxRslU4_3gzRgjq_5d2f1512.md (+ 2 sidecars: .note.md, .triage.json)
+
+## [2026-05-23 14:28] [ingest] | Дзен/Деловой мир — Мул (Work Solutions): искать сотрудника по цифровому следу, а не по диплому (OSINT-найм + «ноль факапов» + цифровая гигиена)
+- source: wiki/sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md
+- created:
+  - wiki/evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026.md
+  - wiki/canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul.md
+  - wiki/evolving/content-trends/candidate-digital-hygiene-hooks-2026.md
+- updated:
+  - wiki/canon/target-audience/it-specialist-candidate-profile-2026.md
+  - wiki/evolving/industry-trends/skill-based-hiring-russia-2026.md
+  - wiki/canon/marketing-frameworks/recruitment-methods-taxonomy.md
+  - wiki/evolving/content-trends/expert-column-corporate-pr-format-soulful.md
+  - wiki/evolving/content-trends/demis-group-seo-agency-expert-column-pattern-2026.md
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 5, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/web_dzen.ru_a_agX9QFU4_3gzPn-l_ae2a6641.md
+
+## [2026-05-23 14:44] [ingest] | hr-portal.ru — «Как оформить повышение в должности?» (evergreen HR-объяснялка, textbook reference; backfill в career-аудиторию)
+- source: wiki/sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md
+- created: none
+- updated:
+  - wiki/evolving/content-trends/hr-portal-evergreen-genre-2026.md
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md
+  - wiki/canon/target-audience/gro-segments.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, canon: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_hr-portal.ru_article_kak-oformit-povyshenie-v-dolzhnosti_891abceb.md
+
+## [2026-05-23 21:05] [ingest] | Telegram @vyakuba — 4-й срез 14–19 мая 2026 (Москва reality-событие, lesson-2 lead-magnet, 2 новых 7-card carousel: trust-habits + employee-side «Фразы начальника»)
+- source: wiki/sources/2026-05-19-tg-vyakuba-may-14-19-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/assertive-boundary-replies-vyakuba.md
+- updated:
+  - wiki/evolving/competitor-positioning/vyakuba-sales-training.md (4-й срез: Москва 9–10 окт reality-событие (новый offline-tier), «Про Продажи» поток 1 июня + lesson-2 lead-magnet (24h gated try-before-buy), affiliate cross-promo Бараковского, новая аудиторная вертикаль (employee-side), updated product-ladder.)
+  - wiki/evolving/content-trends/vyakuba-instagram-carousel-format.md (Новая lime-green палитра (3-я визуальная), list-карусель как 3-й архетип (7 карточек), employee-side тема «Фразы начальника»; 2 новые 7-card carousel.)
+  - wiki/evolving/content-trends/ru-sales-infobiz-content-patterns.md (Жанр 3 +free-lesson lead-magnet (try-before-buy); Жанр 10 +list-карусель/employee-side/lime-green; новые жанры 13 (reality-разбор-событие) и 14 (affiliate cross-promo инфобиз-автора).)
+  - wiki/evolving/content-trends/owner-escape-operations-hooks.md (Hooks 4-го среза Якубы: «репутация из мелочей» (trust-as-accumulation), «спокойные продажи сильнее давления», «уверенность звучит тихо» (employee-side boundary), «профессионализм ≠ доступность 24/7», IT-кейс «лид за 1500 ₽» + 3 micro-hooks.)
+  - wiki/canon/marketing-frameworks/trust-as-managed-asset-coin-principle.md (Новая секция trust-as-accumulation: carousel «5 привычек, которым доверяют деньги» как bottom-up формирование монеты + «репутация собирается из мелких действий».)
+  - wiki/canon/marketing-frameworks/first-15-sec-sales-contact.md (Concrete-case (6871): IT-компания, лид за 1500 ₽ слит за секунды («я посмотрю на сайте / хорошо, до свидания»), incentive-design root cause.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 4, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_vyakuba_20260519-122309.md + 20 children (4 video mp4 + 16 media jpg, + sidecars) → processed

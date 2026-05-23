@@ -9,8 +9,8 @@ tags: [retention, b2c, pmf, metrics, benchmarks, subscription, saas]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +loyal-core revenue-concentration срез (Mindbox/«Азбука вкуса» 6,2%→36%) как комплементарный B2C-retention-бенчмарк
-sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md, sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-19-tg-howtomake10x-1571-1572.md]
+updated: 2026-05-23  # +cross-ref на habit-framework family (Hook Model / Fogg / habit-diagnostics): бенчмарки говорят «дырявое ли ведро», habit-механики — «как поднять числа и почему пользователь возвращается»
+sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md, sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-19-tg-howtomake10x-1571-1572.md, sources/2026-05-19-dzen-delovoymir-habit-product-hook-model.md]
 namespace: mkt
 ---
 
@@ -108,9 +108,22 @@ Retention — количественный proxy для PMF в B2C-SAAS:
 - Текущие operational числа GRO живут в [[evolving-strict/product-metrics/gro-store-installs]] и [[evolving-strict/product-metrics/gro-store-ratings]]; эти thresholds — шаблон их интерпретации.
 - Важно: GRO как **привычка/дисциплина** (4 шага продуктивности) концептуально ближе к «повторяющейся каждодневной проблеме», чем к «разовой» (поиск работы, покупка) — это правильная категория для стабильного B2C-бизнеса по Табунову (пост 1185, тезис 5). Этот тезис переиспользуется в позиционировании [[canon/positioning/gro-value-proposition]].
 
+## Бенчмарки vs механики: что отвечает на какой вопрос
+
+Эти пороги (Day-30, subscription retention, DAU/MAU) говорят **«дырявое ли ведро»**, но не **«почему пользователь возвращается»** и **«как поднять числа»**. На второй вопрос отвечает habit-framework family (статья «Деловой мир» / Дзен, [[sources/2026-05-19-dzen-delovoymir-habit-product-hook-model]]):
+
+- [[canon/marketing-frameworks/hook-model-habit-loop]] — поведенческая петля (триггер → действие → переменная награда → инвестиция), которую нужно спроектировать, чтобы поднять retention без бюджета на удержание.
+- [[canon/marketing-frameworks/fogg-behavior-model]] — B = M × A × T; рычаг активации = снижение friction первого действия.
+- [[canon/marketing-frameworks/habit-retention-diagnostics]] — метрики глубже D1/D7/D30 (частота сессий, Time to habit, Habit moment, DAU/MAU), отличающие «привычку» от «возврата на пушах».
+
+Связка: «золотой продукт» с Day-30 ≥20% — это **наблюдаемое следствие** замкнутой Hook-петли; «дырявое ведро» — петля, где просел хотя бы один из четырёх элементов.
+
 ## Связанные страницы
 - [[canon/positioning/gro-value-proposition]]
 - [[canon/product-knowledge/gro-app-overview]]
+- [[canon/marketing-frameworks/hook-model-habit-loop]]
+- [[canon/marketing-frameworks/fogg-behavior-model]]
+- [[canon/marketing-frameworks/habit-retention-diagnostics]]
 - [[evolving/industry-trends/whoop-retention-case-2026]]
 - [[evolving-strict/product-metrics/gro-store-installs]]
 - [[sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026]]

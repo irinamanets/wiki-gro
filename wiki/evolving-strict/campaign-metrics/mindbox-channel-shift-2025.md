@@ -54,4 +54,5 @@ Mindbox изучили эффективность 62 млрд рассылок �
 - [[evolving-strict/market-data/digital-ad-market-ru-2024-2026]] — общий контекст digital-рекламы в РФ
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — регуляторное давление на мессенджеры и блокировки как driver сдвига
 - [[evolving/industry-trends/ru-telegram-blocking-max-migration-2026]] — блокировка мессенджеров → миграция в push/email
+- [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]] — supply-side контрапункт: на фоне оттока из SMS оператор (Билайн Adtech) снижает операционную стоимость SMS-промо AI-автоматизацией compliance (−8% reject'ов `[conf:high, src:2026-05-19]`)
 - [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] — первоисточник

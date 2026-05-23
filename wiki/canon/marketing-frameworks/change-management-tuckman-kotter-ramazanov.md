@@ -9,8 +9,8 @@ tags: [change-management, leadership, tuckman, kotter, organisational-developmen
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-23  # +cross-ref на crisis-speed-gap-zharinov: «кризис роста» = тот же механизм, что переход между стадиями Tuckman / запоздалый change
-sources: [sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-14-dzen-delovoy-mir-serbin-team-resilience.md, sources/2026-05-14-tg-hr-kak-delat-may-6-14-2026.md]
+updated: 2026-05-23  # +cross-ref на gentle-optimization-10-ideas-hr-club (идеи 6-10: коммуникационно-эмоциональный слой); prior: +cross-ref на crisis-speed-gap-zharinov
+sources: [sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-14-dzen-delovoy-mir-serbin-team-resilience.md, sources/2026-05-14-tg-hr-kak-delat-may-6-14-2026.md, sources/2026-05-19-tg-hr-kak-delat-may-15-18-2026.md]
 namespace: mkt
 ---
 
@@ -160,6 +160,7 @@ Operational кейсы Сергея Сербина (founder ДоброПост, 
 - **Маркетинг-функции в SMB:** см. [[canon/marketing-frameworks/marketing-sales-alignment-framework]] (синхронизация маркетинга и продаж) — частный случай блока 1 (проектные команды) + блока 4 (полномочия)
 - **6 стратегий найма:** см. [[canon/marketing-frameworks/internal-hiring-cost-reduction-strategies]] — каждая из 6 — внутренний change, требующий проработки 4 блоков
 - **HBR-5-step simplified frame** (см. [[canon/marketing-frameworks/hbr-5-org-change-tips-2026]]) — HBR-april-2026 пересборка той же идеи в 5 шагов: «приоритеты → цена бездействия → не директивно → первые результаты → спрашивать команду». Mapping к Kotter подробно разобран на странице. Use case: SMB-content вместо тяжёлого Kotter-каркаса.
+- **Коммуникационно-эмоциональный слой** (см. [[canon/marketing-frameworks/gentle-optimization-10-ideas-hr-club]]) — идеи 6-10 HR-клуба «Как делать» добавляют слой «как говорить с командой» поверх Kotter/HBR: дозированная прозрачность, управление сопротивлением (Storming), подача bad news, синхрон топов (= пересборка блока 4 «полномочия/ответственность» + Kotter шаг 2 коалиция), этический фильтр решений. Особенно ценны при болезненных оптимизациях/сокращениях.
 - **«Кризис роста» как триггер change** (см. [[canon/marketing-frameworks/crisis-speed-gap-zharinov]]) — Жаринов формулирует одну из двух универсальных причин кризиса как «компания переросла свою конфигурацию» (метафора детской одежды). Это **тот же механизм**, что переход между стадиями Tuckman / необходимость пересборки 4 блоков управления: запоздалый change → деформация (падает эффективность, растёт напряжение, множатся ошибки). Принцип Жаринова «соответствие инструмента стадии развития» (Спиральная динамика) усиливает anti-pattern этой страницы: client-segment структуру и тяжёлый Kotter нельзя применять в стартап-стадии.
 
 ## HBR-april-2026 как simplified alternative для SMB
@@ -189,3 +190,4 @@ Operational кейсы Сергея Сербина (founder ДоброПост, 
 - [[sources/2026-05-14-dzen-delovoy-mir-serbin-team-resilience]] — source двух case-study
 - [[canon/marketing-frameworks/hbr-5-org-change-tips-2026]] — HBR-april-2026 5 шагов simplified frame для SMB; mapping к Kotter; «спрашивать команду» как новый систематический шаг
 - [[sources/2026-05-14-tg-hr-kak-delat-may-6-14-2026]] — source для HBR-пересборки
+- [[canon/marketing-frameworks/gentle-optimization-10-ideas-hr-club]] — коммуникационно-эмоциональный слой (идеи 6-10): дозированная прозрачность, управление сопротивлением, синхрон топов, этический фильтр

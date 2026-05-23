@@ -9,8 +9,8 @@ tags: [skills, hiring, hr, education, industry-trends, labor-market]
 confidence: high
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +candidate-side: «единая карьерная история» + resume-SEO ранжирование HH (заголовок/summary/skills > переписывание опыта) — навыкоцентричность доходит до архитектуры профиля соискателя
-sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md]
+updated: 2026-05-19  # +OSINT/цифровой след как следующий слой верификации навыков (Мул) + culture-fit > навыки cross-ref; prior: candidate-side «единая карьерная история» + resume-SEO ранжирование HH
+sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md]
 namespace: mkt
 ---
 
@@ -92,6 +92,16 @@ hh.ru выявил 6 крупных мета-трендов рынка труд�
 
 **Candidate-side проявление: «единая карьерная история» + resume-SEO (наблюдение Гусевой через @recruiter_live, 2026-05-18).** Навыкоцентричность доходит до **архитектуры профиля самого соискателя**. По наблюдению Анастасии Гусевой (LinkedIn → пост 4471 @recruiter_live, [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]]) `[conf:low, src:2026-05-18]` HH переводит профили в формат единой карьерной истории (блоки опыта синхронизируются между резюме) и ранжирует резюме по целостности профиля + SEO-слою (заголовок / summary / **навыки**), а не по точности подгонки опыта под вакансию. Тезис автора: «SEO-слой резюме начинает влиять на выдачу сильнее, чем бесконечное переписывание опыта». Это та же навыкоцентричная логика, но **со стороны кандидата**: платформа поощряет понятную профессиональную идентичность + явный skills-набор, а не tactic-подгонку под каждую вакансию. Продуктовая механика разобрана в [[evolving/competitor-positioning/hh-ru-hrtech-platform]], content-применение — Hook 32 в [[evolving/content-trends/career-audience-hooks-2026]].
 
+## OSINT / цифровой след как следующий слой верификации (Мул, Work Solutions)
+
+Когда теоретические тесты ломаются ИИ-помощью кандидата (50% соискателей уже используют нейросети, см. выше), верификация смещается к **проверке реальных артефактов цифрового следа**. По наблюдению Максима Мула (директор ИТ Work Solutions, [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]], `confidence: medium`):
+
+- **Накрутка опыта** — мета-тренд, зеркальный skills inflation: соискатель раздувает не только список навыков, но и стаж/историю. Косвенные маркеры: GitHub-аккаунту <1 года при заявленных 3 годах коммерческой разработки; заниженный возраст vs дата вуза; компании, где не работал.
+- **Антифрод-рынок** автоматически сопоставляет возраст / дату вуза / стаж / возраст аккаунтов в профсообществах + отслеживает версии резюме во времени.
+- Логический вывод: навыкоцентричность без верификации цифрового следа — самообман в эпоху AI-driven резюме. Полный разбор тренда — в [[evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026]].
+
+**Сдвиг приоритета к culture-fit.** Тот же автор: технические навыки по-прежнему важны, но их недостаточно — не менее значимы soft-skills (переопределённые как **дисциплина**, а не общительность) и культурное совпадение. «Как точно нельзя» формулируется чётче, чем «как надо» → культура операционализируется через антипаттерны (см. [[canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul]]). Это продолжение мега-тренда №5 hh.ru («кризис мотивации только-деньги») со стороны нанимателя.
+
 ## ИИ в HR -- текущий статус (ускоритель навыкоцентричности)
 
 - **Яндекс:** "нейроэксперты" -- Нейроюрист (анализ законов), Нейроруководитель (коуч по управленческим практикам)
@@ -117,6 +127,9 @@ hh.ru выявил 6 крупных мета-трендов рынка труд�
 - [[sources/2026-05-14-condense-hh-ru-12-articles]] — обновление 2026-05-14 (skills inflation, IT-навыки cheap vs expensive, мидлы/сеньоры −45/−48%)
 - [[canon/marketing-frameworks/internal-hiring-cost-reduction-strategies]] — 6 стратегий найма как ответ на дефицит мидлов/сеньоров
 - [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]] — candidate-side проявление: «единая карьерная история» + resume-SEO ранжирование HH (Гусева LinkedIn, 2026-05-18)
+- [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]] — OSINT/цифровой след + culture-fit > навыки (Мул, Work Solutions)
+- [[evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026]] — OSINT-проверка как следующий слой верификации навыков
+- [[canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul]] — culture-fit через антипаттерны + soft-skills как дисциплина
 - [[evolving/competitor-positioning/hh-ru-hrtech-platform]] — продуктовая механика синхронизации профиля + resume-SEO ранжирования
 - [[evolving/content-trends/career-audience-hooks-2026]] — Hook 32 (единая карьерная история / SEO-слой резюме)
 - [[evolving/competitor-positioning/hh-ru-ai-hiring-suite-2026]] — техническая обвязка skill-matching

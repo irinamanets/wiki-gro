@@ -9,8 +9,8 @@ tags: [content-trends, seo, hr-portal-ru, evergreen, competitor-content, ru]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-condense-hr-portal-13-articles.md]
+updated: 2026-05-19  # +подтверждение жанра на новой выборке (статья «как оформить повышение»); +careerist content-angle
+sources: [sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md]
 namespace: mkt
 ---
 
@@ -110,8 +110,21 @@ hr-portal.ru держит позиции по огромному количес�
 - **Не цитировать hr-portal.ru как авторитетный источник** в коммерческих материалах GRO — отсутствие attribution делает любые числа уязвимыми.
 - **Не воспроизводить анонимный жанр** — для GRO именно authorship и свежесть будут дифференциаторами.
 
+## Подтверждение жанра на новой выборке (2026-05-19)
+
+Статья [[sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti|«Как оформить повышение в должности?»]] — ещё один экземпляр того же жанра, фиксирует устойчивость паттерна за пределами condense-выборки 13 статей:
+
+- **Анонимность** — автор не указан. ✓
+- **Без даты публикации** — evergreen. ✓
+- **Textbook-структура** — определение проблемы (повышение = перевод, нужно согласие) → перечень документов → итог «нужно оформить пакет документов». ✓
+- **Тема** — узкая процедурная how-to («как оформить X»), классический long-tail SEO-запрос.
+
+**Careerist content-angle (новое наблюдение).** В отличие от чисто кадровых статей про трудовую книжку, тема «повышение» — это employer-side зеркало JTBD [[canon/target-audience/gro-segments|Сегмента 1 (карьеристы)]], чей промис лендинга дословно «получают повышение». Один тезис статьи переиспользуем как hook: **«руководство часто забывает спросить мнение работника» о повышении, хотя юридически нужно его согласие**. Это даёт GRO-контенту угол «повышение глазами сотрудника» (а не кадровика) — см. [[evolving/content-trends/career-audience-hooks-2026]]. Подтверждает тезис «SEO-арбитраж»: те же запросы можно атаковать с employee-side подачей вместо HR-procedural.
+
 ## Связанные страницы
 
+- [[evolving/content-trends/career-audience-hooks-2026]] — careerist content-angle «повышение глазами сотрудника»
+- [[canon/target-audience/gro-segments]] — Сегмент 1 (карьеристы), целевая аудитория careerist-угла жанра
 - [[evolving/content-trends/hh-ru-blog-content-patterns]] — другой RU HR content benchmark
 - [[evolving/content-trends/vcru-hr-content-patterns-2026]] — третий RU HR content benchmark
 - [[canon/marketing-frameworks/thomas-kilmann-conflict-strategies]] — пример textbook-фрейма из этого источника

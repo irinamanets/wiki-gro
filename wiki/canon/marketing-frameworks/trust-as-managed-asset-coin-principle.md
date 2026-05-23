@@ -9,8 +9,8 @@ tags: [trust, positioning, brand-asset, transaction-costs, marketplace, payments
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-18  # +Стеценко 2026-05-18: AI как breaker монеты в tabu-зонах высокого доверия
-sources: [sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-moneta-biznes-uroki.md, sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md]
+updated: 2026-05-19  # +Якуба 4-й срез: carousel «5 привычек, которым доверяют деньги» как content-hook + «репутация собирается из мелких действий» (trust-as-accumulation)
+sources: [sources/2026-05-14-condense-web-vc-ru-story.md, sources/2026-05-14-vc-story-moneta-biznes-uroki.md, sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -80,6 +80,24 @@ GRO как продукт **не является монетой** в чисто
 
 Это инвариант для self-positioning теста: продукт, претендующий на «монету» в trust-чувствительной зоне, должен **намеренно** избегать AI-материалов с людьми, иначе он сам себе фальшивомонетчик. Развёрнуто в [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]].
 
+## Trust-as-accumulation: доверие как сумма мелких действий (Якуба, May 2026)
+
+Принцип монеты описывает доверие, **уже упакованное** в управляемый объект (рейтинг, гарантия). Но как объект **набирает** доверие до того, как стать монетой? Якуба ([[sources/2026-05-19-tg-vyakuba-may-14-19-2026]], carousel 6862..6868) даёт ответ в потребительском регистре:
+
+> «Очень многие думают, что клиент покупает из-за цены, упаковки или сильного оффера. НЕТ. Люди покупают после простой мысли: "этому человеку я доверяю". Строится это не на громких обещаниях, а на мелочах… Репутация почти всегда собирается из мелких действий.»
+
+Это **trust-as-accumulation** — комплемент к принципу монеты: монета (рейтинг/гарантия) — это **накопленный** результат серии мелких надёжных действий. Якуба перечисляет 5 наблюдаемых «привычек людей, которым доверяют деньги»:
+
+1. **Отвечают быстро** — «скорость = уважение» (не «когда будет время», а когда появился запрос).
+2. **Не обещают лишнего** — «лучше сделать больше, чем красиво рассказать и пропасть» (under-promise / over-deliver).
+3. **Объясняют просто** — «сложно ≠ профессионал» (анти-buzzword).
+4. **Не навязываются** — «спокойные продажи сильнее давления».
+5. **Делают стабильно** — «результат любит дисциплину, а не настроение» (consistency).
+
+**Связь с принципом монеты:** каждая «привычка» = транзакция, снижающая одну из трёх издержек (быстрый ответ ↓ издержки поиска; under-promise ↓ издержки верификации; объяснять просто ↓ издержки измерения). Накопленные транзакции → репутация → монета. Это **bottom-up формирование** того, что монета упаковывает top-down.
+
+**Content-hook для GRO.** Carousel-листикл «N привычек, которым доверяют» — переносимый формат. Адаптация: «5 привычек людей, чьему прогрессу доверяешь» / «как доверие к собственному навыку собирается из мелких ежедневных действий». Атрибуция — Якуба (sales-trainer), confidence для содержания `medium` (переупаковка устоявшихся trust-building practices).
+
 ## Cross-references
 
 - [[canon/marketing-frameworks/agalarov-tangibility-investment-test]] — другой framework про материализацию доверия (но через физический actiff vs cервисный «гарант»).
@@ -92,6 +110,8 @@ GRO как продукт **не является монетой** в чисто
 - [[canon/marketing-frameworks/patagonia-refusal-as-asset]] — повторяемые отказы как актив бренда; та же стратегия — превращение soft signal (отказ) в hard asset (узнаваемый brand-cue).
 - [[evolving/industry-trends/freelance-platform-dependency]] — обратная сторона «монеты-маркетплейса»: когда платформа становится монетой, селлеры становятся её subordinate-объектами (см. Tokovinin-тезис «покупатели платформы, не селлера»).
 - [[canon/marketing-frameworks/ai-productivity-3-shifts-typical]] — рамка про bottleneck-сдвиг к distribution/trust/packaging — современный аналог «упаковки доверия в монету» для AI-эпохи.
+- [[evolving/competitor-positioning/vyakuba-sales-training]] — источник trust-as-accumulation формулировки (carousel «5 привычек, которым доверяют деньги»).
+- [[sources/2026-05-19-tg-vyakuba-may-14-19-2026]] — первоисточник trust-habits-карусели.
 
 ## Backlinks
 

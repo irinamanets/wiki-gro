@@ -5,12 +5,12 @@ type: page
 subtype: trend
 layer: evolving
 theme: industry-trends
-tags: [ai, paid-ads, content, ad-copy, vk]
+tags: [ai, paid-ads, content, ad-copy, vk, compliance, sms, adtech]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +VK Реклама AI Gen «Креативная студия» как второй платформенный сигнал (official deck)
-sources: [sources/2026-04-16-hh-clickme-ai-tools.md, sources/2026-05-19-vk-reklama-effective-campaigns-deck.md]
+updated: 2026-05-19  # +Билайн.ПРОдвижение: AI расширяется из генерации креатива в автоматизацию compliance (юр-блок СМС)
+sources: [sources/2026-04-16-hh-clickme-ai-tools.md, sources/2026-05-19-vk-reklama-effective-campaigns-deck.md, sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms.md]
 namespace: mkt
 ---
 
@@ -44,6 +44,17 @@ namespace: mkt
 
 Тренд закрепился: к маю 2026 минимум две крупные RU-платформы встроили AI-генерацию в кабинет как штатную функцию, причём VK добавила **социальный слой** — обучение на чужих успешных креативах внутри интерфейса.
 
+## Расширение тренда: от генерации креатива к автоматизации compliance
+
+К маю 2026 наметился **второй вектор** AI в рекламных кабинетах — автоматизация не творческой, а **регуляторной** части объявления. Третий RU-платформенный кейс — **билайн.ПРОдвижение** (Билайн Adtech): ИИ-помощник, раньше генерировавший только текст СМС-креатива, теперь **автоматически заполняет обязательный юридический блок** — подбирает шаблон по категории товара, подставляет реквизиты компании (ОПФ, ИНН, ОГРН/ОГРНИП, лицензии) из профиля. Первый месяц после запуска: число кампаний, не прошедших модерацию из-за ошибок в юр-поле, снизилось на 8%. Подробно — [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]], первоисточник — [[sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms]].
+
+Это смещает определение AI-функции в рекламном кабинете: AI закрывает уже **весь путь объявления** — креатив (текст + визуал) + compliance (юр-блок, маркировка). Для рынка с тяжёлой регуляторикой (маркировка ОРД/erid, обязательные сведения о рекламодателе — см. [[canon-strict/legal-claims/ad-marking-russia-2026]]) compliance-автоматизация — отдельная ценность, потенциально более «липкая», чем генерация креатива: ошибка в юр-поле блокирует кампанию, а слабый креатив — нет.
+
+| Вектор | Что AI делает | Платформы (RU, май 2026) |
+|---|---|---|
+| Генерация креатива | текст + визуал + адаптация форматов | Clickme (hh.ru), VK Реклама |
+| Автоматизация compliance | юр-блок, реквизиты, шаблон под категорию | билайн.ПРОдвижение (Билайн Adtech) |
+
 ## Значение для маркетинга GRO
 
 - **Бенчмарк производительности**: 20-30% прирост CTR от AI-креативов vs stock — ориентир для A/B-тестирования собственных рекламных визуалов GRO
@@ -59,4 +70,8 @@ namespace: mkt
 - [[canon/target-audience/gro-segments]] — сегменты ЦА GRO, для которых можно генерировать персонализированные AI-креативы
 - [[evolving/industry-trends/native-pr-russia-2026]] — более широкий тренд нативного PR
 - [[canon/marketing-frameworks/vk-reklama-official-campaign-guide-2026]] — vendor-канон VK, частью которого является AI Gen
+- [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]] — третий кейс: AI автоматизирует compliance (юр-блок СМС), а не креатив
+- [[evolving/industry-trends/digital-indoor-retail-media-ru-2026]] — другой adtech-шаг того же игрока (Билайн Adtech)
+- [[canon-strict/legal-claims/ad-marking-russia-2026]] — регуляторная рамка, которую автоматизирует compliance-вектор
 - [[sources/2026-05-19-vk-reklama-effective-campaigns-deck]] — официальный VK deck с AI Gen «Креативной студией»
+- [[sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms]] — первоисточник по билайн.ПРОдвижению

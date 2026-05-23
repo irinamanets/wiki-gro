@@ -9,8 +9,8 @@ tags: [ai, positioning, career, counter-narrative, hooks, awareness]
 confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-15  # +cross-attribution Yakuba (sources/2026-05-14-tg-vyakuba-may-5-14-2026 пост 6821) — третий голос на AI-amplifier для sales-команд: «ИИ не заменяет сильного продажника, делает сильного быстрее». Confidence остаётся high
-sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
+updated: 2026-05-19  # +cross-attribution Колганов (sources/2026-05-19-tg-psilonsk-may-2026-week3 пост 5568) — operational-механика «как именно amplify»: декомпозировать задачу до делегирования ИИ. Confidence остаётся high
+sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-psilonsk-may-2026-week3.md]
 namespace: mkt
 ---
 
@@ -88,9 +88,19 @@ Founder работает максимально fragmented job: стратеги
 
 > «Простой тест: можешь описать свой рабочий день списком из 3–5 несвязанных типов задач? Если да — AI станет твоим ускорителем. Если нет — пора переучиваться».
 
+## Operational-механика amplify (Колганов): декомпозиция до делегирования
+
+Спиридоновский фрейм объясняет, **почему** fragmented job amplify'ится ИИ (контекст важнее механики), но не **как именно** профи это делает. Сергей Колганов (@psilonsk, пост 5568, [[sources/2026-05-19-tg-psilonsk-may-2026-week3]]) даёт operational-ответ — конкретный паттерн работы с ИИ как с инструментом:
+
+> «Человек сначала формулирует задачу, потом начинает ее решать, собирает данные, анализирует, разбивает слишком крупные задачи на маленькие. В какой-то момент, когда понятно решение, часть маленьких задач человек отдает ИИ, а потом проверяет результат. … Люди неумные или неопытные с ИИ работают иначе: просто впихивают в нейросеть все входные данные. … Ну и получают дерьмо на выходе.» — Сергей Колганов, @psilonsk, 2026-05-19 `[conf:medium, src:2026-05-19]`
+
+Это и есть **механика fragmented-amplify на уровне одной задачи**: профи сам декомпозирует разнородную работу на модульные под-задачи, отдаёт ИИ только модульную часть (которую ИИ и так замещает лучше) и оставляет себе сборку, контекст и проверку — ровно те 2/3 работы рентгенолога, которые ИИ не берёт. Это второй (после Yakuba для sales) operational-голос, подтверждающий, что **amplify не автоматичен** — он требует управленческого навыка декомпозиции. Контр-точка: без декомпозиции даже fragmented-работник получает «дерьмо на выходе», то есть amplify деградирует в provider мусора.
+
 ## Связь со смежными фреймворками
 
 - [[canon/marketing-frameworks/jevons-paradox-ai-positioning]] — fundamental экономический закон, который объясняет, почему fragmented jobs не вытесняются (третий verified-голос на тему)
+- [[canon/marketing-frameworks/rewrite-task-tool-matching-2026]] — соседняя operational-рамка про подбор инструмента под тип задачи (Колгановская декомпозиция — её предусловие)
+- [[evolving/content-trends/psilonsk-management-hooks-bank]] — hook-bank Колганова, секция 13.3 (ИИ как инструмент)
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — глобальный нарратив AI-замещения, к которому этот фрейм — counter-anchor
 - [[evolving/industry-trends/ai-value-migration-2026]] — куда мигрирует ценность; fragmented jobs остаются ценными
 - [[evolving/content-trends/career-audience-hooks-2026]] — готовые hooks для карьерной ЦА; этот фрейм — четвёртый sorting-test для них
@@ -104,7 +114,9 @@ Founder работает максимально fragmented job: стратеги
 ## Cross-links
 
 - [[sources/2026-05-14-tg-mspiridonov-may-2026]] — первичный источник (пост 4396)
+- [[sources/2026-05-19-tg-psilonsk-may-2026-week3]] — operational-механика amplify (Колганов, пост 5568)
 - [[canon/marketing-frameworks/jevons-paradox-ai-positioning]] — fundamental закон, который этот фрейм инстанцирует
+- [[canon/marketing-frameworks/rewrite-task-tool-matching-2026]] — подбор инструмента под задачу (соседняя operational-рамка)
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — глобальный нарратив, к которому фрейм — counter-anchor
 - [[evolving/content-trends/career-audience-hooks-2026]] — пул hooks для карьерной аудитории
 - [[evolving/industry-trends/ai-value-migration-2026]] — fragmentation как механизм value-retention в эпоху AI

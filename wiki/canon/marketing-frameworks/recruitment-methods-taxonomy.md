@@ -9,8 +9,8 @@ tags: [hr-tech, recruiting, taxonomy, evergreen, methodology]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-06
-sources: [sources/2026-05-05-hr-portal-metody-podbora-personala.md, sources/2026-05-05-hr-portal-obzor-metodov-otbora-personala.md]
+updated: 2026-05-19  # +OSINT/цифровой след как современный верификационный слой stage «анализ анкет» (Мул, Work Solutions)
+sources: [sources/2026-05-05-hr-portal-metody-podbora-personala.md, sources/2026-05-05-hr-portal-obzor-metodov-otbora-personala.md, sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md]
 namespace: mkt
 ---
 
@@ -90,6 +90,10 @@ GRO — продукт для самоменеджмента и продукти
 
 Это даёт content-hook GRO: «Какие ваши задачи ИИ заберёт первым?» — со ссылкой на скрининг как ближайшую цель замещения.
 
+## OSINT / цифровой след как современное дополнение к stage «анализ анкет»
+
+Классический stage 1 («анализ анкет» по формальным полям резюме) в 2026 дополняется **проверкой кандидата по открытым данным (OSINT)** — соцсети, публичные репозитории, чаты, цифровые трудовые книжки, открытые налоговые данные, систематизированные нейросетью. Это не новый метод подбора, а **верификационный слой** поверх анкетного этапа: достоверность заявленного опыта сверяется с цифровым следом (возраст GitHub vs стаж, дата вуза vs возраст и т.п.). Подробно — [[evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026]] (тренд) и [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]] (первоисточник). На stage адаптации/испытательного срока культурная фильтрация дополняется фреймом антипаттернов [[canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul]].
+
 ## Связанные страницы
 - [[canon/marketing-frameworks/candidate-selection-methods-taxonomy]] — комплементарная таксономия методов **оценки** кандидата (раскрывает stage 3 «методы оценки»)
 - [[canon/target-audience/hrd-portrait-2025-2026]] — портрет HR-директора как ЦА
@@ -99,3 +103,6 @@ GRO — продукт для самоменеджмента и продукти
 - [[evolving/industry-trends/ai-knowledge-worker-climb-2025-2026]] — ИИ-сдвиг знаниевой работы
 - [[sources/2026-05-05-hr-portal-metody-podbora-personala]] — источник recruitment-таксономии (привлечение)
 - [[sources/2026-05-05-hr-portal-obzor-metodov-otbora-personala]] — источник selection-таксономии (оценка)
+- [[evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026]] — OSINT как современный верификационный слой stage «анализ анкет»
+- [[canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul]] — фрейм культурной фильтрации на stage адаптации
+- [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]] — источник OSINT/культура-фит (Мул, Work Solutions)

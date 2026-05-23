@@ -9,10 +9,11 @@ tags: [marketing-frameworks, kpi, lead-qualification, smarketing, b2b, revenue-o
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +3-департаментное расширение PR DOCTOR + cross-ref на CMO-парадокс 84%/64%
+updated: 2026-05-19  # +3-департаментное расширение PR DOCTOR + cross-ref на CMO-парадокс 84%/64% + cross-ref как зона 7 квартального аудита Demis
 sources:
   - sources/2026-05-14-dp-ru-marketing-sales-sync.md
   - sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md
+  - sources/2026-05-19-dzen-demis-quarterly-marketing-audit.md
 namespace: mkt
 ---
 
@@ -99,6 +100,7 @@ namespace: mkt
 
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/quarterly-marketing-audit-demis-7-zones]] — этот фреймворк = **зона 7 квартального аудита** Demis Group («синхронизация маркетинга и продаж»). Квартальный аудит ставит проверку конфликта на регулярную каденцию; здесь — операционализация (Shared KPIs + Lead Definition SLA + Feedback Loop).
 - [[canon/marketing-frameworks/kpi-parallel-hypothesis-petrochenkov]] — параллельный запуск гипотез для улучшения KPI после того как метрики согласованы
 - [[canon/marketing-frameworks/funnel-simplicity-principle]] — принцип простоты воронки (меньше шагов = выше конверсия), дополняет рычаг 2
 - [[canon/marketing-frameworks/refused-customer-interview]] — интервью с отказавшимися клиентами как инструмент структурированного feedback loop

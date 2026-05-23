@@ -9,7 +9,7 @@ tags: [content, content-format, pr, dzen, expert-column, thought-leadership, awa
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-19  # +cross-ref на 3-й инстанс формата: named-author+компания (Мул, Work Solutions, HR/OSINT); prior: агентский sibling Demis Group
 sources: [sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md]
 namespace: mkt
 ---
@@ -63,6 +63,8 @@ namespace: mkt
 
 ## Связанные страницы
 
+- [[evolving/content-trends/demis-group-seo-agency-expert-column-pattern-2026]] — **sibling-вариант** того же Дзен-формата «экспертная колонка в Деловом мире», но с **агентским (корпоративным) бай-лайном** вместо персонального: автор — компания (Demis Group), а не названное лицо; мотив — lead-gen на услугу + SEO-backlink. Сравнение двух вариантов (персональный vs агентский) — там же.
+- [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]] — **3-й инстанс формата** на том же Дзен-канале: вариант «named-author + компания» (Максим Мул, директор Work Solutions), тема HR/OSINT-найм. Гибрид между персональным (Соулфул) и агентским (Demis): персональная подпись, но авторитет частично на бренде ИТ-компании; backlink на delovoymir.biz через `dzen.ru/away`.
 - [[canon/marketing-frameworks/management-styles-2026-soulful]] — сам контент этой статьи (фреймворк)
 - [[canon/marketing-frameworks/delegation-formula-7-elements-soulful]] — extractable framework #2 из статьи
 - [[canon/marketing-frameworks/management-style-obsolete-6-signals-soulful]] — extractable framework #3

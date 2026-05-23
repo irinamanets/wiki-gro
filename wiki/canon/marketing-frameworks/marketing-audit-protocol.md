@@ -9,8 +9,8 @@ tags: [framework, audit, management, process, b2b, b2c]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md]
+updated: 2026-05-19  # +cross-ref на квартальный аудит Demis (one-time диагностика vs регулярная каденция)
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-19-dzen-demis-quarterly-marketing-audit.md]
 namespace: mkt
 ---
 
@@ -70,6 +70,7 @@ namespace: mkt
 
 ## Связь с другими фреймворками
 
+- [[canon/marketing-frameworks/quarterly-marketing-audit-demis-7-zones]] — **комплементарный аудит-инструмент**. «Протокол сверки» — one-time диагностика **расхождений в понимании между людьми** (опрос); квартальный аудит Demis — регулярная **каденция ревизии систем и метрик** по 7 зонам. Связка: протокол запускает первичный диагноз при стагнации/смене команды, квартальный аудит ставит контроль на регулярную основу, чтобы расхождения не накапливались.
 - [[canon/marketing-frameworks/refused-customer-interview]] — следующий шаг после аудита: если протокол показал расхождение в понимании ЦА, интервью с отказниками даст внешнюю проверку.
 - [[canon/marketing-frameworks/cross-industry-pattern-borrowing]] — что делать, если протокол показал стагнацию на «копировании топ-1 в нише».
 - [[canon/marketing-frameworks/marketer-hiring-questions]] — связанный диагностический инструмент при найме.

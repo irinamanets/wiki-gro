@@ -9,8 +9,8 @@ tags: [content, telegram, instagram, infobiz, sales-training, narrative, pattern
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +third dump may 5-14 2026: новый Жанр 12 «Recap-link-collection пост недели» + scarcity-CTA расширение Жанра 3 «последний набор / закрытый формат»; 8-card carousel variant в Жанре 10
-sources: [sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md]
+updated: 2026-05-19  # +fourth dump may 14-19 2026: Жанр 3 +free-lesson lead-magnet (try-before-buy); Жанр 10 +list-карусель архетип +employee-side тема +lime-green палитра; Жанр 13 «reality-разбор-событие» (Москва 9-10 окт)
+sources: [sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -234,11 +234,54 @@ namespace: mkt
 
 Третий срез ([[sources/2026-05-14-tg-vyakuba-may-5-14-2026|2026-05-05..14]]) показал **8-карточную** карусель «Эволюция мышления» (6846..6853, 2026-05-12) — расширение строго-6-card структуры до **гибкого 6–8** в зависимости от темы. Полный анализ — в [[evolving/content-trends/vyakuba-instagram-carousel-format]] (там обновлены 2 архетипа: diagnostic-карусель и progression-карусель).
 
+## Update Жанра 10 (4-й срез): list-карусель + employee-side тема + новая палитра
+
+Четвёртый срез ([[sources/2026-05-19-tg-vyakuba-may-14-19-2026|2026-05-14..19]]) добавил **2 карусели по 7 карточек** и три обновления:
+
+1. **List-карусель — третий архетип формата.** «5 привычек людей, которым доверяют деньги» (6862..6868) и «Фразы начальника» (6876..6882) — обе list-карусели: cover + 5 однородных пунктов (1 на карточку) + CTA = 7 карточек. Это **самый простой и переносимый** архетип (vs diagnostic-6 и progression-8).
+2. **Employee-side тема впервые.** «Фразы начальника, на которые неудобно отвечать» — впервые протагонист **наёмный сотрудник**, а не продавец/собственник. Якуба расширяет TAM в массовый карьерный сегмент. Operational frame — [[canon/marketing-frameworks/assertive-boundary-replies-vyakuba]].
+3. **Новая lime-green палитра** — «5 привычек» в неоново-зелёном highlighter-стиле (третья визуальная палитра после pointillism и красного коллажа). Подробности — [[evolving/content-trends/vyakuba-instagram-carousel-format]].
+
+**Trust-habits как content-topic.** «5 привычек, которым доверяют деньги» — листикл про trust-as-accumulation («репутация собирается из мелких действий»). Привычки: быстрый ответ (скорость=уважение), не обещать лишнего, объяснять просто, не навязываться (спокойные продажи > давления), делать стабильно (дисциплина > настроения). Cross-link [[canon/marketing-frameworks/trust-as-managed-asset-coin-principle]].
+
+## Update Жанра 3 (4-й срез): free-lesson lead-magnet (try-before-buy)
+
+Четвёртый срез обогащает Жанр 3 (Pre-record курса) **новой funnel-механикой**:
+
+- Пост 6874 (2026-05-18): FAQ-objection-framing анонс потока «Про Продажи» (старт 1 июня) + idea-floating «может, дропнем урок?».
+- Пост 6883 (2026-05-19): **открыт доступ ко 2 уроку «Программирование в продажах» на 24 часа** — урок + конспект + домашка, gated через авторизацию (`vladimiryakuba.com/lesson-2`).
+
+Это **free-sample-as-lead-magnet с 24h scarcity + gated capture контактов** — эволюция от social-proof-анонсов (1-3 срезы: «57 заявок за сутки») к **product-led try-before-buy**. Авторизация = email/phone-capture; 24h = urgency.
+
+**Переносимо для GRO?** **Да, прямая переносимость.** GRO — SaaS с триалом, для него «дроп одного урока/модуля как lead-magnet» естественен. Адаптация: «открываем 1 полную тренировочную сессию на 48 часов — попробуй формат прежде чем подписаться». Gated через регистрацию = soft-lead capture.
+
+## Жанр 13: Reality-разбор-событие (single flagship offline, 4-й срез)
+
+**Оригинал:** пост 6860 (2026-05-14) — анонс события Москва 9–10 октября «продажи, управление и дожим клиента» с двумя форматами: (a) **реалити-разборы** реальных бизнесов на сцене, (b) **живые подкасты со спец-гостями**.
+
+**Паттерн:** не лекция/выступление, а **продакшн-формат**: реальные ситуации бизнеса разбираются на сцене как reality-show, плюс подкаст-сегменты с гостями. Позиционирование «решения, которые можно внедрять сразу», предзапись за ~5 месяцев (длинный pre-launch).
+
+**Функция:** эволюция от тур-формата (1-3 срезы — гастроли по городам) к **single flagship-событию** с reality-show-механикой. Это и продукт-tier, и content-генератор (нарезки разборов → TG/YouTube). Cross-link [[canon/marketing-frameworks/business-reality-show-format]].
+
+**Переносимо для GRO?** **Ограниченно** (GRO — SaaS без офлайн-событий), но **reality-разбор-формат** как content-genre переносим: «разбираем реальный кейс пользователя GRO на стриме, аудитория голосует, AI даёт feedback». Online-вариант reality-разбора возможен без офлайн-инфраструктуры.
+
+## Жанр 14: Affiliate cross-promo инфобиз-автора (4-й срез)
+
+**Оригинал:** пост 6861 (2026-05-15) — Якуба рекомендует **Тимофея Бараковского** (коуч по целям), видео «недостающий элемент твоего роста» в закрытом канале `t.me/+TemFI1cFJRYyNjIy`. Authority-claim: «доверяют звёзды шоу-бизнеса, блогеры, миллиардеры из Forbes».
+
+**Паттерн:** продвижение **другого инфобиз-персонажа** в собственной ленте (без явной erid-маркировки → likely бартер/audience-swap/партнёрка). Отличается от Жанра 11 (paid-реклама **продукта/банка** А7 с erid): здесь объект промо — **человек-бренд**, а не сервис.
+
+**Функция:** **authority-trade-сеть** между инфобиз-авторами. Родственно гостям-спикерам (Сендеров/Шам/Спиридонов из 1-2 срезов), но в формате «один пост в ленте за чужую аудиторию». Низкочастотный (1 пост из 25 в окне = 4%).
+
+**Переносимо для GRO?** **Концептуально — да** (cross-promo с adjacent-non-competitor продуктами/экспертами), **операционно — осторожно**: GRO — продукт-бренд, не personal-brand, поэтому «рекомендую коуча X» звучит иначе, чем у Якубы. Применимо для **партнёрских интеграций** (например, GRO × productivity-инструмент), но не для personal-endorsement.
+
 ## Connection points
 
 - [[sources/2026-04-14-tg-vyakuba-mar-apr-2026]] — первый источник наблюдений.
 - [[sources/2026-05-05-tg-vyakuba-apr-may-2026]] — второй источник, +жанры 10-11.
 - [[sources/2026-05-14-tg-vyakuba-may-5-14-2026]] — третий источник, +жанр 12 + update жанров 3 и 10.
+- [[sources/2026-05-19-tg-vyakuba-may-14-19-2026]] — четвёртый источник, +жанры 13-14 + update жанров 3 и 10 (list-карусель, employee-side, lead-magnet).
+- [[canon/marketing-frameworks/assertive-boundary-replies-vyakuba]] — operational frame из employee-side карусели «Фразы начальника» (жанр 10, 4-й срез).
 - [[evolving/competitor-positioning/vyakuba-sales-training]] — профиль автора и его продуктовой лестницы.
 - [[evolving/content-trends/vyakuba-instagram-carousel-format]] — детальная архитектура жанра 10.
 - [[evolving/content-trends/telegram-native-formats]] — общая жанровая карта RU TG-контента, в которую вписывается этот под-жанр.

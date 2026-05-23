@@ -9,8 +9,8 @@ tags: [content, telegram, narrative, hooks, objections, burnout, owner-self-mana
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-23  # +cross-ref «зеркало владельца» (Горская/Pressfeed) — личностный регистр того же owner-escape problem-space. Ранее: +Петросян пост 2311 (2026-05-19) «размытая тревога опаснее конкретной» + describe-the-state protocol; +Visotsky 4-й срез
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md]
+updated: 2026-05-23  # +hooks 4-го среза Якубы (2026-05-14..19): «репутация из мелочей», «выбор делает нас», «уверенность звучит тихо» (assertive boundary), IT-кейс «лид за 1500 ₽». Ранее: +cross-ref «зеркало владельца» (Горская/Pressfeed); +Петросян пост 2311; +Visotsky 4-й срез
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md]
 namespace: mkt
 ---
 
@@ -675,6 +675,56 @@ GRO — продукт ежедневного журналирования. Petr
 ### Niche-signal (не hook, но note)
 
 - **70% риелторов на открытом событии Пхукета** (пост 6814) — Якуба self-reports данные о демографии своей экспат-аудитории в ЮВА. Не hook, но **niche-signal**: русскоязычная экспат-вертикаль = real-estate broker'ы как самый активный сегмент. Может быть полезно для GRO targeting'а expat-сегментов.
+
+## Hooks из четвёртого среза Якубы (2026-05-14..19)
+
+Четвёртый срез ([[sources/2026-05-19-tg-vyakuba-may-14-19-2026]]) дал hooks из 2 новых каруселей + 1 case-разбор. **Новизна:** часть hooks — **employee-side** (со стороны наёмного сотрудника), что расширяет коллекцию за пределы owner/founder-регистра.
+
+### «Репутация почти всегда собирается из мелких действий» (trust-as-accumulation)
+
+**Оригинал (пост 6862, caption карусели «5 привычек, которым доверяют деньги»):** «Очень многие думают, что клиент покупает из-за цены, упаковки или сильного оффера. НЕТ. В большинстве случаев люди покупают после простой внутренней мысли: "этому человеку я доверяю". И строится это не на громких обещаниях, а на мелочах. Перезвонили вы или пропали, как ответили на неудобный вопрос, что произошло после оплаты. Репутация почти всегда собирается из мелких действий».
+
+**Почему работает:** **anti-cliché reframe** («не оффер, не цена, а доверие») + конкретика (перезвонили/пропали). Универсально для любой sales/service-аудитории.
+
+**Адаптация для GRO:** прямой fit для **retention/trust-нарратива**: «Прогресс в навыке собирается не из одного героического рывка, а из мелких ежедневных действий — как репутация». Cross-link [[canon/marketing-frameworks/trust-as-managed-asset-coin-principle]].
+
+### «Спокойные продажи всегда сильнее давления» (calm-over-pressure)
+
+**Оригинал (карточка 6866):** «НЕ НАВЯЗЫВАЮТСЯ. Спокойные продажи всегда сильнее давления. Люди чувствуют уверенность».
+
+**Почему работает:** counter-intuitive для аудитории, которую учили «дожимать». Парадокс «тише = сильнее».
+
+**Адаптация для GRO:** для **сегмента фрилансеры/карьеристы**: «Спокойная самопрезентация сильнее, чем тревожное "купите меня". Уверенность тренируется».
+
+### «Уверенность всегда звучит тихо» (assertive boundary, employee-side)
+
+**Оригинал (карточка 6878, карусель «Фразы начальника»):** на «надо задержаться сегодня» — «Скажи спокойно: "Сегодня не получится. Если такие задачи будут заранее — смогу подстроиться". Уверенность всегда звучит тихо».
+
+**Почему работает:** **employee-side pain** (давление руководителя) + готовая речевая заготовка. Узнаваемость высокая — почти каждый сталкивался.
+
+**Адаптация для GRO:** прямой fit для **сегмента карьеристы**. «Карьерный рост — это не недостаток скилов. Это первая фраза, которой вы отвечаете на давление». Полный набор reframe-реплик — [[canon/marketing-frameworks/assertive-boundary-replies-vyakuba]].
+
+### «Профессионализм — это не бесплатная доступность 24/7» (boundary-setting)
+
+**Оригинал (карточка 6879):** на «в субботу тоже нужно выйти» — «Готов обсудить. Как будет учитываться дополнительное время? Профессионализм — это не бесплатная доступность 24/7».
+
+**Почему работает:** **anti-burnout boundary** — резонирует с переработанной аудиторией.
+
+**Адаптация для GRO:** связка с anti-burnout-нарративом: «Устойчивый рост — не про "всегда на связи". Про границы и ритм». Complementary к [[canon/marketing-frameworks/environment-architecture-entrepreneur-safety]].
+
+### «Лид за 1500 ₽ слили за несколько секунд» (front-line attribution, concrete-case)
+
+**Оригинал (пост 6871, YouTube case-разбор):** «IT-компания, 20 лет, 15 маркетологов, 5 в продажах. Позвонил под видом клиента: "Я посмотрю на сайте" — "Хорошо, до свидания". Лид за 1500 ₽ слили за секунды. Люди 15–20 лет на окладе без KPI — не продают, отвечают на входящие».
+
+**Почему работает:** **concrete-microstory** + конкретная цифра (1500 ₽) + mystery-shopper-механика. Reinforce [[canon/marketing-frameworks/first-15-sec-sales-contact]] конкретным кейсом.
+
+**Адаптация для GRO:** «Вы вкладываете в обучение/маркетинг, а решает первый контакт. Навык первых 15 секунд дороже, чем ещё один курс».
+
+### Дополнительные micro-hooks из 4-го среза
+
+- **«Сначала мы делаем свой выбор, затем наш выбор делает нас»** (infographic 6870, orange-on-black) — self-determination hook (часто приписывается Черчиллю). Для GRO: «Сначала вы выбираете тренировать навык. Потом навык формирует вас».
+- **«Если человек говорит сложно — не значит, что он профессионал»** (карточка 6865) — anti-buzzword hook, прямая параллель к [[evolving/competitor-positioning/vyakuba-sales-training|анти-«заорганизованность»]] (1-й срез) и GRO tone of voice «дружелюбный эксперт».
+- **«Результат любит дисциплину, а не настроение»** (карточка 6867) — anti-«с понедельника» hook про consistency. Прямой fit для GRO-нарратива про тренировочный ритм.
 
 ## Чек-лист для автора GRO-контента
 
