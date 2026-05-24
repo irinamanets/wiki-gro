@@ -9,8 +9,8 @@ tags: [ai, b2b, market-trends, consideration, decision]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +cross-source confirmation direction #3 (верификация→accountability) от Аннакова + рыночное доказательство (страхование AI-агентов ElevenLabs/AIUC)
-sources: [sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-19-tg-products-and-startups-may-15-19-2026.md]
+updated: 2026-05-24  # +Спиридонов vc.ru chunk3: плато ИИ-чатботов (GPT-5, «ксерокопия с ксерокопии») как триггер миграции ценности + «зоны искажённой реальности» на венчуре (bubble-сигнал, reconcile с Горным). prior: +cross-source direction #3 (Аннаков) + страхование AI-агентов
+sources: [sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-19-tg-products-and-startups-may-15-19-2026.md, sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed.md]
 namespace: mkt
 ---
 
@@ -210,6 +210,30 @@ Tomasz Tunguz — известный B2B-инвестор (Theory Ventures, ра
 
 **Разница с Морейнисом:** Морейнис говорил про **сбор и продажу** данных (коммерческая вертикаль, стартапы), а Nvidia+Cadence — про **генерацию синтетических данных через симуляцию** (инженерная вертикаль, крупные корпы). Это два разных бизнеса на одном рынке «данные как узкое горлышко».
 
+## ИИ-пузырь и плато моделей — почему ценность уплывает (Спиридонов, 2026-05-24)
+
+[[sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed|Спиридонов (vc.ru chunk3)]] даёт **два независимых сигнала**, которые усиливают центральный тезис страницы («ценность уплывает от моделей»):
+
+### Сигнал A — плато ИИ-чатботов (GPT-5)
+
+Спиридонов фиксирует, что GPT-5 дал процентные, а не качественные улучшения — «просто более быстрый и точный GPT-4»; «индустрия чат-ботов близка к тому, чтобы упереться в потолок» `[conf:medium, src:2026-05-24]`. Ограничение по данным: компании «докармливают модели синтетическими данными» («ксерокопия с ксерокопии»). Подробный разбор плато — на [[evolving/content-trends/dead-internet-theory-counter-trend-2026#update-2026-05-24-плато-ии-чатботов-gpt-5-как-технологическая-опора-model-collapse]].
+
+**Связь с тезисом страницы:** плато моделей — это **триггерное условие** миграции ценности. Если модели перестают давать capability-gap (Сигнал A), то маржа физически обязана уйти куда-то ещё — к суждению, данным, верификации, дистрибуции (6 направлений выше). Спиридонов даёт **второй независимый голос** к Nvidia/Cadence-сигналу data-scarcity (направление №4) и к Морейнису.
+
+### Сигнал B — «зоны искажённой реальности» на венчуре
+
+Параллельно с плато технологии — **перегрев капитала**: фонды носятся за основателями ИИ-стартапов. Спиридонов вводит паттерн **«зон искажённой реальности»** `[conf:medium, src:2026-05-24]`:
+
+- Исторические аналоги: соцсети 2005-2007, мобильные 2009-2011, крипта/блокчейн 2017-2020; сейчас — всё, что связано с ИИ.
+- Причина: 2-3 года пессимизма на венчуре → фонды накопили миллиардные резервы → массовый «прыжок в один вагон» ИИ.
+- Сигнал перегрева: «когда инвесторы сами начинают носиться с деньгами за основателями — это признак того, что рациональность уступила место азарту»; пузырь «точно подсдуется, когда ажиотаж спадёт».
+
+Числовые якоря (Decagon, Anthropic, Perplexity, Anysphere) — на [[evolving-strict/market-data/ai-startup-valuations-bidding-war-2026]].
+
+**Reconcile с Горным.** [[evolving/industry-trends/big-tech-concentration-not-bubble-gorny-2026|Горный]] говорит, что **биржевая** концентрация Big Tech ≠ пузырь (реальная экономика тоже консолидировалась). Спиридонов говорит про **private-venture** ажиотаж. Это не противоречие, а два разных слоя рынка: публичная концентрация структурна, private-venture-оценки ИИ — локальный перегрев. Для marketing-narrative GRO — держать обе рамки (sober commentator, не hype/не doom).
+
+**Парадокс плато + пузырь.** Технология плато (Сигнал A), но капитал перегрет (Сигнал B) — классическая дивергенция «fundamentals vs sentiment». Именно она объясняет, **почему** ценность мигрирует: инвесторы платят за модели, которые перестают улучшаться, → рациональная маржа уходит к слоям, где ещё есть defensibility (данные, суждение, верификация, персонализация).
+
 ## TTL и supersession watch
 
 Страница — `evolving`, TTL soft 180 дней. Проверять осенью 2026:
@@ -241,6 +265,10 @@ Tomasz Tunguz — известный B2B-инвестор (Theory Ventures, ра
 - [[sources/2026-05-05-tg-temno-moreynis-apr-may-2026]] — второй источник (новые направления 7–9, triangulation YC RFS и Tunguz)
 - [[evolving/industry-trends/ai-accountability-premium-2026]] — расширение direction #3 (верификация→accountability) от Аннакова + рыночное доказательство
 - [[sources/2026-05-19-tg-products-and-startups-may-15-19-2026]] — cross-source confirmation direction #3 (Аннаков, пост 1750)
+- [[evolving/industry-trends/big-tech-concentration-not-bubble-gorny-2026]] — counter-anchor к bubble-тезису (публичные рынки)
+- [[evolving-strict/market-data/ai-startup-valuations-bidding-war-2026]] — числовые якоря «зон искажённой реальности» (Decagon/Anthropic/Perplexity/Anysphere)
+- [[evolving/content-trends/dead-internet-theory-counter-trend-2026]] — плато моделей + model collapse (Сигнал A)
+- [[sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed]] — Спиридонов: плато GPT-5 + «зоны искажённой реальности»
 
 ## Backlinks
 

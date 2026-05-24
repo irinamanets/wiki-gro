@@ -114,4 +114,9 @@ TTL: 180 дней. Re-verify при появлении публикаций Т-�
 - [[evolving/competitor-positioning/tbank-tinvest-premium-positioning]] — Т-Инвестиции (premium-расширение того же blog-нарратива)
 - [[evolving/competitor-positioning/hh-ru-ai-hiring-suite-2026]] — параллельная RU corporate-blog стратегия
 - [[evolving/competitor-positioning/garmony-ai-advertorial-campaign-2026]] — контрастный case (vendor advertorial)
+- [[evolving/competitor-positioning/tbank-brand-journalism-employer-storytelling]] — форматные механики бренд-журналистики и employer-storytelling (chunk5 2026-05)
+- [[evolving/content-trends/research-as-pr-transactional-data-format]] — research-as-PR (детализация edu/research-категории контент-микса)
+- [[evolving-strict/campaign-metrics/ru-offline-brand-event-reach-benchmarks-2026]] — reach-бенчмарки событий (event-слой того же blog-нарратива)
+- [[evolving/competitor-positioning/tbank-dofamin-banking-navigator-2025]] — позиционный нарратив app 7.0
 - [[sources/2026-05-14-condense-web-vc-ru-tbank-27]] — источник
+- [[sources/2026-05-24-condense-vc-ru-tbank-chunk6-30]] — chunk6 (research-PR + события + дофамин-банкинг)

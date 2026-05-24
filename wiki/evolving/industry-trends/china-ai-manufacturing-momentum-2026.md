@@ -9,8 +9,9 @@ tags: [ai, china, robotics, bci, market-trends]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +Unitree GD01 МЕХА (hybrid bipedal/quadrupedal humanoid, 500кг, $650K стартовая цена) — пятая китайская точка на humanoid-карте, ценовой anchor для premium robotics-сегмента; +Spiridonov 4386 (2026-05-07): экономика humanoid'ов McKinsey/Bain/Morgan Stanley — $100K humanoid → $3.5-10/hr с overhead, 5,3→2,8 лет окупаемость, прогноз ~1 млрд humanoid'ов к 2050 (контекст для китайского production-hub'а); +Geely Eva Cab native robotaxi (4-й сигнал) +Sony robot table tennis Japan-параллель +Спиридонов: инфраструктурная статистика Strider/SCSP (250+ ДЦ, 750+ EFLOPS, 36 гуманоидов vs 8 у США)
-sources: [sources/2026-04-14-tg-techsparks-mar-apr-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-techsparks-apr-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-techsparks-may-2026.md]
+updated: 2026-05-24  # +Сигнал 6 (vc.ru chunk4 story_2751734): NIO премиум-EV референс (150+ брендов, станции замены батарей ~3 мин) + сервисный сегмент аудита китайских поставщиков для RU-брендов («сервисная экономика»)
+prev_updated: 2026-05-24  # +Спиридонов vc.ru chunk3 «Битва роботов США/Китай»: Пекин $20B на робототехнику + фонд $137B, цель — мировое лидерство к 2027, Китай контролирует до 90% цепочки поставок для роботов, UBTech обучается на реальных заводах (Geely/Foxconn), триангуляция 36 vs 8 моделей. prior: +Unitree GD01 МЕХА (500кг, $650K), Spiridonov 4386 humanoid unit-economics, Geely Eva Cab, Sony robot tennis, Strider/SCSP инфраструктурная статистика
+sources: [sources/2026-04-14-tg-techsparks-mar-apr-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-techsparks-apr-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed.md, sources/2026-05-24-vcru-chunk4-condensed.md]
 namespace: mkt
 ---
 
@@ -146,6 +147,14 @@ Cross-link: [[evolving/industry-trends/ru-china-import-tariff-2027-2029]] — RU
 2. **Counter-narrative к «AI-роботы — это америка/илон»** — фокус смещается **на Китай** как primary-вендор. Это **меняет позиционирование** content про future-of-work.
 3. **Без hook'а про политику** — содержательно сильнее **structural** аргумент (отсутствие лобби), чем **political** аргумент (Китай vs Запад). Используем structural.
 
+## Сигнал 6 — NIO как премиум-EV референс + сервисный сегмент аудита поставщиков (vc.ru, 2026)
+
+Из vc.ru-статьи «Поиск настоящего шёлка в Китае» ([[sources/2026-05-24-vcru-chunk4-condensed]], оригинал story_2751734, 2026) — два distinct-факта, дополняющих картину китайской материальной базы со стороны **consumer-EV и B2B-сервисов** (а не робототехники):
+
+**NIO как референс премиум-позиционирования EV.** В Китае более **150 брендов электрокаров**; NIO стабильно держится в топ-5, но почти не представлен в РФ — технологичный премиум-бренд с **автоматическими станциями замены батарей** (замена за ~3 минуты vs 40–60 мин зарядки) `[conf:medium, src:2026-05-24]`. Впечатление делегации: минималистичный бесшумный салон, плавный разгон («как лифт в небоскрёбе»), роботизированная инфраструктура замены батарей — «это уже космос». Это **premium-positioning playbook через инфраструктурную механику** (станции замены) + сенсорный опыт (тишина/плавность), а не через спеки. Параллель к [[evolving/competitor-positioning/openai-positioning-shift-nonprofit-commercial|категорийному позиционированию]] и [[canon/marketing-frameworks/niche-content-crowdfunding-breakthrough-kondrashov|«ненавязчивость как ценность»]].
+
+**Возникший сервисный сегмент — аудит китайских поставщиков.** Поиск и аудит китайских поставщиков, контроль качества, сопровождение сделок для российских брендов (кейс — премиальный beauty-бренд, ищущий производство шёлка для масок/кимоно) `[conf:medium, src:2026-05-24]`. Тезис позиционирования: **«премиум начинается с проверки сырья/производства, а не упаковки»**. Это инстанс **«сервисной экономики»** (деньги на доступе/сопровождении, а не на самом товаре) — тот же структурный паттерн, что в [[evolving-strict/market-data/forex-broker-economics-2026|экономике форекс-рынка]]. Для RU-брендов китайский pivot создаёт спрос на trust-прослойку (см. [[evolving/industry-trends/ru-manufacturing-china-pivot-2022-2026]]).
+
 ## Параллельный signal — Sony robot table tennis (Япония, 2026-04-23)
 
 Не китайский сигнал, но семантически релевантный и встретился в том же source-канале (через [[sources/2026-05-05-tg-techsparks-apr-may-2026|@techsparks 5568]]).
@@ -185,6 +194,26 @@ Cross-link: [[evolving/industry-trends/ru-china-import-tariff-2027-2029]] — RU
 
 **Это объясняет, почему Китай производит 36 моделей humanoid'ов vs США 8** (Morgan Stanley data, см. Сигнал 0): Китай — **производственный hub** для high-wage экспорта, не self-consumer. Это **разнонаправленность ролей** в global humanoid value-chain, аналогичная распределению ролей в classic manufacturing (Китай делает, Запад потребляет).
 
+## Сигнал 6 — гонка гуманоидов как геополитический фронт (Спиридонов «Битва роботов», 2026-05-24)
+
+[[sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed|Спиридонов (vc.ru chunk3, «Битва роботов: США против Китая»)]] добавляет **policy/supply-chain** слой к уже зафиксированной capability-картине. Робототехника подаётся как **фронт геополитической технологической конкуренции** `[conf:medium, src:2026-05-24]`:
+
+- **Китайские производители контролируют до 90% цепочки поставок для роботов** `[conf:medium, src:2026-05-24]` — структурное преимущество на уровне компонентов (моторы, редукторы, сенсоры, аккумуляторы).
+- **Преимущество в обучении на реальных заводах:** UBTech обучает роботов на производственных линиях Geely / Foxconn `[conf:medium, src:2026-05-24]` — доступ к real-world training data, которого нет у US-конкурентов в таком масштабе.
+- **Триангуляция 36 vs 8:** Спиридонов независимо повторяет Morgan Stanley-цифру — 36 китайских моделей гуманоидов за прошлый год против 8 американских `[conf:medium, src:2026-05-24]`. Это **второй источник** той же метрики (ранее — Strider/SCSP в Сигнале 0), что повышает доверие к разрыву.
+
+### Государственное финансирование (новые anchor-числа)
+
+| Параметр | Значение | Source |
+|---|---|---|
+| Пекин выделил за год на робототехнику | $20 млрд | `[conf:medium, src:2026-05-24]` |
+| Отдельный фонд для стартапов индустрии | $137 млрд | `[conf:medium, src:2026-05-24]` |
+| Цель | мировое лидерство к 2027 | `[conf:medium, src:2026-05-24]` |
+
+Полная числовая база робототехники (включая Morgan Stanley-прогноз ≥$5 трлн к 2050) — на [[evolving-strict/market-data/humanoid-robot-unit-economics-2024-2050]]. Цель «мировое лидерство к 2027» `[conf:medium, src:2026-05-24]` совпадает с таймлайном BCI-плана из Сигнала 2 (2027 — прорывные решения) — **синхронность государственных дедлайнов** по двум flagship-направлениям.
+
+**Что это даёт картине.** Если capability-сигналы (AgiBot 10K units, Honor марафон) показывали *что Китай умеет*, то Спиридонов добавляет *почему это устойчиво*: контроль цепочки поставок (90%) + доступ к заводскому training-data (UBTech/Geely/Foxconn) + государственный капитал ($20B + $137B). Это три структурных moat'а, а не разовые демо. `confidence: medium` — все цифры single-source (вторичный пересказ автора); для публикации сверять с первоисточниками.
+
 ## Интерпретация для marketing-memory
 
 **Три сигнала вместе рисуют картину:** Китай не пытается догнать США в фронтир-моделях (там Anthropic, OpenAI, Microsoft доминируют), а **строит параллельный материальный слой**: роботы, BCI, повседневные агенты-интерфейсы. Это **другая теория победы** — не «построить лучшую модель», а «внедрить AI в физический мир раньше остальных».
@@ -206,6 +235,7 @@ Cross-link: [[evolving/industry-trends/ru-china-import-tariff-2027-2029]] — RU
 - [[volatile-strict/competitor-news/tesla-capex-25b-2026]] — Tesla Cybercab параллель в US
 - [[sources/2026-05-14-tg-mspiridonov-may-2026]] — Спиридонов 2026-05-07 unit-economics humanoid'ов (McKinsey/Bain/Morgan Stanley)
 - [[evolving-strict/market-data/humanoid-robot-unit-economics-2024-2050]] — полная числовая база
+- [[sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed]] — Спиридонов «Битва роботов»: $20B/$137B Пекин, 90% supply chain, UBTech Geely/Foxconn, цель 2027
 
 ## Backlinks
 

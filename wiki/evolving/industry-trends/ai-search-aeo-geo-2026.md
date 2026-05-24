@@ -9,8 +9,8 @@ tags: [seo, ai, content, search, decision-layer, infrastructure, product-data, a
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-20  # +Comscore AI Intelligence Report (34,9% Google AI-обзоров конец 2025 + плато поиска +3% YoY); +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия» (SparkToro стохастичность + платформенная сегментация + legal RU + disqualification)
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-cossaru-may-14-19-2026.md]
+updated: 2026-05-24  # +Спиридонов RU-voice (Adobe генеративный чат-бот трафик +1200-1700% YoY + ambient AI / «смерть смартфона»); prior: +Comscore AI Intelligence Report (34,9% Google AI-обзоров конец 2025 + плато поиска +3% YoY); +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия»
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-cossaru-may-14-19-2026.md, sources/2026-05-24-condense-vcru-chunk2.md]
 namespace: mkt
 ---
 
@@ -398,6 +398,20 @@ Pressfeed формулирует **3 кейса**, когда инвестици
 
 **Согласованность с прежними сигналами.** Comscore-плато (+3% vs +12%) и прогноз-2028 укладываются в линию Gartner −25% органики к концу 2026 (Кумар Виас выше), Brand Analytics −33–38% RU-органики за 2025 ([[evolving-strict/market-data/ai-search-commerce-benchmarks-2026]]) и RU practitioner-консенсуса 30–40% падения. Замер — US/Google; для RU-аудитории GRO приоритет остаётся за Яндекс/Алиса (см. RU-специфика выше).
 
+## Update 2026-05-24 — Спиридонов: чат-бот как точка старта клиентского пути (RU-voice + ambient AI)
+
+[[sources/2026-05-24-condense-vcru-chunk2|Максим Спиридонов (condensed vc.ru/id79772)]] добавляет **RU-экспертный голос** к AEO/GEO-нарративу через свежий Adobe Analytics-замер (на корпусе >1 трлн посещений ритейл-сайтов США):
+
+- Трафик из генеративных чат-ботов вырос за год в **туризме на +1700%**, в **ритейле и банкинге на +1200%** `[conf:high, src:2026-05]`
+- **39% американцев** уже покупают через чат-боты, **53% намерены** присоединиться в этом году `[conf:high, src:2026-05]`
+- В электронике и ювелирке **конверсия из ИИ-трафика уже обгоняет традиционные каналы** `[conf:medium, src:2026-05]`
+
+Полные цифры с inline-маркерами → [[evolving-strict/market-data/ai-search-commerce-benchmarks-2026|раздел Adobe генеративный чат-бот трафик]].
+
+**Главный вывод Спиридонова:** «значительная часть клиентского пути начинается с разговора с ботом». Это **RU-формулировка** того же decision-layer-сдвига: первый контакт перехватывает не поисковая выдача и не сайт, а **диалог с ботом**. Усиливает уже зафиксированные в вики тезисы Морейниса («маркетинг для агентов») и Кравченко (object-oriented retrieval) русскоязычным авторитетным голосом, удобным для referral в GRO-контенте на vc.ru/Habr.
+
+**Ambient AI как смежный вектор.** Спиридонов («Визионеры») добавляет рамку **ambient AI / «смерть смартфона»**: человечество ищет устройство на замену смартфону, чтобы контакт с ИИ стал «почти невидимой частью повседневности»; чем менее заметны технологии, тем глубже они проникают. Связь с зафиксированным в вики нарративом «Мёртвый интернет 2026» (обесценивание идеального ИИ-контента) — Спиридонов добавляет RU-экспертный голос к этой рамке. Для AEO/GEO это long-horizon-сигнал: если интерфейс к ИИ становится ambient (голос, носимые устройства), retrieval-присутствие важнее, чем когда-либо — визуальной SERP-выдачи может не быть вовсе.
+
 ## Связанные страницы
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] -- практические рекомендации по AI-оптимизации
 - [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]] -- Comscore platform-level замер (34,9% Google AI-обзоров конец 2025)
@@ -441,3 +455,4 @@ Pressfeed формулирует **3 кейса**, когда инвестици
 - [[volatile-strict/industry-news/ru-ai-law-march-2026]] -- legal context: закон РФ о регулировании ИИ
 - [[evolving-strict/market-data/ru-ai-trust-citation-2026]] -- 28% trust / 87% no-citation RU-сигнал
 - [[sources/2026-05-18-pressfeed-geo-illusion-stability-measure]] -- Pressfeed «GEO иллюзия позиций» (май 2026)
+- [[sources/2026-05-24-condense-vcru-chunk2]] -- Спиридонов RU-voice: чат-бот как точка старта пути + ambient AI

@@ -9,8 +9,9 @@ tags: [ai-displacement, labor-market, layoffs]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +RU-голос Гуринович (пост 919, 2026-05-18): «работать надо больше и продуктивнее, не меньше» = народный Jevons + бинарный sorting-test, RU-side подтверждение counter-anchor'а
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md]
+updated: 2026-05-24  # +ранний эмпирический трек (vc.ru/Спиридонов 2023): Accenture reskilling >550k + IgniteTech ~80% замена/EBITDA 75% + контр-интуитивный инсайт «сопротивлялись разработчики, не маркетологи» + ранний «человек + ИИ» предшественник sorting-test'а
+prev_updated: 2026-05-19  # +RU-голос Гуринович (пост 919, 2026-05-18): «работать надо больше и продуктивнее, не меньше» = народный Jevons + бинарный sorting-test, RU-side подтверждение counter-anchor'а
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md]
 namespace: mkt
 ---
 
@@ -400,8 +401,20 @@ Snap и Block добавляются к уже зафиксированным AI
 
 **Связь с макро-нарративом.** Тот же тезис про производительность через роботизацию/ИИ Гуринович берёт из growth-стороны интервью Новака (пост 917) — см. [[evolving-strict/market-data/ru-macro-snapshot-may-2026]] (раздел «Growth-сторона»). То есть на RU-уровне «AI → выше производительность → рост ВВП» подаётся как **официальный + предпринимательский консенсус**, а не маргинальный взгляд.
 
+## Ранний эмпирический трек: Accenture + IgniteTech (vc.ru, Спиридонов 2023)
+
+Из vc.ru-статьи Спиридонова «Как ИИ меняет рынок труда» ([[sources/2026-05-24-vcru-chunk4-condensed]], оригинал id79772_2317994, 2023) приходят **два ранних (2023) корпоративных кейса** AI-реорга — за два года до Snap/Block/Cloudflare-волны. Это **исторический контекст** к глобальному нарративу: паттерн «AI-трансформация штата» начался не в 2026:
+
+- **Accenture** объявила (2023) о планах увольнять сотрудников, которых невозможно переобучить под ИИ; при этом **>550 тыс. сотрудников прошли курсы по основам генеративного ИИ** `[conf:low, src:2023]`. То есть reskilling-first, увольнение — для непереобучаемого остатка.
+- **IgniteTech** (корпоративный софт) **заменила ~80% персонала за год**, ввела «**ИИ-понедельники**» (вся команда, включая продажи и маркетинг, занималась только ИИ-проектами), потратила **~20% ФОТ на обучение** `[conf:low, src:2023]`. Финансовый итог через 2 года: **EBITDA под 75%**, запуск нескольких востребованных продуктов, активная скупка конкурентов `[conf:low, src:2023]`.
+
+**Главный инсайт автора (контр-интуитивный, релевантен нашему ICP):** больше всех сопротивлялись внедрению ИИ **не продажники/маркетологи, а технари-разработчики** `[conf:low, src:2023]`. Причина — не только страх потери работы, но «**усталость от хайпа**» (метавселенные, блокчейн до этого). Это важная поправка к alarmist-нарративу «маркетологов заменят первыми»: на практике 2023 года сопротивление шло от тех, кого считали наименее уязвимыми.
+
+**Формулировка «человек + ИИ» (Спиридонов, 2023):** «искусственный интеллект не отнимет у вас работу, а вот человек, который грамотно его использует — может» `[conf:low, src:2023]`. Это **ранний (2023) предшественник** sorting-test'а fragmented-vs-modular (2026) того же автора — см. [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]]. Confidence `low` — retell 2023-статьи через condensed-файл, без первичной верификации цифр.
+
 ## Content-hooks для GRO
 - «29% россиян боятся AI-замены -- в 2024 было 9%. Три кратных за год.» (anxiety-hook, Сегмент 1)
+- **Новое (vc.ru/Спиридонов 2023):** «Кто сильнее всех сопротивлялся ИИ в 2023? Не маркетологи — разработчики. Устали от хайпа после метавселенных и блокчейна. Сопротивление приходит не оттуда, откуда ждёшь.» (контр-интуитивный hook про reskilling)
 - **Новое (Гуринович 2026-05-18):** «"С AI будем работать меньше"? Нет. Работать будем больше и продуктивнее — либо меньше, но за мелкий прайс. Так было с паровыми машинами, история циклична.» (RU-предпринимательский Jevons-hook; жёсткая дихотомия «расти или деградировать»)
 - «Snap сэкономил $500M на AI-автоматизации. Ваш работодатель может быть следующим.» (urgency)
 - Балансирующий: «54% HR-лидеров уже запустили AI-апскиллинг. Вопрос не "если", а "когда начнёте вы"»
@@ -424,6 +437,7 @@ Snap и Block добавляются к уже зафиксированным AI
 - [[sources/2026-05-05-tg-recruiter-live-apr-may-2026]] -- counter-anchor: РБК Pro 29.04.2026 «РФ компании судятся за AI-сделанную работу» (legal-side resistance, дополнение к уже существующим counter-anchor'ам)
 - [[evolving-strict/competitor-metrics/ai-leaders-valuations-2026-q2]] -- финансовый контекст Coinbase/Block + биткоин
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] -- глобальный нарратив гонки
+- [[sources/2026-05-24-vcru-chunk4-condensed]] -- ранний (2023) трек Accenture/IgniteTech + контр-интуитивный «сопротивлялись разработчики» инсайт (vc.ru/Спиридонов)
 - [[sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs]] -- первичный источник Snap-данных апреля 2026
 - [[sources/2026-05-05-vc-ru-condensed]] -- vc.ru condensed apr-may 2026 (Coinbase/Crypto.com/Block enrich)
 - [[sources/2026-05-05-tg-breakingtrends-apr21-may05]] -- Business Insider AI-журналист experiment, качественный сдвиг tool → digital employee

@@ -9,8 +9,8 @@ tags: [career, security, fraud, scam, awareness, content, social-engineering]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +Pattern 3 (классическая «pay-before-work» семья для entry-level remote) + позитивные сигналы легитимности из vc.ru/hr гео-листикла
-sources: [sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-19-vcru-hr-remote-work-kemerovo-city-seo-listicle.md]
+updated: 2026-05-24  # +корроборация Pattern 3 из vc.ru/hr condensed 30 (entry-level remote fraud-маркеры: предоплата/сверхдоходы/расплывчатые обязанности/срочность); prior: +Pattern 3 + позитивные сигналы легитимности
+sources: [sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-19-vcru-hr-remote-work-kemerovo-city-seo-listicle.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md]
 namespace: mkt
 ---
 
@@ -58,6 +58,8 @@ namespace: mkt
 5. **Оплата за процент от привлечённых людей** — маркер сетевого маркетинга, а не работы.
 
 **Чем отличается от Pattern 1/2:** базовая семья нацелена на **массовый low-skill сегмент** и работает на жадности/спешке; Apple-ID/Behance нацелены на **квалифицированных** (дизайнеры, IT) и работают на доверии к легитимному онбордингу. Для content GRO это важная сегментация: entry-level аудитории нужен «pay-before-work»-чеклист, квалифицированной — «не входи в чужой аккаунт».
+
+**Корроборация (vc.ru/hr condensed, 2026-05-24).** [[sources/2026-05-24-vcru-hr-condensed-30-articles|Второй независимый источник]] фиксирует ровно ту же entry-level fraud-семью для сегмента «удалёнщики/новички без опыта»: требование предоплаты, обещание сверхдоходов, расплывчатые обязанности, давление срочностью. Это **повышает уверенность** в Pattern 3 (раньше — один источник). Контекст: входные удалённые роли (оператор поддержки, модератор контента, набор текста, удалённый ассистент, SMM, копирайтер, специалист по маркетплейсам) — именно те, куда целятся «pay-before-work»-схемы; аудитория совпадает с entry-level [[canon/target-audience/gro-segments|Сегментом 3]].
 
 ## Позитивные сигналы легитимности (на что смотреть)
 
@@ -120,3 +122,5 @@ Pattern 1 и Pattern 2 — **конкретное наполнение этог�
 - [[evolving/content-trends/career-audience-hooks-2026]] — Hook 26 «4 red flags» для прямого использования в content
 - [[evolving/content-trends/local-seo-city-vacancy-content-farm-2026]] — жанр, где trust-блок используется как E-E-A-T-камуфляж (контекст происхождения чеклиста)
 - [[evolving/industry-trends/ru-job-seeker-experience-2026]] — общий narrative «как выглядит рынок труда изнутри соискателя»
+- [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — корроборация Pattern 3 (entry-level remote fraud) + список входных удалённых ролей
+- [[canon/target-audience/gro-segments]] — entry-level Сегмент 3 (целевая аудитория схемы)

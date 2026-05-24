@@ -9,8 +9,8 @@ tags: [partnerships, growth, b2b, content]
 confidence: high
 stale: false
 created: 2026-04-16
-updated: 2026-05-05  # +Corporate Pro-Competition partnership mechanic (hh.ru × X5 «Мастер в кубе») — 4-я механика
-sources: [sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-04-14-tg-tinkoffbank-10547-gac-tpremium-partnership.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md]
+updated: 2026-05-24  # +личная методология партнёрств Спиридонова (4 правила + channel-pivot Insight Estate Таиланд + Microsoft×OpenAI/Pfizer×BioNTech якоря); prior: +Corporate Pro-Competition mechanic (hh.ru × X5)
+sources: [sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-04-14-tg-tinkoffbank-10547-gac-tpremium-partnership.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-24-condense-vcru-chunk2.md]
 namespace: mkt
 ---
 
@@ -90,6 +90,32 @@ Base-кейс: **hh.ru × X5 «Пятёрочка», конкурс «Масте
 | **Multi-Merchant Superapp Backend** | 1 (category launch) | N (continuous) | UI-owner integrates whole category | API + list-entry |
 | **Corporate Pro-Competition Media Partnership** | 1 (event series) | 1 per cycle | B2B-сервис ↔ крупный enterprise-заказчик с competition-традицией | Media-trans + post-event content |
 
+## Личная методология партнёрств (Спиридонов) — channel-pivot как стратегия
+
+Помимо четырёх consumer/B2B-механик выше, [[sources/2026-05-24-condense-vcru-chunk2|Максим Спиридонов (condensed vc.ru/id79772)]] формулирует **personal-level методологию** поиска и закрытия партнёрств — operational-слой под количественной рамкой Яндекс+РБК.
+
+**Тезис.** В современном бизнесе партнёрства часто становятся «недостающим звеном», превращающим стагнирующий проект в растущий. Исторические якоря масштаба:
+
+- **Microsoft × OpenAI** — ИИ-сервисы стали самой быстрорастущей частью бизнеса Microsoft.
+- **Pfizer × BioNTech** — mRNA-вакцина за 9 месяцев вместо привычных 5–10 лет.
+
+**Личная система Спиридонова (4 правила):**
+
+1. **Всегда откликаться** на перспективные коллаборации.
+2. **«Сразу выкладывать карты на стол»** на встрече: ресурсы / цели / что можем дать — и просить о том же.
+3. **На ходу набрасывать архитектуры сотрудничества**, наблюдая реакцию партнёра.
+4. **«Куй железо, пока горячо»** — сразу создать чат, зафиксировать шаги и сроки, вернуться с документом.
+
+**Диагностический сигнал.** Скорость и дисциплина партнёра на ранних этапах = индикатор, стоит ли идти в коллаборацию. Это **дешёвый ранний фильтр** партнёрств (наблюдаемое поведение в первые дни предсказывает надёжность).
+
+### Кейс channel-pivot — Insight Estate (Таиланд)
+
+Самый ценный operational-кейс: **Insight Estate** (proptech-платформа Спиридонова) выстроил **партнёрскую программу** для продажи инвест-недвижимости в Таиланде. Вместо борьбы с перегретой конкуренцией в таргете (paid-канал) сделали ставку на **коллаборации со смежными компаниями**; «значительная часть продаж идёт через этот канал».
+
+Это **прямая иллюстрация** количественного тезиса страницы (партнёрства = мультипликатор vs paid): когда основной paid-канал перегрет и CAC растёт ([[evolving-strict/market-data/digital-ad-market-ru-2024-2026]]), партнёрский канал становится не дополнением, а **primary growth-двигателем**. Совпадает с продуктивным ходом «сменить ЦА/канал, а не оптимизировать перегретый» из [[canon/marketing-frameworks/productivity-vs-efficiency-mckinsey-spiridonov]].
+
+**Для GRO.** Channel-pivot-логика Insight Estate — готовый аргумент для GRO-стратегии: при перегретом performance-канале искать co-marketing со смежными вертикалями (fitness, wellness, productivity-tools) как primary, а не fallback. 4-правило-система — переносимый playbook для founder'ов GRO в переговорах о партнёрствах.
+
 ## Связанные страницы
 
 - [[sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny]] -- первоисточник
@@ -103,6 +129,8 @@ Base-кейс: **hh.ru × X5 «Пятёрочка», конкурс «Масте
 - [[sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback]] -- T-Bank «Город» → «Топливо» × N АЗС base-кейс (Multi-Merchant Backend)
 - [[evolving/industry-trends/tbank-corporate-platform-stack-2026]] -- контекст «Город» как consumer-superapp layer в T-Bank ecosystem
 - [[sources/2026-05-05-tg-hh-ru-official-apr-may-2026]] -- hh.ru × X5 «Мастер в кубе» base-кейс (Corporate Pro-Competition)
+- [[sources/2026-05-24-condense-vcru-chunk2]] -- личная методология партнёрств Спиридонова + channel-pivot Insight Estate
+- [[canon/marketing-frameworks/productivity-vs-efficiency-mckinsey-spiridonov]] -- channel-pivot как «продуктивный» ход (сменить канал, не оптимизировать перегретый)
 - [[evolving/competitor-positioning/hh-ru-hrtech-platform]] -- провайдер B2B-сервиса в 4-й механике
 - [[evolving/content-trends/hh-ru-sport-sponsorship-2026]] -- параллельный always-on канал brand-affiliation того же провайдера (sport-sponsorship)
 

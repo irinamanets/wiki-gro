@@ -9,10 +9,11 @@ tags: [pricing, positioning, segmentation, value-proposition]
 confidence: low
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-24  # +cross-link на lived-experience-over-promises (современная RU-иллюстрация механики «опыт > цена/обещание» из dp.ru-кейса новостроек)
 sources:
   - sources/2026-05-05-e-xecutive-ru-condensed.md
   - sources/2026-05-05-exec-tsennost-dlya-potrebitelya.md
+  - sources/2026-05-24-condense-dp-ru-chunk1.md
 namespace: mkt
 ---
 
@@ -61,12 +62,21 @@ namespace: mkt
 - **Hilton** — концепция стандартизированных номеров с предсказуемым набором услуг родилась из личного опыта владельца, остановившегося в плохом номере. Ценность = предсказуемость для путешествующего бизнесмена.
 - **British Airways NY-London** — вместо снижения цен ввели лежачие места, ванные, свежие газеты, завтрак, пижамы → выросла прибыль на маршруте на 25% (historic, conf:low). Ценность = качество отдыха в полёте, не дешевизна.
 
+## Современная RU-иллюстрация (dp.ru 2026)
+
+Тезис «ценность субъективна и проверяется потребителем» получил свежую RU-иллюстрацию в кейсе туризма и новостроек СПб: дестинации конкурируют не ценой, а **опытом** («выигрывает не цена, а опыт» — оператор «Островок»), а покупатели жилья доверяют **прожитому опыту** больше любых аргументов на этапе продажи. Это операционализировано в двух выросших из dp.ru-источника страницах:
+
+- [[canon/marketing-frameworks/lived-experience-over-promises-high-deliberation]] — почему **прожитый опыт > обещания** в high-deliberation покупке (механика проверки «совокупности качеств» из этой концепции на длинном горизонте владения).
+- [[canon/marketing-frameworks/destination-event-marketing-spb-2026]] — «опыт > цена» как рычаг дестинационного маркетинга + anti-pattern скидки-приманки, ломающей воспринимаемую ценность.
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/production-vs-market-pricing-pipeline]] — антипаттерн производственного ценообразования и правильный пайплайн
 - [[canon/target-audience/b2c-vs-b2b-value-segmentation]] — расширенная сегментация на основе этой концепции
 - [[canon/marketing-frameworks/defector-loyalty-crm-analysis]] — почему «снизить цену» не решает проблему оттока (потеря **полезности**, не цены)
 - [[canon/marketing-frameworks/marketing-as-communication-5th-p]] — communication как пятая P маркетинг-микса (продолжение классической value-логики)
+- [[canon/marketing-frameworks/lived-experience-over-promises-high-deliberation]] — проверка ценности прожитым опытом
+- [[sources/2026-05-24-condense-dp-ru-chunk1]] — источник современной иллюстрации
 
 ## Caveat
 

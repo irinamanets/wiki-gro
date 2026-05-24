@@ -9,8 +9,9 @@ tags: [content, dark-patterns, addiction, ux, regulation, dsa, attention-economy
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-23  # +cross-ref: Pattern 2 (variable reward) = «переменная награда» элемент Hook Model — те же механики ethics-нейтрально лежат в основе retention-дизайна
-sources: [sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-19-dzen-delovoymir-habit-product-hook-model.md]
+updated: 2026-05-24  # +quantitative-layer brain rot (vc.ru story_2742293): 47 сек удержание (vs 2.5 мин 2004), 58 проверок/день, 25 мин на возврат, «brain rot» слово года +230%, «текст >минуты = избыточное усилие», BRS-14 воронка-как-формат
+prev_updated: 2026-05-23  # +cross-ref: Pattern 2 (variable reward) = «переменная награда» элемент Hook Model — те же механики ethics-нейтрально лежат в основе retention-дизайна
+sources: [sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-19-dzen-delovoymir-habit-product-hook-model.md, sources/2026-05-24-vcru-chunk4-condensed.md]
 namespace: mkt
 ---
 
@@ -55,6 +56,21 @@ namespace: mkt
 **Механика:** stories с 24-часовым expiry, badge с «10 непрочитанных», push-нотификации создают **искусственную тревогу и чувство вины** за попытку отключиться.
 
 **Эмоциональный механизм:** страх что-то упустить превращается в **«социальный долг»**. Пользователь чувствует обязанность открыть приложение, как если бы он подвёл других.
+
+## Quantitative-layer: метрики сжатия внимания (brain rot, vc.ru 2026)
+
+К design-критике (UX-layer) и ЭЭГ-evidence (biological-layer) добавляется **количественный layer** из vc.ru-лонгрида «Как скроллинг влияет на мозг и что такое brain rot» ([[sources/2026-05-24-vcru-chunk4-condensed]], оригинал story_2742293, 2026). Это готовые цифры-якоря для awareness-контента:
+
+- Средняя продолжительность удержания внимания на одном экране упала с **2,5 минут** (2004, иссл. д-р Глории Марк, Калифорнийский ун-т) до **47 секунд** (текущие данные) `[conf:medium, src:2026-05-24]`
+- Среднестатистический человек проверяет смартфон **58 раз в день**; **53%** пользователей хотят сократить экранное время, но не могут `[conf:medium, src:2026-05-24]`
+- На возврат к прерванной задаче после переключения уходит **~25 минут** (по Глории Марк); до **89%** пользователей смартфонов испытывают «фантомные вибрации» `[conf:low, src:2026-05-24]`
+- «**brain rot**» — слово года (за него проголосовало 37 000 человек; употребление термина **+230% за год**); определяется как ухудшение умственного состояния из-за чрезмерного потребления контента без умственных усилий `[conf:medium, src:2026-05-24]`
+
+**Механика залипания (подтверждает Pattern 2).** TikTok/Reels работают по принципу «**переменного подкрепления**» (как игровые автоматы) — дофамин от ожидания контента, а не от самого контента; алгоритмическая персонализация делает ленту всё точнее с каждым взаимодействием. Это **независимое подтверждение** variable-reward Pattern 2 выше из второго источника `[conf:medium, src:2026-05-24]`.
+
+**Контент-импликация (прямой product-angle для GRO):** аудитория с задранным дофаминовым порогом воспринимает **текст длиннее минуты как «избыточное усилие»** → давление на формат коротких роликов `[conf:medium, src:2026-05-24]`. Это demand-side объяснение сжатия — детально в [[evolving/content-trends/fast-content-consumption-shift-2026]].
+
+**Воронка-как-формат (нативная product-led механика).** Сама vc.ru-статья встраивает CTA на валидированный тест (шкала **BRS-14**, 14 вопросов, 3 минуты, бесплатно) с переходом к ИИ-психологу «Аура» — пример **нативной product-led воронки внутри лонгрида** `[conf:medium, src:2026-05-24]`. Это переносимый паттерн для GRO: лонгрид про боль → встроенный бесплатный self-test → продукт. Совпадает с [[evolving/content-trends/self-diagnosing-prompt-lead-magnet-2026|self-diagnosing lead-magnet]].
 
 ## Главный итог исследовательской позиции
 
@@ -127,6 +143,8 @@ EU DSA и LA jury verdict — это **долгосрочный shift** регу
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — RU контекст регуляторных давлений
 - [[canon/marketing-frameworks/hook-model-habit-loop]] — те же механики (триггеры, переменная награда, инвестиция) ethics-нейтрально как retention-дизайн
 - [[sources/2026-05-19-dzen-delovoymir-habit-product-hook-model]] — Hook Model как retention-фреймворк (Деловой мир / Дзен)
+- [[sources/2026-05-24-vcru-chunk4-condensed]] — quantitative-layer brain rot (47 сек, 58 проверок/день, слово года +230%, BRS-14 воронка)
+- [[evolving/content-trends/self-diagnosing-prompt-lead-magnet-2026]] — BRS-14 как нативная product-led воронка внутри лонгрида
 
 ## Backlinks
 

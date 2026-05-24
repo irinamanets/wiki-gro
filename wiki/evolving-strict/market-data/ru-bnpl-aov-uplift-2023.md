@@ -9,8 +9,8 @@ tags: [bnpl, market-data, retail, e-commerce, payments, aov, doly, tinkoff, t-ba
 confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-15
-sources: [sources/2026-05-14-condense-web-vc-ru-tbank-27.md]
+updated: 2026-05-24  # +forward-link на follow-up business-turnover study 2024 (×3 оборота, кейс Mollis) из chunk6 condensed
+sources: [sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md]
 namespace: mkt
 ---
 
@@ -72,6 +72,8 @@ BNPL-механика добавляет в чек **~1 500 ₽** среднег
 
 К 2026 году Долями стал **5-м sub-brand** в T-Bank group с distinct lavender-palette (см. [[evolving/competitor-positioning/tbank-doli-bnpl-sub-brand-palette-lavender]]) — это **визуальная капитализация BNPL-успеха 2023**. Метрики 2023 года + операционный track-record на 2 года → инвестиция в отдельную brand-identity была обоснована.
 
+**Follow-up (2024):** AOV-эффект 2023 (+26% на чеке) развёрнут Т-Банком в **бизнес-уровневый turnover-эффект** — бизнес с рассрочкой в среднем ×3 оборота (медуслуги ×5, образование ×4), кейс Mollis +53% средний чек. Детали — [[evolving-strict/market-data/ru-bnpl-business-turnover-effect-2024]]. [conf:low, src:2026-05-24]
+
 ## Применение для GRO
 
 1. **«Подписка в рассрочку» как conversion-lever.** Если GRO добавит pay-later для годовой подписки (12 × месячный платёж становится 4 × квартальный платёж), AOV-логика +26% переносится: пользователь, который не покупает annual из-за **psychological barrier**, конвертируется на pay-later структуре. `[conf:high, src:2023-01-01]`
@@ -95,5 +97,7 @@ TTL: 180 дней (`evolving-strict` default), но первая re-verification
 - [[evolving/competitor-positioning/tbank-doli-bnpl-partner-album-format]] — BNPL partner-album формат
 - [[evolving-strict/market-data/ru-payment-conversion-2022]] — параллельная payment-метрика
 - [[evolving/industry-trends/tbank-corporate-platform-stack-2026]] — современный T-Bank контекст
+- [[evolving-strict/market-data/ru-bnpl-business-turnover-effect-2024]] — follow-up: BNPL-эффект на обороты бизнеса (×3) + кейс Mollis
+- [[evolving-strict/market-data/ru-consumer-services-research-pr-2024-2025]] — рассрочка на доп.образование (родители)
 - [[sources/2026-05-14-condense-web-vc-ru-tbank-27]] — источник
 - [[sources/2026-05-14-web-vc-ru-tbank-2066920]] — детальный stub Рив Гош кейса

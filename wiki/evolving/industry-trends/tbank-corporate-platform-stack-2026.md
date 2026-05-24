@@ -9,8 +9,8 @@ tags: [tbank, corporate-messenger, ai, marketplace, fintech, industry-trends]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +май-батч @tinkoffbank 10694-10718: «Город»→«Отправка посылок» (logistics merchant-категория, multi-courier aggregation), Т-Мобайл telecom-vertical (390₽/50ГБ + MNP-retention), «Кэшбэк месяца» recurring loyalty-формат, «Вклад в поколение» CSR-грант учителям (Т-Образование adjacency)
-sources: [sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md]
+updated: 2026-05-24  # +chunk6 condensed: «Дофамин-банкинг»/«Навигатор»/Co-Pilot/Gen-T (app 7.0) развёрнут + ссылка на отдельную positioning-страницу; +research-as-PR и офлайн-события как awareness-каналы; prior: май-батч @tinkoffbank 10694-10718 (Город→Отправка посылок, Т-Мобайл, Кэшбэк месяца, Вклад в поколение)
+sources: [sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md]
 namespace: mkt
 ---
 
@@ -142,9 +142,15 @@ Telecom (как и edtech, travel) — **non-financial vertical**, продви�
 
 ## Дофамин-банкинг и AI-UX
 
-Т-Банк обсуждает концепцию «дофамин-банкинга»: вездесущий AI и новый пользовательский опыт. Параллельно — мысли о генеративном AI, культуре инноваций и грядущих этических вызовах AI.
+Т-Банк строит концепцию **«Дофамин-банкинг»** (app 7.0, 2025): приложение позиционируется как «приложение для жизни, а не просто банк», с положительными эмоциями как осью взаимодействия. Параллельная роль — **«Навигатор в финансах» / Co-Pilot**: банк помогает принимать решения о тратах ещё на этапе намерения, а не просто обслуживает операции. Реализация — «Сферы» (Шопинг, Дом, Авто, Путешествия) + первая в РФ банковская соцсеть (на базе «Пульса») для всех **46 млн клиентов** `[conf:medium, src:2025-01-01]`. AI-слой — собственные модели Gen-T и «Вселенная ассистентов» под конкретные сферы трат, явно противопоставленные универсальным моделям (ChatGPT).
 
-Это thought leadership без конкретных метрик, но сигнал: крупнейший digital-банк РФ публично строит AI-native нарратив. Для контент-стратегии GRO — пример того, как корпорация транслирует AI-повестку через блог на vc.ru.
+Полный разбор позиционного нарратива (включая анти-сигнал over-monetization из отзывов аудитории) — в [[evolving/competitor-positioning/tbank-dofamin-banking-navigator-2025]]. Для контент-стратегии GRO — пример category-escape positioning («не банк, а X для жизни») и того, как корпорация транслирует AI-повестку через блог на vc.ru.
+
+## Research-as-PR и офлайн-события как awareness-каналы
+
+Помимо продуктового стека, Т-Банк системно ведёт два внепродуктовых awareness-канала:
+- **Research-as-PR** — серийные исследования на обезличенных транзакционных данных + ИИ-прогноз ETNA (чаевые, цветы, e-grocery, подписки, рассрочки) → виральные инфоповоды. Формат — [[evolving/content-trends/research-as-pr-transactional-data-format]]; данные — [[evolving-strict/market-data/ru-consumer-services-research-pr-2024-2025]] и [[evolving-strict/market-data/ru-bnpl-business-turnover-effect-2024]].
+- **Офлайн бренд-события** — ИТ-Пикник (~40 тыс/день), Т-Двор (>30 тыс/3 дня), Turbo ML Conf, Tinkoff Glory; reach-бенчмарки — [[evolving-strict/campaign-metrics/ru-offline-brand-event-reach-benchmarks-2026]].
 
 ## Значение для GRO
 
@@ -166,6 +172,11 @@ Telecom (как и edtech, travel) — **non-financial vertical**, продви�
 - [[sources/2026-05-14-condense-web-vc-ru-tbank-27]] — condensed-источник 27 статей
 
 ### Current ecosystem context
+- [[evolving/competitor-positioning/tbank-dofamin-banking-navigator-2025]] — позиционный нарратив app 7.0 (Дофамин-банкинг / Навигатор / Co-Pilot / Gen-T)
+- [[evolving/content-trends/research-as-pr-transactional-data-format]] — research-as-PR awareness-канал
+- [[evolving-strict/market-data/ru-consumer-services-research-pr-2024-2025]] — research-PR данные (подписки/чаевые/e-grocery/доп.образование/цветы)
+- [[evolving-strict/market-data/ru-bnpl-business-turnover-effect-2024]] — BNPL-эффект на обороты (×3)
+- [[evolving-strict/campaign-metrics/ru-offline-brand-event-reach-benchmarks-2026]] — reach-бенчмарки офлайн-событий
 - [[evolving-strict/market-data/ru-ecommerce-platformization-reshetnikov-2026]]
 - [[evolving/industry-trends/ai-generated-creatives-in-advertising]]
 - [[canon/target-audience/gro-segments]]

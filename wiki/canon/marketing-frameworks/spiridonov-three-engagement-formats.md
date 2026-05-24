@@ -9,8 +9,8 @@ tags: [frameworks, mentor-economy, positioning, competitor-reference, ru-smb]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-15  # +promo-форматы из 2026-05-14 дампа: «Время сильных 2026» (бизнес-клуб «Атланты», 14 мая, 8 спикеров), еженедельные разборы бизнесов «Метод 2.0» с Варварой Львовой (вторник 13:00 мск), адрес ЦА «бизнес ≥50M ₽ выручки/год»
-sources: [sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-14-tg-mspiridonov-may-2026.md]
+updated: 2026-05-24  # +май-2026 content-cluster (vc.ru/id79772): прагматический романтизм, 8 барьеров+resilience-хук, директор по маркетингу личного бренда, вдохновение>инструкция, диагностика-перед-действием; +кросс-линки на содержательное ядро «Метода» (5 компонентов, фреймворк доверия) + вебинар «о Методе» 16 окт / открытый эфир 30 окт (funnel-entry); prior: +promo-форматы «Время сильных 2026», Метод 2.0 разборы, ЦА ≥50M ₽
+sources: [sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed.md]
 namespace: mkt
 ---
 
@@ -115,6 +115,9 @@ namespace: mkt
 - [[canon/marketing-frameworks/signal-noise-essentialism-spiridonov]] — серия Спиридонова #1: signal/noise / эссенциализм (productivity-dimension). Free-content уровень того же fundamental message «дисциплина бьёт интеллект».
 - [[canon/marketing-frameworks/housel-psychology-of-money-spiridonov]] — серия Спиридонова #4: psychology of money / Хаузел (money-dimension). Free-content уровень.
 - [[canon/marketing-frameworks/godin-dip-vs-deadend-spiridonov]] — серия Спиридонова #5/5 final: яма vs тупик / Годин (persistence-dimension). Закрывает 5-серийный cluster of frameworks.
+- [[canon/marketing-frameworks/productivity-vs-efficiency-mckinsey-spiridonov]] — Спиридонов: продуктивность ≠ эффективность (McKinsey Stragglers vs Standouts).
+- [[canon/marketing-frameworks/ai-implementation-5-steps-spiridonov]] — Спиридонов: 5 шагов внедрения ИИ (кейс Insight Estate).
+- [[sources/2026-05-24-condense-vcru-chunk2]] — май-2026 content-cluster (прагматический романтизм, 8 барьеров, директор по маркетингу личного бренда, own-platform).
 
 ## Серия Спиридонова #1–#5 — content-tier ниже tiered-форматов
 
@@ -170,6 +173,51 @@ namespace: mkt
 3. → выбор: публичный разбор или персональный созвон
 
 Это **готовый exemplar для GRO** как **native-author-promo на сегмент founder-CEO с выручкой ≥50M ₽** — но GRO сегментирует на более раннюю стадию (см. секцию «Для GRO-сегментации» выше). Pattern можно адаптировать на GRO-ЦА с понижением revenue-threshold (например, ≥3M ₽/год для нашей founder-аудитории).
+
+## May 2026 — расширение content-cluster Спиридонова (vc.ru/id79772)
+
+[[sources/2026-05-24-condense-vcru-chunk2|Condensed vc.ru/id79772]] (май 2026) добавляет к free content-tier Спиридонова несколько новых **operational-нарративов и хуков** для founder-аудитории. Все — продолжение «прагматический романтизм / диагностика-first» core message.
+
+### Прагматический романтизм — мотивация через смыслы
+
+Концепция (разрабатывается несколько лет): **деньги — не самый надёжный мотиватор**; команды выгорают, лучшие уходят, собственник теряет драйв. Задача — «превратить романтику в практический инструмент, а не в декорацию для корпоративного сайта»: системно работать со смыслами от выбора рынка и инструментов найма до роста производительности. Подаётся как 13-минутное howto-видео; прогноз автора — подход станет «не роскошью, а необходимостью».
+
+Это **тот же «бизнес — отражение того, кто им управляет»**-нарратив (см. «Метод 2.0» выше), артикулированный как motivation-фреймворк. Связь с [[canon/marketing-frameworks/employee-intrinsic-demotivation-6-factors|внутренней демотивацией]] и [[canon/marketing-frameworks/employee-data-compliance-3-lenses|3-линзами комплаенса]] (линза «польза» = смысл для исполнителя).
+
+### 8 внутренних барьеров начинающих предпринимателей + resilience-хук
+
+Тезис: новички жалуются на внешнее (капитал, конкуренция, занятые ниши), но **«корень проблем почти всегда в голове основателя»** — 8 барьеров разобраны в видео. Это прямое продолжение тезиса «95-98% приходят в бизнес по залёту» из «Метод 2.0».
+
+**Reusable resilience-хук:** «**моя Нетология пережила три клинические смерти, прежде чем стать устойчивым бизнесом**». Мощный credibility + resilience-якорь для founder-контента (failure-as-path нарратив).
+
+### Директор по маркетингу личного бренда — определение роли
+
+Спиридонов формулирует, кого искать продюсеру личного бренда: **не классический маркетолог**, который «постит контент и смотрит охваты», а **стратег / управленец / практик** — видит большую картину, руководит командой и бюджетами, превращает планы в результаты. Измеримая цель: довести подписчиков с «пары сотен тысяч» до миллионов; требуется опыт продюсирования личных брендов и портфолио кейсов. Усиливает personal-brand-кластер вики ([[canon/marketing-frameworks/personal-brand-7-steps-magas]], [[canon/marketing-frameworks/personal-brand-channels-5-types-magas]]).
+
+### Вдохновение > инструкция + own-platform play
+
+- **Leadership-рамка** (цитата Сент-Экзюпери): «не надо созывать людей и делить работу — надо заразить стремлением к бесконечному морю, тогда они сами построят корабль». Сэм Альтман (How to be successful): «сделать сложный стартап проще, чем лёгкий — люди хотят быть частью чего-то вдохновляющего». Связь с [[canon/marketing-frameworks/huang-narrative-preheating-leadership|narrative-preheating leadership]].
+- **Own-platform playbook:** спринт «**Deadly Vipers**» — за 3 месяца построить свою блог-площадку, «независимую от блокировок», «не арендуем угол у алгоритмов». Усиливает own-channel / media-capital кластер вики ([[evolving/content-trends/media-capital-as-clone-defense-2026]], [[canon/marketing-frameworks/seissembai-algorithm-ratchet-vicious-circle|алгоритм-ratchet vicious circle]]). Прямой довод против platform-dependence для founder-бренда.
+
+### Диагностика перед действием — управленческая рамка «тушить пожар» (vc.ru/hr, не Спиридонов)
+
+Из той же condensed-группы (автор vc.ru/hr, 20 лет на руководящих позициях): менеджеры бегут решать проблему, не спросив «что случилось»; аналогия — плеснуть воду в горящее масло = фейерверк и травмпункт. **Протокол:** сначала экспресс-оценка и поиск причин (2–3 диалога, несколько минут), затем вопрос «запланированные действия реально потушат пожар или это первое, что пришло в голову?». Reusable hook: «не разобравшись, что горит — дерево, бензин или масло — мы тушим тем, что под руку попалось». Это **то же диагностика-first ядро**, что и «Метод 2.0», но на управленческом, а не бизнес-стратегическом уровне.
+
+## Содержательное ядро «Метода» (vc.ru chunk3, 2026-05-24)
+
+Эта страница описывает **коммерческую упаковку** (tiered-форматы, «Метод 2.0», promo-funnel). Содержательная методология, которую упаковка продаёт, разобрана в отдельных страницах из [[sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed|vc.ru chunk3]]:
+
+- [[canon/marketing-frameworks/metod-spiridonova-5-components]] — 5 базовых компонентов «Метода» (сёрфинг по трендам, win-win, итеративность, марафонец, двойная цель + найм)
+- [[canon/marketing-frameworks/pragmatic-romanticism-positioning]] — компонент №1 «прагматический романтизм» развёрнут как signature-позиционирование (+ social proof Хоровица/Рида, фреймворк найма, фандрейзинг)
+- [[canon/marketing-frameworks/spiridonov-trust-4-stages-framework]] — механика win-win-найма: 4 стадии доверия + «доверие — экономическая категория»
+- [[canon/marketing-frameworks/amoeba-management-inamori]] — оргмодель, разбираемая на программе
+- [[canon/marketing-frameworks/universe-25-corporate-comfort-hook]] — content-hook «без смысла нет движения» (мотивационная рамка «Метода»)
+
+**Funnel-карта (полная).** Free content-tier (5 YouTube-frameworks, см. таблицу выше) + content-методология (5 компонентов «Метода») → free promo-events (вебинары, «Время сильных», еженедельные разборы) → tiered paid-форматы (консультация → сессия → ментор) + community ([[evolving/competitor-positioning/reforma-business-club-spiridonov|Reforma]]).
+
+### Дополнительный promo-entry-point — вебинар «о Методе»
+
+Зафиксирован анонс ещё одного funnel-entry: **вебинар «о Методе» 16 октября 15:00 МСК + открытый эфир 30 октября** `[conf:medium, src:2026-05-24]`. Это тот же awareness→consideration паттерн, что «Время сильных» — серия бесплатных эфиров, ведущих к платным форматам.
 
 ## Contradictions
 

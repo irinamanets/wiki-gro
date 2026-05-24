@@ -9,8 +9,8 @@ tags: [robotics, ai, market-trends, unit-economics, automation]
 confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-15
-sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md]
+updated: 2026-05-24  # +Спиридонов vc.ru chunk3 «Битва роботов»: Morgan Stanley прогноз индустрии гуманоидов ≥$5 трлн к 2050 (industry-size якорь рядом с population-якорем ~1 млрд units); +гос-финансирование Пекина $20B + фонд $137B
+sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed.md]
 namespace: mkt
 ---
 
@@ -69,6 +69,22 @@ namespace: mkt
 
 Morgan Stanley считает, что реальное ускорение **начнётся в конце 2030-х**, когда подтянутся технологии, регуляторика и общественное согласие.
 
+## Прогноз размера индустрии и гос-финансирование (Спиридонов «Битва роботов», 2026-05-24)
+
+[[sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed|Спиридонов (vc.ru chunk3)]] добавляет **industry-size** якорь рядом с population-якорем (~1 млрд units) и числа государственного финансирования. Это второй независимый пересказ Morgan Stanley в вики (первый — population-прогноз через пост 4386), что повышает доверие к Morgan Stanley-линии.
+
+| Параметр | Значение | Source |
+|---|---|---|
+| Прогноз Morgan Stanley: размер индустрии гуманоидов к 2050 | **≥$5 трлн** | `[conf:medium, src:2026-05-24]` |
+| Пекин выделил за год на робототехнику | **$20 млрд** | `[conf:medium, src:2026-05-24]` |
+| Отдельный фонд Пекина для стартапов индустрии | **$137 млрд** | `[conf:medium, src:2026-05-24]` |
+| Цель Китая | мировое лидерство к **2027** | `[conf:medium, src:2026-05-24]` |
+| Китайский контроль цепочки поставок для роботов | до **90%** | `[conf:medium, src:2026-05-24]` |
+
+**Reconcile с population-прогнозом.** Population-якорь (~1 млрд units к 2050 `[conf:high, src:2026-05-07]`) и industry-size якорь (≥$5 трлн к 2050 `[conf:medium, src:2026-05-24]`) согласованы: при $5K средней себестоимости к 2050 (экстраполяция тренда −40%/2 года от $16K-минимума 2026) 1 млрд units ≈ $5 трлн capex-базы. Оба — из Morgan Stanley, разные срезы. `confidence: medium` для chunk3-чисел (вторичный single-source пересказ); population-числа остаются `high` (агрегация McKinsey/Bain/Morgan Stanley).
+
+**Caveat по гос-финансированию.** $20B + $137B `[conf:medium, src:2026-05-24]` — со слов автора, для публикации сверять с первоисточником (китайские гос-программы робототехники). Структурный контекст (почему Китай — production-hub) — на [[evolving/industry-trends/china-ai-manufacturing-momentum-2026#сигнал-6-гонка-гуманоидов-как-геополитический-фронт-спиридонов-битва-роботов-2026-05-24]].
+
 ## Bottleneck-условие
 
 | Параметр | Значение | Source |
@@ -119,6 +135,7 @@ Morgan Stanley считает, что реальное ускорение **на
 ## Cross-links
 
 - [[sources/2026-05-14-tg-mspiridonov-may-2026]] — первичный источник (пост 4386, агрегация McKinsey/Bain/Morgan Stanley)
+- [[sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed]] — Спиридонов «Битва роботов»: industry-size прогноз Morgan Stanley, гос-финансирование Пекина, контроль цепочки поставок
 - [[evolving/industry-trends/china-ai-manufacturing-momentum-2026]] — Китай как production hub humanoid'ов
 - [[evolving-strict/market-data/glp1-vs-ai-consumer-biotech-2025]] — параллельная market-категория, противоположный тренд unit economics
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — макро-нарратив, частью которого является humanoid wave

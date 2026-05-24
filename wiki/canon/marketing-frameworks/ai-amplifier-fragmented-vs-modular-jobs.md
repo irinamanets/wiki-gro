@@ -9,8 +9,9 @@ tags: [ai, positioning, career, counter-narrative, hooks, awareness]
 confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-19  # +cross-attribution Колганов (sources/2026-05-19-tg-psilonsk-may-2026-week3 пост 5568) — operational-механика «как именно amplify»: декомпозировать задачу до делегирования ИИ. Confidence остаётся high
-sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-psilonsk-may-2026-week3.md]
+updated: 2026-05-24  # +ранний (2023) предшественник «человек + ИИ» того же автора (vc.ru id79772_2317994) — 2-летний эмпирический трек фрейма (2023→2026). Confidence остаётся high
+prev_updated: 2026-05-19  # +cross-attribution Колганов (sources/2026-05-19-tg-psilonsk-may-2026-week3 пост 5568) — operational-механика «как именно amplify»: декомпозировать задачу до делегирования ИИ
+sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-psilonsk-may-2026-week3.md, sources/2026-05-24-vcru-chunk4-condensed.md]
 namespace: mkt
 ---
 
@@ -96,6 +97,16 @@ Founder работает максимально fragmented job: стратеги
 
 Это и есть **механика fragmented-amplify на уровне одной задачи**: профи сам декомпозирует разнородную работу на модульные под-задачи, отдаёт ИИ только модульную часть (которую ИИ и так замещает лучше) и оставляет себе сборку, контекст и проверку — ровно те 2/3 работы рентгенолога, которые ИИ не берёт. Это второй (после Yakuba для sales) operational-голос, подтверждающий, что **amplify не автоматичен** — он требует управленческого навыка декомпозиции. Контр-точка: без декомпозиции даже fragmented-работник получает «дерьмо на выходе», то есть amplify деградирует в provider мусора.
 
+## Ранний (2023) предшественник тезиса — «человек + ИИ» того же автора
+
+Тот же фрейм у Спиридонова имеет **2-летний эмпирический трек**: ещё в 2023 в vc.ru-статье «Как ИИ меняет рынок труда» ([[sources/2026-05-24-vcru-chunk4-condensed]], оригинал id79772_2317994, 2023) он формулировал предшественник sorting-test'а:
+
+> «Искусственный интеллект не отнимет у вас работу, а вот человек, который грамотно его использует — может.» — Спиридонов, 2023 `[conf:low, src:2023]`
+
+Это **«человек + ИИ» вместо «ИИ вместо человека»** — ранняя (loose) версия того, что в 2026 кристаллизовалось в двух-критериальный sorting-test (fragmented = amplify). Один и тот же автор удерживает тезис 3 года (2023 → 2026), что усиливает его как **устойчивый авторский фрейм**, а не разовое мнение под текущую новость. Confidence `low` для самой цитаты (retell 2023-статьи через condensed-файл); фрейм в целом остаётся `high` (multi-source, 2026).
+
+Корпоративный контекст той же 2023-статьи (Accenture reskilling >550 тыс., IgniteTech ~80% замена + «ИИ-понедельники», и контр-интуитивный инсайт «сопротивлялись разработчики, не маркетологи») разобран на [[evolving/industry-trends/ai-replacing-jobs-global-2026|глобальной странице AI-замещения]].
+
 ## Связь со смежными фреймворками
 
 - [[canon/marketing-frameworks/jevons-paradox-ai-positioning]] — fundamental экономический закон, который объясняет, почему fragmented jobs не вытесняются (третий verified-голос на тему)
@@ -115,6 +126,7 @@ Founder работает максимально fragmented job: стратеги
 
 - [[sources/2026-05-14-tg-mspiridonov-may-2026]] — первичный источник (пост 4396)
 - [[sources/2026-05-19-tg-psilonsk-may-2026-week3]] — operational-механика amplify (Колганов, пост 5568)
+- [[sources/2026-05-24-vcru-chunk4-condensed]] — ранний (2023) предшественник «человек + ИИ» (vc.ru id79772_2317994)
 - [[canon/marketing-frameworks/jevons-paradox-ai-positioning]] — fundamental закон, который этот фрейм инстанцирует
 - [[canon/marketing-frameworks/rewrite-task-tool-matching-2026]] — подбор инструмента под задачу (соседняя operational-рамка)
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — глобальный нарратив, к которому фрейм — counter-anchor

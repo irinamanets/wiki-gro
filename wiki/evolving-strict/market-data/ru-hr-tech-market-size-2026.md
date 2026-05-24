@@ -10,9 +10,9 @@ confidence: medium
 stale: false
 created: 2026-04-16
 updated: 2026-05-05  # +vc.ru condensed 46 articles enrichment (2026-05-05): первая половина 2025 объём, ROI HRM, точность NLP-скрининга
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md]
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md]
 namespace: mkt
-updated: 2026-05-14  # +ATS churn 31%, AI-агент заменяет «процессный HR», personal branding 46% IT
+updated: 2026-05-24  # +4-й батч vc.ru/hr (2026-05-19): 40,6 млрд +12% H1-2025 (триангуляция), adoption-breakdown 44–49% (обучение/рекрутинг/порталы), только 5% «полноценно», глобально 87% / $1,12 млрд к 2030, Gartner 76%
 ---
 
 # HR Tech рынок РФ 2026
@@ -94,6 +94,43 @@ Caveat: эти цифры — заявления вендоров, не неза
 
 Подробнее об IT-рынке: [[evolving-strict/market-data/ru-it-labor-market-salaries-2026]].
 
+## Триангуляция объёма и adoption (4-й батч vc.ru/hr, 2026-05-19)
+
+Из [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — повторное независимое (со ссылками на агентства) подтверждение и новые точки. Сторонние цифры — `conf:medium`; vendor/адверториал-производные — `conf:low`.
+
+### Объём (триангуляция)
+
+- Рынок HR Tech РФ: **свыше 40 млрд ₽** в 2026, ежегодный рост **15–20%** (РБК Тренды) `[conf:medium, src:2026-05-19]` — совпадает с верхним блоком «Объём и рост».
+- Альтернативная оценка: **40,6 млрд ₽ (+12% за H1 2025)** `[conf:medium, src:2026-05-19]` — третье независимое подтверждение цифры 40,6 млрд (после enrich 2026-05-05), повышает уверенность в этом якоре.
+- Рекрутинг ≈ **51% всего рынка HR Tech** (по адверториалам Garmony) `[conf:low, src:2026-05-19]` — vendor-нарратив, не независимый.
+
+### AI-adoption breakdown (новые срезы)
+
+| Метрика | Значение | Источник | Conf | Source |
+|---|---|---|---|---|
+| Компании, планирующие усиление автоматизации HR | 72,8% | ВШЭ + hh.ru + Ancor | medium | `[conf:medium, src:2026-05-19]` |
+| Внедряют AI в подбор | 67% | Neo | medium | `[conf:medium, src:2026-05-19]` |
+| Работают в таблицах без автоматизации | 42% | Neo | medium | `[conf:medium, src:2026-05-19]` |
+| Уже используют AI в HR (всего) | 44–49% | Клерк.ру, Huntflow, 2025 | medium | `[conf:medium, src:2026-05-19]` |
+| — из них в обучении | 26% | Клерк.ру, Huntflow | medium | `[conf:medium, src:2026-05-19]` |
+| — из них в рекрутинге | 24% | Клерк.ру, Huntflow | medium | `[conf:medium, src:2026-05-19]` |
+| — из них в HR-порталах | 19% | Клерк.ру, Huntflow | medium | `[conf:medium, src:2026-05-19]` |
+| Планируют внедрить (ещё) | 28% | Клерк.ру, Huntflow | medium | `[conf:medium, src:2026-05-19]` |
+| Используют AI **полноценно** | только 5% | РБК Тренды, 2026 | medium | `[conf:medium, src:2026-05-19]` |
+
+**Ключевой gap-сигнал:** 44–49% «используют», но только **5% полноценно** `[conf:medium, src:2026-05-19]` — это разрыв adoption-vs-utilization. Перекликается с pain-точкой из [[canon/target-audience/gro-segments|«ChatGPT лежит мёртвым грузом»]]: подписка ≠ польза без архитектурного/процессного слоя. Это структурный аргумент для позиционирования любого AI-продукта (включая GRO) через «не доступ к AI, а система его применения».
+
+### Глобальный контекст (новое)
+
+- **87% компаний** в мире применяют AI в рекрутинге (DemandSage, 2025) `[conf:medium, src:2026-05-19]`.
+- Рынок AI-рекрутинга достигнет **$1,12 млрд к 2030** при росте **6,78%/год** (DemandSage) `[conf:medium, src:2026-05-19]`.
+- **93% рекрутеров** планируют наращивать использование ИИ в 2026 `[conf:medium, src:2026-05-19]`.
+- **76% HR-руководителей** убеждены: без ИИ компании отстанут (Gartner) `[conf:medium, src:2026-05-19]`.
+
+### Скорость first-response как конверсионный рычаг (vendor, conf:low)
+
+- Снижение time-to-first-response **с 72 до 2 часов** повышает конверсию в нанятого **на 35–40%** `[conf:low, src:2026-05-19]` — vendor-claim Garmony, но правдоподобный directional-сигнал (скорость ответа = конверсия). Применимо как **аналогия для маркетинговой воронки**: скорость первого касания лида.
+
 ## Caveat
 Значительная часть метрик sourced из Garmony AI advertorial-серии и параллельных вторичных HR-tech advertorial. Цифры по adoption (67%, 78%, 72,8%) и ROI (500–1500%) могут отражать cherry-picked исследования. Cross-reference с независимыми источниками (HH Group годовой отчёт, Skillaz research) необходим для повышения confidence до high. [conf:low, src:2026-05-05]
 
@@ -107,6 +144,9 @@ Caveat: эти цифры — заявления вендоров, не неза
 - [[sources/2026-05-05-vc-ru-condensed]] — vc.ru condensed (46 articles)
 - [[evolving-strict/market-data/ru-it-labor-market-salaries-2026]] — IT-зарплаты 2026 (новая)
 - [[sources/2026-05-14-vcru-hr-condensed-48-articles]] — третий батч vc.ru/hr
+- [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — четвёртый батч vc.ru/hr (триангуляция + adoption breakdown)
+- [[evolving-strict/market-data/ru-labor-market-deficit-by-sector-2026]] — sector-дефицит труда (спрос-сторона рынка)
+- [[evolving/industry-trends/ai-recruiting-humanity-countertrend-2026]] — контртренд человечности (обратная сторона adoption)
 
 ## Backlinks
 

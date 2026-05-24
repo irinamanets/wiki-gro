@@ -9,8 +9,9 @@ tags: [content-trends, community, club, telegram, ru, infographic, engagement, d
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md]
+updated: 2026-05-24  # +смежный author-channel вариант «топ публикаций месяца» (Спиридонов, vc.ru id79772_2321090, 2023): сериализованный месячный дайджест как retention + охватные темы-референсы для контент-плана
+prev_updated: 2026-05-19
+sources: [sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md, sources/2026-05-24-vcru-chunk4-condensed.md]
 namespace: mkt
 ---
 
@@ -81,6 +82,25 @@ GRO как self-serve продукт (без membership-community пока) мо
 
 **Hook для блога/TG:** «Как membership-клубы доказывают, что они живые: разбор recap-формата „Атлантов“» — ready theme про community-маркетинг.
 
+## Смежный вариант — author-channel «топ публикаций месяца» (Спиридонов)
+
+Тот же класс «ежемесячный recurring digest как retention-механика», но в **author-channel**-регистре (не membership-community). Из vc.ru ([[sources/2026-05-24-vcru-chunk4-condensed]], оригинал id79772_2321090, 2023): Спиридонов ведёт регулярную рубрику **«топ самых заметных публикаций месяца»** (обычно 7–10 текстов, в урожайные месяцы — до 15) `[conf:low, src:2023]`.
+
+**Чем отличается от community-recap'а Атлантов:**
+
+| Параметр | Community-recap (Атланты) | Author-digest (Спиридонов) |
+|---|---|---|
+| Что агрегирует | engagement-метрики клуба | собственные публикации автора |
+| Proof-of | vitality сообщества | продуктивность/охват автора |
+| Retention-механизм | предсказуемый touchpoint клуба | предсказуемый дайджест канала |
+| Borrowed credibility | named-спикеры | сами топ-темы (что зашло) |
+
+**Что общего (переносимый принцип):** оба — **сериализованный месячный формат**, создающий ритм ожидания; оба используют «лучшее за месяц» как low-effort high-retention контент (переупаковка уже созданного). Author-вариант дополнительно работает как **self-curation-сигнал**: повторное промо лучших текстов продлевает их long-tail.
+
+**Темы, дающие охват в аудитории Спиридонова** (как референс «что заходит» бизнес-аудитории): «феномен Red Bull» (бизнес-кейс), «венчурный рынок сошёл с ума», «Fake it till you make it: психология для роста продаж», «ИИ штампует больше контента, чем люди» `[conf:low, src:2023]`. Это **подсказка для контент-плана GRO**: бизнес-кейсы известных брендов, contrarian-рыночные тейки, психология продаж, AI-контент — устойчиво охватные углы.
+
+**Применимость для GRO:** месячный «топ постов / лучшее за месяц» канала GRO — дешёвый retention-формат поверх уже созданного контента (та же логика, что product-pulse вариант выше, но для контент-канала). Связь с [[evolving/content-trends/gro-content-rubrics-system|системой рубрик GRO]].
+
 ## Anti-patterns при копировании
 
 - ❌ **Показывать выручку вместо engagement** — смещает восприятие с «живое сообщество» на «бизнес про деньги».
@@ -97,3 +117,5 @@ GRO как self-serve продукт (без membership-community пока) мо
 - [[evolving/content-trends/dual-modality-video-text-tutorial]] — dual-modality (text + scannable visual)
 - [[evolving/content-trends/telegram-native-formats]] — TG-нативные content-форматы
 - [[evolving/industry-trends/ru-smb-mentor-community-market-2026]] — рыночный контекст категории
+- [[sources/2026-05-24-vcru-chunk4-condensed]] — author-channel вариант «топ публикаций месяца» (Спиридонов)
+- [[evolving/content-trends/gro-content-rubrics-system]] — система рубрик GRO (куда ляжет «топ месяца» формат)

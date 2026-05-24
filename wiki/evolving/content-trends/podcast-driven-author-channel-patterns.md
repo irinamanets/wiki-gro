@@ -9,8 +9,8 @@ tags: [content, telegram, author-blogger, podcast, native-advertising, content-f
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-15  # +enrich: transcript details for teaser format + Minaev platform signal
-sources: [sources/2026-04-14-tg-sokolay-mar-apr-2026.md]
+updated: 2026-05-24  # +второй exemplar «Визионеры» Спиридонова (weekly podcast + weekly big-post + monthly curation = multi-cadence engine); prior: +enrich transcript details + Minaev platform signal
+sources: [sources/2026-04-14-tg-sokolay-mar-apr-2026.md, sources/2026-05-24-condense-vcru-chunk2.md]
 namespace: mkt
 ---
 
@@ -161,6 +161,21 @@ namespace: mkt
 5. **Signature-эмодзи / визуальный sign-off как микро-паттерн бренда.** Соколовский использует `🤘❤️‍🔥`, Эквиум — concept-art портреты, @hutzp — цветные ритуальные карточки. GRO может выбрать собственный micro-pattern (например, повторяющаяся иконка/эмодзи, которая ставится в конец всех founder-постов) — зафиксировать в [[canon/brand-guidelines/gro-typography]].
 6. **«Анти-ревью» как reserved slot в контент-плане.** 1 раз в 1–2 месяца — длинный first-person honest-opinion пост на не-конкурентную тему (productivity, wearables, tooling). Драйвит engagement и строит reputation «честный человек, а не маркетолог».
 
+## Второй exemplar — «Визионеры» Спиридонова (weekly podcast + big-post + monthly curation)
+
+[[sources/2026-05-24-condense-vcru-chunk2|Максим Спиридонов (condensed vc.ru/id79772)]] даёт **вторую точку данных** для подкаст-driven подкатегории — каденцию вокруг подкаста «Визионеры». Это снижает риск, что наблюдаемые паттерны — идиосинкразия @sokolay.
+
+**Каденция «Визионеры»:**
+
+- **Еженедельный подкаст** — эфир по воскресеньям 10:00 мск, анонс ссылки **за полчаса до старта**. Это вариант teaser→release ритма с **очень коротким teaser-окном** (30 мин), в отличие от 18–24 ч у @sokolay — другой production-режим (live-эфир vs предзаписанный выпуск).
+- **«Большой недельный пост»** как опорный контент-формат, сопровождающий каждый выпуск. Это **отдельный анкор** помимо самого подкаста — у @sokolay такого выделенного weekly-big-post нет, feed заполняется лайфстайлом. У Спиридонова weekly-big-post играет роль, которую у @hutzp играют ритуальные рубрики (календарный якорь).
+- **Ежемесячная курация** «лучшие публикации месяца об ИИ» (по реакциям / комментариям / репостам) — повторяемый retention-формат. Это **третий слой каденции** (weekly + monthly), которого не было ни у @sokolay, ни у @hutzp.
+- **Community-событие как lead-magnet:** нетворкинг-сессия бизнес-клуба Reforma (онлайн, бесплатно, ~20 предпринимателей за 1,5 ч) — встроена в тело контента (статья о партнёрствах) как CTA.
+
+**Что добавляет к рамке.** Спиридонов показывает **многослойную каденцию**: weekly podcast + weekly big-post + monthly curation + ad-hoc community-события. У @sokolay каденция одно-слойная (weekly podcast-цикл), feed заполняется лайфстайлом. Вывод: **подкаст-driven канал у мощного автора превращается в multi-cadence content-engine**, где подкаст — ядро, но не единственный анкор. Weekly-big-post — переносимый приём: текстовый опорный формат, дающий каналу ритм помимо самого аудио/видео.
+
+**Для GRO.** Если GRO запустит founder-podcast, рекомендация — **сразу проектировать multi-cadence** (а не только teaser→release): weekly-big-post как текстовый анкор + monthly curation («лучшее за месяц по теме привычек/продуктивности») как retention-формат. Это даёт каналу ритм даже в недели без сильного гостя/выпуска.
+
 ## Связанные страницы
 
 - [[evolving/content-trends/telegram-author-channel-patterns]] — родительская страница (agency/founder-driven вариант @hutzp)
@@ -170,7 +185,9 @@ namespace: mkt
 - [[canon/target-audience/gro-segments]] — применение найма-через-канал к сегментам GRO
 - [[canon/positioning/gro-value-proposition]] — почему tone of voice Соколовского не переносится в GRO brand voice
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]] — hooks для founder-podcast'а GRO
-- [[sources/2026-04-14-tg-sokolay-mar-apr-2026]] — исходный дамп
+- [[sources/2026-04-14-tg-sokolay-mar-apr-2026]] — исходный дамп (@sokolay exemplar)
+- [[sources/2026-05-24-condense-vcru-chunk2]] — второй exemplar «Визионеры» Спиридонова (multi-cadence)
+- [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — author-context Спиридонова (где живёт «Визионеры»-каденция)
 
 ## Contradictions
 

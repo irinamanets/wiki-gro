@@ -9,8 +9,8 @@ tags: [hr-tech, ats, ai, russia, competitor-landscape, saas, b2b-marketing]
 confidence: low
 stale: false
 created: 2026-04-15
-updated: 2026-05-14  # +RConf AI (cultural-fit AI) добавлен как новая ниша AI-decision-support для HRD
-sources: [sources/2026-04-14-vcru-garmony-top10-hr-ai-advertorial.md, sources/2026-04-14-vcru-garmony-ii-instrumenty-hr-advertorial.md, sources/2026-05-14-tg-rff-channel-may-2026.md]
+updated: 2026-05-24  # +4-й батч vc.ru/hr: расширенная карта игроков (Naimee/Xenia/Sever.AI/hirehire/AI HR PRO/Empany + HRM-слой), ось эволюции точности keyword→ML→NLP, agentic AI shift, КЭДО как законодательный драйвер
+sources: [sources/2026-04-14-vcru-garmony-top10-hr-ai-advertorial.md, sources/2026-04-14-vcru-garmony-ii-instrumenty-hr-advertorial.md, sources/2026-05-14-tg-rff-channel-may-2026.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md]
 namespace: mkt
 ---
 
@@ -63,6 +63,46 @@ namespace: mkt
 
 **Структурный сигнал для категории в целом**: «HR-tech AI» расширяется ниже screening-уровня в сторону HRD-стратегии. Если этот тренд устойчив — категория станет шире, чем «ATS + AI» (sourcing/screening воронка), и расщепится на два слоя: **operational AI** (для рекрутеров) и **strategic AI** (для HRD/C-level).
 
+## Расширенная карта и эволюция категории (4-й батч vc.ru/hr, 2026-05-19)
+
+Из [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — расширенный список игроков и две новые структурные оси. Источник остаётся advertorial-производным (`confidence: low` на любые числа), но имена и сегментация правдоподобны и совпадают с общим знанием категории.
+
+### Дополнительные игроки (4-й батч)
+
+**AI-рекрутинг (прямые/смежные):**
+- **Naimee AI** — диалоговые агенты для массового найма (99–145 ₽/собеседование, advertorial).
+- **Xenia AI** — голосовые интервью (от $10 000/год, advertorial).
+- **hirehire.ai** — упомянут в сравнениях без детализации.
+- **AI HR PRO** — анализ резюме (pay-per-use), уже был в карте.
+- **Empany** — well-being / employee-experience (смежная ниша, не screening).
+- **Sever.AI** — массовый найм (уже на странице, подтверждён).
+
+**HRM-слой (расширен):**
+- SimpleOne HRMS (от 1 000 000 ₽/год, advertorial), Alfa HRMS (~800 000 ₽/год), Первая Форма (от 2 000 000 ₽/год), Neon HRM (от 1 500 000 ₽/год), Битрикс24 (30 000–500 000 ₽/год), HRBOX, БОСС-Кадровик, AMBER.
+
+**Международные с пометкой «слабая локализация / нет нативных hh.ru-интеграций»:** HireVue, Workable, Greenhouse, Paradox, AmazingHiring+CleverStaff.
+
+Полная ценовая таблица 4-го батча — на [[evolving/competitor-positioning/garmony-ai-advertorial-campaign-2026]].
+
+### Ось эволюции точности (новая структурная рамка)
+
+Адверториалы вводят ось дифференциации продуктов через **эволюцию точности скрининга**:
+
+> keyword search → ML-скоринг → настоящий NLP, точность **55–70% → 80–85% → 90–97%**.
+
+Это vendor-нарратив (`conf:low` на конкретные проценты), но как **рамка позиционирования** он рабочий: продукты дифференцируются не по «есть AI / нет AI», а по поколению технологии скрининга. Совпадает с осью [[#наблюдаемые-структурные-особенности-категории|«AI-first vs AI-module»]] выше — это два среза одной идеи «зрелость AI-стека как ось конкуренции».
+
+### Agentic AI как следующий сдвиг (новое)
+
+Главный нарратив 2026: сдвиг от «вот 10 кандидатов» к **автономному выполнению** — «я нашёл 10, отправил приглашения, 7 откликнулись, запланировал интервью». Agentic-frame перекликается с [[evolving/industry-trends/ai-agent-economy-2026]] и [[evolving/industry-trends/agent-first-world-openclaw-2026]]: HR-tech — частный случай общего agentic-сдвига в B2B SaaS. Для GRO это сигнал, что «AI-помощник, который не советует, а делает» — становится категорийной нормой ожиданий.
+
+### КЭДО как законодательный драйвер категории (новое)
+
+- **КЭДО (электронный кадровый документооборот)** — законодательное требование с 2023; **>70% компаний** мигрировали/мигрируют на отечественные HR-решения `[conf:medium, src:2026-05-19]`.
+- **152-ФЗ:** штрафы до 18 млн ₽ с 2025 — конкуренты используют «российские серверы / 152-ФЗ из коробки» как barrier для западных решений.
+
+Это усиливает «152-ФЗ как moat» (пункт 1 ниже): к compliance-барьеру добавляется **позитивный законодательный pull** (КЭДО обязывает мигрировать), не только защитный push.
+
 ## Наблюдаемые структурные особенности категории
 
 1. **152-ФЗ как moat.** Compliance с законом о персональных данных — главный барьер входа для глобальных игроков и главный защитный ров для российских. Любой AI-инструмент, работающий с резюме кандидатов, должен пройти юр.проверку; это закрывает большую часть международных ATS от российского рынка без возможности быстрой интеграции.
@@ -104,6 +144,9 @@ namespace: mkt
 - [[canon-strict/legal-claims/ad-marking-russia-2026]] — 152-ФЗ как структурный moat категории
 - [[sources/2026-05-14-tg-rff-channel-may-2026]] — RFF dump 6-13 мая 2026: RConf AI promo (4404) + HH April 2026 чарты (4408-4411)
 - [[volatile-strict/competitor-news/rconf-ai-cultural-fit-2026-05]] — RConf AI cultural-fit assessment (новая ниша)
+- [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — 4-й батч vc.ru/hr: расширенная карта игроков + ось эволюции точности + agentic AI
+- [[evolving/industry-trends/ai-recruiting-humanity-countertrend-2026]] — контртренд человечности (обратная сторона agentic-сдвига)
+- [[evolving/industry-trends/ai-agent-economy-2026]] — agentic AI как общий B2B-SaaS сдвиг
 
 ## Backlinks
 

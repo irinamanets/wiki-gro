@@ -174,4 +174,5 @@ Asymmetry: новичок приходит с positive intrinsic motivation (о�
 - [[canon/marketing-frameworks/marketer-hiring-questions]]
 - [[canon/marketing-frameworks/candidate-selection-methods-taxonomy]]
 - [[canon/marketing-frameworks/knowledge-management-codification-vs-personification]]
+- [[canon/marketing-frameworks/recognition-economy-non-material-motivation]] — горизонтальная экономика признания (адресует факторы #4 и #6)
 - [[sources/2026-05-14-condense-e-xecutive-ru-34-articles]]

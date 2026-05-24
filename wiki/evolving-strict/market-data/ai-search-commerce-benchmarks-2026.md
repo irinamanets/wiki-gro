@@ -9,8 +9,8 @@ tags: [ai-search, agentic-commerce, e-commerce, b2b, adobe, mckinsey, gartner, b
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md]
+updated: 2026-05-24  # +второй Adobe-замер (генеративный чат-бот трафик +1200-1700% YoY US, 39%/53%/92%/87% опрос) через Спиридонова id79772
+sources: [sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-24-condense-vcru-chunk2.md]
 namespace: mkt
 ---
 
@@ -28,6 +28,23 @@ namespace: mkt
 **Интерпретация:** AI-search уже не маргинальный канал — это **измеримый сдвиг паттерна потребления** в высокой сезонной точке. +805% YoY — это order-of-magnitude growth с base 2024 года, что означает: для US интернет-магазинов AI-канал перешёл из «experimental» в «meaningful contributor». +38% конверсия выше — это не просто больше трафика, это **более qualified трафик** (пользователь приходит с готовым решением после AI-сравнения, а не с открытой потребностью). [conf:low, src:2026-05-18]
 
 **RU-параллель:** RU Black Friday 2025 не имел независимого AI-замера у Brand Analytics или Mediascope, но по [[evolving-strict/market-data/ru-ai-search-traffic-share-2026|RU AI-search traffic share Pressfeed]] доля AI-трафика на нишевых RU-проектах уже достигла 10% (DiaClass), на B2B 3.4% от органики (qtickets). [conf:low, src:2026-05-18]
+
+## Adobe Analytics — генеративный чат-бот трафик YoY (US, май 2026, через Спиридонова)
+
+Второй замер Adobe Analytics (на базе **>1 трлн посещений ритейл-сайтов в США**), пересказанный Максимом Спиридоновым ([[sources/2026-05-24-condense-vcru-chunk2|condensed vc.ru/Спиридонов id79772]], май 2026):
+
+| Метрика | Значение | Контекст | Source |
+|---|---|---|---|
+| Рост трафика из генеративных чат-ботов, туризм | **+1700% YoY** | США, год к маю 2026 | `[conf:high, src:2026-05-24]` |
+| Рост трафика из чат-ботов, ритейл и банкинг | **+1200% YoY** | США | `[conf:high, src:2026-05-24]` |
+| Американцы, уже покупающие через чат-боты | **39%** | Опрос | `[conf:high, src:2026-05-24]` |
+| Намерены присоединиться в этом году | **53%** | Опрос | `[conf:high, src:2026-05-24]` |
+| Отмечают улучшение покупательского опыта через бот | **92%** | Опрос | `[conf:high, src:2026-05-24]` |
+| Готовы доверить ИИ более крупные/сложные покупки | **87%** | Опрос | `[conf:high, src:2026-05-24]` |
+| Пользователи из чат-ботов активнее изучают сайт | **+12%** | Поведенческий | `[conf:medium, src:2026-05-24]` |
+| Реже уходят после первого просмотра | **−23%** | Поведенческий (bounce) | `[conf:medium, src:2026-05-24]` |
+
+**Интерпретация.** Это **второй независимый Adobe-замер** в вики (первый — Black Friday 2025, +805% YoY выше). +1200–1700% YoY на корпусе >1 трлн визитов подтверждает: генеративный чат-бот стал **самостоятельным каналом покупок**, не экспериментом. Поведенческие сигналы (+12% engagement, −23% bounce) означают **более качественный трафик** — пользователь приходит с готовым контекстом после разговора с ботом. В электронике и ювелирке конверсия из ИИ-трафика **уже обгоняет традиционные каналы** `[conf:medium, src:2026-05-24]`. Вывод Спиридонова: «значительная часть клиентского пути начинается с разговора с ботом» — сигнал перестраивать digital-стратегию под GEO/AEO. RU-приземление см. [[evolving/industry-trends/ai-search-aeo-geo-2026|AEO/GEO Спиридонов RU-voice]].
 
 ## McKinsey прогноз 2030
 
@@ -103,7 +120,9 @@ _Пока нет противоречий с другими страницами
 - [[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]] — RU-приземление
 - [[volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026]] — B2B-катализатор
 - [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]] — Comscore platform-level замер AI-обзоров (Google 34,9% / Bing 15,7%, плато поиска +3% YoY) [conf:medium, src:2026-05-18]
-- [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] — первоисточник
+- [[evolving/industry-trends/ai-search-aeo-geo-2026]] — RU-приземление Adobe-данных (Спиридонов GEO-вывод)
+- [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] — первоисточник (PRAGMATIX)
+- [[sources/2026-05-24-condense-vcru-chunk2]] — второй Adobe-замер (Спиридонов id79772)
 
 ## Backlinks
 

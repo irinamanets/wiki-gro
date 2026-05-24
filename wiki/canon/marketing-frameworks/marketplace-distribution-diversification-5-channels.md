@@ -9,8 +9,8 @@ tags: [distribution, channels, marketplaces, d2c, telegram-commerce, b2b, diagno
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14  # +Селихов 2026-05-14: D2C-диверсификация как trust-arbitrage против trust-deficit маркетплейсов
-sources: [sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels.md, sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md]
+updated: 2026-05-24  # +Кретов/«Много лосося» (T-Bank eCommerce, condensed chunk6): lifecycle-кейс зависимости от агрегатора (буст→2-летний потолок→мультиплатформа), временнáя ось фреймворка; prior: +Селихов trust-arbitrage
+sources: [sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels.md, sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md]
 namespace: mkt
 ---
 
@@ -126,6 +126,19 @@ Independent сигнал, **усиливающий обоснованность 
 
 **Hook для содержания:** «оригинал прямо от производителя» теперь работает не только как brand story, но и как **conversion-критический trust-сигнал** в категориях с высоким уровнем контрафакта (~830 тыс. подделок выявлено системами аутентификации в 2025, см. [[volatile-strict/industry-news/ru-counterfeit-marketplaces-letter-2026-04]]).
 
+## Empirical lifecycle-case: «Много лосося» + тезис зрелости (Кретов, T-Bank eCommerce)
+
+Конкретная эмпирическая иллюстрация фреймворка из корпоративного блога Т-Банка ([[evolving/competitor-positioning/tbank-dofamin-banking-navigator-2025|Илья Кретов, T-Bank eCommerce]], 2024) — **lifecycle-кривая зависимости от агрегатора**:
+
+1. **Эксклюзив с агрегатором даёт буст** — на старте эксклюзивное размещение у одного агрегатора (для foodtech — служба доставки) ускоряет рост.
+2. **Через ~2 года — потолок.** Тот же эксклюзив, который разгонял, становится ограничителем: рост упирается в потолок одной площадки. `[conf:low, src:2024-06-01]`
+3. **Выход на мультиплатформу + собственный канал возобновляет рост** — ровно логика «5 каналов» выше: добавление независимых активов снимает потолок.
+4. **Зрелому foodtech — смотреть в B2B / ready-to-eat для ретейла**, а не открывать новый dark kitchen — то есть менять не масштаб той же модели, а вектор (новый сегмент спроса). `[conf:low, src:2024-06-01]`
+
+Кретов также даёт supporting-цифру масштаба паттерна: **~7 тыс. средних бизнесов создали свой сайт после старта на маркетплейсах** `[conf:low, src:2024-06-01]` — то есть переход «маркетплейс → собственный канал» это не теория, а массовый наблюдаемый шаг зрелости. Числа `conf:low` (озвучены в видеоподкасте без раскрытия методологии); рыночный контекст e-com — [[evolving-strict/market-data/ru-consumer-services-research-pr-2024-2025]].
+
+**Что добавляет к фреймворку:** временнáя ось. «5 каналов» отвечает на вопрос *куда* диверсифицироваться; «Много лосося» — *когда* (на ~2-летнем потолке) и что эксклюзив-буст и эксклюзив-потолок это **одна и та же зависимость в разных фазах**. Для GRO-аудитории (founder-owner-seller) это готовый narrative-hook: «эксклюзив, который тебя разогнал, через 2 года тебя и остановит».
+
 ## Связанные страницы
 
 - [[evolving-strict/campaign-metrics/ru-marketplace-channel-economics-2026-05]] — числовые бенчмарки по каналам (комиссии, разработка, циклы)
@@ -139,5 +152,8 @@ Independent сигнал, **усиливающий обоснованность 
 - [[evolving-strict/market-data/ru-ecommerce-consumer-journey-2026]] — числовая воронка risk-first потребителя
 - [[volatile-strict/industry-news/ru-counterfeit-marketplaces-letter-2026-04]] — контрафакт-нарратив (объясняет, почему trust-arbitrage есть)
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — ЦА: маркетплейс-селлер как sub-segment
+- [[evolving/competitor-positioning/tbank-dofamin-banking-navigator-2025]] — Кретов / мультиплатформенность (источник lifecycle-кейса)
+- [[evolving-strict/market-data/ru-consumer-services-research-pr-2024-2025]] — e-com рыночный контекст (Кретов)
 - [[sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels]] — первоисточник
 - [[sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026]] — trust-arbitrage motivator
+- [[sources/2026-05-24-condense-vc-ru-tbank-chunk6-30]] — Кретов «Много лосося» lifecycle-кейс

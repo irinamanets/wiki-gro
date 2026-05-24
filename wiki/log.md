@@ -7822,3 +7822,158 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {canon: 5, evolving: 3, sources: 1}
 - touched: 9 pages
 - raw: raw/processed/articles/web_vc.ru_hr_2803222-chajka-menedzhment-kak-vyjity-v-khaose-rossijskog_95eaed8d.md (+ 2 sidecars: .note.md, .triage.json) → processed
+
+## [2026-05-24 04:40] [ingest] | condense dp.ru chunk1 (25 статей, 6 релевантных) — туризм СПб + дестинационный маркетинг + «опыт > обещания» + IKEA-Швеция offline-shift + господдержка МСП cross-source
+- source: wiki/sources/2026-05-24-condense-dp-ru-chunk1.md
+- created:
+  - wiki/evolving/industry-trends/ru-domestic-tourism-spb-2026.md
+  - wiki/canon/marketing-frameworks/destination-event-marketing-spb-2026.md
+  - wiki/canon/marketing-frameworks/lived-experience-over-promises-high-deliberation.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-msp-state-support-q1-2026.md (+Cross-source подтверждение dp.ru/«Известия» (2-й независимый медиа-носитель тех же Rodionoff-данных) + 2 новых datapoint: федпроект МСП 2025–2030 = 329,5 млрд ₽ (−21% к 2019–2024) + экспертный прогноз «гранты перестанут существовать через 18 месяцев»; +2 source, +caveat-уточнение.)
+  - wiki/evolving/industry-trends/ru-offline-retail-decline-2026.md (+Глобальный параллельный сигнал (dp.ru): IKEA впервые за 40+ лет закрывает магазин в Швеции (Бурленге 31 тыс. м²), >20% продаж онлайн, формат-down-size, причина «адаптация к новым моделям покупательского поведения» — снимает аргумент «RU-специфика»; +RU-возврат через товарный знак 2025; +2 source; fix 2 broken links.)
+  - wiki/canon/marketing-frameworks/value-for-customer-concept.md (+Секция «Современная RU-иллюстрация (dp.ru 2026)»: «опыт > цена/обещание» как проверка совокупности качеств на длинном горизонте; +cross-links на lived-experience + destination-marketing; +source.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, canon: 3, evolving-strict: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/_condense_dp.ru_chunk1_2026-05-24.md (+ .note.md sidecar); per-article стабы уже существовали в wiki/sources/ (не создавались)
+
+## [2026-05-24 04:50] [ingest] | vc.ru/hr condensed — 30 статей (chunk1): 4-й батч Garmony advertorial + HR Tech рынок РФ + контртренд человечности
+- source: wiki/sources/2026-05-24-vcru-hr-condensed-30-articles.md
+- created:
+  - wiki/evolving-strict/market-data/ru-labor-market-deficit-by-sector-2026.md
+  - wiki/canon/marketing-frameworks/persuasion-not-deception-sales-psychology.md
+  - wiki/evolving/industry-trends/ai-recruiting-humanity-countertrend-2026.md
+- updated:
+  - wiki/evolving/competitor-positioning/garmony-ai-advertorial-campaign-2026.md (+4-й батч: «3-е поколение»/«единая экосистема» messaging, таксономия «Класс 1/3», GTM-хуки «5 минут/152-ФЗ из коробки», модульные связки, ROI 810–3186%, time-to-hire кейсы, расширенная карта игроков и цен.)
+  - wiki/evolving-strict/market-data/ru-hr-tech-market-size-2026.md (+триангуляция 40,6 млрд +12% H1-2025, adoption-breakdown 44–49% (обучение/рекрутинг/порталы), только 5% «полноценно», глобально 87% / $1,12 млрд к 2030, Gartner 76%, first-response рычаг.)
+  - wiki/evolving/industry-trends/ru-hr-tech-ai-landscape-2026.md (+расширенная карта игроков (Naimee/Xenia/Sever.AI/hirehire/AI HR PRO/Empany + HRM-слой), ось эволюции точности keyword→ML→NLP, agentic AI shift, КЭДО как законодательный драйвер.)
+  - wiki/evolving/content-trends/vcru-top10-advertorial-pattern-2026.md (+4 тактических конверсионных приёма: «было/стало» в часах, «день из жизни до/после», «реальные кейсы ≠ маркетинг», disclaimer-паттерн для доходных тем.)
+  - wiki/canon/target-audience/gro-segments.md (+SMB «ChatGPT лежит мёртвым грузом» adoption-gap pain Сег2 + entry-level «удалёнщики/новички» под-портрет Сег3 (входные роли + мошеннические вакансии).)
+  - wiki/evolving/industry-trends/ru-recruitment-fraud-patterns-2026.md (+корроборация Pattern 3 (entry-level remote fraud-маркеры) из второго независимого источника + список входных удалённых ролей.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 5, evolving-strict: 2, canon: 2, sources: 1}
+- touched: 10 pages
+- raw: raw/processed/articles/_condense_vc.ru_chunk1_2026-05-24.md (+ 1 sidecar: .note.md) → processed
+
+## [2026-05-24 05:05] [ingest] | Condensed vc.ru chunk2 — 30 статей (vc.ru/hr + Спиридонов id79772)
+- source: wiki/sources/2026-05-24-condense-vcru-chunk2.md
+- created:
+  - wiki/canon/marketing-frameworks/productivity-vs-efficiency-mckinsey-spiridonov.md
+  - wiki/canon/marketing-frameworks/ai-implementation-5-steps-spiridonov.md
+  - wiki/canon/marketing-frameworks/ux-microcopy-craft-avito.md
+  - wiki/canon/marketing-frameworks/employee-data-compliance-3-lenses.md
+  - wiki/evolving/content-trends/adaptive-quiz-lead-magnet-2026.md
+  - wiki/evolving/content-trends/niche-positioning-mechanism-not-symptom-2026.md
+  - wiki/evolving/industry-trends/hr-as-media-marketing-convergence-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ai-search-commerce-benchmarks-2026.md (+второй Adobe-замер: генеративный чат-бот трафик +1200-1700% YoY US, опрос 39%/53%/92%/87%, поведение +12%/−23% (Спиридонов).)
+  - wiki/evolving/industry-trends/ai-search-aeo-geo-2026.md (+Спиридонов RU-voice: чат-бот как точка старта клиентского пути + ambient AI / «смерть смартфона».)
+  - wiki/canon/target-audience/senior-employees-50plus-ru-2026.md (+глобальный silver-economy контекст (50+ владеют >50% мировых активов / ~80% US) + ICP-сигнал «50+ как потребитель» для GRO.)
+  - wiki/canon/marketing-frameworks/partnerships-growth-multiplier.md (+личная методология партнёрств Спиридонова (4 правила) + channel-pivot Insight Estate Таиланд + Microsoft×OpenAI/Pfizer×BioNTech якоря.)
+  - wiki/canon/marketing-frameworks/spiridonov-three-engagement-formats.md (+май-2026 content-cluster: прагматический романтизм, 8 барьеров+resilience-хук, директор по маркетингу личного бренда, вдохновение>инструкция + Deadly Vipers own-platform, диагностика-перед-действием.)
+  - wiki/evolving/content-trends/podcast-driven-author-channel-patterns.md (+второй exemplar «Визионеры» Спиридонова: weekly podcast + weekly big-post + monthly curation = multi-cadence engine.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 7, evolving: 5, evolving-strict: 1, sources: 1}
+- touched: 14 pages
+- raw: raw/processed/articles/_condense_vc.ru_chunk2_2026-05-24.md (+ .note.md sidecar)
+
+## [2026-05-24 05:00] [ingest] | vc.ru chunk3 — авторский блог Максима Спиридонова (30 статей, condensed): бизнес-фреймворки (Метод-5/доверие/амёба/прагматический романтизм) + AI-тренды (плато ИИ-чатботов, венчурный пузырь, гонка гуманоидов) + Reforma
+- source: wiki/sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed.md
+- created:
+  - wiki/canon/marketing-frameworks/metod-spiridonova-5-components.md
+  - wiki/canon/marketing-frameworks/spiridonov-trust-4-stages-framework.md
+  - wiki/canon/marketing-frameworks/amoeba-management-inamori.md
+  - wiki/canon/marketing-frameworks/universe-25-corporate-comfort-hook.md
+  - wiki/canon/marketing-frameworks/pragmatic-romanticism-positioning.md
+  - wiki/evolving/competitor-positioning/reforma-business-club-spiridonov.md
+  - wiki/evolving-strict/competitor-metrics/reforma-community-metrics-2026.md
+  - wiki/evolving-strict/market-data/ai-startup-valuations-bidding-war-2026.md
+  - wiki/evolving/content-trends/ad-shift-woke-to-conservative-giveaway-2026.md
+- updated:
+  - wiki/evolving/content-trends/dead-internet-theory-counter-trend-2026.md (+demand-side anchors «гонка за объёмом не работает» (Google AI 14%, нейросети цитируют human 82%, термин «слоп») + плато ИИ-чатботов (GPT-5, «ксерокопия с ксерокопии») как опора model-collapse.)
+  - wiki/evolving/industry-trends/china-ai-manufacturing-momentum-2026.md (+Сигнал 6 «Битва роботов»: Пекин $20B + фонд $137B, цель лидерства 2027, 90% контроль цепочки поставок, UBTech Geely/Foxconn, триангуляция 36 vs 8 моделей.)
+  - wiki/evolving-strict/market-data/humanoid-robot-unit-economics-2024-2050.md (+Morgan Stanley industry-size прогноз ≥$5 трлн к 2050 (industry-якорь рядом с population-якорем ~1 млрд units) + гос-финансирование Пекина $20B/$137B.)
+  - wiki/evolving/industry-trends/ai-value-migration-2026.md (+плато ИИ-чатботов (GPT-5) как триггер миграции ценности + «зоны искажённой реальности» на венчуре (bubble-сигнал, reconcile с Горным).)
+  - wiki/canon/marketing-frameworks/spiridonov-three-engagement-formats.md (+кросс-линки на содержательное ядро «Метода» (5 компонентов, прагматический романтизм, фреймворк доверия, амёба) + вебинар «о Методе» 16/30 окт как funnel-entry.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 6, evolving: 5, evolving-strict: 3, sources: 1}
+- touched: 15 pages
+- raw: raw/processed/articles/_condense_vc.ru_chunk3_2026-05-24.md (+ .note.md sidecar)
+
+## [2026-05-24 05:00] [ingest] | condense vc.ru/T-Bank chunk6 — 30 статей (research-PR + события + дофамин-банкинг + BNPL turnover)
+- source: wiki/sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md
+- created:
+  - wiki/evolving-strict/market-data/ru-consumer-services-research-pr-2024-2025.md
+  - wiki/evolving-strict/market-data/ru-bnpl-business-turnover-effect-2024.md
+  - wiki/evolving-strict/campaign-metrics/ru-offline-brand-event-reach-benchmarks-2026.md
+  - wiki/evolving/content-trends/research-as-pr-transactional-data-format.md
+  - wiki/evolving/competitor-positioning/tbank-dofamin-banking-navigator-2025.md
+- updated:
+  - wiki/evolving/industry-trends/tbank-corporate-platform-stack-2026.md (Развёрнут раздел «Дофамин-банкинг и AI-UX» (app 7.0, Навигатор, Co-Pilot, Gen-T, 46M, Сферы) + ссылка на отдельную positioning-страницу; +новый раздел research-as-PR и офлайн-события как awareness-каналы; +6 cross-link, +source.)
+  - wiki/canon/marketing-frameworks/marketplace-distribution-diversification-5-channels.md (+Empirical lifecycle-case «Много лосося» (Кретов, T-Bank eCommerce): эксклюзив-буст→2-летний потолок→мультиплатформа возобновляет рост; ~7 тыс. бизнесов сделали сайт после маркетплейсов; добавлена временнáя ось фреймворка; +3 cross-link, +source.)
+  - wiki/evolving/content-trends/tbank-vc-ru-content-mix-2019-2024.md (+4 cross-link (research-as-PR, event-reach-бенчмарки, дофамин-банкинг positioning, chunk6 source) — детализация edu/research и event-слоёв контент-микса.)
+  - wiki/evolving-strict/market-data/ru-bnpl-aov-uplift-2023.md (+Follow-up (2024): AOV +26% развёрнут в business-turnover ×3 + кейс Mollis +53%; forward-link на ru-bnpl-business-turnover-effect-2024; +source.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 4, evolving: 4, canon: 1, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/_condense_vc.ru_chunk6_2026-05-24.md (+ 1 sidecar: .note.md) → processed
+
+## [2026-05-24 05:05] [ingest] | vc.ru chunk4 condensed (30 статей, 12 extracted) — Спиридонов AI/рынок труда (2023 трек) + brain rot метрики + OpenAI positioning + форекс-экономика + NoCode/152-ФЗ + NIO + FOMO-инвестиции
+- source: wiki/sources/2026-05-24-vcru-chunk4-condensed.md
+- created:
+  - wiki/evolving-strict/market-data/forex-broker-economics-2026.md
+  - wiki/canon/marketing-frameworks/niche-content-crowdfunding-breakthrough-kondrashov.md
+  - wiki/evolving/industry-trends/nocode-smb-localization-window-2026.md
+  - wiki/evolving/competitor-positioning/openai-positioning-shift-nonprofit-commercial.md
+- updated:
+  - wiki/evolving/industry-trends/ai-replacing-jobs-global-2026.md (+ранний (2023) трек Accenture reskilling >550K + IgniteTech ~80% замена/EBITDA 75% + контр-интуитивный инсайт «сопротивлялись разработчики, не маркетологи» + «человек + ИИ» предшественник sorting-test'а.)
+  - wiki/canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs.md (+ранний (2023) предшественник «человек + ИИ» того же автора (vc.ru id79772_2317994) — 2-летний эмпирический трек фрейма.)
+  - wiki/evolving/content-trends/social-media-addiction-design-patterns.md (+quantitative-layer brain rot: 47 сек удержание (vs 2.5 мин 2004), 58 проверок/день, 25 мин на возврат, слово года +230%, «текст >минуты = избыточное усилие», BRS-14 воронка-как-формат.)
+  - wiki/evolving/content-trends/fast-content-consumption-shift-2026.md (+второй независимый источник (vc.ru brain rot): 47 сек удержание, «текст >минуты = усилие» — поднял базовый demand-side тезис до confidence medium.)
+  - wiki/canon/marketing-frameworks/housel-psychology-of-money-spiridonov.md (+FOMO/зависть companion-тезис (vc.ru «Уроки Ньютона» 2023): зависть>жадность, «в этот раз по-другому» антипаттерн, Компания Южных морей 1720 как воспроизводимый паттерн пузырей.)
+  - wiki/evolving/industry-trends/china-ai-manufacturing-momentum-2026.md (+Сигнал 6: NIO премиум-EV референс (150+ брендов, станции замены батарей ~3 мин) + сервисный сегмент аудита китайских поставщиков для RU-брендов («сервисная экономика»).)
+  - wiki/evolving/content-trends/community-monthly-recap-digest-format-2026.md (+смежный author-channel вариант «топ публикаций месяца» (Спиридонов) как сериализованный месячный retention-формат + охватные темы-референсы для контент-плана.)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 6, evolving-strict: 1, sources: 1}
+- touched: 12 pages
+- raw: raw/processed/articles/_condense_vc.ru_chunk4_2026-05-24.md (+ 1 sidecar: .note.md)
+
+## [2026-05-24 05:10] [ingest] | vc.ru chunk5 condensed (30 статей, 16 extracted) — reusable рамки vc.ru/story (диагностика процесса / sunk-cost / survivorship / цена-уважение / recognition-economy / JIT-обучение / personal-brand-устойчивость / founder-risk Yeezy) + контент-паттерны (evergreen-сторителлинг + AI-backlash / deep-context / Adidas-Puma эндорс / VFX-крафт) + Т-Банк (DNPL Благо Долями / антифрод / Умная камера / employer-brand Tinkoff Space) + market-data (благотворительность РФ / провал метавселенных)
+- source: wiki/sources/2026-05-24-condense-vcru-chunk5.md
+- created:
+  - wiki/canon/marketing-frameworks/process-deconstruction-three-questions.md
+  - wiki/canon/marketing-frameworks/unverifiable-product-sunk-cost-persuasion.md
+  - wiki/canon/marketing-frameworks/survivorship-bias-marketing-wald.md
+  - wiki/canon/marketing-frameworks/pricing-as-self-respect-anti-discount-trap.md
+  - wiki/canon/marketing-frameworks/recognition-economy-non-material-motivation.md
+  - wiki/canon/marketing-frameworks/microlearning-jit-in-flow-of-work.md
+  - wiki/canon/marketing-frameworks/personal-brand-resilience-vs-hype-angle.md
+  - wiki/canon/positioning/founder-led-brand-fragility-yeezy.md
+  - wiki/evolving/content-trends/vcru-story-evergreen-storytelling-genre.md
+  - wiki/evolving/content-trends/deep-context-cultural-philosophy-content.md
+  - wiki/evolving/content-trends/sport-brand-history-endorsement-origins.md
+  - wiki/evolving/content-trends/expert-vfx-craft-content-quality-criteria.md
+  - wiki/evolving/competitor-positioning/tbank-brand-journalism-employer-storytelling.md
+  - wiki/evolving/product-reception/meta-horizon-worlds-metaverse-failure.md
+  - wiki/evolving-strict/market-data/ru-charity-giving-market-tinkoff-2023.md
+  - wiki/evolving-strict/market-data/metaverse-vr-market-decline-2024-2026.md
+  - wiki/evolving-strict/product-metrics/tbank-smart-camera-product-metrics.md
+  - wiki/evolving-strict/campaign-metrics/tbank-antifraud-service-metrics.md
+  - wiki/volatile-strict/competitor-news/tbank-blago-dolyami-dnpl-launch-2026.md
+  - wiki/volatile-strict/competitor-news/tbank-fraud-scenario-hybrid-firstperson-content.md
+  - wiki/canon/target-audience/recruitment-pr-marketing-worker-side-signals.md
+- updated:
+  - wiki/evolving/content-trends/tbank-vc-ru-content-mix-2019-2024.md (+cross-link на новую страницу форматных механик бренд-журналистики/employer-storytelling Т-Банка (chunk5).)
+  - wiki/canon/marketing-frameworks/employee-intrinsic-demotivation-6-factors.md (+cross-link на recognition-economy (горизонтальная экономика признания адресует факторы #4 непричастность и #6 отсутствие признания).)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 9, evolving: 6, evolving-strict: 4, volatile-strict: 2, sources: 1}
+- touched: 23 pages
+- raw: raw/processed/articles/_condense_vc.ru_chunk5_2026-05-24.md (+ 1 sidecar: .note.md)
