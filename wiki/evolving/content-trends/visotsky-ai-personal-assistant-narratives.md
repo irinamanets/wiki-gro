@@ -9,8 +9,8 @@ tags: [content, ai, narrative, hooks, personal-assistant, agent, telegram, podca
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14
-sources: [sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md]
+updated: 2026-05-26  # +третий operational AI-case «личный финдиректор на Claude» (пост 3807, 2026-05-20) + AI-news-agent как продуктовый telegraph + reusable hook «моё внимание стоит дорого»
+sources: [sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -158,10 +158,63 @@ GRO не имеет AI-функции, но эквивалент «open asset к
 
 Это валидно как proof-point для [[evolving/industry-trends/agent-first-world-openclaw-2026|agent-first-world сигналов]]: **public figure из non-AI vertical** (бизнес-консалтинг) активно использует и публично продвигает agentic AI tools на собственном канале.
 
+## Update 2026-05-26 — третий operational AI-case + product-telegraph
+
+Пятый срез канала [[sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026|@alexander_visotsky 2026-05-19..05-25]] добавляет третий operational AI-case + новый паттерн «AI-как-внутренний-сервис».
+
+### Кейс #3 — Личный финдиректор на Claude (пост 3807)
+
+> «📌 Что я делегировал ИИ уже сегодня: один из примеров. На базе Claude у меня собран личный финдиректор. У него есть доступ ко всем моим счетам, кредитным карточкам, он знает мои текущие и будущие обязательства, в каких активах размещены деньги. И в любой момент на мой вопрос "Стоит ли мне сейчас совершить эту покупку?" он обоснованно, с цифрами, отвечает: "Давай вперёд" или "Подожди, надо поднакопить кэша". А ещё предупреждает о кассовых разрывах, отслеживает каждую транзакцию и сообщает об ошибках.»
+
+Соответствует анатомии паттерна:
+
+1. **Конкретная личная задача без AI-контекста**: «стоит ли мне сейчас совершить эту покупку» — повседневный вопрос, который ставит себе любой owner.
+2. **Стандартное ручное решение (отсутствует — implicit)**: ручной cashflow-расчёт в Excel или calling-bookkeeper, неудобный для in-the-moment-решения.
+3. **Именованный инструмент + пользовательский запрос**: «На базе Claude собран личный финдиректор» — Claude как named-platform (продолжая Claude Cowork в case #1). Запрос на естественном языке («стоит ли мне сейчас совершить эту покупку»).
+4. **Outcome**: «обоснованно, с цифрами, отвечает: "давай вперёд" или "подожди, надо поднакопить кэша"» + проактивные warnings (кассовые разрывы, транзакционные ошибки).
+
+**Качественное отличие от кейсов #1-#2**: это **не one-off operation**, а **persistent role** — «личный финдиректор», у которого «есть доступ ко всем счетам». Это **upgrade от tool to teammate**: Claude настроен как **постоянная роль с правами и обязанностями**, а не one-shot helper. Это **новая фаза** AI-personal-assistant нарратива: от ad-hoc запросов («сделай что-нибудь со страховкой») к structured assistants («ты мой финдиректор»).
+
+### Hook «моё внимание стоит дорого» + AI-news-agent как продуктовый telegraph
+
+В том же посте 3807 автор анонсирует **следующий кейс в pipeline**:
+
+> «🟡 Следующий в списке — личный ИИ-секретарь по сбору новостей. Информации много, большая её часть — просто шум. **Моё внимание стоит дорого.** Поэтому в планах — создать личного ИИ-агента, который будет отбирать максимально релевантные для меня новости: ноу-хау по менеджменту, развитию бизнеса и росту прибыли.»
+
+Две reusable формулировки:
+
+1. **«Моё внимание стоит дорого»** — компактная hook-формула для justification AI-tooling investment'а. **Reframe** «зачем вам AI-агент» из productivity-frame'а в **attention-economics frame**. Это **переносимо для GRO**: «ваше внимание стоит дорого — ваше время и фокус не возобновимый ресурс, кроме сна; всё, что AI берёт на себя, освобождает невосстановимый capital».
+2. **AI-news-agent с domain-фильтром**: модель «не general news, а отфильтрованный по моим интересам поток». Это **product-telegraph** — автор тестит интерес аудитории через CTA «дайте знать в комментариях». Если интерес высокий, в следующих срезах вероятно появится **публичный продукт** (newsletter / Telegram-bot / community-feed). Watch-point на 6-й срез.
+
+### Pattern «AI как named-role, не tool»
+
+Cases #1-#2 (страховка, инвест-дек) — это **one-off operation tools**. Case #3 (финдиректор) — это **persistent named-role** с persistent data access и persistent context. Case-pipeline (news-secretary) — **persistent role с domain-filtering**.
+
+**Trajectory pattern**: AI personal-assistant → AI persistent-role-with-data → AI persistent-role-with-filter. Это **трёхступенчатая эскалация** в коммуникации use-case'ов: от ad-hoc к role-based к filtered-role.
+
+**Применение для GRO**:
+
+- На раннем этапе AI-tooling adoption — кейсы вида «вот как я сделал X» (case #1-#2 model).
+- На среднем этапе — кейсы вида «я настроил AI-как-Y» (case #3 model — наш собственный «AI-фитнес-тренер», «AI-восстановление-coach»).
+- На зрелом этапе — кейсы вида «у меня есть AI, фильтрующий Z по моим критериям» (model news-agent).
+
+Это естественная **сегментация content-маркетинга** по уровню зрелости аудитории.
+
+### Связь с вайб-менеджментом
+
+Personal-tier AI-case #3 (личный финдиректор) и Organizational-tier концепт **вайб-менеджмент** (см. [[canon/marketing-frameworks/vibe-management-data-prerequisite]]) — **two-tier narrative** того же сообщения:
+
+- Personal tier: автор показывает, **что можно делегировать AI в собственной жизни** (story-telling, social-proof по личной practice).
+- Organizational tier: автор объясняет, **что нужно для делегирования AI в команде** (framework, product-positioning).
+
+Это reusable **dual-tier-storytelling**: личный кейс (proof of own use) + структурный фреймворк (proof of generalizable lesson). Один пост обслуживает обе функции.
+
 ## Связанные страницы
 
 - [[sources/2026-05-05-tg-alexander-visotsky-apr-may-2026]] — source-дамп с подкастом 3739
 - [[sources/2026-05-14-tg-alexander-visotsky-may-2026]] — source-дамп с постом 3788 (open prompt-asset)
+- [[sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026]] — source-дамп с постом 3807 (личный финдиректор + AI-news-agent telegraph)
+- [[canon/marketing-frameworks/vibe-management-data-prerequisite]] — organizational-tier of same dual-tier narrative
 - [[evolving/competitor-positioning/business-booster-visotsky]] — профиль конкурента, контекст канала
 - [[evolving/content-trends/visotsky-case-study-structure]] — родственный content-паттерн того же автора (длинный 3-актный case-study vs этот короткий micro-case)
 - [[evolving/content-trends/invisible-ai-paradox-gorny-hook]] — смежный AI-narrative-паттерн (Горный) для сравнения

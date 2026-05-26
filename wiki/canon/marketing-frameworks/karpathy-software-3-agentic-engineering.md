@@ -9,8 +9,8 @@ tags: [ai-agents, content, awareness, software-3, agentic-engineering, vibecodin
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-products-and-startups-mar-may-2026.md]
+updated: 2026-05-26  # +Karpathy → Anthropic (19 мая 2026) — автор фрейма теперь в Anthropic, что меняет sponsor-вес концепта
+sources: [sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-26-tg-ai-newz-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -94,6 +94,19 @@ GRO работает с сегментом, для которого язык «S
 - **Karpathy — авторитетный, но не последняя инстанция.** Альтернативные рамки (LangChain «agentic systems», Anthropic «harness engineering» как product term, Microsoft «agent-first») сосуществуют — Karpathy просто наиболее визуальная подача.
 - **`confidence: high`** на наблюдениях (видео фиксированное, цитата дословная), `medium` на интерпретации Бая (как и любая интерпретация выступления).
 
+## Update 2026-05-26 — Karpathy → Anthropic меняет sponsor-вес фрейма
+
+19 мая 2026 Andrej Karpathy [официально присоединился к Anthropic](https://twitter.com/karpathy/status/...) (см. [[volatile-strict/competitor-news/anthropic-karpathy-join-2026-05]] + [[sources/2026-05-26-tg-ai-newz-may-19-25-2026|@ai_newz post 4582]]). Это **меняет статус автора фрейма** и косвенно sponsor-вес концепта:
+
+- **До:** Karpathy = ex-OpenAI/Tesla, founder Eureka Labs (образовательный стартап), freelance researcher. Software 3.0 — собственный фрейм без affiliation.
+- **После:** Karpathy = Anthropic researcher. **Software 3.0 фрейм имплицитно связан с Anthropic-stack** (Claude Code, harness engineering, Claude Design, Managed Agents).
+
+**Импликация для GRO-контента:**
+
+1. При использовании фрейма в постах — упоминать Anthropic-context факультативно, но **исторический trace важен** (Karpathy ходил по нескольким лабам). Не подавать как «Anthropic концепт».
+2. **Возможная coming evolution фрейма:** Karpathy теперь имеет инсайдер-доступ к Anthropic frontier работе — следующие его публичные выступления / посты могут добавить layer Software 3.5 или operational-фрейм поверх 3.0. Следить за каналом.
+3. **Связь с [[canon/marketing-frameworks/frontier-lab-vs-startup-career-tradeoff]]**: Karpathy сам — case **iteration** (freelance ↔ frontier-lab) в этом career-tradeoff'е. Его возвращение во frontier-lab показывает, что **freelance/startup-фаза не closes door обратно**.
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/harness-engineering-for-ai-agents]] — operational layer Software 3.0 (как именно строить контекст-harness)
@@ -102,7 +115,10 @@ GRO работает с сегментом, для которого язык «S
 - [[evolving/content-trends/ai-product-engineer-content-hooks]] — content-hooks bank, использующий эту рамку
 - [[evolving/competitor-positioning/vibecoding-stack-ecosystem-2026]] — vibecoding как baseline, agentic engineering как уровень выше
 - [[evolving/industry-trends/ai-vertical-services-vc-uplift-2026]] — «слепые зоны лабораторий» как стратегический совет
-- [[sources/2026-05-05-tg-products-and-startups-mar-may-2026]] — первоисточник
+- [[canon/marketing-frameworks/frontier-lab-vs-startup-career-tradeoff]] — Karpathy как case-iteration в этом фрейме
+- [[volatile-strict/competitor-news/anthropic-karpathy-join-2026-05]] — Karpathy → Anthropic анонс
+- [[sources/2026-05-05-tg-products-and-startups-mar-may-2026]] — первоисточник Software 3.0 (AI Ascent 2026)
+- [[sources/2026-05-26-tg-ai-newz-may-19-25-2026]] — Karpathy → Anthropic update
 
 ## Backlinks
 

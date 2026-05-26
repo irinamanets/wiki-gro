@@ -9,10 +9,11 @@ tags: [social-proof, pruefs, conversion, paid-traffic, founder-voice, customer-o
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-19  # +real-world кейс ZXMoto («сила пруфов» в действии, Табунов @bossofyourboss пост 1200) как иллюстрация тезиса
+updated: 2026-05-26  # +Tabunov 6-тезисная рамка нейрослопа (@bossofyourboss пост 1204, 2026-05-22): пруфы как 1 из 3 mandatory condition'ов performance-маркетинга 2026 (бренд OR пруфы OR много качественного контента). Прямое усиление главного тезиса. Prior: +ZXMoto-кейс (2026-05-19).
 sources:
   - sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md
   - sources/2026-05-19-tg-bossofyourboss-may-2026.md
+  - sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md
 namespace: mkt
 ---
 
@@ -95,6 +96,16 @@ namespace: mkt
 > «**Без пруфов любой, даже самый гениальный продукт, конвертит как унылое говно. С пруфами — даже унылое говно конвертит как гениальный продукт.**
 > Выбирай сам, что тебе ближе.»
 
+## Усиление 2026-05: пруфы как 1 из 3 mandatory condition'ов performance-маркетинга
+
+В отдельном посте 2026-05-22 ([[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]], @bossofyourboss пост 1204, «Про эпоху нейрослопа») Табунов **повышает статус** своего же тезиса о пруфах — из «самого сильного приёма» до **одного из трёх обязательных condition'ов** performance-маркетинга 2026:
+
+> «Перформанс маркетинг поменяется. Нужен будет либо известный бренд, либо пруфы, либо много качественного контента вокруг продукта. Все остальное либо скоро обесценится или уже обесценилось.»
+
+Это **переход** от «приоритетная тактика, повышающая конверсию» к **gating-условию** («без хотя бы одного из трёх performance-маркетинг не работает»). Параллельная full-рамка эпохи нейрослопа — [[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]].
+
+**Operational-implication для GRO:** если бренда нет (узнаваемость ещё низкая) и контент-слоя нет (объём evergreen-материалов недостаточный), **пруфы становятся mandatory** — без них перформанс не запустится, сколько бы не было бюджета. См. секцию «Применение к GRO» ниже + новые operational gaps.
+
 ## Real-world кейс: ZXMoto (пруф высшего ранга в действии)
 
 В отдельном посте ([[sources/2026-05-19-tg-bossofyourboss-may-2026]], @bossofyourboss пост 1200, 2026-05-15) Табунов разбирает кейс китайского мотопроизводителя ZXMoto как **наглядную иллюстрацию собственного тезиса о силе пруфов**:
@@ -143,3 +154,5 @@ GRO — массовый B2C-продукт без типичных корпор
 - [[evolving-strict/competitor-metrics/zxmoto-growth-metrics-2026]] — цифры роста ZXMoto-кейса
 - [[sources/2026-05-13-tg-your-pet-project-may-6-13-2026]] — источник
 - [[sources/2026-05-19-tg-bossofyourboss-may-2026]] — источник ZXMoto-кейса
+- [[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]] — full 6-тезисная рамка эпохи нейрослопа Табунова (где пруфы — 1 из 3 mandatory condition'ов)
+- [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] — источник «эпохи нейрослопа» (пост 1204)

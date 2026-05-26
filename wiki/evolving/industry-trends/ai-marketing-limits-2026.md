@@ -9,8 +9,8 @@ tags: [ai-marketing, llm, automation, paid-ads, performance, russia, trust, heal
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-22  # +Omni (Горный 5070): semantic-layer / context-limit — AI-аналитика без формализованного слоя определений даёт формально-правильные, но вводящие в заблуждение числа. Prior: +Petrochenkov синтетический usability-тест 80%
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md]
+updated: 2026-05-26  # +Tabunov (@bossofyourboss, пост 1204, 2026-05-22): performance-маркетинг 2026 требует одного из трёх (бренд/пруфы/много качественного контента); «всё остальное обесценится». Performance-marketing reframing как rule, не только observation. Prior: +Omni (Горный 5070, 2026-05-22).
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md, sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md]
 namespace: mkt
 ---
 
@@ -173,6 +173,29 @@ LZ.Media формулирует **content-marketing-аналог Petrochenkov-ф
 
 **63%-quants-якорь** — [[evolving-strict/market-data/ai-content-transparency-demand-2026]]: 63% потребителей хотят знать о AI-генерации (LZ.Media-цитата, общий тренд cross-corroborated через WCIOM + Anthropic 81k + RU-закон 2 мая).
 
+## May 2026 update — performance-маркетинговая рамка-правило от Табунова
+
+К Petrochenkov-`f(skill)` + Стеценко-`f(зона)` + LZ.Media-`f(тип задачи)` добавляется четвёртая ось — **performance-маркетинг как rule «нужно одно из трёх»** от Михаила Табунова (founder/growth, Baza Education, [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]], пост 1204, 2026-05-22).
+
+Полный 6-тезисный framework — в [[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]]. Главное operational-следствие для **этой** страницы:
+
+> «Перформанс маркетинг поменяется. Нужен будет либо известный бренд, либо пруфы, либо много качественного контента вокруг продукта. Все остальное либо скоро обесценится или уже обесценилось.» `[conf:medium, src:2026-05-22]`
+
+Это **перевод предыдущих наблюдений в правило**: performance-маркетинг 2026 не работает без хотя бы одного из трёх condition'ов. Дополняет (не противоречит) три предыдущие оси:
+
+- **Performance-ось (Petrochenkov):** AI = `f(skill)` — оператор-зависимая ось
+- **Zonal-ось (Стеценко):** AI = `f(зональная этика)` — этическая ось
+- **Content-marketing-ось (LZ.Media):** AI = `f(тип задачи)` — задаче-зависимая ось
+- **Performance-condition-ось (Табунов):** Performance = `f(бренд OR пруфы OR контент-слой)` — **gating ось** (без хотя бы одного — performance не работает совсем)
+
+Tabunov-ось — **отдельный класс рамки**: не «что AI делает», а «какие предпосылки product/brand должны быть, чтобы performance-маркетинг вообще имел смысл». Полная картина 2026 теперь — **4-осная**:
+
+> Чтобы performance-маркетинг работал в 2026, нужно: (1) скилованный оператор (Petrochenkov), (2) корректные зоны делегирования (Стеценко/LZ.Media), (3) хотя бы одно из «бренд / пруфы / контент-слой» как gating-condition (Табунов).
+
+Дополнительные founder-voice quants Табунова, релевантные performance-границам:
+- **AI-контент детектится за 2 сек, AI-лендинг — за 5 сек** `[conf:medium, src:2026-05-22]` — порог толерантности юзера к AI-генерации в creative-layer
+- **Ленты соцсетей 2026: 4 из 5 элементов = реклама; время в соцсетях впервые падает** `[conf:medium, src:2026-05-22]` — degrading distribution-layer, дополняющий лимиты автостратегий
+
 ## TTL и план верификации
 
 - TTL: 90 дней soft (быстро эволюционирующий тренд)
@@ -203,6 +226,8 @@ LZ.Media формулирует **content-marketing-аналог Petrochenkov-ф
 - [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — источник Стеценко
 - [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko]] — родственный лимит: AI ищет граф сущностей, не текст (онтологический слой)
 - [[sources/2026-05-22-tg-startupoftheday-may-14-19-2026]] — Omni semantic-layer лимит (Горный 5070)
+- [[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]] — Tabunov 4-я ось рамки: performance-маркетинг 2026 = «нужно одно из трёх (бренд/пруфы/контент-слой)»
+- [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] — первоисточник Tabunov-рамки нейрослопа
 
 ## Backlinks
 

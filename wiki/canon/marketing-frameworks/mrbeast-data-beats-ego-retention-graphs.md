@@ -9,8 +9,8 @@ tags: [content, data-driven, retention, ego, framework, youtube, video-content, 
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md]
+updated: 2026-05-26  # +cross-link на второй MrBeast-фрейм (5-year patience-curve) — двух-компонентный toolkit
+sources: [sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md]
 namespace: mkt
 ---
 
@@ -105,9 +105,26 @@ Confidence: `medium` — широко известный публичный па
 | [[canon/marketing-frameworks/anti-perfectionism-mvp-launch-muratayev]] | Комплементарный — MVP запускают, чтобы получить retention-данные. Без MVP нет данных |
 | [[canon/marketing-frameworks/demand-first-mvp-castdev]] | Customer development — sources of qualitative data (интервью). Retention-graphs — quantitative. Используются вместе |
 
+## Двух-компонентный MrBeast-toolkit (с дампа 8-11 мая)
+
+[[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026|Пост 15967 Кульгина]] от 2026-05-10 публикует **второй MrBeast-фрейм** (5-летний patience-curve, см. [[canon/marketing-frameworks/mrbeast-five-year-patience-content-curve]]): рост канала Donaldson занял **5 лет почти-нулевого роста** до accelerated phase. Это формирует двух-компонентный toolkit:
+
+| Компонент | Описание | Где применяется |
+|---|---|---|
+| **Patience-curve** (5 лет inкубация) | Долгий time-horizon как entry barrier | **Setting expectations**: не ждать результата в 1-3 месяца |
+| **Data-beats-ego** (retention graphs) | Безжалостная корректировка по data | **Iteration within horizon**: на 5-летнем горизонте каждое видео учиться от предыдущего |
+
+Без обоих компонентов фреймворк не работает:
+- **Patience без data** = упрямство (5 лет неудачно повторять одно и то же).
+- **Data без patience** = сдача после первых 2-3 неудачных артефактов (data ещё не успели стабилизироваться).
+
+Это объясняет, почему **большинство creator'ов проигрывают**: они получают один из двух компонентов, но не оба.
+
 ## Связанные страницы
 
 - [[sources/2026-05-05-yt-spiridonov-signal-noise-essentialism]] — source-страница (видео + транскрипт)
+- [[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]] — source-страница для patience-curve компонента
+- [[canon/marketing-frameworks/mrbeast-five-year-patience-content-curve]] — второй MrBeast-фрейм (patience)
 - [[canon/marketing-frameworks/signal-noise-essentialism-spiridonov]] — родительская рамка сигнал/шум
 - [[canon/marketing-frameworks/valuable-to-stranger-filter]] — pre-launch комплементарный фильтр
 - [[canon/marketing-frameworks/data-illusion-management-rybakov]] — anti-pattern с теми же данными

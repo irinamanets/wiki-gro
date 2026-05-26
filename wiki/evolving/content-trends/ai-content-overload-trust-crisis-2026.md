@@ -9,8 +9,8 @@ tags: [ai, trust, content, communications, content-quality, expert-opinion, cont
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-19  # +Myer's Bagels (@breakingtrends, 2026-05-17): первый документированный коммерческий кейс backlash на AI-контент с измеримым последствием (падение рейтинга); empirical-якорь к qualitative-сдвигу
-sources: [sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-19-tg-breakingtrends-may14-19.md]
+updated: 2026-05-26  # +Tabunov (@bossofyourboss, пост 1204, 2026-05-22): «эпоха нейрослопа» — второй founder-голос с конкретными BS-detection метриками (2/5/60 сек) и performance-маркетинговой рамкой «нужен бренд OR пруфы OR много качественного контента». Prior: +Myer's Bagels (2026-05-19).
+sources: [sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-19-tg-breakingtrends-may14-19.md, sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md]
 namespace: mkt
 ---
 
@@ -54,9 +54,10 @@ namespace: mkt
 - **Дмитрий Кот ([[canon/marketing-frameworks/dmitry-kot-ai-text-5-insights]])** — операционный антидот: 5 шагов промптинга, чтобы AI не выдавал ту самую «воду для всех и ни для кого», которая триггерит trust-кризис.
 - **LZ.Media ([[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]])** — 2026-05-19, content-marketing-уровневая делегационная карта (что ИИ хорошо делает в контент-маркетинге vs где границы). Конвертирует Стеценко-паттерн в **operational чек-лист** для контент-команды: 6 горячих зон + 4 холодные зоны делегирования.
 - **Myer's Bagels ([[evolving/content-trends/ai-content-customer-backlash-cases-2026]])** — 2026-05-17, **первый документированный коммерческий кейс** с измеримым последствием: владелец сети бейглов удалил AI-посты после того, как клиенты заметили «ненастоящие» кадры и **массово снизили рейтинг заведению**. Это empirical-якорь к qualitative-сдвигу Стеценко — переводит «премия за живое» из прогноза в зафиксированный факт «AI-контент → падение бизнес-метрики».
+- **Табунов ([[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]])** — 2026-05-22, founder-voice диагноз «эпохи нейрослопа» (@bossofyourboss пост 1204): второй RU founder-голос с конкретными BS-detection временами (AI-контент детектится за 2 сек, AI-лендинг — за 5 сек, баги вайбкода — за 1 мин) `[conf:medium, src:2026-05-22]` и переupакованная performance-маркетинговая рамка: «нужен известный бренд OR пруфы OR много качественного контента вокруг продукта — всё остальное обесценится» `[conf:medium, src:2026-05-22]`. Таким образом Табунов закрывает **performance-маркетинговый layer** того же сдвига (Стеценко — communications-layer, Петроченков — generation-layer, Кот — prompt-layer, dnative — transactional-layer, Myer's Bagels — кейс).
 - **Закон 2 мая 2026 о маркировке AI ([[volatile-strict/industry-news/ru-ai-marking-law-2026]])** — государственный признак того, что user **не отличает** AI-контент от реального, что подтверждает existence самого кризиса.
 
-Триангуляция: **четыре независимых эксперта + один документированный кейс + один регуляторный сигнал** в одном квартале → high-confidence-сдвиг behavior-паттерна аудитории.
+Триангуляция: **пять независимых экспертов + один документированный кейс + один регуляторный сигнал** в одном квартале → high-confidence-сдвиг behavior-паттерна аудитории.
 
 ### Quants-якорь: 63% consumer-demand на disclosure
 
@@ -112,9 +113,11 @@ LZ.Media (Pressfeed, май 2026) приводит цифровой ориент
 - [[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]] — operational делегационная карта (LZ.Media, content-marketing)
 - [[evolving-strict/market-data/ai-content-transparency-demand-2026]] — 63% consumer-demand на AI-content disclosure (LZ.Media quants)
 - [[evolving/content-trends/ai-content-customer-backlash-cases-2026]] — документированные кейсы клиентского backlash (Myer's Bagels) — эмпирическое подтверждение тренда
+- [[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]] — Tabunov 6-тезисная рамка «эпохи нейрослопа» (performance-маркетинговый layer того же сдвига)
 - [[canon/marketing-frameworks/trust-as-managed-asset-coin-principle]] — трактовка доверия как управляемого актива
 - [[volatile-strict/industry-news/ru-ai-marking-law-2026]] — регуляторный сигнал того же тренда
 - [[volatile-strict/industry-news/medvi-ai-doctors-scandal-2026]] — кейс mass-scale healthcare-AI-fail
 - [[sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko]] — первоисточник Стеценко
 - [[sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits]] — LZ.Media content-marketing-frame + 63% quants
 - [[sources/2026-05-19-tg-breakingtrends-may14-19]] — Myer's Bagels кейс (посты #16758–16761)
+- [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] — Tabunov пост 1204 «эпоха нейрослопа» (5-й экспертный голос, performance-layer)

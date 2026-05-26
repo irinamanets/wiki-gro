@@ -9,8 +9,8 @@ tags: [competitor, business-booster, saas, platform, features, telegram-bot, das
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-20  # +четвёртый срез (пост 3792): org-chart instant-metric popup + minimap-навигация; dashboard-метафора «5 часов → 5 минут»
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md]
+updated: 2026-05-26  # +пятый срез (пост 3810, 2026-05-21): Reports module — единый dashboard «кто работает, какие метрики, нарушения сроков, weekly-planning»; Канбан синхронизирован с календарём (time-aware planning); 22 языка (+чешский, +румынский)
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -88,6 +88,45 @@ Business Booster Platform — **all-in-one SaaS для систематизац�
 **Dashboard-метафора (приборная панель).** Пост обрамляет фичи фирменной метафорой: владелец, управляющий «на чуйке» = пилот без приборов. Заявленный outcome — «не 5 часов на совещания и чтение чатов, а **5 минут на анализ ключевых цифр**» `[conf:low, src:2026-05-14]` (self-reported экономия времени, не measured). CTA — тот же 7-дневный демо-доступ. Контент-разбор метафоры — в [[evolving/content-trends/owner-escape-operations-hooks]].
 
 **Классификация:** инкрементальное development внутри существующего блока, согласуется с гипотезой «stable platform с release-cycle ~6-8 недель». Не меняет общую структуру feature-set из 5 блоков.
+
+## Reports module + Канбан-календарь синхронизация — пятый срез (пост 3810, 2026-05-21)
+
+Пятый срез [[sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026|@alexander_visotsky 2026-05-19..05-25]] добавляет **второе значимое расширение feature-set за период наблюдения** (после mobile-app в 3-м срезе). Это **новый функциональный блок** (Reports module) + **планировочный layer** на существующий Канбан-блок.
+
+### 6. Модуль «Отчёты» — единый dashboard по компании
+
+Описан Высоцким как «единый dashboard по компании» `[conf:medium, src:2026-05-21]` — собирает в одно окно weekly cross-team picture для владельца. Четыре основных view внутри модуля:
+
+- **Кто реально работает** в системе vs кто почти не заходит `[conf:medium, src:2026-05-21]` — actively-vs-inactive employee tracking.
+- **Какие метрики растут, падают** или не заполняются `[conf:medium, src:2026-05-21]` — trend overlay на org-chart-метрики (расширение блока 1).
+- **Сколько задач закрыто и где есть нарушения сроков** `[conf:medium, src:2026-05-21]` — task SLA-tracking.
+- **Как сотрудники планируют и выполняют работу за неделю** `[conf:medium, src:2026-05-21]` — weekly plan-vs-execution overlay.
+
+Заявленный outcome: «открываете отчёт и сразу видите, где есть проблемы и куда нужно вмешаться» `[conf:medium, src:2026-05-21]`. Это **complementary layer** к блоку 1 (Оцифровка процессов): блок 1 показывает структуру + метрики per-employee, Reports module **сводит cross-employee** в один screen.
+
+### Канбан-календарь синхронизация — time-aware planning
+
+Существующий блок «контроль поручений» (доска Канбан + Telegram-бот) получает **новую планировочную ось** — синхронизация задач с календарём `[conf:medium, src:2026-05-21]`:
+
+- **Видна реальная загрузка**: если времени нет, задача не помещается на доске `[conf:medium, src:2026-05-21]`.
+- **Планирование учитывает встречи и созвоны** — задачи вписываются между existing calendar-блоками `[conf:medium, src:2026-05-21]`.
+- **Задачи распределяются по конкретным временным слотам** — «список задач превращается в рабочий график» `[conf:medium, src:2026-05-21]`.
+
+**Frame Высоцкого**: «совсем по-другому ощущается контроль над временем» `[conf:medium, src:2026-05-21]`. Это **temporal-extension** Канбан-блока: задача = не только status, но и **time-slot**. Это сильно роднит feature-set с Calendly/Reclaim.ai/Motion (AI-time-blocking-tools), но в B2B-team-management контексте, а не personal-productivity.
+
+### Локализация: 22 языка
+
+Добавлены **чешский и румынский**, общее число локалей — **22** `[conf:medium, src:2026-05-21]`. Сигнал geographic expansion: Восточная Европа как target-market следующего квартала (согласуется с пост-Кишинёв / пост-Варшава анонсами в этой же неделе).
+
+### Сигнал устойчивости (после 5 срезов)
+
+**Pattern эволюции расширений** за 11 наблюдательных недель:
+- Срез 1–2 (6 недель): stability — феча-сет не менялся
+- Срез 3: +mobile-app для field-workers (expansion вниз по org-chart)
+- Срез 4: org-chart UX-фичи (instant-metric popup + minimap) — внутри блока 1
+- Срез 5: **+Reports module (новый блок 6) + Канбан-календарь sync** (расширение блока 2)
+
+Pattern: **6 недель stability → expansion вниз** (3-й срез) **→ 2 недели UX-incremental** (4-й срез) **→ значимое расширение** (5-й срез). Это уже **третий major release** за 11 недель — **stable но активный** product, не stale. TTL 180 дней остаётся, watch-point — появится ли в 6-м срезе AI-feature внутри Platform (за неделю автор активно communicate'ит вайб-менеджмент, что предполагает product-direction).
 
 ## Distribution-механика
 

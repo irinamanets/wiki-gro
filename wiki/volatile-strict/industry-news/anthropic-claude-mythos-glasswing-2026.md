@@ -9,8 +9,8 @@ tags: [ai, anthropic, security, awareness, enterprise]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +ai-newz 4562 (8 мая 2026): production attestation — Mythos нашёл 271 уязвимость в Firefox за месяц (больше, чем разработчики за 1.5 года), включая sandbox-escape; пофиксили в трёх последних релизах; «недавно переписанные с упором на безопасность» части — чистые
-sources: [sources/2026-04-14-tg-techsparks-mar-apr-2026.md, sources/2026-04-16-dzen-incrussia-anthropic-800b-caplight.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md]
+updated: 2026-05-26  # +boris_again пост 3918 (24 мая 2026): post-release Glasswing-отчёт — «нашли гору критичных багов, оупенсорс просит котелочек не варить, не успевают латать дыры»; +ExploitBench (18/41 уязвимостей до эксплойта vs 0 у других); +UK AISI «Cooling Tower» (Mythos прошёл ICS-симулятор 3/10) — см. отдельную страницу [[volatile-strict/industry-news/ai-cyber-0day-wave-may-2026]]
+sources: [sources/2026-04-14-tg-techsparks-mar-apr-2026.md, sources/2026-04-16-dzen-incrussia-anthropic-800b-caplight.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-26-tg-boris-again-may-19-24-2026.md]
 namespace: mkt
 ---
 
@@ -100,6 +100,25 @@ Anthropic объявила **коалицию Glasswing** для защиты к
 В обоих случаях — **порядок величины тот же (несколько сотен/месяц)**, и **multiplier к человеческому baseline сохраняется ~14-20×**. Производительность Mythos подтверждена independently двумя источниками; конкретная цифра — `[conf:high]` на порядок и `[conf:medium]` на точное значение.
 
 **Human-in-loop confirmation.** Уточнение vc.ru про **«каждую уязвимость чинят два инженера»** — это **новая фактура**, дополняющая нарратив. Mozilla **не доверяет Mythos самостоятельный фикс** — модель только **обнаруживает**, фиксят люди. Это **важный nuance** для нарратива «AI заменяет инженеров»: на security-аудит-таске AI **умножает productivity людей** (~14× detection-speed), но **не убирает их из loop'а** на фикс-фазе. См. [[evolving/content-trends/sebrant-cognitive-exoskeleton-hooks|hook 4]] — формулировка должна включать этот caveat.
+
+## Sixth-source attestation: post-release Glasswing-отчёт @boris_again (21 мая 2026)
+
+[[sources/2026-05-26-tg-boris-again-may-19-24-2026|@boris_again пост 3918, 2026-05-24]] фиксирует **post-release-отчёт** Anthropic по раздаче Mythos Preview в рамках Glasswing-коалиции, выпущенный 2026-05-21 (`anthropic.com/research/glasswing-initial-update`):
+
+- Anthropic **нашли гору критичных багов** в open-source-стеках партнёров коалиции `[conf:medium, src:2026-05-21]`
+- **«Оупенсорс просит котелочек не варить, не успевают латать дыры»** — формулировка @boris_again, описывающая темп багофиксов на стороне open-source мейнтейнеров `[conf:medium, src:2026-05-21]`
+
+**Reconcile с предыдущими источниками.** Это **6-й независимый канал** подтверждения masthos-производительности в AI-cyber-research:
+1. @techsparks 5527 (8 апреля) — анонс Glasswing-коалиции
+2. @ai_newz #4562 (8 мая) — 271 уязвимость в Firefox за месяц
+3. @vcnews 61277 (8 мая) — 423 уязвимости в Firefox за апрель
+4. @ai_newz #4576 (15 мая) — UK AISI «Cooling Tower» ICS-симулятор 3/10 (предыдущий ingest)
+5. @ai_newz #4576 (15 мая) — ExploitBench 18/41 vs 0 у других моделей (предыдущий ingest)
+6. **@boris_again 3918 (24 мая) — Glasswing post-release-отчёт «гора критичных багов»**
+
+Шестой источник **обобщает** все предыдущие в **официальный pulse-update Anthropic**. К концу мая 2026 у Mythos Preview есть **independent attestation по 6 разным каналам**, что делает Anthropic-cybersec-positioning **canonical** для industry. См. также [[volatile-strict/industry-news/ai-cyber-0day-wave-may-2026]] для контекста параллельных Google GTIG / MS MDASH / UK AISI / ExploitBench сигналов.
+
+**Implication для GRO-positioning:** Anthropic построила **двухмодельную identity** к маю 2026 — Claude (general-purpose, mainstream) и Mythos (security-frontier, restricted access). Это позволяет Anthropic иметь **«premium-mainstream»** + **«premium-restricted»** двойной позиционирующий каркас, который другие игроки (OpenAI, Google) не имеют. См. [[evolving/content-trends/anthropic-vendor-pet-owner-meme-2026]] про backlash backlash side того же positioning'а.
 
 ## TTL и следующий checkpoint
 

@@ -9,8 +9,9 @@ tags: [labor-market, hiring, employer-market]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +восьмой голос (vc.ru/hr репост колонки для «Коммерсанта»): pay-for-results, технологии как инфраструктура рекрутинга, усложнение роли > смена профессии, hh весна −25%/+33% триангуляция; prior: +Середа (Pressfeed) седьмой голос на разворот, дуальный split массовые↔офисные, найм-vs-удержание
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-05-tg-startupoftheday-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-dzen-delovoymir-varako-hr-brand-survival-2026.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md]
+updated: 2026-05-26  # +Murmansk wage-floor anchor: помощник менеджера МП = 10 000 ₽/мес до НДФЛ (Кульгин 15988) — extreme SMB wage compression в регионах; QA-сегмент 130/2 (15962); +тестировщик
+prev_updated: 2026-05-19  # +восьмой голос (vc.ru/hr репост колонки для «Коммерсанта»): pay-for-results, технологии как инфраструктура рекрутинга, усложнение роли > смена профессии, hh весна −25%/+33% триангуляция; prior: +Середа (Pressfeed) седьмой голос на разворот, дуальный split массовые↔офисные, найм-vs-удержание
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-05-tg-startupoftheday-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-dzen-delovoymir-varako-hr-brand-survival-2026.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md]
 namespace: mkt
 ---
 
@@ -313,7 +314,39 @@ Operational-вытяжка из формулы. Если открытие вак
 - **Сегмент 1 (карьеристы):** «понимай экономику своей роли» + «усложнение роли > смена профессии» = спокойный, системный reframe анти-паники. Прямая линия к core-value ГРО «системность + маленькие шаги».
 - **Сегмент 2 (предприниматели-работодатели):** pay-for-results как уже-наступившая норма → контент про измеримость вклада сотрудника (резонирует с Performance Review разделом выше).
 
+## Девятый голос: Кульгин (TG @bezsmuzi, 8-11 мая 2026) — Murmansk wage-floor anchor + QA-segment 130/2
+
+[[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026|Дамп Кульгина 8-11 мая]] добавляет **региональный wage-floor anchor** к разворотной картинe:
+
+### Murmansk anchor (пост 15988)
+
+**Помощник менеджера по работе с селлерами МП в Мурманске — 10 000 ₽/мес до НДФЛ, график 5/2** `[conf:low, src:2026-05-11]`. Это **extreme wage compression** в SMB-сегменте маркетплейсной экосистемы. Не «частичная занятость», не «студенческая подработка» — официальная вакансия с full-time графиком.
+
+Кульгин: «**Обстановка на рынке труда не перестаёт удивлять**.» — voice operational founder'а, фиксирующего разрыв между macro-нарративом «дефицит кадров» и regional micro-реальностью «10 000 ₽/мес за full-time».
+
+Это **полностью согласуется** с нарративом разворота: если employer удерживает переговорную силу, **wage-floor дрейфует вниз** даже при официально высоком «hh.индексе». Регионы (Мурманск) дают более жёсткие сигналы, чем Москва.
+
+### QA-segment anchor (пост 15962)
+
+**Тестировщик с 7+ лет опыта саппорта + QA-курсы, релокация в Грузию (Тбилиси), готова к офису, предпочтительна удалёнка**: 1,5 месяца поиска работы на hh.ru → **130 откликов → только 2 собеседования** `[conf:low, src:2026-05-09]`. Кульгин: «**ИИ ощутимо рынок поддержки изменит**.»
+
+Это **single-applicant data**, но **direction-индикатор** для category «junior/mid QA + relocated» — сегмент, который наиболее уязвим под двойным сжатием (AI-replacement support work + remote-work skepticism employer'ов).
+
+### Дополнительные voice'ы
+
+- Пост 15987: «**Работа Шрёдингера** — она вроде есть, но её вроде и нет. Бизнес сжимает булочки, набирать людей мало кто готов.»
+- Пост 15969: «Зумер сразу идёт... хутор, берем человека в возрасте — спокойно работает без эмоциональных качелей.» — voice про работающего пенсионера 50+ как **уже-нанятого**, согласуется с [[canon/target-audience/senior-employees-50plus-ru-2026|разворотом к 50+]].
+- Пост 15997: про значок за 40 лет работы и good-will — voice старшего поколения, реагирующего на video про работника, получившего «только значок» после 40 лет. Tone: «не стоит ожидать большего, никто не заставляет».
+- Пост 15975: «В трудовом кодексе нет слова "отработка"» — voice про exit-механизмы трудового кодекса (заявление за 2 недели + отпуск).
+
+### Применимость для GRO
+
+- **Сегмент 1 (карьеристы):** wage-compression anchor усиливает narrative «нужны новые навыки + AI-grammar, иначе попадёшь под 10к/мес» — точка усиления GRO как daily-habit для **профессионального self-development**.
+- **Сегмент 2 (founder/SMB):** Кульгин-voice как operational founder, нанимающий и испытывающий wage-compression, добавляет **third-party credibility** разворотному нарративу.
+- **Геораспределение wage-floors** — потенциальный content-angle: «Что значит ваш ЕР зарплатный уровень в reality moscow vs Murmansk».
+
 ## Связанные страницы
+- [[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]] — 9-й голос: Murmansk wage-floor 10к/мес, QA 130/2, «работа Шрёдингера»
 - [[sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026]] — 8-й голос: pay-for-results, технологии-инфраструктура, усложнение роли > смена профессии, hh весна −25%/+33%
 - [[sources/2026-05-18-pressfeed-rynok-truda-2026-sereda]] — Середа, 7-й голос: дуальный split массовые/офисные, найм-vs-удержание, ИИ как оптимизация
 - [[sources/2026-05-19-tg-petrochenkow-20260519-112501]] — Петроченков, 6-й голос: «оздоровление рынка», +43% увольнений, K-образное расслоение

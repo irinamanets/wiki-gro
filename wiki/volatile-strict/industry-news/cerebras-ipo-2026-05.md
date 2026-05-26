@@ -1,6 +1,6 @@
 ---
 id: mkt:volatile-strict/industry-news/cerebras-ipo-2026-05
-title: "Cerebras IPO 2026 — закрыт $5.55B raised, cap ~$40B; второй заход после 2024"
+title: "Cerebras IPO 2026 — закрыт $5.55B raised, cap ~$56B (рост с $40B за неделю); второй заход после 2024"
 type: page
 subtype: news
 layer: volatile-strict
@@ -9,18 +9,20 @@ tags: [ai, hardware, ipo, cerebras, nvidia-competitor, news, global]
 confidence: high
 stale: false
 created: 2026-05-06
-updated: 2026-05-19  # +vcnews 61358 (2026-05-14): IPO ЗАКРЫТ — $5,55 млрд raised (выше price-up target $4,8 млрд), cap после IPO ~$40 млрд (~$49 млрд с опционами/варрантами) → supersession price-up estimate. Prior: +vcnews 61306 (2026-05-11) price-up $115-125→$150-160, target $3,5→$4,8 млрд, est cap $48,8 млрд
-sources: [sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md]
+updated: 2026-05-26  # +ai_newz post 4587 (2026-05-22): post-IPO market cap update $40B→$56B за 8 дней (Nasdaq float rally) → supersession cap value
+sources: [sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md, sources/2026-05-26-tg-ai-newz-may-19-25-2026.md]
 namespace: mkt
 ---
 
-# Cerebras IPO 2026 — закрыт, $5.55B raised, cap ~$40B; второй заход после 2024
+# Cerebras IPO 2026 — закрыт, $5.55B raised, cap ~$56B (post-IPO float rally); второй заход после 2024
 
 <!-- superseded 2026-05-14 by [[sources/2026-05-14-tg-vcnews-may-8-12-2026]] : первоначальные параметры — Американский ИИ-стартап Cerebras Systems планирует привлечь до $3,5 млрд в рамках IPO на бирже Nasdaq, цена размещения $115–125 за акцию, капитализация ~$3.5 млрд по верхней границе -->
 
 <!-- superseded 2026-05-19 by [[sources/2026-05-19-tg-vcnews-may-12-14-2026]] : prior framing «повысил ценовой диапазон IPO и планирует привлечь до $4,8 млрд при капитализации $48,8 млрд» — это были pre-IPO price-up параметры (target/estimate). IPO теперь ЗАКРЫТ с фактическими цифрами ниже/выше — см. актуальный текст -->
 
-Американский ИИ-стартап Cerebras Systems, считающийся **прямым конкурентом Nvidia** в производстве AI-чипов, **завершил IPO** и привлёк **$5,55 млрд** — крупнейшее размещение 2026 года на момент закрытия. После IPO рыночная стоимость компании составила около **$40 млрд**, с учётом опционов и варрантов — почти **$49 млрд**. `[conf:high, src:2026-05-14]` Это второй заход компании на публичные рынки — первый был в 2024 году, документы тогда отозвали; новая заявка подана в апреле 2026. `[conf:high, src:2026-05-04]`
+<!-- superseded 2026-05-26 by [[sources/2026-05-26-tg-ai-newz-may-19-25-2026]] : prior cap value на момент закрытия 14 мая был ~$40 млрд (с опционами ~$49 млрд). На 22 мая (8 дней post-IPO open) cap = $56 млрд — рост $16 млрд (+40%) за неделю Nasdaq float rally. Старая цифра $40B (close-of-IPO-day) остаётся валидной для своей даты, но **текущая cap (post-float-rally) = $56B** --> [conf:low, src:2026-05-26]
+
+Американский ИИ-стартап Cerebras Systems, считающийся **прямым конкурентом Nvidia** в производстве AI-чипов, **завершил IPO** и привлёк **$5,55 млрд** — крупнейшее размещение 2026 года на момент закрытия `[conf:high, src:2026-05-14]`. По состоянию на закрытие торгов 14 мая рыночная стоимость компании составляла около **$40 млрд**, с учётом опционов и варрантов — почти **$49 млрд** `[conf:high, src:2026-05-14]`. По состоянию на **22 мая 2026 (8 дней post-IPO float)**, market cap вырос до **$56 млрд** `[conf:high, src:2026-05-22]` — это **+40% ($16 млрд) за неделю** Nasdaq float rally. Это второй заход компании на публичные рынки — первый был в 2024 году, документы тогда отозвали; новая заявка подана в апреле 2026 `[conf:high, src:2026-05-04]`.
 
 ## Параметры IPO (ФИНАЛ — после закрытия 2026-05-14)
 
@@ -28,8 +30,10 @@ namespace: mkt
 |---|---|---|
 | Биржа | Nasdaq | `[conf:high, src:2026-05-04]` |
 | **Объём привлечения (фактический)** | **$5,55 млрд** (крупнейшее IPO 2026) | `[conf:high, src:2026-05-14]` |
-| **Капитализация после IPO** | **~$40 млрд** | `[conf:high, src:2026-05-14]` |
-| **Капитализация с опционами/варрантами** | **~$49 млрд** | `[conf:high, src:2026-05-14]` |
+| Капитализация на закрытии IPO (14 мая) | ~$40 млрд | `[conf:high, src:2026-05-14]` |
+| Капитализация с опционами/варрантами (14 мая) | ~$49 млрд | `[conf:high, src:2026-05-14]` |
+| **Market cap на 22 мая (post-float-rally)** | **~$56 млрд** | `[conf:high, src:2026-05-22]` |
+| **Δ cap за 8 дней post-IPO** | **+$16 млрд (+40%)** | `[conf:high, src:2026-05-22]` |
 | Первый заход | 2024 — отозвана | `[conf:high, src:2026-05-04]` |
 | Текущий заход | апрель 2026 — повторная подача, закрыт 14 мая 2026 | `[conf:high, src:2026-05-14]` |
 | Δ к price-up target | факт $5,55 млрд > target $4,8 млрд (+16%) | `[conf:high, src:2026-05-14]` |
@@ -79,6 +83,8 @@ namespace: mkt
 - [[sources/2026-05-05-tg-forbesrussia-may-4-5-2026]] — первичный источник (initial parameters)
 - [[sources/2026-05-14-tg-vcnews-may-8-12-2026]] — price-up cross-source
 - [[sources/2026-05-19-tg-vcnews-may-12-14-2026]] — IPO close ($5,55 млрд raised, cap ~$40 млрд)
+- [[sources/2026-05-26-tg-ai-newz-may-19-25-2026]] — post-IPO cap update ($56 млрд на 22 мая)
+- [[volatile-strict/competitor-news/cerebras-kimi-k26-1000tps-2026-05]] — Cerebras × Kimi K2.6 1000 t/s (operational proof-of-traction post-IPO)
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — макротренд AI-гонки
 - [[volatile-strict/industry-news/apple-tsmc-diversification-2026-05]] — параллельная диверсификация цепочки
 - [[evolving/industry-trends/china-ai-manufacturing-momentum-2026]] — глобальный AI-hardware фон
@@ -90,6 +96,7 @@ namespace: mkt
 
 - **[2026-05-14]** vcnews 61306 (2026-05-11) поднимает ценовой диапазон IPO с $115-125 до $150-160 за акцию, target — с $3,5 млрд до $4,8 млрд, капитализацию — до $48,8 млрд. Resolution: однозначная — это **обновление того же IPO**, не противоречие. Старая запись supersededа (HTML-comment выше) с сохранением audit-trail. `[conf:high, src:2026-05-11]`
 - **[2026-05-19]** vcnews 61358 (2026-05-14) фиксирует **закрытие IPO**: фактически привлечено **$5,55 млрд** (выше price-up target $4,8 млрд), cap после IPO **~$40 млрд** (~$49 млрд с опционами/варрантами) — **ниже** pre-IPO-оценки $48,8 млрд. Resolution: однозначная — это **факт vs прогноз того же IPO**. Pre-IPO «cap по верхней границе» был оптимистичной оценкой; открытие торгов дало более скромную market cap при бóльшем фактическом raise. Старые price-up-параметры supersededы (HTML-comment в таблице) с сохранением audit-trail. `[conf:high, src:2026-05-14]`
+- **[2026-05-26]** ai_newz post 4587 (2026-05-22) фиксирует **post-IPO float rally**: cap на 22 мая = **$56 млрд**, **+40% за 8 дней** vs cap-of-close $40 млрд. Resolution: **не противоречие, а temporal update** — обе цифры валидны для своих дат. Это **typical post-IPO float dynamic** для hot AI-hardware ticker'а: open-of-IPO float активно re-prices в первые недели, индекс-фондовый mass-buying pushes the float price up. Цифра $40B остаётся valid as «cap at close of IPO», текущая (рабочая) cap = $56B. `[conf:high, src:2026-05-22]`
 
 ## Backlinks
 

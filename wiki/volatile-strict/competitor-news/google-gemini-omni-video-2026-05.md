@@ -9,22 +9,45 @@ tags: [google, gemini, veo, video-generation, multimodal, ai-platform-wars]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +second-source attest @cgevent (11-12 мая, посты 15656/15661/15662): пользователи Gemini видят приглашение «Meet our new video model», cgevent сравнивает с Seedance (математика/текст «явно получше», наследие Flash+Nanobanana), цензура (Will Smith не пропускает)
-sources: [sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md]
+updated: 2026-05-26  # +third-source attest @boris_again (пост 3914 от 2026-05-20): official I/O announcement превратил leak в подтверждённое событие; +pricing AI Plus $20/мес, AI Ultra $100/мес, Vertex AI «в ближайшие недели», SynthID watermark, C2PA Content Credentials, AI Content Detection API — confidence поднята с medium до high
+sources: [sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md, sources/2026-05-26-tg-boris-again-may-19-24-2026.md]
 namespace: mkt
 ---
 
-# Google тестит Gemini Omni — конец Veo как отдельной линейки (май 2026)
+# Google Gemini Omni — официальный анонс на Google I/O (май 2026)
 
-**Дата сигнала:** 2026-05-11 (пост 4564 в [[sources/2026-05-14-tg-ai-newz-may-2026|@ai_newz]]) `[conf:medium, src:2026-05-11]`.
+**Дата leak'а:** 2026-05-11 (пост 4564 в [[sources/2026-05-14-tg-ai-newz-may-2026|@ai_newz]]) `[conf:medium, src:2026-05-11]`.
+**Дата официального анонса:** 2026-05-20 (Google I/O 2026, [boris_again пост 3914](https://t.me/boris_again/3914)) — leak подтверждён, переведён в `[conf:high, src:2026-05-20]`.
 
 ## Что произошло
 
-Согласно пересказу `@ai_newz`, Google тестирует **Gemini Omni** — апдейт основной модели Gemini, который добавляет **видеогенерацию** к уже существующим выходам (текст, изображения, аудио) `[conf:medium, src:2026-05-11]`. Источник: leak/insider-watch, не официальный анонс.
+Согласно пересказу `@ai_newz`, Google тестирует **Gemini Omni** — апдейт основной модели Gemini, который добавляет **видеогенерацию** к уже существующим выходам (текст, изображения, аудио) `[conf:high, src:2026-05-20]`. <!-- superseded 2026-05-26 by [[sources/2026-05-26-tg-boris-again-may-19-24-2026]] : confidence medium → high, источник leak → официальный анонс на I/O -->
 
-**Структурное следствие:** **линейке Veo как отдельной линейке моделей пришёл конец** `[conf:medium, src:2026-05-11]`. Veo консолидируется внутрь Gemini.
+**Структурное следствие:** **линейке Veo как отдельной линейке моделей пришёл конец** `[conf:high, src:2026-05-20]`. Veo консолидируется внутрь Gemini.
 
-**Ожидаемая презентация:** на **Google I/O** (предполагаемо в следующую неделю после поста, то есть конец мая 2026) `[conf:medium, src:2026-05-11]`.
+**Дата официальной презентации:** **2026-05-20 на Google I/O 2026** `[conf:high, src:2026-05-20]` (leak от 11 мая прогноз подтвердился — окно «в следующую неделю» точно совпало).
+
+## Официальный анонс — что добавил I/O
+
+Прямая цитата из поста [@boris_again 3914](https://t.me/boris_again/3914) (2026-05-20 10:37 UTC):
+
+> «Google собрал весь мультимодальный стек в одну модель: текст, изображение, аудио, видео на вход — видео на выход. Первая модель семейства, **Gemini Omni Flash**, уже доступна подписчикам.»
+
+**Pricing:**
+- **AI Plus** — от **$20/мес** `[conf:high, src:2026-05-20]`
+- **AI Ultra** — от **$100/мес** с приоритетом `[conf:high, src:2026-05-20]`
+- **Vertex AI API** — «в ближайшие недели» `[conf:high, src:2026-05-20]`
+- **SLA:** нет (на момент анонса) `[conf:high, src:2026-05-20]`
+
+**Безопасность и provenance:**
+- Каждый сгенерированный ролик маркируется **невидимым водяным знаком SynthID** `[conf:high, src:2026-05-20]`
+- Google расширяет **C2PA Content Credentials** `[conf:high, src:2026-05-20]`
+- Запускается **AI Content Detection API** для распознавания сгенерированного контента `[conf:high, src:2026-05-20]`
+
+**Капабилити:**
+- Multimodal layering — каждая инструкция наслаивается на предыдущую («замени скульптуру на мыльные пузыри», «когда рука касается зеркала — зеркало плывёт») `[conf:high, src:2026-05-20]`
+- Модель **помнит контекст и сохраняет персонажей сквозь правки** `[conf:high, src:2026-05-20]`
+- Физика улучшена: **гравитация, кинетика, динамика жидкости** `[conf:high, src:2026-05-20]`
 
 ## Second-source attestation: @cgevent (11–12 мая)
 
@@ -83,6 +106,19 @@ Google делает **обратный bet**: одна модель — все �
 - [[volatile-strict/competitor-news/anthropic-spacex-colossus-rental-2026-05]] — параллель compute crunch (Anthropic закрывает свою сторону)
 - [[volatile-strict/competitor-news/anthropic-third-party-credits-2026-06]] — параллельный ход Anthropic в ecosystem-распределение
 
-## Caveat
+## Caveat (исторический — пред-анонсный период)
 
-`@ai_newz` — vторичный пересказ leak/insider-watch, без официального источника. **Не использовать для пресс-цитат** до анонса на I/O. Это — early signal для tracking трендов, не canonical fact для публикации.
+<!-- superseded 2026-05-26 by [[sources/2026-05-26-tg-boris-again-may-19-24-2026]] : leak подтверждён на I/O, caveat больше не релевантен. Сохранено как audit trail. -->
+
+(До 20 мая 2026) `@ai_newz` — вторичный пересказ leak/insider-watch, без официального источника. **Не использовать для пресс-цитат** до анонса на I/O. Это — early signal для tracking трендов, не canonical fact для публикации.
+
+**После 20 мая 2026:** официальный Google анонс на I/O, факт canonical, можно цитировать.
+
+## Contradictions
+
+- **[2026-05-26]** Конфликт между `confidence: medium` (leak от 11 мая) и `confidence: high` (официальный анонс 20 мая) разрешён в пользу свежего/первичного. Старая формулировка обёрнута в HTML-комментарий, новая стала visible. Источник: [[sources/2026-05-26-tg-boris-again-may-19-24-2026]].
+
+## Связанные страницы (обновлено)
+
+- [[sources/2026-05-26-tg-boris-again-may-19-24-2026]] — official-anouncement source (boris_again пост 3914)
+- [[volatile-strict/competitor-news/google-gemini-3-5-flash-launch-2026-05]] — parallel I/O анонс (Gemini 3.5 Flash + Spark)

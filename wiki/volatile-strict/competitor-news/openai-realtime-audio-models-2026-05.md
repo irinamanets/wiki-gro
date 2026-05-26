@@ -9,8 +9,8 @@ tags: [ai, openai, realtime-api, audio, voice, translation, transcription]
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-vcnews-may-5-8-2026.md]
+updated: 2026-05-26  # +second-voice confirmation от Кульгина (TG @bezsmuzi 15966, 10 мая) с воспроизведением 3-моделей: GPT-Realtime-2, GPT-Realtime-Translate (70/13 яз.), GPT-Realtime-Whisper
+sources: [sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md]
 namespace: mkt
 ---
 
@@ -56,12 +56,27 @@ namespace: mkt
 - **Качество синхронного перевода** на парах ru-en, en-ru — критично для RU-инфраструктуры.
 - **Latency benchmark** vs Google Gemini 3.1 Flash Live и Realtime у Anthropic — кто лидирует в production-voice-агентах.
 
+## Second-voice confirmation от Кульгина (10 мая 2026)
+
+[[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026|Пост 15966 Максима Кульгина]] от 2026-05-10 — **второй независимый голос** на тот же анонс (vc.ru → Кульгин), с **точными названиями трёх моделей**:
+
+1. **GPT-Realtime-2** — рассуждающая, на уровне GPT-5. `[conf:high, src:2026-05-10]`
+2. **GPT-Realtime-Translate** — перевод real-time, **70 языков на входе, 13 на выходе**. `[conf:high, src:2026-05-10]`
+3. **GPT-Realtime-Whisper** — потоковая транскрипция.
+
+Кульгин ссылается на официальную страницу OpenAI: [openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/) — это primary URL для верификации.
+
+Вопрос-провокация Кульгина: «**Кто реально применяет агентов? Как вы это делаете, без шуток?**» — фиксирует gap между announcement-volume и actual production-adoption agent-tooling в RU-сегменте.
+
 ## Связанные страницы
 
 - [[volatile-strict/competitor-news/anthropic-claude-dreams-mode-2026-05]] — параллельный анонс Anthropic в тот же день
 - [[volatile-strict/industry-news/ai-model-releases-mar-apr-2026]] — общая сводка релизов
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — контекст гонки
 - [[sources/2026-05-14-tg-vcnews-may-5-8-2026]] — первоисточник
+- [[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]] — second-voice confirmation
+- [[volatile-strict/competitor-news/chatgpt-in-spreadsheets-2026-05]] — co-occurring OpenAI релиз
+- [[volatile-strict/competitor-news/tencent-hunyuan-translation-on-device-2026-05]] — китайская on-device альтернатива (33 яз. локально)
 
 ## TTL
 

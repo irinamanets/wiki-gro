@@ -9,8 +9,8 @@ tags: [content, telegram, founder-voice, hooks, growth, retention, marketing, na
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +хуки may 2026: hockey-stick adoption-нарратив (1197), production native-ad шаблон ReStaff с регуляторным triggerом (1199)
-sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md, sources/2026-05-05-tg-bossofyourboss-apr-may-2026.md, sources/2026-05-14-tg-bossofyourboss-may-12-13-2026.md]
+updated: 2026-05-26  # +хуки may 20-24 2026 (посты 1202-1205): hiring meme «15 ₽ — собери команду», «эпоха нейрослопа» 6 тезисов (2/5/60 сек BS-detection, 4/5 рекламы в ленте, performance-маркетинг = bren OR proofs OR content), Claude Projects workspace pattern. Prior: +хуки may 2026 ReStaff/hockey-stick (2026-05-14).
+sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md, sources/2026-05-05-tg-bossofyourboss-apr-may-2026.md, sources/2026-05-14-tg-bossofyourboss-may-12-13-2026.md, sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md]
 namespace: mkt
 ---
 
@@ -159,6 +159,44 @@ Footer (отдельная строка, курсивом): `ООО «Стафф
 - **Caveat по ToV:** Tabunov-вариант self-screening использует «ты»-обращение и founder-collegial tone. Для GRO с brand-guidelines на «вы» (если канонизированы) — адаптировать местоимение, сохранив всё остальное.
 - **Cross-link:** регуляторный trigger в посте про USDT — отдельный сигнал → [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] вектор 14.
 
+### Hiring-meme как pricing-list (пост 1202, 2026-05-20)
+
+Источник: [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] пост 1202. Полная анатомия формата — [[evolving/content-trends/hiring-meme-pricing-list-tabunov]]. Готовые хуки:
+
+- **«У тебя есть [N] [единиц]. Собери [объект] из меню»** — generic template, переиспользуемый для контент-марафонов, hiring-mock-ups, продуктовых конфигураторов.
+- **«Маркетолог с работающими гипотезами +150 ₽»** — implicit market-signal: operational маркетинговая зрелость как scarce-asset (выше базы маркетолога 3 ₽ в 50×). Хук для постов про GRO-аудиторию (маркетологи как один из сегментов).
+- **«Aligned execution +200 ₽»** — psychological safety / shared context > technical skills. Кладётся в рамку leadership / team-culture (cross-link: [[canon/marketing-frameworks/distributed-team-management-principles]]).
+- **«Forbes 30 under 30 = −2 ₽ скидка»** — анти-prestige hook. Готов к посту-инверсии медийного статуса (cross-link с [[canon/marketing-frameworks/build-in-public-as-paid-traffic-anti-pattern]]).
+- **«Не путает agile с fragile»** — communication-as-scarce-asset, ready-to-quote.
+- Формат можно переложить на **GRO-собственное «меню практик»:** «У тебя 30 минут в день. Собери GRO-протокол.»
+
+### «Эпоха нейрослопа» — 6-тезисная performance-рамка (пост 1204, 2026-05-22)
+
+Источник: [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] пост 1204. Полная рамка — [[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]]. Готовые хуки:
+
+- **«AI-лендинг детектится за 5 секунд. У вашего лендинга столько же.»** — пугающе-конкретный hook про AI-маркеры (`[conf:medium, src:2026-05-22]`). Для founders / маркетологов.
+- **«AI-контент детектится за 2 секунды»** — короткая killer-фраза для заголовка, поста, заставки видео.
+- **«Эпоха нейрослопа закончилась. Performance-маркетинг 2026 требует одного из трёх: бренд, пруфы или много качественного контента»** — operational gating-hook для founders.
+- **«Скорость деливери продукта больше не решает. Решают качество, смыслы и проработка»** — анти-vibecoding/анти-«MVP за выходные» хук.
+- **«Копикет — это шум. Решает ретеншен и качество»** — анти-страх-копирования hook; пересекается с retention-нарративом GRO («дырявое ведро»).
+- **«Ленты соцсетей 2026: 4 из 5 элементов — реклама. Время в соцсетях впервые падает за столько лет»** (`[conf:medium, src:2026-05-22]`) — anchor для постов про сдвиг к owned-channels / закрытым комьюнити.
+- **Tone-маркер:** «вкинуть какое-то говно в прод» — органичная Tabunov-формулировка анти-«MVP за выходные». Для GRO с более formal-tone — переформулировать в «выкатить недоработанное».
+
+### Claude Projects workspace pattern (пост 1205, 2026-05-24)
+
+Источник: [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] пост 1205. Хуки:
+
+- **«На экране проектов в Claude у меня уже скроллинг появился»** — authentic founder-voice hook про operationalize-ation AI у founders. Ready-to-quote.
+- **«AI как unified context-keeper: работа и личная жизнь в одной среде»** — позиционирование Claude Projects (и аналогов) как новой OS персональной/рабочей жизни.
+- **«Catch-all bucket "продуктово-маркетинговый шлак"»** — low-threshold workspace-creation pattern. Hook для постов про «не бойся создавать новые папки».
+- **GRO-angle:** позиционирование GRO как «daily-habit workspace для тела и привычек», параллель с тем, как Claude Projects стал «workspace для head». См. cross-link [[canon/marketing-frameworks/harness-engineering-for-ai-agents]].
+
+### Native-channel как backup contractor sourcing (пост 1203, 2026-05-21)
+
+Источник: [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] пост 1203. Operational hook:
+
+- **«Свои контакты закончились, пришло время писать в канал»** — pattern: собственный канал как fallback для подрядного pool'а. Hook для founders-аудитории про **owned audience как hiring-asset**. Cross-link с [[canon/marketing-frameworks/personal-brand-channels-5-types-magas]].
+
 ## Anti-hooks (что не транслировать)
 
 Некоторые фрагменты источника — не хуки, а **анти-примеры**, которых GRO должен избегать в своём контенте:
@@ -187,6 +225,9 @@ Footer (отдельная строка, курсивом): `ООО «Стафф
 - [[sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026]]
 - [[sources/2026-05-05-tg-bossofyourboss-apr-may-2026]]
 - [[sources/2026-05-14-tg-bossofyourboss-may-12-13-2026]] — 1197 (hockey-stick хук) + 1199 (production native-ad шаблон)
+- [[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]] — 6-тезисная рамка эпохи нейрослопа
+- [[evolving/content-trends/hiring-meme-pricing-list-tabunov]] — анатомия формата pricing-list-як-сатира
+- [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] — 1202 (hiring meme) + 1204 (нейрослоп 6 тезисов) + 1205 (Claude Projects)
 
 ## Backlinks
 

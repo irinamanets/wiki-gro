@@ -9,8 +9,8 @@ tags: [content, telegram, narrative, hooks, objections, burnout, owner-self-mana
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-23  # +owner-side зеркало «чайка-менеджмент» (vc.ru/hr): «без системы прилёты обесцениваются», «хаос-как-инструмент = ловушка владельца», double-bind как anti-hook. Ранее: +hooks 4-го среза Якубы; +cross-ref «зеркало владельца» (Горская/Pressfeed); +Петросян пост 2311; +Visotsky 4-й срез
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-19-vcru-hr-seagull-management-case.md]
+updated: 2026-05-26  # +engagement-вопрос «стратегия есть или её нет?» (Visotsky 3842) — fingerprint собственный, не как контр-пример «прилётного» owner'а, а как diagnostic для readers. Ранее: +owner-side зеркало «чайка-менеджмент» (vc.ru/hr); +hooks 4-го среза Якубы; +cross-ref «зеркало владельца» (Горская/Pressfeed); +Петросян пост 2311; +Visotsky 4-й срез
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -353,6 +353,21 @@ Krylov расширяет: «Универсал выглядит удобно. �
 - **Карьеристы**: «Тот план развития навыков, который вы реализуете сейчас, — даст вам переход на следующий грейд за 12 месяцев?». Трёхлетнее окно слишком длинное для этой аудитории.
 - **Предприниматели**: «Если всё продолжится так, как сейчас, где будет ваш проект через год? Если ответ "примерно там же, где сегодня" — значит, плана нет, даже если у вас есть таблица с целями».
 - **Фрилансеры**: «Ваш доход через 12 месяцев будет выше / ниже / таким же? Что конкретно в вашем подходе говорит именно об этом ответе?».
+
+### «Стратегия есть или её нет?» (engagement-question, Visotsky пост 3842, 2026-05-24)
+
+**Оригинал (пост 3842):** «🟡 По поводу стратегии — **вечная дилемма: она есть или её нет.** По каким критериям вы сами определяете, что стратегия есть? Формальный документ, квартальные отчёты, гипотезы, идеи, общая уверенность команды в направлении? Напишите в комментариях — интересно сравнить подходы.»
+
+**Механика:** **формат-zero-content**: автор не даёт ответа сам, а ставит вопрос и просит читателей самим сравнить критерии. Это **diagnostic-reframe** через peer-discussion. Reader, который не может назвать свой критерий — получает immediate negative signal «значит, у меня её нет», даже если автор этого явно не говорит. Очень похоже по структуре на «План х10 за 2-3 года» выше, но **без явного оценочного суждения**.
+
+**Почему работает:** комбинация **engagement-вопроса** (high comment-conversion) + **stealth-self-diagnostic** (low-resistance, потому что reader не чувствует, что его оценивают). Перекликается с [[canon/marketing-frameworks/simple-strategy-acceptance-by-team|правилом «простая стратегия, принятая всеми»]] того же автора — это part of two-step content-bundle: hard rule (есть простая или нет = есть стратегия или нет) + soft engagement (вопрос «как вы определяете?»).
+
+**Для GRO-контента:** напрямую переносимая формула:
+- «У вас есть план следующего квартала? По каким критериям вы это определяете — записанный документ, общее ощущение, привычные действия?»
+- «У вас есть routine утра? Как вы понимаете, что есть, а не "вроде что-то делаю"?»
+- «У вас есть стратегия восстановления? Не "я пытаюсь хорошо спать", а конкретный набор действий с критериями.»
+
+Reusable **stealth-diagnostic engagement-вопрос**: открытый вопрос «как вы определяете, что X есть» → реакция reader'а «а действительно — как?» → low-resistance self-doubt без давления.
 
 ### «Рабочая неделя-аудит из 4 пунктов»
 

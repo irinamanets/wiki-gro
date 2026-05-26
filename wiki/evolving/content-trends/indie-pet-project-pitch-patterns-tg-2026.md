@@ -9,8 +9,8 @@ tags: [content, telegram, founder-voice, indie, pet-projects, self-pitch, conten
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +delta хвоста «недели пет-проектов» (3902-3907, 3910): 6 новых submission'ов + compression-roundup, корпус N=24 → N≈35
-sources: [sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-19-tg-boris-again-may-14-18-2026.md]
+updated: 2026-05-26  # +delta (21 мая 2026, пост 3917): сам Борис self-pitch'ит свой pet-project getmana.md — «karpathy llm wiki» обёрнутая в SaaS-форму с waitlist + GitHub Gist обложка как legitimacy-anchor. Curator → self-curator: автор канала встаёт в один ряд с reader-submissions, что подтверждает универсальность формата.
+sources: [sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-19-tg-boris-again-may-14-18-2026.md, sources/2026-05-26-tg-boris-again-may-19-24-2026.md]
 namespace: mkt
 ---
 
@@ -298,3 +298,29 @@ Skiller (skill-менеджмент для агентов), Palatine Speech + Sp
 - [[canon/target-audience/ru-ai-telegram-audience-segments]] — «Продвинутый» сегмент (17%), который этот канал представляет
 - [[canon/marketing-frameworks/bootstrap-vs-startup-tabunov]] — все 24 pitch'а — bootstrap, не startup (явный divide)
 - [[canon-strict/legal-claims/ad-marking-russia-2026]] — paid-vs-organic distinction поддержан маркировкой `erid:...`
+- [[sources/2026-05-26-tg-boris-again-may-19-24-2026]] — third source (Boris self-pitch для getmana.md, пост 3917 от 2026-05-21)
+
+## Curator → self-curator: Borris self-pitch для getmana.md (21 мая 2026)
+
+Пост 3917 в [[sources/2026-05-26-tg-boris-again-may-19-24-2026]]:
+
+> «[pet project]
+> Привет!
+> Сделал себе karpathy llm wiki, и мне очень зашло, теперь заворачиваю для общего использования <https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f#file-llm-wiki-md>
+> Накидайте почт через сайт, если это ваше
+> <https://getmana.md>»
+
+**Анатомия — соответствует ровно skelet'у self-pitch'а из корпуса:**
+
+1. **Tag-bracket** «[pet project]» — точно тот же тип маркера, что у reader-submissions
+2. **Personal origin** «сделал себе X, мне очень зашло» — pattern «scratched my own itch», самый частотный в корпусе
+3. **Legitimacy-anchor через Karpathy gist** — отсылка к авторитету (то же, что мы видели у reader-submissions с GitHub-ссылками)
+4. **Soft CTA** «Накидайте почт через сайт» — waitlist-формат, точно как в корпусе
+5. **Bare URL** — без UTM, без affiliation tags, founder-clean (точный паттерн corpus'а)
+6. **Image (GitHub Gist обложка)** — visual proof of concept
+
+**Что добавляет этот случай.** Боря — куратор канала — выступает в роли **self-submitter**, что отказывается от editor-author hierarchy. Это **усиливает** тезис «формат — не Product Hunt и не Show HN, а native-Telegram-форма», потому что **сам куратор использует этот формат для себя**. Tone того же self-deprecation register'a (`сделал себе`, `мне очень зашло`), хотя могла быть corporate-pitch (`мы выпустили новый продукт`).
+
+**Sub-cluster:** "AI tooling / personal knowledge management" — приращение к существующему AI-tooling кластеру корпуса, ещё одна точка валидации, что **AI-tooling доминирует** в self-pitch-категории 2026.
+
+**Wider implication:** если **curator-канал = corpus источник**, и **curator-канал = sample submitter**, то pattern имеет **single-source unification** — формат **универсально применим** в этом микрожанре. Confidence нашей анатомии поднимается до **medium-high**.

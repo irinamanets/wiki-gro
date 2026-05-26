@@ -9,8 +9,8 @@ tags: [competitor, business-education, telegram, personal-brand, mastermind, saa
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-20  # +fourth observational slice 2026-05-14..05-19: возврат к ≈2 поста/день после camp-window; dashboard-фичи Platform; Davyd Yan/Newo.ai AI-employees podcast; carousel «3 убийцы бизнеса»; Sunday Scaries lead-magnet; чек-ап бизнеса offer
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md]
+updated: 2026-05-26  # +fifth observational slice 2026-05-19..05-25: «вайб-менеджмент» concept; 7-checklist нишевой валидации; «7 токсичных ниш» YouTube-формат; networking-causal-stories hook; Platform Reports module + Канбан-календарь sync + 22 языка; личный CFO на Claude; Кишинёв→Варшава active-travel-режим
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -297,9 +297,71 @@ Frame-формула: «X — это не про инструменты, X — �
 
 **Качественный сдвиг (окно 4):** возврат к baseline-режиму после camp-распухания + **два новых content-формата** (инфографик-карусель, named-syndrome lead-magnet) + **усиление AI-agent advocacy** (от personal-assistant к vertical voice-AI). Промо-доля выросла (31%), но за счёт диагностических lead-продуктов (чек-ап, инструкция), а не агрессивного offline-FOMO. Watch-point на 5-й срез: (а) закрепится ли carousel как регулярный формат, (б) появятся ли клиентские кейсы внедрения AI-сотрудников (proof-points), (в) реализуется ли team-AI-продукт из announce 3785 в отдельную программу.
 
+## Update 2026-05-26 — пятый наблюдательный срез (7 дней, active-travel-режим)
+
+Дамп [[sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026|2026-05-19..05-25]] (40 постов 3805–3844). Темп ≈6 постов/день — выше base-line ≈2/день из четвёртого среза, но **не camp-mode** (как был в 3-м срезе с 61% conference-recap). Структура распухания другая: **active-travel-режим** — Кишинёв (стратегическая сессия с узбекскими партнёрами) → Варшава (Boost Forum + Стратегическая перезагрузка). 34 из 40 пост-слотов — media-fillers (16 jpg, 17 mp4, 1 ogg) к 6 substantive text-постам. Из этой партии 6 — **canon/evolving-level material**, остальные — promo / travelogue / events.
+
+### 1. «Вайб-менеджмент» как новый именованный концепт (пост 3807)
+
+Высоцкий вводит термин **«вайб-менеджмент»** как перенос «вайб-кодинга» из IT-domena в управленческий: owner делегирует AI всю административную рутину (задачи, контроль, метрики, финансы, угрозы, решения). С жёстким data-prerequisite: «ИИ бесполезен без данных». Подробный разбор и связь с Platform — в [[canon/marketing-frameworks/vibe-management-data-prerequisite]].
+
+**Сигнал:** rotation позиционирования Business Booster продолжается из 3-го среза (BOS → BOS+AI). Теперь в фирменном vocabulary появляется **именованный концепт** для AI-augmented owner-management. Это часть **product-naming groundwork** для будущего team-AI-adoption продукта, который автор анонсировал в посте 3785 (3-й срез).
+
+### 2. 7-checklist нишевой валидации (пост 3813)
+
+Operational due-diligence framework на 7 пунктов: финмодель (CAC/LTV/break-even), структура расходов, сезонность, конкуренты, потребитель, масштабируемость, цена выхода. Decision-rule: «2-3 пункта "не уверен" — не начинайте». Подробный разбор и адаптация для GRO ICP — в [[canon/marketing-frameworks/visotsky-niche-validation-7-checklist]]. CTA — promo'ит бот `bbooster_lm_bot` с готовым промпт-asset'ом «полный анализ ниши» (prompt-as-lead-magnet pattern из 3-го среза, см. [[evolving/content-trends/visotsky-ai-personal-assistant-narratives]]).
+
+### 3. «7 токсичных ниш» — YouTube-format с face-thumbnail (пост 3834)
+
+**Парный пост к 3813** в одной недельной волне: pre-commit чек-лист + post-mortem catalog. Видео с face-thumbnail «ЭТИ БИЗНЕСЫ УМИРАЮТ ЗА ГОД», фитнес-студии в США как образцовый named-anti-pattern. Reusable content-format с **demo-deepening** механикой (один из семи разобран в caption'е, остальные за YouTube-CTA) — детальный разбор в [[evolving/content-trends/toxic-niches-list-content-format]]. Подтверждает повторяемость [[evolving/content-trends/youtube-thumbnail-face-trend|face-thumbnail тренда]] на канале.
+
+### 4. Networking-randomness causal stories (пост 3805)
+
+Reusable narrative-hook «случайное знакомство → актив»: два мини-кейса (Валентин Василевский → партнёрство 30+ лет; Ник Давыдов → DVC, 135 стартапов, 7 единорогов). Reframe нетворкинга из soft-skill в asset-multiplier. Подробный разбор и адаптация для GRO ICP — в [[evolving/content-trends/networking-randomness-causal-stories-hook]]. Открывает 4-ю ось networking-фреймворков в RU-marketing-канон (наряду с Ворониным, Магась, Гущиной).
+
+### 5. Простая стратегия, принятая всеми > сложная (3808/3824/3842)
+
+**Тройной повтор** одного тезиса в одной недельной волне (понедельник, среда, суббота) поднимает его confidence до уровня устойчивой mental-model автора. Working-rule оформлен в отдельную canon-страницу [[canon/marketing-frameworks/simple-strategy-acceptance-by-team]]. Связь с уже зафиксированными в RU-каноне «execution > planning» (Bossidy/Charan, Drucker) и [[canon/marketing-frameworks/hedgehog-vs-fox-strategy-2026|Hedgehog концептом]].
+
+### 6. Platform Reports module + Канбан-календарь sync + 22 языка (пост 3810)
+
+Новый функциональный блок Platform — единый dashboard «кто реально работает, какие метрики растут/падают, нарушения сроков, weekly-planning». Канбан синхронизирован с календарём, задачи привязаны к временным слотам — это **time-aware planning** layer. Languages: 22 (добавлены чешский и румынский). Полный feature-update — в [[evolving-strict/competitor-metrics/business-booster-platform-features-2026]]. Это **второе значимое расширение feature-set за 6 наблюдательных недель** (после mobile-app в 3-м срезе).
+
+### 7. Личный CFO на Claude — третий operational AI-case (пост 3807)
+
+Кейс «личный финдиректор на Claude»: доступ к счетам/кредиткам/обязательствам/активам, отвечает «стоит ли совершить эту покупку», предупреждает о кассовых разрывах, отслеживает транзакции. Третий operational AI-case канона Высоцкого после Cowork-страховки (2-й срез) и инвест-дека (2-й срез). Анализ как пополнение AI-narrative-pattern'а — в [[evolving/content-trends/visotsky-ai-personal-assistant-narratives]] (Update 2026-05-26).
+
+### 8. AI-агент по новостям — продуктовый telegraph (пост 3807)
+
+«Личный ИИ-секретарь по сбору новостей: ноу-хау по менеджменту, развитию бизнеса, росту прибыли. Моё внимание стоит дорого. Если вам будет интересно читать эту отборную ИИ-выжимку — дайте знать в комментариях.» Это **testing-the-water** для будущего продукта или контент-серии (новостной digest как mid-funnel-asset). Reusable hook: «**моё внимание стоит дорого**» — short formulation, переносим для GRO как high-value-attention frame.
+
+### Обновлённая таблица типов постов (пятый срез, 40 постов)
+
+Пересчитан на 5-м срезе (40 постов 3805–3844, 7 дней active-travel):
+
+| Тип | Окно 3 | Окно 4 | Окно 5 (3805–3844) | Тренд |
+|---|---|---|---|---|
+| Conference/event-reportage | 61% | 0% | 18% (3814 Варшава, 3818 подкаст-студия, 3829 Boost Forum, 3837 Стратегическая перезагрузка) | ↑ (active-travel сезон, не camp-mode) |
+| Framework/canon-материал | 6% | 6% (3771 hiring, 3785 team-AI) | **20%** (3805 networking, 3807 вайб-менеджмент, 3808/3824/3842 simple-strategy, 3813 7-checklist) | ↑↑ (плотность framework-постов выросла) |
+| AI-tooling / AI-agent content | 8% | 15% | 8% (3807 личный CFO + AI-news агент, 3818/3826 AI-подкаст) | стабильно (но AI-narrative переехал в личный operational tier) |
+| Промо paid/free-продукта | 6% | 31% | 13% (3810 Platform Reports, 3829 BOS practicum, 3813 промпт-asset бот) | ↓ (вернулось к нормальной доле) |
+| List-content / anti-pattern | 0% (если не считать 3-killers carousel-серии) | 0% | 5% (3834 «7 токсичных ниш») | НОВОЕ в этом окне |
+| Travelogue (low-fact) | 0% | 0% | 8% (3808 Кишинёв-90s, 3809 продолжение, 3814 Варшава-впечатления) | ↑ (active-travel вызвало его) |
+| Engagement-вопрос | 0% | 8% | 5% (3805 «у вас были такие знакомства», 3842 «по каким критериям видите стратегию») | стабильно (приём закрепился) |
+| Media-only / video без caption (album) | 47% | 15% | **85%** (34 из 40 пост-слотов — media-fillers) | ↑↑↑ (album-style преобладает в active-travel) |
+| Operational notice | 0% | 0% | 0% | стабильно |
+
+**Качественный сдвиг (окно 5):** **двойной режим** — substantive-постов мало (≈6 из 40), но их плотность framework-материала выше обычного (4 canon-страницы + 2 evolving из одной недели). Media-fillers составляют 85% (34/40) — это **album-style** active-travel-репортаж, не conference-recap. Принципиально: 5-й срез **самый плодородный по канону** из всех пяти срезов, но это **дискретный** результат — 6 высоко-плотных postов перемежаются с 34 album-вложениями.
+
+**Watch-point на 6-й срез:**
+- (а) появится ли продукт под названный концепт «вайб-менеджмент» — отдельная программа / надстройка / community?
+- (б) появится ли продолжение AI-агент-новостной серии — это был testing-the-water или launching the product?
+- (в) появятся ли клиентские кейсы внедрения вайб-менеджмента / AI-сотрудников (proof-points)?
+- (г) сохранится ли темп ≈6/день после возвращения из Кишинёва-Варшавы домой в Майами, или вернётся к baseline ≈2/день?
+
 ## Contradictions
 
-_Нет._ Второй, третий и четвёртый срезы не противоречат первому, только дополняют.
+_Нет._ Второй, третий, четвёртый и пятый срезы не противоречат первому, только дополняют.
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [content, content-hook, smb, russia, kulgin, bezsmuzi, founder, hiring, ai
 confidence: medium
 stale: false
 created: 2026-05-08
-updated: 2026-05-08
-sources: [sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
+updated: 2026-05-26  # +дамп 8-11 мая: AI-агенты vs SaaS, Stack Overflow коллапс, ПВЗ Китай, 40М пенсионеров untapped, DBS half-exit, REG.RU/Scandic miilliard exemplar'ы, MrBeast 5-year patience
+sources: [sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md]
 namespace: mkt
 ---
 
@@ -67,10 +67,75 @@ GTA-RP сервер Majestic RP (посты 15943/15929, img 15943): `[conf:low,
 
 Кульгин пишет иронично, с самоиронией про собственный бизнес («хвастаться нечем», «если наш бизнес закроется, пойду к ним в падаваны»), местами с матом (в цитируемых источниках). Для GRO-контента: **брать структуру хука, не голос** — GRO tone дружелюбно-экспертный, без цинизма и мата. Self-deprecation Кульгина можно частично переносить (создаёт relatability), цинизм — нет.
 
+## Hook-семейство 6 — патиенс-кривая MrBeast (дамп 8-11 мая)
+
+Пост 15967 ([[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]]): Mr.Beast статистика просмотров 12→28 лет: **первые 5 лет были максимально тяжелыми**. Кульгин: «Прошу, даже не пытайтесь строить личный бренд, если мыслите краткосрочными категориями.» Self-disclosure: «Я вот сдался» (бросил длинные YouTube-видео). `[conf:medium, src:2026-05-10]`
+
+- **Hook-формула:** «5 лет до результата vs твой первый месяц» — long-cycle reality check.
+- **Применимость GRO:** anti-quick-fix позиционирование GRO (продукт требует времени, не silver-bullet). См. отдельную рамку [[canon/marketing-frameworks/mrbeast-five-year-patience-content-curve|5-летняя patience-curve MrBeast]].
+
+## Hook-семейство 7 — «угадай, кто заработал миллиард» продолжение (REG.RU, Scandic)
+
+Дамп 8-11 мая ([[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]]) добавляет два exemplar'а:
+- **REG.RU** (пост 15998, img 15998): ~1 млрд ₽ чистой прибыли `[conf:low, src:2026-05-11]` — «если регистрировали домен, точно знаете». Cull self-disclosure: «мы там держим домены».
+- **Scandic** (пост 15952, img 15952): 725 млн ₽ чистой прибыли `[conf:low, src:2026-05-09]` — «конфетки на заправках, посмотрите как растут».
+
+Это **четвёртый и пятый exemplar** уже зафиксированного [[evolving/content-trends/niche-billionaire-revenue-reveal-format|жанра]] от того же автора, подтверждающие ритмичность формата.
+
+## Hook-семейство 8 — AI-агенты и сжатие SaaS (дамп 8-11 мая)
+
+Пост 15968 ([[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]]): «**$285 млрд капитализации SaaS** стёрто за квартал AI-агентами. Худший квартал со времён 2008.» + «**Модель оплаты за каждого сотрудника начинает скрипеть**». `[conf:medium, src:2026-05-10]`
+
+Пост 15971: ChatGPT в Excel/Sheets → «**Аналитики рады или нет, ведь их нужно меньше теперь**.»
+
+Пост 15982: Stack Overflow откатился **на уровень 2009 года** (3 862 вопроса/мес vs >200k на пике 2014) `[conf:medium, src:2026-05-10]`. Self-disclosure: «Я не гуглю уже полгода. Сразу в ИИ.»
+
+- **Hook-формула:** «AI стирает не профессии, а **подписки**» — structural-shift hook про SaaS-уровень.
+- **Применимость GRO:** founder/SMB-content про переоценку tools-stack компании; «не платите за пять seat'ов, если агент делает работу пятерых».
+
+## Hook-семейство 9 — пенсионеры РФ как untapped market
+
+Пост 15986 ([[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]]): «В России **40 миллионов пенсионеров**. При этом бизнесов вокруг них почти не выстраиваются. Дело в том, что предприниматели создают фирмы для решения **проблем, которые им понятны**.» `[conf:medium, src:2026-05-11]`
+
+- **Hook-формула:** «**40 миллионов untapped — а вы их не видите**» — first-principles market-blind-spot hook.
+- **Применимость GRO:** founder-content про bias problem-stack vs market-fit. См. [[canon/target-audience/seniors-as-untapped-ru-market-2026|пенсионеры как untapped market]].
+
+## Hook-семейство 10 — делегирование как watershed «бизнесмен vs предприниматель»
+
+Пост 15995 ([[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]]): «Доверие, компетенции — это очень сложно найти в управленце. Но **те, кто находят таких людей, как правило, становятся бизнесменами** (отдыхают в Монако), а другие — **предприниматели**, работают сами.» `[conf:medium, src:2026-05-11]`
+
+Это **третий независимый голос** на оси предприниматель vs бизнесмен (Фомичёв + Батырев + Кульгин); см. [[canon/marketing-frameworks/entrepreneur-vs-businessman-typology-fomichev]].
+
+- **Hook-формула:** «Нашёл управленца → отдых; не нашёл → работаешь сам» — operational test оси.
+- **Применимость GRO:** founder-content про delegation как watershed между двумя моделями жизни founder'а.
+
+## Hook-семейство 11 — рыночные парадоксы РФ (дамп 8-11 мая)
+
+Дамп 8-11 мая ([[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]]) добавляет несколько micro-парадоксов:
+
+- **«Работа Шрёдингера»** (пост 15987): «Помощник менеджера МП в Мурманске — **10 000 ₽/мес до НДФЛ**.» `[conf:low, src:2026-05-11]` Кульгин: «Бизнес сжимает булочки, набирать людей мало кто готов.»
+- **ПВЗ-парадокс** (пост 15980): сотрудники ПВЗ за **18 000 ₽/мес** (15 смен × 1 200 ₽) неоформленные `[conf:low, src:2026-05-10]` — «куда мы катимся?».
+- **Маркетплейсная убыль** (пост 15985): **−72 000 селлеров чистыми за год** (176k ушло / 104k пришло, 2023 = 550k → сейчас 466k) `[conf:medium, src:2026-05-11]`.
+- **Тестировщик 130/2** (пост 15962): 1,5 месяца поиска работы на hh.ru → 130 откликов → 2 собеседования.
+
+- **Hook-формула:** «зарплата 10к Мурманск + минус 72к селлеров за год + ИИ забирает аналитиков» — multi-anchor «рынок труда внутри сжатия».
+- **Применимость GRO:** founder-content про распадение традиционной экономики занятости + почему GRO как daily-habit становится actual ценным для **остающейся занятой части аудитории**.
+
+## Tone-caveat (важно для адаптации)
+
+Кульгин пишет иронично, с самоиронией про собственный бизнес («хвастаться нечем», «если наш бизнес закроется, пойду к ним в падаваны»), местами с матом (в цитируемых источниках). Для GRO-контента: **брать структуру хука, не голос** — GRO tone дружелюбно-экспертный, без цинизма и мата. Self-deprecation Кульгина можно частично переносить (создаёт relatability), цинизм — нет.
+
 ## Связанные страницы
 
-- [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] — источник-якорь
+- [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] — источник-якорь №1
+- [[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]] — источник-якорь №2 (8-11 мая)
 - [[evolving/industry-trends/ru-smb-sales-q1-2026]] — 10-голосный Q1-кризис (контекст «4 якорей»)
+- [[evolving/industry-trends/ru-marketplace-seller-squeeze-2026]] — −72k селлеров anchor
+- [[evolving/industry-trends/ai-agents-saas-seat-compression-2026]] — $285 млрд SaaS-capitalization erosion
+- [[evolving-strict/market-data/stack-overflow-ai-displacement-2026]] — −78% YoY на SO
+- [[canon/marketing-frameworks/mrbeast-five-year-patience-content-curve]] — 5-летний фрейм MrBeast
+- [[canon/target-audience/seniors-as-untapped-ru-market-2026]] — 40М пенсионеров untapped
+- [[canon/marketing-frameworks/entrepreneur-vs-businessman-typology-fomichev]] — третий голос Кульгина на оси
 - [[evolving/content-trends/late-starter-founder-narrative-hooks]] — хуки для аудитории 40+ (эйджизм)
 - [[evolving/content-trends/entertainment-over-pain-framing]] — рамка «развлечение > pain-killer» (GTA-RP)
 - [[evolving/content-trends/perf-marketer-automation-narrative-2026]] — эволюция профессий под ИИ

@@ -9,8 +9,8 @@ tags: [ai, ml, industry-news, openai, anthropic, google, nvidia, alibaba, meta]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +ai-newz GPT-5.5 Instant detail + Gemini Omni leak; +cgevent GPT-Realtime bench (Big Bench Audio 96.6%, Zillow +26 п.п.), Inworld TTS-2 (#1 voice-arena), Mythos Firefox 271 уязвимость, ChatGPT Spreadsheets, Codex Chrome plugin; +vc.ru/@vcnews 5-8 May confirmations: GPT-5.5 Instant default-replacement (5 мая, msg 61222); OpenAI 3 Realtime audio модели (7 мая, msg 61261, контекст 128K у speech-model); ChatGPT Spreadsheets всем (Excel+Sheets, 6 мая, msg 61238); Anthropic Dreams mode на Claude Managed Agents (7 мая, msg 61252)
-sources: [sources/2026-04-14-tg-boris-again-mar-apr-2026.md, sources/2026-04-14-tg-techno-yandex-mar-apr-2026.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-boris-again-mar-may-2026.md, sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md]
+updated: 2026-05-26  # +ai-newz Gemini 3.5 Flash (19 мая, +3× pricing, ОС за 12ч, 5 бенч-лидерств); Cerebras × Kimi K2.6 1000 t/s (22 мая); Karpathy → Anthropic (19 мая); Codex /slow tease + cache fix (24 мая). Prior: +ai-newz GPT-5.5 Instant detail + Gemini Omni leak; +cgevent GPT-Realtime bench (Big Bench Audio 96.6%, Zillow +26 п.п.), Inworld TTS-2 (#1 voice-arena), Mythos Firefox 271 уязвимость, ChatGPT Spreadsheets, Codex Chrome plugin; +vc.ru/@vcnews 5-8 May confirmations
+sources: [sources/2026-04-14-tg-boris-again-mar-apr-2026.md, sources/2026-04-14-tg-techno-yandex-mar-apr-2026.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-boris-again-mar-may-2026.md, sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-26-tg-ai-newz-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -325,6 +325,49 @@ vc.ru/@vcnews 7 мая 2026 (msg 61252): «Anthropic представила ре
 
 3. **Hyperactive week 5-8 мая.** Темп: 4 крупных OpenAI/Anthropic релиза за 4 дня + два китайских раунда (DeepSeek $45B, Moonshot $20B). Это **самая плотная AI-неделя** с момента март-мартовских анонсов. Согласуется с нарративом «AI-гонка ускоряется в Q2 2026», см. [[evolving/industry-trends/ai-corporate-race-mar-may-2026]].
 
+## Add-on: релизы W21-22 (19-25 мая 2026, через @ai_newz)
+
+Четвёртая волна релизов того же квартала, зафиксированная в [[sources/2026-05-26-tg-ai-newz-may-19-25-2026|@ai_newz дамп 4581-4590]]. Темп **сохраняется на уровне 1 крупный/неделю** (7-я неделя подряд). Качество источника = `confidence: high` (с прямыми скриншотами твитов и официальной DeepMind benchmark-таблицы).
+
+### Google Gemini 3.5 Flash — pricing-shock + agentic-lead (19 мая)
+
+**Gemini 3.5 Flash** (19 мая 2026, [[volatile-strict/competitor-news/google-gemini-3-5-flash-2026-05]] — основная страница) `[conf:high, src:2026-05-19]`. Главное:
+
+- **Pricing +200% / +200%** vs Gemini 3 Flash: $0.5/$3 → **$1.5/$9** за 1M токенов `[conf:high, src:2026-05-19]`. **Это первый крупный релиз 2026 года, в котором цена выросла, а не упала** — anti-trend signal к token-price-deflation.
+- **«Дешёвая» модель теперь равна Pro по входной цене:** $1.5 vs Gemini 3.1 Pro $2 input — middle vanishing `[conf:high, src:2026-05-19]`.
+- **Лидерство в 5 из 14 бенчмарков (по DeepMind):** MCP Atlas **83.6%**, Toolathlon **56.5%**, Finance Agent v2 **57.9%**, CharXiv Reasoning **84.2%**, MMMU-Pro **83.6%**, MRCR v2 1M pointwise **26.6%** `[conf:high, src:2026-05-19]`. **Сильные стороны**: agentic workflows + multimodal + long-context (1M pointwise, но НЕ 128k retrieval).
+- **Demo-формула:** модель **за 12 часов написала небольшую ОС, способную запустить Doom** `[conf:high, src:2026-05-19]` — следующий стандарт agentic-anchor demo.
+- **Pro модель** — обещают «в следующем месяце» (≈ июнь 2026) `[conf:medium, src:2026-05-19]`. Цена ожидается ещё более aggressive.
+
+### Cerebras × Kimi K2.6 — рекорд скорости + IPO cap update (22 мая)
+
+**Cerebras × Kimi K2.6 1000 t/s** (22 мая 2026, [[volatile-strict/competitor-news/cerebras-kimi-k26-1000tps-2026-05]] — основная страница) `[conf:high, src:2026-05-22]`:
+
+- **981 t/s** на триллион-параметровой Kimi K2.6 (Cerebras WSE) — **первый случай**, когда 1T-модель работает на такой скорости `[conf:high, src:2026-05-22]`.
+- **6.7× разрыв** vs второго места (Clarifai 147 t/s); vs Kimi native = **31.6× ускорение** `[conf:high, src:2026-05-22]`.
+- Доступ — **только enterprise** Cerebras Cloud.
+- **Параллельно — Cerebras IPO update:** market cap на 22 мая = **$56 млрд** (vs $40 млрд на close-of-IPO 14 мая) `[conf:high, src:2026-05-22]` — +40% за 8 дней post-IPO float rally, см. [[volatile-strict/industry-news/cerebras-ipo-2026-05]].
+
+### OpenAI Codex — cache fix + /slow mode tease (24 мая)
+
+**Tibo Sottiaux (OpenAI) объявил root-cause баг** с cache hit rates в Codex compaction для long-running sessions (24 мая 2026, [[volatile-strict/competitor-news/openai-codex-cache-fix-slow-mode-2026-05]] — основная страница) `[conf:high, src:2026-05-24]`:
+
+- **Rolled back** оптимизация, **reset usage limits для всех аккаунтов**.
+- **Tease**: `/slow` режим для несрочных объёмных тасков — counter-feature к Claude Code /goal.
+- Marketing-pattern: **rollback + transparency + reset + tease** — образцовый ops PR-pattern для AI-вендоров в 2026.
+
+### Karpathy → Anthropic (19 мая)
+
+**Andrej Karpathy присоединился к Anthropic** (19 мая 2026, [[volatile-strict/competitor-news/anthropic-karpathy-join-2026-05]] — основная страница) `[conf:high, src:2026-05-19]`:
+
+- Цитата: «next few years at the frontier of LLMs will be especially formative».
+- Twitter engagement: **4 млн просмотров за 2 часа** — viral-уровень, в mainstream tech.
+- **Маркетинговое значение:** Anthropic = frontier-lab-of-choice для top ML-talent. Параллельно с другими Anthropic-anchor'ами (Mythos, Dreams mode, Claude Design, SpaceX Colossus).
+
+### Claude Code /goal + multi-agent (через ai_newz digest #117, 4569)
+
+Из дайджеста #117: **«В Claude Code завезли мульти-агентный режим и слизали фичу Codex, где модель не останавливается до достижения цели»** `[conf:medium, src:2026-05-25]`. Подробнее в [[volatile/weekly-digest/ai-newz-digest-117-may-2026]]. **Сигнал**: рой агентов — client-side feature, не enterprise-API.
+
 ## Что это значит для контента GRO
 
 Эта страница — **не material для публичного поста**, а фон. Прямые выводы для нашего контента:
@@ -353,6 +396,12 @@ vc.ru/@vcnews 7 мая 2026 (msg 61252): «Anthropic представила ре
 - [[volatile-strict/competitor-news/google-gemini-omni-video-2026-05]] — детальная страница про Gemini Omni и конец Veo
 
 - [[sources/2026-05-14-tg-vcnews-may-5-8-2026]] — fifth-source attestation: RU-mainstream подтверждение GPT-5.5 Instant default (5 мая), OpenAI Realtime audio (7 мая, 128K), ChatGPT Spreadsheets всем (6 мая), Anthropic Dreams (7 мая)
+- [[sources/2026-05-26-tg-ai-newz-may-19-25-2026]] — sixth-source attestation + W21-22 add-on (Gemini 3.5 Flash +3× pricing, Cerebras × Kimi K2.6 1000 t/s, Codex /slow tease, Karpathy → Anthropic, Claude Code /goal multi-agent)
+- [[volatile-strict/competitor-news/google-gemini-3-5-flash-2026-05]] — детально про Gemini 3.5 Flash
+- [[volatile-strict/competitor-news/cerebras-kimi-k26-1000tps-2026-05]] — детально про Cerebras × Kimi K2.6
+- [[volatile-strict/competitor-news/openai-codex-cache-fix-slow-mode-2026-05]] — детально про Codex cache fix + /slow tease
+- [[volatile-strict/competitor-news/anthropic-karpathy-join-2026-05]] — детально про Karpathy → Anthropic
+- [[volatile/weekly-digest/ai-newz-digest-117-may-2026]] — meta-digest 3 weeks (4-24 мая)
 - [[volatile-strict/competitor-news/anthropic-claude-dreams-mode-2026-05]] — детально про Dreams mode
 - [[volatile-strict/competitor-news/openai-realtime-audio-models-2026-05]] — детально про 3 audio модели
 - [[volatile-strict/competitor-news/openai-chatgpt-spreadsheets-2026-05]] — детально про Spreadsheets release
