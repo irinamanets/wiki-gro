@@ -144,6 +144,7 @@ GRO находится на ранней стадии — формально э�
 - [[evolving/content-trends/rybakov-management-narrative-hooks]] — narrative-хук «бизнес = сделка, сообщество = эволюция» (hook #12)
 - [[evolving/content-trends/telegram-native-formats]] — Эквиум native carousel exemplar
 - [[canon/marketing-frameworks/business-university-bridge-equium-phystech]] — operationalization рамки (bridge-партнёрство Эквиум × Физтех 2050)
+- [[canon/marketing-frameworks/cross-environment-community-vs-inbreeding-rybakov]] — *как* сообщество не вырождается (эта рамка — *зачем* его строить)
 - [[sources/2026-05-05-tg-rybakovigor-apr06-may05-2026]] — оригинал
 - [[sources/2026-05-19-tg-rybakovigor-may14-18-2026]] — operationalization (Эквиум × Физтех 2050 + essay многосредие)
 - [[rules]] — правило expert-attribution

@@ -126,6 +126,7 @@ GRO как продукт для team-development может быть привя
 - [[canon/marketing-frameworks/retention-benchmarks-b2c|Retention benchmarks B2C]] — параллельный фрейм для GRO B2C (это ≠ employee retention, но похожая логика «удержать = инструмент управления unit-экономикой»)
 - [[canon/marketing-frameworks/tabunov-onboarding-principles|Tabunov onboarding principles]] — 5 правил onboarding для B2C-SaaS; параллель к Поток-фреймворку, но для product-onboarding
 - [[canon/marketing-frameworks/hr-strategy-three-scenarios|Три HR-сценария]] — стратегическая сетка реакции бизнеса на охлаждающийся рынок труда (Заморозка / Бег / Эволюция)
+- [[canon/marketing-frameworks/salary-timeliness-labor-contract-tokovinin]] — базовый слой под retention: пока нарушен «контракт стабильности» (задержка зарплаты), retention-механики не работают (Токовинин)
 
 ## Связанные страницы
 

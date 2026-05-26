@@ -145,6 +145,7 @@ GRO — продукт, который уже прошёл стадию 1-6 (з�
 - [[canon/marketing-frameworks/agent-vs-saas-pricing-arbitrage]]
 - [[evolving/content-trends/your-pet-project-channel-hooks]]
 - [[volatile-strict/industry-news/ai-solopreneur-cases-jan-apr-2026]]
+- [[canon/marketing-frameworks/courage-over-analysis-business-tokovinin]] — courage относится к фазе zero-to-one (щупать, не считать); «в Excel не сходится у всех» (Токовинин)
 - [[canon/target-audience/gro-segments]]
 - [[sources/2026-05-05-tg-your-pet-project-feb-may-2026]]
 

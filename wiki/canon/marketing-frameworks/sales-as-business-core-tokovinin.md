@@ -146,6 +146,7 @@ Use as canon framework для founder-positioning и self-test контента.
 - [[canon/marketing-frameworks/monoproduct-vs-assortment-market-capacity-tokovinin]] — Tokovinin 3/5 product strategy
 - [[canon/marketing-frameworks/low-margin-customer-quality-driver-tokovinin]] — Tokovinin 3/5 customer-segment counter-frame
 - [[canon/marketing-frameworks/separate-line-tax-pass-through-pricing-tokovinin]] — Tokovinin 3/5 pricing tactic
+- [[canon/marketing-frameworks/self-employment-scaling-sell-the-school-tokovinin]] — второе operational-определение бизнеса (продаёшь подход, не себя)
 - [[evolving/industry-trends/freelance-platform-dependency]]
 - [[canon/target-audience/gro-segments]]
 - [[sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups]]

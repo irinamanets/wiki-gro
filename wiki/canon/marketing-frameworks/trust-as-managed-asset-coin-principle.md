@@ -101,6 +101,7 @@ GRO как продукт **не является монетой** в чисто
 ## Cross-references
 
 - [[canon/marketing-frameworks/agalarov-tangibility-investment-test]] — другой framework про материализацию доверия (но через физический actiff vs cервисный «гарант»).
+- [[canon/marketing-frameworks/trust-as-brand-foundation-low-error-category]] — комплементарная рамка: доверие как условие существования бренда в категории «без права на ошибку» (детское питание, фарма); здесь — доверие, упакованное в управляемый объект.
 - [[canon/marketing-frameworks/ai-trust-taboo-zones-stetsenko]] — зоны, где AI ломает монету доверия
 - [[evolving/content-trends/ai-content-overload-trust-crisis-2026]] — макро-тренд trust-кризиса AI-эпохи (на фоне которого монета становится премиум-категорией)
 - [[canon/marketing-frameworks/risk-first-consumer-decision-online]] — поведенческая рамка risk-first решения как следствие принципа монеты

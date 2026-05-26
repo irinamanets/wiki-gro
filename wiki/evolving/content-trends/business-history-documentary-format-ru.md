@@ -9,13 +9,16 @@ tags: [content, video, youtube, format, ru, business-history, edutainment, longf
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-06
+updated: 2026-05-14  # +8-е наблюдение (ФрутоНяня) — третий consumer-retail/FMCG subject, success-arc с trust-фокусом и высоким substance-yield
 sources:
   - sources/2026-05-05-yt-ilya-solovey-s7-airlines-history.md
   - sources/2026-05-05-yt-ilya-solovey-severstal-history.md
   - sources/2026-05-05-yt-ilya-solovey-porsche-history.md
   - sources/2026-05-05-yt-ilya-solovey-andreev-mamba-badoo-bumble.md
   - sources/2026-05-05-yt-ilya-solovey-rzd-russian-railways.md
+  - sources/2026-05-14-yt-ilya-solovey-eldorado-history.md
+  - sources/2026-05-14-yt-ilya-solovey-ermolino-history.md
+  - sources/2026-05-14-yt-ilya-solovey-frutonyanya-history.md
 namespace: mkt
 ---
 
@@ -23,7 +26,97 @@ namespace: mkt
 
 Наблюдаемый паттерн — content-формат на YouTube для русскоязычной аудитории: **сольный ведущий-аналитик, 15-30 минут видео, документальный нарратив про историю одной российской или мировой бизнес-империи, с цифрами и фактологическим тоном без эмоциональных оценок**. Формирующее наблюдение — канал [Ильи Соловья](https://www.youtube.com/watch?v=3sJleUFJBZo), фиксированный из ingest [[sources/2026-05-05-yt-ilya-solovey-s7-airlines-history]].
 
-`confidence: high` (повышен с medium 2026-05-06 после третьего ingest'a канала Соловья: [[sources/2026-05-05-yt-ilya-solovey-porsche-history|Porsche / Германия]]; подтверждён 2026-05-06 после 4-го ingest'a — Андреев / Мамба-Баду-Бамбл, первый consumer-internet кейс; **финально валидирован 2026-05-06 после 5-го ingest'a — РЖД / state-monopoly / public-infrastructure**). Формат имеет теперь **5 точек наблюдения** на максимально широком subject-spectrum'е: транспорт (S7), тяжёлая индустрия (Северсталь), luxury-cars (Porsche), consumer-internet (Андреев), state-monopoly / public-infrastructure (РЖД). Структурные признаки воспроизводятся **на всех 5 точках без исключения** — формат **fully canonical** на уровне production units (open-hook + хронология + mid-roll CTA + final reflection + 5 фактов). Дрейфуют только: hook-форматы (4 sub-pattern'а в репертуаре), monetization activation (selective subset per выпуск), pre-roll sponsorship (1/5 outlier).
+`confidence: high` (повышен с medium 2026-05-06 после третьего ingest'a канала Соловья: [[sources/2026-05-05-yt-ilya-solovey-porsche-history|Porsche / Германия]]; подтверждён 2026-05-06 после 4-го ingest'a — Андреев / Мамба-Баду-Бамбл, первый consumer-internet кейс; **финально валидирован 2026-05-06 после 5-го ingest'a — РЖД / state-monopoly / public-infrastructure**). Формат имеет теперь **8 точек наблюдения** на максимально широком subject-spectrum'е: транспорт (S7), тяжёлая индустрия (Северсталь), luxury-cars (Porsche), consumer-internet (Андреев), state-monopoly / public-infrastructure (РЖД), electronics-retail (Эльдорадо), food-retail (Ермолино), FMCG consumer-brand (ФрутоНяня). Структурные признаки воспроизводятся **на всех 8 точках без исключения** — формат **fully canonical** на уровне production units (open-hook + хронология + mid-roll CTA + final reflection + 5 фактов). Точки 6-8 — **post-canonical enriching observations** (не валидируют, а обогащают). Дрейфуют только: hook-форматы (3 устойчивых sub-pattern'а в репертуаре — descriptive 5/8, statistical-bombshell 2/8, provocative-quote 1/8), monetization activation (selective subset per выпуск), pre-roll sponsorship (1/8 outlier).
+
+## Шестое наблюдение (Эльдорадо, 2026-05-14) — enriching, не валидирующее
+
+Шестой разбор канала (Эльдорадо, 18:10) — **первое post-canonical наблюдение**. Формат уже был зафиксирован как fully canonical на 5 точках; Эльдорадо не валидирует, а **обогащает** картину. Структурные признаки воспроизводятся 6/6 без исключений.
+
+| Признак | Эльдорадо (18:10) | Статус |
+|---|---|---|
+| Сольный voice-over без видимого ведущего | Да | ✅ 6/6 |
+| Длительность 15-30 минут | 18:10 (в baseline 18-21 min) | ✅ 6/6 |
+| Open-hook | Descriptive («Из хаотичного рынка 90-х они выстроили систему…») | ✅ 6/6, descriptive sub-pattern |
+| Хронология 60-70% видео | Да (1994-2025) | ✅ 6/6 |
+| Фактический регистр без эмоциональных оценок | Да (даже про налоговую схему и потерю компании — нейтрально) | ✅ 6/6 |
+| Цифры как первичный материал | Да (15 млрд ₽ ФНС, $625M выкуп, $6 млрд пик, $2 млрд Dixons) | ✅ 6/6 |
+| Финал как 5 «любопытных фактов» + comment-CTA | Да (программа утилизации, СТМ «Элленберг», «Марка №1», импортозамещение, «скрытые владельцы») | ✅ 6/6, canonical |
+| Mid-roll CTA | «Как стать лидером в своей нише? Подписывайтесь на канал, у нас реальные истории успеха» | ✅ 6/6 |
+| Pre-roll sponsorship | Нет | ⚠ остаётся 1/6 (только Porsche) |
+| Pre-emptive teaser current-events | Нет | ⚠ остаётся 2/6 (Porsche, РЖД) |
+| Расширенный Boosty mid-roll | Нет | ⚠ остаётся 2/6 (Северсталь, РЖД) |
+
+### NEW мета-наблюдения (Эльдорадо)
+
+**1. EN-title с embedded statistical/causal hook — подтверждение title-template'a (6/6).** Заголовок «Eldorado: A Mistake That Cost Billions. How a Tax Hit Destroyed an Empire and Gave It to Competitors» — EN-язык для алгоритмов YouTube, RU-контент для аудитории. Здесь title-hook **causal-dramatic** («mistake that cost billions» / «destroyed an empire») — вариант, синхронизированный с in-video нарративом «роковой ошибки». Pattern «Subject Name: Big-Hook» подтверждён 6/6.
+
+**2. In-video mid-roll CTA как rhetorical-question hook.** В Эльдорадо mid-roll встроен как риторический вопрос «Как стать лидером в своей нише?» прямо в нарратив — мягче, чем явный «подпишитесь». Это вариация mandatory-tier CTA, не новый канал монетизации. Selective tier (Boosty/pre-roll/teaser) — **не активирован** в этом выпуске, что укрепляет вывод про selective activation: 6-я точка не добавила ни одного selective-элемента.
+
+**3. Subject scope — classic consumer-retail, наконец закрыт.** Caveat 5-го наблюдения отмечал, что classic consumer-retail (Додо/Wildberries из изначальной user-note) ещё не попадал в ingest'ы. Эльдорадо — **первый consumer-retail subject** канала: B2C-розница электроники. Формат воспроизводится идентично и здесь. Subject-spectrum теперь: транспорт + тяжёлая индустрия + luxury-cars + consumer-internet + state-monopoly + **consumer-retail** = 6 максимально различимых доменов.
+
+**4. Substance-yield: высокий (counter-пример к РЖД).** В отличие от РЖД (~0 frameworks), Эльдорадо дал **высокий substance-yield**: 1 historical-campaign кейс + 2 новых canon-фреймворка (regional-first expansion, hard-discounter self-selection) + 1 inverse-кейс к distressed-asset playbook'у. Это подтверждает финальное наблюдение «substance-yield = subject-driven, не format-driven»: **founder-driven кейсы с явными стратегическими развилками дают больше всего frameworks** (Эльдорадо, Андреев) против descriptive-system нарративов (РЖД). Для triage будущих ingest'ов канала: **приоритезировать founder-driven subject'ы**.
+
+**5. Первый «cautionary/failure»-arc как substance-усилитель.** S7/Северсталь/Porsche-turnaround/Андреев — нарративы *успеха* (founder удержал/нарастил). Эльдорадо — первый нарратив *потери* (founder потерял компанию). Failure-arc дал **inverse-материал**, которого не было в success-кейсах: как актив становится distressed-target'ом (см. [[canon/marketing-frameworks/distressed-asset-consolidation-playbook]]). Pattern для GRO-hook-mining: **failure-кейсы канала ценнее success-кейсов по плотности переносимых анти-паттернов**.
+
+## Седьмое наблюдение (Ермолино, 2026-05-14) — enriching, второй consumer-retail subject
+
+Седьмой разбор канала (Ермолино, 12:47) — второе post-canonical наблюдение, второй **consumer-retail** subject подряд (после Эльдорадо). Структурные признаки воспроизводятся 7/7 без исключений. Длительность 12:47 — **новый минимум** baseline'а (раньше 18-21 min, Porsche-28 min outlier), subject-driven: компактная success-история без кризисного акта.
+
+| Признак | Ермолино (12:47) | Статус |
+|---|---|---|
+| Сольный voice-over без видимого ведущего | Да | ✅ 7/7 |
+| Длительность 15-30 минут | 12:47 (новый минимум, subject-driven) | ✅ 7/7, диапазон расширен вниз |
+| Open-hook | Statistical-bombshell («9-я строчка Forbes-налогоплательщиков, для которого не нашлось даже фотографии») | ✅ 7/7, statistical sub-pattern |
+| Хронология 60-70% видео | Да (1999-2026) | ✅ 7/7 |
+| Фактический регистр без эмоциональных оценок | Да (даже про непубличность владельца и критику Лещука — нейтрально) | ✅ 7/7 |
+| Цифры как первичный материал | Да (120 млрд ₽ выручка, 1,6 млрд ₽ налоги, 11 млрд ₽ дивиденды, 3000 магазинов, 2,5 млрд ₽ цех) | ✅ 7/7 |
+| Финал как «любопытные факты» / рефлексия + comment-CTA | Да (непубличный владелец, моногород Ермолино, M&A-аппетиты, модернизация точек) + «предлагайте в комментариях свои темы» | ✅ 7/7, canonical |
+| Mid-roll CTA | «Как незаметно для всех стать федеральной компанией. Подписывайтесь на наш канал, у нас реальные истории» (rhetorical-question, как в Эльдорадо) | ✅ 7/7 |
+| Pre-roll sponsorship | Нет | ⚠ остаётся 1/7 (только Porsche) |
+| Pre-emptive teaser current-events | Нет | ⚠ остаётся 2/7 (Porsche, РЖД) |
+| Расширенный Boosty mid-roll | Нет | ⚠ остаётся 2/7 (Северсталь, РЖД) |
+
+### NEW мета-наблюдения (Ермолино)
+
+**1. Statistical-bombshell hook — устойчивый pattern (2/7).** Открытие через Forbes-рейтинг и парадокс «крупнейший налогоплательщик, у которого нет даже фотографии» — второе наблюдение statistical-bombshell hook'а после РЖД. Hook-репертуар канала на 7 точках: descriptive (S7, Северсталь, Porsche, Эльдорадо) — 4/7; statistical-bombshell (РЖД, Ермолино) — 2/7; provocative-quote (Андреев) — 1/7. Pattern: автор подбирает hook под природу subject'а — у непубличного владельца с парадоксальной налоговой строчкой statistical-bombshell естественнее descriptive.
+
+**2. Mid-roll rhetorical-question CTA — устойчивый pattern (2/7).** «Как незаметно для всех стать федеральной компанией. Подписывайтесь…» — встроенный риторический вопрос-крючок, как «Как стать лидером в своей нише?» в Эльдорадо. Это вариация mandatory-tier CTA. Оба consumer-retail-выпуска используют rhetorical-question вместо явного «подпишитесь» — возможная editorial-эволюция CTA-стиля в свежих выпусках.
+
+**3. Selective tier снова не активирован.** Ни Boosty, ни pre-roll, ни pre-emptive teaser. Это **третий подряд** выпуск без selective-элементов (Эльдорадо + Ермолино), что укрепляет selective-activation rule: свежие выпуски тяготеют к mandatory-minimum (YouTube + Telegram CTA + comment-CTA), selective overlay'и активируются редко.
+
+**4. Subject scope — второй consumer-retail, теперь food-retail.** Эльдорадо закрыл electronics-retail; Ермолино добавляет **food-retail** (FMCG-розница + собственное производство). Subject-spectrum на 7 точках: транспорт + тяжёлая индустрия + luxury-cars + consumer-internet + state-monopoly + electronics-retail + food-retail. Consumer-retail-домен теперь представлен двумя точками (failure-arc Эльдорадо + success-arc Ермолино) — удобная пара для контраста.
+
+**5. Высокий substance-yield (success-arc, контр к «failure ценнее success»).** Эльдорадо-наблюдение вывело гипотезу «failure-кейсы ценнее success-кейсов по плотности анти-паттернов». Ермолино — **success-arc с высоким substance-yield**: 1 historical-campaign + 3 новых canon-фреймворка (вертикаль+100%-СТМ, owned-only дистрибуция, no-loan рост) + 1 positioning-страница + 1 market-data. Это уточняет правило: не «failure > success», а **founder-driven кейсы с явными стратегическими развилками** (Эльдорадо, Андреев, Ермолино) дают больше всего frameworks — независимо от исхода (потеря или удержание). Ермолино — success-зеркало к Эльдорадо-failure (no-loan/owned-control vs долг/франшиза) — пара даёт inverse-материал даже без failure-arc'а. Для triage: **приоритезировать founder-driven subject'ы**, success или failure.
+
+## Восьмое наблюдение (ФрутоНяня, 2026-05-14) — enriching, FMCG/consumer-brand с trust-фокусом
+
+Восьмой разбор канала (ФрутоНяня, 20:57) — третье consumer-domain наблюдение (после electronics-retail Эльдорадо и food-retail Ермолино), но **первый чисто consumer-brand / FMCG-производитель** (не розничная сеть, а бренд продуктов). Структурные признаки воспроизводятся 8/8 без исключений. Длительность 20:57 — в baseline-диапазоне (18-21 min).
+
+| Признак | ФрутоНяня (20:57) | Статус |
+|---|---|---|
+| Сольный voice-over без видимого ведущего | Да | ✅ 8/8 |
+| Длительность 15-30 минут | 20:57 (в baseline 18-21 min) | ✅ 8/8 |
+| Open-hook | Descriptive-paradox («Этот бренд знают все, но почти никто не знает, как он появился… рынок, где одна ошибка может уничтожить компанию») | ✅ 8/8, descriptive sub-pattern |
+| Хронология 60-70% видео | Да (1990-2025) | ✅ 8/8 |
+| Фактический регистр без эмоциональных оценок | Да (даже про кризис с мышью в пюре и диоксид серы — нейтрально, с версией компании) | ✅ 8/8 |
+| Цифры как первичный материал | Да (треть рынка, 37 млрд ₽ выручка, 70 млрд ₽ сделка, >100 SKU, 40% объединённая доля Danone) | ✅ 8/8 |
+| Финал как 5 «интересных фактов» + comment-CTA | Да (экспорт в 4 страны + интерес Китая, халяль-линейка, паучи 2013, питьевые десерты 2009, обучение фермеров) + «предлагайте в комментариях свои темы» | ✅ 8/8, canonical |
+| Mid-roll CTA | Telegram + QR («Как ФрутоНяня держит долю рынка? … Сканируйте QR-код или переходите по ссылке») | ✅ 8/8 |
+| Pre-roll sponsorship | Нет | ⚠ остаётся 1/8 (только Porsche) |
+| Pre-emptive teaser current-events | Нет | ⚠ остаётся 2/8 (Porsche, РЖД) |
+| Расширенный Boosty mid-roll | Нет | ⚠ остаётся 2/8 (Северсталь, РЖД) |
+
+### NEW мета-наблюдения (ФрутоНяня)
+
+**1. Descriptive-paradox hook — вариант descriptive sub-pattern'а (5/8).** Открытие через парадокс «бренд знают все, но никто не знает, как он появился» + «рынок без права на ошибку». Это descriptive-hook (как S7/Северсталь/Porsche/Эльдорадо), но с встроенным paradox-крючком. Hook-репертуар на 8 точках: descriptive (S7, Северсталь, Porsche, Эльдорадо, ФрутоНяня) — 5/8; statistical-bombshell (РЖД, Ермолино) — 2/8; provocative-quote (Андреев) — 1/8. Descriptive остаётся доминирующим sub-pattern'ом.
+
+**2. Mid-roll как knowledge-gap teaser в TG (вариант, не новый канал).** В отличие от rhetorical-question CTA Эльдорадо/Ермолино, здесь mid-roll встроен как **knowledge-gap**: «Как ФрутоНяня держит такую долю рынка? За счёт чего работает доверие и что происходит, когда оно ломается? Мы отдельно разобрали в нашем Телеграм-канале». Это ближе к Porsche/РЖД pre-emptive-teaser-механике (создание knowledge-gap → переход в TG), но без привязки к current-events — про **углубление основной темы видео**, а не про новость. Подтверждает: автор варьирует mid-roll-формулировку (явный / rhetorical-question / knowledge-gap), но канал монетизации тот же (TG cross-platform).
+
+**3. Subject scope — первый FMCG consumer-brand-производитель.** Эльдорадо/Ермолино — розничные сети; ФрутоНяня — **производитель потребительского бренда** (FMCG, детское питание). Subject-spectrum на 8 точках: транспорт + тяжёлая индустрия + luxury-cars + consumer-internet + state-monopoly + electronics-retail + food-retail + **FMCG consumer-brand**. Consumer/потребительский домен теперь представлен тремя точками — устойчивый кластер канала.
+
+**4. Высокий substance-yield (trust-фокусный success-arc).** ФрутоНяня дал **высокий substance-yield**: 1 historical-campaign + 3 новых canon-фреймворка (trust-as-foundation в low-error категории, independence-over-acquisition, category-first-mover) + 1 market-data. Подтверждает правило «founder/ownership-driven кейсы с явными стратегическими развилками дают больше всего frameworks». NEW нюанс: главная переносимая ценность кейса — **тематическая** (доверие как фундамент бизнеса), а не нарративно-структурная — впервые subject канала даёт сильный **концептуальный** фреймворк, не только playbook-механики.
+
+**5. Trust-кризис-эпизоды как новый under-arc.** Впервые в кейсе канала показаны два **trust-кризиса** (мышь в пюре 2022, диоксид серы 2025) с нейтральной подачей версии компании. Это расширяет «journalistic discipline на чувствительных эпизодах» (Porsche/Гитлер, Андреев/Forbes-скандал) на **продуктовые reputation-инциденты**. Pattern журналистской дисциплины подтверждён на 4-м типе чувствительного материала.
 
 ## Финальное подтверждение через пятое наблюдение (РЖД, 2026-05-06)
 
@@ -270,6 +363,12 @@ Pattern: **canalised selective activation, не all-or-nothing** — финал�
 - [[sources/2026-05-05-yt-ilya-solovey-porsche-history]] — первоисточник 3
 - [[sources/2026-05-05-yt-ilya-solovey-andreev-mamba-badoo-bumble]] — первоисточник 4 (первый consumer-internet кейс)
 - [[sources/2026-05-05-yt-ilya-solovey-rzd-russian-railways]] — первоисточник 5 (state-monopoly / public-infrastructure кейс, 5/5 финальный)
+- [[sources/2026-05-14-yt-ilya-solovey-eldorado-history]] — первоисточник 6 (consumer-retail + первый failure-arc, enriching 6/6)
+- [[canon-strict/historical-campaigns/eldorado-rise-and-fall-1994-2025]] — фиксированный из 6-го видео кейс (Эльдорадо)
+- [[sources/2026-05-14-yt-ilya-solovey-ermolino-history]] — первоисточник 7 (food-retail + второй success-arc, enriching 7/7)
+- [[canon-strict/historical-campaigns/ermolino-kiosk-to-empire-1999-2026]] — фиксированный из 7-го видео кейс (Ермолино) — success-зеркало к Эльдорадо
+- [[sources/2026-05-14-yt-ilya-solovey-frutonyanya-history]] — первоисточник 8 (FMCG consumer-brand + trust-фокусный success-arc, enriching 8/8)
+- [[canon-strict/historical-campaigns/frutonyanya-progress-1990-2025]] — фиксированный из 8-го видео кейс (ФрутоНяня) — первый чисто trust-foundation концептуальный кейс канала
 
 ## Caveat
 

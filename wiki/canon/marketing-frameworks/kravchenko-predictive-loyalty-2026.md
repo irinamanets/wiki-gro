@@ -123,6 +123,7 @@ GRO как продукт уже находится в логике «сниже
 - [[canon/marketing-frameworks/smart-consumption-status-shift-2026]] — фрейм «умного потребителя», к которому адресовано
 - [[canon/marketing-frameworks/two-russias-regional-split-2026]] — региональная сегментация CRM-сценариев
 - [[canon/marketing-frameworks/defector-loyalty-crm-analysis]] — традиционная CRM-рамка управления оттоком
+- [[canon/marketing-frameworks/service-as-strategy-three-pillars-chepalova]] — low-tech SMB-вариант той же логики «лояльность > скидки»: «сервис души» = «снизить тревожность, не давить» на языке practitioner'а
 - [[canon/marketing-frameworks/ai-personalization-4-layer-architecture]] — generalized архитектура ИИ-персонализации
 - [[evolving/industry-trends/optical-personalization-gap-2026]] — почему большая часть нынешней персонализации не работает
 - [[evolving/content-trends/consumer-manipulation-marketing-tactics-2026]] — паттерны манипуляции, которые predictive loyalty призван обойти

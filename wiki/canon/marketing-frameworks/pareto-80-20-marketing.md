@@ -9,11 +9,12 @@ tags: [prioritization, sales, retention, focus, distribution]
 confidence: low
 stale: false
 created: 2026-05-05
-updated: 2026-05-06
+updated: 2026-05-25  # +Давлатов «идеальные клиенты» (20%=120% прибыли) — практик-инстанцирование key-accounts в кризис
 sources:
   - sources/2026-05-05-e-xecutive-ru-condensed.md
   - sources/2026-05-05-exec-pravilo-pareto.md
   - sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md
+  - sources/2026-05-25-yt-hartmann-davlatov-survive-losses.md
 namespace: mkt
 ---
 
@@ -83,8 +84,19 @@ namespace: mkt
 - [[canon/marketing-frameworks/mrbeast-data-beats-ego-retention-graphs]] — принцип «данные бьют эго», post-launch retention-driven отбор сигнала
 - [[canon/marketing-frameworks/evening-audit-morning-bunker-protocol]] — операционный протокол ежедневного применения
 
+## Практик-инстанцирование «идеальные клиенты» (Давлатов)
+
+В [подкасте Хартманн×Давлатов (2026)](https://www.youtube.com/watch?v=2qNjsRnZOTM) ([[sources/2026-05-25-yt-hartmann-davlatov-survive-losses]]) Саидмурод Давлатов даёт **practitioner-инстанцирование Парето в кризисном контексте**, с гиперболизированной формулировкой:
+
+> «20% клиентов делают **120% прибыли**, а 80% делают минус.»
+
+Расширение базового «20%=80%» до «20%=120% / 80%=минус» — риторическое (`conf:low` на конкретной цифре), но операционно ценное: оно подчёркивает, что **низ хвоста не нейтрален, а убыточен**. Давлатов называет топ-20% «идеальными клиентами» и формулирует управленческий вывод: «80%, которые дают минус, как раз получают 80% времени и задач; при 100%-фокусе на топ-клиентах задач становится меньше». Кейс: бизнес с сотнями тысяч клиентов, где «буквально 1000 человек делают всю прибыль — им можно позвонить вручную, встретить лично».
+
+Это усиливает раздел «Применимость к GRO → Sales focus» (dedicated менеджер на топ-20%) и связывает Парето с кризисным управлением: в кризис фокус на идеальных клиентах — часть жизнеобеспечения (см. [[canon/marketing-frameworks/key-people-preservation-crisis-davlatov]], где идеальные клиенты идут в паре с ключевыми сотрудниками). **Caveat (важно):** не противоречит разделу «Caveat применения» выше — long-tail сегодня может быть top-20% завтра; «идеальные клиенты» — снимок текущей экономики, не приговор хвосту.
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/key-people-preservation-crisis-davlatov]] — идеальные клиенты + ключевые сотрудники как парное ядро жизнеобеспечения в кризис (Давлатов)
 - [[canon/marketing-frameworks/bubble-chart-prioritization]] — приоритизация мероприятий с тремя осями (рейтинг × время × стоимость), развитие Парето-логики
 - [[canon/marketing-frameworks/funnel-simplicity-principle]] — фокус на том что реально работает в воронке
 - [[canon/marketing-frameworks/external-validation-trap]] — anti-pattern когда «20% правильных» определяют по чужим вкусам, а не по собственным метрикам

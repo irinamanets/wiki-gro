@@ -9,8 +9,8 @@ tags: [frameworks, crisis-management, owner-self-management, content, hooks]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-23  # +cross-ref на crisis-speed-gap-zharinov как превентивно-диагностическую пару (Apollo-13 = острая фаза, Жаринов = пре-кризис / опережающие индикаторы)
-sources: [sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md]
+updated: 2026-05-25  # +cross-ref на davlatov-5-step-anticrisis-protocol как practitioner-параллель (Apollo-13 = острая фаза спасения; Давлатов = структурная экономическая пересборка)
+sources: [sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-25-yt-hartmann-davlatov-survive-losses.md]
 namespace: mkt
 ---
 
@@ -146,6 +146,7 @@ Metro = €2,6 млрд выручки, многосотенная команд�
 
 ## Связь с другими фреймворками
 
+- [[canon/marketing-frameworks/davlatov-5-step-anticrisis-protocol]] — **practitioner-параллель** к этому playbook'у от Саидмурода Давлатова ([[sources/2026-05-25-yt-hartmann-davlatov-survive-losses]]). Apollo-13 структурирует *острую фазу спасения* (триаж → жизнеобеспечение → коммуникация → скрытые ресурсы → выход сильнее); Давлатов структурирует *экономическую пересборку* (опереться на маржинальный продукт → изменить модель продаж → корректировать бизнес-модель каждые 1,5–3 года → интегрировать технологии раньше конкурентов → резать расходы без прямого влияния на доход). Пересечения: Apollo-13 шаг 2 «приоритизация/что резать» ≈ Давлатов шаг 5 «резать всё, что не влияет на доход»; Apollo-13 шаг 3 «коммуникация» развёрнут у Давлатова в [[canon/marketing-frameworks/key-people-preservation-crisis-davlatov|сохранение ключевых людей через честность]]. Давлатов добавляет рамку «закрытие бизнеса как часть стратегии» — отсутствующую в Apollo-13.
 - [[canon/marketing-frameworks/crisis-speed-gap-zharinov]] — **превентивно-диагностическая пара** к этому playbook'у. Apollo-13 учит *что делать в огне* (острая фаза); Жаринов — *как заметить дым раньше пожара* (пре-кризис) через опережающие индикаторы (вовлечённость → клиентский опыт → финансы) вместо запаздывающего «посмертного учёта» по P&L. Шаг 5 «выход более сильным» здесь = anti-fragility тезис Жаринова «без кризисов не бывает роста». Оба сходятся на founder-self-management (emotional resilience протокол ↔ принцип 3 «личная вовлечённость и смысл»).
 - [[canon/marketing-frameworks/crisis-pr-principles]] — фокус на внешней коммуникации в кризис; этот фреймворк дополняет внутренней.
 - [[canon/marketing-frameworks/kpmg-5-stage-restructuring]] — корпоративная реструктуризация (большие компании); Apollo 13 framing — для SMB.

@@ -24,10 +24,11 @@ Reusable operational-фреймовка от **Маргулана Сейсемб
 - **Экспертность:** verified — публичная фигура, миллиардные активы под управлением, серийный предприниматель; внешний independent сигнал — упоминание у Petrochenkov ([[sources/2026-04-14-tg-petrochenkow-mar-apr-2026]] msg 1256)
 - **Confidence:** medium — рамка одиночного эксперта, согласуется с известной литературой по «5 People Around You» (Jim Rohn) и «Social Contagion Theory» (Christakis & Fowler), но без независимого эмпирического подтверждения по конкретно этим 6 категориям
 - **Source-страница:** [[sources/2026-05-05-yt-margulan-six-toxic-types]] (YouTube `abVi-meHRBU`, 12 минут, 2026-05-05)
-- **Соседние фреймовки автора (full corpus, 4 видео):**
+- **Соседние фреймовки автора (corpus, 5 видео):**
   - [[canon/marketing-frameworks/seissembai-algorithm-ratchet-vicious-circle]] (видео #2 — vicious circle / алгоритмы)
   - [[canon/marketing-frameworks/seissembai-seven-power-sources-negotiation]] (видео #3 — 7 источников силы в переговорах)
   - [[canon/marketing-frameworks/seissembai-solitude-7-benefits-4-controllers]] (видео #4 — solitude как operational tool; функция 1 «возврат к естественности» — operational механизм для самокритики, без которого фильтр окружения «состав = индикатор моих недостатков» не выполним)
+  - [[canon/marketing-frameworks/seissembai-six-business-principles]] (видео #5 — 6 принципов запуска бизнеса: niche+боль+месседж+гипотезы; off-schedule)
 
 ## Центральный тезис
 

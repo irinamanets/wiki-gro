@@ -9,8 +9,8 @@ tags: [russia, parallel-import, market-data, electronics, import-substitution, s
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-04-dp-ru-minpromtorg-parallel-import-laptops.md]
+updated: 2026-05-14
+sources: [sources/2026-05-04-dp-ru-minpromtorg-parallel-import-laptops.md, sources/2026-05-14-yt-ilya-solovey-eldorado-history.md]
 namespace: mkt
 ---
 
@@ -43,6 +43,16 @@ namespace: mkt
 
 Без перекрёстного источника (например, ФТС или независимая аналитика) — выбор между этими интерпретациями невозможен. **Confidence: medium** именно из-за этого.
 
+## Retailer-level кейс: Эльдорадо переходит на самостоятельный прямой импорт
+
+Макро-метрика «параллельный импорт сжался в 4 раза» имеет конкретное retailer-level подтверждение со стороны крупной розницы. По разбору ([[sources/2026-05-14-yt-ilya-solovey-eldorado-history|Соловей про Эльдорадо]]):
+
+- В 2022 западные производители, на которых приходилось более половины выручки группы M-Video-Эльдорадо, приостановили поставки `[conf:medium, src:2026-05-14]`.
+- Раньше группа работала только с официальными дистрибьюторами; после их ухода перешла к **самостоятельному прямому импорту** `[conf:medium, src:2026-05-14]`.
+- Первые партии группа ввозила сама уже летом 2022; к концу 2023 ~**30% ассортимента** поставлялось напрямую `[conf:medium, src:2026-05-14]`.
+
+**Что это добавляет к картине:** Минпромторговская метрика трекает *макро-объём* «параллельного импорта». Кейс Эльдорадо показывает *механизм на стороне ритейлера* — крупные сети **интернализуют** импорт (становятся собственными импортёрами вместо опоры на дистрибьюторов). Это поддерживает интерпретацию «перетекание в прямые/альтернативные каналы», а не чисто «сжатие реального спроса»: товар продолжает ввозиться, но через новых субъектов (сам ритейлер), что часть может не попадать в категорию «параллельный импорт» в статистике. `[conf:medium, src:2026-05-14]`
+
 ## Маркетинговое следствие
 
 - **Контекст для contentа про import substitution:** есть **верифицированная** метрика «параллельный импорт сжался в 4 раза» — её можно использовать как baseline. Не «политическое утверждение», а цитата Минпромторга.
@@ -53,7 +63,10 @@ namespace: mkt
 
 - [[volatile-strict/industry-news/ru-minpromtorg-parallel-import-stop-2026-05]] (детальная новость по приказу 27 мая 2026)
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] (общий контекст regulatory squeeze, 6-й вектор)
-- [[sources/2026-05-04-dp-ru-minpromtorg-parallel-import-laptops]] (первоисточник)
+- [[evolving/industry-trends/ru-offline-retail-decline-2026]] (давление на офлайн-розницу, контекст для Эльдорадо)
+- [[canon-strict/historical-campaigns/eldorado-rise-and-fall-1994-2025]] (retailer-level кейс: Эльдорадо перешла на самостоятельный прямой импорт)
+- [[sources/2026-05-04-dp-ru-minpromtorg-parallel-import-laptops]] (первоисточник 1)
+- [[sources/2026-05-14-yt-ilya-solovey-eldorado-history]] (первоисточник 2 — retailer-level кейс)
 
 ## TTL и план верификации
 

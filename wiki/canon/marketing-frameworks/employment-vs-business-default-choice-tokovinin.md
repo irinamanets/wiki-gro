@@ -154,6 +154,8 @@ Use as **canon counter-anchor** против founder-FOMO content. Stable меж
 - [[canon/marketing-frameworks/sales-as-business-core-tokovinin]]
 - [[canon/marketing-frameworks/internet-1997-ai-revolution-analogy-tokovinin]]
 - [[canon/marketing-frameworks/imitation-over-innovation-tokovinin]]
+- [[canon/marketing-frameworks/courage-over-analysis-business-tokovinin]] — courage-over-analysis; permission-to-stay-employed (риск-толерантность как критерий)
+- [[canon/marketing-frameworks/salary-timeliness-labor-contract-tokovinin]] — тот же risk/stability-обмен, со стороны природы трудового контракта
 - [[canon/target-audience/ru-smb-founder-owner-seller]]
 - [[evolving/content-trends/career-audience-hooks-2026]]
 - [[sources/2026-05-06-yt-tokovinin-no-need-to-think-ai]]

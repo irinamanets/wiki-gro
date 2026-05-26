@@ -77,6 +77,7 @@ namespace: mkt
 - [[evolving/industry-trends/ru-exotic-tourism-shift-2026]] — outbound-конкурент внутреннему туризму
 - [[evolving/industry-trends/gen-z-workforce-shift-2026]] — зумерский mismatch как паттерн
 - [[canon/marketing-frameworks/value-for-customer-concept]] — почему «опыт» — это совокупность качеств, а не цена
+- [[evolving-strict/market-data/spb-universities-admission-2026]] — смежный СПб-снимок из той же серии dp.ru (chunk2): образовательная аудитория / абитуриенты
 - [[sources/2026-05-24-condense-dp-ru-chunk1]] — condensed-источник
 - [[sources/2026-05-06-dp-ru-sezon-premer-welcome-china]] — первоисточник
 - [[sources/2026-05-01-dp-ru-mobilnye-pomoshhniki-turisty]] — AskMeSPb / сегменты

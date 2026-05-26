@@ -9,7 +9,7 @@ tags: [management, leadership, ai-adoption, organizational-design]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-06
+updated: 2026-05-25  # +cross-link на companion-фреймы выпуска Серебряного Дождя (uncertainty-era, crisis-as-self-test)
 sources:
   - sources/2026-05-05-yt-batyrev-management-news-mar16-31.md
   - sources/2026-05-05-yt-batyrev-management-news-mar1-15.md
@@ -235,6 +235,8 @@ Sub-инструмент пересборки. **Любая программа �
 - [[canon/marketing-frameworks/ai-productivity-3-shifts-typical]] — параллельная рамка product-economics shift; пересборка Батырева — managerial-discipline shift
 - [[sources/2026-05-05-yt-batyrev-management-news-mar16-31]] — первоисточник #1 (16–31 марта)
 - [[sources/2026-05-05-yt-batyrev-management-news-mar1-15]] — первоисточник #2 (1–15 марта), откуда «fog vs clarity», Паспорт функции, тройка обязательных пунктов программы
+- [[canon/marketing-frameworks/batyrev-uncertainty-era-management]] — companion-фрейм того же автора (выпуск Серебряного Дождя): эпоха неопределённости, «реакция > проактивность», ясность-на-месяц + честность. Пересборка труда отвечает *как* перестроить команду, когда нанять некого; этот фрейм — *в каком ритме и под какой логикой реакции*. Сквозная тема «раз в две недели / fog vs clarity» здесь — прямой предшественник.
+- [[canon/marketing-frameworks/crisis-as-self-test-batyrev]] — companion-фрейм (кризис как «судилище»): ценностная ось устойчивости founder'а в дополнение к структурной пересборке
 
 ## Backlinks
 

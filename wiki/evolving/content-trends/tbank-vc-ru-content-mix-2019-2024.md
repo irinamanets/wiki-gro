@@ -9,8 +9,8 @@ tags: [content, t-bank, tinkoff, vc-ru, corporate-blog, content-mix, employer-br
 confidence: medium
 stale: false
 created: 2026-05-15
-updated: 2026-05-15
-sources: [sources/2026-05-14-condense-web-vc-ru-tbank-27.md]
+updated: 2026-05-25
+sources: [sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-14-tg-t-jrnl-travel-russia-course.md]
 namespace: mkt
 ---
 
@@ -58,6 +58,15 @@ namespace: mkt
 **Edutainment-конференция «Продукты 24»** (2021) — офлайн+онлайн ивент, бесплатный вход, арт-площадка Arma. Конкурент **ProductSense / ProductCamp** за аудиторию продакт-менеджеров.
 
 **Бизнес-секреты шоу** — питчинг-формат с призовым фондом 300K ₽. Community-building для **T-Bank Business**.
+
+**Бесплатный курс как лид-магнит (Telegram-датапоинт, 2026-05).** Образовательная категория не ограничена B2B/предпринимательской аудиторией — Т—Ж (Телеграм-медиа экосистемы, [@t_jrnl](https://t.me/t_jrnl)) раздаёт и **бесплатные потребительские курсы** как awareness-лид-магниты. Образец — промо курса Учебника Т—Ж «Как путешествовать по России» (видео + caption, пост 34315, 2026-05-14, [[sources/2026-05-14-tg-t-jrnl-travel-russia-course]]). Механика лид-магнита:
+- **Сезонный хук** в заголовке («Весна скоро кончится — самое время планировать летнее путешествие») — повод подвязан под календарный спрос.
+- **Objection-first структура** — открытие = типичная объекция аудитории («у нас нечего смотреть»), затем разворот «а вот и нет, сейчас вас разубедим» → курс как cure.
+- **Обнулённый барьер входа** — «бесплатный, начать можно уже сейчас», CTA на немедленный старт обучения, не на покупку.
+- **Benefit-list из 4 пунктов** (спланировать самостоятельно / понять особенности / найти направление / сэкономить) — стандартная упаковка ценности лид-магнита.
+- **Один трекинговый short-link** (`l.tbank.ru/...`) повторён дважды (тело + финальный CTA) для attribution.
+
+Это показывает, что **«образовательный» слой контент-микса работает не только как B2B-питч под предпринимателей, но и как top-of-funnel awareness-механика для широкой потребительской аудитории** — бесплатный курс = низкорисковая точка входа в экосистему бренда.
 
 ### Технический контент (10%)
 
@@ -118,5 +127,12 @@ TTL: 180 дней. Re-verify при появлении публикаций Т-�
 - [[evolving/content-trends/research-as-pr-transactional-data-format]] — research-as-PR (детализация edu/research-категории контент-микса)
 - [[evolving-strict/campaign-metrics/ru-offline-brand-event-reach-benchmarks-2026]] — reach-бенчмарки событий (event-слой того же blog-нарратива)
 - [[evolving/competitor-positioning/tbank-dofamin-banking-navigator-2025]] — позиционный нарратив app 7.0
+- [[evolving/content-trends/paid-honest-review-format]] — платный честный обзор (продуктовый кейс-формат, chunk7)
+- [[evolving/content-trends/ai-avatar-spending-gamification]] — AI-аватары трат «Титулы» (chunk7)
+- [[evolving/content-trends/personalized-year-in-review-spec-project]] — year-in-review спецпроект (chunk7)
+- [[evolving/content-trends/popup-district-branding-ambassadors]] — pop-up брендирование района (chunk7)
+- [[evolving/content-trends/employer-brand-culture-as-content]] — культура как контент / детализация HR-слоя (chunk7)
 - [[sources/2026-05-14-condense-web-vc-ru-tbank-27]] — источник
+- [[sources/2026-05-14-tg-t-jrnl-travel-russia-course]] — Telegram-датапоинт: бесплатный курс как awareness-лид-магнит (образовательная категория контент-микса)
 - [[sources/2026-05-24-condense-vc-ru-tbank-chunk6-30]] — chunk6 (research-PR + события + дофамин-банкинг)
+- [[sources/2026-05-24-condense-vc-ru-tbank-chunk7-16]] — chunk7 (content-форматы + e-com market-data)

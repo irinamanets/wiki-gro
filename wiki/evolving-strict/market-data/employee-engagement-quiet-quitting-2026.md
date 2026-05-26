@@ -9,8 +9,8 @@ tags: [employee-engagement, quiet-quitting, hr, gen-z]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-19  # +РШУ конец 2025: 48% работающих россиян с симптомами выгорания (3-й RU-якорь выгорания после hh 42% и hh-апрель 33%) + leadership-energy как критерий найма (vc.ru/hr репост колонки для «Коммерсанта»); prior: +Soulful (Drivee, Дзен Деловой Мир, май 2026) Gallup State of Global Workplace 2026 / CEPR 2025 / hh.ru февраль 2026 / РБК × Ренессанс × Зарплата.ру / Рублёво
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2883929-tikhoe-uvolnenie-kak-vernut-sotrudnikov-k-rabote.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md]
+updated: 2026-05-25  # +Pressfeed/Сколково cross-source: Gallup 31% corroboration + макро-потери внутрикома РФ до 8,7 трлн ₽/год (condense-pressfeed-chunk2). Prior 2026-05-19: +РШУ конец 2025: 48% работающих россиян с симптомами выгорания (3-й RU-якорь выгорания после hh 42% и hh-апрель 33%) + leadership-energy как критерий найма (vc.ru/hr репост колонки для «Коммерсанта»); prior: +Soulful (Drivee, Дзен Деловой Мир, май 2026) Gallup State of Global Workplace 2026 / CEPR 2025 / hh.ru февраль 2026 / РБК × Ренессанс × Зарплата.ру / Рублёво
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2883929-tikhoe-uvolnenie-kak-vernut-sotrudnikov-k-rabote.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-24-condense-pressfeed-chunk2-25.md]
 namespace: mkt
 ---
 
@@ -187,6 +187,10 @@ namespace: mkt
 2. **Анти-зумерский миф полезен** `[conf:medium, src:2026-05-05]`. Если большинство «тихоувольняющихся» в РФ — старше 35, нарратив «GRO для зумеров» не должен закрепляться. Главная аудитория выгорания — взрослые состоявшиеся сотрудники, не молодёжь.
 3. **Качество руководителя как главный driver** `[conf:medium, src:2026-05-05]`. Сильный hook для рынка business-tools: проблема **не** в самом сотруднике, а в системе. GRO как self-management-инструмент позиционируется как способ компенсировать слабую систему вокруг человека.
 
+### Cross-source: Pressfeed/Сколково — Gallup 31% + макро-потери внутрикома РФ (2026-05) [conf:low, src:2026-05-25]
+
+Через condense-Pressfeed ([[sources/2026-05-24-condense-pressfeed-chunk2-25]], 2026-05-19) — ещё одна независимая ссылка на Gallup **31%** вовлечённости (US), что подтверждает primary-figure выше. Та же статья даёт RU-макро-оценку **потерь от плохих внутренних коммуникаций до 8,7 трлн ₽/год (Сколково)** + кейсы (Coca-Cola GPT-бот 70% adoption, «Корус» внутренняя валюта: +20% удовлетворённость / +25% вовлечённость) — числовая база вынесена в [[evolving-strict/market-data/ru-internal-comms-losses-skolkovo-2026]] (`conf:low`, PR-источник без прямых ссылок на отчёты). Связь: плохой внутриком — один из системных драйверов Great Detachment; внутриком-инструменты — операционный ответ ([[canon/marketing-frameworks/internal-comms-pr-framework-2026]]). [conf:low, src:2026-05-25]
+
 ## Содержательные contradictions
 
 - **Gallup engagement: 21-23% (ранее) vs 31% (Батырев latest 2026).** `[conf:high, src:2026-03-25]` Не противоречие, а supersession: 31% — последняя ежегодная цифра Gallup (worst за десятилетия), 21-23% — более ранний срез/другая под-выборка/другая методология. **Resolution:** 31% становится primary-figure, 21-23% оставляется как reference-точка с пометкой источника. Запись в audit trail (`<!-- superseded -->`) сохранена в таблице.
@@ -212,6 +216,9 @@ namespace: mkt
 - [[canon/marketing-frameworks/management-styles-2026-soulful]] — фрейм 4+1 стилей как operational ответ на снижение engagement (parallel framework к work-recomposition-batyrev)
 - [[canon/marketing-frameworks/cry-as-cheap-system-crutch-soulful]] — operational protocol замены крика — anti-pattern, выделяемый из 52% увольнений из-за токсичного климата `[conf:medium, src:2026-05-14]`
 - [[canon/marketing-frameworks/management-style-obsolete-6-signals-soulful]] — диагностический чек-лист, использующий «нет плохих новостей» как ключевой anti-signal психологической безопасности
+- [[evolving-strict/market-data/ru-internal-comms-losses-skolkovo-2026]] — Сколково 8,7 трлн ₽ + Gallup 31% corroboration + кейсы Coca-Cola/«Корус» [conf:low, src:2026-05-25]
+- [[canon/marketing-frameworks/internal-comms-pr-framework-2026]] — фреймворк внутрикома как ответ на Great Detachment
+- [[sources/2026-05-24-condense-pressfeed-chunk2-25]] — Pressfeed condense (Gallup 31% + Сколково) [conf:low, src:2026-05-25]
 
 ## Backlinks
 

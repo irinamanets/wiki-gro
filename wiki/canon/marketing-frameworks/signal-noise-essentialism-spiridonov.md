@@ -9,8 +9,9 @@ tags: [productivity, essentialism, focus, signal-noise, pareto, content, framewo
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-18  # +cross-ref на attention-as-managed-resource-pressfeed-ceo (Pressfeed CEO достигает того же тезиса фокуса через лексику время→внимание, не сигнал→шум — двойной перевод одной идеи для разных аудиторий)
-sources: [sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-18-pressfeed-ceo-focus-essay.md]
+updated: 2026-05-14  # +companion-piece «7-дневный информационный детокс» (yt-spiridonov-7-day-info-detox): input-side операционная имплементация сигнал/шум — очистка входа от шума как предусловие применения рамки к задачам
+prev_updated: 2026-05-18  # +cross-ref на attention-as-managed-resource-pressfeed-ceo (Pressfeed CEO достигает того же тезиса фокуса через лексику время→внимание, не сигнал→шум — двойной перевод одной идеи для разных аудиторий)
+sources: [sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-18-pressfeed-ceo-focus-essay.md, sources/2026-05-14-yt-spiridonov-7-day-info-detox.md]
 namespace: mkt
 ---
 
@@ -237,9 +238,27 @@ Reusable как референс-cluster для **сравнения с GRO**: �
 
 Эту страницу полезно читать парой: фрейм + биологическая иллюстрация. В контенте GRO — комбинация даёт hook awareness-уровня («algorithm стирает биологическую способность к фокусу») и cure-уровня (signal/noise vocabulary + 3-фазовый протокол).
 
+## Companion-piece про input-side: 7-дневный информационный детокс (2026-05-14)
+
+Спиридонов в отдельном ~11-минутном YouTube-ролике «Как я вернул себе фокус, пошаговый план лучшей жизни на 2026» ([[sources/2026-05-14-yt-spiridonov-7-day-info-detox]]) даёт **input-side операционную имплементацию** этого фрейма → [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]].
+
+Соотношение слоёв одного и того же автора:
+
+| Слой | Фрейм | Что управляет |
+|---|---|---|
+| Теория | Сигнал vs шум (эта страница) | *Что* фильтровать и *почему* (нейробиология дофамина завершённости) |
+| Output-протокол | [[canon/marketing-frameworks/evening-audit-morning-bunker-protocol|3 фазы]] | Поток **задач** (вечерний аудит → бункер → контейнер) |
+| Input-протокол | [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov|7-дневный детокс]] | Поток **информации** (аудит источников → отписка → уведомления → лимиты → белый список → активное потребление → режим) |
+
+Логика очерёдности: **детокс очищает вход** (убирает шумовые источники), затем сигнал/шум применяется к тому, что осталось, а 3-фазовый протокол выстраивает день. Все три = один cluster от одного автора. День 1 детокса (фильтр «какую пользу даёт за 10 сек?») — это input-аналог [[canon/marketing-frameworks/valuable-to-stranger-filter|фильтра «ценность для незнакомца»]].
+
+В контенте GRO три слоя подаются как **прогрессия**: awareness (сигнал/шум) → input-челлендж (7 дней детокса) → daily-режим (3 фазы). Готовый 7-серийный/3-серийный контент-курс.
+
 ## Связанные страницы
 
 - [[sources/2026-05-05-yt-spiridonov-signal-noise-essentialism]] — source-страница видео #1 (фрейм)
+- [[sources/2026-05-14-yt-spiridonov-7-day-info-detox]] — source-страница видео про input-side детокс
+- [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]] — input-side операционный протокол (7-дневный детокс)
 - [[sources/2026-05-18-pressfeed-ceo-focus-essay]] — параллельная рамка Pressfeed-CEO «время vs внимание»
 - [[canon/marketing-frameworks/attention-as-managed-resource-pressfeed-ceo]] — параллельная рамка Pressfeed-CEO (двойной перевод)
 - [[sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg]] — source-страница видео #2 (биологическая иллюстрация шума)

@@ -9,9 +9,9 @@ tags: [content, video, attention, short-form, awareness, gurinovich]
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-24  # +второй независимый источник (vc.ru brain rot story_2742293): 47 сек удержание, «текст >минуты = избыточное усилие» — поднимает базовый demand-side тезис до medium (sub-тезис «быстрые виды спорта» остаётся low)
-prev_updated: 2026-05-19
-sources: [sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md]
+updated: 2026-05-25  # +cure-side секция (Спиридонов info-detox): третий голос demand-картины + индивидуальный counter-move (7-дневный детокс) → двухтактный нарратив для GRO
+prev_updated: 2026-05-24  # +второй независимый источник (vc.ru brain rot story_2742293): 47 сек удержание, «текст >минуты = избыточное усилие» — поднимает базовый demand-side тезис до medium (sub-тезис «быстрые виды спорта» остаётся low)
+sources: [sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md, sources/2026-05-14-yt-spiridonov-7-day-info-detox.md]
 namespace: mkt
 ---
 
@@ -58,6 +58,12 @@ namespace: mkt
 
 **Следствие:** двух-источниковое подтверждение (Гуринович-наблюдение + vc.ru brain rot стат) поднимает уверенность в самом demand-side сдвиге. Конкретный sub-тезис про «быстрые виды спорта» (киберспорт/дроны/роботы) остаётся `low` (только Гуринович).
 
+## Cure-side: индивидуальный counter-move (Спиридонов, 2026-05-14)
+
+Если эта страница фиксирует **рыночный тренд** сжатия внимания (от которого contentу не убежать), то Спиридонов в info-detox-видео ([[sources/2026-05-14-yt-spiridonov-7-day-info-detox]], verified expert) даёт **индивидуальный counter-move**: 7-дневный протокол восстановления способности к концентрации → [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]]. Третий независимый голос той же демэнд-картины: «мозг привык быстро потреблять» (Гуринович) = «информационный мусор тренирует мозг быть рассеянным» (Спиридонов) `[conf:medium, src:2026-05-14]`.
+
+Для GRO это даёт **двухтактный нарратив**: использовать форму быстрого контента для охвата (как описано выше), но в *смысле* противопоставлять «тренируешь внимание/навык» дешёвому быстрому потреблению — и предлагать конкретный detox-челлендж как product-led on-ramp.
+
 ## Как верифицировать / усилить
 
 Базовый тезис (сжатие внимания / «текст >минуты = усилие») теперь подтверждён **двумя независимыми источниками** (Гуринович + vc.ru brain rot) — для него `confidence: medium` оправдан. Что ещё усилит:
@@ -71,3 +77,5 @@ namespace: mkt
 - [[evolving/content-trends/social-media-addiction-design-patterns]] — attention-cost быстрого потребления (ЭЭГ-evidence)
 - [[canon/target-audience/gro-segments]] — пересечение новых attention-ниш с ЦА GRO
 - [[sources/2026-05-24-vcru-chunk4-condensed]] — второй независимый источник (vc.ru brain rot: 47 сек, «текст >минуты = усилие»)
+- [[sources/2026-05-14-yt-spiridonov-7-day-info-detox]] — третий голос demand-картины + cure-side детокс-протокол
+- [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]] — индивидуальный counter-move против рыночного сжатия внимания

@@ -9,8 +9,8 @@ tags: [content, post, founder, capital, awareness, decision]
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-yt-tokovinin-economic-crisis.md]
+updated: 2026-05-25  # +дилектика с Давлатовым (debtor-mindset) — психологический vs финансово-структурный взгляд на долг, резолюция через сегментацию по порогу
+sources: [sources/2026-05-05-yt-tokovinin-economic-crisis.md, sources/2026-05-25-yt-hartmann-davlatov-survive-losses.md]
 namespace: mkt
 ---
 
@@ -118,6 +118,7 @@ Use as **canon counter-frame** в founder-content под high-debt сегмен�
 
 ## Cross-references
 
+- [[canon/marketing-frameworks/debtor-mindset-davlatov]] — **психологический counter-pole** этого фрейма: Давлатов строит весь взгляд на долг на психологии («мышление должника хуже наркомании»), что Токовинин прямо отвергает как «фрейдизм для маленьких». Резолюция — сегментация по порогу (см. ## Contradictions ниже)
 - [[canon/marketing-frameworks/capital-as-product-formula-tokovinin]]
 - [[canon/marketing-frameworks/long-form-cancellation-defense-tokovinin]]
 - [[canon/marketing-frameworks/populism-discount-rule-tokovinin]]
@@ -127,6 +128,11 @@ Use as **canon counter-frame** в founder-content под high-debt сегмен�
 - [[canon/positioning/gro-value-proposition]]
 - [[evolving/competitor-positioning/grebenyuk-anomaly-community]]
 - [[sources/2026-05-05-yt-tokovinin-economic-crisis]]
+- [[sources/2026-05-25-yt-hartmann-davlatov-survive-losses]]
+
+## Contradictions
+
+- **[2026-05-25]** Концептуальное противоречие с [[canon/marketing-frameworks/debtor-mindset-davlatov]] (источник [[sources/2026-05-25-yt-hartmann-davlatov-survive-losses]]). Токовинин: долг — финансовый инструмент, правильные вопросы — ставка/срок/залоги, психоанализ долга = «фрейдизм для маленьких», «можешь взять ещё — бери». Давлатов: долг — поведенческая зависимость, «больше никогда не бери», «мышление должника хуже наркомании». **Резолюция — НЕ supersession:** оба верны на разных сегментах кривой долга. Давлатов прав **ниже порога** (потребительский / ранний долг, где долг — bottleneck и привычка), Токовинин прав **выше порога** (большой корпоративный долг, где долг — leverage). Сам Токовинин формулирует этот порог в теле страницы; Давлатовский anti-pattern «3× прибыли + covenant» = эксплицитный edge-case Токовинина «если кредитор может тебя банкротить — ты всё ещё в проблеме». Оба фрейма остаются видимыми, `confidence: medium` для обоих. Для GRO-контента: не миксовать в одном сообщении без указания сегмента долга.
 
 ## Backlinks
 

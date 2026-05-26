@@ -9,8 +9,8 @@ tags: [productivity, focus, time-management, deep-work, protocol, framework, dai
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md]
+updated: 2026-05-25  # +cross-link на input-side близнец «7-дневный информационный детокс» того же автора (output-протокол задач ↔ input-протокол информации, стыкуются в один дневной режим)
+sources: [sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md, sources/2026-05-14-yt-spiridonov-7-day-info-detox.md]
 namespace: mkt
 ---
 
@@ -138,6 +138,7 @@ GRO Unit: «Сигнал-протокол»
 | [[canon/marketing-frameworks/visotsky-productivity-heuristics]] | 1-3-5, 30 часов, 2 часа на подчинённого | Параллельный, числовой. Спиридонов — *концептуальный* (что/почему), Высоцкий — *числовой* (сколько). Хорошо комбинируются |
 | [[canon/marketing-frameworks/anti-perfectionism-mvp-launch-muratayev]] | Запуск раньше, чем «готов» | Сонаправлен — оба борются с прокрастинацией через контейнер времени |
 | [[canon/marketing-frameworks/signal-noise-essentialism-spiridonov]] | Концептуальная рамка сигнал vs шум | Этот протокол = операционная имплементация рамки |
+| [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]] | 7-дневный информационный детокс (тот же автор) | **Input-side близнец.** Этот протокол управляет **задачами** (output), детокс — **информационным потоком** (input). День 7 детокса «информационный режим» (утро без новостей) = информационный аналог утреннего бункера. Стыкуются в один дневной распорядок |
 | [[canon/marketing-frameworks/valuable-to-stranger-filter]] | Pre-task quality gate | Применяется на стадии вечернего аудита: каждая из 2–3 задач сигнала проходит через фильтр «незнакомца» |
 
 ## Anti-patterns при использовании
@@ -151,6 +152,7 @@ GRO Unit: «Сигнал-протокол»
 
 - [[sources/2026-05-05-yt-spiridonov-signal-noise-essentialism]] — source-страница (видео + транскрипт)
 - [[canon/marketing-frameworks/signal-noise-essentialism-spiridonov]] — родительская концептуальная рамка
+- [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]] — input-side близнец (управление информацией vs задачами)
 - [[canon/marketing-frameworks/visotsky-productivity-heuristics]] — параллельный числовой playbook
 - [[canon/marketing-frameworks/valuable-to-stranger-filter]] — quality gate для задач сигнала
 - [[canon/marketing-frameworks/anti-perfectionism-mvp-launch-muratayev]] — комплементарный против прокрастинации

@@ -44,6 +44,7 @@ namespace: mkt
 
 - [[sources/2026-05-24-condense-vcru-chunk5]] — первоисточник
 - [[canon/marketing-frameworks/employee-intrinsic-demotivation-6-factors]] — деньги как гигиенический фактор
+- [[canon/marketing-frameworks/sales-staff-motivation-achievement-avoidance]] — «нематериальные факторы мотивируют сильнее, чем кажется» (тот же тезис в sales-контексте)
 - [[canon/marketing-frameworks/employee-retention-cost-bredova]] — стоимость замены сотрудника
 - [[evolving/content-trends/daily-streak-gamification-in-finance]] — streak-геймификация (смежная механика)
 - [[evolving/content-trends/character-collectibles-trend-2026]] — нематериальный символ статуса

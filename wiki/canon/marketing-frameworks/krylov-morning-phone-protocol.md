@@ -9,8 +9,8 @@ tags: [framework, productivity, time-management, owner-self-management, attentio
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md]
+updated: 2026-05-25  # +cross-ref на info-detox День 3 (Спиридонов): whitelist-уведомлений как комплементарный mode к physical-isolation; «20 мин на возврат» anchor
+sources: [sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-yt-spiridonov-7-day-info-detox.md]
 namespace: mkt
 ---
 
@@ -180,6 +180,19 @@ ROT касается **что делать** (stratregic). Morning phone protoco
 
 [[evolving/product-reception/gro-productivity-energy-angle|Bruch & Ghoshal]] фиксируют **90% руководителей непродуктивны** despite working hard. Krylov 1570 — **третий self-reported case** (после 1546 «эмоциональное состояние как инструмент» и 1503 «золотые часы») того же phenomenon: founder работал 8h20m в день в телефон, но это **не была работа**, это была иллюзия контроля. Это совпадает с типологией **«суетливые» (40%, высокая энергия, низкий фокус)**.
 
+### vs Спиридонов «День 3: уведомления» (info-detox)
+
+[[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov|7-дневный информационный детокс Спиридонова]] содержит **прямой сиблинг** этого протокола в Дне 3 («Уведомления — главный враг»). Соотношение двух подходов к одной проблеме:
+
+| Параметр | Krylov-mode | Спиридонов День 3 |
+|---|---|---|
+| Стратегия | **Physical isolation** — телефон в другую комнату | **Whitelist-настройка** — выключить все уведомления, вернуть только критичные приложения (банк) и избранных людей (семья, ближайшие сотрудники) |
+| Окно | Утро, до 10:00 | Постоянная дефолт-настройка устройства |
+| Фокус | Phone-as-device | Notifications-as-channel + источники контента целиком (7 шагов) |
+| Anchor стоимости | «рука тянется каждые 8 минут» (conditioned reflex) | «до 20 минут на возврат к задаче после отвлечения» |
+
+**Не конфликт, а комплементарность:** physical isolation (Krylov) + whitelist уведомлений (Спиридонов) = **двойной барьер**. Спиридонов даёт более широкий 7-дневный input-протокол, Krylov — глубже копает один конкретный механизм (phone в утреннем окне). Оба резонируют с одним сегментом ([[canon/target-audience/ru-smb-founder-owner-seller]]).
+
 ## Применение для GRO
 
 ### Для core-нарратива
@@ -222,6 +235,7 @@ ROT касается **что делать** (stratregic). Morning phone protoco
 - [[canon/marketing-frameworks/krylov-reference-call-question]] — другая Krylov-page того же кластера
 - [[canon/marketing-frameworks/krylov-sales-imitator-3-markers]] — другая Krylov-page того же кластера
 - [[canon/marketing-frameworks/petrosian-perspective-shift-questions]] — companion для Petrosian-mode (lock-screen question как perspective-shift)
+- [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]] — input-side сиблинг (День 3 «уведомления» = whitelist-вариант этого протокола)
 - [[evolving/content-trends/owner-escape-operations-hooks]] — content-hooks family
 - [[evolving/product-reception/gro-productivity-energy-angle]] — anchor Bruch & Ghoshal
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — target segment

@@ -71,4 +71,5 @@ GRO — B2C мобильное приложение, прямой DI-channel п�
 - [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]] — другой adtech-вектор того же игрока (Билайн Adtech): AI-автозаполнение юр-блока в СМС
 - [[evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026]] — кейс Билайн Adtech × «Дикси»: измеримый эффект Smart TV на офлайн-продажи
 - [[canon/marketing-frameworks/clickless-channel-incrementality-stable-id]] — как этот эффект измеряют (тест-контроль + Stable ID)
+- [[evolving/industry-trends/ooh-nonstandard-carriers-roskosmos-2026]] — сверх-нишевый край той же OOH-эволюции: нестандартные носители против баннерной слепоты
 - [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] — первоисточник

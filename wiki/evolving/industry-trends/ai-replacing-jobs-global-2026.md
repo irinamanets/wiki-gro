@@ -9,9 +9,9 @@ tags: [ai-displacement, labor-market, layoffs]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-24  # +ранний эмпирический трек (vc.ru/Спиридонов 2023): Accenture reskilling >550k + IgniteTech ~80% замена/EBITDA 75% + контр-интуитивный инсайт «сопротивлялись разработчики, не маркетологи» + ранний «человек + ИИ» предшественник sorting-test'а
-prev_updated: 2026-05-19  # +RU-голос Гуринович (пост 919, 2026-05-18): «работать надо больше и продуктивнее, не меньше» = народный Jevons + бинарный sorting-test, RU-side подтверждение counter-anchor'а
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md]
+updated: 2026-05-25  # +RU-голос Батырев (YT-интервью 2026-05): «половина профессий уйдёт, но замена одно другим» (оператор дронов ~300к) + «человек как премиум» + speech-analytics proof-point (ИИ-замена ОКК на микро-уровне)
+prev_updated: 2026-05-24  # +ранний эмпирический трек (vc.ru/Спиридонов 2023): Accenture reskilling >550k + IgniteTech ~80% замена/EBITDA 75% + контр-интуитивный инсайт «сопротивлялись разработчики, не маркетологи» + ранний «человек + ИИ» предшественник sorting-test'а
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md, sources/2026-05-25-yt-batyrev-partnership-ai-sales-children.md]
 namespace: mkt
 ---
 
@@ -401,6 +401,20 @@ Snap и Block добавляются к уже зафиксированным AI
 
 **Связь с макро-нарративом.** Тот же тезис про производительность через роботизацию/ИИ Гуринович берёт из growth-стороны интервью Новака (пост 917) — см. [[evolving-strict/market-data/ru-macro-snapshot-may-2026]] (раздел «Growth-сторона»). То есть на RU-уровне «AI → выше производительность → рост ВВП» подаётся как **официальный + предпринимательский консенсус**, а не маргинальный взгляд.
 
+## RU-голос: Батырев — «половина профессий уйдёт, но замена одно другим» + «человек как премиум» (2026-05)
+
+Ещё один **RU-предпринимательский голос** в нарративе — Максим Батырев (verified expert; [[sources/2026-05-25-yt-batyrev-partnership-ai-sales-children]], YT-интервью 2026-05). Его позиция — **balanced replacement**, а не чистый алармизм `[conf:medium, src:2026-05-25]`:
+
+> «Через 10 лет половина профессий может легко уйти (роботы пекут торты, делают операции, БПЛА обходит ПВО). Но появятся другие — замена одно другим. Раньше не было операторов дронов, сейчас платят ~300 тыс. ₽, чтобы они смотрели за урожаем.»
+> — Максим Батырев, YT-интервью 2026-05 `[conf:medium, src:2026-05-25]`
+
+**Куда это ложится в структуру страницы:**
+
+- **«Замена одно другим»** — RU-side эхо тезиса Гуриновича/Леви/Морейниса: AI не обнуляет занятость, а **переформатирует** профессиональный ландшафт (уход базовых ролей + рождение новых). Согласуется с Jevons-counter-anchor'ом ([[canon/marketing-frameworks/jevons-paradox-ai-positioning]]) и sorting-test'ом ([[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]]).
+- **Уникальный вклад Батырева — «человек как премиум»:** исчезновение базовых ролей рождает **премиальный сегмент «обслужено человеком»** (доплата за личное участие). Это новый поворот к counter-anchor-набору — вынесен в отдельную trend-страницу [[evolving/industry-trends/ai-human-premium-service-economy-2026]].
+- **Практический proof-point того же автора — речевая аналитика в продажах** (ИИ заменил отдел контроля качества за ~30 тыс. ₽/мес): конкретный пример «убрать рутинную позицию → передать инструменту» — см. [[canon/marketing-frameworks/ai-call-quality-speech-analytics-batyrev]]. Это показывает, как «половина профессий уйдёт» выглядит на микро-уровне одного отдела.
+- **Attribution-вес:** `confidence: medium` — экспертное мнение (verified business-speaker, founder проектов по отделам продаж), не верифицированный данными факт. Использовать с «по мнению Батырева».
+
 ## Ранний эмпирический трек: Accenture + IgniteTech (vc.ru, Спиридонов 2023)
 
 Из vc.ru-статьи Спиридонова «Как ИИ меняет рынок труда» ([[sources/2026-05-24-vcru-chunk4-condensed]], оригинал id79772_2317994, 2023) приходят **два ранних (2023) корпоративных кейса** AI-реорга — за два года до Snap/Block/Cloudflare-волны. Это **исторический контекст** к глобальному нарративу: паттерн «AI-трансформация штата» начался не в 2026:
@@ -446,6 +460,9 @@ Snap и Block добавляются к уже зафиксированным AI
 - [[sources/2026-05-05-tg-cgevent-apr30-may05-2026]] -- @cgevent дайджест с Uber/Swan/Nvidia + Китайский суд anchor'ами
 - [[canon/marketing-frameworks/jevons-paradox-ai-positioning]] -- canon-страница парадокса Джевонса как counter-anchor'а с полным разбором hooks
 - [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]] -- canon-страница двух-критериального sorting-test'а Спиридонова (рентгенологи как 10-летний эмпирический counter-кейс)
+- [[evolving/industry-trends/ai-human-premium-service-economy-2026]] -- «человек как премиум»: ИИ обнуляет базовый сервис, человеческое участие = наценка (Батырев)
+- [[canon/marketing-frameworks/ai-call-quality-speech-analytics-batyrev]] -- micro-proof «половины профессий уйдёт»: ИИ-речевая аналитика заменила отдел ОКК
+- [[sources/2026-05-25-yt-batyrev-partnership-ai-sales-children]] -- RU-голос Батырев (2026-05): balanced replacement + «человек как премиум»
 - [[sources/2026-05-14-tg-mspiridonov-may-2026]] -- @mspiridonov 2026-05 дамп: пост 4396 с рентгенологическим counter-anchor'ом
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — @breakingtrends 2026-05-14 дамп: Хуанг blue-collar counter-anchor (16745)
 - [[evolving/industry-trends/blue-collar-ai-resilience-2026]] — Хуанг как stand-alone authority anchor

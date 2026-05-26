@@ -79,6 +79,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/microniche-marketing-packages]] — как развивать defector findings в продуктовые пакеты
 - [[canon/marketing-frameworks/refused-customer-interview]] — техника интервью с отказавшимся / ушедшим клиентом
 - [[canon/marketing-frameworks/retention-benchmarks-b2c]] — actionable retention бенчмарки (свежие, не historic)
+- [[canon/marketing-frameworks/nps-three-tier-customer-and-employee]] — лёгкая NPS-петля как entry-point: критики (0–5) = defector-сигналы для итеративного «почему», промоутеры (9–10) = loyalty-сигналы (упрощённая версия пары defector/loyalty)
 
 ## Caveat
 

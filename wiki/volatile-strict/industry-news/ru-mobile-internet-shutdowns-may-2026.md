@@ -9,8 +9,8 @@ tags: [russia, mobile-internet, telecom, channels, distribution, news, security]
 confidence: high
 stale: false
 created: 2026-05-06
-updated: 2026-05-14  # +breakingtrends 16730 (2026-05-07): Минцифры подтверждает 9 мая Москва без мобильного интернета, без SMS, даже белые списки не работают; 7 и 8 мая — без ограничений; +vcnews 61284 (2026-05-09): subdigest «Новости субботы» — Минцифры объявило об отмене ограничений на работу мобильного интернета и SMS в Москве → cycle closed на 9-10 мая
-sources: [sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md]
+updated: 2026-05-25  # +field-сигнал вертикали недвижимости (СПб): Торбосов/Whitewill — «трафик не работает, заявки не оставляют, показы трудно организовать»; vertical-specific corroboration downstream-эффекта. Prior 2026-05-14: +breakingtrends 16730 (2026-05-07): Минцифры подтверждает 9 мая Москва без мобильного интернета, без SMS, даже белые списки не работают; 7 и 8 мая — без ограничений; +vcnews 61284 (2026-05-09): subdigest «Новости субботы» — Минцифры объявило об отмене ограничений на работу мобильного интернета и SMS в Москве → cycle closed на 9-10 мая
+sources: [sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md]
 namespace: mkt
 ---
 
@@ -120,12 +120,27 @@ vcnews 61284 (2026-05-09 09:53 UTC) фиксирует subdigest «Новост�
 
 **Pattern для будущих праздничных connectivity-event.** RU-marketing должен **закладывать в KPI-buffer ~1 день/праздник** под потенциальный mobile-internet shutdown в Московском регионе. Это **планируемое** uncertainty-window, а не unplanned crisis.
 
+## Field-сигнал: вертикаль недвижимости, СПб (Торбосов, ~май 2026)
+
+Первый **вертикально-конкретный first-person field-account** downstream-эффекта shutdown-окна на этой странице — со стороны SMB-практика, а не оператора/аналитика. Олег Торбосов (founder Whitewill, агентство премиальной недвижимости) в голосовом [[sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice|@TorbosovLife 19635]] описывает ситуацию в **Санкт-Петербурге** (вторичный регион ограничений, см. таблицу скоупа):
+
+> «У нас в Питере вообще беда с интернетом, ребята говорят, что трафик не работает, люди не оставляют заявки… сложно и брокерам, и с показами всё это организовывать, ехать, ты там не можешь состыковаться с клиентами — прям целая проблема большая.»
+
+**Что это добавляет (qualitative-сигнал, не статистика):**
+
+- **Lead-gen прямо обнуляется:** «трафик не работает, люди не оставляют заявки» — конкретный сегмент (lead-формы недвижимости) теряет заявки в окне ограничений. `[conf:medium, src:2026-05-25]`
+- **Operational-сбой выездных процессов:** показы объектов и состыковка с клиентами ломаются без мобильной связи — удар не только по digital-каналу, но и по offline-операционке брокеров. `[conf:medium, src:2026-05-25]`
+- **Источник — verified SMB-founder**, не media-пересказ. Это field-corroboration макро-бенчмарка «3–5 млрд ₽ за несколько дней» (Inc.Russia) на уровне одной вертикали: подтверждает, что real-estate lead-gen входит в «пострадавшие сегменты» наряду с доставкой/такси/самовывозом. `[conf:medium, src:2026-05-25]`
+
+**Confidence: medium** — единичный first-person нарратив без числовой оценки потерь; ценен как vertical-specific подтверждение механизма, а не как метрика. Связь с макро-картиной — [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]] и [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]].
+
 ## Связанные страницы
 
 - [[sources/2026-05-05-tg-forbesrussia-may-4-5-2026]] — источник
 - [[sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026]] — Inc.Russia ранний анонс apr-30 + бенчмарк ущерба 3–5 млрд ₽ от мартовских прецедентов
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — @breakingtrends 16730 Минцифры подтверждение 9 мая full shutdown без white-list, 7 и 8 мая без ограничений
 - [[sources/2026-05-14-tg-vcnews-may-8-12-2026]] — vcnews 61284 (2026-05-09): Минцифры снимает ограничения
+- [[sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice]] — field-сигнал вертикали недвижимости (СПб): lead-gen обнуляется в окне ограничений
 - [[volatile-strict/industry-news/ru-vpn-telegram-restrictions-2026-04]] — связанный connectivity-сдвиг
 - [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]] — macro-тренд
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — regulatory-контекст

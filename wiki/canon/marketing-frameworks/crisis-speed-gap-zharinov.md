@@ -9,7 +9,7 @@ tags: [frameworks, crisis-management, owner-self-management, leading-indicators,
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-25  # +Батырев companion-фреймы в crisis-кластер (судилище / неопределённость)
 sources: [sources/2026-05-18-pressfeed-krizis-perezagruzka-zharinov.md]
 namespace: mkt
 ---
@@ -31,6 +31,8 @@ namespace: mkt
 | [[canon/marketing-frameworks/business-crisis-playbook-apollo13]] | Триаж → приоритизация → коммуникация → ресурсы → выход | Острая фаза (кризис уже идёт) |
 | [[canon/marketing-frameworks/weak-signals-crisis-3-stages]] | Что мониторить во **внешнем** инфополе | Зарождение репутационного кризиса |
 | [[canon/marketing-frameworks/crisis-pr-principles]] | Управляемая коммуникация в кризис | Острая фаза (внешняя) |
+| [[canon/marketing-frameworks/crisis-as-self-test-batyrev]] | Кризис как «судилище»: ценностное состояние founder'а определяет исход | Пре-кризис / внутренне-личностная диагностика |
+| [[canon/marketing-frameworks/batyrev-uncertainty-era-management]] | «Реакция > проактивность»; ясность-на-месяц в перманентной неопределённости | Эпоха неопределённости (кризис как состояние, не событие) |
 | **Этот фрейм (Жаринов)** | **Внутренние опережающие индикаторы; почему кризис неизбежен** | **Пре-кризис / ранняя диагностика** |
 
 Дополнительность важна: Apollo-13 учит *что делать в огне*, Жаринов — *как заметить дым раньше пожара*. Для positioning ГРО как «длинный pre-game к кризису» (не «таблетка на кризис») этот фрейм точнее ложится в нарратив, чем острофазовые playbook'и.
@@ -178,3 +180,5 @@ _(пусто — первая фиксация концепта; согласу�
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — целевой сегмент контента
 - [[evolving/content-trends/owner-escape-operations-hooks]] — родственная anti-burnout серия (founder-self-management)
 - [[evolving/content-trends/crisis-defiance-essay-long-form]] — crisis-narrative content-template
+- [[canon/marketing-frameworks/crisis-as-self-test-batyrev]] — кризис как «судилище» (внутренне-личностная ось диагностики, Батырев)
+- [[canon/marketing-frameworks/batyrev-uncertainty-era-management]] — управление в перманентной неопределённости (реакция > проактивность)

@@ -130,6 +130,7 @@ Self-reported метрики у тренера-инфобизнесмена → 
 - [[canon/marketing-frameworks/krylov-sales-imitator-3-markers]] — комплементарный diagnostic-чеклист (individual vs system)
 - [[canon/marketing-frameworks/sales-crm-minimum-fieldset]] — какие именно поля в CRM нужны под фреймворк (% диалогов, % переходов, % повторных)
 - [[canon/marketing-frameworks/management-pyramid-sales]] — иерархическая модель управления sales-командой
+- [[canon/marketing-frameworks/kpi-motivation-system-4-stages]] — KPI как премиальная механика (override «жалоба обнуляет премию» = тот же принцип «качество > количество»)
 - [[canon/marketing-frameworks/refused-customer-interview]] — комплементарный фреймворк отказа от неподходящих клиентов
 - [[canon/marketing-frameworks/ritz-carlton-empowerment-2000]] — empowerment как контр-балланс жёстким KPI
 - [[evolving/competitor-positioning/vyakuba-sales-training]] — автор фреймворка

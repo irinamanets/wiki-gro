@@ -9,9 +9,9 @@ tags: [content, dark-patterns, addiction, ux, regulation, dsa, attention-economy
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-24  # +quantitative-layer brain rot (vc.ru story_2742293): 47 сек удержание (vs 2.5 мин 2004), 58 проверок/день, 25 мин на возврат, «brain rot» слово года +230%, «текст >минуты = избыточное усилие», BRS-14 воронка-как-формат
-prev_updated: 2026-05-23  # +cross-ref: Pattern 2 (variable reward) = «переменная награда» элемент Hook Model — те же механики ethics-нейтрально лежат в основе retention-дизайна
-sources: [sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-19-dzen-delovoymir-habit-product-hook-model.md, sources/2026-05-24-vcru-chunk4-condensed.md]
+updated: 2026-05-25  # +cure-side anchors Спиридонова (info-detox yt, видео от 2026-05-14): «20 мин на возврат» подтверждает ~25 мин Глории Марк; «8 сек vs рыбка» помечен как слабый media-миф (заменять на 47 сек); линк на 7-дневный детокс-протокол
+prev_updated: 2026-05-24  # +quantitative-layer brain rot (vc.ru story_2742293): 47 сек удержание (vs 2.5 мин 2004), 58 проверок/день, 25 мин на возврат, «brain rot» слово года +230%, «текст >минуты = избыточное усилие», BRS-14 воронка-как-формат
+sources: [sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-06-yt-spiridonov-reels-prefrontal-eeg.md, sources/2026-05-19-dzen-delovoymir-habit-product-hook-model.md, sources/2026-05-24-vcru-chunk4-condensed.md, sources/2026-05-14-yt-spiridonov-7-day-info-detox.md]
 namespace: mkt
 ---
 
@@ -71,6 +71,13 @@ namespace: mkt
 **Контент-импликация (прямой product-angle для GRO):** аудитория с задранным дофаминовым порогом воспринимает **текст длиннее минуты как «избыточное усилие»** → давление на формат коротких роликов `[conf:medium, src:2026-05-24]`. Это demand-side объяснение сжатия — детально в [[evolving/content-trends/fast-content-consumption-shift-2026]].
 
 **Воронка-как-формат (нативная product-led механика).** Сама vc.ru-статья встраивает CTA на валидированный тест (шкала **BRS-14**, 14 вопросов, 3 минуты, бесплатно) с переходом к ИИ-психологу «Аура» — пример **нативной product-led воронки внутри лонгрида** `[conf:medium, src:2026-05-24]`. Это переносимый паттерн для GRO: лонгрид про боль → встроенный бесплатный self-test → продукт. Совпадает с [[evolving/content-trends/self-diagnosing-prompt-lead-magnet-2026|self-diagnosing lead-magnet]].
+
+**Третий источник — anchors Спиридонова (info-detox, 2026-05-14).** Видео Спиридонова про 7-дневный информационный детокс ([[sources/2026-05-14-yt-spiridonov-7-day-info-detox]], verified expert) даёт дополнительные cure-side anchors того же диагноза:
+
+- Стоимость отвлечения: после переключения мозгу нужно **до 20 минут** на возврат к задаче → «отвлёкся на 3 уведомления — потерял до часа» `[conf:medium, src:2026-05-14]`. Это **независимое подтверждение** ~25-минутного anchor'а Глории Марк выше — два источника сходятся на «~20–25 мин на восстановление контекста».
+- Слабый hook-anchor (НЕ использовать как факт): «среднее время концентрации человека — **8 секунд**, у золотой рыбки — **9 секунд**» `[conf:low, src:2026-05-14]`. Это многократно оспоренный media-миф (исходное «исследование Microsoft 2015» не выдержало проверки); в контенте GRO заменять на верифицированный «**47 секунд** удержания» из vc.ru выше. Спиридонов приводит без точной ссылки.
+
+Эти anchors — **cure-layer**: видео не только диагностирует сжатие внимания, но даёт операционный протокол восстановления → [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]].
 
 ## Главный итог исследовательской позиции
 
@@ -145,6 +152,8 @@ EU DSA и LA jury verdict — это **долгосрочный shift** регу
 - [[sources/2026-05-19-dzen-delovoymir-habit-product-hook-model]] — Hook Model как retention-фреймворк (Деловой мир / Дзен)
 - [[sources/2026-05-24-vcru-chunk4-condensed]] — quantitative-layer brain rot (47 сек, 58 проверок/день, слово года +230%, BRS-14 воронка)
 - [[evolving/content-trends/self-diagnosing-prompt-lead-magnet-2026]] — BRS-14 как нативная product-led воронка внутри лонгрида
+- [[sources/2026-05-14-yt-spiridonov-7-day-info-detox]] — cure-side anchors Спиридонова (20 мин на возврат; «8 сек vs рыбка» как media-миф)
+- [[canon/marketing-frameworks/seven-day-info-detox-protocol-spiridonov]] — операционный протокол восстановления (cure-layer диагноза этой страницы)
 
 ## Backlinks
 

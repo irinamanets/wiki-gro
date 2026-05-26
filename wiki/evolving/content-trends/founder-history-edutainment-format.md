@@ -219,6 +219,7 @@ Survival/anachronism-хук вынесен в [[evolving/content-trends/rybakov-
 - [[evolving/content-trends/branded-media-tg-cross-channel-pattern]] — cross-channel patterns
 - [[evolving/content-trends/short-form-history-business-parable-pattern]] — соседний short-form-text history-формат (Давыдов про Прохорова) для contrast: чужая историческая история vs личный опыт, текст vs видео, низкий vs высокий production-cost
 - [[evolving/content-trends/torbosov-ai-reels-repurposing-2026]] — curator-edutainment-вариант (Торбосов) + AI-репурпозинг spokes
+- [[evolving/content-trends/osnovateli-resilience-documentary-format]] — мульти-герой кураторский документальный вариант founder-контента («Основатели» / Кутергин-Гуринович): не personal-history, а тематический сбор многих фаундеров вокруг одной идеи (взлёты/падения)
 - [[sources/2026-05-19-tg-torbosov-life-may-2026]] — оригинал curator-edutainment-варианта (#культпросвет / #подомам)
 - [[canon/marketing-frameworks/business-reality-show-format]] — другой founder-content-формат того же автора
 - [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]] — почему «хорошие предки» делают такой контент

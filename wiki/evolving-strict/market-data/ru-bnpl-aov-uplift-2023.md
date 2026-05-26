@@ -9,8 +9,8 @@ tags: [bnpl, market-data, retail, e-commerce, payments, aov, doly, tinkoff, t-ba
 confidence: high
 stale: false
 created: 2026-05-15
-updated: 2026-05-24  # +forward-link на follow-up business-turnover study 2024 (×3 оборота, кейс Mollis) из chunk6 condensed
-sources: [sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md]
+updated: 2026-05-24  # +chunk7: AOV BNPL vs карта (5589 vs 3080, +81%), переходы партнёрам 10М→40М (×24); prior +forward-link на business-turnover study 2024
+sources: [sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md, sources/2026-05-24-condense-vc-ru-tbank-chunk7-16.md]
 namespace: mkt
 ---
 
@@ -40,6 +40,22 @@ namespace: mkt
 |---|---|---|
 | Осведомлённость потребителей о BNPL | **93%** | `[conf:high, src:2023-01-01]` |
 | Фактическое использование BNPL | **40%** | `[conf:high, src:2023-01-01]` |
+
+### AOV BNPL vs карта + трафик-канал (chunk7, 2023)
+
+Второй независимый Долями-датасет (chunk7) даёт **прямое сравнение чека BNPL vs обычной картой** в тех же магазинах и масштаб «Долями как трафик-канал»:
+
+| Метрика | Значение | Source |
+|---|---|---|
+| Средний чек через BNPL | **5 589 ₽** | `[conf:medium, src:2023-01-01]` |
+| Средний чек картой (те же магазины) | **3 080 ₽** | `[conf:medium, src:2023-01-01]` |
+| Превышение чека BNPL над картой | **+81%** | `[conf:medium, src:2023-01-01]` |
+| Переходы на ресурсы партнёров за 2022 | **>10 млн** (×24 к 2021) | `[conf:medium, src:2022-01-01]` |
+| Переходы за янв–окт 2023 | **40 млн** | `[conf:medium, src:2023-01-01]` |
+
+**Reconcile с кейсом Рив Гош (+26%):** два разных среза одного эффекта. Рив Гош (+26%) — uplift на **одном ритейлере** (с BNPL vs без, внутри сети). Долями-агрегат (+81%) — разница **between корзин**: пользователи, выбирающие BNPL, изначально берут более дорогие корзины (selection-эффект), плюс сам BNPL-uplift. +81% включает self-selection, +26% его исключает (контролируемое сравнение). Поэтому +81% — это **не противоречие**, а верхняя граница; +26% — нижняя, очищенная. `[conf:medium, src:2023-01-01]`
+
+**Долями как трафик-канал (×24 → 40 млн переходов):** `[conf:medium, src:2023-01-01]` BNPL-сервис генерирует десятки миллионов переходов партнёрам — это превращает его из платёжного метода в **acquisition-канал**. Подробнее о позиционировании Долями как трафик-канала и медиа-актива — [[evolving/competitor-positioning/tbank-doli-lifestyle-media-channel]].
 
 ## Интерпретация
 
@@ -95,9 +111,11 @@ TTL: 180 дней (`evolving-strict` default), но первая re-verification
 - [[evolving-strict/competitor-metrics/tbank-historical-metrics-2019-2024]] — общий контекст метрик T-Bank
 - [[evolving/competitor-positioning/tbank-doli-bnpl-sub-brand-palette-lavender]] — Доли sub-brand в 2026
 - [[evolving/competitor-positioning/tbank-doli-bnpl-partner-album-format]] — BNPL partner-album формат
+- [[evolving/competitor-positioning/tbank-doli-lifestyle-media-channel]] — Доли как трафик-канал и медиа-актив (chunk7)
 - [[evolving-strict/market-data/ru-payment-conversion-2022]] — параллельная payment-метрика
 - [[evolving/industry-trends/tbank-corporate-platform-stack-2026]] — современный T-Bank контекст
 - [[evolving-strict/market-data/ru-bnpl-business-turnover-effect-2024]] — follow-up: BNPL-эффект на обороты бизнеса (×3) + кейс Mollis
 - [[evolving-strict/market-data/ru-consumer-services-research-pr-2024-2025]] — рассрочка на доп.образование (родители)
 - [[sources/2026-05-14-condense-web-vc-ru-tbank-27]] — источник
 - [[sources/2026-05-14-web-vc-ru-tbank-2066920]] — детальный stub Рив Гош кейса
+- [[sources/2026-05-24-condense-vc-ru-tbank-chunk7-16]] — chunk7 (AOV vs карта +81%, трафик ×24) [conf:low, src:2026-05-24]

@@ -83,6 +83,7 @@ namespace: mkt
 - [[evolving/content-trends/founder-history-edutainment-format]] — соседний hub-and-spoke founder-формат (Рыбаков+Колесников): long-form на YouTube/VK + короткие нарезки. Торбосов идёт тем же путём, но с AI-производством spokes.
 - [[evolving/content-trends/contrarian-framing-expert-telegram]] — тот же автор/канал, другой content-pattern (контр-нарративная рамка). Этот канал — мульти-паттерн-кейс.
 - [[evolving/content-trends/ai-content-customer-backlash-cases-2026]] — риск AI-контента: caveat для GRO при low-fidelity аватарах.
+- [[evolving/content-trends/osnovateli-resilience-documentary-format]] — Торбосов как **герой** документального фильма «Основатели» (не автор, а участник): тот же оператор появляется в чужом founder-формате; его resilience-тезисы («везение = функция от числа попыток», «вести тренд за волатильностью») извлечены в canon-рамки.
 
 ## Что нужно, чтобы повысить confidence
 

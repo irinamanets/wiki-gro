@@ -9,8 +9,8 @@ tags: [content, positioning, productivity, energy, focus, hooks, bruch-ghoshal, 
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-19  # +rhythm/chrono register (7-й): ритмы работоспособности + 6 рычагов (hr-portal work-capacity textbook); prior: +category-tailwind register (6-й): сдвиг велнеса к мозгу (Фомичёв 2426 / cognitive-wellness-shift-2026)
-sources: [sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-10-groapp-landing.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-dzen-deloviy-mir-ceo-cognitive-endurance.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov.md]
+updated: 2026-05-25  # +discipline register (8-й): дисциплина > мотивация / метафора посуды («Основатели» / Торбосов-Токовнин); prior: +rhythm/chrono register (7-й): ритмы работоспособности + 6 рычагов (hr-portal work-capacity textbook); +category-tailwind register (6-й): сдвиг велнеса к мозгу (Фомичёв 2426 / cognitive-wellness-shift-2026)
+sources: [sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-10-groapp-landing.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-dzen-deloviy-mir-ceo-cognitive-endurance.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov.md, sources/2026-05-25-yt-osnovateli-ups-and-downs-film.md]
 namespace: mkt
 ---
 
@@ -294,7 +294,26 @@ Declarative-регистр — **самый низкозатратный для 
 
 `confidence: medium` — textbook-компиляция без верифицированного первоисточника; ценен как scaffold/register, не как цитируемая фактура.
 
+## Дополнения 2026-05-25 (дисциплинарный регистр — «Основатели»)
+
+Из фильма [[sources/2026-05-25-yt-osnovateli-ups-and-downs-film|«Ups and Downs» подкаста «Основатели»]] извлечён **8-й регистр** content-mix'а — **дисциплинарный / волевой**. Полный фрейм — [[canon/marketing-frameworks/discipline-over-motivation-dishwashing-osnovateli]].
+
+**Чем он отличается от семи предыдущих.** Все прежние регистры отвечают на «почему/когда/что чувствуешь». Дисциплинарный регистр отвечает на **«как запустить действие, когда состояние плохое»** — самый прямой мост к core-нарративу GRO «система вместо мотивации». Якорь — метафора мытья посуды (нужда → морально-волевые → дисциплина), озвученная verified-founder'ом, который описывает себя как «по умолчанию демотивированного».
+
+**Готовые hooks дисциплинарного регистра:**
+- «Мотивация — это когда ты накопил гору грязной посуды и героически её моешь. Дисциплина — когда моешь по правилу, и горы нет.»
+- «Не жди куража. Кураж — это внешнее обстоятельство. Надо начать — там пойдёт.»
+- «Шахматы каждый день — это микродозинг поражений: учишься переносить неудачу маленькими дозами.» (companion из [[canon/marketing-frameworks/could-be-worse-reframe-plevako]])
+
+**Применение:** founder-голос (peer-proof, не безличный бренд); прямая операционализация кита [[canon/positioning/gro-value-proposition|«система, а не мотивация»]]. Companion wellbeing-рамка — [[canon/marketing-frameworks/happiness-50-40-10-formula-osnovateli|формула счастья 50/40/10]] (40% = тренируемые настройки восприятия).
+
+`confidence: medium` — качественная founder-рамка, ценна как register/scaffold.
+
 ## Связанные страницы
+
+- [[canon/marketing-frameworks/discipline-over-motivation-dishwashing-osnovateli]] — дисциплинарный регистр (8-й): «как запустить действие при плохом состоянии»
+- [[canon/marketing-frameworks/happiness-50-40-10-formula-osnovateli]] — companion wellbeing-рамка (40% = тренируемые настройки)
+- [[sources/2026-05-25-yt-osnovateli-ups-and-downs-film]] — источник дисциплинарного регистра («Основатели»)
 
 - [[evolving/industry-trends/cognitive-wellness-shift-2026]] — категорийный tailwind: сдвиг велнеса к мозгу
 - [[canon/marketing-frameworks/work-capacity-rhythms-textbook]] — ритмический регистр (7-й): ось «когда», ритмы работоспособности + 6 рычагов

@@ -9,8 +9,10 @@ tags: [frameworks, employer-brand, monogorod, company-town, ru, csr, hr-marketin
 confidence: low
 stale: false
 created: 2026-05-06
-updated: 2026-05-06
-sources: [sources/2026-05-05-yt-ilya-solovey-severstal-history.md]
+updated: 2026-05-25  # +второй подтверждающий кейс: Инкаб (Пермь) — региональный stewardship + local-roots founder + культурно-арт интеграции
+sources:
+  - sources/2026-05-05-yt-ilya-solovey-severstal-history.md
+  - sources/2026-05-25-yt-osnovateli-incab-regional-leader.md
 namespace: mkt
 ---
 
@@ -75,6 +77,16 @@ Pattern: **invest в нерабочую сферу жизни сотрудник
 | Slashing stewardship в кризис | Создаёт reputation-damage на десятилетие; в моногороде невозможно «быстро восстановить» trust |
 | Stewardship без accountability metrics | Программы дрейфуют в bureaucratic compliance, не достигают outcome'ов |
 
+## Второй кейс: Инкаб (Пермь) — региональный stewardship не-моногородского масштаба
+
+Подтверждающий (но не идентичный) пример из [[sources/2026-05-25-yt-osnovateli-incab-regional-leader|подкаст «Основатели»]]: Инкаб (производитель оптического кабеля, Пермь, 500+ сотрудников, лидер рынка РФ). Пермь — не моногород, но фаундер артикулирует ту же логику **«ответственность развивать территорию, где живёшь»** как часть бизнес-философии и позиционирования:
+
+- **Pre-condition #4 (local-roots founder) выполняется** — оба фаундера пермяки, осознанно отказались переносить штаб-квартиру в Москву (см. [[canon/positioning/regional-hq-anti-moscow-positioning]]). «Если мы все прилипнем к Москве, Россия беднеет. Сделай пространство вокруг предприятия комфортным.»
+- **Уровень 1 (базовая занятость):** прозрачная карьерная лестница помощник → оператор → мастер, зарплаты как явная социальная обязанность («платить достойные деньги людям — в этом тоже смысл создания бизнеса»).
+- **Уровень 3 (культура/identity как якоря):** арт-интеграции с Пермским музеем современного искусства (выставка «Звуки заводы») и Дягилевским фестивалем — городские identity-активы, а не чистый charity. Узнаваемый городской мерч.
+
+**Что НЕ совпадает с моделью Северстали:** Инкаб меньше масштабом, не владеет городской инфраструктурой (уровни 4–5), и социальная роль ближе к founder-driven values, чем к структурному moat. Поэтому кейс **усиливает уверенность в pre-condition #4 и уровне 3**, но не доказывает уровни 4–5 в не-моногородском контексте. С учётом второго независимого кейса pattern уже не «одиночное наблюдение», но всё ещё `confidence: low` для полной 5-уровневой модели.
+
 ## Применимость к GRO
 
 GRO **не находится** в моногороде и не является крупным industrial employer'ом. Pattern полезен для GRO как:
@@ -96,6 +108,8 @@ GRO **не находится** в моногороде и не является
 - [[sources/2026-05-05-yt-ilya-solovey-severstal-history]] — раздел «Узел 8: моногород-стратегия»
 - [[canon/marketing-frameworks/employer-branding-review-funnel]] — обычный (не-monogorod) employer-branding
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — целевая founder-аудитория
+- [[canon/positioning/regional-hq-anti-moscow-positioning]] — региональное позиционирование (кейс Инкаб)
+- [[sources/2026-05-25-yt-osnovateli-incab-regional-leader]] — второй подтверждающий кейс (Инкаб, Пермь)
 
 ## Caveat
 

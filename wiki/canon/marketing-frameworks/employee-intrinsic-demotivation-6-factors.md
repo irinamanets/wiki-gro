@@ -9,7 +9,7 @@ tags: [hr, motivation, retention, hiring, decision]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-25  # +cross-links на offboarding-этику и values-hiring-filter Батырева (та же асимметрия демотивации/благодарности)
 sources:
   - sources/2026-05-14-condense-e-xecutive-ru-34-articles.md
   - sources/2026-05-14-exec-339232-vnutrennyaya-demotivatsiya.md
@@ -175,4 +175,8 @@ Asymmetry: новичок приходит с positive intrinsic motivation (о�
 - [[canon/marketing-frameworks/candidate-selection-methods-taxonomy]]
 - [[canon/marketing-frameworks/knowledge-management-codification-vs-personification]]
 - [[canon/marketing-frameworks/recognition-economy-non-material-motivation]] — горизонтальная экономика признания (адресует факторы #4 и #6)
+- [[canon/marketing-frameworks/sales-staff-motivation-achievement-avoidance]] — деньги как гигиенический, признание как мотивационный фактор (sales-контекст)
+- [[canon/marketing-frameworks/ethical-offboarding-client-retention-batyrev]] — этика расставания «виновата система, а не ты» (выход из той же асимметрии демотивации, Батырев)
+- [[canon/marketing-frameworks/gratitude-values-hiring-filter-batyrev]] — ценностный фильтр найма (благодарность как retention-предиктор, Батырев)
+- [[canon/marketing-frameworks/nps-three-tier-customer-and-employee]] — eNPS как измеритель: недовольный сотрудник «расскажет много правды» (вылавливает демотиваторы до оттока)
 - [[sources/2026-05-14-condense-e-xecutive-ru-34-articles]]

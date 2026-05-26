@@ -9,8 +9,8 @@ tags: [seo, aeo, geo, content, pr, organic-traffic, llm-search, json-ld, invento
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +AIMonitor.pro первый публичный RU-индекс ИИ-видимости (банки top-5) + BrightEdge 68%/180% (Inc.Russia 36801)
-sources: [sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md]
+updated: 2026-05-25  # +Pressfeed «контент-невидимка» 5 причин + YandexGPT/AI Overviews фикс-таксономия (редакционная вычитка как GEO-фактор) через condense-pressfeed-chunk2; prior 2026-05-19: +AIMonitor.pro первый публичный RU-индекс ИИ-видимости (банки top-5) + BrightEdge 68%/180% (Inc.Russia 36801)
+sources: [sources/2026-04-14-peregudov-telegram-dec25-apr26.md, sources/2026-04-16-vcru-google-gemini-macos-app.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-24-condense-pressfeed-chunk2-25.md]
 namespace: mkt
 ---
 
@@ -352,6 +352,26 @@ SparkToro даёт **теоретическое обоснование** тог�
 - Глобальный контекст (BrightEdge): **68% маркетологов** уже адаптируют стратегии под ИИ-поиск; трафик из генеративных систем **+180% за 2025** `[conf:medium, src:2026-05-15]`.
 
 **Значение для playbook'а:** баланс «инструментальный слой» сместился. Раньше [[canon/marketing-frameworks/geo-monitoring-discipline-2026|GEO-мониторинг]] требовал custom prompt-runner или зарубежных трекеров; теперь для RU-вертикали есть готовый индекс. Power-law-концентрация (топ-5 = ~85%) усиливает тезис sameness-anti-pattern: в нейровыдаче категория консолидируется вокруг 2–3 имён, поэтому для нишевого SaaS (профиль GRO) ранний вход в retrieval-корпус критичен. Полный срез — [[evolving-strict/market-data/ru-ai-visibility-index-banks-2026]].
+
+## Update 2026-05-24 — Pressfeed «контент-невидимка»: 5 причин + YandexGPT/AI Overviews
+
+Редакционный фикс-таксономия от Pressfeed ([[sources/2026-05-24-condense-pressfeed-chunk2-25]], 2026-05-19) — почему «лучший контент» не виден ИИ-поиску (AI Overviews / нейропоиск **YandexGPT**) и как это чинить. Это RU-операционная checklist-версия playbook'а, сфокусированная на структурно-технической стороне.
+
+**5 причин «контента-невидимки» + фиксы:**
+
+| # | Причина невидимости | Фикс |
+|---|---|---|
+| 1 | Нет иерархии/структуры | H2/H3, метатеги, списки, таблицы, инфобоксы |
+| 2 | Нет структурированных данных | Микроразметка (Schema/FAQ), alt/title для изображений |
+| 3 | Контент «в вакууме» без тематических связей | Внутренняя перелинковка, LSI-ключи, явные сущности (бренды/имена/гео) |
+| 4 | Шаблонный стиль фильтруется как машинный | Естественная речь, ручная вычитка |
+| 5 | Длинные размытые предложения | Короткие извлекаемые «кирпичики», FAQ-блок в конце статьи |
+
+**Два сдвига принципа (совпадают с ядром страницы):**
+- «С написания текста **на его комплексную оптимизацию**»; ключевые слова всё меньше влияют на ранжирование — алгоритмы ориентируются на **тематические связи и сущности** (= механизм 3 «явные сущности» выше + object-oriented retrieval Кравченко).
+- Принцип «**одна страница — одна подтема**» + связывание страниц в кластер — это RU-формулировка cluster-стратегии.
+
+**Что нового vs существующий playbook:** причина 5 (короткие извлекаемые «кирпичики» + FAQ-блок) и причина 4 (шаблонный стиль фильтруется как машинный → ручная вычитка) дают мост к [[canon/marketing-frameworks/text-quality-7-step-checklist|редакционному качеству текста]] и к skill `gro-content-edit` (чистка AI-следов): **редакционная вычитка = GEO-фактор**, не только качество. `confidence: low` — редакционный гайд без явного автора, но содержательно согласуется с практик-консенсусом выше.
 
 ## Contradictions
 

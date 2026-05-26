@@ -81,6 +81,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — программа Метод 2.0 явно рамкует выход из «баварского дворика» через диагностику слепых зон.
 - [[evolving/content-trends/owner-escape-operations-hooks]] — sibling-page с теми же hooks от Высоцкого/Крылова, но в более жёстком регистре («рабство», «колодец»).
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — диагностический сегмент, под который заходит этот фреймворк.
+- [[canon/marketing-frameworks/self-employment-scaling-sell-the-school-tokovinin]] — механика выхода из ловушки: сменить объект продажи с личности на подход/школу (Токовинин).
 
 ## Contradictions
 

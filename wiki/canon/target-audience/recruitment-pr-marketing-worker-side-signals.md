@@ -9,8 +9,8 @@ tags: [target-audience, recruitment, marketing-roles, pr, worker-side, hh-ru, ic
 confidence: low
 stale: false
 created: 2026-05-24
-updated: 2026-05-24
-sources: [sources/2026-05-24-condense-vcru-chunk5.md]
+updated: 2026-05-25  # +employer-side сигнал: SMB-агентство недвижимости (Whitewill/Торбосов) пересобирает отдел СММ, ищет marketing director / senior с отраслевой экспертизой; комп-фрейм «не как корпорации, но хорошая зарплата»
+sources: [sources/2026-05-24-condense-vcru-chunk5.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md]
 namespace: mkt
 ---
 
@@ -32,6 +32,21 @@ First-hand сигналы со стороны соискателя в рекла
 
 Это **worker-side подтверждение массового запроса на миграцию в MAX** — независимый сигнал к уже задокументированному тренду (см. [[evolving/content-trends/max-messenger-content-patterns-2026]] и [[evolving/competitor-positioning/max-messenger]]). MAX как целевая платформа перегона трафика на стороне агентств.
 
+## Employer-side сигнал: SMB пересобирает отдел маркетинга (Whitewill/Торбосов, ~май 2026)
+
+Дополняющий **employer-side** datapoint к worker-side картине выше — со стороны нанимающего SMB-владельца. Олег Торбосов (founder Whitewill, агентство премиальной недвижимости) в голосовом [[sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice|@TorbosovLife 19635]] открыто заявляет о пересборке команды маркетинга:
+
+- **Пересобирает отдел СММ / команду маркетинга** целиком. `[src:2026-05-25]`
+- **Открыт поиск marketing director / senior-маркетолога** — явно «не мидла, а сильного синьора». `[src:2026-05-25]`
+- **Отраслевая экспертиза как требование:** «понимает в недвижке, сечёт, шарит». Подтверждает worker-side боль про обесценивание узких ролей — спрос смещён к специалисту с domain-знанием, а не «человеку-оркестру». `[src:2026-05-25]`
+- **Комп-фрейм SMB vs корпорации:** «хорошие бюджеты на рекламу… платим не как корпорации, миллионами не завалим, но хорошую зарплату дадим» + «можно душевно классно работать, много интересных задач/вызовов». `[src:2026-05-25]`
+
+**Что это добавляет к картине:**
+
+1. **Verified-эксперт со стороны работодателя** (founder агентства) — в отличие от неверифицированного worker-нарратива из chunk5, это first-person hiring-сигнал нанимателя. Поднимает фактуру «как SMB-владелец формулирует вакансию маркетолога» до достоверной.
+2. **Комп-позиционирование SMB = не деньги, а смысл + автономия.** «Не как корпорации, но душевно и интересно» — это employer-brand-фрейм SMB, контрастирующий с корпоративным «миллионами завалим». Совпадает с [[evolving/industry-trends/hr-as-media-marketing-convergence-2026|employer-brand-as-product]]: SMB продаёт не зарплату, а среду.
+3. **Спрос на domain-эксперта-маркетолога** в недвижимости — конкретная отраслевая вертикаль, добавляет грануляции к рынку маркетинговых ролей.
+
 ## Применение для GRO
 
 1. **ICP-боль «человек-оркестр».** Подтверждает портрет перегруженного маркетолога/предпринимателя широкого профиля (Сегмент 2) — целевая боль GRO про энергию/продуктивность при перегрузке (см. [[canon/target-audience/gro-segments]], [[evolving/product-reception/gro-productivity-energy-angle]]).
@@ -40,7 +55,9 @@ First-hand сигналы со стороны соискателя в рекла
 
 ## Связанные страницы
 
-- [[sources/2026-05-24-condense-vcru-chunk5]] — первоисточник
+- [[sources/2026-05-24-condense-vcru-chunk5]] — первоисточник (worker-side)
+- [[sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice]] — employer-side сигнал (Whitewill/Торбосов)
+- [[evolving/industry-trends/hr-as-media-marketing-convergence-2026]] — employer-brand-as-product
 - [[canon/target-audience/gro-segments]] — сегменты ЦА GRO
 - [[evolving/product-reception/gro-productivity-energy-angle]] — боль перегруженного маркетолога
 - [[evolving/industry-trends/ru-recruitment-fraud-patterns-2026]] — RU-recruitment dark-patterns

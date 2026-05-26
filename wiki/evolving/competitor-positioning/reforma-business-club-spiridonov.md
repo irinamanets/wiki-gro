@@ -9,7 +9,7 @@ tags: [competitor, community, mentor-economy, spiridonov, positioning, ru-smb, t
 confidence: medium
 stale: false
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-05-25  # +cross-link на «Ля Риба»/«Комбат-туры» (Батырев) как 4-ю ось community/mentor-economy РФ
 sources: [sources/2026-05-24-vcru-spiridonov-id79772-chunk3-condensed.md]
 namespace: mkt
 ---
@@ -47,9 +47,10 @@ Reforma встаёт в ряд russian community/mentor-economy продукто
 
 - [[evolving/competitor-positioning/grebenyuk-anomaly-community]] — Грибенюк «Аномалия»: community с другим (агрессивно-результатным) tone
 - [[evolving/competitor-positioning/business-booster-visotsky]] — Высоцкий: системно-инструментальный заход
+- [[evolving/competitor-positioning/la-riba-business-club-kombat-tours-batyrev]] — «Ля Риба» (Мурат) + «Комбат-туры» (Батырев): ось «ценности/этика + региональность (СК)»
 - [[canon/marketing-frameworks/krylov-7-mentor-meetings]] — другой ментор-формат
 
-**Дифференциатор Reforma** — ось «смысл/ценности + доверие/камерность», тогда как Грибенюк играет на «результат/деньги», а Высоцкий — на «система/инструменты». Это три разных эмоциональных позиционирования одного problem-space.
+**Дифференциатор Reforma** — ось «смысл/ценности + доверие/камерность», тогда как Грибенюк играет на «результат/деньги», Высоцкий — на «система/инструменты», а «Ля Риба» — на «этика/правильные деньги + регион». Это разные эмоциональные позиционирования одного problem-space (предпринимательское одиночество).
 
 ## Применимость для marketing-memory GRO
 

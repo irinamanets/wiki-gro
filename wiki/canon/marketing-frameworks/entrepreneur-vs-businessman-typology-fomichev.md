@@ -9,7 +9,7 @@ tags: [entrepreneurship, founder, segmentation, content, post, target-audience, 
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-25  # +второй verified-голос (Батырев/Аскона) на ось бизнес≠предпринимательство
 sources: [sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md]
 namespace: mkt
 ---
@@ -27,6 +27,8 @@ namespace: mkt
 ## Тезис 1 — предприниматель ≠ бизнесмен
 
 > «Предприниматели — это особая категория немного сумасшедших людей, которые сильно отличаются от бизнесменов.»
+
+**Второй независимый verified-голос на ту же ось** (Максим Батырев, со ссылкой на собственника Асконы; см. [[canon/marketing-frameworks/crisis-as-self-test-batyrev]]): **бизнес** = управление системой ради дохода («про бабло»); **предпринимательство** = закрытие разрыва спроса/предложения через ценность/продукт (может работать даже бесплатно из азарта; «деньги — это следствие»). Фомичёв делит по психотипу, Батырев/Аскона — по мотиву (доход vs ценность), но обе рамки разводят «бизнесмена» и «предпринимателя» как разные сущности.
 
 Нет единой книги/рецепта «как стать предпринимателем», потому что ответ зависит от того, **как человек хочет жить** и **на какой стадии** он и его компания. Универсального правильного пути нет.
 
@@ -63,6 +65,8 @@ namespace: mkt
 
 ## Связанные страницы
 - [[canon/marketing-frameworks/entrepreneur-manager-mode-switching]]
+- [[canon/marketing-frameworks/born-entrepreneur-school-suppression-rybakov]] — Рыбаков: модус предпринимательства врождён у всех (психотипы Фомичёва — различие внутри восстановленного модуса)
+- [[canon/marketing-frameworks/corporate-intrapreneur-dont-leave-employment-rybakov]] — Рыбаков расширяет предпринимательский полюс на наём
 - [[canon/marketing-frameworks/sarafan-growth-ceiling-pattern]]
 - [[canon/target-audience/ru-smb-founder-owner-seller]]
 - [[evolving/product-reception/gro-productivity-energy-angle]]

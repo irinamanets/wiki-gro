@@ -9,8 +9,10 @@ tags: [russia, segmentation, regions, target-audience, e-commerce, channel-strat
 confidence: medium
 stale: false
 created: 2026-05-16
-updated: 2026-05-16
-sources: [sources/2026-05-14-dzen-delovoymir-smart-consumption-marketing-2026.md]
+updated: 2026-05-25  # +cross-link на региональное positioning-зеркало (производитель остаётся в регионе) — кейс Инкаб
+sources:
+  - sources/2026-05-14-dzen-delovoymir-smart-consumption-marketing-2026.md
+  - sources/2026-05-25-yt-osnovateli-incab-regional-leader.md
 namespace: mkt
 ---
 
@@ -99,8 +101,13 @@ GRO как mobile-first продукт особенно зависит от ре
 - ✅ **Local-influencer стратегия**
 - ✅ **Trust-сигналы и гарантии усилены в регионах**
 
+## Зеркальный угол: регион со стороны производителя
+
+Этот фрейм — про **потребительскую** сегментацию «мегаполис vs регион». Симметричное наблюдение со стороны **бренда/производителя** — что компания может осознанно *оставаться в регионе* и делать это частью позиционирования: [[canon/positioning/regional-hq-anti-moscow-positioning]] (кейс Инкаб, Пермь — лидер рынка РФ и международный игрок без штаб-квартиры в Москве). Нарратив «лидер страны из региона» особенно резонирует именно с региональной аудиторией, описанной выше.
+
 ## Связанные страницы
 
+- [[canon/positioning/regional-hq-anti-moscow-positioning]] — региональная штаб-квартира как позиционирование (зеркальный угол со стороны производителя)
 - [[canon/marketing-frameworks/smart-consumption-status-shift-2026]] — фрейм «умного потребления», особенно сильный в регионах
 - [[canon/marketing-frameworks/kravchenko-predictive-loyalty-2026]] — региональные CRM-сценарии как следствие
 - [[canon/target-audience/gro-segments]] — сегменты ЦА GRO (требуют региональной адаптации)
@@ -109,3 +116,4 @@ GRO как mobile-first продукт особенно зависит от ре
 - [[evolving-strict/market-data/ru-ecommerce-platformization-reshetnikov-2026]] — макро-данные платформизации
 - [[evolving-strict/campaign-metrics/ru-marketplace-channel-economics-2026-05]] — экономика каналов
 - [[sources/2026-05-14-dzen-delovoymir-smart-consumption-marketing-2026]]
+- [[sources/2026-05-25-yt-osnovateli-incab-regional-leader]] — кейс регионального лидера-производителя (Инкаб)

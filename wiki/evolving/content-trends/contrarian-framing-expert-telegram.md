@@ -9,8 +9,8 @@ tags: [content, telegram, narrative, personal-brand, expert-voice, native]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +второй дамп @TorbosovLife (май 2026): мульти-паттерн-канал — добавлены art-edutainment-пилляр (#культпросвет) и AI-репурпозинг как смежные форматы того же оператора
-sources: [sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-torbosov-life-may-2026.md]
+updated: 2026-05-25  # +4-й content-pattern того же оператора: audience point-finding (голосовое 19635 «Мысли вслух») — выбор тем как итеративный поиск резонанса + публичный engagement-замер. Prior 2026-05-19: +второй дамп @TorbosovLife (май 2026): мульти-паттерн-канал — добавлены art-edutainment-пилляр (#культпросвет) и AI-репурпозинг как смежные форматы того же оператора
+sources: [sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-torbosov-life-may-2026.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md]
 namespace: mkt
 ---
 
@@ -104,6 +104,10 @@ Reusable content-паттерн, в котором эксперт-автор п�
 - **Контр-нарратив, применённый к искусству (пост 19672 «Что считается искусством»):** хук через расхожее представление («много веков считалось, что критериями искусства являются мастерство, красота, сходство с реальностью») → деконструкция через прецедент (писсуар Дюшана 1917, банан Cattelan за $6,2m) → новый тезис («искусство не обязательно должно быть красивым или мастерски сделанным; решают эмоция + намерение + институции») → read-through на читателя («что думаете?»). Это **та же 4-элементная механика**, но operational-numbers заменены на art-history прецеденты — вариация, аналогичная dnative (где numbers заменены на personal experience-anchor).
 
 **Что это даёт паттерну:** третий под-приём вариации 4-го элемента — после operational-numbers (Торбосов-real-estate) и personal-experience-anchor (dnative) теперь **historical-precedent-anchor** (Торбосов-art). Все три — формы «внутреннего/первичного proof вместо цитирования вторичных источников». Канал @TorbosovLife — **мульти-паттерн-кейс**: один оператор демонстрирует контр-нарративную рамку, art-edutainment-пилляр (см. [[evolving/content-trends/founder-history-edutainment-format]]) и AI-репурпозинг (см. [[evolving/content-trends/torbosov-ai-reels-repurposing-2026]]) одновременно.
+
+### Четвёртый паттерн того же оператора: audience point-finding (голосовое 19635, ~май 2026)
+
+Голосовое [[sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice|@TorbosovLife 19635]] («Мысли вслух. Венеция») добавляет к мульти-паттерн-кейсу **четвёртый** reusable content-приём того же оператора — **audience point-finding**: выбор тем не по контент-плану, а как непрерывный поиск резонанса («нащупываю вашу точку G в контенте») + публичный engagement-замер встроенный в пост («вы соскучились?»). Это **зеркало** контр-нарративной рамки на уровне editorial-стратегии: если контр-нарратив — приём на уровне *структуры поста*, то point-finding — приём на уровне *выбора, о чём вообще писать*. Разобран отдельно: [[evolving/content-trends/audience-point-finding-engagement-probing]]. Канал @TorbosovLife теперь — кейс **четырёх** параллельных content-паттернов одного оператора.
 
 ## Backlinks
 

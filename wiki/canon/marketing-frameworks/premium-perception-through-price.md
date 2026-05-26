@@ -127,6 +127,7 @@ Premium-positioning имеет **два независимых axis**:
 - [[canon/product-knowledge/gro-intensive]] — GRO «Интенсив» как собственный concrete-case premium-через-цену (240–400k ₽, стабильный anchor)
 - [[canon/marketing-frameworks/goyard-anti-marketing-luxury-friction]] — parallel premium-через-трение (Goyard concrete-case)
 - [[canon/marketing-frameworks/refused-customer-interview]] — отказ от неподходящего клиента как часть премиум-позиционирования
+- [[canon/marketing-frameworks/service-as-strategy-three-pillars-chepalova]] — RU-кейс «средний-плюс/премиум = меньше конкуренции»: +40% выручки при сознательном сокращении числа клиентов (рост чека), сервис как обоснование премиум-планки
 - [[canon/marketing-frameworks/value-for-customer-concept]] — рамка ценности для клиента, complementary
 - [[canon/marketing-frameworks/production-vs-market-pricing-pipeline]] — pricing methodology (cost-plus vs market-based)
 - [[evolving/competitor-positioning/vyakuba-sales-training]] — Якуба как источник переупаковки рамки

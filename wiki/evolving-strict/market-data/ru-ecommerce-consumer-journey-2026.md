@@ -89,6 +89,8 @@ namespace: mkt
 - [[volatile-strict/industry-news/ru-counterfeit-marketplaces-letter-2026-04]] — параллельная история про контрафакт (20-50% vs 0,08% жалоб vs 830k выявлено) — три точки зрения на одну проблему. [conf:low, src:2026-05-14]
 - [[evolving-strict/market-data/ru-marketplace-margin-collapse-may-2026]] — кризис маржи селлеров; risk-first потребитель усугубляет давление на маржу (больше требований к trust-сигналам = выше CAC, выше возвраты).
 - [[evolving-strict/market-data/wciom-ad-perception-russia-2026]] — 88% хотят «ненавязчивости» рекламы; согласуется с risk-first логикой — пользователь не хочет, чтобы его «продавали», он хочет, чтобы ему дали возможность **самостоятельно** оценить риски. [conf:low, src:2026-05-14]
+- [[evolving-strict/market-data/ru-marketplace-conversion-patterns-2023]] — **исторический anchor (2023):** 88% формируют мнение по откликам, 10 положительных откликов = +50% конверсии, каждый 3-й проверяет сайт продавца. Trust-first логика consumer journey 2026 имеет 3-летнюю эмпирическую преемственность. `[conf:medium, src:2023-01-01]`
+- [[evolving-strict/market-data/ru-ecommerce-2022-2023-behavior]] — исторический срез поведения 2022–2023 (90% сравнивают 4–6 предложений — предтеча test-then-trust). `[conf:medium, src:2022-01-01]`
 
 ## 6. Open questions / watchlist
 
@@ -105,6 +107,8 @@ namespace: mkt
 - [[volatile-strict/industry-news/ru-counterfeit-marketplaces-letter-2026-04]] — параллельный контрафакт-нарратив
 - [[evolving-strict/market-data/ru-marketplace-margin-collapse-may-2026]] — кризис маржи
 - [[evolving-strict/market-data/wciom-ad-perception-russia-2026]] — параллельный perception-нарратив
+- [[evolving-strict/market-data/ru-marketplace-conversion-patterns-2023]] — исторический anchor конверсии (2023)
+- [[evolving-strict/market-data/ru-ecommerce-2022-2023-behavior]] — исторический срез поведения (2022–2023)
 - [[sources/2026-05-14-dzen-delovoymir-selikhov-ecommerce-consumer-2026]]
 
 ## Backlinks
