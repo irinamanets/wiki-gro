@@ -9,9 +9,11 @@ tags: [performance-marketing, ai-content, content-quality, paid-traffic, founder
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27  # +Pervukhin 5-leaks (третий founder-voice) + Pervukhin two-track (четвёртый founder-voice, даёт operational-методологию для condition #1 «известный бренд» через Share of Search + Brand Lift)
 sources:
   - sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md
+  - sources/2026-05-26-dzen-delovoymir-pervukhin-funnel-5-leaks.md
+  - sources/2026-05-27-dzen-delovoymir-pervukhin-brand-vs-performance.md
 namespace: mkt
 ---
 
@@ -19,7 +21,7 @@ namespace: mkt
 
 Авторский framework Михаила Табунова ([[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]], пост 1204, 2026-05-22) — структурированный диагноз сдвига performance-маркетинга в эпоху AI-content commodity. Формулирует **6 взаимоувязанных тезисов** о том, почему модель «скорость > всё» себя исчерпала и какие три условия становятся mandatory для performance-кампаний 2026.
 
-`confidence: medium`: эксперт-inferred (Табунов как performance-marketer Baza Education с устойчивой публичной practice; в вики канонизировано 10+ его фреймворков). Этот framework — **второй независимый founder-голос** в одну точку с Стеценко (Loyalty Group) и Петроченковым (Convert Monster); три параллельных диагноза одного сдвига от разных практиков → quasi-консенсус. Численные claims (2/5/60 секунд для AI-детекции, 4/5 рекламы в ленте) — founder-voice заявления без аудита, оставлены с `[conf:medium, src:2026-05-22]`.
+`confidence: medium`: эксперт-inferred (Табунов как performance-marketer Baza Education с устойчивой публичной practice; в вики канонизировано 10+ его фреймворков). Этот framework — **второй независимый founder-голос** в одну точку с Стеценко (Loyalty Group) и Петроченковым (Convert Monster). С приходом Первухина (KINETICA, [[canon/marketing-frameworks/pervukhin-funnel-5-leaks-diagnostic]]) — **уже четыре независимых эксперта** диагностируют один сдвиг performance-маркетинга 2026 с разных углов (качество vs скорость / trust-кризис / AI-лимиты / 5 утечек воронки) → **quasi-консенсус** российского performance-сообщества. Численные claims (2/5/60 секунд для AI-детекции, 4/5 рекламы в ленте) — founder-voice заявления без аудита, оставлены с `[conf:medium, src:2026-05-22]`.
 
 ## Главный тезис
 
@@ -70,7 +72,7 @@ Founder-voice claim без audit-источника, но качественно
 
 | # | Условие | Что это означает на практике | Cross-link |
 |---|---|---|---|
-| 1 | **Известный бренд** | Brand equity заменяет cold trust. Узнаваемость и repeat-customers компенсируют падающий CTR/CPA на cold-аудитории. | (соседний концепт; см. [[canon/positioning/gro-value-proposition]]) |
+| 1 | **Известный бренд** | Brand equity заменяет cold trust. Узнаваемость и repeat-customers компенсируют падающий CTR/CPA на cold-аудитории. **Operational-методология измерения:** [[canon/marketing-frameworks/share-of-search-brand-metric]] + [[canon/marketing-frameworks/brand-lift-measurement-by-platform]] (Pervukhin two-track). | [[canon/marketing-frameworks/brand-vs-performance-two-track-strategy-pervukhin]] + [[canon/positioning/gro-value-proposition]] |
 | 2 | **Пруфы** | Социальное доказательство как traffic-актив — основной приём, повышающий конверсию в 3×. | [[canon/marketing-frameworks/social-proof-traffic-asset-framework-tabunov]] |
 | 3 | **Много качественного контента вокруг продукта** | Контент-маркетинг как mandatory layer (не nice-to-have). Brand-journalism, expert-content, customer-stories, evergreen-материалы. | [[evolving/content-trends/ai-content-overload-trust-crisis-2026]] (премия за «живое» как mandatory layer) |
 
@@ -132,4 +134,11 @@ GRO как B2C-продукт subscription-модели **в риске** по �
 - [[evolving/content-trends/tabunov-founder-growth-hooks]] — банк хуков, обогащённый этой рамкой
 - [[evolving/customer-feedback/gro-app-store-reviews]] — собственный proof-source GRO для condition'а #2
 - [[volatile-strict/industry-news/ru-ai-marking-law-2026]] — регуляторный признак того же сдвига (платформенный layer тезиса #1)
+- [[canon/marketing-frameworks/pervukhin-funnel-5-leaks-diagnostic]] — третий независимый founder-voice диагноз сдвига (Первухин/KINETICA): operational-диагностика 5 утечек воронки в эпоху перегретого аукциона
+- [[evolving-strict/campaign-metrics/kinetica-funnel-optimization-cases-2025]] — кейсы KINETICA, иллюстрирующие 5-leaks framework
+- [[canon/marketing-frameworks/brand-vs-performance-two-track-strategy-pervukhin]] — четвёртый угол того же сдвига от Pervukhin (KINETICA): two-track стратегия, дающая operational-методологию для condition #1 «известный бренд» через Share of Search + Brand Lift
+- [[canon/marketing-frameworks/share-of-search-brand-metric]] — измерение бренда как «количественной» метрики (Pervukhin two-track)
+- [[canon/marketing-frameworks/brand-lift-measurement-by-platform]] — измерение бренда как «качественной» метрики (Pervukhin two-track)
 - [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] — первоисточник framework'а
+- [[sources/2026-05-26-dzen-delovoymir-pervukhin-funnel-5-leaks]] — параллельный источник Первухина (5-leaks)
+- [[sources/2026-05-27-dzen-delovoymir-pervukhin-brand-vs-performance]] — Pervukhin two-track (параллельный источник, расширяющий condition #1)

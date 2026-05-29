@@ -9,8 +9,8 @@ tags: [content, social, ai, b2b, awareness, consideration]
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-14
-sources: [sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026.md]
+updated: 2026-05-26
+sources: [sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026.md, sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -48,6 +48,23 @@ Egoshin отдельно подчёркивает: «эти три массив�
 
 Оба sub-паттерна сохраняют принцип **public learning**, но расширяют его за пределы видео-переводов: учиться через гостевые подкасты, демонстрировать продукт через личное любопытство.
 
+## Свой подкаст-серия, sponsorship-партнёрства и defensive-humor (sub-patterns мая 2026, week 4)
+
+Из мини-дампа постов 571-575 ([[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026|май 20-26 2026]]) добавляются **три дополнительных sub-паттерна** к базе:
+
+- **Свой подкаст-серия (own-podcast pattern) — эволюция guest-spot стратегии.** Пост 572 (2026-05-21) — Егошин **запускает собственную серию подкастов** «AI из первых уст», первый выпуск — **Константин Крестников** (управляющий директор Сбера, техлид GigaChain). Это **расширение** guest-spot-паттерна из мая 5-12: теперь Егошин не только ходит гостем на чужие подкасты (продолжается, см. «Поколение ИИ» в пост 568), но и **запустил свой формат** с серией интервью топ-лиц RU AI-индустрии. Distribution: YouTube + VK Видео (multi-platform норма). **Эффект для канала:** канал получает **новый контент-стрим первичного типа** (не translated, не commented — собственное interview-production), который усиливает «public learning» нарратив (Егошин учится у Крестникова на 1.5h записи). **Эффект для аудитории:** добавляется **высокоценный insider-content** про RU AI-вертикаль (запуск GigaAgent, эксперимент Анима, AGI-прогноз 2032). **Применимо для GRO:** если CMO GRO решит запустить серию интервью топ-фигур behavior-change / habit-науки (Charles Duhigg, BJ Fogg, James Clear, или RU-эквиваленты), это **прямая копия паттерна** Егошина — но в behavior-domain, не AI-domain. Бенефит: дешёвый PR-канал + reuseable assets (нарезки в TikTok / Reels из 60-минутного подкаста).
+
+- **Sponsorship-партнёрство флагманского edtech-конкурса (post 571).** Егошин публично **анонсирует КИВО-2026** (Конкурс инноваций в образовании НИУ ВШЭ), в котором «Кеды профессора» — стратегический партнёр в сфере ИИ. Это **content-sub-pattern «поддержка партнёрской инициативы»** — founder делает контент-пост не про свой продукт, а про event-партнёра, на котором он strategic-партнёр. Effect: (а) подтверждение strategic-partnership statuса (B2B-сигнал), (б) PR-обмен trust'ом — KedProf даёт КИВО reach, КИВО даёт KedProf credibility в HSE-сообществе, (в) распределение «не-promo» постов в канале (sponsorship-промо ≠ self-promo). См. отдельную страницу [[evolving/content-trends/kivo-2026-edtech-competition-sponsor-stack]] для деталей. Применимо для GRO: если GRO будет strategic-партнёром event'а (как Spring AI Weekend или CrunchBase Pulse), канал Лапшиной/Чевдарь может публиковать аналогичный «support partner initiative» пост — без direct CTA на GRO, но с brand-recognition в новой нише.
+
+- **Defensive-humor «нас копируют» (posts 573+574).** Founder публикует **два скриншота рядом** (свой продукт + продукт глобального игрока) с ироничной подписью «они подсмотрели у нас». Конкретный кейс: «Не понимаю зачем дизайнеры Google подсмотрели наш интерфейс Нейрофонда и скопировали себе в новый Gemini :)» (Egoshin 2026-05-22). Эффект: **дешёвый и сильный social-proof** маркер. Контент-механика:
+  - **Trigger:** visual-конвергенция UI с известным глобальным игроком (Google, OpenAI, Anthropic UI updates).
+  - **Move:** скриншот-сравнение + irronic caption формата `"Не понимаю зачем дизайнеры [глобальный игрок] подсмотрели наш [продукт] и скопировали себе в новый [продукт глобального]"`.
+  - **Constraints:** лёгкая ирония + smiley, без legal-threats, без detailed-сравнения. Тон «founder в шутку».
+  - **Эффекты:** (а) social proof «нас видят», (б) viral-механика (share-friendly формат «mine vs theirs»), (в) anti-FOMO для аудитории, (г) self-positioning founder как trend-setter.
+  - **Применимо для GRO:** если/когда GRO-фича появится в чужом ИИ-тренажёре или habit-app, или GRO-UI-формат окажется в чужом курсе — публикуем по аналогичной форме. Без агрессии, с лёгким юмором. Это **reusable content-template** для founder-канала Лапшиной (она уже использует личные иронично-открытые форматы — естественная вписка). См. также [[evolving/competitor-positioning/neurofond-positioning-2026-05|Нейрофонд positioning v2]] для конкретного кейса.
+
+- **Pre-event live-broadcast как модератор чужого event'а (post 575).** Егошин выступает **moderator/interviewer** онлайн-эфира **другого event'а** (South HUB) — а не своего собственного. Это **PR-content-pattern «привести свою аудиторию в чужой funnel»**: Егошин-как-host даёт organizers экспертный фрейм + узнаваемое лицо для аудитории, в обмен на access к C-Level speaker'ам и контент для своего канала. Distribution: YouTube live + VK live одновременно (live-broadcast vs recorded podcast — разные production-effort). Подробнее event-format — см. [[evolving/industry-trends/south-hub-c-level-it-camp-2026|South HUB как event-format]]. **Применимо для GRO:** Лапшина или Чевдарь могут выступать moderator-host'ами pre-event эфиров event'ов-партнёров в behavior-change / wellness / leadership пространстве. Низкий-effort PR-канал, плюс отношения с organizers.
+
 ## Production-mechanics (видимая часть)
 
 Из совокупного срез в [[sources/2026-04-14-tg-egoshin-kedprof|апрельском дампе]] и [[sources/2026-05-05-tg-egoshin-kedprof-may-2026|майском refresh'е]]:
@@ -81,10 +98,14 @@ Egoshin отдельно подчёркивает: «эти три массив�
 
 - [[evolving/content-trends/telegram-author-channel-patterns]] — общий каталог паттернов RU TG-авторских каналов; добавить ссылку на этот sub-pattern.
 - [[evolving/content-trends/podcast-driven-author-channel-patterns]] — соседний паттерн (подкаст-driven), Egoshin делает гибрид podcast + translator.
+- [[evolving/content-trends/kivo-2026-edtech-competition-sponsor-stack]] — sponsorship-партнёрство (post 571) как sub-pattern.
+- [[evolving/industry-trends/south-hub-c-level-it-camp-2026]] — South HUB event-format, pre-event live-broadcast как sub-pattern (post 575).
+- [[evolving/industry-trends/sber-gigaagent-ai-agents-narrative-2026]] — Сбер GigaAgent narrative, выходит через own-podcast Egoshin серию (post 572).
 - [[canon/marketing-frameworks/egoshin-ai-adoption-ladder]] — авторская рамка, выросшая из public-learning Egoshin-паттерна.
 - [[canon/marketing-frameworks/four-paths-it-market-future]] — другая авторская рамка из того же канала.
 - [[canon/product-knowledge/gro-team]] — Egoshin как co-founder GRO; cross-promotion вектор.
 - [[sources/2026-04-14-tg-egoshin-kedprof]] — апрельский дамп, baseline профиль канала.
 - [[sources/2026-05-05-tg-egoshin-kedprof-may-2026]] — майский refresh, источник прямой workflow-disclosure (видео 561).
 - [[sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026]] — мини-дамп 5-12 мая 2026, источник sub-паттернов «подкаст-гость» и «product-demo через curiosity».
-- [[evolving/competitor-positioning/neurofond-positioning-2026-05]] — Нейрофонд как продукт, демонстрируемый через curiosity-question subpattern.
+- [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026]] — мини-дамп 20-26 мая 2026, источник sub-паттернов «own-podcast серия» / «sponsorship-партнёрство» / «defensive-humor» / «pre-event live-broadcast».
+- [[evolving/competitor-positioning/neurofond-positioning-2026-05]] — Нейрофонд как продукт, демонстрируемый через curiosity-question subpattern + defensive-humor sub-pattern.

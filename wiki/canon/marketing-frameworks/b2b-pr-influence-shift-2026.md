@@ -9,13 +9,14 @@ tags: [pr, b2b, content, positioning, awareness, trendwatching]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-19  # +media monitoring; +PR competence shift; +PR-readiness-10-signals upstream gating; +PR-DOCTOR organizational frame (3-департаментная система); +Перегудов practitioner-свидетельство Рычага 3 (exit-стоимость как верхний рубеж бизнес-результата PR)
+updated: 2026-05-27  # +cross-link на 5 принципов нишевого B2B-маркетинга Трифонова (NTech) как operational layer для применения сдвига в узких ЦА; +AI-пенетрация в RU PR ~60-70% и рост спроса на экспертов (parallel-trend); +AEO/SERM-расширение
 sources:
   - sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md
   - sources/2026-05-19-pressfeed-mediamonitoring-pr-base-skill.md
   - sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md
   - sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md
   - sources/2026-05-19-tg-peregudov-may-15-2026.md
+  - sources/2026-05-27-condense-news-pressfeed-43-articles.md
 namespace: mkt
 ---
 
@@ -100,6 +101,11 @@ namespace: mkt
 - [[evolving/industry-trends/seo-to-pr-substitution-2026]] — SEO→PR substitution: PR стал primary-каналом для info-запросов. shift-2026 объясняет **почему** PR работает через AI-видимость, а не через классические каналы
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — AEO/GEO как дисциплина; shift-2026 объясняет, что AI-видимость требует **экспертного следа**, а не просто Schema.org
 - [[evolving/industry-trends/native-pr-russia-2026]] — общий RU-тренд натива
+- [[evolving/industry-trends/ai-pr-penetration-ru-2025-2026]] — AI-проникновение в PR ~60-70% (РАСО+ВШЭ 2024); парадокс **роста спроса на экспертов** при росте AI — это **внешнее подтверждение** Рычага 1 (смысловая архитектура): экспертная территория стала ценнее, потому что AI-генерация коммодизирует «средний» контент
+
+### Operational-расширение для узких ниш (Update 2026-05-27)
+
+[[canon/marketing-frameworks/niche-b2b-event-marketing-trifonov]] — 5 принципов нишевого B2B-маркетинга через события (Дмитрий Трифонов, NTech, ~несколько тысяч ЛПР в ЦА). Для **узких B2B** (особенно <10K ЛПР) shift-2026 применяется через **events + закрытые форматы**, а не через классические content/PR-каналы. Это operational layer для применения сдвига при определённом размере ЦА.
 
 ## Применимость к GRO
 
@@ -157,6 +163,9 @@ PR DOCTOR в Pressfeed ([[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sal
 - [[canon/marketing-frameworks/gtm-shared-understanding-anchor]] — anchor-понимание продукта как input смысловой архитектуры
 - [[evolving-strict/market-data/cmo-strategist-executor-gap-2026]] — изоморфный gap на уровне маркетинг-лидера
 - [[canon/marketing-frameworks/pr-as-exit-value-driver-peregudov]] — practitioner-расширение Рычага 3: PR на инвесторов/покупателей ради exit-стоимости (Перегудов, 3 экзита)
+- [[canon/marketing-frameworks/niche-b2b-event-marketing-trifonov]] — operational layer для узких B2B ниш (≤10K ЛПР)
+- [[evolving/industry-trends/ai-pr-penetration-ru-2025-2026]] — внешнее подтверждение Рычага 1 (рост спроса на экспертов при росте AI)
 - [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]] — первоисточник
 - [[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict]] — organizational frame
 - [[sources/2026-05-19-tg-peregudov-may-15-2026]] — practitioner-свидетельство Рычага 3
+- [[sources/2026-05-27-condense-news-pressfeed-43-articles]] — pressfeed-43-condense (AEO/SERM/AI-PR расширения, niche-B2B Трифонов)

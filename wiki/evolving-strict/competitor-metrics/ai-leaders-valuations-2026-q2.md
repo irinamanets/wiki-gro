@@ -9,8 +9,8 @@ tags: [openai, anthropic, cerebras, coinbase, nebius, eigen-ai, valuation, ai, p
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-08  # +Anthropic ARR $44B + margin 36%→70% (@bezsmuzi пост 15914); revenue-anchor к $380B primary (~8,6× ARR)
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2909934-openai-privlekla-finansirovanie-dlya-vnedreniya-i.md, sources/2026-05-05-vcru-invest-2909377-cerebras-planiruet-ipo-dlya-privlecheniya-inv.md, sources/2026-05-05-vcru-crypto-2910180-coinbase-uvolit-14-sotrudnikov.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-anthropic-openai-enterprise-jv.md, sources/2026-05-05-dzen-nebius-eigen-acquisition.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-06-yt-rybakov-rzd-epstein-india-oil.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
+updated: 2026-05-26  # +SpaceX S-1 (выручка $18,7B/убыток $4,9B, AI-spend $7,7B>космос $1B, Starlink 10,3M, Anthropic→SpaceX $1,25B/мес) + xAI ($3,2B rev/$6,4B loss, 550M MAU) + Anthropic первая прибыль Q2 ~$559M @ $900B raise + Hank $500M@$6B — @Theedinorogblog 7971/7966/7975
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2909934-openai-privlekla-finansirovanie-dlya-vnedreniya-i.md, sources/2026-05-05-vcru-invest-2909377-cerebras-planiruet-ipo-dlya-privlecheniya-inv.md, sources/2026-05-05-vcru-crypto-2910180-coinbase-uvolit-14-sotrudnikov.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-anthropic-openai-enterprise-jv.md, sources/2026-05-05-dzen-nebius-eigen-acquisition.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-06-yt-rybakov-rzd-epstein-india-oil.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-26-tg-theedinorog-may-19-26-2026.md]
 namespace: mkt
 ---
 
@@ -162,6 +162,33 @@ Forbes (со ссылкой на FT, пересказ @forbesrussia 8 мая 202
 | OpenAI | Оценка-бенчмарк для сравнения (FT) | **$852 млрд** | 2026-05 | `[conf:medium, src:2026-05-08]` |
 
 **Ключевая интерпретация:** FT прямо формулирует, что Anthropic «уже летом сможет опередить OpenAI по стоимости у инвесторов». Это **сдвиг от secondary-market premium** (зафиксированного выше как $1T Forge на 2026-04-23) **к ожиданию primary-раунда** на сопоставимом уровне. Если primary закроется около $1T, это **закроет тот primary/secondary разрыв 2,6×**, который выше отмечен как «не может быть устойчиво» — в пользу повышения primary, а не схлопывания secondary. `[conf:medium, src:2026-05-19]` Привязка raise к «расширению вычислительных мощностей» согласуется с [[volatile-strict/competitor-news/anthropic-spacex-colossus-rental-2026-05|арендой Colossus у SpaceX]] — compute остаётся узким местом и главным драйвером капитала.
+
+## Update 2026-05-26 — SpaceX S-1 + xAI/Starlink + Anthropic первая прибыль
+
+Data-points из @Theedinorogblog [[sources/2026-05-26-tg-theedinorog-may-19-26-2026]] (посты 7971 «что узнали из S-1 SpaceX», 7966, 7975), первоисточники NYT/Axios/TechCrunch/WSJ/Business Insider/PCMag:
+
+| Компания | Метрика | Значение | Дата | Source |
+|---|---|---|---|---|
+| SpaceX | Выручка 2025 | **$18,7 млрд** (+33% г/г) | 2025 | `[conf:medium, src:2026-05-21]` |
+| SpaceX | Прибыль/убыток 2025 | **убыток $4,9 млрд** (vs прибыль $791 млн в 2024) | 2025 | `[conf:medium, src:2026-05-21]` |
+| SpaceX | Capex 2025 | **$20,7 млрд** (удвоился г/г) | 2025 | `[conf:medium, src:2026-05-21]` |
+| SpaceX | Убыток Q1 2026 | **$4,3 млрд** | Q1 2026 | `[conf:medium, src:2026-05-21]` |
+| SpaceX | Расход на AI vs космос (Q1 2026) | **$7,7 млрд** на AI vs **$1 млрд** на космос | Q1 2026 | `[conf:medium, src:2026-05-21]` |
+| SpaceX | Расход на AI vs космос (2025) | **$12,5 млрд** на AI vs **$3,8 млрд** на космос | 2025 | `[conf:medium, src:2026-05-21]` |
+| SpaceX | Целевой объём IPO (12 июня Nasdaq) | **$75 млрд** | 2026-06 | `[conf:medium, src:2026-05-21]` |
+| SpaceX | Право голоса Маска | **85,1%** | 2026-05 | `[conf:medium, src:2026-05-21]` |
+| Starlink | Платных подписчиков Q1 2026 | **10,3 млн** (×2 YoY, 5 млн годом ранее) | Q1 2026 | `[conf:medium, src:2026-05-21]` |
+| Anthropic | Платёж SpaceX за compute (до мая 2029) | **$1,25 млрд/мес** ($15 млрд/год) | 2026-05 | `[conf:medium, src:2026-05-21]` |
+| Anthropic | Оценка для текущего раунда | **$900 млрд** | 2026-05 | `[conf:medium, src:2026-05-20]` |
+| Anthropic | Прогноз выручки Q2 2026 | **$10,9 млрд** (×2 кв/кв) | Q2 2026 | `[conf:medium, src:2026-05-22]` |
+| Anthropic | **Первая квартальная прибыль** Q2 2026 | **~$559 млн** (ранее ждали прибыль не ранее 2028) | Q2 2026 | `[conf:medium, src:2026-05-22]` |
+| xAI | Выручка 2025 | **$3,2 млрд** | 2025 | `[conf:medium, src:2026-05-21]` |
+| xAI | Убыток 2025 | **$6,4 млрд** | 2025 | `[conf:medium, src:2026-05-21]` |
+| xAI (Grok+X) | MAU март 2026 | **550 млн** (Grok-функциями 117 млн) | 2026-03 | `[conf:medium, src:2026-05-21]` |
+| xAI | Закупка газовых турбин (3 года) | **$2,8 млрд** | 2026-2029 | `[conf:low, src:2026-05-21]` |
+| Hank (Эдкок/Figure AI) | Раунд | **$500 млн @ $6 млрд** (Nvidia, AMD Ventures, Salesforce Ventures) | 2026-05 | `[conf:medium, src:2026-05-22]` |
+
+**Ключевая интерпретация:** (1) **Anthropic вышел в прибыль на ~2 года раньше плана** `[conf:medium, src:2026-05-22]` — это сильный контр-аргумент скептикам «AI не зарабатывает», но обратная сторона — $15 млрд/год compute-обязательств перед SpaceX. (2) **SpaceX тратит на AI кратно больше, чем на космос** ($7,7 млрд vs $1 млрд за Q1) `[conf:medium, src:2026-05-21]` — AI-capex стал доминантой даже у ракетной компании. (3) xAI зарабатывает кратно меньше Anthropic/OpenAI при сопоставимом burn `[conf:medium, src:2026-05-21]`. Эти числа стоит цитировать с поправкой на [[canon/marketing-frameworks/contracted-vs-live-arr-inflation-stevenson|CARR-vs-ARR оговорку]] — публичные S-1 надёжнее, чем приватные ARR-заявления стартапов.
 
 ## Связанные страницы
 

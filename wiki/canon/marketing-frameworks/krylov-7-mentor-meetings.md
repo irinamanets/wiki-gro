@@ -9,8 +9,8 @@ tags: [framework, self-development, mentorship, founder-routine, peer-learning]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-howtomake10x-mar-may-2026.md]
+updated: 2026-05-26  # +Гребенюк 51%-эвристика как probabilistic-frame, обосновывающий iteration discipline в этом ритуале (cross-link)
+sources: [sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-26-tg-grebenukm-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -73,6 +73,19 @@ namespace: mkt
 - Что **противоречило** → пересмотреть собственное предположение.
 - Что **никто не упомянул**, хотя ты ожидал → это не критично, можно деприоритизировать.
 
+## Probabilistic frame — почему даже несовершенный наставник окупается
+
+Cross-link: [[canon/marketing-frameworks/grebenyuk-mentor-51-percent-heuristic]] даёт **математическое обоснование** того, почему ритуал Воронина/Крылова работает, даже когда отдельный из 7 наставников промахивается с советом.
+
+Эвристика 51%: достаточно, чтобы наставник был прав в 51% случаев, чтобы compound effect забил все ошибочные советы. Гребенюк сообщает, что **в реальности средний качественно подобранный наставник прав в ~98% случаев** (см. источник в [[sources/2026-05-26-tg-grebenukm-may-19-25-2026]]). При выборке 7 встреч/квартал это означает:
+
+- При theoretical floor (51%): ≈3,6 правильных совета из 7 — **уже net positive** при условии, что upside per совет ≥ downside per error.
+- При observed practice (~98%): ≈6,9 правильных советов из 7 — практически **все 7 советов окупаемые**.
+
+Это разворачивает классическое возражение «а вдруг наставник ошибётся?» — **probabilistic frame показывает, что filtering советов наставника ученическим second-guess'ом хуже, чем full-trust iteration**. Воронин/Крылов имплицитно предполагают то же самое в формулировке «не сомневайся, действуй» — но Гребенюк формализует это как explicit math.
+
+**Operational рекомендация:** при использовании ритуала Воронина/Крылова применять эвристику 51% как **default mental model**: после 7 встреч действовать на основе сходящихся сигналов (≥2 наставников сказали одно и то же), не отбрасывая non-converging советы — они тоже content для дальнейших iterations.
+
 ## Связь с peer-community рынком
 
 Ритуал — это **DIY-эквивалент** платных peer-community ([[evolving/industry-trends/ru-smb-mentor-community-market-2026]]). 7 встреч × 4 квартала = 28 встреч/год → конкурирует по value с подпиской на mastermind за 100K–500K ₽/год.
@@ -93,11 +106,13 @@ namespace: mkt
 
 - [[canon/marketing-frameworks/four-zones-of-genius-hendricks]] — зона гения и self-development
 - [[canon/marketing-frameworks/krylov-reference-call-question]] — другой ритуал того же автора
+- [[canon/marketing-frameworks/grebenyuk-mentor-51-percent-heuristic]] — probabilistic-обоснование «почему даже несовершенный наставник окупается»
 - [[evolving/industry-trends/ru-smb-mentor-community-market-2026]] — рынок платных альтернатив
 - [[evolving/competitor-positioning/grebenyuk-anomaly-community]] — competitor (платный mastermind)
 - [[evolving/competitor-positioning/business-booster-visotsky]] — competitor (mentorship)
 - [[evolving/content-trends/owner-escape-operations-hooks]] — мостик к hook «масштаб бизнеса = масштаб окружения»
-- [[sources/2026-05-05-tg-howtomake10x-mar-may-2026]] — пост 1561
+- [[sources/2026-05-05-tg-howtomake10x-mar-may-2026]] — пост 1561 (Крылов)
+- [[sources/2026-05-26-tg-grebenukm-may-19-25-2026]] — пост 7494 (Гребенюк, 51%-эвристика)
 
 ## Backlinks
 

@@ -9,9 +9,10 @@ tags: [content, telegram, founder-voice, hiring, meme, format-exemplar, satire, 
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-26  # +cross-link на forbes-30-under-30-content-franchise: backstage-сторона titre, обесцениваемого в этом меню (Forbes продолжает деплоить как multi-edition контент-актив)
 sources:
   - sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md
+  - sources/2026-05-26-forbes-tegi-30-under-30.md
 namespace: mkt
 ---
 
@@ -88,5 +89,6 @@ GRO как продукт может использовать формат:
 - [[evolving/content-trends/tabunov-founder-growth-hooks]] — банк founder-voice хуков, обогащённый этим форматом
 - [[evolving/content-trends/contrarian-framing-expert-telegram]] — мета-рамка контр-нарративного founder-контента
 - [[canon/marketing-frameworks/build-in-public-as-paid-traffic-anti-pattern]] — соседний анти-prestige сигнал
+- [[evolving/content-trends/forbes-30-under-30-content-franchise]] — backstage-сторона titre, обесцениваемого Табуновым: что Forbes продолжает деплоить как multi-edition контент-актив
 - [[evolving/content-trends/ai-content-overload-trust-crisis-2026]] — анти-нейрослопный сигнал, к которому относится этот формат (живой founder-voice = scarce premium)
 - [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] — первоисточник

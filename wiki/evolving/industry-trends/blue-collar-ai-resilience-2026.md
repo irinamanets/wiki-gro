@@ -9,8 +9,8 @@ tags: [blue-collar, ai-resilience, labor-market, nvidia, jensen-huang, trade-job
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19
-sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-19-tg-gro-me-379-389.md]
+updated: 2026-05-28  # +Гуринович (Forbes 30u30, CarPrice) как 4-й RU-anchor: TASS-якорь Москвы (электрогазосварщик 585 тыс ₽/вахта) + qualitative-наблюдение «в МО очередь на нормального электрика» — первый RU-public-numerical anchor под тезис resilience
+sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-19-tg-gro-me-379-389.md, sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026.md]
 namespace: mkt
 ---
 
@@ -36,7 +36,8 @@ namespace: mkt
 |---|---|---|---|
 | Парадокс Джевонса | Леви/Морейнис | Экономический закон | [[canon/marketing-frameworks/jevons-paradox-ai-positioning]] |
 | Рентгенологи Хинтон 2016 → 2026 | Спиридонов | 10-летний empirical | [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]] |
-| Blue-collar resilience | **Хуанг (NVIDIA)** | **CEO industry-leader sign** | THIS |
+| Blue-collar resilience (US) | **Хуанг (NVIDIA)** | **CEO industry-leader sign** | THIS |
+| Blue-collar resilience (RU) | **Гуринович (CarPrice, Forbes 30u30)** | **RU founder-observer + TASS public anchor** | THIS (см. ниже) + [[canon/marketing-frameworks/blue-collar-platform-startup-thesis-gurinovich]] |
 
 Хуанг — **самый сильный authority anchor** для blue-collar нарратива, потому что:
 - NVIDIA — **ядро AI-стека** (chips for всех frontier models)
@@ -94,6 +95,18 @@ Cantor / Goldman / McKinsey-style анализ AI-resilience в blue-collar:
 
 [[sources/2026-04-14-tg-wtf-hr-nov24-oct25]] раздел про конец прикладного IT-образования: «выживут только те, кто научится готовить условных сантехников». Это **direct prediction** anti-IT-displacement narrative WTF_HR'ом 2025-10-16 — Хуанг **подтверждает** 2026-05-13.
 
+### Сигнал from Гуринович (Forbes 30u30, CarPrice) — **первый RU-public-numerical anchor**
+
+[[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026|@gurinovich_shares пост 920]] (2026-05-23) — Гуринович цитирует TASS-скриншот: топ-предложение Москвы по зарплате — **старший электрогазосварщик до 585 тыс ₽/вахта** (см. [[evolving-strict/market-data/ru-skilled-trades-wages-moscow-2026|отдельную страницу]]) `[conf:medium, src:2026-05-23]`. Вокруг этого Гуринович разворачивает **qualitative наблюдение** про дефицит:
+
+> «В МО очередь на нормального электрика. С кондиционерами так же. С кровельщиками. Да с любым инженером и строителем! С сантехниками Лондона давно были мемы, теперь такая практика и до Москвы добралась.» `[conf:medium, src:2026-05-23]`
+
+**Значение анхора:** до этого blue-collar resilience в РФ подкреплялся **косвенными** сигналами (WTF_HR, Сергиенков, Спиридонов теоретически + Хуанг US-уровень). Это **первый верифицируемый RU-public-numerical-anchor** — конкретная позиция (электрогазосварщик), конкретный город (Москва), конкретное число (585 тыс ₽), photographable TASS-screenshot.
+
+**Differentiation от Хуанг'а:** Хуанг (US, CEO industry-leader) даёт **директивный сигнал**. Гуринович — **practitioner-наблюдение** из RU-контекста серийного предпринимателя, бывшего владельца CarPrice (где он сам работал с парк-of-suppliers моделью на физической вертикали). Эти два anchor'а **триангулируют** трендa: external authority + local owner-observer.
+
+**Гуриновичева demarcation** (важная нюанс): «творческие/абстрактные ремонтные работы» нельзя автоматизировать; «типовая отделка, возведение стен» — можно. Это согласуется со Спиридоновским sorting-test'ом [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]] и **уточняет**, что blue-collar resilience применима не равномерно ко всем trades, а к **fragmented частям** trades. См. [[canon/marketing-frameworks/blue-collar-platform-startup-thesis-gurinovich|Гуриновичев founder-thesis]] про construction-platform-startup.
+
 ## Маркетинговое значение для GRO
 
 ### GRO уже операционализировал тренд в собственном контенте (15 мая 2026)
@@ -147,6 +160,9 @@ Cantor / Goldman / McKinsey-style анализ AI-resilience в blue-collar:
 - [[evolving/content-trends/news-reframing-carousel-gro]] — карусель GRO с reframe-карточкой «синие воротнички»
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — первоисточник пересказа Хуанга
 - [[sources/2026-05-19-tg-gro-me-379-389]] — кейс операционализации тренда в контенте GRO
+- [[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026]] — RU-anchor Гуриновича (пост 920) + TASS public numerical anchor (Москва, 585 тыс ₽)
+- [[evolving-strict/market-data/ru-skilled-trades-wages-moscow-2026]] — TASS-anchor расширенно (numerical)
+- [[canon/marketing-frameworks/blue-collar-platform-startup-thesis-gurinovich]] — Гуриновичев founder-thesis про construction-platform-startup
 
 ## TTL и обновления
 

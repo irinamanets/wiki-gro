@@ -9,8 +9,8 @@ tags: [content, telegram, author-channel, founder, podcast, edtech, brand-guidel
 confidence: high
 stale: false
 created: 2026-05-12
-updated: 2026-05-20
-sources: [sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md]
+updated: 2026-05-26
+sources: [sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md, sources/2026-05-26-tg-eklapshinaofficial-908-914.md]
 namespace: mkt
 ---
 
@@ -177,6 +177,14 @@ Interdisciplinary — не только бизнес:
 - [[evolving/content-trends/duolingo-gamification-monetization-breakdown]] — кейс-разбор Duolingo из этого канала (#904)
 - [[canon/marketing-frameworks/lapshina-personal-strategy-two-paths]] — рамка личной стратегии (#906)
 - [[canon/marketing-frameworks/ai-not-marketing-system-shkipin]] — диалог-формат с экспертом (#907)
+- [[canon/marketing-frameworks/lapshina-paradox-as-trend-detector]] — meta-рамка автора (#908)
+- [[canon/marketing-frameworks/lapshina-selfmade-autonomy-reframe]] — reframe «селфмейд» (#909)
+- [[canon/marketing-frameworks/lapshina-extra-questions-cognitive-paralysis]] — counter-paralysis для young audience (#910)
+- [[canon/marketing-frameworks/vasilchuk-portfolio-restaurant-system]] — анонс подкаста (#911)
+- [[evolving-strict/market-data/ru-restaurant-industry-2026]] — индустриальные метрики (#911)
+- [[canon/marketing-frameworks/lapshina-project-debrief-4-principles]] — 4 принципа post-mortem (#914)
+- [[evolving/industry-trends/ai-for-managers-2025-2026]] — 8-я data-точка (#913)
+- [[sources/2026-05-26-tg-eklapshinaofficial-908-914]] — incremental delta (посты #908-914)
 - [[sources/2026-05-19-tg-eklapshinaofficial-903-907]] — incremental delta (посты #903-907)
 - [[sources/2026-05-12-tg-eklapshinaofficial]] — исходный дамп
 
@@ -241,6 +249,82 @@ Interdisciplinary — не только бизнес:
 
 Пост #906 (личная стратегия) — снова «personal disclaimer → operational framework» (см. [[canon/marketing-frameworks/lapshina-personal-strategy-two-paths]]), подтверждает базовый паттерн. Тематика — strategy/goal-setting, пересекается с #ИнструкцияКБудущему по содержанию, но без явного hashtag (продолжение off-tag long-form тренда из delta 2026-05-14).
 
+## Incremental delta 2026-05-26 (посты #908-914 — 7 постов, framework-heaviest неделя)
+
+Очередные 7 постов за 20-26 мая 2026 ([[sources/2026-05-26-tg-eklapshinaofficial-908-914]]). **Самая плотная по фреймворкам неделя за период наблюдения** — 4 канонических авторских framework'а из 7 постов. **Самая регулярная cadence** — ежедневная публикация без пропусков (раньше 2-3 поста/день или недельные паузы — теперь стабильный ритм).
+
+### Новая cadence-наблюдение: 7 постов за 7 дней (daily ritm)
+
+Это **первый период ежедневной публикации без пропусков** в наблюдении канала. Раньше cadence неравномерна (см. базовый разбор: «иногда 2-3 поста в день, иногда недельные паузы»). Watchlist:
+- Стабилизируется ли cadence на ежедневном ритме?
+- Связано ли это с **повышенной интенсивностью founder-content** (пред-запуска новых продуктов GRO?)
+- Или это **разовый burst** в связи с конкретным period activity?
+
+### Newly-named рубрика: `#страшнопризнаться`
+
+Пост #912 эксплицирует **новую рубрику-маркер**, не зафиксированную в исходной таблице 10 рубрик. **`#страшнопризнаться`** = vulnerability disclosure без business reframe (см. delta в [[canon/brand-guidelines/lapshina-founder-tov]]).
+
+**Тaxonomy update:** обновляем рубричную таблицу новой строкой (но с пометкой n=1, low confidence):
+
+| Рубрика | Тип контента | Доля |
+|---|---|---|
+| `#страшнопризнаться` | Vulnerability disclosure без business-tie reframe | <1% (n=1) `[conf:low]` |
+
+Это **отдельный sub-формат** от обычной «личная история → деловой вывод» — может быть **намеренное отделение** более тяжёлых personal disclosure'ов в собственную рубрику.
+
+### Новый sub-формат: counter-paralysis dialogue с young audience
+
+Пост #910 — **диалог founder с молодым человеком** в формате founder воспроизводит exchange + ставит cognitive-bias-рамку поверх. Это:
+
+- Продолжение тренда **dialogue-формата** из #907 (диалог со Шкипиным), но теперь — с young-talent, не expert-peer
+- **Operational founder-mentor** регистр впервые so explicitly: founder отвечает на конкретный вопрос конкретному молодому человеку «здесь и сейчас», а не пишет abstract advice
+
+Сочетается с прикреплённым фото (групповое фото с ~20 молодыми людьми в Москве) — operational target-audience сигнал, что founder работает с этим сегментом офлайн регулярно.
+
+### Системная meta-рамка эксплицируется: парадокс как метод
+
+Пост #908 — **впервые явно артикулирует** meta-метод автора, прежде latent в #897 и #906. Теперь это **declared method** (см. [[canon/marketing-frameworks/lapshina-paradox-as-trend-detector]]). Channel-patterns implication: каждый future framework от автора **проще декодировать** — ищем resolved-парадокс.
+
+### Layered messaging — thumbnail-аналитика text-pair: 2-й exemplar
+
+Пост #911 (Vasilchuk-подкаст) — **второй exemplar** thumbnail-aspirational + text-analytical pattern (первый был #904 Duolingo). **Pattern теперь системный**, не разовая аномалия:
+
+| Видео | Thumbnail hook | Text register | Topic |
+|---|---|---|---|
+| #904 | «ЗЕЛЕНАЯ СОВА ПРИДЕТ ЗА ТОБОЙ» | Analytical (3 insights) | Duolingo gamification |
+| #911 | «КРИЗИС = НОВЫЕ ВОЗМОЖНОСТИ» | Analytical (4 portfolio-вопроса + метрики) | Restaurant business + Vasilchuk |
+
+**Содержательный insight для GRO content-team:** layered messaging — **двусоставная distribution-логика**:
+- **Thumbnail** = emotional / aspirational claim-headline (attention-anchor для YT-scrollers)
+- **Text** = analytical preview (depth-engagement для text-readers)
+
+**Operational rule:** при создании video-форматов для GRO — **расщеплять hook**: видео-обёртка может иметь яркий тоновой контраст с самим контентом, без нарушения тезиса «ценность > виральность».
+
+### Подкаст-cadence уточнение
+
+В этом срезе **1 подкаст-выпуск** (#911 Vasilchuk) — соответствует базовой cadence «~1 выпуск в 3-4 недели» (предыдущий был #905 Шкипин/conversational в #907). **Без MAX-дистрибуции** в этом посте (обычно есть) — watchlist: разовое отсутствие или structural shift в дистрибуции.
+
+### Framework-heavy week: 4 canonical from 7 posts
+
+Самая высокая ratio framework-к-постам за период:
+
+| Пост | Framework |
+|---|---|
+| #908 | [[canon/marketing-frameworks/lapshina-paradox-as-trend-detector]] |
+| #909 | [[canon/marketing-frameworks/lapshina-selfmade-autonomy-reframe]] |
+| #910 | [[canon/marketing-frameworks/lapshina-extra-questions-cognitive-paralysis]] |
+| #911 | [[canon/marketing-frameworks/vasilchuk-portfolio-restaurant-system]] + [[evolving-strict/market-data/ru-restaurant-industry-2026]] |
+| #913 | (data-точка в [[evolving/industry-trends/ai-for-managers-2025-2026]]) |
+| #914 | [[canon/marketing-frameworks/lapshina-project-debrief-4-principles]] |
+
+**Только #912 не даёт framework** — это TOV-маркер `#страшнопризнаться` (без business reframe).
+
+**Обновление product-reception sub-cluster канала.** Из 7 постов 6 имеют operational marketing-application. Это **исключительно высокая полезность** для GRO content-bank.
+
 ## Contradictions
 
-_Пока отсутствуют._ Incremental delta 2026-05-14 и 2026-05-20 подтверждают базовый срез, не противоречат. При появлении следующего дампа — сравнить эволюцию рубрик, hashtag-free essay-формата, dialogue/partnership-формата и tone'а.
+_Пока отсутствуют._ Все incremental delta (2026-05-14, 2026-05-20, 2026-05-26) подтверждают базовый срез, не противоречат. При появлении следующего дампа — сравнить:
+- Стабилизировалась ли ежедневная cadence
+- Появилась ли рубрика `#страшнопризнаться` снова (если нет — разовый эпизод)
+- Сохранится ли layered messaging pattern на новых video-форматах
+- Прирастёт ли industry-data из реализованных подкастов

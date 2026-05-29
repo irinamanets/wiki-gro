@@ -6,11 +6,11 @@ subtype: concept
 layer: canon
 theme: marketing-frameworks
 tags: [ai, implementation, framework, change-management, culture, marketing-automation, ru-voice, spiridonov]
-confidence: medium
+confidence: high
 stale: false
 created: 2026-05-24
-updated: 2026-05-24
-sources: [sources/2026-05-24-condense-vcru-chunk2.md]
+updated: 2026-05-26  # +Cross-source amplification (confidence: medium → high): Amjad Masad/Replit (Y Combinator, апрель 2026 via SberUniversity дайджест) — independent US-cousin для роли «ИИ-евангелиста»; McKinsey 6 принципов окупаемости AI (СберУниверситет апрель 2026) — institutional cross-source для всего culture-driven implementation подхода. RU + US + McKinsey-уровень = 3 independent authority на core thesis.
+sources: [sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-19-sberuniv-pro-people-digest-april-2026.md]
 namespace: mkt
 ---
 
@@ -39,6 +39,8 @@ Operational-фреймворк внедрения ИИ как change-management-
 ### Шаг 5 — Выделить ИИ-евангелиста + ритм аудита
 Назначить **лидера внедрения / «ИИ-евангелиста»**. Ритм: раз в месяц — сессия обмена опытом, раз в квартал — аудит. Это институционализирует процесс, чтобы он не затух после первой волны энтузиазма.
 
+**Cross-source усиление (апрель 2026):** «ИИ-евангелист» как институциональная роль — теперь не одиночное упоминание Спиридонова. **Амджад Масад (CEO Replit)** в Y Combinator independent прогнозирует, что «**в компаниях будущего останутся только две роли — строители и евангелисты**» (см. [[canon/marketing-frameworks/two-roles-future-builders-evangelists-replit]]). Это **second authority-якорь** на роль evangelist, что обновляет confidence фрейма «evangelist as institutional role» до **high**: RU practitioner (Спиридонов) + US tech-CEO (Masad) приходят независимо к одной и той же operational роли.
+
 ## Сводная таблица
 
 | Шаг | Рычаг | Anti-pattern, который он лечит |
@@ -55,6 +57,9 @@ Operational-фреймворк внедрения ИИ как change-management-
 - [[canon/marketing-frameworks/rag-first-ai-implementation-melkozerov]] — техническая сторона внедрения (RAG-first), которую 5 шагов оборачивают в change-management.
 - [[canon/marketing-frameworks/ai-smb-pilot-three-traps]] — три ловушки SMB-пилота; шаги 2 и 4 Спиридонова прямо адресуют две из них.
 - [[canon/marketing-frameworks/automation-vs-digital-transformation-framework]] — различение автоматизации и трансформации, релевантное для выбора задач на шаге 2.
+- [[canon/marketing-frameworks/two-roles-future-builders-evangelists-replit]] — Masad/Replit: «евангелист» — институциональная роль будущей компании. **Independent cross-source** на шаг 5.
+- [[canon/marketing-frameworks/mckinsey-ai-payback-6-principles]] — McKinsey 6 принципов окупаемости AI (апрель 2026): institutional cross-source на core thesis всего фреймворка. Совпадают принципы #1 (skills > tools), #4 (speed > consensus), #6 (continuous learning).
+- [[canon/marketing-frameworks/ai-coordination-paradox-atlassian]] — Atlassian 80/87/89: parallel-источник на «координация = главное ограничение AI-внедрения». Шаги 1, 3, 5 Спиридонова closely связаны с шагами Atlassian.
 
 ## Применение в marketing-memory (GRO)
 
@@ -68,9 +73,14 @@ _(пусто — первая фиксация фреймворка)_
 
 ## Связанные страницы
 - [[sources/2026-05-24-condense-vcru-chunk2]] — первоисточник
+- [[sources/2026-05-19-sberuniv-pro-people-digest-april-2026]] — cross-source (McKinsey + Masad)
 - [[canon/marketing-frameworks/ankusheva-ai-implementation-triad]] — комплементарная триада внедрения
 - [[canon/marketing-frameworks/ai-smb-pilot-three-traps]] — ловушки SMB-пилота
 - [[canon/marketing-frameworks/automation-vs-digital-transformation-framework]]
+- [[canon/marketing-frameworks/two-roles-future-builders-evangelists-replit]] — Masad-cousin на роль «евангелиста»
+- [[canon/marketing-frameworks/mckinsey-ai-payback-6-principles]] — McKinsey 6 принципов как cross-source
+- [[canon/marketing-frameworks/ai-coordination-paradox-atlassian]] — координационный парадокс как параллельный сигнал
+- [[canon/marketing-frameworks/typical-six-ai-management-risks]] — 6 рисков AI без формального внедрения (что бывает при игнорировании 5 шагов)
 - [[canon/target-audience/gro-segments]]
 
 ## Backlinks

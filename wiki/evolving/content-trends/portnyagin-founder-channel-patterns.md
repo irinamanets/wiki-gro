@@ -9,8 +9,8 @@ tags: [content, telegram, author-blogger, content-format, founder-channel, russi
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +май-2026 dump (3-й): execution-фаза format #7 (immersive-theater launch Siberia на Бауманской) + 13-й формат (B2B-закупка на consumer founder-канале)
-sources: [sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026.md, sources/2026-05-19-tg-portnyaginlive-20260519-122009.md]
+updated: 2026-05-26  # +4-й дамп (3 поста 25-26 мая): educational рубрика расширяется (7-Eleven Судзуки) + #изархива как sub-rubric long-form + 14-й формат «short philosophical hook» (формула Эйнштейна)
+sources: [sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026.md, sources/2026-05-19-tg-portnyaginlive-20260519-122009.md, sources/2026-05-26-tg-portnyaginlive-20260526-122652.md]
 namespace: mkt
 ---
 
@@ -270,6 +270,32 @@ namespace: mkt
 
 **Для GRO:** прямой аналог — использование собственного бренд-канала/комьюнити для **поиска подрядчиков/партнёров/контента** (например, «ищем fitness-экспертов для коллабораций», «ищем UGC-авторов»). Тот же template: задача → контекст → требования → гарантия → контакт. Работает, когда у канала есть аудитория с нужным профилем поставщиков. Не применимо для масс-consumer аудитории без B2B-сегмента.
 
+### 14. Short philosophical hook (public-domain цитата + re-framing)
+
+**Пример:** пост 11261 (2026-05-25) — формула успеха Эйнштейна A = X + Y + Z, ~200 слов: цитата → декомпозиция трёх компонентов → re-framing одного из них (Z = молчание = контроль) → closing-вопрос «Как считаете?».
+
+*Зафиксировано при ingest четвёртого дампа канала.*
+
+**Жанр:** **micro-эссе на public-domain цитате** с авторским re-framing'ом. Не «история бренда», не «мнение», а **mental-model packaging** — упаковка известной цитаты в актуальное прочтение для founder-аудитории.
+
+**Структура поста:**
+1. Заголовок-цитата («Формула успеха Эйнштейна»)
+2. Историческая атрибуция (1929, NYT Magazine, журналист — придаёт authority)
+3. Сама формула / тезис в одну строку
+4. Декомпозиция компонентов (1–2 предложения на каждый)
+5. **Авторский re-framing одного компонента** — переинтерпретация известного тезиса под современный контекст / контекст аудитории
+6. Closing-вопрос для engagement
+
+**Почему это работает:**
+- **Authority transfer:** имя Эйнштейна / любого классика снимает нагрузку «обосновать тезис» — цитата уже легитимизирована культурой.
+- **Re-framing создаёт оригинальность:** пересказ цитаты без re-framing — банально; новый угол прочтения = signal экспертности автора.
+- **Low cognitive load:** короткая формула + 3 компонента + один акцент — формат, который запоминается с одного прочтения и **легко цитируется** другими каналами.
+- **Universal applicability:** механика «public-domain quote → re-framing» переносится на любую цитату любого классика — расходный материал почти бесконечен.
+
+Содержательно соответствующая mental-model вынесена отдельной страницей: [[canon/marketing-frameworks/einstein-success-formula-silence-as-control]].
+
+**Для GRO:** прямой content-template. Берём известную цитату из бизнес-литературы / философии / спорта → переинтерпретируем под founder/owner-аудиторию. Cadence: 1–2 раза в месяц (чаще — теряет силу через дилюцию «канал цитат»).
+
 ## Пропорции форматов в дампе
 
 | Формат | Кол-во постов в дампе | Комментарий |
@@ -309,6 +335,16 @@ namespace: mkt
 - **B2B-закупка на consumer-канале (новый 13-й формат) — 11258**: supply-chain-аутрич (поиск поставщиков топлива) размещён в личном бренд-канале, не на B2B-площадке. Reach-as-procurement-asset.
 - **Подтверждение паттерна «канал монетизирует через brand-PR собственных проектов»**: 10 из 11 постов дампа — про Siberia (открытие + закупка). Канал в редакторском режиме всё активнее работает как **owned-media основного бизнеса founder'а**, а не как independent media-проект.
 
+## Дополнительные наблюдения четвёртого дампа (май 2026)
+
+Четвёртый дамп ([[sources/2026-05-26-tg-portnyaginlive-20260526-122652]], 3 поста 25-26 мая) добавляет:
+
+- **Educational рубрика «история бренда» расширяется новым кейсом** — пост 11263 (некролог Тосифуми Судзуки, создателя 7-Eleven): тот же 10-фактовый формат, что и в предыдущих educational long-form'ах. Канал теперь имеет **три точки данных в educational rubric**: Pets.com (failure case, 11136), Самвер / Rocket Internet (positive playbook, 11244), **Судзуки / 7-Eleven (positive cross-border M&A, 11263)** — см. [[canon-strict/historical-campaigns/seven-eleven-suzuki-takeover-1991-2026]]. Pattern «канал работает как learning-platform на брендовых нарративах» подтверждён третьей независимой публикацией. **Триггер публикации** — новостной (смерть основателя) → жанр перешёл из «educational long-form» в гибридный **«некролог как educational hook»**, что расширяет арсенал поводов для использования формата.
+- **Формат `#изархива` (sub-rubric) — пост 11260 (бизнес с друзьями).** Перепубликация архивного эссе founder'а под тегом `#изархива` — отдельный жанр «вечнозелёный контент из бэклога». Снижает нагрузку на редакцию (не надо писать новое), сохраняет cadence. Контентно — авторская рамка партнёр-selection (см. [[canon/marketing-frameworks/partner-as-leadership-role-portnyagin]]).
+- **Новый 14-й формат «short philosophical hook»** — пост 11261 (формула Эйнштейна, см. подробно выше). Public-domain quote + re-framing — масштабируемая механика расходного контента.
+- **Композиция дампа out of pattern:** 3 поста, все три — content-heavy (не carousel-filler). Это **аномальная плотность signal'а**: обычно founder-канал в editorial режиме чередует heavy и retention-only посты ~1:5. Возможные интерпретации: (а) случайность 3-дневного окна, (б) сдвиг редакционной политики к более плотному content-mix'у, (в) post-launch фаза (после open-event 15 мая) — канал переходит от event-PR к thought-leadership-контенту. Подтверждение требует 5-го дампа.
+- **Cross-link между постами:** 4-й дамп показывает, что **разные форматы могут жить рядом** в одном недельном цикле: личное эссе (#изархива) + философская выжимка (Эйнштейн) + бренд-некролог (7-Eleven). Канал не специализируется на одном жанре — это **content-mix как фича**, не баг.
+
 ## Маркетинговое следствие для GRO
 
 1. **Редакторский режим как option, не baseline:** GRO пока ведёт канал (если ведёт) в personal-founder-authorship режиме. Редакторский режим — это путь масштабирования, когда objem контент-плана превышает что founder может написать лично. Переход надо делать осознанно и с явным disclosure (тег `#редакцияканала` или аналог).
@@ -332,6 +368,9 @@ namespace: mkt
 - [[evolving/content-trends/cultural-narrative-brand-storytelling]] — детализация 11-го формата (5 бань Siberia)
 - [[canon/marketing-frameworks/petscom-unit-economics-failure]] — кейс из рубрики «Кладбище стартапов»
 - [[canon/marketing-frameworks/samwer-rocket-internet-fast-follower]] — positive case из той же educational рубрики (фактически в canon-strict, см. [[canon-strict/historical-campaigns/samwer-rocket-internet-fast-follower]])
+- [[canon-strict/historical-campaigns/seven-eleven-suzuki-takeover-1991-2026]] — третий кейс той же educational рубрики (4-й дамп, пост 11263, некролог-как-educational-hook)
+- [[canon/marketing-frameworks/partner-as-leadership-role-portnyagin]] — содержательная рамка из 4-го дампа (#изархива пост 11260)
+- [[canon/marketing-frameworks/einstein-success-formula-silence-as-control]] — содержательная рамка из 4-го дампа (формат #14, пост 11261)
 - [[canon/marketing-frameworks/portnyagin-7-decision-questions]] — formalised founder decision framework (пост 11204)
 - [[canon/marketing-frameworks/demin-international-expansion-5-pillars]] — пример expert-quote поста
 - [[volatile-strict/industry-news/global-ai-news-digest-2026-04-07]] — пример AI-digest rubric
@@ -339,6 +378,7 @@ namespace: mkt
 - [[sources/2026-04-14-tg-portnyaginlive-mar-apr-2026]]
 - [[sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026]]
 - [[sources/2026-05-19-tg-portnyaginlive-20260519-122009]] — третий дамп (открытие Siberia + B2B-закупка)
+- [[sources/2026-05-26-tg-portnyaginlive-20260526-122652]] — четвёртый дамп (бизнес с друзьями, формула Эйнштейна, некролог Судзуки 7-Eleven)
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [content, telegram, narrative, hooks, objections, burnout, owner-self-mana
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +engagement-вопрос «стратегия есть или её нет?» (Visotsky 3842) — fingerprint собственный, не как контр-пример «прилётного» owner'а, а как diagnostic для readers. Ранее: +owner-side зеркало «чайка-менеджмент» (vc.ru/hr); +hooks 4-го среза Якубы; +cross-ref «зеркало владельца» (Горская/Pressfeed); +Петросян пост 2311; +Visotsky 4-й срез
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md]
+updated: 2026-05-28  # +Шевелев/Marat «12 лет без отпуска» extreme outcome-anchor (sources/2026-05-26-tg-olegcloser-may-22-26-2026 пост 2326); ранее: Petrosian, Visotsky 4-й срез, чайка-менеджмент, и т.д.
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md]
 namespace: mkt
 ---
 
@@ -641,6 +641,23 @@ GRO — продукт ежедневного журналирования. Petr
 
 `[conf:medium, src:2026-05-14]` — opinion verified expert.
 
+### Расширение 2026-05-26: chronic-grounding extension (Petrosian пост 2320)
+
+Пятый последовательный дамп Петросяна ([[sources/2026-05-26-tg-stodnevka2-may-20-26-2026]] пост 2320) **расширяет describe-the-state** временной осью:
+
+- **Острый кризис (пост 2311, 15-19 мая):** describe-the-state как **immediate intervention** (остановись → опиши тело → опиши эмоции → сузь горизонт до сегодняшнего)
+- **Хроническая неопределённость (пост 2320, 20-26 мая):** **sustained бумажное journaling** как **chronic-grounding regimen** — то же mechanism «процесс важнее содержания», но **развёрнутый в постоянную практику**, а не разовое intervention
+
+Цитата Петросяна:
+> «В ситуации неопределённости, сужающихся ресурсов, стресса бумажные носители для меня полезнее цифровых. Тетрадь всегда рядом, никакие санкции не запретят мне пользоваться ручкой и бумагой. <...> Исписанные страницы создают ощущение наполненности жизни. Использование ручек, маркеров, карандашей успокаивает.» (Petrosian, 2026-05-24)
+
+`[conf:medium, src:2026-05-24]` — opinion verified expert.
+
+**Что добавляет в narrative для GRO:**
+- **Anti-санкционное / anti-блокировочное messaging** как macro-уровневая опора (RU 2026): «бумажный дневник нельзя заблокировать, нельзя отозвать платежи, нельзя cyber-атаковать»
+- **Sensory-grounding component** (тактильные ручки/маркеры/карандаши успокаивают) — additional sensory-frame, не покрытый в digital-only journaling-нарративе
+- **Strategic для GRO:** не «бумага vs цифра» (false dichotomy), а **«бумага + цифра» как complementary опора в стрессе** — GRO как poiskovy дневник (search, tags, recall), бумага как anti-fragile якорь. См. полный фрейм в [[canon/marketing-frameworks/petrosian-paper-journaling-anti-fragile-protocol]].
+
 ## Hooks из третьего среза Якубы (2026-05-05..14)
 
 Третий срез Якубы ([[sources/2026-05-14-tg-vyakuba-may-5-14-2026]]) пополнил коллекцию **5 hooks**, особенно ценных тем, что они **повторяются в одном окне** (свидетельство стабильности рамки автора):
@@ -777,6 +794,34 @@ GRO — продукт ежедневного журналирования. Petr
 Авторский разбор management-абсурда: «Сделаешь — может не понравиться. Не сделаешь — накажут. Предложишь — обвинят в самоуправстве. Промолчишь — спросят, почему молчал». Это **anti-pattern для GRO tone**: показывает, как НЕ надо разговаривать со своей аудиторией. GRO-контент про owner'ов должен давать выход из double-bind (ясная рамка, фиксация договорённостей), а не воспроизводить его. Прямая параллель — 3-шаговый протокол замены крика из [[canon/marketing-frameworks/cry-as-cheap-system-crutch-soulful]].
 
 **Связь с management-кластером:** этот источник эмпирически иллюстрирует авторитарный режим из [[canon/marketing-frameworks/management-styles-2026-soulful]] и сигнал #6 «нет плохих новостей» из [[canon/marketing-frameworks/management-style-obsolete-6-signals-soulful]] (сотрудники «боятся сказать правду до момента увольнения»).
+
+## «12 лет без отпуска» — extreme anchor для outcome-driven owner-escape hook (Шевелев / Marat, 2026-05-26)
+
+Из [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] пост 2326. Reusable как **финальный outcome-hook** в любой цепочке про выход из операционной ловушки. Не «вы попали в ловушку — это плохо», а **«вот что бывает, когда наконец выходишь»** — позитивный anchor.
+
+**Оригинал-цитата (forwarded от Marat):** «Кстати первый отпуск у меня с семьёй состоялся на 18 дней за 12 лет работы) с организацией отдела продаж, отныне буду как положено не реже 2 раз в год отпуск брать.»
+
+**Контекст:** Marat — предприниматель в нише промышленных водонагревателей, выстраивал отдел продаж с Шевелевым. После того как система продаж заработала без него — впервые за 12 лет ушёл в 18-дневный отпуск с семьёй. Шевелев reframe-ит: «**Сильный отдел продаж — это не только про деньги. Это про свободу, возможность вырваться из операционки продаж и не держать каждую сделку на себе.**»
+
+**Почему работает:**
+1. **Конкретное число вместо abstraction.** «12 лет» — visceral anchor. Не «много лет» / «годами», а **конкретно 12**. Читатель невольно прикидывает, сколько лет он сам не отдыхал.
+2. **Outcome не «больше денег», а «свобода»** — переключает ось value proposition с финансовой на экзистенциальную. Эта ось редко используется в SMB-маркетинге, поэтому работает как pattern-interrupt.
+3. **Forwarded message формат** — социальный proof в чистом виде, без mediation эксперта.
+4. **«Отныне буду как положено»** — implication, что **система не сломается** при отсутствии owner'а. Без этой импликации hook был бы про разовый отпуск, а так — про устойчивое изменение.
+
+**Адаптации для GRO:**
+
+- **Solo-professional:** «5 лет вы не уходили в честный 2-недельный отпуск без проверки почты. GRO-ритм работает на вас даже когда вы в горах без сети — вернётесь, ничего не сломалось».
+- **Founder агентства:** «За 3 года ваш бизнес ни разу не работал без вас неделю. GRO даёт ритм команде — впервые сможете уехать и не быть на связи».
+- **Карьерист:** «Когда вы в последний раз уходили в отпуск без рабочего ноутбука? GRO — это не про отдых, это про спокойствие, что когда вы выключитесь, ничего не сгорит».
+- **Anti-pattern для GRO:** копировать слова «свобода», «вырваться» (классические инфобиз-trigger'ы). Нужна более конкретная адаптация — «18 дней без проверки», «впервые без созвонов», «выключил почту и не вернулся к ней».
+
+**Reusable шаблон outcome-anchor'а:**
+- [N] лет без [конкретное достижение, которое люди обычно делают] = ловушка
+- [конкретный результат GRO] = выход
+- [конкретная импликация устойчивости] = система работает без вас
+
+**Сочетание с другими hooks:** этот hook **парная пара** для [[canon/marketing-frameworks/management-pyramid-sales|sales pyramid]] — Marat-кейс показывает результат top-of-pyramid сценария «founder вышел из продаж». Естественная content-цепочка: «Высоцкий "пилот без приборов"» (диагностика проблемы) → «Шевелев 3-шаговый кризис-ответ» (методология) → «Marat 12 лет без отпуска» (результат) — три hook'а по фазам owner-journey, готовая narrative-арка для блог-серии GRO.
 
 ## Чек-лист для автора GRO-контента
 

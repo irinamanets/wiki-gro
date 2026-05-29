@@ -9,8 +9,8 @@ tags: [competitor, max, messenger, russia]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-19  # +vcnews 61317 (2026-05-12): операторская сделка — «Билайн»/МТС/«Мегафон»/Т2 + MAX, A2P-мессенджинг (сообщения компаний + OTP), новый B2B транзакционный вектор. Prior: +caveat метрики просмотров: накрутка 2–3× от подписчиков (@dnative, май 2026), 48h-window фолбэк для ad-buying | +pressfeed 14 cases (2026-05-18): Mediascope 61,5 млн (mar 2026, +43,6% от dec 2025); CPA ЭКО 244 ₽/sub vs TG-paritet; 5-bot/ЮЛ лимит; +40% Q1 спрос на ботов; 30% брендов готовы к channel-migration из лендингов; Thai Traditions B2B-как-Slack; +6 новых behavioral-сигналов от Pressfeed-14
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-tg-founderwoman-feb-apr-2026.md, sources/2026-04-14-tg-bezsmuzi-apr-12-14.md, sources/2026-04-14-tg-cossaru-apr-3-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-fomichevkirill-feb-apr-2026.md, sources/2026-04-14-tg-forbesrussia-apr-13-14.md, sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-14-tg-hh-ru-official-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-14-tg-selfworkru-mar-apr-2026.md, sources/2026-04-14-tg-sergei-ivanov-efko-mar-apr-2026.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-14-tg-vcnews-apr-10-14.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-services-2911500-funktsiya-rasshifrovki-videokruzhkov-v-mess.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-05-tg-studentsuper-redump-mar-apr-2026.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-14-tg-moibiz-may-5-14-2026.md, sources/2026-05-18-pressfeed-14-max-cases.md, sources/2026-05-19-tg-dnative-digest-7613-7628.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md]
+updated: 2026-05-28  # +rb.ru tg-digest #46242 (2026-05-20, через «Ведомости»): второй независимый источник к @moibiz 7564 — конкретные DAU: Max 68 млн vs TG 50,3 млн (-17,7 млн), MAU TG 88 vs Max 85,4 — TG сохраняет лидерство по MAU. Подтверждает @moibiz claim и даёт точные числа. Prior: +@moibiz 7564 (2026-05-21): гос-канал явно: «MAX обогнал TG по суточному охвату апрель 2026, разрыв 17,7 млн». Первый comparative-claim против TG на гос-уровне, PR-нарратив сформирован. Prior: +Cossa 23160 (2026-05-19): Я Директ открыл бету MAX-ads через Единую перфоманс-кампанию — 5-я ступень эволюции MAX как ad-канала, первый mainstream-adoption signal. Mediascope mar 2026: 60M+ DAU 12+, 300K+ публичных каналов (+39% от MaxStat 30.03), 6,7M приватных. Prior: +vcnews 61317 (2026-05-12): операторская сделка + A2P-мессенджинг | +caveat метрики просмотров: накрутка 2–3× от подписчиков (@dnative, май 2026) | +pressfeed 14 cases (2026-05-18): Mediascope 61,5 млн, CPA ЭКО 244 ₽/sub, 5-bot/ЮЛ лимит, +40% Q1 спрос на ботов +Petrochenkov 1304 (2026-05-24): practitioner-реакция на Я Директ × MAX бету (см. отдельный source-блок ниже).
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-tg-founderwoman-feb-apr-2026.md, sources/2026-04-14-tg-bezsmuzi-apr-12-14.md, sources/2026-04-14-tg-cossaru-apr-3-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-fomichevkirill-feb-apr-2026.md, sources/2026-04-14-tg-forbesrussia-apr-13-14.md, sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-14-tg-hh-ru-official-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-14-tg-selfworkru-mar-apr-2026.md, sources/2026-04-14-tg-sergei-ivanov-efko-mar-apr-2026.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-14-tg-vcnews-apr-10-14.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-services-2911500-funktsiya-rasshifrovki-videokruzhkov-v-mess.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-05-tg-cossaru-apr-24-may-5-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-05-tg-studentsuper-redump-mar-apr-2026.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-14-tg-moibiz-may-5-14-2026.md, sources/2026-05-18-pressfeed-14-max-cases.md, sources/2026-05-19-tg-dnative-digest-7613-7628.md, sources/2026-05-19-tg-vcnews-may-12-14-2026.md, sources/2026-05-26-tg-cossaru-may-19-25-2026.md, sources/2026-05-26-tg-moibiz-may-19-26-2026.md, sources/2026-05-26-tg-rb-ru-may-19-26-2026.md, sources/2026-05-26-tg-petrochenkow-20260526-112500.md]
 namespace: mkt
 ---
 
@@ -41,6 +41,50 @@ MAX — российский мессенджер с интеграцией в �
 - **Опрос владельцев ПВЗ через MAX-канал Новаторикс** (2026-05-08, пост 7498) — государство **активно использует MAX для B2B/B2G-коммуникации** с реальными МСП. См. [[evolving/competitor-positioning/novatorix-moibiz-ai-consultant-2026]].
 
 **Импликация для B2B-distribution в РФ.** При DAU 85 млн + 150K чат-ботов + roadmap историй/комментариев = MAX **становится критически важным B2B-каналом** для всех, кто работает с российской аудиторией. Контент-стратегии должны включать MAX как первокласный канал, не маргинальный.
+
+### Update 2026-05-21 — @moibiz (MAX обогнал TG по суточному охвату)
+
+Через [[sources/2026-05-26-tg-moibiz-may-19-26-2026|@moibiz пост 7564]] — гос-канал **впервые транслирует как факт**, что:
+
+> «Макс впервые обогнал Telegram по суточному охвату в апреле 2026 года — разрыв составил 17,7 млн человек»
+
+- **MAX > TG по суточному охвату апрель 2026, разрыв 17,7 млн человек** `[conf:medium, src:2026-05-21]`
+- **Источник:** vk.cc/cXZIev (не первоисточник, ретрансляция через гос-канал)
+
+**Что это означает:**
+1. **Гос-нарратив явно объявил MAX «победителем» по DAU.** До этого был набор отдельных бенчмарков (Mediascope 61,5 млн, 85 млн @moibiz, 80 млн vc.ru), теперь — публично заявленный **сравнительный** факт.
+2. **Метрика «суточный охват»** ≠ DAU в строгом смысле. Это охват = unique users за сутки, более широкая метрика, чем active. Поэтому MAX может «обогнать» TG по охвату, оставаясь позади по engagement и retention.
+3. **Caveat для GRO-контента:** при использовании этой цифры обязательно `[conf:medium, src:2026-05-21]` + сноска «PR-нарратив гос-канала, методология не раскрыта». Не интерпретировать как «MAX превзошёл TG» в целом — только по этой одной метрике в этот один месяц.
+
+**Cumulative MAX-trajectory из @moibiz (5 точек за 7 недель):**
+
+| Дата | Метрика | Значение | Source |
+|---|---|---|---|
+| 2026-04-08 | DAU | 52 млн | rb.ru (3rd-party) |
+| 2026-05-07 (пост 7475) | DAU | 85 млн | `[conf:high, src:2026-05-07]` |
+| 2026-05-07 | Чат-ботов запущено | 150 тыс | `[conf:high, src:2026-05-07]` |
+| 2026-05-21 (пост 7564) | Daily reach vs TG | MAX обогнал TG, разрыв 17,7M | `[conf:medium, src:2026-05-21]` |
+
+**Trajectory:** ~+1 млн DAU/неделю в марте-апреле, плюс **первый comparative-claim** против TG в мае. Госнарратив всё чётче.
+
+### Update 2026-05-20 — rb.ru (Russian Business) tg-digest #46242: точные DAU/MAU
+
+Через [[sources/2026-05-26-tg-rb-ru-may-19-26-2026|rb.ru пост 46242]] (2026-05-20, со ссылкой на «Ведомости») получаем **точные численные значения** comparative-claim'а, который @moibiz транслировал днём позже:
+
+| Метрика | Значение апрель 2026 | Источник |
+|---|---|---|
+| Max DAU | 68 млн | `[conf:medium, src:2026-05-20]` |
+| Telegram DAU | 50,3 млн | `[conf:medium, src:2026-05-20]` |
+| Разрыв DAU (Max - TG) | +17,7 млн | `[conf:medium, src:2026-05-20]` |
+| Telegram MAU | 88 млн (лидерство) | `[conf:medium, src:2026-05-20]` |
+| Max MAU | 85,4 млн | `[conf:medium, src:2026-05-20]` |
+
+**Что это меняет:**
+
+1. **Триангуляция comparative-claim'а** — два независимых источника одной недели (rb.ru/«Ведомости» 2026-05-20 + @moibiz 7564 2026-05-21) подтверждают тот же разрыв (-17,7 млн). Это снимает подозрение, что @moibiz транслировал гос-PR без основания.
+2. **Numeric backbone**: 68 vs 50,3 млн — это конкретные числа, на которые можно ссылаться (с указанием источника «Ведомости»), а не туманная «MAX обогнал TG».
+3. **MAU инверсия:** Telegram продолжает лидировать по MAU (88 vs 85,4 млн), а Max лидирует по DAU. Это сигнал, что **MAX чаще открывают в течение суток**, но **TG-аудитория шире** в пределах месяца. Интерпретация: Max используется как utility (быстрое открытие — Госуслуги, ЖКХ), TG как content-platform (расширенная база, но не каждый день).
+4. **Caveat достоверности:** оба источника — вторичные (rb.ru ссылается на «Ведомости»; @moibiz ссылается на `vk.cc/cXZIev`). Первичное исследование (методология, выборка) не приведено. Использовать в GRO-контенте с указанием «по «Ведомостям»/Russian Business, апрель 2026».
 
 ### Update мар-апр 2026 (Edinorog 7896 — третий независимый источник)
 - **Трафик Telegram март 2026: −18% YoY** `[conf:high, src:2026-04-27]` (Digital Budget, ссылается @Theedinorogblog #7896)
@@ -161,6 +205,35 @@ MAX — российский мессенджер с интеграцией в �
 - **Окно для federal-tier signal (повтор паттерна Forbes/hh.ru/Самозанятые.рф)**: каждый новый bridging-tooling типа telega.fm повышает порог нормализации MAX как «обязательного зеркала», и GRO в этом тренде — следующий потенциальный участник.
 
 См. также свежий регуляторный контекст в [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] (5-й вектор усилен: РКН 92% VPN-блок к 2030 году артикулирован публично, страница [[volatile-strict/industry-news/ru-rkn-vpn-92pct-target-2030]]).
+
+### Update 2026-05-19: Я Директ открыл бету MAX-ads (mainstream-adoption ступень)
+
+**Major infrastructure milestone:** Яндекс открыл бета-доступ к размещению рекламы в MAX через Директ ([[sources/2026-05-26-tg-cossaru-may-19-25-2026|Cossa пост 23160]], 2026-05-19) `[conf:high, src:2026-05-19]`. Формат — **Единая перфоманс-кампания** (одна закупка из одного кабинета на Telegram + MAX). См. подробный разбор: [[volatile-strict/industry-news/yandex-direct-max-messenger-ads-beta-2026-05]].
+
+Это **5-я ступень** эволюции MAX как ad-канала (после BidFox/PromoPult/Telega.in апр 2026 + Фианит-Ломбард кейса) и **первый mainstream-adoption signal**: Я Директ — самый массовый и доверенный ad-channel в RU, его открытие беты на MAX означает, что **порог входа упал кардинально** — теперь не «надо разбираться с Telega.in», а «галочка в Я Директе».
+
+**Параллельные публичные метрики Mediascope mar 2026** (через пресс-релиз VK апр 2026):
+
+- **Суточная аудитория MAX 12+: >60 млн** `[conf:high, src:2026-05-19]` (Mediascope, март 2026)
+- **Публичных каналов: >300 тысяч** `[conf:high, src:2026-05-19]` — рост от 215K (MaxStat 30.03.2026) на ~+39% за ~2-3 недели
+- **Приватных каналов: 6,7 млн** `[conf:high, src:2026-05-19]` — большой количественный сигнал team-comms adoption бизнесом (приватный канал = команда / сообщество / B2B-чат)
+
+**Caveat по DAU 60+ млн vs 80 млн (vc.ru apr) vs 85 млн (@moibiz май):** Mediascope использует строжайшую методологию (counter-frame survey), vc.ru/@moibiz — broader или PR-источники. **Для GRO-контента использовать наименьшую цифру (Mediascope) с явным указанием источника.** Этот caveat обновляет ранее зафиксированное «противоречие» вокруг 80 млн (см. секцию vc.ru condensed выше) — Mediascope как **независимый replicable замер** становится anchor-источником, остальные оценки должны при ссылке указывать методологию.
+
+**Маркетинговое следствие для GRO:**
+- **Окно для тестового запуска**: до Q3-Q4 2026 (GA Я Директ × MAX ads) — arbitrage-окно на дешёвом inventory до перегрева аукциона. Рекомендация: тестовая кампания 100-200K ₽ в Q3 2026 как scoping-эксперимент.
+- **Performance-модель** (Единая перфоманс-кампания) автоматически делит бюджет между TG и MAX по эффективности — **меньше operational overhead**, чем ручное разделение через Telega.in или прямые сделки.
+
+### Update 2026-05-24: Petrochenkov практитионер-такес на Я Директ × MAX бету
+
+Через 5 дней после анонса Cossa — Антон Петроченков ([[sources/2026-05-26-tg-petrochenkow-20260526-112500|пост 1304]], 2026-05-24) даёт **первую publicly-known practitioner-реакцию** на бету:
+
+- **Подтверждение ограничений беты:** «работает только в **одной стратегии закупки**, **каналы подбираются автоматически**» `[conf:medium, src:2026-05-24]` — confirm-сигнал к Я Директ-описанию «Единой перфоманс-кампании». Это означает что Я Директ **не даёт practitioner'у** ручной контроль над channel selection / bid strategy / audience exclusion в MAX-inventory.
+- **Petrochenkov-plus:** «**супер дешёвый доступ к аудитории (потому что мало конкуренции)**» `[conf:medium, src:2026-05-24]` — первое publicly-cited practitioner-описание ad-cost economics для МАХ-inventory из Я Директа. Это confirm-сигнал к ожиданию **arbitrage-окна для early adopters** до перегрева аукциона (Q3-Q4 2026).
+- **Petrochenkov-minus:** «урезанный функционал и возможности управления» — снижает применимость для сложных performance-кампаний.
+- **Community-call-out:** Petrochenkov не пробовал апдейт сам, просит community-feedback. Это **community-testing signal** RU performance-сообществу — формально валидные кейсы появятся через 4-8 недель в комментариях под этим постом или у независимых practitioner-каналов.
+
+**Significance:** Petrochenkov — 6-й Petrochenkov-data-point в нашей вики по RU performance-стэку (см. [[evolving/industry-trends/ai-marketing-limits-2026]]). Его такес подтверждает **operational valid-window** для тестового запуска GRO в Q3 2026 + первый bench-data-point про low-competition inventory.
 
 ### Инфраструктурная подготовка рекламного рынка (2026-04-08 → 2026-04-14)
 

@@ -9,8 +9,8 @@ tags: [framework, productivity, self-diagnostic, motivation, journaling, infogra
 confidence: medium
 stale: false
 created: 2026-05-22
-updated: 2026-05-22
-sources: [sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md]
+updated: 2026-05-26  # +book 2 codification: 3 зоны риска совпадают с подмножеством «6 слабых мест» (book 2 ch.1) — энергия = #1 быстрые результаты + #3 нехватка времени; знания = #2 жадность к инфо; уверенность = #6 расфокусировка. NEW page [[canon/marketing-frameworks/petrosian-6-weak-points-first-month-resistance]] даёт structurally более детальную операционализацию того же тезиса.
+sources: [sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-26-petrosian-book-2-how-to-start-changes.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -83,14 +83,32 @@ GRO — продукт ежедневного журналирования (см
 | [[canon/marketing-frameworks/petrosian-tool-fetish-minimalism]] | «Зачем» как якорь — питает зону «уверенность» |
 | [[canon/marketing-frameworks/petrosian-monthly-calibration-3-layers]] | Регулярная калибровка — профилактика всех трёх зон |
 
+## Связь с «6 слабых мест» (book 2 codification)
+
+Книга «Как приступить к переменам» (Петросян 2025, ch.1; см. [[sources/2026-05-26-petrosian-book-2-how-to-start-changes]]) даёт **structurally более детальную таксономию** того же общего тезиса — **6 distinct failure-modes** первого месяца, см. [[canon/marketing-frameworks/petrosian-6-weak-points-first-month-resistance]]. Mapping 3-зон в 6-точечную operationalisation:
+
+| 3-зона (high-level) | Соответствующие «слабые места» (book 2 detailed) |
+|---|---|
+| **Энергия** | #1 Отсутствие быстрых результатов + #3 Нехватка времени (operational drain) |
+| **Знания** | #2 Жадность к информации + #5 Чужие ожидания (knowledge-gap из external sources) |
+| **Уверенность** | #4 Страх повторить ошибки + #6 Расфокусировка |
+
+`[conf:medium]` на mapping — не explicit Petrosian, а inferred из текстов.
+
+**3 зоны = диагностический triangle (быстрая ориентация)**; **6 слабых мест = operational checklist (детальная диагностика)**. Использовать **complementarily**: 3 зоны — для onboarding и quick mention; 6 слабых мест — для structured self-assessment.
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/petrosian-third-problem-type-stillness]] — тот же автор, тот же дамп, пересечение по зоне уверенности
+- [[canon/marketing-frameworks/petrosian-6-weak-points-first-month-resistance]] — codified-operational version (book 2 ch.1)
+- [[canon/marketing-frameworks/petrosian-4-inner-barriers-post-startup]] — psychological complement (book 2 ch.2)
 - [[canon/marketing-frameworks/petrosian-i-only-try-five-minute-start]] — тот же автор, средство для зоны знаний
 - [[canon/marketing-frameworks/petrosian-tool-fetish-minimalism]] — тот же автор, тот же дамп
 - [[canon/marketing-frameworks/petrosian-monthly-calibration-3-layers]] — тот же автор, профилактическая калибровка
+- [[canon/marketing-frameworks/petrosian-21-day-foundation-first-month-rule]] — temporal-anchor для 3 зон
 - [[canon/product-knowledge/gro-app-overview]] — продуктовое применение
 - [[sources/2026-05-22-tg-stodnevka2-may-15-19-2026]] — первичный source (включая описание инфографики)
+- [[sources/2026-05-26-petrosian-book-2-how-to-start-changes]] — codified version
 
 ## Атрибуция и confidence
 

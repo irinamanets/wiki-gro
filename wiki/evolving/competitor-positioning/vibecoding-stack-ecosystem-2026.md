@@ -9,8 +9,8 @@ tags: [vibecoding, ai, cursor, claude-code, lovable, base44, tools, ecosystem]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-22  # +cross-ref на RU app-builder inventory (локальные аналоги L1 prompt-to-app: Чатиум/Miniapps.ai vs Lovable/Base44/Rork). Prior: +Спиридонов founder-CEO normalization +Atria +Claude Design
-sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-solokumi-redump-dec25-apr26.md, sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov.md]
+updated: 2026-05-26  # +Lovable+Semrush integration (Tabunov пост 634, 5-й ingest @your_pet_project): pre-launch SEO research встроен в L1 builder, барьер на ресерч падает с $140/мес до $0. Prior: +cross-ref на RU app-builder inventory +Спиридонов founder-CEO normalization
+sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-solokumi-redump-dec25-apr26.md, sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md]
 namespace: mkt
 ---
 
@@ -37,6 +37,7 @@ namespace: mkt
 - **Позиционирование:** самый простой стартовый инструмент. «Сделай мне лендинг для книги по психологии» → 3 минуты → готовая ссылка, можно шарить в Telegram. Никаких заморочек с деплоем.
 - **Когда брать:** первая проверка гипотезы, быстрый лендинг для MVP, не нужны сложные интеграции
 - **Главная ценность:** полный цикл «промпт → рабочий сайт на HTTPS» без единой строчки кода и без хостинга
+- **Новое (2026-05, Tabunov пост 634):** **Semrush integration встроена внутрь builder'а**. При генерации лендинга параллельно тащит данные конкурентов (ключи, поисковые объёмы, сложность ранжирования, метаданные) — **без отдельной подписки на Semrush ($140/мес)**. Под капотом 28 млрд ключей, 43 трлн backlinks, 808M доменов, 32 региона. Время ниши-ресерч: было ~8 часов вручную, стало 10 минут. Это **стратегический сдвиг** category: L1-инструмент перестаёт быть «генератором лендинга» и становится «pre-launch research workspace». Полная рамка — [[canon/marketing-frameworks/ai-builder-data-integration-distribution-shift]].
 
 ### Base44
 - **Сделка:** куплен **Wix за $80 млн через полгода после запуска** (один из самых быстрых exit'ов на рынке вайбкодинга)

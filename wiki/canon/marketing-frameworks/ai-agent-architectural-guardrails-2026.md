@@ -9,8 +9,8 @@ tags: [ai-agents, ai-security, red-teaming, adversarial, verification, b2b-sales
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-products-and-startups-may-15-19-2026.md]
+updated: 2026-05-27  # +cross-link к российскому судебному прецеденту А27-7831/2025 (ОФД24, 2026-05-20): отсутствие архитектурных guardrails вокруг AI-генерации юр-документов → штраф 50К ₽. Юристы ООО «ЦСС» доверились промптовой защите модели и нулевой верификации перед отправкой — суд ответил.
+sources: [sources/2026-05-19-tg-products-and-startups-may-15-19-2026.md, sources/2026-05-27-tg-ofd24-may-19-26-2026.md]
 namespace: mkt
 ---
 
@@ -90,9 +90,11 @@ Microsoft Research показали: AI-агенты прокачаны (RLHF) �
 - [[volatile-strict/competitor-news/elevenlabs-aiuc-agent-insurance-2026]] — adversarial-тесты как условие страхуемости агента
 - [[canon/marketing-frameworks/harness-engineering-for-ai-agents]] — harness как инфраструктура надёжности
 - [[evolving/industry-trends/code-with-claude-2026-frameworks]] — Anthropic «Hold Light and Shade» (ship aggressively AND responsibly) — та же мысль про безопасность как часть релиза
+- [[evolving/industry-trends/ai-hallucination-court-precedent-russia-2026]] — что бывает, когда нет ни архитектурных guardrails, ни верификации (российский судебный прецедент А27-7831/2025)
 
 ## Источники
 
 - [[sources/2026-05-19-tg-products-and-startups-may-15-19-2026]] — пост 1751, attached/1751
+- [[sources/2026-05-27-tg-ofd24-may-19-26-2026]] — пост 6563 (судебный прецедент как пример отсутствия guardrails в юр-флоу)
 - [Microsoft Research — whimsical strategies](https://www.microsoft.com/en-us/research/articles/whimsical-strategies-break-ai-agents-generating-out-of-distribution-adversarial-strategies-at-scale/)
 - [github.com/BayramAnnakov/whimsical-strategies-skill](https://github.com/BayramAnnakov/whimsical-strategies-skill)

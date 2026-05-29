@@ -9,9 +9,9 @@ tags: [labor-market, hiring, age-50plus, mentorship, smb, russia]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-26  # +consumer-side cross-link: Кульгин-тезис «40М пенсионеров untapped market» — отдельная страница для consumer-измерения сегмента (work-side остаётся здесь)
+updated: 2026-05-26  # +Petrosian articulated 60+ voice (60-летний юбилей, пост 2319 + book): explicit shift «цель→напряжение→усилие→результат» → «состояние→ясность→действие→результат как следствие»; «рачительность» как anti-consumerism mature mental model — strongest sample articulated senior-voice в нашем корпусе. +consumer-side cross-link: Кульгин-тезис «40М пенсионеров untapped market»
 prev_updated: 2026-05-24  # +глобальный silver-economy контекст (50+ владеют >50% мировых активов / ~80% US; половина прироста потреб-расходов 2024) + ICP-сигнал «50+ как потребитель» (Спиридонов id79772)
-sources: [sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md]
+sources: [sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -53,6 +53,44 @@ RU-разворот к 50+ как сотрудникам — частный сл
 2. **50+ как потребитель** — растущий платёжеспособный сегмент для продуктов саморазвития / продуктивности / здоровья. Для GRO это **потенциальный расширенный таргетинг**: silver-сегмент имеет деньги, время и растущий спрос на инструменты долголетия/продуктивности, но обычно игнорируется wellness/productivity-приложениями, заточенными под 25–40.
 
 `confidence: medium` — глобальные цифры пересказаны Спиридоновым, не из первичного отчёта; направление тренда согласуется с RU labor-market данными выше.
+
+## Articulated 60+ voice: Petrosian как self-described senior (2026-05-23)
+
+**Сильнейший articulated 60+ voice в нашем корпусе** — пост 2319 Армена Петросяна ([@stodnevka2](https://t.me/stodnevka2), 2026-05-23), приуроченный к **22034 дню рождения = 60 лет**. См. [[sources/2026-05-26-tg-stodnevka2-may-20-26-2026]].
+
+Петросян **explicitly формулирует возрастной шифт mental model**, что закрывает критический gap в нашем понимании сегмента (work-side и consumer-side обоснованы статистикой, но **voice from inside** был slabo articulated):
+
+### Operational shift (60-летний angle)
+
+| Frame | Goal-mode (typical pre-50) | State-mode (Petrosian, 60+) |
+|---|---|---|
+| Mechanics | цель → напряжение → усилие → результат → облегчение | состояние → ясность → действие → результат как следствие |
+| Возраст влияет на | сроки (хочется успеть) | критерии (что считать успехом) |
+| Доход | знак статуса, инвестировать | смелее тратить, меньше инвестировать |
+| Энергия | ресурс для рывка | условие живого интереса |
+| Свободное время | пустота, заполнять | пространство для думанья и восстановления |
+| Achievement | достичь, чтобы потом почувствовать себя хорошо | настроить состояние, из которого цель проявится сама |
+
+Petrosian-citation `[conf:medium, src:2026-05-23]`:
+> «Раньше действовал по схеме: цель, напряжение, усилие, результат, короткое облегчение. Теперь всё иначе: состояние, ясность, действие, результат как следствие. <...> Я всё меньше думаю о возрасте как об ограничении и всё больше, как о настройке оптики.»
+
+### «Рачительность» как mature anti-consumerism
+
+Petrosian вводит **«рачительность» = умение пользоваться тем, что уже дано**:
+> «Не покупать новый инструмент, если не освоил старый. Не искать новую систему, если не выжал пользу из той, что уже работает. Не относиться к своему времени, вниманию, здоровью и опыту как к чему-то бесконечному.»
+
+`[conf:medium, src:2026-05-23]`. Это **specifically 50+ mental model**, который **отличается** от younger-consumer стратегии («попробовать новое»). Для marketing-сегментации:
+- ❌ **Anti-pattern для 50+:** «новейший инструмент / последняя версия / try new»
+- ✅ **Pattern для 50+:** «выжми пользу из того, что уже работает» / «оптимизируй привычное» / «не разбрасывайся»
+
+### Implications для marketing 50+
+
+1. **Tonality:** не FOMO, не «не упусти», не youth-culture energy. Calm-confident, mature voice — пример [[canon/marketing-frameworks/petrosian-aging-as-optics-tune-state-over-goal]].
+2. **Hook:** не «успеть, пока ещё молод», а **«молодею через старение»** (Petrosian: «Старея, я молодею»). Counter-intuitive transformation, не fear-based timeline.
+3. **Product positioning к 50+:** инструмент **углубления** уже существующей практики (journaling, planning, financial discipline), не **замены** на «современное».
+4. **Не делать**: youth-culture imagery / slang / urgency framing. Это **immediately отчуждает** сегмент 50+.
+
+См. полный фрейм в [[canon/marketing-frameworks/petrosian-aging-as-optics-tune-state-over-goal]] + adjacency к [[canon/marketing-frameworks/petrosian-tool-fetish-minimalism]] (anti-tool-fetish = под-аспект рачительности).
 
 ## Что предлагает сегмент 50+
 

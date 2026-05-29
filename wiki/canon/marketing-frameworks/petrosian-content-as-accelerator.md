@@ -9,8 +9,8 @@ tags: [framework, content-marketing, positioning, narrative-hook, journaling, ow
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-22  # +пост 2310 (2026-05-18): вторая часть книги собрана за 2 мес (4× быстрее планового); «методом была сама рассылка»; emergent-method insight «план рождается из шагов»
-sources: [sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md]
+updated: 2026-05-26  # +дамп 20-26 мая: 2 PDF-книги (76 страниц совокупно) опубликованы как self-published lead-magnet; newsletter #13 «брать меньше за любимое» = cadence sustained ~90 дней; 3-уровневая воронка (PDF→newsletter→платная) подтверждает content-as-method structurally. +пост 2310 (2026-05-18): вторая часть книги собрана за 2 мес (4× быстрее планового); «методом была сама рассылка»; emergent-method insight «план рождается из шагов»
+sources: [sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md, sources/2026-05-26-petrosian-book-1-how-to-prepare-for-change.md, sources/2026-05-26-petrosian-book-2-how-to-start-changes.md]
 namespace: mkt
 ---
 
@@ -85,6 +85,16 @@ Petrosian эксплицитно связывает reframe с **algorithm-indep
 Это **класс задач, для которых content-as-method работает лучше планирования**: когда конечная форма непредсказуема, регулярная публичная фиксация шагов **порождает** план, а не исполняет его. Для GRO это даёт второй positioning-angle: дневник не только уплотняет день (observer-mode), но и **проявляет план задач, к которым «не подступаешься годами»**, через сам акт регулярной фиксации.
 
 **Newsletter cadence anchor.** Пост 2310 заканчивается стандартным CTA на еженедельную рассылку «Контур важного» (https://stodnevka.ru/kontur/) с анонсом нового письма про «задачу, к которой не подступаюсь годами». Это подтверждает sustained weekly cadence на горизонте ~5 недель — детали в [[evolving/industry-trends/max-messenger-author-rejection-2026]].
+
+## Update 2026-05-26: 2 PDF-книги как proof of content-output capacity + 3-уровневая воронка
+
+Пятый последовательный re-dump автора ([[sources/2026-05-26-tg-stodnevka2-may-20-26-2026]]) даёт **structural proof** для content-as-accelerator/method тезиса:
+
+**2 PDF-книги опубликованы** (PDF 2313/2314, EPUB 2315/2316) — Петросян поделился двумя своими руководствами: «Как подготовиться к переменам» (34 с., 2025) и «Как приступить к переменам» (42 с., 2025), self-published, см. [[sources/2026-05-26-petrosian-book-1-how-to-prepare-for-change]] и [[sources/2026-05-26-petrosian-book-2-how-to-start-changes]] для глубокого извлечения. **Совокупно 76 страниц codified content**. Это **observable evidence**, что content-as-method работает на **multi-year horizon**: book 1 опубликована в 2025 г., вторая часть — в 2025 г. Петросян сообщает (book 1, ch.1.3): «появились подкасты и внедрение ChatGPT в материалы о фрирайтинге и ведении дневников» — content-output скаling после 2022 reset.
+
+**Newsletter #13 = ~90-дневный sustained cadence.** Письмо «брать меньше за любимое» (посты 2321/2322, 2026-05-24/25) расширяет наблюдательный горизонт устойчивости с ~75 дней (предыдущий дамп) до **~90 дней** (письмо #7 = 2026-04-13 → письмо #13 = 2026-05-26 = 6 weeks без пропусков), `[conf:high, src:2026-05-26]`.
+
+**3-уровневая воронка** (free PDF-books → free TG + newsletter → paid Стодневка) полностью артикулирована в посте 2312 (2026-05-20). См. полный разбор в [[evolving/content-trends/petrosian-summer-launch-lead-magnet-funnel]]. **Implication для content-as-method:** newsletter cadence — не self-contained practice, а **mid-funnel piece** more sophisticated content-architecture. Содержит **structural proof** того, что content-as-method works on multi-asset multi-horizon scale, не только на single-track newsletter.
 
 ## Зачем это релевантно GRO
 

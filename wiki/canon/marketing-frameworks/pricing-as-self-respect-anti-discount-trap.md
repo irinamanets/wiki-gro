@@ -9,8 +9,8 @@ tags: [framework, pricing, smb, discount-trap, positioning, self-worth]
 confidence: medium
 stale: false
 created: 2026-05-24
-updated: 2026-05-24
-sources: [sources/2026-05-24-condense-vcru-chunk5.md]
+updated: 2026-05-26  # +cross-link на operational playbook eco-price-raise (Masters × Самозанятые.рф)
+sources: [sources/2026-05-24-condense-vcru-chunk5.md, sources/2026-05-26-tg-selfworkru-may-19-26-2026.md]
 namespace: mkt
 ---
 
@@ -36,9 +36,15 @@ namespace: mkt
 2. **Контент-хук для SMB-аудитории (Сегмент 2).** «Скидки из доброты разоряют» / «низкая цена = неуважение к своему труду» — сильный consideration-материал для предпринимательской аудитории.
 3. **Self-worth angle.** Перенос в продуктовый нарратив: уважение к своему времени и труду как мотив платить за инструмент GRO, а не экономить на себе.
 
+## Парный operational playbook — «как поднимать без потери базы» (Masters × Самозанятые.рф, 2026-05-21)
+
+Эта страница отвечает на вопрос **«зачем» поднимать** цену (философско-психологический фрейм). На вопрос **«как» поднимать без шока для базы** отвечает соседняя страница — [[canon/marketing-frameworks/eco-price-raise-playbook-masters|«Экологичное повышение цены — playbook для самозанятых сервисников»]]. Источник второй — co-branded carousel приложения Masters в Telegram-канале @selfworkru (см. [[sources/2026-05-26-tg-selfworkru-may-19-26-2026]]). 5 шагов: (1) обоснование, не оправдание; (2) предупреждение за 2–4 недели; (3) плавность 10–15% вместо шока; (4) дифференциация постоянных vs новых (grandfathering / бонус / пакетный transit); (5) готовность отпустить часть базы как запланированный исход. Используется в связке: философский reframe → операционный playbook.
+
 ## Связанные страницы
 
-- [[sources/2026-05-24-condense-vcru-chunk5]] — первоисточник
+- [[sources/2026-05-24-condense-vcru-chunk5]] — первоисточник кейса флориста
+- [[sources/2026-05-26-tg-selfworkru-may-19-26-2026]] — парный operational источник (Masters carousel)
+- [[canon/marketing-frameworks/eco-price-raise-playbook-masters]] — operational playbook «как» (соседнее звено)
 - [[canon/marketing-frameworks/premium-perception-through-price]] — цена как сигнал ценности
 - [[canon/marketing-frameworks/low-margin-customer-quality-driver-tokovinin]] — низкая маржа = худший клиент
 - [[canon/marketing-frameworks/populism-discount-rule-tokovinin]] — правило против популистских скидок

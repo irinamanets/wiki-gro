@@ -9,8 +9,8 @@ tags: [cvm, personalization, real-time, decisioning, martech, genai, awareness, 
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-16  # +Деловой Мир 2026-05-14: 64% персонализации «для внешнего эффекта» — operational gap между CVM-потенциалом и industry-реализацией
-sources: [sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-inc-personalization-vs-manipulation.md, sources/2026-05-14-dzen-delovoymir-smart-consumption-marketing-2026.md]
+updated: 2026-05-26  # +@temno/Морейнис пост 7843: «ты кто? → что интересно именно тебе» — entry-level персонализация под каждого посетителя как latent-demand зона
+sources: [sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-inc-personalization-vs-manipulation.md, sources/2026-05-14-dzen-delovoymir-smart-consumption-marketing-2026.md, sources/2026-05-26-tg-temno-moreynis-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -127,9 +127,21 @@ GRO — не CVM-платформа (GRO — продукт личной про�
 
 Это значит: **CVM-канон описанный выше — destination, не текущая реальность** для большинства игроков. Подробный gap-анализ: [[evolving/industry-trends/optical-personalization-gap-2026]]. Strategic ответ Кравченко (Insight Analytics) — предиктивное управление вместо реактивных скидок: [[canon/marketing-frameworks/kravchenko-predictive-loyalty-2026]].
 
+## Update 2026-05-26 — entry-level персонализация «ты кто? → что интересно именно тебе» (Морейнис)
+
+Аркадий Морейнис ([@temno](https://t.me/temno), [пост 7843 от 2026-05-20](https://t.me/temno/7843), [[sources/2026-05-26-tg-temno-moreynis-may-20-26-2026|источник]]) формулирует **минимальную, entry-level версию** того же CVM-паттерна — но как стартап-возможность, а не enterprise-стек:
+
+> Как бы ты ни извращался, ты никогда не сможешь сделать главную страницу своего сайта интересной или полезной для всех. … Вот было бы здорово, если бы сайт сам мог быстренько спросить у каждого посетителя «ты кто?» — после чего мгновенно и автоматически объяснить ему, что тут есть интересного именно для него. И это уже можно сделать.
+
+Это **input-слой CVM в простейшем виде**: вместо real-time event-capture из продукта — прямой micro-вопрос на входе («ты кто?») → мгновенный персонализированный контент. Морейнис отмечает, что **в темах, где крутятся реальные деньги, за такое охотно платят** — то есть это latent-demand зона (см. [[canon/marketing-frameworks/latent-demand-ai-startup-search-moreynis]]): большинство сайтов хотят персонализировать landing, но не делают из-за сложности; ИИ обнуляет barrier.
+
+**Связь с каноном страницы:** это не противоречит 4-слойной архитектуре, а показывает её «низкий конец» — explicit self-segmentation на входе вместо implicit behavioral profiling. Для GRO прямо применимо к онбордингу: micro-вопрос «что у тебя болит?» на первом экране = explicit-аналог real-time decisioning (усиливает приём 4 в § «Маркетинговое применение для GRO» выше).
+
 ## Связанные страницы
 
 - [[volatile-strict/industry-news/megafon-megaritm-cvm-platform-2026-04]] — конкретный пример 2026-04
+- [[canon/marketing-frameworks/latent-demand-ai-startup-search-moreynis]] — entry-level персонализация как latent-demand зона (Морейнис, пост 7843)
+- [[sources/2026-05-26-tg-temno-moreynis-may-20-26-2026]] — источник entry-level персонализации
 - [[canon/marketing-frameworks/ai-personalization-4-layer-architecture]] — generalized 4-layer architecture (universal паттерн)
 - [[canon/marketing-frameworks/yudin-personalization-vs-manipulation-test]] — этический тест Юдина
 - [[evolving/industry-trends/ai-personalization-industrial-shift-2026]] — индустриальный нарратив 2024–2026

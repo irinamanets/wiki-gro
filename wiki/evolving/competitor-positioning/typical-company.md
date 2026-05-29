@@ -9,8 +9,8 @@ tags: [competitor, indirect-competitor, management, paid-community, telegram, co
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-23  # +Continuity-update посты 1338-1339 (20-22 мая, шестой ingest): 2 новых content-pillar'а (HBR research-дайджест с module-mapping; книжная подборка) + раскрыто имя ведущей (Валерия Розова). Извлечены: canon hbr-superteam-7-practices-friedman + content-trends research-digest-to-course-module-mapping. Prior: пост 1337 (18 мая) CEO-succession + operational-ceo-as-strategist-cook; mini-dump 2026-05-16 (AI-нарратив pivot 1→2 фаза); третий ingest 6-12 мая (cadence восстановлен, productized лестница раскрыта)
-sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md, sources/2026-05-23-tg-typicalcompany-may-20-22-2026.md]
+updated: 2026-05-26  # +Continuity-update посты 1340-1341 (25 мая, седьмой ingest): poll → expert-quote follow-up формат (2-постовая связка), цитирование Кайлы Велонски/Gartner про «рефлексы изменений» как главный навык 2026. Извлечена canon change-reflexes-velonski-gartner (operational layer change-management между Kotter-проектами). Prior: посты 1338-1339 (20-22 мая, шестой ingest) — 2 новых content-pillar'а (HBR research-дайджест с module-mapping; книжная подборка) + раскрыто имя ведущей (Валерия Розова); пост 1337 (18 мая) CEO-succession + operational-ceo-as-strategist-cook; mini-dump 2026-05-16 (AI-нарратив pivot 1→2 фаза); третий ingest 6-12 мая (cadence восстановлен, productized лестница раскрыта)
+sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md, sources/2026-05-23-tg-typicalcompany-may-20-22-2026.md, sources/2026-05-26-tg-typicalcompany-may-25-2026-change-reflexes.md]
 namespace: mkt
 ---
 
@@ -232,6 +232,32 @@ TYPICAL позиционируется как «человеко-centric» manag
   - (в) Появляется ли публичный bio/LinkedIn Розовой → upgrade confidence на style-marker'ах до `high`?
   - (г) Возвращается ли product-bridge (module/group/consulting) в case-study посты, или 1338 был исключением?
 
+## Continuity-update (посты 1340-1341, 25 мая 2026 — седьмой ingest)
+
+Двухпостовая связка ([[sources/2026-05-26-tg-typicalcompany-may-25-2026-change-reflexes]]) от 25 мая — **третий типизированный content-формат TYPICAL за месяц** наблюдения и **второй** research-цитирующий пост после HBR-дайджеста.
+
+- **Новый content-формат: «опрос → expert-quote follow-up»** (двухпостовая связка). Пост 1340 — Telegram-опрос «Прокачан ли у вас главный навык 2026 года?» как hook. Пост 1341 — follow-up с экспертной цитатой Кайлы Велонски (Gartner) и practical-механикой («1 микро-изменение / неделя»). Это **нативная Telegram-связка**, использующая poll-механику для активного вовлечения + classic cliffhanger-структуру. Отличается от research-digest-to-course-module-mapping (там — один пост с N модуль-тегами) и book-recommendation-carousel (там — single-image композит). Этот формат **не имеет module-tag моста к продукту** (нет ссылок на модули интенсива / consulting) — pure educational play без conversion-bridge'а. Watchlist-пункт (г) «возвращается ли product-bridge» **подтверждён в негативе** для этого поста — TYPICAL варьирует баланс «чистое edu» vs «edu+bridge», 1338 был с bridge'ом, 1341 — без.
+
+- **Закрепляется research-цитирующий пласт.** Второй research-пост за неделю (HBR-Friedman → Gartner-Welonski) подтверждает устойчивость формата «авторитетный western research + RU-перевод/переупаковка». Это **подтверждает гипотезу зрелой content-машины**, а не разовых экспериментов. Watchlist-пункт (б) «продолжается ли research-дайджест» — **подтверждён** (формат варьируется: 1338 — module-mapping mid-post, 1341 — practical-механика mid-post; в обоих случаях research цитируется как payload).
+
+- **Кайла Велонски/Gartner как новый цитируемый эксперт.** Раньше TYPICAL цитировал в основном американские бизнес-источники (HBR, Axios, Fortune, Anthropic, OpenAI, Apple). Велонски — director-level HR researcher в Gartner — **первое цитирование research-аналитика HR-вертикали**. Это **смежное** к доменам предыдущих цитат, но смещает content-фокус ближе к HR-теме (что ближе к GRO target audience-HRD'ов, см. [[canon/target-audience/hrd-portrait-2025-2026]]). Сигнал: TYPICAL может развернуть HR-research-стрим как отдельный pillar.
+
+- **Имя Розовой пока не закрепилось в подписи.** Watchlist-пункт (а): пост 1341 не подписан личным именем (только `@typicalcompany` в финале). То есть **раскрытие в посте 1339 — не systematic перепозиционирование канала**, а ad-hoc появление в личных постах-подборках. Гибридная модель (см. §«Personal voice, но коллективный бренд») остаётся в силе: бренд держит коллективную identity, имя выходит только в персональных-by-design постах (книжная подборка).
+
+- **Cadence — стабилен.** 2 поста за 1 день (оба от 25 мая, оба в 13:11 UTC — это native Telegram-механика «опрос + текст подряд») после поста 1339 (22 мая). За неделю — 3 поста (1339/1340/1341). Watchlist «регулярная публикация» — **подтверждён**.
+
+- **Anchor case: COVID-19 как универсальный референс.** В посте 1341 TYPICAL/Розова использует пандемию COVID-19 как «самый жёсткий пример из недавних, что мы все вместе пережили» — кросс-аудиторный анкер. Это **новый рамочный приём** в content'е TYPICAL: до этого использовались **специфичные кейсы** (Apple, OpenAI, Tim Cook, HBR-research). COVID-19 — первый раз, когда используется **universal experience anchor**. Низкозатратный приём с высокой воспроизводимостью.
+
+- **Confidence-уровень profile** сохраняется на `medium-high`. Добавлены наблюдения: третий новый content-формат за месяц (poll→follow-up), второй research-пост подряд (research-цитирующий pillar — устойчив), Велонски/Gartner как новый цитируемый эксперт (HR-вертикаль).
+
+- **Фактологический caveat — снова в силе.** Цитата Велонски «навыки, применимые к множеству сценариев изменений и через практику доведённые до интуитивного уровня» дана TYPICAL без указания конкретного research-документа — только должность и линк на press release Gartner 2025-10-09. При републикации в content GRO — атрибутировать к Велонски/Gartner и сверять с оригинальным press release. См. [[canon/marketing-frameworks/change-reflexes-velonski-gartner]] §«Confidence» и §«Anti-pattern».
+
+- **Watchlist на следующий ingest:**
+  - (а) Развивается ли HR-research-стрим как отдельный pillar (3-й research-пост из HR-вертикали)?
+  - (б) Возвращается ли product-bridge в research-постах (после 1338 with-bridge / 1341 без)?
+  - (в) Появляется ли новый Telegram-native механический формат (опрос/quiz/comment-thread) после успеха poll→follow-up?
+  - (г) Используется ли universal experience anchor (COVID-19, war, climate, tech-shifts) повторно или это был разовый ход?
+
 ## Contradictions
 
 _Нет зафиксированных противоречий._
@@ -262,7 +288,9 @@ _13 pages link to this one._
 - [[sources/2026-05-14-tg-typicalcompany-may-6-12-2026]]
 - [[sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook]]
 - [[sources/2026-05-23-tg-typicalcompany-may-20-22-2026]]
+- [[sources/2026-05-26-tg-typicalcompany-may-25-2026-change-reflexes]]
 - [[canon/marketing-frameworks/operational-ceo-as-strategist-cook]]
 - [[canon/marketing-frameworks/hbr-superteam-7-practices-friedman]]
+- [[canon/marketing-frameworks/change-reflexes-velonski-gartner]]
 - [[evolving/content-trends/research-digest-to-course-module-mapping]]
 - [[evolving/content-trends/book-recommendation-carousel-tg]]

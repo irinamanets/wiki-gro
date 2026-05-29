@@ -9,8 +9,8 @@ tags: [pet-project, bootstrap, anti-pattern, founder-mindset, mvp, solopreneursh
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
+updated: 2026-05-26  # +cross-link на YC RFS bootstrap-filter (Tabunov пост 635, 5-й ingest): применение 5 НЕТ к YC Summer 2026 RFS — фильтрация 15 идей → 4 проходят
+sources: [sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md]
 namespace: mkt
 ---
 
@@ -128,7 +128,12 @@ Operational-чек-лист от Михаила Табунова ([[sources/2026
 - [[canon/marketing-frameworks/blank-when-to-raise-investment]] — fundament для НЕТ #5
 - [[canon/marketing-frameworks/definition-of-done-product-positioning]] — fundament для НЕТ #1
 - [[canon/marketing-frameworks/agent-vs-saas-pricing-arbitrage]] — операционный pattern wrapper-stack под НЕТ #4
+- [[canon/marketing-frameworks/yc-rfs-bootstrap-filter-tabunov]] — applied 5 НЕТ к YC Summer 2026 RFS (пост 635, 5-й ingest) — 15 идей → 4 проходят
+- [[canon/marketing-frameworks/founder-vs-passerby-mindset-tabunov]] — persistence-фрейм для пройденных через 5 НЕТ проектов (1-2 мес / 9 мес-2 года / 3-5 лет)
+- [[canon/marketing-frameworks/cold-outreach-with-found-problem-removewise]] — operational illustration НЕТ #3 (validation через прямую продажу) и НЕТ #4 (Excel + email-скрипты)
+- [[evolving-strict/competitor-metrics/removewise-deepfake-takedown-saas-21k-mrr]] — RemoveWise — кейс соответствия всем 5 НЕТ
 - [[evolving/content-trends/your-pet-project-channel-hooks]] — host-страница hooks канала (содержит этот чеклист как hook)
 - [[evolving-strict/competitor-metrics/yp-may-2026-50k-mrr-app-cluster]] — кейсы реализаций 5 НЕТ
 - [[canon/target-audience/gro-segments]] — кому адресовать
-- [[sources/2026-05-13-tg-your-pet-project-may-6-13-2026]] — источник
+- [[sources/2026-05-13-tg-your-pet-project-may-6-13-2026]] — источник 5 НЕТ
+- [[sources/2026-05-26-tg-your-pet-project-may-20-25-2026]] — применение к YC RFS (5-й ingest)

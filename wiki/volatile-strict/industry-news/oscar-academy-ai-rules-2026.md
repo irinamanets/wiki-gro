@@ -9,8 +9,8 @@ tags: [oscar, film, ai, regulation, content, news]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-breakingtrends-apr21-may05.md]
+updated: 2026-05-26  # +Golden Globe corroboration через РБК @rbc_news 148846 (8 мая 2026, утренний выпуск): «Кинопремия «Золотой глобус» установила новые правила об использовании искусственного интеллекта в фильмах». Confirms predicted cascade Oscar→Golden Globes за ~3-5 дней.
+sources: [sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-26-tg-rbc-news-may-7-8-2026.md]
 namespace: mkt
 ---
 
@@ -52,9 +52,21 @@ namespace: mkt
 **Caveat:**
 - Использовать как **counter-balance** для AI-евангелизма GRO. GRO позиционирует AI как инструмент **рефлексии**, не как **замену human authorship**.
 
+## Апдейт 2026-05-26 — Golden Globe corroboration: predicted cascade сработал
+
+Через [[sources/2026-05-26-tg-rbc-news-may-7-8-2026|@rbc_news пост 148846, утренний выпуск 8 мая 2026]] — РБК фиксирует: «Кинопремия «Золотой глобус» установила новые правила об использовании искусственного интеллекта в фильмах». `[conf:medium, src:2026-05-08]`
+
+**Что это подтверждает:** в исходных импликациях этой страницы был прогноз — «Oscar — это leading indicator для всех творческих премий: BAFTA, **Golden Globes**, Emmy, Cannes — будут вынуждены реагировать». Прогноз сработал **за ~5 дней** (Oscar rules — 3 мая, Golden Globe rules — 8 мая). Это **fastest-tier cascade** в творческих премиях.
+
+**Уточнение шкалы:** РБК даёт только общую формулировку «новые правила об использовании ИИ», без specifics (актёры? сценарии? disclosure?). Это **secondary signal**, не первичная фактура — конкретные пункты Golden Globe rules **не verified** в этом ingest'е. Trackable при появлении первоисточника Golden Globe.
+
+**Implication для leading-indicator модели:** теперь у нас **2 из 4 крупнейших** американских/международных творческих премий (Oscar + Golden Globe) формализовали AI-rules в окне май 2026. BAFTA и Cannes — следующие predicted-to-follow в окне **3-12 месяцев**. Маркетинговые конкурсы (Cannes Lions, Effie) — за ними.
+
+**Implication для маркетинга GRO:** confidence в «human-authorship становится differentiator» **повышается** — теперь это **two-source cascade pattern**, не single-event. AI-disclosure норма прокладывает себе путь как mainstream standard в creative industries.
+
 ## TTL и план верификации
 
-- **TTL: 60 дней** (до 2026-07-04). Проверить: (1) полный текст правил Oscar Academy; (2) реакция голливудских студий; (3) аналогичные правила в BAFTA / Cannes / другие премии.
+- **TTL: 60 дней** (до 2026-07-04). Проверить: (1) полный текст правил Oscar Academy; (2) полный текст правил Golden Globe (новый item); (3) реакция голливудских студий; (4) аналогичные правила в BAFTA / Cannes / другие премии.
 
 ## Связанные страницы
 
@@ -63,3 +75,4 @@ namespace: mkt
 - [[evolving/content-trends/ai-content-production-multiagent-2026]] — практика AI-content
 - [[evolving/content-trends/ai-text-detection-landscape-2026]] — disclosure паттерны
 - [[sources/2026-05-05-tg-breakingtrends-apr21-may05]] — первоисточник дампа
+- [[sources/2026-05-26-tg-rbc-news-may-7-8-2026]] — Golden Globe corroboration

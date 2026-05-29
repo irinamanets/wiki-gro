@@ -9,8 +9,8 @@ tags: [brand-guidelines, tone-of-voice, founder, content, telegram, author-chann
 confidence: high
 stale: false
 created: 2026-05-12
-updated: 2026-05-20
-sources: [sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md]
+updated: 2026-05-26
+sources: [sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-14-tg-eklapshinaofficial-896-897.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md, sources/2026-05-26-tg-eklapshinaofficial-908-914.md]
 namespace: mkt
 ---
 
@@ -209,18 +209,87 @@ namespace: mkt
 | Lifestyle/эстетический пласт | Да (#903) | Новый: founder держит человеческий регистр рядом с экспертным |
 | Soft product-CTA | Да (#907) | Первый явный, но мягкий продуктовый призыв (GRO-тренажёры + партнёрский курс) |
 
+## Incremental delta 2026-05-26 (посты #908-914 — 7 постов / 4 framework / vulnerability rubric)
+
+Очередные 7 постов за 20-26 мая 2026 ([[sources/2026-05-26-tg-eklapshinaofficial-908-914]]). **Самый плотный по framework-весу срез** за период наблюдения — 4 новых canonical-фреймворка из 7 постов. Подтверждает базовые маркеры, добавляет 3 уточнения и 1 newly-named рубрику.
+
+### Подтверждение: meta-рамка автора — поиск парадоксов
+
+Пост #908 «Тренд без парадокса не имеет смысла» эксплицирует уже наблюдавшийся пол-латентный паттерн авторского мышления: **построение differentiating-thesis через resolved-парадокс**. Раньше это было `tacit knowledge` (видно в #897 «Архитектор/Нео», в #906 two-paths-стратегии). С #908 автор **declares the method openly**: «парадоксы максимально растягивают картинку. Как если пиксели в экране растянуть в зерно и заглянуть прямо в матрицу». Это **родительская meta-рамка** под все её прикладные ([[canon/marketing-frameworks/lapshina-paradox-as-trend-detector]]).
+
+**Operational implication для GRO:** теперь каждый new framework от Лапшиной проще декодировать — ищи в нём resolved парадокс.
+
+### Подтверждение + уточнение: исторический кейс → деловой тезис (hashtag-free)
+
+Пост #909 (Микеланджело → «селфмейд наоборот») — каноничный pattern из исходного дампа (#История_Не_Учит) **в hashtag-free long-form варианте**. Подтверждает тренд off-tag long-form-эссе из delta 2026-05-14. **Уточнение:** такие эссе **систематически** строят differentiating-thesis через инверсию (не «селфмейд = с нуля», а «селфмейд = автономия + отказ»). Полная рамка — [[canon/marketing-frameworks/lapshina-selfmade-autonomy-reframe]].
+
+### Новый sub-формат: counter-paralysis dialogue with young audience
+
+Пост #910 «Отсечь лишние вопросы» — **новый sub-формат**: founder воспроизводит **диалог с молодым человеком** + поверх него строит cognitive-bias-фрейм. Это **диалоговый формат**, продолжающий тренд из #907 (диалог с экспертом Шкипиным), но теперь — с young-talent аудиторией.
+
+**Operational TOV-marker:** автор использует **встречный вопрос** («а тебе зачем эта информация?») как **operational tool**, не как rhetoric device. Это переносимый pattern для GRO product (coaching-flow): когда пользователь задаёт абстрактные вопросы, продукт встречно спрашивает «как это изменит твоё действие сегодня?». Полная рамка — [[canon/marketing-frameworks/lapshina-extra-questions-cognitive-paralysis]].
+
+### Новая рубрика-маркер: `#страшнопризнаться` (vulnerability disclosure)
+
+Пост #912 «Защитить себя» вводит **новую рубрику `#страшнопризнаться`**, не зафиксированную в исходной таблице 10 рубрик. Это **экстремальный case реализации** уже описанного «уязвимость как инструмент доверия» паттерна (раздел 1 этой страницы).
+
+**Key наблюдение:** пост #912 не имеет business-tie reframe в финале. Это **разрыв обычного формата** «личная история → деловой тезис». Маркер показывает, что у Лапшиной существует **отдельный sub-формат полностью-personal disclosure**, без operational reframe. **Для GRO content-team:** **не переносится** в продуктовый бренд (GRO — продуктовая коммуникация, не личный канал).
+
+### Operational signal как founder-as-hiring-CEO (новый ракурс)
+
+Пост #913 «Взгляд СЕО» — **первый наблюдаемый случай** в срезе, когда Лапшина говорит не как **investor**/**author**/**culture commentator**, а как **practicing hiring CEO**: «я ищу людей с приставкой AI в каждой функции. Я постоянно ищу (приходите, кстати!) везде. Хуже всего пока мне даётся контент и маркетинг, но и его взломаем».
+
+**Это новый TOV-ракурс:** founder использует канал как **direct hiring channel**, прямо вместе с цитатой Хуанга об AI-найме. См. также добавление 8-й data-точки в [[evolving/industry-trends/ai-for-managers-2025-2026]].
+
+### Подтверждение: thumbnail-aspirational vs text-analytical (2-й exemplar)
+
+Пост #911 (Vasilchuk-подкаст) **подтверждает паттерн уточнения видео-обложек** из delta 2026-05-20 (#904 Duolingo). YT-thumbnail «**КРИЗИС = НОВЫЕ ВОЗМОЖНОСТИ**» — aspirational hook, текст поста (маржа 8-15%, текучка 70%+) — analytical content. **Это второй exemplar системного паттерна**, не разовая аномалия:
+
+| Видео | Thumbnail hook | Text register |
+|---|---|---|
+| #904 Duolingo | «ЗЕЛЕНАЯ СОВА ПРИДЕТ ЗА ТОБОЙ» (threat) | Analytical (3 insights) |
+| #911 Vasilchuk | «КРИЗИС = НОВЫЕ ВОЗМОЖНОСТИ» (aspirational) | Analytical (4 portfolio-вопроса + индустрия-метрики) |
+
+**Operational implication:** видео-выпуски канала строятся **layered**: thumbnail = emotional/aspirational attention-hook, text-описание = analytical preview. **Для GRO content-team:** переносим — видео-обёртки для GRO-эссе допускают яркий тоновой контраст с текстом самого эссе, без нарушения «ценность > виральность».
+
+### Каноническая рамка post-mortem (#914)
+
+Пост #914 «Проектный ~~подвиг~~ опыт» — **новая каноническая рамка** разбора проектов, **переданная Лапшиной от старшего партнёра** (paraphrased authority). Это **3-й каноничный авторский framework** в репертуаре (после lapshina-personal-strategy-two-paths и lapshina-architect-new-type-founder-archetype), но первый, переданный **через other voice** (паттерн, родственный диалогу с Шкипиным в #907). Полная рамка — [[canon/marketing-frameworks/lapshina-project-debrief-4-principles]].
+
+**TOV-marker:** автор не претендует на authorship — атрибуция «партнёр научил» демонстрирует **humble paraphrasing** authority. Для GRO content-team — переносимо: founder может **delegate authority** другому эксперту в посте, при этом сохраняя свой voice.
+
+### Обновление operational TOV-checklist
+
+| Маркер | Этот срез | Уточнение |
+|---|---|---|
+| Парадокс как meta-метод | Explicit decl (#908) | Раньше tacit, теперь openly artikulated — meta-рамка под всё |
+| Исторический кейс hashtag-free | Подтверждено (#909) | Систематически строит inverted thesis |
+| Counter-paralysis dialogue | Новый sub-формат (#910) | Встречный вопрос как operational tool |
+| `#страшнопризнаться` рубрика | Newly-named (#912) | Vulnerability без business-reframe — отдельный sub-формат |
+| Founder-as-hiring-CEO voice | Новый ракурс (#913) | Channel как hiring channel |
+| Thumbnail-layered messaging | 2-й exemplar (#911) | Подтверждение паттерна, не аномалия |
+| Paraphrased authority | Новый паттерн (#914) | Передача рамки другого эксперта |
+
 ## Связанные страницы
 
 - [[canon/brand-guidelines/gro-typography]] — визуальный слой brand-guidelines GRO
 - [[canon/positioning/gro-value-proposition]] — как TOV Лапшиной отражается в продуктовом позиционировании
 - [[canon/product-knowledge/gro-team]] — полный профиль команды GRO, включая роль Лапшиной
 - [[canon/marketing-frameworks/lapshina-architect-new-type-founder-archetype]] — авторский framework Лапшиной про founder-архетип (cinema-metaphor бизнес-разбор #897)
+- [[canon/marketing-frameworks/lapshina-paradox-as-trend-detector]] — meta-рамка автора (#908)
+- [[canon/marketing-frameworks/lapshina-selfmade-autonomy-reframe]] — reframe «селфмейд» через Микеланджело (#909)
+- [[canon/marketing-frameworks/lapshina-extra-questions-cognitive-paralysis]] — counter-paralysis для young audience (#910)
+- [[canon/marketing-frameworks/lapshina-project-debrief-4-principles]] — 4 принципа разбора проектов (#914)
+- [[canon/marketing-frameworks/vasilchuk-portfolio-restaurant-system]] — Vasilchuk-подкаст разбор (#911)
+- [[evolving-strict/market-data/ru-restaurant-industry-2026]] — industry-метрики из #911
 - [[evolving/content-trends/eklapshinaofficial-channel-patterns]] — детальный разбор форматов и структуры канала
 - [[evolving/content-trends/engineered-scandal-attention-playbook]] — 7-шаговый playbook из поста #896 как anti-pattern для GRO
 - [[evolving/content-trends/podcast-driven-author-channel-patterns]] — паттерны подкаст-driven каналов (@sokolay как сравнение)
+- [[evolving/industry-trends/ai-for-managers-2025-2026]] — 8-я data-точка (Лапшина-#913)
 - [[sources/2026-05-12-tg-eklapshinaofficial]] — исходный дамп (822 поста, базовый срез)
 - [[sources/2026-05-14-tg-eklapshinaofficial-896-897]] — incremental delta (посты #896-897)
 - [[sources/2026-05-19-tg-eklapshinaofficial-903-907]] — incremental delta (посты #903-907)
+- [[sources/2026-05-26-tg-eklapshinaofficial-908-914]] — incremental delta (посты #908-914)
 - [[canon/marketing-frameworks/lapshina-personal-strategy-two-paths]] — рамка личной стратегии (#906)
 - [[canon/marketing-frameworks/ai-not-marketing-system-shkipin]] — AI не заменяет маркетинг-систему (#907)
 - [[evolving/content-trends/duolingo-gamification-monetization-breakdown]] — Duolingo разбор + провокационный хук (#904)

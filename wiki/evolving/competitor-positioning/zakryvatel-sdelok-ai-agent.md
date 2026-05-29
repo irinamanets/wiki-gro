@@ -9,8 +9,8 @@ tags: [ai, sales, agent, smb, productized-methodology, russia, competitor]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-19
-sources: [sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md]
+updated: 2026-05-28
+sources: [sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md]
 namespace: mkt
 ---
 
@@ -100,6 +100,40 @@ GRO **не конкурирует прямо** с «Закрывателем с�
 
 4. **Reality show as demo-vehicle.** Шевелев продемонстрировал агент **в реалити шоу**, а не в маркетинг-материалах. Параллель для GRO — см. [[canon/marketing-frameworks/business-reality-show-format]] для облегчённой адаптации.
 
+## Cycle-5 update (2026-05-26, post 2306+2321): 400+ бизнесов плато + cohort-validation finale
+
+Из [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] следующие обновления к positioning'у:
+
+### 1. Числовое плато на 400+ бизнесах
+Пост 2306 повторяет «помогают повысить продажи в **400+ бизнесах**» — то же число, что было заявлено в re-promo 2026-05-19 ([[sources/2026-05-19-tg-olegcloser-may-14-19-2026]] пост 2305). Это **числовое плато** на отрезке мая 2026 — рост остановился на 400+, что либо (a) реальный потолок текущей capacity, либо (b) round-number bias в self-reported метрике. `[conf:low, src:2026-05-22]` — единственный источник, не верифицировано.
+
+### 2. Anchor-validation через cohort-finale
+Финальная карусель «ДО/ПОСЛЕ» (медиа 2315-2320) демонстрирует **валидацию методологии**, на которой обучен агент: Юлия Краснова напрямую применила [[canon/marketing-frameworks/sales-100-formula-shevelev|формулу 100%]] к сделке 560 тыс. ₽; Артур Рощупкин внедрил формулу 100% в каждую карточку CRM. Это **первый случай** в цикле ingest'ов канала, когда работа агента подтверждается не «300+ бизнесов» (generic), а **конкретными именами и цифрами**. Сильно повышает confidence для positioning'а как «verified productized methodology».
+
+### 3. Новый поток курса 27 мая = новая cohort = новые publicly-tracked cases
+Пост 2321 анонсирует старт следующего потока «ПРОКАЧКИ с ИИ» 27 мая 2026 с участием «десятков предпринимателей» из новых ниш (строительство, производство, 1С, парусные регаты, отделочные материалы, модульные дома). Доступ к агенту сохраняется как **bundled bonus**. Это очередная **demo-vehicle wave** для агента — следующий ingest канала покажет новые case-results.
+
+### 4. Полная программа курса задокументирована (13 модулей)
+Впервые в открытом контенте канала зафиксирован **полный курс-curriculum**:
+1. Воронка продаж с высокой конверсией и сильным КЭВом
+2. Продающий оффер
+3. Скрипты продаж с высокой конверсией
+4. Продажи в переписке, лучшие связки и фразы
+5. Продающее коммерческое предложение
+6. Цепочка касаний до оплаты
+7. Отстройка в условиях высокой конкуренции
+8. Усилители доверия
+9. Средний чек
+10. Банк возражений
+11. Грамотная работа с базой
+12. Отказники и зависшие
+13. Повторные продажи
+
+Главная цель курса (явно прописана) — **«уже в первые 3 недели прокачать продажи и получить результаты в деньгах»**. Это outcome-driven positioning, **3-недельный** timeframe — короткий, defensible, и подкреплён результатами «Рекордного апреля». «Закрыватель сделок» позиционируется как **bonus-trigger для покупки этого 13-модульного курса**.
+
+### 5. Marat-case как retention proof
+Пост 2326 (forwarded от Marat) демонстрирует, что **результаты сохраняются после окончания cohort'а** — Marat выстроил продажи раньше, и в мае 2026 (post-cohort) впервые за 12 лет ушёл в отпуск. Для positioning'а это **long-term retention evidence** — не «получили рекорд месяца», а «система продолжает работать». Косвенно validates агент: формула 100% не сломалась за пределами cohort-фазы.
+
 ## Сегмент конкурентного давления
 
 В русском sales-AI пространстве «Закрыватель сделок» соседствует с:
@@ -114,9 +148,13 @@ GRO **не конкурирует прямо** с «Закрывателем с�
 
 - [[sources/2026-05-05-tg-olegcloser-mar-may-2026]] — источник-якорь
 - [[sources/2026-05-19-tg-olegcloser-may-14-19-2026]] — re-promo пост-cohort (пост 2305)
+- [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] — cycle-5 update (плато 400+, cohort-finale validation, новый поток 27 мая)
 - [[canon/marketing-frameworks/sales-system-18-holes-shevelev]] — фреймворк диагностики (агент решает дыру №5)
 - [[canon/marketing-frameworks/sales-100-formula-shevelev]] — методология, на которой обучен агент
+- [[canon/marketing-frameworks/sales-3-step-crisis-response-shevelev]] — upper-funnel методология, обещанная агентом
+- [[canon/marketing-frameworks/three-legko-converter-technique-shevelev]] — техника, которую агент применяет в pre-cohort entry
 - [[canon/marketing-frameworks/business-reality-show-format]] — demo-vehicle для агента
+- [[evolving-strict/campaign-metrics/recordnyi-aprel-finale-results-shevelev-2026]] — финальные числовые результаты применения методологии агента
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — целевая аудитория агента
 - [[evolving/competitor-positioning/ru-nocode-ai-agent-platforms-2026]] — backend-провайдеры (вероятный технический base)
 - [[evolving/industry-trends/ai-agent-economy-2026]] — макро-контекст AI-агентов

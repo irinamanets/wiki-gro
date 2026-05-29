@@ -9,8 +9,8 @@ tags: [content, telegram, author-blogger, native-advertising, sponsored-ad, netw
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md]
+updated: 2026-05-26  # +третий дамп (20–26 мая, 7 постов): продолжение паттерна — pre-event teaser «Spring AI Weekend» как distribution через author-канал + 2 intro «Коннект» (Лашков, Пономарёв/Юнусова) подтверждают template intro-формата
+sources: [sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md, sources/2026-05-26-tg-fomichevkirill-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -59,10 +59,37 @@ erid-коды, «Реклама. ИП/ООО ...», промокоды (FOMICHEV
 - **Anti-pattern для собственного канала GRO:** слишком высокая доля нативки размывает доверие; баланс эссе/промо у Фомичёва (~2:7) — на грани, для product-канала рискован.
 - **Рубрика «Коннект» как идея формата** для community-стратегии GRO (intro полезных людей как контент).
 
+## Подтверждение паттерна на третьем дампе (20–26 мая 2026)
+
+Дамп [[sources/2026-05-26-tg-fomichevkirill-may-20-26-2026]] (7 постов) подтверждает зафиксированный паттерн:
+
+**(а) Pre-event teaser как distribution-mechanic.** Spring AI Weekend (cats.vc × Forest Hills, 29–31 мая 2026) опубликован 20 мая в три захода (banner portrait/landscape/square, посты 2431–2433) — за **9 дней до старта**, с urgency-hook'ом «Осталось 2 места» и social proof через speaker-list (Сайберус/PT, Сбер AI, Точка Банк, ex-CEO ИИ МТС). Это **classic VC scarcity-launch** — формат разобран как самостоятельный trend на [[evolving/industry-trends/closed-vc-camp-format-spring-ai-weekend-2026]].
+
+**(б) Шаблон intro «Коннект» — теперь канонизирован.** Два intro за 6 дней (Лашков 21 мая → [[evolving-strict/competitor-metrics/dome-foundation-investment-fund-2026|Dome Foundation]]; Пономарёв/Юнусова 25 мая → [[evolving/competitor-positioning/zarya-ventures-hr-tech-investor-2026|Zarya Ventures]]) — обе публикации следуют **строгому 7-слотовому template'у:**
+
+| Слот | Контент |
+|---|---|
+| 1. Lead | «Коннект: \<имена>», 1–2 line описание компании |
+| 2. Bio / достижения | 5–8 пунктов с фактурой |
+| 3. Области интересов / профиль | список тем |
+| 4. Кому полезен | таргет-сегменты для контакта |
+| 5. Чем полезен | конкретный value для контакт-а |
+| 6. Запросы / хобби | active leads + soft-personalization |
+| 7. Контакты | TG-handles |
+
+Это **content-template, который можно использовать как-is** для собственных intro-форматов в community-marketing любого канала. Свидетельствует о высокой operational зрелости рубрики (формат стабилизировался, не drift'ит между публикациями).
+
+**(в) Дрейф content-mix'а к нативке усилился.** В 7 постах: 3 — promo events (Spring AI Weekend ×3), 2 — рубрика «Коннект», 1 — agreement-discipline essay (2434), 1 — праздничный essay про предпринимателя (2437). Доля «чистой» авторской рефлексии без коммерческой нагрузки = **1/7 (vs ~2/12 в дампе 14–19 мая)**. Тренд — author-channel мигрирует от «эссеист + промо» к «curator + промо».
+
 ## Связанные страницы
 - [[evolving/content-trends/telegram-author-channel-patterns]]
 - [[evolving/content-trends/podcast-driven-author-channel-patterns]]
 - [[evolving/content-trends/ru-business-tg-content-drift-2026]]
 - [[evolving-strict/market-data/publishing-founder-growth-premium-2026]]
 - [[evolving-strict/competitor-metrics/fintablo-paytech-metrics-2025]]
+- [[evolving-strict/competitor-metrics/dome-foundation-investment-fund-2026]]
+- [[evolving/competitor-positioning/zarya-ventures-hr-tech-investor-2026]]
+- [[evolving/industry-trends/closed-vc-camp-format-spring-ai-weekend-2026]]
+- [[canon/marketing-frameworks/agreement-fixation-discipline-fomichev]]
 - [[sources/2026-05-19-tg-fomichevkirill-may-14-19-2026]]
+- [[sources/2026-05-26-tg-fomichevkirill-may-20-26-2026]]

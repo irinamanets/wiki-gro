@@ -9,8 +9,8 @@ tags: [ai, solopreneurship, market-trends, agentic, content, awareness]
 confidence: medium
 stale: false
 created: 2026-04-11
-updated: 2026-05-19  # +Tabunov (yp 632) RU-специфика окна: «запускаться проще, масштабировать сложнее», главный constraint РФ — дефицит трафика, а не капитал; русский венчур не заливает ниши деньгами → соло-преимущество; +Moreynis (temno 7842) «масштабируемая самозанятость»
-sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md]
+updated: 2026-05-26  # +Lovable+Semrush integration (Tabunov пост 634, 5-й ingest): barrier-to-entry на pre-launch ресерч продолжает падать ($140-269/мес инструменты → $0 встроены в L1 builder); +RemoveWise $21K MRR (пост 636) — каноничный bootstrap-кейс из «AI-Native Service Companies» из YC RFS; +founder-vs-passerby temporal якоря (пост 637). Prior: +Tabunov (yp 632) RU-специфика
+sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md]
 namespace: mkt
 ---
 
@@ -240,6 +240,44 @@ Hyperliquid — это **не AI-продукт** (крипто-деривати
 **Implication для GRO:** под-сегмент «масштабируемый самозанятый» — это [[canon/target-audience/gro-segments|фрилансер]], переходящий в соло-founder через агентов, но **сознательно остающийся без команды**. Content hook: «Масштаб больше не требует найма. Что если твой потолок — не руки, а система?»
 
 **Confidence:** мнение priority-2 эксперта (Морейнис), single-source на конкретную «масштабируемую самозанятость» формулировку, но согласуется с уже multi-source-поддержанным нарративом окна. Сама под-рамка — `[conf:low]` на genus «новая категория», но усиливает существующий medium-тезис страницы.
+
+## Pre-launch barrier продолжает падать: Lovable+Semrush integration (Tabunov, май 2026)
+
+Пятый delta-сигнал в нарратив окна. Михаил Табунов ([[sources/2026-05-26-tg-your-pet-project-may-20-25-2026|пост 634, 2026-05-20]]) фиксирует **дальнейшее снижение barrier-to-entry на pre-launch ресерч** через integration L1-builder'ов с keyword-research-инструментами:
+
+- **До (2024-2025):** соло-фаундеру нужны были Semrush Pro ($140/мес) или Ahrefs Lite ($129/мес) для проверки спроса на нишу. Ручной ресерч — ~8 часов работы на нишу `[conf:medium, src:2026-05-20]`.
+- **После (2026-05-20):** Semrush встроен **внутрь Lovable** (L1 prompt-to-app builder). Ресерч — **10 минут** при генерации лендинга, без отдельной подписки. Под капотом: 28 млрд ключей, 43 трлн backlinks, 808M доменов, 32 региона `[conf:medium, src:2026-05-20]`.
+
+Это **операционный двигатель** базового тезиса окна: «барьер входа продолжает падать». Раньше речь шла про $200 на инструменты — теперь pre-launch ресерч becomes **частью** этих $200, а не отдельной статьёй.
+
+Подробная рамка — [[canon/marketing-frameworks/ai-builder-data-integration-distribution-shift]]. Cross-link на vibecoding-стек — [[evolving/competitor-positioning/vibecoding-stack-ecosystem-2026]].
+
+**Implication для timing'а излома:** если каждые 6-12 месяцев L1-инструменты съедают одну смежную SaaS-категорию (SEO, analytics, payments?), то окно соло-пренерства **усиливается раньше** ожидаемого 2029-го горизонта. Параллельный сигнал — Wix купил Base44 за $80M за полгода после запуска ([[evolving/competitor-positioning/vibecoding-stack-ecosystem-2026]]), Lovable+Semrush integration — следующий шаг в той же траектории.
+
+## Каноничный bootstrap-кейс из YC RFS-категорий — RemoveWise $21K MRR (Tabunov 636, май 2026)
+
+Из тех же 5-х ingest @your_pet_project ([[sources/2026-05-26-tg-your-pet-project-may-20-25-2026|пост 636, 2026-05-22]]) — конкретный bootstrap-кейс, который **попадает в одну из 4 YC RFS-категорий**, прошедших табуновский фильтр (см. [[canon/marketing-frameworks/yc-rfs-bootstrap-filter-tabunov]]):
+
+- **Категория:** AI-Native Service Companies (продаёт сервис, а не tool)
+- **Кейс:** RemoveWise — $21K MRR на удалении AI-дипфейков знаменитостей `[conf:medium, src:2026-05-22]`
+- **Команда:** founder + 1 подрядчик `[conf:medium, src:2026-05-22]`
+- **Инвестиции:** $0 `[conf:medium, src:2026-05-22]`
+- **Чек:** $2-5K/мес `[conf:medium, src:2026-05-22]`
+- **Validation:** 5 cold-email'ов до запуска → 3 ответа
+
+Это **operational existence proof** для тезиса окна на 2026 году: соло-fаундер с insider-знанием платформы (бывший legal-ops YouTube) запустил vertical-specific high-ticket SaaS **без капитала**. См. [[evolving-strict/competitor-metrics/removewise-deepfake-takedown-saas-21k-mrr]] (метрики) и [[evolving/industry-trends/deepfake-removal-saas-market-2026]] (макро-категория).
+
+## Persistence-измерение окна (Tabunov 637, май 2026)
+
+В том же ingest'е ([[sources/2026-05-26-tg-your-pet-project-may-20-25-2026|пост 637, 2026-05-25]]) Tabunov добавляет **temporal-измерение** окна, отсутствовавшее в исходной формулировке подкастного спикера:
+
+- Запустить работающий продукт — **месяц-два** `[conf:medium, src:2026-05-25]`
+- Масштабироваться и свести экономику в плюс — **от 9 месяцев до 2 лет** `[conf:medium, src:2026-05-25]`
+- Бизнес «который купит машину и квартиру» — **от 3 до 5 лет** `[conf:medium, src:2026-05-25]`
+
+Если **окно 2026-2029** ≈ 3-летнее, и **типичный bootstrap-цикл** ≈ 3-5 лет, то фаундеры, **стартующие сейчас**, **выходят на устойчивую выручку как раз к закрытию окна** (или сразу после). Кто стартует через 1-2 года — **не успевает** прожить полный цикл внутри окна. Это критическая operational implication: **start-now-or-skip** диагноз.
+
+Полный разбор — [[canon/marketing-frameworks/founder-vs-passerby-mindset-tabunov]].
 
 ## Contradictions
 

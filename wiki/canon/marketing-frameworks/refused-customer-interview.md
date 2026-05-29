@@ -9,8 +9,8 @@ tags: [framework, research, jtbd, conversion, customer-development]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +AI-persona usability-тест (Петроченков) как синтетический pre-launch-прокси для post-fact refused-customer interview
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md]
+updated: 2026-05-26  # +Refocus DE × Crossover как 3-й RU expert-attest с самым конкретным numeric outcome (+46% конверсия 32%→47% за 2 мес, 30 интервью → [[canon/marketing-frameworks/refused-customer-4-segments-crossover|4-сегментная классификация]] как operational layer)
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups.md, sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-26-tg-solokumi-may-20-22-2026.md]
 namespace: mkt
 ---
 
@@ -149,8 +149,34 @@ Refused-customer interview работает **post-fact** — после тог�
 
 **Рекомендуемая последовательность:** AI-persona-тест → дешёвая гипотеза дыр перед заливом трафика → правки очевидного → запуск → refused-customer interview на реальных отказниках для верификации и приоритизации. Полная методология — [[canon/marketing-frameworks/ai-persona-usability-test-petrochenkov]].
 
+## RU-кейс с numeric outcome: Refocus DE × Crossover (март–май 2026)
+
+Третий RU expert-attest методологии (после Петроченкова — см. секцию «Контр-тезис: «лендинг с CR 5% — это хорошо»» выше, и Токовинина — см. секцию «Ford «faster horse» / doctor-patient framing — complementary doctrine» выше) — с самым конкретным numeric outcome. Роман Кумар Виас ([[sources/2026-05-26-tg-solokumi-may-20-22-2026|@solokumi пост 418]], 2026-05-20) описывает кейс на образовательном проекте Refocus в Германии (EdTech для мигрантов, переобучение через государственный грант).
+
+**Применение методологии:**
+
+- **Сегмент для интервью:** лиды, которые дошли до консультации с сейлзом, услышали условия (бесплатное обучение через грант) и **пропадали без объяснений** («неактуально» статус в CRM)
+- **Объём:** 30 глубинных интервью
+- **Делегирование:** агентство Crossover ([@slavnay_rinka](https://t.me/slavnay_rinka), [crossoveragency.company](https://crossoveragency.company/)) — не in-house, внешний партнёр
+- **Operational layer над методологией:** агентство выявило **4 устойчивых сегмента отказников** с разной reactivation-логикой (Hot/Warm-paused/Cold/Dropped) — это самостоятельный canonical-фрейм, см. [[canon/marketing-frameworks/refused-customer-4-segments-crossover]]
+- **Hybrid AI/human разделение:** live-интервью — людьми, анализ транскриптов и формирование сегментов — ИИ ([[canon/marketing-frameworks/hybrid-ai-human-castdev-workflow]])
+
+**Outcome:**
+
+- Конверсия выросла **с 32% (март) до 47% (середина мая)** = **+46% relative / +15 п.п. абсолютный за 2 месяца** `[conf:medium, src:2026-05-20]`
+- Главный инсайт через все 4 сегмента: реальный паттерн — **недоверие, что после курса найдут работу**. Все жалобы на бюрократию — ложные возражения. Команда до интервью ошибочно работала над упрощением бюрократии (которая была упаковкой недоверия, а не корнем).
+
+**Что добавляет этот кейс к методологии:**
+
+1. **Operational segmentation** — методология Петроченкова даёт 6 вопросов и приоритет «по абсолютному оттоку», но не предлагает классификацию сегментов отказников. Refocus × Crossover показал, что 4-сегментная классификация **стабильна между индустриями** и даёт reactivation-action на сегмент, а не на отдельного лида.
+2. **Concrete numeric proof** — впервые в RU-кругу методология приведена с конкретным before/after числом и timeline (32%→47% за 2 месяца). Готовый storytelling-крючок для контента.
+3. **Hybrid AI/human разграничение** — методология чётко делит, **где люди незаменимы** (live-интервью с отказниками) и **где ИИ работает лучше** (анализ 30 транскриптов). Это reusable рамка против «давайте всю воронку AI-агентами автоматизируем».
+4. **Validation корневой ошибки** — кейс эксплицитно показывает, что team **была убеждена** в неверной гипотезе (проблема в бюрократии) до интервью. Это эмпирическое подтверждение тезиса «текущие клиенты — плохой источник» — внутри команды тоже работают предположения, которые рассыпаются при контакте с отказниками.
+
 ## Связь с другими фреймворками
 
+- [[canon/marketing-frameworks/refused-customer-4-segments-crossover]] — operational layer над методологией: 4-сегментная классификация (Hot/Warm-paused/Cold/Dropped) с reactivation-action на каждый сегмент (Refocus × Crossover, март-май 2026).
+- [[canon/marketing-frameworks/hybrid-ai-human-castdev-workflow]] — operational разделение задач в pipeline: какие шаги делает живой интервьюер, какие — ИИ. Граница стабильна и не сместится в ближайшие годы.
 - [[canon/marketing-frameworks/ai-persona-usability-test-petrochenkov]] — синтетический pre-launch-прокси: LLM в роли аватара проходит лендинг до запуска трафика, ловит грубые дыры воронки (комплементарно к post-fact интервью с отказниками).
 
 - [[canon/marketing-frameworks/marketing-audit-protocol]] — refused-customer interview часто следует после протокола сверки, когда тот выявил расхождение в понимании ЦА.
@@ -170,6 +196,7 @@ Refused-customer interview работает **post-fact** — после тог�
 - [[sources/2026-05-05-yt-tokovinin-billion-debts-sellers-startups]] — Токовинин (amoCRM) Ford «faster horse» / doctor-patient framing
 - [[sources/2026-05-19-pressfeed-prdoctor-marketing-pr-sales-conflict]] — PR DOCTOR 3-dept frame: Feedback Loop как organizational precondition для refused-customer interview
 - [[sources/2026-05-19-tg-petrochenkow-20260519-112501]] — Петроченков: AI-persona usability-тест как синтетический pre-launch-прокси
+- [[sources/2026-05-26-tg-solokumi-may-20-22-2026]] — Кумар Виас: Refocus DE × Crossover, 30 интервью → 4 сегмента → +46% конверсия за 2 месяца (3-й RU expert-attest методологии с самым конкретным numeric outcome)
 - [[canon/marketing-frameworks/subscription-consumption-model-shift-tokovinin]] — operational framework того же Tokovinin-фрейма
 
 ## Backlinks

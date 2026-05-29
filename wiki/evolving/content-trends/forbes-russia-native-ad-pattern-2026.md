@@ -9,8 +9,8 @@ tags: [native-advertising, forbes, russia, content-pattern, spetsproekt, erid, b
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +4 кейса 7-8 мая (Кронунг blogs, PropTech Яндекс blogs, Alfa-Bank brandvoice, форум «Движение» spetsproekt+erid) — третье подтверждение шаблона
-sources: [sources/2026-04-14-tg-forbesrussia-apr-13-14.md, sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-19-tg-forbesrussia-20260519-104004.md]
+updated: 2026-05-28  # +4-й замер (8-11 мая): MTS Optimus blogs (с brand-mark — отступление от классического pattern), Forbes Club event-promo, Forbes×Серебряный дождь FM-cross-media, FOMOиYOLO 6-platform podcast. +cross-link на forbes-200-richest-russia-content-franchise (третий устойчивый Forbes editorial archetype — wealth-listicle content-asset). Prior: +cross-link на forbes-30-under-30-content-franchise; +4 кейса 7-8 мая (Кронунг blogs, PropTech Яндекс blogs, Alfa-Bank brandvoice, форум «Движение» spetsproekt+erid).
+sources: [sources/2026-04-14-tg-forbesrussia-apr-13-14.md, sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-19-tg-forbesrussia-20260519-104004.md, sources/2026-05-26-forbes-tegi-30-under-30.md, sources/2026-05-26-forbes-tegi-200-bogateyshih-biznesmenov.md, sources/2026-05-26-tg-forbesrussia-may-8-11-2026.md]
 namespace: mkt
 ---
 
@@ -123,6 +123,49 @@ GRO-маркетинг при будущем рассмотрении Forbes-п�
 
 **Содержательные сигналы этих размещений** разнесены в отдельные слои: PropTech-кейс → [[evolving/industry-trends/proptech-ai-housing-management-ru-2026]], Alfa-Bank AI-агенты → контекст [[evolving/industry-trends/industrial-ai-measurable-roi-2026]].
 
+## Четвёртое подтверждение шаблона (8-11 мая 2026) + расширение в franchise-территорию
+
+Через [[sources/2026-05-26-tg-forbesrussia-may-8-11-2026|@forbesrussia 8-11 мая 2026]] поступили **2 новых native-ad кейса** (95757 MTS Optimus, 95759 Forbes Club event-promo) **плюс 2 кейса editorial-franchise-уровня** (95789 Forbes×Серебряный дождь, 95802 FOMOиYOLO 6-platform). Это **четвёртый замер**: pattern окончательно canon, плюс появляется **adjacent-territory** — editorial-franchise за пределами рекламной нативки.
+
+### Native-ad кейсы 8-11 мая
+
+| Кейс | ID | Disclaimer | Зона / URL-сегмент | Текст-оверлей | Тип | Brand-mark? |
+|---|---|---|---|---|---|---|
+| MTS Optimus «Что предприниматели недооценивают» (Бутковская) | 95757 | `__*Информационная поддержка__` | `blogs.forbes.ru/2026/05/04/...` | дублирует заголовок поста | колонка эксперта | **есть (логотип MTS Optimus в углу)** |
+| Forbes Club бизнес-завтрак (Гук, ОБИТ) | 95759 | — (no disclaimer, чисто промо клуба) | `clubforbes.ru/` | event-cover | внутренний event-промо | — |
+
+### Ключевое наблюдение: первое отступление от brand-mark-less канона
+
+**MTS Optimus (95757)** — это **первый зафиксированный случай**, когда в blogs/«Информационная поддержка» кейсе на обложке **есть видимый brand-mark** (логотип MTS Optimus в углу). `[conf:high, src:2026-05-08]` Это отступление от классического принципа Forbes-нативки «бренд **не на картинке**, бренд — в подвале поста» (см. шаблон выше, sub-pattern #3).
+
+**Возможные интерпретации:**
+
+1. **Договор с крупным брендом**: MTS — это не одиночный кейс, а **корпорация уровня top-3 в РФ** ("трудно спрятать" brand в editorial-обложке). Forbes может торговать brand-mark-allowance под конкретного клиента.
+2. **Эрозия канона**: со временем шаблон может смещаться к «editorial-cover + small brand-mark» — как способ повысить ad recall без уровня агрессии классического баннера. Нужны последующие замеры, чтобы понять, аномалия это или начало drift'а.
+3. **Особая зона MTS Optimus**: возможно, MTS Optimus имеет более тесное партнёрство с Forbes (как Go Invest), и для них доступен расширенный набор форматов.
+
+**Следующий замер должен проверить, есть ли brand-mark в новых blogs-кейсах от других брендов**. Если 2-3 кейса подряд с brand-mark — это смена шаблона, нужен update основной таблицы. Пока что **canonical pattern остаётся «без brand-mark»**, MTS — задокументированное исключение.
+
+### Содержательный сигнал MTS Optimus кейса
+
+Сам кейс — глубинные интервью с владельцами SMB про **«разрушение бизнеса изнутри»** — содержательно релевантен для marketing-memory GRO и разнесён в [[canon/target-audience/ru-smb-founder-owner-seller]] (founder-owner-seller подтверждение). См. также [[evolving-strict/market-data/ifors-smb-anxiety-2026]] — независимое quantitative подтверждение того же sentiment'а (IFORS 63%).
+
+### Editorial-franchise расширение (95789, 95802)
+
+Параллельно нативно-рекламному pattern'у в этом дампе видны **2 устойчивых editorial-franchise шаблона** Forbes-редакции, расширяющих бренд в смежные каналы:
+
+- **Forbes×Серебряный дождь (95789)** — еженедельная FM-программа «Набутов здесь. Forbes», конвертация эфира в подкаст. Это **co-branded editorial product**, не нативка.
+- **FOMOиYOLO (95802)** — 6-platform cross-stream подкаст-дистрибуция Forbes Young (forbes.ru сайт, Apple Podcasts, Яндекс Музыка, Telegram bot, Spotify, mave.digital).
+
+Оба — **editorial-franchise**, не платная нативка: в них **нет erid**, **нет «Информационная поддержка»**, **нет рекламодателя**. Forbes использует свой бренд для расширения в смежные каналы (радио, multi-platform подкастинг). Это **другой контент-юнит** и заслуживает отдельной страницы — см. [[evolving/content-trends/forbes-radio-cross-media-franchise]].
+
+**Важно для GRO**: Forbes-аудитория сейчас потребляет контент в **3 параллельных контурах**:
+1. Web/Telegram editorial (основной поток)
+2. Native-ad материалы (3-tier меню: spetsproekt/blogs/brandvoice)
+3. Editorial-franchise (radio program + multi-platform podcast)
+
+Реклама GRO в любом контуре требует **разной упаковки** и разной экономики.
+
 ## Сиблинг-шаблон на другой площадке
 
 Forbes-формат — не единственный устойчивый RU-native-шаблон 2026. Параллельно на vc.ru/<B2B-categories> закрепился другой паттерн — **«Топ-N ИИ-инструментов» advertorial с 🥇-медалью на одном инструменте**. Разбор и сравнение двух шаблонов — в [[evolving/content-trends/vcru-top10-advertorial-pattern-2026]]. Ключевые различия: Forbes прячет бренд под editorial-обложкой (1 бренд, editorial-материал, erid в URL), vc.ru прячет бренд за «объективностью рейтинга» (8–12 брендов, честная критика 9 конкурентов валидирует #1, часто без явной erid-маркировки).
@@ -144,6 +187,11 @@ Forbes-формат — не единственный устойчивый RU-na
 - [[sources/2026-05-19-tg-forbesrussia-20260519-104004]] — третье подтверждение, 4 кейса 7-8 мая 2026
 - [[evolving/industry-trends/proptech-ai-housing-management-ru-2026]] — содержательный сигнал кейса 95724
 - [[evolving/industry-trends/industrial-ai-measurable-roi-2026]] — контекст Alfa-Bank AI-агенты кейса 95740
+- [[evolving/content-trends/forbes-30-under-30-content-franchise]] — другой устойчивый Forbes editorial pattern (multi-edition контент-актив, founder-listicle архетип)
+- [[evolving/content-trends/forbes-200-richest-russia-content-franchise]] — третий устойчивый Forbes editorial pattern (wealth-listicle архетип, sibling 30 Under 30)
+- [[sources/2026-05-26-forbes-tegi-200-bogateyshih-biznesmenov]] — sibling tag-page Forbes-франшизы wealth-listicle
+- [[sources/2026-05-26-tg-forbesrussia-may-8-11-2026]] — 4-й замер pattern'а: 2 native-ad кейса (MTS Optimus с brand-mark — первое отступление; Forbes Club event-promo) + 2 editorial-franchise (Серебряный дождь, FOMOиYOLO)
+- [[evolving/content-trends/forbes-radio-cross-media-franchise]] — adjacent-territory: Forbes×Серебряный дождь FM + FOMOиYOLO 6-platform podcast cross-stream
 
 ## Backlinks
 

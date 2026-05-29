@@ -10,9 +10,9 @@ confidence: medium
 stale: false
 created: 2026-04-16
 updated: 2026-05-05  # +vc.ru condensed 46 articles enrichment (2026-05-05): первая половина 2025 объём, ROI HRM, точность NLP-скрининга
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md]
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md, sources/2026-05-26-condense-vcru-hr-50-articles.md]
 namespace: mkt
-updated: 2026-05-24  # +4-й батч vc.ru/hr (2026-05-19): 40,6 млрд +12% H1-2025 (триангуляция), adoption-breakdown 44–49% (обучение/рекрутинг/порталы), только 5% «полноценно», глобально 87% / $1,12 млрд к 2030, Gartner 76%
+updated: 2026-05-26  # +5-й батч vc.ru/hr: adoption-pyramid 42% Excel (Level 0) → 8% полный NLP (Level 3); advertorial-производное, но согласуется с adoption-gap нарративом
 ---
 
 # HR Tech рынок РФ 2026
@@ -131,6 +131,21 @@ Caveat: эти цифры — заявления вендоров, не неза
 
 - Снижение time-to-first-response **с 72 до 2 часов** повышает конверсию в нанятого **на 35–40%** `[conf:low, src:2026-05-19]` — vendor-claim Garmony, но правдоподобный directional-сигнал (скорость ответа = конверсия). Применимо как **аналогия для маркетинговой воронки**: скорость первого касания лида.
 
+## Adoption-pyramid (5-й батч vc.ru/hr, 2026-05-26)
+
+Из [[sources/2026-05-26-condense-vcru-hr-50-articles|5-го батча]] — advertorial-производная оценка распределения зрелости AI в HR на российском рынке. **Источник — Garmony AI advertorial-автор**, поэтому `conf:low, src:advertorial-estimate` — числа подобраны для усиления нарратива «без полного NLP/агрегации вы остаётесь в нижнем сегменте».
+
+| Уровень | Доля компаний РФ | Описание |
+|---|---|---|
+| **Уровень 0** | ~42% | Excel / папки — нет автоматизации `[conf:low, src:2026-05-26]` |
+| **Уровень 1** | ~30% (имплицировано) | классический ATS без AI `[conf:low, src:2026-05-26]` |
+| **Уровень 2** | ~20% (имплицировано) | ATS + AI-модули поверх `[conf:low, src:2026-05-26]` |
+| **Уровень 3** | ~8% | полный NLP + агрегация + автокоммуникации `[conf:low, src:2026-05-26]` |
+
+→ **Согласуется с уже зафиксированным "44–49% используют AI, но только 5% полноценно"** (РБК Тренды 2026, 4-й батч). Несмотря на advertorial-источник, **directional-сигнал adoption-gap подтверждается из независимого среза** (overall 5% vs Garmony-«Level 3» 8% — порядок тот же). [conf:low, src:2026-05-05]
+
+**Marketing-импликация:** Garmony использует эту pyramid как **рекламный нарратив** («вы — Уровень 1, мы переведём вас в Уровень 3»). Но сам разрыв между «используют» и «полноценно используют» — рыночный факт, переносимый в любую AI-категорию (включая GRO).
+
 ## Caveat
 Значительная часть метрик sourced из Garmony AI advertorial-серии и параллельных вторичных HR-tech advertorial. Цифры по adoption (67%, 78%, 72,8%) и ROI (500–1500%) могут отражать cherry-picked исследования. Cross-reference с независимыми источниками (HH Group годовой отчёт, Skillaz research) необходим для повышения confidence до high. [conf:low, src:2026-05-05]
 
@@ -147,6 +162,9 @@ Caveat: эти цифры — заявления вендоров, не неза
 - [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — четвёртый батч vc.ru/hr (триангуляция + adoption breakdown)
 - [[evolving-strict/market-data/ru-labor-market-deficit-by-sector-2026]] — sector-дефицит труда (спрос-сторона рынка)
 - [[evolving/industry-trends/ai-recruiting-humanity-countertrend-2026]] — контртренд человечности (обратная сторона adoption)
+- [[sources/2026-05-26-condense-vcru-hr-50-articles]] — 5-й батч vc.ru/hr: adoption-pyramid 42%/8% [conf:low, src:2026-05-05]
+- [[evolving/competitor-positioning/ru-kedo-enterprise-landscape-2026]] — КЭДО enterprise (отдельная HR-tech вертикаль)
+- [[evolving/industry-trends/ru-labor-market-employer-turn-spring-2026]] — рыночный контекст HR-tech спроса
 
 ## Backlinks
 

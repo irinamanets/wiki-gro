@@ -9,8 +9,8 @@ tags: [content, post, awareness, consideration, career]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-23  # +Hook 38 «Начальник-чайка» +Hook 39 «Настроить парус заранее» +Hook 40 «Резюме читает робот: цифры > "отвечал за"» +Hook 41 «Не меняй профессию — усложняй роль» (vc.ru/hr); prior: +Hook 37 «Горизонтальный рост» +Hook 36 «Повышение глазами сотрудника» +Hook 35 «Думать изнутри компании»
-sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-dzen-hh-kareernyj-marketplace-checklist.md, sources/2026-04-16-dzen-hh-profession-test-15.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-hh-ru-official-may-7-13-2026.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-05-23-tg-recruiter-live-may-19-22-2026.md, sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md, sources/2026-05-19-web-hr-portal-rotaciya-razvitie-personala.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md]
+updated: 2026-05-28  # +Hook 42 «Премия — два оклада или грамота» (Т-Ж UGC пост 34416 от 2026-05-15); prior: +Hook 38–41
+sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-dzen-hh-kareernyj-marketplace-checklist.md, sources/2026-04-16-dzen-hh-profession-test-15.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-hh-ru-official-may-7-13-2026.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-05-23-tg-recruiter-live-may-19-22-2026.md, sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md, sources/2026-05-19-web-hr-portal-rotaciya-razvitie-personala.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-26-tg-t-jrnl-may-13-19-2026.md]
 namespace: mkt
 ---
 
@@ -1210,6 +1210,28 @@ GRO-перенос: тот же frame применим к **готовности
 - **Не превращать в «никогда не меняй профессию»** — колонка говорит «реже, чем думают», не «никогда»; для части людей смена оправдана. Угол про **дефолт-стратегию** (сначала рассмотри усложнение), не про запрет.
 - **Не путать с инфобиз-«прокачай 10 навыков»** — это про skills inflation (см. [[evolving/industry-trends/skill-based-hiring-russia-2026]]); угол про **осознанную надстройку 1-2 смежных компетенций** под конкретную бизнес-проблему, а не про коллекционирование строчек в резюме.
 
+## Hook 42 — «У одних премия два оклада, у других — грамота» (Т-Ж UGC пост 34416)
+
+**Сегмент ЦА:** карьеристы (сегмент 1), особенно те, кто застрял в компании со слабой компенсационной политикой.
+
+**Источник:** [[sources/2026-05-26-tg-t-jrnl-may-13-19-2026]], пост 34416 (2026-05-15). UGC-формат Т-Ж — читатели делятся своими историями про премии. `[conf:medium, src:2026-05-15]`
+
+**Суть:** между компаниями зарплатная и премиальная политика расходится **на порядки**, не на проценты. В одной компании годовая премия = 2 месячных оклада, в соседней — почётная грамота. Это **не «вопрос рынка»**, это вопрос **выбора работодателя в начале**. Менять работу — это не «прыгнуть на +20%», а перейти из категории «грамота» в категорию «два оклада», то есть в **другой режим компенсации в принципе**.
+
+**Контрапункт к loyalty-нарративу.** Часто слышимое «не торопись менять работу, надо ещё подрасти» работает в категории «два оклада». В категории «грамота» это совет, который консервирует подчинённое положение. Hook возвращает фокус с «как заслужить премию» на «как выбрать работодателя, где премии существуют как часть оплаты, а не как ритуал».
+
+**Формулировка hook для поста GRO:**
+> «У одних премия — два оклада. У других — грамота. И это не "повезло — не повезло", это **выбор работодателя**, который многие делают наугад. Если у вас годами не было нормальной премии — это не "плохой год", это **категория компании**. И смена работы — это не "+20% к зарплате", это переход в другую категорию компенсации».
+
+**Под-вариант (связка с peer-comparison):**
+> «Хотите знать, нормально ли вы зарабатываете — не сравнивайте с обзорами по рынку. Сравните с **бывшими коллегами**, которые ушли в другую категорию. И спросите их про премии, а не только про оклад. Премии — это то, где категории расходятся всего сильнее».
+
+**Почему работает:** UGC-формат Т-Ж даёт мощный peer-proof («у читателей реально так»), а контрапункт loyalty-мифа («просто подожди») делает hook резким и actionable. Прямой бридж к core promise GRO — системно расти в доходе через **смену системы**, а не оптимизацию внутри текущей. Дополняет Hook 32 (HH «единая карьерная история») операционным сигналом «когда искать новую категорию».
+
+**Anti-hook:**
+- **Не превращать в «все компании-грамоты — плохие»** — есть стартапы и НКО, где премий нет по структурным причинам и это нормально для входа.
+- **Не давать готовых критериев «как опознать категорию заранее»** — это требует отдельной страницы, hook короткий — провоцирует выбор и поиск.
+
 ## Маппинг hook'ов на воронку
 
 | Hook | Awareness | Consideration | Decision | Retention |
@@ -1247,6 +1269,7 @@ GRO-перенос: тот же frame применим к **готовности
 | Зарплата растёт у дефицитных навыков (Hook 31, hh.ru salary 2026) | + | + | + | |
 | «Думать изнутри компании» на интервью (Hook 35, Janabilova/Татьяна) | | + | + | |
 | Начальник-чайка: 5 ошибок + survival (Hook 38, vc.ru/hr seagull) | + | + | | + |
+| Премия — два оклада или грамота (Hook 42, Т-Ж UGC 34416) | + | + | + | |
 
 ## Связанные страницы
 
@@ -1304,6 +1327,9 @@ GRO-перенос: тот же frame применим к **готовности
 - [[sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026]] — vc.ru/hr репост колонки для «Коммерсанта», источник Hook 40 (machine-readable резюме) и Hook 41 (усложнение роли > смена профессии)
 - [[evolving/industry-trends/ru-labor-market-employer-turn-2026]] — макро-контекст Hook 40/41 (технологии-инфраструктура, pay-for-results, навыки-комбинации)
 - [[evolving/industry-trends/skill-based-hiring-russia-2026]] — навыки-комбинации как новая норма работодателя (база Hook 41)
+- [[sources/2026-05-26-tg-t-jrnl-may-13-19-2026]] — Т-Ж 13–19 мая, источник Hook 42 (UGC премии)
+- [[evolving/content-trends/brand-crisis-response-cases-2024-2026]] — case bank брендовых кризисов из того же дампа (sibling content-trend)
+- [[evolving/content-trends/expert-ama-content-format]] — AMA-формат с экспертом из того же дампа (sibling content-trend, отдельный pillar)
 
 ## Backlinks
 

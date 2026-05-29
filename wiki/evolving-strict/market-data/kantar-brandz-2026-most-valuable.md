@@ -9,8 +9,8 @@ tags: [branding, brand-value, market-data, ai, google, openai, kantar]
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-breakingtrends-may14-19.md]
+updated: 2026-05-26  # +second source @vcnews 61393 (2026-05-15): чистый OCR bubble-chart → исправлен #5 NVIDIA $814 906 M (раньше дублировал Facebook $366 624 M) + Claude (Anthropic) дебютирует #49, первый вход в топ-100 BrandZ
+sources: [sources/2026-05-19-tg-breakingtrends-may14-19.md, sources/2026-05-26-tg-vcnews-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -34,9 +34,9 @@ namespace: mkt
 | 2 | Apple | 1 380 294 | `[conf:medium, src:2026-05-15]` |
 | 3 | Microsoft | 1 111 788 | `[conf:medium, src:2026-05-15]` |
 | 4 | Amazon | 1 022 820 | `[conf:medium, src:2026-05-15]` |
-| 5 | NVIDIA | 366 624 | `[conf:medium, src:2026-05-15]` |
+| 5 | NVIDIA | 814 906 | `[conf:medium, src:2026-05-15]` |
 | 6 | Facebook | 366 624 | `[conf:medium, src:2026-05-15]` |
-| 7 | Instagram | 286 758 | `[conf:medium, src:2026-05-15]` |
+| 7 | Instagram | 286 158 | `[conf:medium, src:2026-05-15]` |
 | 8 | Tencent | 251 551 | `[conf:medium, src:2026-05-15]` |
 | 9 | Oracle | 235 838 | `[conf:medium, src:2026-05-15]` |
 | 10 | McDonald's | 235 095 | `[conf:medium, src:2026-05-15]` |
@@ -45,6 +45,14 @@ namespace: mkt
 | 16–30 | IBM, Netflix, T-Mobile, Alibaba, Coca-Cola, Costco, Hermès, Tesla, AT&T, SAP, AMD, Verizon, Cisco, Home Depot, Louis Vuitton | (значения не считаны точно) | `[conf:low, src:2026-05-15]` |
 
 Кластеры bubble-chart: Business Technology & Services Platforms, Consumer Technology & Services Platforms, Financial Services, Retail, Media & Entertainment, Telecom Providers, Fast Food, Luxury.
+
+### Second-source confirmation (@vcnews 61393, 2026-05-15)
+
+Второй независимый OCR того же chart'а из [[sources/2026-05-26-tg-vcnews-may-14-18-2026|@vcnews пост 61393]] (vc.ru/marketing/2926947) подтверждает headline и уточняет цифры:
+
+- **#5 NVIDIA = $814 906 M** `[conf:medium, src:2026-05-15]` — исправляет прежнее ошибочное дублирование ($366 624 M стояло и у #5, и у #6; теперь видно, что эта сумма принадлежит Facebook на #6).
+- **Claude (Anthropic) дебютирует в топ-100 под номером ~49** `[conf:medium, src:2026-05-15]` — первый вход Claude в рейтинг, в кластере Business Technology. Сигнал, что AI-лаборатории второго эшелона уже формируют узнаваемый бренд-капитал.
+- vc.ru подтверждает: Kantar объясняет рост Google **выпуском продвинутых ИИ-моделей и внедрением Gemini в поиск и сервисы**; Apple держала #1 четыре года подряд с 2022-го (и семь лет с 2009-го) `[conf:medium, src:2026-05-15]`.
 
 ## Интерпретация для маркетинга
 
@@ -70,3 +78,4 @@ namespace: mkt
 - [[evolving-strict/market-data/global-social-ad-revenue-omdia-2030]] — параллельная олигополия в рекламе
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — гонка AI-лабораторий за нарратив
 - [[sources/2026-05-19-tg-breakingtrends-may14-19]] — источник (пост #16752, Kantar chart)
+- [[sources/2026-05-26-tg-vcnews-may-14-18-2026]] — second source (@vcnews пост 61393, чистый OCR chart'а + Claude #49)

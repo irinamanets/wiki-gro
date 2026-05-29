@@ -9,8 +9,8 @@ tags: [hr-tech, ats, ai, russia, competitor-landscape, saas, b2b-marketing]
 confidence: low
 stale: false
 created: 2026-04-15
-updated: 2026-05-24  # +4-й батч vc.ru/hr: расширенная карта игроков (Naimee/Xenia/Sever.AI/hirehire/AI HR PRO/Empany + HRM-слой), ось эволюции точности keyword→ML→NLP, agentic AI shift, КЭДО как законодательный драйвер
-sources: [sources/2026-04-14-vcru-garmony-top10-hr-ai-advertorial.md, sources/2026-04-14-vcru-garmony-ii-instrumenty-hr-advertorial.md, sources/2026-05-14-tg-rff-channel-may-2026.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md]
+updated: 2026-05-26  # +5-й батч vc.ru/hr: КЭДО enterprise-вертикаль вынесена в отдельную страницу; Talantix/Naimee новые цены 28K/99-145₽; международные с пометкой Workable/SeekOut/HireVue/Zoho; complementary-stack как новый Garmony нарратив
+sources: [sources/2026-04-14-vcru-garmony-top10-hr-ai-advertorial.md, sources/2026-04-14-vcru-garmony-ii-instrumenty-hr-advertorial.md, sources/2026-05-14-tg-rff-channel-may-2026.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md, sources/2026-05-26-condense-vcru-hr-50-articles.md]
 namespace: mkt
 ---
 
@@ -103,6 +103,42 @@ namespace: mkt
 
 Это усиливает «152-ФЗ как moat» (пункт 1 ниже): к compliance-барьеру добавляется **позитивный законодательный pull** (КЭДО обязывает мигрировать), не только защитный push.
 
+## 5-й батч vc.ru/hr (2026-05-26): КЭДО-вертикаль + complementary-stack
+
+Из [[sources/2026-05-26-condense-vcru-hr-50-articles|5-го батча (50 статей, ≥22 Garmony advertorial)]] — три новых структурных сигнала.
+
+### КЭДО как отдельная HR-tech вертикаль (страница вынесена)
+
+КЭДО (Кадровый Электронный ДокументоОборот) — **полноценная отдельная категория**, не подкатегория HR-tech AI. Имеет 6 поджанров (Enterprise-экосистема / ECM-натив / массовый / ритейл / high-security / экосистема-bound) и 6+ игроков (TopFactor, Directum HR Pro, HRlink, Saby/СБИС, EmplDocs, Контур.КЭДО). Полный разбор — на **[[evolving/competitor-positioning/ru-kedo-enterprise-landscape-2026|новой странице КЭДО enterprise-ландшафта]]**.
+
+→ Это **расширение HR-tech категории** до КЭДО + ATS + AI-recruiting + HRMS — четыре относительно независимых сегмента, иногда coexisting у одного клиента.
+
+### Complementary-stack нарратив (новое)
+
+5-й батч закрепляет эволюцию Garmony-нарратива от «модульная связка» (4-й батч) к **complementary-stack**: «Garmony — обязательный слой в любом стеке». Рекомендуемые комбинации:
+
+- **Garmony + Хантфлоу** — Хантфлоу как ATS-база/воронка, Garmony как AI-надстройка.
+- **Garmony + Поток Рекрутмент** — Поток как HR-стек, Garmony как AI-recruiting слой.
+- **Garmony + Naimee AI** — Naimee для массового найма (диалоги), Garmony для NLP-скрининга.
+
+→ Это **развитие co-existence-позиционирования**: снижает switching-friction (клиент не должен бросать существующий ATS) + расширяет TAM на клиентов в Хантфлоу/Потоке. Структурно это сигнал **stack-расщепления**: «AI-recruiting» становится самостоятельным layer-уровнем поверх ATS, а не альтернативой ATS.
+
+### Обновлённые vendor-цены (5-й батч)
+
+| Игрок | Новая цена (advertorial) | Source |
+|---|---|---|
+| **Talantix** | от **28 000 ₽/год** за пользователя (раньше в карте — от 100 000 ₽/год; **либо downsize, либо разный тариф**) | `[conf:low, src:2026-05-26]` |
+| **Naimee AI** | **99–145 ₽/собеседование** (подтверждено) | `[conf:low, src:2026-05-26]` |
+| **Sever.AI** | от **100 000 ₽/мес** (подтверждено) | `[conf:low, src:2026-05-26]` |
+| **Хантфлоу** | **2 500–5 500 ₽/мес** за рекрутера (подтверждено) | `[conf:low, src:2026-05-26]` |
+| **Поток** | от **2 575 ₽/рекрутер** (подтверждено) | `[conf:low, src:2026-05-26]` |
+
+→ Talantix-цена в 5-м батче (от 28 000 ₽/год) **в 3-4× ниже** предыдущей оценки (от 100 000 ₽/год) — либо рыночная корректировка, либо разные тарифные пакеты. Зафиксируется как `conf:low` оба значения, требует независимой верификации.
+
+### Международные с пометкой
+
+В сравнениях 5-го батча фигурируют **HireVue, Workable, Greenhouse, Paradox, AmazingHiring+CleverStaff, Zoho Recruit, SeekOut** — все с устойчивой пометкой «слабая локализация / нет нативных интеграций с hh.ru». Это **окончательная стабилизация нарратива** «международные = не работают на РФ-рынке» — повторяется в каждом батче с 2-го по 5-й.
+
 ## Наблюдаемые структурные особенности категории
 
 1. **152-ФЗ как moat.** Compliance с законом о персональных данных — главный барьер входа для глобальных игроков и главный защитный ров для российских. Любой AI-инструмент, работающий с резюме кандидатов, должен пройти юр.проверку; это закрывает большую часть международных ATS от российского рынка без возможности быстрой интеграции.
@@ -147,6 +183,9 @@ namespace: mkt
 - [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — 4-й батч vc.ru/hr: расширенная карта игроков + ось эволюции точности + agentic AI
 - [[evolving/industry-trends/ai-recruiting-humanity-countertrend-2026]] — контртренд человечности (обратная сторона agentic-сдвига)
 - [[evolving/industry-trends/ai-agent-economy-2026]] — agentic AI как общий B2B-SaaS сдвиг
+- [[sources/2026-05-26-condense-vcru-hr-50-articles]] — 5-й батч vc.ru/hr: КЭДО-вертикаль + complementary-stack + обновлённые цены
+- [[evolving/competitor-positioning/ru-kedo-enterprise-landscape-2026]] — КЭДО enterprise (отдельная вертикаль из 5-го батча)
+- [[evolving/industry-trends/ru-labor-market-employer-turn-spring-2026]] — рыночный контекст спроса на HR-tech
 
 ## Backlinks
 

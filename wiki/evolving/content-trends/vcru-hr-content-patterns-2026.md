@@ -9,8 +9,8 @@ tags: [content-marketing, vc-ru, native-advertising, job-seekers]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +Паттерн 5: программатик гео-city content-farm (vc.ru/hr «Удалённая работа в {Город}», exemplars Кемерово+Пенза) — третий коммерческий жанр площадки рядом с Garmony-advertorial и Pressfeed-hub
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-19-vcru-hr-remote-work-kemerovo-city-seo-listicle.md, sources/2026-05-19-vcru-hr-udalennaya-rabota-v-penze.md]
+updated: 2026-05-26  # +5-й батч vc.ru/hr (50 статей, ≥22 advertorial одновременно) — пиковая плотность Паттерна 1 + qualitative-расширение Паттерна 3 (worker-side в комментариях) + Big Tech-нарратив (Bolt founder + Meta surveillance) как Паттерн 6
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-19-vcru-hr-remote-work-kemerovo-city-seo-listicle.md, sources/2026-05-19-vcru-hr-udalennaya-rabota-v-penze.md, sources/2026-05-26-condense-vcru-hr-50-articles.md]
 namespace: mkt
 ---
 
@@ -61,6 +61,24 @@ Garmony AI продемонстрировала устойчивый форма�
 
 Полный разбор анатомии, монетизации и переносимости — отдельными страницами: [[evolving/content-trends/local-seo-city-vacancy-content-farm-2026]] и [[evolving/content-trends/geo-templated-local-seo-listicle-funnel-2026]] (две страницы об одном жанре — кандидаты на слияние в lint-проходе).
 
+## Паттерн 6: Big Tech founder-нарратив + surveillance-pushback (5-й батч, 2026-05-26)
+
+Из [[sources/2026-05-26-condense-vcru-hr-50-articles|5-го батча vc.ru/hr]] — новый устойчивый жанр: **пересказы внешних западных HR-сенсаций с фокусом на founder-narrative или surveillance-pushback**. Создаёт высокую виральность за счёт контр-консенсусной или морально-острой позиции.
+
+**Exemplars 5-го батча:**
+
+- **Bolt founder Бреслоу:** «распустили HR — проблемы исчезли». Контр-консенсусная founder-выходка с готовой провокацией. `[src: 2939195, 2026-05-26]`
+- **Meta surveillance:** keyboard/mouse-tracking для обучения ИИ. Морально-острая sensitivity, плюс готовые «протестующие сотрудники» как сцена. `[src: 2936788, 2026-05-26]`
+- **Китай выезд AI-спецов:** geopolitical-сенсация с конкретным human-кейсом (Manus Сяо Хун). `[src: 2948070, 2026-05-26]`
+- **Samsung профсоюз:** масштаб (48К сотрудников) + конфликт чип-vs-бытовая электроника. `[src: 2947874, 2026-05-26]`
+
+**Что делает жанр устойчивым:**
+- **Готовый narrative arc** из внешних источников (NYT, Reuters, Bloomberg, Fortune) — vc.ru-автор переупаковывает, добавляет HR-угол.
+- **Контр-консенсусная позиция** = высокая виральность (Bolt-кейс: автор форсит «распустить HR — норм», что вызывает burst-комментариев и виральность через конфликт).
+- **Лёгкая дистрибуция** — на vc.ru новость требует low-effort переупаковки, в отличие от advertorial-лонгрида (Паттерн 1).
+
+**Полный разбор Big Tech HR-новостей мая 2026** — на [[volatile-strict/industry-news/big-tech-hr-news-may-2026]].
+
 ## Переносимость для GRO
 
 | Паттерн | Переносимость | Как адаптировать |
@@ -80,3 +98,5 @@ Garmony AI продемонстрировала устойчивый форма�
 - [[evolving/content-trends/pressfeed-platform-advertorial-pattern]] -- контраст: тонкий platform-advertorial (Pressfeed/Smink) vs серийный SEO-лонгрид (Garmony AI)
 - [[evolving/content-trends/geo-templated-local-seo-listicle-funnel-2026]] -- Паттерн 5: geo-шаблонный local-SEO листикл-воронка (programmatic content-farm на площадке)
 - [[sources/2026-05-19-vcru-hr-udalennaya-rabota-v-penze]] -- exemplar Паттерна 5
+- [[sources/2026-05-26-condense-vcru-hr-50-articles]] -- 5-й батч: пиковая плотность Паттерна 1 + Паттерн 6 (Big Tech founder/surveillance)
+- [[volatile-strict/industry-news/big-tech-hr-news-may-2026]] -- Big Tech HR-новости мая 2026 (детальный разбор Паттерна 6)

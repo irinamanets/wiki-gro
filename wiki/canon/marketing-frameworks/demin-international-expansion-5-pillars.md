@@ -9,8 +9,8 @@ tags: [international, expansion, framework, expert-opinion, smb, fmcg, splat]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14
-sources: [sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md]
+updated: 2026-05-26
+sources: [sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-05-26-dzen-delovoymir-online-business-monetization-international.md]
 namespace: mkt
 ---
 
@@ -97,6 +97,8 @@ namespace: mkt
 - [[canon/marketing-frameworks/rogers-diffusion-of-innovations]]
 - [[canon/marketing-frameworks/narrative-as-brand-currency]]
 - [[canon-strict/legal-claims/ad-marking-russia-2026]]
+- [[canon/marketing-frameworks/international-launch-monetization-checklist]] — operational pre-launch checklist (что физически подготовить: локализация, payments, юрисдикция, ads-platforms); этот фрейм даёт стратегию, чеклист — execution layer
+- [[canon/marketing-frameworks/online-business-monetization-models-taxonomy]] — таксономия моделей монетизации, которую запускают по этому чеклисту
 - [[sources/2026-04-14-tg-portnyaginlive-mar-apr-2026]]
 
 ## Backlinks

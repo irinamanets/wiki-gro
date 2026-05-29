@@ -9,8 +9,8 @@ tags: [bootstrap, startup, founder-mindset, unit-economy, positioning, awareness
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-18  # +cross-link на 5-НЕТ operational расширение от Табунова (пост 622 третьего ingest'a)
-sources: [sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md]
+updated: 2026-05-26  # +cross-link на founder-vs-passerby (Tabunov пост 637, 5-й ingest @your_pet_project): дополняет рамку temporal-якорями (1-2 мес / 9 мес-2 года / 3-5 лет) и persistence-критерием. Prior: +5-НЕТ operational расширение (пост 622)
+sources: [sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md]
 namespace: mkt
 ---
 
@@ -120,17 +120,32 @@ GRO как продукт работает в bootstrap-парадигме (см
 
 Все эти симптомы убивают bootstrap-парадигму. См. также [[canon/marketing-frameworks/zero-to-one-vs-scale-tabunov]] про отдельную ловушку — масштабирование того, что ещё не работает.
 
+## Persistence-измерение (Tabunov пост 637, 2026-05-25)
+
+Bootstrap-парадигма требует **personal endurance** к временным масштабам, которые VC-парадигма обходит через инвесторские деньги. Tabunov формулирует это через рамку **«случайный прохожий vs фаундер»** с конкретными timeline-якорями:
+
+- Запустить работающий продукт — **месяц-два** `[conf:medium, src:2026-05-25]`
+- Масштабироваться и свести экономику в плюс — **от 9 месяцев до 2 лет** `[conf:medium, src:2026-05-25]`
+- Бизнес, который купит машину и квартиру — **от 3 до 5 лет** `[conf:medium, src:2026-05-25]`
+
+«Случайный прохожий» бросает после первого этапа дискомфорта (типично 1-2 мес), оправдывая срыв внешними факторами («рынок не тот», «конкуренты давят»). «Фаундер» проходит весь 3-5-летний цикл, потому что винит операционные решения, а не внешние факторы. Полный разбор рамки + diagnostic-тест — [[canon/marketing-frameworks/founder-vs-passerby-mindset-tabunov]].
+
+Это **критическое complementary-измерение** к bootstrap-парадигме: 5 НЕТ дают operational filter на старте, persistence-фрейм даёт **temporal expectation framework** для всего бизнес-цикла.
+
 ## Связанные страницы
 - [[canon/marketing-frameworks/zero-to-one-vs-scale-tabunov]]
 - [[canon/marketing-frameworks/blue-ocean-strategy-anti-pattern]]
 - [[canon/marketing-frameworks/agent-vs-saas-pricing-arbitrage]]
 - [[canon/marketing-frameworks/tabunov-landing-anatomy]]
 - [[canon/marketing-frameworks/peregudov-vibecoding-founder-playbook-2026]]
+- [[canon/marketing-frameworks/founder-vs-passerby-mindset-tabunov]] — temporal-измерение bootstrap-парадигмы (пост 637, 5-й ingest)
+- [[canon/marketing-frameworks/yc-rfs-bootstrap-filter-tabunov]] — фильтрация VC-RFS под bootstrap-критерии (пост 635, 5-й ingest)
 - [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]]
 - [[evolving/content-trends/your-pet-project-channel-hooks]]
 - [[volatile-strict/industry-news/ai-solopreneur-cases-jan-apr-2026]]
 - [[canon/target-audience/gro-segments]]
 - [[sources/2026-05-05-tg-your-pet-project-feb-may-2026]]
+- [[sources/2026-05-26-tg-your-pet-project-may-20-25-2026]] — пост 637 (founder-vs-passerby) и пост 635 (YC RFS filter)
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [content, marketing, co-branding, case-study, hype, expectation-management
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-vcnews-may-12-14-2026.md]
+updated: 2026-05-26  # +second source @vcnews 61401–61403 (2026-05-16): продажи стартовали в США/Таиланде/ОАЭ/Сингапуре/Японии, 200 магазинов офлайн, 1 в руки, цена $400 retail / ~$5000 оценочная вторичка — scarcity-механика на месте, mismatch-нарратив дополнен ценовым контекстом
+sources: [sources/2026-05-19-tg-vcnews-may-12-14-2026.md, sources/2026-05-26-tg-vcnews-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -25,6 +25,16 @@ namespace: mkt
 - Ожидание аудитории: **доступные наручные часы** с люксовой отсылкой (по аналогии с предыдущими hit-коллаборациями Swatch).
 - Реальность (раскрыта 13 мая): **карманные часы на шнурке**. `[conf:medium, src:2026-05-13]`
 - Результат: **разочарование пользователей** — продукт не совпал с разогнанным форматом ожидания.
+
+### Обновление от 16 мая (@vcnews 61401–61403)
+
+Через несколько дней после анонса [[sources/2026-05-26-tg-vcnews-may-14-18-2026|@vcnews пост 61401]] (vc.ru/marketing/2923888, видео-вложение) зафиксировал, что несмотря на mismatch-разочарование, **scarcity-механика отработала**:
+
+- Очереди у магазинов Swatch в **США, Таиланде, ОАЭ, Сингапуре и Японии**. `[conf:medium, src:2026-05-16]`
+- Часы доступны офлайн в **200 магазинах** по миру, продают **одни в одни руки**. `[conf:medium, src:2026-05-16]`
+- Цена — **$400**, оценочная стоимость на вторичном рынке — **~$5000** (×12.5). `[conf:medium, src:2026-05-16]`
+
+**Нюанс к mismatch-тезису:** product-mismatch (карманные часы ≠ ожидаемые наручные) **не убил** спрос — scarcity + collab-капитал AP перевесили разочарование, и вторичка ×12.5 указывает на резерв реального hype. То есть «hype без управления ожиданием» здесь дал **двойственный** результат: репутационный шум (разочарование в соцсетях) + коммерческий sell-out (очереди + flipping-премия). Это уточняет страницу: expectation-mismatch вредит **нарративу**, но при сильном scarcity-движке может не вредить **продажам**.
 
 ## Почему это сильный кейс
 
@@ -72,5 +82,8 @@ namespace: mkt
 - [[evolving/content-trends/irnby-nike-lookalike-ad-controversy-2026]] — зеркальный attention-кейс той же недели
 - [[evolving/content-trends/urgency-window-launch-playbook]] — механика запусков и hype-окон
 - [[canon/marketing-frameworks/strong-offer-hr-marketing-tilda]] — оффер как буквальное обещание
+- [[canon/marketing-frameworks/supreme-scarcity-as-product-strategy]] — scarcity-механика, объясняющая sell-out несмотря на mismatch
+- [[evolving/content-trends/sony-xperia-ai-photo-pr-fail-2026]] — sibling overpromise-кейс той же недели (продуктовое демо vs ожидание)
 - [[canon/target-audience/gro-segments]] — целевые сегменты для hook'ов
 - [[sources/2026-05-19-tg-vcnews-may-12-14-2026]] — первичный источник
+- [[sources/2026-05-26-tg-vcnews-may-14-18-2026]] — second source (очереди в 5 странах, $400/$5000)

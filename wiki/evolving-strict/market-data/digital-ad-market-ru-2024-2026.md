@@ -9,8 +9,8 @@ tags: [market-data, advertising, russia]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-15  # +Mindbox 2025 (через Cossa 23115, 2026-05-06): 62 млрд рассылок, email/SMS 26:1, push>email впервые (+45%) — channel shift signal; RetailCRM 2025 (+38% YoY) — adjacent CRM-агентский рынок
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-tg-dnative-7547-7596.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md]
+updated: 2026-05-26  # +Pervukhin/KINETICA: Яндекс-узкий +20% YoY 2025 (третий независимый сигнал к замедлению) + структурные причины перегрева аукциона. +Tamburin (Cossa 23197): прогноз RU ad market 2026 = 1,7–2 трлн ₽ + структурный сдвиг в каналы с прямой связью «показ = продажа» (четвёртый независимый прогноз).
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-05-tg-dnative-7547-7596.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-26-dzen-delovoymir-pervukhin-funnel-5-leaks.md, sources/2026-05-26-tg-cossaru-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -111,7 +111,18 @@ namespace: mkt
 
 По мнению Молянова (verified expert): «За последние 24 месяца рынок digital-маркетинга в России прошёл через структурный сдвиг. Алгоритмы платформ стали агрессивнее, аукционы перенасыщены, а стоимость привлечения клиента растёт опережающими темпами. То, что ещё в 2023 году считалось "рабочей схемой", сегодня даёт отрицательную маржу.» `[conf:medium, src:2026-04-16]`
 
-Это качественно подтверждает количественный тренд замедления роста рынка (с +20% в 2024 до +10% в 2026): рынок растёт, но unit-экономика для рекламодателей ухудшается. [conf:medium, src:2026-04-16]
+Это качественно подтверждает количественный тренд замедления роста рынка (с +20% в 2024 до +10% в 2026): рынок растёт, но unit-экономика для рекламодателей ухудшается. `[conf:medium, src:2026-04-16]`
+
+### Перегрев аукциона Яндекса — структурные причины (Pervukhin/KINETICA)
+
+Третий независимый источник по тому же сдвигу — **Артем Первухин, продакшен-директор KINETICA**, в статье на Деловом мире / Дзен ([[sources/2026-05-26-dzen-delovoymir-pervukhin-funnel-5-leaks]], опубликовано май 2026). Дополняет картину Яндекс-узким срезом + механизмами:
+
+- **Рекламный рынок Яндекса в 2025 вырос +20%** (с учётом e-commerce + retail media) `[conf:high, src:2026-05-26]`. Эта цифра — **широкий Яндекс-scope** (Директ + Е-com + retail media), не совпадает с узким AdIndex для рынка целиком (425,6 млрд ₽ оценка 2025 ≈ +14%). Прямого противоречия нет — разный scope.
+- **Причина перегрева #1 — перераспределение бюджетов:** после ограничений на зарубежные платформы деньги и аудитория сместились в локальные инструменты. Яндекс Директ получил значительный приток рекламодателей, **не увеличив доступный инвентарь пропорционально**. Аукцион отреагировал ростом CPC — в ряде тематик **кратным**. `[conf:medium, src:2026-05-26]`
+- **Причина перегрева #2 — изменение потребительского поведения:** экономическая неопределённость удлинила цикл принятия решений и снизила долю импульсивных покупок. Люди дольше сравнивают, чаще откладывают, реже конвертируются с первого касания. **Итог: клик дорожает, конверсия снижается, CAC растёт с обеих сторон одновременно.** `[conf:medium, src:2026-05-26]`
+- **Operational-следствие:** «нет ниш, где вложил миллион и сразу заработал миллион плюс маржа. Если такая модель работала у вас два года назад — она работала не потому, что вы всё делали правильно, а потому, что **рынок был другим**.» `[conf:medium, src:2026-05-26]`
+
+**Triangulation:** три независимых эксперта (Молянов — vc.ru блог, Гуляев — РАЭК через Коммерсант, Первухин — KINETICA) подтверждают структурный сдвиг с разных углов. Это **quasi-консенсус** российского digital-сообщества о завершении эпохи «дешёвого трафика». Operational-диагностика последствий — [[canon/marketing-frameworks/pervukhin-funnel-5-leaks-diagnostic]].
 
 ## Альтернативная оценка 2025 (широкий scope, Инк.)
 
@@ -126,6 +137,25 @@ namespace: mkt
 
 **Качественное замедление подтверждается обоими источниками:** широкий scope тоже даёт ~10-15% в 2026 vs. +28% в 2025. `[conf:medium, src:2026-04-16]`
 
+## Прогноз Tamburin на 2026 (4-й независимый источник, май 2026)
+
+Четвёртая независимая оценка от **Натальи Ивановской, директора платформы Tamburin**, в статье на Cossa ([[sources/2026-05-26-tg-cossaru-may-19-25-2026]] пост 23197, [cossa.ru/trends/348608](https://www.cossa.ru/trends/348608)):
+
+- **Рынок рекламы в России в 2026: 1,7–2 трлн ₽** (прогноз) `[conf:medium, src:2026-05-22]`. Это **широкий scope** (близкий к оценке Инк. 1,57 трлн для 2025), не узкий AdIndex.
+- **Структурный сдвиг:** рекламные бюджеты **перетекают из классических медиа в каналы с прямой связью «показ = продажа»** `[conf:medium, src:2026-05-22]`. Под этим имеются в виду: performance-каналы, social commerce (VK Шопсы, продуктовые посты), retail media (Ozon, Wildberries, Маркет), MAX как новый mainstream-performance-канал (см. [[volatile-strict/industry-news/yandex-direct-max-messenger-ads-beta-2026-05]]).
+- **Драйверы сдвига:** «давление экономики и технологий» — экономическая неопределённость и AI-tooling, делающие performance-измеримые каналы более ROI-валидируемыми.
+
+**Quadrangulation:** четыре независимых эксперта подтверждают замедление и структурный сдвиг:
+
+| # | Источник | Магнитуда роста | Год |
+|---|---|---|---|
+| 1 | AdIndex/АКАР/НРФ (узкий scope) | +10% | 2026 прогноз | `[conf:high, src:2026-04-10]` |
+| 2 | Гуляев РАЭК через Коммерсант (широкий scope) | 53→28% YoY падение темпов | 2024-2026 | `[conf:high, src:2026-04-24]` |
+| 3 | Pervukhin/KINETICA (Яндекс-узкий) | +20% (с e-commerce + retail media) | 2025 | `[conf:high, src:2026-05-26]` |
+| 4 | Tamburin (Ивановская) | 1,7–2 трлн ₽ (широкий) | 2026 прогноз | `[conf:medium, src:2026-05-22]` |
+
+**Согласованное направление:** все 4 — про **замедление номинальных темпов + структурный сдвиг в performance/social-commerce каналы**. Это даёт **quasi-консенсус** RU-индустрии о завершении эпохи «дешёвого трафика» (см. [[canon/marketing-frameworks/pervukhin-funnel-5-leaks-diagnostic]] для operational последствий).
+
 ## Связанные страницы
 
 - [[evolving-strict/competitor-metrics/social-platforms-ru-audience-2025]]
@@ -134,6 +164,9 @@ namespace: mkt
 - [[canon-strict/legal-claims/ad-marking-russia-2026]]
 - [[evolving-strict/campaign-metrics/telegram-ads-benchmarks-2026]] -- CPL-бенчмарки в Telegram Ads
 - [[canon/marketing-frameworks/partnerships-growth-multiplier]] -- партнёрства как альтернатива paid при высоком CAC
+- [[canon/marketing-frameworks/pervukhin-funnel-5-leaks-diagnostic]] -- operational-диагностика 5 утечек performance-воронки в эпоху перегретого аукциона
+- [[evolving-strict/campaign-metrics/kinetica-funnel-optimization-cases-2025]] -- 3 кейса KINETICA (грузоперевозки, KZ-техника, Подмосковье)
+- [[canon/marketing-frameworks/value-based-bidding-vs-lead-cost]] -- сдвиг performance-метрики от CPL к выручке/прибыли
 - [[evolving/industry-trends/ru-creator-economy-monetization-2026]] -- upstream-слой аспирационных авторов для микроинфлюенсер-экономики
 - [[evolving-strict/market-data/ru-creator-economy-monetization-survey-2026]] -- опрос Hi-Tech Mail (апрель 2026)
 - [[evolving/content-trends/vk-shopsy-creator-playbook]] -- VK Шопсы как канал social-commerce (см. цифры выше)

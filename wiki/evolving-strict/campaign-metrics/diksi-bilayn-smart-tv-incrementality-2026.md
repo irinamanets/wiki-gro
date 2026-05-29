@@ -9,7 +9,7 @@ tags: [campaign-metrics, advertising, ctv, smart-tv, retail-media, attribution, 
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-26  # +cross-ref на сиблинг-кейс «Купер» × Билайн Adtech (media-mix)
 sources: [sources/2026-05-19-dzen-diksi-bilayn-smart-tv-offline-sales-case.md]
 namespace: mkt
 ---
@@ -60,6 +60,8 @@ namespace: mkt
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/clickless-channel-incrementality-stable-id]] — методология измерения click-less каналов
+- [[evolving-strict/campaign-metrics/kuper-bilayn-cross-channel-incrementality-2026]] — сиблинг-кейс того же провайдера (Билайн Adtech), но media-mix из 4 каналов + синергия
+- [[canon/marketing-frameworks/channel-role-funnel-mapping-media-mix]] — роль-декомпозиция каналов + синергия (надстройка над этим кейсом)
 - [[evolving/industry-trends/digital-indoor-retail-media-ru-2026]] — Билайн Adtech как игрок retail-media
 - [[evolving-strict/market-data/digital-ad-cpm-shifts-q1-2026]] — сдвиг бюджетов на CTV/DOOH (макро-контекст)
 - [[evolving-strict/campaign-metrics/ugc-cpv-benchmarks-2026]] — смежные канальные бенчмарки RU-рынка

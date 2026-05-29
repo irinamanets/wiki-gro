@@ -9,8 +9,8 @@ tags: [b2b, ai, consideration, decision]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-16  # +ретейл (dp.ru): 30-40% сокращение штата клининга как FTE-эквивалент в physical operations
-sources: [sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-04-16-dzen-inc-rocket-control-industrial-ai-roi.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md]
+updated: 2026-05-26  # +Сбер GigaAgent enterprise positioning «1 сотрудник = работа пятерых» (Крестников через Егошина-куратора) — second mainstream source FTE-метрики
+sources: [sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-04-16-dzen-inc-rocket-control-industrial-ai-roi.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md, sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -109,6 +109,25 @@ namespace: mkt
 - Появились ли case-study с измеряемыми цифрами высвобождённого FTE от Сбера, Т-Банка, Яндекса.
 - Закрепился ли термин AI-offboarding в HR-методологии.
 
+## Сбер GigaAgent — mainstream-эндорсмент FTE-метрики (добавлено 2026-05-26)
+
+Из [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026|TG-поста 572 Егошина]] — анонс подкаста с **Константином Крестниковым** (управляющий директор Сбера, техлид GigaChain): Сбер позиционирует GigaAgent как «бизнес в коробочке», цель — **«один сотрудник благодаря ИИ выполнял работу пятерых»** `[conf:medium, src:2026-05-21]`.
+
+Это **второй mainstream-источник** конкретно «5x FTE через AI» после SnowBase-консенсуса 2026 (Т-Банк / Яндекс / X5 Tech). **Конвергенция** двух независимых сигналов:
+
+1. SnowBase март 2026 (Т-Банк / Яндекс / X5 Tech через Егошина) — внутренние CIO-сети
+2. Сбер GigaAgent май 2026 (Крестников через Егошина) — публичная продуктовая риторика крупнейшего RU foundation-vendor'а
+
+**Что это значит:**
+
+- **FTE-language вышел из inside-AI-community в mainstream.** Crowded RU C-suite (CEO, CIO, HR-директора) уже понимает фразу.
+- **Конкретное число «×5»** становится benchmark для enterprise sales motion'а (продуктовый pitch «×5 FTE-multiplier»).
+- **Сбер двух-tier positioning** — GigaChat (foundation model) + GigaAgent (agent-layer): классический US-precedent stack (OpenAI gpt-base + ChatGPT Enterprise + ChatGPT Agent / Anthropic Claude + Claude in Workflow).
+
+См. отдельную страницу [[evolving/industry-trends/sber-gigaagent-ai-agents-narrative-2026]] для деталей.
+
+**Anti-benchmark для GRO:** если GRO когда-либо войдёт в B2B-сегмент с FTE-multiplier риторикой, конкуренция будет **прямо с Сбер GigaAgent** — это проигрышная нишa для consumer-product. GRO должен **избегать FTE-language в B2B** и оставаться в **personal productivity / habit-change** нарративе.
+
 ## Параллельный сигнал — Морейнис: «экономия vs рост выручки» вместо абстрактной FTE (добавлено 2026-04-14)
 
 FTE-метрика от Егошина — **одна из двух конкурирующих рамок**, которые одновременно предлагают русскоязычные публичные источники весной 2026. Вторая — рамка **«экономия ИЛИ рост выручки»** от Аркадия Морейниса ([[sources/2026-04-14-tg-temno-moreynis-mar-apr-2026|пост 7771, 2026-04-09]]).
@@ -144,6 +163,8 @@ FTE-метрика от Егошина — **одна из двух конкур
 - [[evolving/industry-trends/agent-first-world-openclaw-2026]] — агенты-first мир делает высвобождение FTE возможным.
 - [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] — соло-фаундер = FTE-компрессия.
 - [[sources/2026-04-14-tg-egoshin-kedprof]] — источник FTE-метрики.
+- [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026]] — second-source mainstream-эндорсмент через Сбер GigaAgent (Крестников).
+- [[evolving/industry-trends/sber-gigaagent-ai-agents-narrative-2026]] — отдельная страница про Сбер GigaAgent positioning.
 - [[sources/2026-04-14-tg-temno-moreynis-mar-apr-2026]] — источник рамки «экономия vs выручка» и тезиса judgement-as-new-bottleneck.
 - [[sources/2026-04-16-dzen-inc-rocket-control-industrial-ai-roi]] — industrial AI проекция того же тренда.
 - [[evolving/industry-trends/industrial-ai-measurable-roi-2026]] — параллельный тренд в индустриальном ИИ.

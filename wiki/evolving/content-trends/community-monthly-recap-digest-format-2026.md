@@ -9,9 +9,9 @@ tags: [content-trends, community, club, telegram, ru, infographic, engagement, d
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-24  # +смежный author-channel вариант «топ публикаций месяца» (Спиридонов, vc.ru id79772_2321090, 2023): сериализованный месячный дайджест как retention + охватные темы-референсы для контент-плана
-prev_updated: 2026-05-19
-sources: [sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md, sources/2026-05-24-vcru-chunk4-condensed.md]
+updated: 2026-05-26  # +corporate-research-digest вариант (СберУниверситет «Дайджест PRO.Людей», апрель 2026): третья parallel-механика monthly-recap (vs community-recap Атлантов и author-channel Спиридонова) — institutional research-aggregation как content asset. Prior 2026-05-24: смежный author-channel вариант «топ публикаций месяца» (Спиридонов, vc.ru id79772_2321090, 2023)
+prev_updated: 2026-05-24
+sources: [sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md, sources/2026-05-24-vcru-chunk4-condensed.md, sources/2026-05-19-sberuniv-pro-people-digest-april-2026.md]
 namespace: mkt
 ---
 
@@ -101,6 +101,33 @@ GRO как self-serve продукт (без membership-community пока) мо
 
 **Применимость для GRO:** месячный «топ постов / лучшее за месяц» канала GRO — дешёвый retention-формат поверх уже созданного контента (та же логика, что product-pulse вариант выше, но для контент-канала). Связь с [[evolving/content-trends/gro-content-rubrics-system|системой рубрик GRO]].
 
+## Третий вариант — corporate-research-digest (СберУниверситет «PRO.Людей»)
+
+Из апрельского выпуска SberUniversity «Дайджест PRO.Людей» (PDF, 14 страниц, distributed через @sber_university + co-promo в RFF post 4432) — institutional corporate research-aggregation вариант той же class-механики. См. [[sources/2026-05-19-sberuniv-pro-people-digest-april-2026]] и [[evolving/content-trends/corporate-monthly-research-digest-format-sberuniv|отдельную страницу формата]].
+
+**Чем отличается от Атлантов и Спиридонова:**
+
+| Параметр | Community-recap (Атланты) | Author-digest (Спиридонов) | **Corporate-research-digest (СберУниверситет)** |
+|---|---|---|---|
+| Что агрегирует | engagement-метрики клуба | собственные публикации автора | **сторонние публикации (1600+ из 70 источников)** |
+| Proof-of | vitality сообщества | продуктивность/охват автора | **rigour research-команды** |
+| Issuer | membership-клуб | author-channel | **institutional R&D-юнит (корпоративный университет)** |
+| Distribution | свой клубный канал | свой канал | **свой канал + co-promo с нишевыми каналами (RFF)** |
+| Production cost | low (метрики + 1 пост) | low (curate own posts) | **high (PDF + 14 страниц + 7 named-команда)** |
+| Cadence | месячный | месячный | **месячный (предположительно)** |
+| Format | TG-пост + JPG-инфографика | TG-пост с links | **PDF + cover/team-page brand-asset** |
+
+**Что общего (универсальные принципы):**
+- **Регулярность создаёт ритм** — все три используют monthly cadence.
+- **Quality-anchoring через числа** — Атланты числа сообщества, Спиридонов своими охватами, СберУниверситет — методологией («1600 публикаций / 70 источников»).
+- **Distribution через relevant каналы** — Атланты внутри своего, Спиридонов в своём, СберУниверситет + co-promo во vertical-каналах.
+- **Brand-asset-ность** — все три имеют узнаваемый visual format.
+
+**Применимость для GRO:** corporate-research-digest для нас **низкая по прямой переносимости** (production-overhead требует Sber-уровня ресурсов), но **высокая по adjacent-stewing**:
+- Используйте СберУниверситет дайджест как **content-aggregator-источник** для своего блога (готовые фреймворки + linkback).
+- Квартальный «mini-digest» вместо monthly — компромисс между Sber-уровнем и Атланты-уровнем.
+- Topic-narrow digest (productivity research месяца) — узкая ниша, где GRO может стать default-источником без race с Sber-scale.
+
 ## Anti-patterns при копировании
 
 - ❌ **Показывать выручку вместо engagement** — смещает восприятие с «живое сообщество» на «бизнес про деньги».
@@ -119,3 +146,6 @@ GRO как self-serve продукт (без membership-community пока) мо
 - [[evolving/industry-trends/ru-smb-mentor-community-market-2026]] — рыночный контекст категории
 - [[sources/2026-05-24-vcru-chunk4-condensed]] — author-channel вариант «топ публикаций месяца» (Спиридонов)
 - [[evolving/content-trends/gro-content-rubrics-system]] — система рубрик GRO (куда ляжет «топ месяца» формат)
+- [[sources/2026-05-19-sberuniv-pro-people-digest-april-2026]] — corporate-research-digest вариант (СберУниверситет «PRO.Людей»)
+- [[evolving/content-trends/corporate-monthly-research-digest-format-sberuniv]] — отдельная страница формата корпоративного research-digest
+- [[evolving/competitor-positioning/sberuniversity-pro-people-positioning-2026]] — positioning СберУниверситета через формат

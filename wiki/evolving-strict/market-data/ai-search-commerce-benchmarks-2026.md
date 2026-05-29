@@ -9,8 +9,8 @@ tags: [ai-search, agentic-commerce, e-commerce, b2b, adobe, mckinsey, gartner, b
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-24  # +второй Adobe-замер (генеративный чат-бот трафик +1200-1700% YoY US, 39%/53%/92%/87% опрос) через Спиридонова id79772
-sources: [sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-24-condense-vcru-chunk2.md]
+updated: 2026-05-26  # +Google AI Mode scale (>1 млрд MAU, запросы ×2/квартал) через Себранта techsparks 5607 (Google I/O 2026 self-report); prior: +второй Adobe-замер (чат-бот трафик +1200-1700% YoY US) через Спиридонова id79772
+sources: [sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-26-tg-techsparks-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -45,6 +45,17 @@ namespace: mkt
 | Реже уходят после первого просмотра | **−23%** | Поведенческий (bounce) | `[conf:medium, src:2026-05-24]` |
 
 **Интерпретация.** Это **второй независимый Adobe-замер** в вики (первый — Black Friday 2025, +805% YoY выше). +1200–1700% YoY на корпусе >1 трлн визитов подтверждает: генеративный чат-бот стал **самостоятельным каналом покупок**, не экспериментом. Поведенческие сигналы (+12% engagement, −23% bounce) означают **более качественный трафик** — пользователь приходит с готовым контекстом после разговора с ботом. В электронике и ювелирке конверсия из ИИ-трафика **уже обгоняет традиционные каналы** `[conf:medium, src:2026-05-24]`. Вывод Спиридонова: «значительная часть клиентского пути начинается с разговора с ботом» — сигнал перестраивать digital-стратегию под GEO/AEO. RU-приземление см. [[evolving/industry-trends/ai-search-aeo-geo-2026|AEO/GEO Спиридонов RU-voice]].
+
+## Google AI Mode — scale (US/global, Google I/O 2026, через Себранта)
+
+Вендор-self-report с [Google I/O 2026](https://blog.google/products-and-platforms/products/search/search-io-2026/), пересказанный Андреем Себрантом ([[sources/2026-05-26-tg-techsparks-may-19-25-2026|@techsparks 5607]], 2026-05-20):
+
+| Метрика | Значение | Контекст | Source |
+|---|---|---|---|
+| Месячная аудитория Google AI Mode | **>1 млрд MAU** | Заявлено на I/O 2026 | `[conf:medium, src:2026-05-20]` |
+| Темп роста числа запросов в AI Mode | **×2 / квартал** (удвоение) | Заявлено на I/O 2026 | `[conf:medium, src:2026-05-20]` |
+
+**Интерпретация.** Это **первая известная нам публичная цифра аудитории отдельного conversational-режима** Google (AI Mode), которую нужно отличать от Comscore-замера долей показов AI Overview (34,9% Google-поисков, [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]]). AI Overview — это AI-блок в обычной выдаче; AI Mode — отдельный диалоговый режим. >1 млрд MAU при квартальном удвоении запросов означает: conversational-поиск перешёл из «фичи для early-adopters» в **mass-market behaviour**, и именно эта освоенность дала Google уверенность переделать поисковую строку «впервые за 25+ лет» (interface-shift — см. [[evolving/industry-trends/ai-search-aeo-geo-2026|Update 2026-05-26]]). `confidence: medium` — вендор-self-report через пересказ, без независимой верификации; абсолютную аудиторию и methodology «удвоения» нужно достать из первичного Google-источника перед использованием в материалах GRO. [conf:low, src:2026-05-26]
 
 ## McKinsey прогноз 2030
 
@@ -123,6 +134,7 @@ _Пока нет противоречий с другими страницами
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — RU-приземление Adobe-данных (Спиридонов GEO-вывод)
 - [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] — первоисточник (PRAGMATIX)
 - [[sources/2026-05-24-condense-vcru-chunk2]] — второй Adobe-замер (Спиридонов id79772)
+- [[sources/2026-05-26-tg-techsparks-may-19-25-2026]] — Google AI Mode scale (Себрант, Google I/O 2026)
 
 ## Backlinks
 

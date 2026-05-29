@@ -9,8 +9,8 @@ tags: [pr, content, awareness, social, virality]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-22-press-release-ideas.md]
+updated: 2026-05-26  # +смежные reactive-форматы: Heinz «салфетки» (спортивная rivalry-эмоция) и Nintendo Pokémon-аэропорт (IP-placemaking) как соседние ветви reactive/experiential креатива
+sources: [sources/2026-05-18-pressfeed-22-press-release-ideas.md, sources/2026-05-26-tg-vcnews-may-14-18-2026.md]
 namespace: mkt
 ---
 
@@ -87,6 +87,7 @@ namespace: mkt
 - **Измерение эффекта:** UTM-метки и брендовый трафик через [[canon/marketing-frameworks/performance-pr-framework]].
 - **Альтернатива:** [[canon/marketing-frameworks/outlier-content-pr-case-studies]] — органический контент как самонесущий инфоповод (медленнее, но не зависит от чужих новостей).
 - **Виральные инфоповоды собственного производства** см. в смежных PR-кейсах: [[canon/marketing-frameworks/creative-pr-symbolic-expressiveness]].
+- **Смежные reactive/experiential-форматы** (не привязка к новости, а к чужой кипящей эмоции / физическому контексту): [[evolving/content-trends/heinz-nhl-jersey-napkin-stunt-2026]] — арендованная rivalry-эмоция спортивного боления; [[evolving/content-trends/nintendo-pokemon-airport-ip-placemaking-2026]] — IP, материализованное в физическую дестинацию. Та же ДНК «оседлать готовую эмоцию/контекст дёшево», но без news-hijack-компонента.
 
 ## Применимость к ГРО
 

@@ -9,8 +9,8 @@ tags: [ai, paid-ads, content, ad-copy, vk, compliance, sms, adtech]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +Билайн.ПРОдвижение: AI расширяется из генерации креатива в автоматизацию compliance (юр-блок СМС)
-sources: [sources/2026-04-16-hh-clickme-ai-tools.md, sources/2026-05-19-vk-reklama-effective-campaigns-deck.md, sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms.md]
+updated: 2026-05-26  # +consumer-tool вектор: PhotoGen (RuStore) — mobile AI-генерация фото/видео как отдельный standalone-инструмент, не только встроенная функция платформы
+sources: [sources/2026-04-16-hh-clickme-ai-tools.md, sources/2026-05-19-vk-reklama-effective-campaigns-deck.md, sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms.md, sources/2026-05-26-rustore-photogen-ai-image-2.md]
 namespace: mkt
 ---
 
@@ -55,6 +55,20 @@ namespace: mkt
 | Генерация креатива | текст + визуал + адаптация форматов | Clickme (hh.ru), VK Реклама |
 | Автоматизация compliance | юр-блок, реквизиты, шаблон под категорию | билайн.ПРОдвижение (Билайн Adtech) |
 
+## Третий вектор: standalone consumer-tool'ы (не встроенная функция платформы)
+
+Параллельно с встроенной AI-генерацией в рекламных кабинетах растёт класс **отдельных мобильных AI-генераторов** — приложений, которые делают тот же визуал (изображения + видео), но как самостоятельный продукт, доступный любому контент-мейкеру вне рекламной платформы. Это снижает порог ещё сильнее: не нужно даже заходить в рекламный кабинет, генерация делается «со смартфона».
+
+Кейс — **PhotoGen: AI Image 2** (RuStore, Android): text-to-image + библиотека шаблонов + image-to-video, заявленные use-cases — соцсети, карточки товаров, портреты, постеры. Подробно — [[evolving/competitor-positioning/photogen-ai-image-2-rustore-2026]], монетизация (coin/credit-freemium) — [[canon/marketing-frameworks/coin-credit-freemium-monetization-mobile-ai]].
+
+| Вектор | Где живёт AI-генерация | Кейсы (RU, 2026) |
+|---|---|---|
+| Встроена в рекламный кабинет | внутри платформы размещения | Clickme (hh.ru), VK Реклама |
+| Compliance в кабинете | внутри платформы размещения | билайн.ПРОдвижение |
+| Standalone consumer-tool | отдельное мобильное приложение | PhotoGen: AI Image 2 (RuStore) |
+
+Следствие для рынка: визуальный креатив дешевеет и демократизируется по двум фронтам сразу — платформы встраивают генерацию, а независимые приложения дают её как массовый consumer-продукт. Для GRO это значит, что «достаточно хороший» визуал доступен любому, и дифференциация смещается с самого факта AI-генерации на качество брендового нарратива.
+
 ## Значение для маркетинга GRO
 
 - **Бенчмарк производительности**: 20-30% прирост CTR от AI-креативов vs stock — ориентир для A/B-тестирования собственных рекламных визуалов GRO
@@ -75,3 +89,6 @@ namespace: mkt
 - [[canon-strict/legal-claims/ad-marking-russia-2026]] — регуляторная рамка, которую автоматизирует compliance-вектор
 - [[sources/2026-05-19-vk-reklama-effective-campaigns-deck]] — официальный VK deck с AI Gen «Креативной студией»
 - [[sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms]] — первоисточник по билайн.ПРОдвижению
+- [[evolving/competitor-positioning/photogen-ai-image-2-rustore-2026]] — standalone consumer-tool вектора: мобильный AI-генератор фото/видео
+- [[canon/marketing-frameworks/coin-credit-freemium-monetization-mobile-ai]] — монетизация standalone AI-генераторов
+- [[sources/2026-05-26-rustore-photogen-ai-image-2]] — первоисточник по PhotoGen

@@ -9,8 +9,8 @@ tags: [content, video, youtube, documentary, founder-content, community, sponsor
 confidence: medium
 stale: false
 created: 2026-05-25
-updated: 2026-05-25
-sources: [sources/2026-05-25-yt-osnovateli-ups-and-downs-film.md]
+updated: 2026-05-28  # +2-е наблюдение формата на тему fashion-кризис (промо «Основатели.DOC» fashion-эпизод через Гуринович пост 921, 5 D2C-founders) → confidence повышен; thumbnail-конвенция обсценный хук + ростер логотипов задокументирована
+sources: [sources/2026-05-25-yt-osnovateli-ups-and-downs-film.md, sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026.md]
 namespace: mkt
 ---
 
@@ -18,7 +18,7 @@ namespace: mkt
 
 Content-формат подкаста/сообщества **«Основатели»** (ведущие — Денис Кутергин, сооснователь YouDo, и Эдуард Гуринович, сооснователь CarPrice). Формирующее наблюдение — фильм [[sources/2026-05-25-yt-osnovateli-ups-and-downs-film|«Ups and Downs»]] (~57 мин), сшивающий первопросные интервью нескольких verified-фаундеров в **единый тематический документальный нарратив** про взлёты и падения. Сохранён как референс формата для контента GRO.
 
-`confidence: medium` — одна точка наблюдения этого конкретного формата на канале. Структурные признаки описаны; воспроизводимость требует ingest-ов других выпусков для повышения до `high`.
+`confidence: medium` — **две точки** наблюдения этого формата (24 мая 2026): фильм «Ups and Downs» (общий resilience-тематик, разнообразный ростер фаундеров) + промо нового выпуска про fashion-кризис (через [[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026|пост 921 @gurinovich_shares]], тематический ростер 5 D2C-fashion-founders — BLCV / USHATAVA / STUDIO 29 / Marcelo Miracles / cosarêve). Структурные признаки описаны; воспроизводимость на 2-й тематический эпизод подтверждена → повышаем `confidence` к **верхней границе medium**. До `high` нужно 2-3 дополнительных наблюдения после ingest полных фильмов.
 
 ## Атрибуция
 
@@ -81,11 +81,45 @@ Content-формат подкаста/сообщества **«Основате�
 - [[evolving/content-trends/entertainment-over-pain-framing]] — контраст: здесь регистр не «развлечение», а «исповедь про боль» — другой эмоциональный полюс awareness-контента.
 
 ## Что нужно для повышения confidence
-- Ingest 2+ выпусков «Основатели» (фильмы/подкаст-эпизоды) для подтверждения воспроизводимости структуры.
+- Ingest 2+ выпусков «Основатели» (фильмы/подкаст-эпизоды) для подтверждения воспроизводимости структуры. **Промо fashion-эпизода (24 мая 2026)** — частично закрыло это требование (см. ниже), но сам фильм пока не ingested.
 - Данные об охватах/конверсии в сообщество (подтвердит ли воронка-гипотезу).
+
+## 2-е наблюдение: fashion-эпизод «Основатели.DOC» (промо, 24 мая 2026)
+
+Через [[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026|пост 921 @gurinovich_shares]] (24 мая 2026) зафиксирован промо нового выпуска «Основатели.DOC», подтверждающий **воспроизводимость структурного формата** на новой теме.
+
+### Что нового подтверждает 2-е наблюдение
+
+| Параметр | Фильм #1 «Ups and Downs» (25 мая) | Фильм #2 fashion-кризис (24 мая, промо) |
+|---|---|---|
+| **Тематический вопрос** | «Какой период жизни ты мог бы назвать дном?» (общая resilience) | «Почему fashion оказался уязвимым? Как сокращаете команды с 50 до 5 и выживаете?» (industry-specific) |
+| **Ростер** | Разнопрофильный (Торбосов, Токовнин, Смолов-футболист, основательница New Self) | Отраслевой (5 D2C-fashion-founders: BLCV / USHATAVA / STUDIO 29 / Marcelo Miracles / cosarêve) |
+| **Тематическая нить** | Взлёты и падения (resilience) | Industry-shift (RU fashion-кризис) |
+| **Регистр** | Исповедально-эмоциональный | Кризисно-survival (по промо) |
+| **YouTube-thumbnail-конвенция** | (не зафиксирована) | Обсценный clickbait-заголовок («ФЭШН-БИЗНЕСУ — ПИ*#Ц») + ростер логотипов героев + единое студийное освещение портретов |
+
+### Что новое наблюдение добавляет к format-anatomy
+
+1. **Industry-specific тематика — масштабируемый extension.** Первый фильм — общий resilience; второй — конкретная индустрия. Это **scalable redactor playbook**: брать любой industry-кризис, собирать N founders сегмента, делать тематический фильм. Применимо к любому after-2022 RU-сегменту в боли.
+2. **Thumbnail-convention зафиксирована.** Обсценный хук-заголовок + ростер логотипов + студийный единый свет. Это **редакционная конвенция канала**, не одноразовое решение. Не цитировать в GRO-блоге напрямую (GRO-tone не обсценный), но фиксировать как **observed pattern** для founder-content sector.
+3. **Confidence на формате повышается.** До этого был 1 datapoint; теперь 2 → формат **воспроизводим**, не one-off случайность.
+
+### Что переносится в GRO (расширение)
+
+К пунктам в разделе «Что переносится в GRO» (см. выше) добавляется:
+
+- **Industry-specific resilience-фильм как scalable формат.** Не нужно ждать «общую resilience-тему» — можно собирать тематический фильм по любой конкретной индустрии-в-боли (например, «как RU edtech 2025 выживает», «как RU food-D2C 2026 сокращается»). 
+- **Cross-source-валидация founders в ростере.** Ushatava (USHATAVA, основательница) — **общий founder** между Гуриновичевым «Основатели.DOC» и Т-Банк × Доли BNPL-album'ом (см. [[sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album]]). Это **подтверждает founder-ростер как живой**, не curated-only-PR. Полезный сигнал — Ushatava одновременно фигурирует в Т-Банк × Доли BNPL-listing (партнёр infrastructure-rescue) и в Основатели.DOC «как выживаете» (founder в кризисе).
+
+### Связи с другими страницами (новые)
+
+- [[evolving/industry-trends/ru-fashion-crisis-2022-2026-osnovateli-promo]] — industry-shift подложка для эпизода
+- [[sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album]] — cross-source Ushatava (общий founder в ростере)
 
 ## Связанные страницы
 - [[sources/2026-05-25-yt-osnovateli-ups-and-downs-film]]
+- [[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026]] — 2-е наблюдение формата (fashion-эпизод промо)
+- [[evolving/industry-trends/ru-fashion-crisis-2022-2026-osnovateli-promo]] — industry-shift подложка fashion-эпизода
 - [[evolving/content-trends/business-history-documentary-format-ru]]
 - [[evolving/content-trends/celebrity-documentary-interview-format-rta-gitelman]]
 - [[evolving/content-trends/founder-history-edutainment-format]]

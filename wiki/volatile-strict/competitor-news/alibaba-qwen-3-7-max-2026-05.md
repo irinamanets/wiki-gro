@@ -9,8 +9,8 @@ tags: [alibaba, qwen, china-ai, agent, swe-bench, terminal-bench, frontier-model
 confidence: high
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-boris-again-may-19-24-2026.md]
+updated: 2026-05-26  # +3rd source @neuraldvig 10770-10772 (2026-05-21): подтверждение 35h autonomous demo / 1158+ tool calls / CUDA optimization ×10 — третий независимый канал, factual набор совпадает
+sources: [sources/2026-05-26-tg-boris-again-may-19-24-2026.md, sources/2026-05-26-tg-neuraldvig-may-19-22-2026.md]
 namespace: mkt
 ---
 
@@ -83,6 +83,7 @@ Anonces заявил, что **Plus-версия (мультимодальная
 ## Связанные страницы
 
 - [[sources/2026-05-26-tg-boris-again-may-19-24-2026]] — первоисточник (пост 3918)
+- [[sources/2026-05-26-tg-neuraldvig-may-19-22-2026]] — **3rd-source attest** (10770-10772): подтверждение 35h autonomous demo / 1158+ tool calls / CUDA-оптимизация ×10 в feed-канале RU AI-news
 - [[volatile-strict/competitor-news/google-gemini-3-5-flash-launch-2026-05]] — параллельный конкурент по mid-tier
 - [[volatile-strict/competitor-news/deepseek-v4-pro-price-cut-2026-05]] — другой китайский ход той же недели
 - [[evolving/industry-trends/china-ai-manufacturing-momentum-2026]] — общий нарратив китайского AI-momentum'а

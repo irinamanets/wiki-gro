@@ -9,8 +9,8 @@ tags: [content, telegram, founder-voice, hooks, solopreneurship, case-studies, l
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +4-й ingest 2026-05-19 (посты 631-632): FaceKit AI-инфлюенсер кейс (looksmaxxing app, abandon-cart) + 10 пунктов про рынок РФ
-sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md]
+updated: 2026-05-26  # +5-й ingest 2026-05-26 (посты 634-637): Lovable+Semrush integration + YC Summer 2026 RFS bootstrap-filter + RemoveWise $21K MRR cold-outreach кейс + founder-vs-passerby persistence-фрейм с timeline-якорями
+sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md]
 namespace: mkt
 ---
 
@@ -279,6 +279,55 @@ namespace: mkt
 - **«В России запускаться проще, масштабировать сложнее. Низковисящие фрукты собираются за полгода.»** — realistic-roadmap hook.
 - **«RU-финтех — это кайф. Банки и платёжки: быстро, чётко, без KYC по полгода.»** — fintech-advantage hook.
 
+## Hooks из дельты пятого дампа (посты 634-637, 2026-05-26)
+
+Добавлено [delta] из [[sources/2026-05-26-tg-your-pet-project-may-20-25-2026|пятого ingest'a канала]]. Четыре темы, каждая выделена в отдельную полноценную `canon/marketing-frameworks` страницу.
+
+### Lovable+Semrush integration — pre-launch SEO research за 10 минут (пост 634)
+
+См. [[canon/marketing-frameworks/ai-builder-data-integration-distribution-shift]]. Killer one-liners:
+
+- **«Раньше ресерч ниши — 8 часов вручную. Теперь — 10 минут внутри AI-билдера.»** `[conf:medium, src:2026-05-20]` — opening hook awareness-стадии.
+- **«Окно возможностей короткое. Поток новых сайтов вырастет ×100. Надо быть в начале нейрослопа, а не в конце.»** — FOMO-hook.
+- **«AI-инструмент перестаёт быть инструментом. Он становится workspace для пред-запуска: ниша + SEO + лендинг одновременно.»** — категорийный сдвиг hook.
+- **«Раньше — Semrush Pro $140/мес или Ahrefs Lite $129/мес. Теперь — $0 встроены в Lovable.»** `[conf:medium, src:2026-05-20]` — economics hook.
+- **«28 миллиардов ключей, 43 триллиона backlinks, 808 миллионов доменов по 32 регионам — параллельно с генерацией лендинга.»** `[conf:medium, src:2026-05-20]` — scale hook.
+- **«Caveat:** «это только 30% от всей работы по SEO». — editorial-skepticism для balanced-content.
+- **Cross-link:** [[evolving/competitor-positioning/vibecoding-stack-ecosystem-2026]] (L1-категория, в которой произошёл сдвиг).
+
+### YC Summer 2026 RFS — фильтрация для bootstrap-фаундера (пост 635)
+
+См. [[canon/marketing-frameworks/yc-rfs-bootstrap-filter-tabunov]]. Killer one-liners:
+
+- **«YC играет вдолгую. Тебе вдолгую играть некогда — у тебя работа, ипотека и желание не просидеть еще пять лет на одной и той же позиции.»** — opening contrarian hook.
+- **«Из 15 YC-идей для bootstrap-фаундера годится 4. Остальные — для тех, кто умеет питчить инвесторов.»** — selection-rate hook.
+- **«AI-агентство из одного человека. Software for agents. Company Brain. AI OS для компаний. 4 категории, где платят сегодня.»** — actionable shortlist hook.
+- **«Космос, регуляторика, F100-клиенты, hardware — это не для пет-проекта по выходным.»** — disqualifier-list hook.
+- **«Пока стартаперы 2 года питчат убыточный проект, ты за выходные навайбкодишь простой инструмент в одной из этих ниш. И начнёшь получать оплаты через пару месяцев.»** — VC-bootstrap arbitrage hook (готовый closing).
+
+### RemoveWise — $21K MRR cold-outreach high-ticket кейс (пост 636)
+
+См. [[evolving-strict/competitor-metrics/removewise-deepfake-takedown-saas-21k-mrr]] и [[canon/marketing-frameworks/cold-outreach-with-found-problem-removewise]]. Killer one-liners:
+
+- **«$21K MRR на удалении дипфейков знаменитостей. Founder — бывший legal-ops YouTube. Шесть недель от запуска до первого платежа.»** `[conf:medium, src:2026-05-22]` — opening case-hook.
+- **«5 cold-email'ов → 3 ответа. Так не бывает. Бывает, если ты пишешь не "купите подписку", а "вот что я нашёл про вас".»** `[conf:medium, src:2026-05-22]` — pre-launch validation hook.
+- **«Никаких "дипфейки — растущая угроза". Только конкретика и доказательства проблемы, о которой клиент не знал.»** — anti-generic-pitch hook.
+- **«Стек на старте: Эксель таблица + шаблоны жалоб + email-скрипт. Софт подключается потом.»** — anti-overengineering hook.
+- **«Идеальный Recurring Revenue: отвалиться клиент не может, иначе фейков станет больше. Технологии генерации дешевеют каждый месяц.»** — defensible-business hook.
+- **Anti-pattern для GRO:** имитировать форму «вот что я нашёл про вас» без реального ресерча — это cargo-cult, не работает.
+
+### Founder vs random-passerby — persistence-фрейм с timeline-якорями (пост 637)
+
+См. [[canon/marketing-frameworks/founder-vs-passerby-mindset-tabunov]]. Killer one-liners:
+
+- **«Не год. Не два месяца. Не "за лето попробую". Три-пять лет нормальной работы.»** `[conf:medium, src:2026-05-25]` — temporal-anchor closing hook.
+- **«Между первой оплатой и реальным бизнесом — 9 месяцев минимум. 90% бросают в этой зоне.»** `[conf:medium, src:2026-05-25]` — danger-zone hook.
+- **«"Рынок не тот", "конкуренты давят", "надо было другой стек" — мозг подсовывает удобную причину сдаться.»** — anti-pattern-reasoning hook.
+- **«Случайный прохожий сдаётся и идёт искать "ту самую" идею. Фаундер просто продолжает.»** — binary-classification hook.
+- **«Опыт = пройденный путь до результата. Не пройденный отрезок.»** — strong contrarian one-liner.
+- **«Бросишь на полпути — дело не в проекте. Дело в тебе.»** — provocative founder-voice closing.
+- **Adaptation для GRO:** жёсткую «ты лузер, если бросил» формулировку переформулировать в «GRO помогает не оказаться в этой ловушке через системность ежедневных шагов».
+
 ## Anti-hooks (что не транслировать)
 
 - **Матерок** — «нафиг», «хана», «жопа», «блин сука» — нормально для founder-voice Табунова, но tone of voice GRO не канонизирован (см. [[canon/brand-guidelines/gro-typography]]), по умолчанию переформулировать.
@@ -306,6 +355,13 @@ namespace: mkt
 - [[canon/marketing-frameworks/ru-it-market-launch-playbook-tabunov]] — четвёртый ingest (пост 632, рынок РФ)
 - [[evolving-strict/market-data/ru-it-market-launch-economics-2026]] — четвёртый ingest (пост 632, числа рынка РФ)
 - [[sources/2026-05-19-tg-your-pet-project-may-14-18-2026]] — четвёртый ingest
+- [[canon/marketing-frameworks/ai-builder-data-integration-distribution-shift]] — пятый ingest (пост 634, Lovable+Semrush)
+- [[canon/marketing-frameworks/yc-rfs-bootstrap-filter-tabunov]] — пятый ingest (пост 635, YC RFS filter)
+- [[canon/marketing-frameworks/cold-outreach-with-found-problem-removewise]] — пятый ingest (пост 636, outreach pattern)
+- [[evolving-strict/competitor-metrics/removewise-deepfake-takedown-saas-21k-mrr]] — пятый ingest (пост 636, метрики)
+- [[evolving/industry-trends/deepfake-removal-saas-market-2026]] — пятый ingest (пост 636, индустриальный тренд)
+- [[canon/marketing-frameworks/founder-vs-passerby-mindset-tabunov]] — пятый ingest (пост 637, persistence-фрейм)
+- [[sources/2026-05-26-tg-your-pet-project-may-20-25-2026]] — пятый ingest
 - [[evolving/content-trends/tabunov-founder-growth-hooks]]
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
 - [[evolving/content-trends/contrarian-framing-expert-telegram]]

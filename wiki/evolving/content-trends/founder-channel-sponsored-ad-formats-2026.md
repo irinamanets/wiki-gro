@@ -9,8 +9,8 @@ tags: [content, telegram, sponsored-ad, native-advertising, founder-channel, eri
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-18  # +Pattern 4: крупный рекламодатель (Альфа-Банк) размещает множественные кампании в нишевом vertical-community-канале (HR/@rff_channel) для охвата аудитории «предприниматели + HR»
-sources: [sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md, sources/2026-05-18-tg-rff-channel-may14-18-2026.md]
+updated: 2026-05-26  # +Pattern 5: Т-Бизнес × Саша Тито — artifact-first founder-as-artist в @startupoftheday (sponsored); +Pattern 6: Avanpost Identity Cloud — fear-stat + free-until-deadline B2B-cybersec в @startupoftheday (sponsored). Оба показывают, как B2B-вендоры используют founder-каналы как targeted distribution.
+sources: [sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md, sources/2026-05-18-tg-rff-channel-may14-18-2026.md, sources/2026-05-26-tg-startupoftheday-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -109,7 +109,63 @@ namespace: mkt
 
 **Применимо ли в GRO-контенте:** косвенно — это **distribution-инсайт**, а не creative-формат. Если GRO покупает размещения, **нишевые vertical-community-каналы с audience-overlap** (предприниматели + продуктивность) могут давать лучший таргет, чем широкие founder-каналы. Но campaign-density выше 1–2/мес на одном канале рискует ad-fatigue.
 
-## Сравнение четырёх паттернов
+## Pattern 5: Artifact-first founder-as-artist (Т-Бизнес × Саша Тито)
+
+**Источник:** [@startupoftheday](https://t.me/startupoftheday) пост 5078 от 2026-05-22 (sponsored), маркировка `Реклама. АО «ТБанк». ИНН 7710140679. erid: 2SDnjct7bQE`. Полный разбор в [[evolving/competitor-positioning/tbank-business-card-sasha-tito-2026]].
+
+**Структура (5 блоков):**
+
+1. **Артефакт-hook без product mention:** «В очень большом чемодане Т-Бизнес прислал дизайнерскую карту. Реально красиво». Главным героем поста становится **physical artifact** (premium алюминиевый chemodan-кейс), а не финансовый продукт.
+2. **Reframing «продукт = подпись/identity»:** «Кусок пластика — как татуировка, просто знак авторства. Как у художника под картиной, так и у предпринимателя — своя карта». Превращает business-card из утилитарной банковской необходимости в **identity-артефакт**.
+3. **Founder-pain hook:** «Я сам как предприниматель знаю, как рутина выжимает всё вдохновение... Путь к ним лежит только через творчество и развитие».
+4. **Solution + adjacent value-prop:** «Занимайтесь тем, что вас захватывает, рутину доверьте Т-Бизнесу». Связывает artifact-narrative с operational-value (рутина → Т-Бизнес снимает).
+5. **CTA + scarcity:** «Оформить лимитированную бизнес-карту с дизайном от Саши Тито... Успейте — тираж ограничен».
+
+**Маркировка:** в **визуале** (footer на ad-cover изображении) — `Реклама. АО «ТБанк». ИНН 7710140679 erid: 2SDnjct7bQE`. Текстовый upfront disclosure отсутствует — читатель проходит founder-pain нарратив до того, как замечает маркировку. Юридически compliant, но в серой зоне native/sponsored.
+
+**Что в формате работает:**
+- **Artifact-first vs message-first.** Photo of premium aluminium chemodan центрируется визуально, текст — supporting. Это **gives читателю reason заметить**, прежде чем product-pitch.
+- **Designer-collaboration (Саша Тито)** заимствует cultural capital из артистического сообщества. Не просто «банк» — «банк, который сотрудничает с настоящим художником».
+- **Founder-as-artist reframing** — narrative twist, превращающий банковскую карту из commoditized financial-tool в **statement of identity**.
+- **Native author endorsement.** Горный говорит «прислали в чемодане, реально красиво» в **first-person**. Не «банк сделал классную кампанию», а «я как пользователь это получил». Это reads как author's organic discovery, не как sponsored content.
+
+**Что в формате может не работать:**
+- Аудитория Горного (founders/VCs) пересекается с target buyer'ом Т-Бизнес-карты — для **другого founder-канала** с другой аудиторией (например, психология/lifestyle) этот frame будет mismatched.
+- **«Founder = художник»** reframing работает для creator-friendly аудитории; для traditional/operations-heavy founder'ов может звучать претенциозно.
+
+**Применимо ли в GRO-контенте:** **частично, как distribution-инсайт**. GRO может **сделать physical artifact** (limited-edition kit для long-time подписчиков) и распространять через founder-каналы с artifact-first narrative. Также: «доверь рутину» как adjacent для GRO — «доверь GRO базовую физическую форму, а сам создавай».
+
+## Pattern 6: Security/B2B-вендор через fear-stat + free-until-deadline (Avanpost Identity Cloud)
+
+**Источник:** [@startupoftheday](https://t.me/startupoftheday) пост 5086 от 2026-05-25 (sponsored), маркировка `Реклама. ООО «Аванпост». ИНН: 7722778473. erid: 2VtzqxgN33E`. Полный разбор в [[evolving/competitor-positioning/avanpost-identity-cloud-2026]].
+
+**Структура (6 блоков):**
+
+1. **Provocative warning question:** «Внедрили 2F в компании и спите спокойно? Зря 😎» — превращает потенциального читателя из «у нас всё ок» в «надо разобраться».
+2. **Fear-anchored stat:** «В 80% случаев хакеры обходят базовую двухфакторную защиту (по статистике Verizon)». **Verizon DBIR** — индустриальный benchmark, что даёт stat'у authority. Это **anchoring move** — переопределяет «нужна базовая 2FA» в «у вас нет защиты».
+3. **Authority-frame:** «🅰🅰🅰 подумал за вас: используя свой опыт и требования компаний с высоким риском атак, мы создали...». Vendor positions себя как **expertise-transfer** из enterprise-сегмента в SMB-cloud.
+4. **Product features as bullet-list with star-emoji:** Access Bridge, отказоустойчивость, офлайн-аутентификация. Compact technical proof.
+5. **Free-until-deadline CTA:** «До 1 сентября бесплатно для любого числа пользователей, далее — тарификация по пользователю, а не блоком». Два activation mechanics: (a) **calendar-anchored deadline** на free-trial, (b) **per-user pricing** против per-seat-pack (apellative для SMB).
+6. **Inline button CTA:** «Го тестить!» — casual, в founder-canon, не corporate.
+
+**Креатив (5086.jpg):** dark-blue gradient sky + cloud-illustrations, white robot-dog character (anthropomorphic security mascot), header «MFA, SSO и контроль устройств в безопасном облаке», orange chip «Тестирование бесплатно до 1 сентября», лого Avanpost × Identity Cloud lockup. **Tonality — playful** (робот-собачка), что redko в B2B-cybersec, где dominantly «hard masculine military» aesthetic.
+
+**Маркировка:** в текстовой preamble (нет) + в **визуальном footer** изображения. Compliant.
+
+**Что в формате работает:**
+- **Verizon DBIR stat** даёт authoritative anchor — индустриальный source, не self-reported.
+- **Free-until-deadline** добавляет urgency, которой нет у генеричных «free trial» CTA.
+- **Per-user vs blocks pricing argument** прямо apellирует к SMB pain (не нужно платить за «50 seats» при реальной потребности 12).
+- **Playful mascot** дифференцирует от хорошо-знакомого «cybersec doom» messaging.
+- **Founder-channel placement** хорошо таргетирован — SMB-founders сами решают по cybersec в своих компаниях, что Avanpost Identity Cloud попадает в их зону ответственности.
+
+**Что в формате может не работать:**
+- **Verizon DBIR stat** работает только если читатель уже верит в важность 2FA-усиления. Для founder'ов, не вовлечённых в security — это ещё один cybersec-нарратив в потоке.
+- **Tech-features list** может быть TLDR для аудитории, не закаённой в IAM-терминологии.
+
+**Применимо ли в GRO-контенте:** **косвенно, как mechanism-инсайт**. GRO может тестировать **calendar-anchored deadline** на triale (вместо «14 дней» — «до конца месяца») для urgency boost. Также: **per-user pricing для GRO Corporate Intensive** против per-cohort packs (см. [[canon/product-knowledge/gro-intensive]]).
+
+## Сравнение шести паттернов
 
 | Паттерн | Engagement-механика | Maintenance cost | Trust-impact на канал |
 |---|---|---|---|
@@ -117,6 +173,8 @@ namespace: mkt
 | 2. «Гостевой профиль» (Коннект) | Medium engagement, high curation-value | High (нужен curator, регулярный cadence) | High (sponsored-ad seamlessly integrated с organic-form) |
 | 3. Footer-маркировка на визуале | Не самостоятельный паттерн — supplement к (1) или (2) | Минимум (один template) | Не влияет на trust сам по себе |
 | 4. Vertical-community-канал (media-buy) | Зависит от audience-overlap; relevance площадки вместо persona-trust | Низкий для рекламодателя (классический media-buy), но требует подходящей площадки | Снижается при высокой campaign-density (ad-fatigue) |
+| 5. Artifact-first founder-as-artist (Т-Бизнес × Тито) | Tactile/aesthetic engagement через unboxing + identity-reframing; ограничено creator-aligned аудиториями | Высокий (надо производить limited-tirage physical artifact + collab с художником) | High (artifact-discovery читается как author's organic find, не как ad) |
+| 6. Fear-stat + free-until-deadline (Avanpost) | Authority-stat + urgency-deadline + per-user pricing — целевой apellation для B2B-SMB | Средний (классическая B2B-кампания, требует authoritative source + creative team) | Medium (clearly identified как sponsored, но targeted-relevance для founder-audience снижает intrusion) |
 
 ## Гипотезы про дрейф формата на 2026-Q3–Q4
 
@@ -128,6 +186,9 @@ namespace: mkt
 
 - [[sources/2026-05-14-tg-fomichevkirill-may-6-14-2026]] — первичный источник pattern'а 1 и подтверждение pattern'а 2
 - [[sources/2026-05-18-tg-rff-channel-may14-18-2026]] — источник pattern'а 4 (Альфа-Банк ×3 кампании в @rff_channel)
+- [[sources/2026-05-26-tg-startupoftheday-may-20-26-2026]] — источник pattern'ов 5 (Т-Бизнес × Тито) и 6 (Avanpost Identity Cloud)
+- [[evolving/competitor-positioning/tbank-business-card-sasha-tito-2026]] — Pattern 5 deep-dive
+- [[evolving/competitor-positioning/avanpost-identity-cloud-2026]] — Pattern 6 deep-dive
 - [[evolving/content-trends/bank-cultural-institution-cobranding-2026]] — одна из кампаний (Альфа × Подписные), разобранная как co-branding
 - [[evolving/content-trends/tabunov-founder-growth-hooks]] — близкий founder-объяснил-боль pattern в @bossofyourboss
 - [[evolving/content-trends/forbes-russia-native-ad-pattern-2026]] — длинноформатный native в editorial-канале

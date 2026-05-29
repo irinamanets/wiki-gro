@@ -9,8 +9,8 @@ tags: [framework, sales, b2b, smb, follow-up, second-touch, meeting-discipline, 
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19
-sources: [sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md, sources/2026-05-19-pressfeed-guschina-networking-6-rules.md]
+updated: 2026-05-26  # +cross-link к agreement-fixation-discipline-fomichev: тот же автор фиксирует ту же дисциплину в partnership-домене (пост 2434, 20 мая 2026), укрепляя обобщение «фиксация важнее интенсивности»
+sources: [sources/2026-05-14-tg-fomichevkirill-may-6-14-2026.md, sources/2026-05-19-pressfeed-guschina-networking-6-rules.md, sources/2026-05-26-tg-fomichevkirill-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -113,6 +113,7 @@ Mental model одна и та же: **отсутствие follow-up = 0 на к
 ## Связанные источники и frameworks
 
 - [[sources/2026-05-14-tg-fomichevkirill-may-6-14-2026]] — первичный источник
+- [[canon/marketing-frameworks/agreement-fixation-discipline-fomichev]] — partnership-side дисциплины фиксации того же автора (пост 2434, 20 мая 2026); «второе касание» (sales) и «нет договора — значит не надо» (partnership) — две стороны одной operational дисциплины: процессная фиксация важнее эмоциональной интенсивности
 - [[canon/marketing-frameworks/sales-100-formula-shevelev]] — комплементарная формула закрытия сделки
 - [[canon/marketing-frameworks/marketer-task-typing-fomichev]] — другой framework того же автора
 - [[canon/marketing-frameworks/sales-crm-minimum-fieldset]] — где хранятся резюме встреч
@@ -121,3 +122,4 @@ Mental model одна и та же: **отсутствие follow-up = 0 на к
 - [[canon/marketing-frameworks/marketing-sales-alignment-framework]] — как marketing-команда видит этот gap со стороны pipeline'а
 - [[canon/marketing-frameworks/networking-6-rules-guschina]] — параллельный фреймворк второго касания для networking-контекста (правило 6, 24h follow-up)
 - [[sources/2026-05-19-pressfeed-guschina-networking-6-rules]]
+- [[sources/2026-05-26-tg-fomichevkirill-may-20-26-2026]] — продолжение паттерна того же автора

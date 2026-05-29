@@ -9,8 +9,8 @@ tags: [deepseek, v4-pro, china-ai, pricing, open-weights, cost-efficiency]
 confidence: high
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-boris-again-may-19-24-2026.md]
+updated: 2026-05-26  # +3rd source @neuraldvig 10777 (2026-05-22): прямое сравнение «$0.435/$0.8 у DeepSeek vs $1.5/$9 у Gemini 3.5 Flash» — третий независимый канал
+sources: [sources/2026-05-26-tg-boris-again-may-19-24-2026.md, sources/2026-05-26-tg-neuraldvig-may-19-22-2026.md]
 namespace: mkt
 ---
 
@@ -72,6 +72,7 @@ DeepSeek позиционирует себя как **«AWS S3» из мира �
 ## Связанные страницы
 
 - [[sources/2026-05-26-tg-boris-again-may-19-24-2026]] — первоисточник (пост 3918)
+- [[sources/2026-05-26-tg-neuraldvig-may-19-22-2026]] — **3rd-source attest** (пост 10777, 2026-05-22): прямое сравнение цен с Gemini 3.5 Flash в RU AI-news-канале
 - [[volatile-strict/competitor-news/google-gemini-3-5-flash-launch-2026-05]] — параллельный mid-tier ход той же недели
 - [[volatile-strict/competitor-news/alibaba-qwen-3-7-max-2026-05]] — frontier-open позиция
 - [[volatile-strict/competitor-news/cohere-command-a-plus-2026-05]] — frontier-open RAG-позиция

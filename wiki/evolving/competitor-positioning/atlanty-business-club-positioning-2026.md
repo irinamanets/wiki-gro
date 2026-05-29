@@ -5,15 +5,17 @@ type: page
 subtype: competitor
 layer: evolving
 theme: competitor-positioning
-tags: [competitor, community, club, ru, b2b, telegram, ai, event-marketing, membership]
+tags: [competitor, community, club, ru, b2b, telegram, ai, event-marketing, membership, ooh]
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28  # +Krylov speaker-confirmation на Атланты Сити (1582); +event-detail extension (5 дней, IT/креативный кварталы, школа/университет, 3 концерта, ЗАГС); +cross-source date discrepancy 22-26 (Krylov) vs 22-25 (OOH)
 sources:
   - sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md
   - sources/2026-05-14-tg-community-tech-voronin-may-2026.md
   - sources/2026-04-14-tg-community-tech-voronin-feb-apr-2026.md
+  - sources/2026-05-26-tg-community-tech-atlanty-city-ooh-992.md
+  - sources/2026-05-26-tg-howtomake10x-may-20-26-2026.md
 namespace: mkt
 ---
 
@@ -31,7 +33,7 @@ namespace: mkt
 - **Founder / публичный голос:** Михаил Воронин (см. [[canon/marketing-frameworks/voronin-preventive-social-capital]])
 - **Telegram:** [@community_tech](https://t.me/community_tech) — авторский канал founder'а (он же marketing-voice клуба)
 - **Возраст:** ~9 лет (9-летие отмечалось в мае 2026, см. [[sources/2026-05-14-tg-community-tech-voronin-may-2026]])
-- **Флагманский event:** фестиваль «Атланты Сити» (22–26 июня 2026, Сочи, ~2000 предпринимателей)
+- **Флагманский event:** фестиваль «Атланты Сити» (22–26 июня 2026 по Krylov / 22–25 июня по OOH-креативу — возможна редакция программы, см. cross-source конфликт ниже; Сочи, Курорт Красная Поляна 960, ~2000 предпринимателей с семьями, 200 спикеров)
 - **Audience:** established Russia-resident предприниматели/фаундеры зрелого бизнеса (high-tier, не micro-SMB)
 - **Размер базы:** ~1231 предприниматель в сообществе (апрель 2026, self-reported) — точные числа в [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]]
 
@@ -45,7 +47,24 @@ namespace: mkt
 
 - **~90 мероприятий в месяц** (апрель 2026) — высочайший event-throughput в категории `[conf:medium, src:2026-05-15]`.
 - Встречи с named-предпринимателями: апрель 2026 — STONE (Санфиров), СКОЛКОВО (Витчак), SPLAT Global (Дёмин), AI-инвестиции (Давыдов).
-- Флагман «Атланты Сити» — фестиваль на 2000 человек с публичным 9-канальным маркетинг-планом (см. кейс в [[volatile/weekly-digest/voronin-community-tech-feb-apr-2026]] раздел 1).
+- Флагман «Атланты Сити» — фестиваль на 2000 человек с публичным 9-канальным маркетинг-планом (см. кейс в [[volatile/weekly-digest/voronin-community-tech-feb-apr-2026]] раздел 1). К маю 2026 микс расширен **OOH-каналом**: брандмауэр у гостиницы «Москва» в центре Москвы с креативом «бренд + tagline „для предпринимателей и их семей“ + 7 портретов спикеров + даты 22–25 июня» — фото OOH публикуется в @community_tech как process-content (см. [[volatile/weekly-digest/voronin-community-tech-feb-apr-2026]] раздел 7). **Speaker-roster подтверждается** через канал самих спикеров — Виталий Крылов (ex-CEO Gett, см. [[sources/2026-05-26-tg-howtomake10x-may-20-26-2026]] post 1582) публикует свою speaker-confirmation 26 мая 2026 с собственными affiliate-discount-CTA `@vitaly_kr` — это **cross-channel distribution-mechanic** (OOH + author-channels отдельных спикеров + own-канал клуба).
+
+### Атланты Сити — расширенное описание программы (по cross-source data)
+
+По cross-source data ([[sources/2026-05-26-tg-howtomake10x-may-20-26-2026]] post 1582 — Krylov как confirmed speaker, цитирует Атланты-pitch):
+- **Длительность:** 5 дней (Krylov: «с 22 по 26 июня»; OOH: «22–25 июня» — возможна редакция программы или сокращение для читаемости креатива). Открытый вопрос для cross-check.
+- **Локация:** **снят весь Курорт Красная Поляна 960 под фестиваль**.
+- **Self-position:** «не „конференция" в обычном смысле — целый город предпринимателей на 5 дней».
+- **Программа-структура:**
+  - «Улицы продаж, финансов и команды»
+  - **IT-квартал + креативный квартал**
+  - **Школа и университет для детей** участников (family-positioning operationalised)
+  - Фудзона из лучших ресторанов 16 городов
+  - 3 концерта звёзд, ночной клуб
+  - **Свой ЗАГС** (signature-feature — peer-bonding до уровня семейных событий)
+- **Family-positioning:** «2000+ участников с семьями» — direct extension family-angle из OOH-tagline («для предпринимателей и их семей»). Это **родительский RU-extension business-festival**, не чисто-business-event.
+
+`[conf:medium, src:2026-05-26]` — cross-source verification через 2 канала (community_tech-side OOH + speaker-side Krylov), но детали программы заявлены event-organizer'ом (self-position маркетингового материала).
 
 ### Приложение клуба + АтлантGPT (новое, 2026)
 
@@ -96,12 +115,15 @@ namespace: mkt
 
 ## Contradictions
 
-Нет — первый dedicated competitor-профиль клуба (раньше «Атланты» жили только как bullet-point внутри [[evolving/industry-trends/ru-smb-mentor-community-market-2026]] и framework-страница [[canon/marketing-frameworks/voronin-preventive-social-capital]]).
+- **[2026-05-28]** Конфликт дат фестиваля «Атланты Сити»: по Krylov post 1582 ([[sources/2026-05-26-tg-howtomake10x-may-20-26-2026]]) **«с 22 по 26 июня»** (5 дней), по OOH-креативу в [[sources/2026-05-26-tg-community-tech-atlanty-city-ooh-992]] на брандмауэре у гост. «Москва» — **«22–25 июня»** (4 дня). Возможная резолюция: OOH-копирайтер сократил до 4 дней для читаемости креатива, а Krylov цитирует полную программу включая technical-день (например, заезд + check-in 22-го). Не противоречие, а **редакция формулировки между каналами**. Confidence на «5 дней (22-26)» — `medium` (founder-side affirmation в speaker-канале Krylov'а имеет больший вес для program-content vs OOH-креатив с дизайн-constraint'ами).
+- Cross-source date discrepancy — **в content'е GRO не цитировать конкретные даты** до подтверждения через own-канал «Атлантов» (event-landing).
 
 ## Связанные страницы
 - [[sources/2026-05-19-tg-community-tech-voronin-april-recap-991]] — источник (recap-пост 991 + инфографика)
 - [[sources/2026-05-14-tg-community-tech-voronin-may-2026]] — предыдущая выборка канала (982-990)
 - [[sources/2026-04-14-tg-community-tech-voronin-feb-apr-2026]] — первая выборка канала
+- [[sources/2026-05-26-tg-community-tech-atlanty-city-ooh-992]] — OOH-тизер Атланты Сити (post 992)
+- [[sources/2026-05-26-tg-howtomake10x-may-20-26-2026]] — Krylov speaker-confirmation на Атланты Сити (post 1582)
 - [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]] — numeric метрики клуба
 - [[evolving/content-trends/community-monthly-recap-digest-format-2026]] — content-формат recap-дайджеста
 - [[evolving/industry-trends/ru-smb-mentor-community-market-2026]] — категория RU-paid-peer-community

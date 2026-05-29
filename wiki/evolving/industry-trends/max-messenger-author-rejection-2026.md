@@ -9,8 +9,8 @@ tags: [trend, max, messenger, telegram, authors, community, russia, expert-opini
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-22  # +stodnevka2 fourth re-dump may 15-19 2026 — книжная часть 2 ПОДТВЕРЖДЕНА готовой (пост 2310, 2026-05-18), новое письмо анонсировано = cadence sustained ~75+ дней; +market-mood signal (пост 2311, 2026-05-19): «охваты падают, покупок меньше, многие в режиме выживания». Ранее: +stodnevka2 third re-dump may 6-14 — письмо #11; +content-as-accelerator. +re-dump apr-may — письмо #10 на 2026-05-04
-sources: [sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md]
+updated: 2026-05-26  # +stodnevka2 fifth re-dump may 20-26 2026 — newsletter cadence sustained ~90 дней (письмо #13 «брать меньше за любимое», посты 2321/2322); 2 PDF-книги опубликованы как lead-magnet к платной Стодневке (старт 1 июня 2026); 3-уровневая воронка артикулирована (PDF → newsletter → платная). Ранее: +fourth re-dump may 15-19 — книжная часть 2 ПОДТВЕРЖДЕНА готовой (пост 2310, 2026-05-18); +market-mood signal (пост 2311, 2026-05-19): «охваты падают, покупок меньше, многие в режиме выживания»; +third re-dump may 6-14 — письмо #11; +content-as-accelerator; +re-dump apr-may — письмо #10 на 2026-05-04
+sources: [sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -101,6 +101,22 @@ namespace: mkt
 1. **Книжная часть 2 — выход content-mechanism подтверждён, не только анонсирован.** В предыдущем дампе (2026-05-08) Петросян сообщал, что 2-я часть «уже написана». Пост 2310 (2026-05-18) **закрывает наблюдение**: «В начале мая вторая часть была готова» — 4× быстрее планового, и автор начинает рефлексию над механизмом («методом была сама рассылка»). Это **снимает риск over-claim'а** предыдущего дампа: результат материализован, не остался обещанием. Conceptual basement углублён в [[canon/marketing-frameworks/petrosian-content-as-accelerator]] (content-as-method + emergent-method «план рождается из шагов»). Пост 2310 заканчивается стандартным CTA на рассылку с анонсом нового письма — **weekly cadence sustained ~75+ дней** (письмо #7 = 2026-04-13 → новое письмо ~2026-05-19), `[conf:high, src:2026-05-18]`.
 
 2. **Market-mood signal (пост 2311, 2026-05-19) — второй self-reported sales/reach-decline datapoint от того же автора.** Петросян описывает текущее состояние рынка с позиции бизнес-владельца: «Цифры охватов падают. Покупок меньше. Настроение у людей изменилось, многие перешли в режим выживания.» `[conf:medium, src:2026-05-19]`. Это **второй datapoint** после «худшего марта по показателям за всё время Стодневок» (пост 2248, 2026-03-30), и он расширяет рамку с **platform-decay** (Telegram-охваты) на **macro-demand-decay** (общее снижение покупательской активности и сдвиг аудитории в «режим выживания»). В отличие от мартовского сигнала, привязанного к платформенному давлению, майский сигнал автор явно атрибутирует **диффузной макро-тревоге**, не конкретной платформе («Отсутствует конкретный враг… Есть туман»). Это усиливает рамку **«снижение охватов и продаж — не только reach-проблема платформы, но и demand-side сжатие»**. Для маркетинга GRO: в Q2 2026 messaging, апеллирующий к «собраться и достичь», работает хуже, чем messaging «опереться, пережить, продолжать» — см. crisis-positioning в [[evolving/content-trends/owner-escape-operations-hooks]] (раздел про шахматную партию + «размытая тревога»).
+
+**Update 2026-05-26 (newsletter cadence sustained ~90 дней + 2 PDF-книги как lead-magnet).** Пятый последовательный re-dump ([[sources/2026-05-26-tg-stodnevka2-may-20-26-2026]]) даёт **квартальный horizon sustainability** наблюдательного периода offplatform-pivot:
+
+1. **Newsletter cadence sustained ~90 дней (письмо #13).** Пост 2321 (2026-05-24) анонсирует **письмо #13** рассылки «Контур важного» с темой «брать меньше за любимое». Пост 2322 (2026-05-25) повторяет CTA с тремя альтернативными способами подписки (email/Substack/petrosian.ru). Расширенный sustained-cadence chart:
+
+   | Дата | Письмо | Интервал |
+   |---|---|---|
+   | 2026-04-13 | №7 | baseline |
+   | 2026-05-04 | №10 | 3 нед, 3 письма (sustained) |
+   | 2026-05-12 | №11 | 1 нед |
+   | ~2026-05-19 | №12 | 1 нед |
+   | 2026-05-26 | №13 | 1 нед |
+
+   `[conf:high, src:2026-05-26]`. Это **6 weeks без пропусков** от письма #7, и **первый ~90-дневный datapoint** sustained weekly newsletter cadence. **Implication для тренда:** offplatform-pivot полностью **снят как риск «author бросит к лету»** — sustained-cadence через transition в летний quarter (low-engagement period) подтверждает structural-commit author'а.
+
+2. **2 PDF-книги опубликованы как lead-magnet к платной программе.** Пост 2312 (2026-05-20) анонсирует **«Как подготовиться к переменам»** (34 с.) и **«Как приступить к переменам»** (42 с.) — обе self-published 2025 г. в форматах PDF + EPUB, прикреплены непосредственно к посту (no email-gating), `[conf:high, src:2026-05-20]`. Это **расширяет offplatform-stack** Петросяна с newsletter+Substack до **3-уровневой воронки** (PDF lead-magnet → newsletter + TG → платная Стодневка, старт 1 июня 2026). См. полный разбор воронки в NEW [[evolving/content-trends/petrosian-summer-launch-lead-magnet-funnel]]. **Implication для тренда:** offplatform-pivot **успевает развиться** в multi-asset content-architecture, что повышает barrier-to-replicate competitor'ам и даёт author'у больше distribution-channels вне Telegram-эконо系мы.
 
 ## Что этот тренд значит для маркетинга
 

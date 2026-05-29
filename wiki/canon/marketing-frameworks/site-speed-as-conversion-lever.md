@@ -9,8 +9,8 @@ tags: [seo, conversion, landing-page, content]
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-skorost-sajta-rost-internet-magazina.md]
+updated: 2026-05-26  # +cross-link на Pervukhin 5-leaks (утечка #3: узкое место на сайте, рост CR с 1% до 2% делит CPA пополам — сайт как множитель платных каналов)
+sources: [sources/2026-05-18-pressfeed-skorost-sajta-rost-internet-magazina.md, sources/2026-05-26-dzen-delovoymir-pervukhin-funnel-5-leaks.md]
 namespace: mkt
 ---
 
@@ -59,3 +59,5 @@ GRO — mobile-first продукт, но лендинг groapp.ru и веб-в�
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] — скорость как ранжирующий сигнал
 - [[canon/positioning/gro-value-proposition]] — конверсия лендинга в установку
 - [[evolving/content-trends/pressfeed-platform-advertorial-pattern]] — источник принципа (advertorial-формат)
+- [[canon/marketing-frameworks/pervukhin-funnel-5-leaks-diagnostic]] — Первухин/KINETICA про утечку #3 (узкое место на сайте): рост CR с 1% до 2% делит CPA пополам — сильнее, чем любая оптимизация ставок
+- [[canon/marketing-frameworks/tabunov-landing-anatomy]] — анатомия посадки

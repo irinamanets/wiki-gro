@@ -9,8 +9,8 @@ tags: [smb, sales, russia, q1-2026, weak-demand, telegram]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-08  # +10-й голос Кульгин (@bezsmuzi): organic SMB-owner voice через неплатежи/суды + Google Trends банкротство 54
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-05-05-tg-moibiz-apr-21-may-05.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-ofd24-apr-3-may-5-2026.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-06-yt-rybakov-vvp-trump-oil.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
+updated: 2026-05-28  # +Q2-validation through Шевелев Рекордный апрель finale (6 participants showed measurable improvement, validates Q1-narrative как problem-not-permanent)
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-05-05-tg-moibiz-apr-21-may-05.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-ofd24-apr-3-may-5-2026.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-06-yt-rybakov-vvp-trump-oil.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md]
 namespace: mkt
 ---
 
@@ -416,6 +416,28 @@ vcnews 61169 (2026-05-02 16:08 UTC) `[conf:medium, src:2026-05-02]`: «**Рос�
 **Confidence на самой рамке Q1-кризиса:** остаётся `high` (как было после 9 голосов). Кульгин добавляет **transaction-level mechanism** (неплатежи → суды → потеря клиента) + независимое подтверждение через Google Trends. Confidence на конкретных claim'ах автора — `low`/`medium` (retold через личный канал).
 
 **Что это значит для маркетинга ГРО:** для founder-сегмента появляется ещё один **relatable proof-point** — «суды нон-стоп за неоплаченные работы» резонирует с owner'ами, у которых дебиторка зависла. Hook: «Кризис спроса — это не "клиентов нет". Это "клиенты есть, но не платят, и судиться бесполезно — у них тоже нет денег"». Кросс-ref на банк хуков [[evolving/content-trends/bezsmuzi-smb-owner-content-hooks]].
+
+## Q2-validation 2026-05-26 — финал «Рекордного апреля» как counter-evidence к «весь-рынок-падает» narrative'у
+
+Из [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] финал реалити «Рекордный апрель» Шевелева публикует измеримые результаты 6 participants cohort'а (см. [[evolving-strict/campaign-metrics/recordnyi-aprel-finale-results-shevelev-2026]] — полная таблица). **Все 6** показали рекордные/improving метрики **в том самом апреле-мае 2026**, который Q1-нарратив описывает как «продажи падают, founder'ы вкладывают личные сбережения».
+
+**Что это меняет в Q1-нарративе:**
+
+1. **Q1-диагноз остаётся валидным** — широкий спрос-shock реальный, и Шевелев же в карточке 2307 («не у всех, есть компании, у которых сейчас всё ок») признаёт это явно: ~10% бизнесов не в кризисе. Но **проблема не permanent** — при правильном fix'е системы продаж результат приходит за 3 недели.
+
+2. **Q1-«жертвы» из анкет = Q2-«рекордсмены» из финала.** Те же самые 6 participants, которых Шевелев называл в Q1-анкетах с цитатами боли (Юлия «тащит на себе», Юрий «70% от безубытка», Роман «вложил 650 тыс личных») — в Q2 показали рекорды. Это **необычный временной разрез**: Q1-анкета = problem-statement, Q2-финал = problem-solved-statement, одни и те же люди. См. [[canon/target-audience/ru-smb-founder-owner-seller]] (раздел про эту 6-ку).
+
+3. **Counter-evidence к macroeconomic-determinism.** Q1-narrative из 9 голосов (Шевелев → Спиридонов → Кульгин → ...) звучит как «спад спроса = повсеместный shock». Q2-финал показывает: при правильной reaction'е (intervention в систему продаж за 3 недели) — рост возможен В ТОТ ЖЕ ПЕРИОД. Это значит: то, что Q1-narrative описывает как «cycle decline», часто **на самом деле = managerial under-response**. 
+
+4. **Confidence-update.** Это **не отменяет** Q1-narrative о реальности спада спроса (другие 9 голосов сохраняются), но **смягчает** detarmenism: `confidence` тезиса «всё падает повсеместно» сдвигается с `medium` к `low`, а тезис «спад спроса разоблачает слабые системы продаж, у которых не было запаса прочности» сдвигается с `low` к `medium`. `[conf:medium, src:2026-05-25]`
+
+5. **Cycle-loop диагноза Q1.** Шевелев в [[canon/marketing-frameworks/sales-3-step-crisis-response-shevelev]] явно соединяет Q1-диагноз («неактуальный продукт + неправильные методы + устаревшие смыслы») с predписанием (АЦО × СК × ПС). Это позволяет позиционировать Q1-narrative не как «вы обречены», а как «у вас 3 конкретные точки прокачки». Это **выход из learned helplessness** для founder'а — Q1-narrative больше не sentence, а starting point.
+
+**Что это меняет для маркетинга ГРО:**
+
+- Q1-survival-narrative из исходного раздела «Что это значит для маркетинга ГРО» остаётся актуальным, но **дополняется** Q2-paradigm: «не "держись", а "перенастрой систему за 3 недели"». GRO как продукт productivity-rhythm — это **bottom-of-funnel микро-system**, аналог СК-конвертера в personal-domain.
+- Появляется **case-bank**: 6 anchor-кейсов реалити можно использовать как content-evidence на блоге GRO — «как 6 предпринимателей вышли из Q1-просадки за 3 недели» с явной trajectory (поэтапно: диагностика → fix системы → рекорд).
+- **Сдвиг тона в контенте**: меньше survival («держись»), больше empowerment («у тебя есть 3 точки прокачки»). Reusable из [[canon/marketing-frameworks/sales-3-step-crisis-response-shevelev]] hooks.
 
 ## Что это значит для маркетинга ГРО
 

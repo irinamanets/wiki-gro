@@ -9,8 +9,8 @@ tags: [content, telegram, instagram, infobiz, sales-training, narrative, pattern
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +fourth dump may 14-19 2026: Жанр 3 +free-lesson lead-magnet (try-before-buy); Жанр 10 +list-карусель архетип +employee-side тема +lime-green палитра; Жанр 13 «reality-разбор-событие» (Москва 9-10 окт)
-sources: [sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md]
+updated: 2026-05-26  # +fifth dump may 20-26 2026: Жанр 1 +Сочи (паттерн стабилен); Жанр 15 Threads-engagement-bait community-photoshop UGC; Жанр 16 cross-vertical guest-podcast (UTECH строит. рынок); secret-shopper case-format → canon framework
+sources: [sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-26-tg-vyakuba-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -31,6 +31,8 @@ namespace: mkt
 **Функция:** daily-touch в ленте подписчика, сигнал «я здесь и сейчас», географическая привязка личного бренда, замена постов когда ничего существенного не произошло, но нужно удержать ритм. По сути — minimal-viable-post, который поддерживает вовлечённость при 3–4 постах в день.
 
 **Переносимо для GRO?** Частично. Идея daily-touch полезна, но жанр требует либо личного бренда (у GRO его нет, это не personal KB и identity: null в [[preset|preset.yaml]]), либо географической мобильности (нерелевантно для SaaS). Более applicable для GRO был бы вариант «daily-thought про продуктивность» без привязки к автору-человеку.
+
+**5-й срез ([[sources/2026-05-26-tg-vyakuba-may-20-26-2026|2026-05-20..26]]):** «Якуба из Сочи» (6899), «Якуба из Екатеринбурга» (6893). Паттерн стабилен через 5 срезов (март–май 2026) — самый устойчивый жанр канала, подтверждает его роль как ритм-удерживающего minimal-viable-post.
 
 ## Жанр 2: Case-teaser с CTR на YouTube/VK-Video
 
@@ -275,12 +277,44 @@ namespace: mkt
 
 **Переносимо для GRO?** **Концептуально — да** (cross-promo с adjacent-non-competitor продуктами/экспертами), **операционно — осторожно**: GRO — продукт-бренд, не personal-brand, поэтому «рекомендую коуча X» звучит иначе, чем у Якубы. Применимо для **партнёрских интеграций** (например, GRO × productivity-инструмент), но не для personal-endorsement.
 
+## Жанр 15: Threads engagement-bait + community-photoshop UGC (5-й срез)
+
+**Оригинал:** посты 6900..6908 (2026-05-25) пятого среза [[sources/2026-05-26-tg-vyakuba-may-20-26-2026|2026-05-20..26]]. Якуба выложил в Threads (verified-аккаунт @vladimiryakuba) собственное фото с подписью «Фотошоперы, можете придумать что-то интересное на фон», затем ретранслировал в TG скрин поста (6900, 8 лайков / 28 комментариев) + 8 работ подписчиков (6901..6908) одним залпом.
+
+**Паттерн (UGC-конкурс через cross-platform):**
+1. Запуск low-effort creative-challenge в Threads (фото + open-ended призыв «придумайте фон»).
+2. Сбор community-работ в комментариях (28 комментов = engagement-сигнал).
+3. Ретрансляция лучших работ в TG серией постов — second-life UGC + social proof «у меня активное комьюнити».
+
+**Функция:** engagement-bait с нулевой себестоимостью контента (контент создают подписчики). Cross-platform loop Threads→TG. Похоже на Жанр 6 (event-footage серией) механикой залпового дропа, но контент — UGC, а не собственный.
+
+**Переносимо для GRO?** **Концептуально — да.** Community-creative-challenge («покажите свой результат / сделайте мем про прокрастинацию») — дёшево и виральноспособно, не требует личного бренда автора. Но требует уже существующего активного комьюнити; для холодного канала не сработает. Безопаснее, чем Жанр 1/7 (не завязан на identity человека).
+
+## Жанр 16: Cross-vertical guest-podcast (5-й срез)
+
+**Оригинал:** пост 6892 (2026-05-22) — анонс первого выпуска подкаста **UTECH** про **строительный рынок** (сроки/бюджет/качество): гости — гендир UTECH Distribution Павел Жмыхов, топ-менеджер девелопмента Тонко Санкович, и сам Якуба как «эксперт в управлении, личной эффективности и продажах».
+
+**Паттерн:** Якуба входит гостем-экспертом в подкаст **чужой вертикали** (строительство), где его роль — generalist по продажам/управлению поверх domain-специфики хозяев. Отличается от Жанра 9 (guest-speaker collaboration, где гости приходят к Якубе) — здесь Якуба сам выступает приглашённым authority в нише, далёкой от инфобиза.
+
+**Функция:** TAM-расширение через authority-transfer в смежные B2B-вертикали (строительство, девелопмент = аудитория с бюджетами на обучение отделов продаж). Sales/management-экспертиза позиционируется как cross-industry-универсальная.
+
+**Переносимо для GRO?** **Да, сильно.** «Универсальный навык поверх любой вертикали» — прямой messaging-ход для GRO (продажи/коммуникация нужны в любой индустрии). Формат «эксперт по навыку X гостем в подкасте индустрии Y» — масштабируемый authority-build без собственной аудитории в каждой нише.
+
+## Secret-shopper case-format вынесен в canon-framework (5-й срез)
+
+Пост 6895 (+видео 6896, 2026-05-22) — формат «разбор реальной переписки менеджера + тайный звонок под видом покупателя». Это не просто content-genre, а самостоятельная sales-диагностическая методология → вынесена в [[canon/marketing-frameworks/secret-shopper-sales-diagnostic-vyakuba]] (4 системных провала продавцов). Как content-format родственен Жанру 2 (case-teaser с CTR на YouTube/VK): hook → реальный кейс → CTR на видео-разбор.
+
 ## Connection points
 
 - [[sources/2026-04-14-tg-vyakuba-mar-apr-2026]] — первый источник наблюдений.
 - [[sources/2026-05-05-tg-vyakuba-apr-may-2026]] — второй источник, +жанры 10-11.
 - [[sources/2026-05-14-tg-vyakuba-may-5-14-2026]] — третий источник, +жанр 12 + update жанров 3 и 10.
 - [[sources/2026-05-19-tg-vyakuba-may-14-19-2026]] — четвёртый источник, +жанры 13-14 + update жанров 3 и 10 (list-карусель, employee-side, lead-magnet).
+- [[sources/2026-05-26-tg-vyakuba-may-20-26-2026]] — пятый источник, +жанры 15-16 (Threads-UGC, cross-vertical podcast) + secret-shopper case-format + 4 sales-фреймворка.
+- [[canon/marketing-frameworks/sale-begins-after-price-vyakuba]] — sales-фреймворк «продажа после цены» (5-й срез, пост 6909).
+- [[canon/marketing-frameworks/summer-counter-cyclical-sales-vyakuba]] — сезонный counter-cyclical playbook (5-й срез, посты 6891+6894).
+- [[canon/marketing-frameworks/service-as-removed-friction-automation-paradox-vyakuba]] — сервис как убранный friction + automation paradox (5-й срез, пост 6884).
+- [[canon/marketing-frameworks/secret-shopper-sales-diagnostic-vyakuba]] — secret-shopper диагностика (5-й срез, посты 6895+6896).
 - [[canon/marketing-frameworks/assertive-boundary-replies-vyakuba]] — operational frame из employee-side карусели «Фразы начальника» (жанр 10, 4-й срез).
 - [[evolving/competitor-positioning/vyakuba-sales-training]] — профиль автора и его продуктовой лестницы.
 - [[evolving/content-trends/vyakuba-instagram-carousel-format]] — детальная архитектура жанра 10.

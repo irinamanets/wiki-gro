@@ -9,9 +9,10 @@ tags: [ai-displacement, labor-market, layoffs]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-25  # +RU-голос Батырев (YT-интервью 2026-05): «половина профессий уйдёт, но замена одно другим» (оператор дронов ~300к) + «человек как премиум» + speech-analytics proof-point (ИИ-замена ОКК на микро-уровне)
-prev_updated: 2026-05-24  # +ранний эмпирический трек (vc.ru/Спиридонов 2023): Accenture reskilling >550k + IgniteTech ~80% замена/EBITDA 75% + контр-интуитивный инсайт «сопротивлялись разработчики, не маркетологи» + ранний «человек + ИИ» предшественник sorting-test'а
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md, sources/2026-05-25-yt-batyrev-partnership-ai-sales-children.md]
+updated: 2026-05-28  # +RU-голос Лапшина (founder GRO, @gro_me 393, 2026-05-25): «человек + ИИ > просто ИИ», 22% боятся потерять работу через 5 лет, IT под ударом + LinkedIn 600 layoffs (Daniel Shapiro, 22 мая) + Meta Bloomberg-уточнения (7K reassigned, flat structure) + dnative-кластер ClickUp -22%/Oracle -22k/Meta -8000/capex 650-725 млрд $; «AI как cover для capex»
+prev_updated: 2026-05-25  # +RU-голос Батырев (YT-интервью 2026-05): «половина профессий уйдёт, но замена одно другим» (оператор дронов ~300к) + «человек как премиум» + speech-analytics proof-point (ИИ-замена ОКК на микро-уровне)
+prev_updated_2: 2026-05-24  # +ранний эмпирический трек (vc.ru/Спиридонов 2023): Accenture reskilling >550k + IgniteTech ~80% замена/EBITDA 75% + контр-интуитивный инсайт «сопротивлялись разработчики, не маркетологи» + ранний «человек + ИИ» предшественник sorting-test'а
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md, sources/2026-05-25-yt-batyrev-partnership-ai-sales-children.md, sources/2026-05-26-tg-breakingtrends-may19-26.md, sources/2026-05-26-tg-dnative-7629-7643.md, sources/2026-05-26-tg-gro-me-390-394.md]
 namespace: mkt
 ---
 
@@ -76,6 +77,27 @@ Cloudflare кейс — **strong content-hook** для блога GRO:
 - «AI-native re-org вместо cost-cut: новая риторика технологических layoffs»
 - «Cloudflare 20% vs Snap 16% vs Block 40%: ranking AI-замещения по индустриям»
 
+### LinkedIn (Daniel Shapiro, 22 мая 2026) — 600 layoffs, marketing + dev, AI-infra reinvestment
+
+Через [[sources/2026-05-26-tg-breakingtrends-may19-26|@breakingtrends 22 мая 2026]] (внутреннее письмо Shapiro):
+
+- Сокращение **~600 сотрудников** в LinkedIn (подразделение Microsoft) `[conf:medium, src:2026-05-22]`
+- Отделы: **маркетинг + разработка** `[conf:medium, src:2026-05-22]`
+- Обоснование Shapiro: «необходимость **инвестировать в инфраструктуру и развитие ИИ**» `[conf:medium, src:2026-05-22]`
+- **Дополнительные cuts:** маркетинговые кампании, офлайн-активности, **услуги подрядчиков** `[conf:medium, src:2026-05-22]`
+
+**Почему это важный сигнал:**
+
+1. **Third major AI-driven layoff Big Tech за май 2026** — после Meta 8K (Bloomberg-attested 7K reassigned + flat structure, см. [[volatile-strict/industry-news/meta-layoffs-8000-may-2026]]) + Microsoft 9K voluntary retirements. Pattern становится **clear corporate meme**, не отдельные инциденты.
+
+2. **Marketing-департаменты — clearly under attack.** LinkedIn — **второй раз** в волне 2026 для marketing-функций (после Snap, Coinbase). Маркетинговые роли воспринимаются как **structurally automatable AI** — gen-AI-tools могут заменить часть junior/middle marketing-функций (drafting, ad-copy, segmentation, briefing).
+
+3. **Подрядчики тоже в зоне риска** — скрытая часть AI-layoff волны. Часть layoffs идёт **не через сокращение FTE**, а через **расторжение контрактов с agencies/freelancers**. Это не попадает в headline-числа, но затрагивает agency-market.
+
+4. **Microsoft-LinkedIn axis** — оба родители-дочь сократили под AI-обоснование за 30 дней. Это указывает на **strategic coordination** во внутреннем корпоративном AI-pivot, не на independent decisions.
+
+Подробности — см. [[volatile-strict/competitor-news/linkedin-600-layoffs-2026-05]].
+
 ### Crypto.com (Kris Marszalek, май 2026)
 - Сокращение **−12% штата (~180 чел)** `[conf:medium, src:2026-05-05]`
 - Формулировка Маршалека: «**компании, которые не сделают это немедленно, проиграют**» `[conf:medium, src:2026-05-05]`
@@ -120,6 +142,30 @@ ASML — **самый чистый кейс «AI-переоценки middle-man
 **Татуировка одной фразой:** «Не показывайте в один день разные правила игры для топ-команды и для остальных сотрудников».
 
 Полный разбор патологии — [[canon/marketing-frameworks/meta-error-batyrev-asymmetric-signals]]. 5-вопрос-тест перед сложными HR-решениями интегрирован в [[canon/marketing-frameworks/internal-change-communication-protocol]].
+
+### Кластер AI mass layoffs мая 2026 (через dnative 2026-05-24)
+
+Через [[sources/2026-05-26-tg-dnative-7629-7643|@dnative пост 7641 (24 мая 2026)]] фиксируется **концентрированный кластер AI-rationale layoffs** в один календарный месяц — параллельный Cossa-Meta-кейсу и Cloudflare:
+
+- **ClickUp -22% штата** в день рекордной прибыли. CEO Zeb Evans: «Бизнес находится в лучшем состоянии за всю историю» (paradox-frame). Pivot к **100x-rhetoric**: «один сотрудник делает работу за сотню → платим миллион → экономим десяток». См. [[canon/marketing-frameworks/100x-productivity-rhetoric-clickup-anti-pattern]] как canon-рамку анализа этого rhetoric'a. `[conf:high, src:2026-05-24]`
+- **Meta -8000 (~10% штата)**, одним днём, письма в 4 утра, оставшимся — AI-monitoring для обучения замены. См. [[volatile-strict/industry-news/meta-layoffs-8000-may-2026]]. `[conf:high, src:2026-05-21]`
+- **Oracle -22 000 чел** (большая часть из Индии). Без явной AI-rationale в исходнике, подаётся как «оптимизация эффективности». `[conf:medium, src:2026-05-24]`
+- **Capex AI всех Big Tech 2026 ≈ 650-725 млрд $** (без атрибуции в исходнике; cross-проверить против Bloomberg). `[conf:low, src:2026-05-24]`
+
+**dnative-framing — financial root cause:** «Ни у одной компании нет реальной проблемы с деньгами. Сокращения идут под оптимизацию эффективности из-за нейросетей. На деле — корпорации режут косты на людях, потому что инвестиции в дата-центры требуются огромные, весь этот пир никак пока не окупается и живёт на вере». `[conf:medium, src:2026-05-24]`
+
+**Интерпретация:** AI-layoffs — это **structural cost-cut с AI-rationale как cover**. Реальная причина — финансирование 650–725 млрд $ AI-capex, который **передаётся от capex на opex** через сокращение зарплатного фонда.
+
+**Прогноз dnative:** «Через год-два выяснится, что 100x-производительности нет, а есть просто меньше людей, делающих ту же работу под большим стрессом. Тогда те же CEO напишут новые посты про "переосмыслили роль человека в AI-эпохе" и снова кого-нибудь наймут».
+
+**Триангуляция трёх voice мая 2026:**
+- **Cossa** (Meta 8000, 21 мая) — execution mechanic anti-pattern (4-am, AI-monitoring)
+- **Cloudflare-Prince** (1100, 8 мая) — strategic re-org «компания в AI-эпохе»
+- **ClickUp-Evans** (-22%, 24 мая) — aspirational 100x rhetoric
+- **dnative-критика** (24 мая) — financial root cause «AI как cover для capex»
+- **Coinbase-Armstrong** (-14%, 5 мая) — двойная риторика (AI + structural)
+
+Cluster закрепляет паттерн: **AI как official narrative + financial pressure как actual cause + monitoring/100x как extreme execution rhetoric**. Maincе-нарратив, который GRO может **counter-positionировать** через human-first messaging — см. [[evolving/industry-trends/ai-recruiting-humanity-countertrend-2026]].
 
 ### Atlanta Fed n=750 (март 2026) — парадокс производительности AI
 
@@ -415,6 +461,34 @@ Snap и Block добавляются к уже зафиксированным AI
 - **Практический proof-point того же автора — речевая аналитика в продажах** (ИИ заменил отдел контроля качества за ~30 тыс. ₽/мес): конкретный пример «убрать рутинную позицию → передать инструменту» — см. [[canon/marketing-frameworks/ai-call-quality-speech-analytics-batyrev]]. Это показывает, как «половина профессий уйдёт» выглядит на микро-уровне одного отдела.
 - **Attribution-вес:** `confidence: medium` — экспертное мнение (verified business-speaker, founder проектов по отделам продаж), не верифицированный данными факт. Использовать с «по мнению Батырева».
 
+## RU-голос: Лапшина — «люди с ИИ сильнее людей без ИИ» + anti-substitution позиция (2026-05-25)
+
+Третий **RU-предпринимательский голос** в нарративе — **Екатерина Лапшина, founder GRO** (verified expert; [[sources/2026-05-26-tg-gro-me-390-394|@gro_me 393]] 25 мая 2026, авторская колонка `#отпервоголица`). Её позиция — **anti-substitution + recomposition** `[conf:medium, src:2026-05-25]`. Формирует второй по силе RU-voice в этой странице (рядом с Батыревым).
+
+**Ключевые тезисы колонки:**
+
+- **Текущая неопределённость:** «История иногда — плохой подсказчик. Сейчас мы видим разнонаправленные сигналы. Евангелисты кричат, что AI уничтожит рабочие места. Статистика свидетельствует об обратном.»
+- **Anxiety-якорь:** «боятся, по опросам, 22%. То есть четверть считает, что через пять лет их работы не будет.» — публичная отсылка на survey-цифру 22% без источника опроса `[conf:low, src:2026-05-25]` (нет инструмента верификации источника).
+- **Главный сдвиг:** «В цепочках создания ценности **ценность перемещается из одних рабочих мест в другие. За ценностью перемещаются деньги.**»
+- **IT под наибольшим ударом:** «ИТ отрасль однозначно под большим ударом и давлением. Если AI победит в борьбе за производительность, то в целом рабочих мест может и будет больше (операторы), но **деньги будут сосредоточены наверху пирамиды**.»
+- **5 наблюдаемых сигналов:** смещение спроса (1) → результат как базовое требование (2) → вознаграждение следует за ценностью (3) → кто и как долго не находит работу (4) → профессии, прошедшие трансформацию с приставкой AI (5).
+- **Позиционная формула:** «Уже сейчас **люди с ИИ сильнее людей без ИИ — и при позиционировании, и при отборе.**» — операционная формулировка sorting-test'а.
+
+**Уникальный вклад Лапшиной — anti-substitution через «комплексного исполнителя»:**
+
+Авторский разворот: «"Давайте сделаем агентов по производству экспертного контента". Давайте! А кто поедет снимать? кто настроит, соберет, смонтирует, передоговорится со студией о дате? Потому что **всё сложить в аватары не получится и не нужно**. И вот пока не видела ни одного живого кандидата, который собрал бы в себе живое и агентское.»
+
+> «Со временем я найду, обучу, выберу тех, кто хочет развивать в себе **комплексный набор навыков для результата**.» — Лапшина, 393 `[conf:medium, src:2026-05-25]`
+
+**Куда это ложится в структуру страницы:**
+
+- **«Люди с ИИ сильнее»** — RU-side эхо тезиса Спиридонова 2023 («человек, который грамотно использует ИИ, может отнять работу»). Лапшина даёт **operational шаг дальше**: формализует это как **критерий и позиционирования, и отбора** одновременно. То есть это уже не «возможность», а **default-практика 2026 для founder'а**.
+- **«Комплексный исполнитель»** — это RU-сторона «человека как премиум» Батырева, но другой акцент: не «премиум через эксклюзивность ручной работы», а **«премиум через широту навыков»**. Это новый поворот к counter-anchor-набору и важен для positioning продуктов типа GRO, которые помогают развивать навыки.
+- **«IT под наибольшим ударом, деньги сосредоточены наверху пирамиды»** — RU-side подтверждение паттерна, который параллельно фиксируется через Snap/Block/Coinbase/Microsoft в верхней части страницы. Лапшина даёт это не как кейс, а как **macroscopic observation founder'а с управленческой позиции**.
+- **Attribution-вес:** `confidence: medium` — verified expert (founder GRO, public figure), priority-2 по [[rules]]. Используется с «по мнению Лапшиной», не как безличный тезис. Цифра 22% — `conf: low` отдельно (нет источника опроса).
+
+**Связь с макро-нарративом.** Лапшина — третий RU-голос в narrative «AI не обнуляет занятость, а переформатирует» (после Гуриновича и Батырева). У всех трёх — anti-substitution rhetoric, но разные акценты: Гуринович («работать больше, но продуктивнее»), Батырев («замена одно другим + человек как премиум»), Лапшина («люди с ИИ сильнее + комплексный исполнитель»). Это **формирующийся RU-консенсус founder-уровня**, конгруэнтный западному counter-anchor-набору ([[canon/marketing-frameworks/jevons-paradox-ai-positioning|Jevons]] + [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs|sorting-test]]).
+
 ## Ранний эмпирический трек: Accenture + IgniteTech (vc.ru, Спиридонов 2023)
 
 Из vc.ru-статьи Спиридонова «Как ИИ меняет рынок труда» ([[sources/2026-05-24-vcru-chunk4-condensed]], оригинал id79772_2317994, 2023) приходят **два ранних (2023) корпоративных кейса** AI-реорга — за два года до Snap/Block/Cloudflare-волны. Это **исторический контекст** к глобальному нарративу: паттерн «AI-трансформация штата» начался не в 2026:
@@ -438,6 +512,8 @@ Snap и Block добавляются к уже зафиксированным AI
 - **Новое (Леви/Морейнис 2026-04-23):** «Парадокс Джевонса: больше ИИ → больше людей в этой профессии. 160-летний экономический закон. Уголь 1865, программисты 2023, юристы 2026 — везде одно и то же. Спрос на твою профессию вырастет, если ты научишься работать руками ИИ.» (academically-grounded counter-anchor; противоположный по тону остальным: не «ужас, скоро заменит», а «вырастет, не упусти»)
 - **Новое (Спиридонов 2026-05-12):** «В 2016 один из крёстных отцов AI Хинтон сказал: рентгенологов учить не надо, AI заменит. Прошло 10 лет — вакансий и зарплат у них больше, чем когда-либо. Простой тест: можешь описать свой день списком из 3-5 несвязанных типов задач? Если да — AI ускоритель, а не угроза. Если нет — пора переучиваться». (sorting-test counter-anchor с 10-летним эмпирическим anchor'ом)
 - **Новое (Морейнис 2026-05-05):** «Уволили под AI — а через полгода вернулись с зарплатой x2 как AI-supervisor'ы. Цикл уже видим в США. Hint для founder'а: не увольняй тех, кого потом наймёшь обратно как консультантов» (operational anti-pattern для SMB-founder'ов + counter-anchor для employed-сторон, что AI-замена ≠ конец карьеры)
+- **Новое (Лапшина 2026-05-25):** «"Давайте сделаем агентов по производству контента!" — Давайте. А кто поедет снимать, договорится со студией, смонтирует? Всё сложить в аватары не получится и не нужно. Я ищу тех, кто хочет развивать **комплексный набор навыков для результата** — это и есть новая ценность.» (RU-founder anti-substitution hook + позиционная формула «человек+AI > AI», прямая отсылка на GRO позиционирование)
+- **Новое (Лапшина 2026-05-25):** «За чем следить в AI-трансформации профессий: 5 сигналов от founder'а GRO — смещение спроса / результат как базовое требование / вознаграждение за ценность / кто и как долго не находит работу / профессии "с приставкой AI". Не паника, а наблюдение.» (operational sigals hook, конвертируется в листикл-пост для блога GRO)
 
 ## Связанные страницы
 - [[evolving-strict/market-data/ai-driven-layoffs-2025-2026]] -- количественный срез AI-driven сокращений (Amazon/MS/Сбер/Snap/Coinbase/Crypto.com/Block)
@@ -463,6 +539,8 @@ Snap и Block добавляются к уже зафиксированным AI
 - [[evolving/industry-trends/ai-human-premium-service-economy-2026]] -- «человек как премиум»: ИИ обнуляет базовый сервис, человеческое участие = наценка (Батырев)
 - [[canon/marketing-frameworks/ai-call-quality-speech-analytics-batyrev]] -- micro-proof «половины профессий уйдёт»: ИИ-речевая аналитика заменила отдел ОКК
 - [[sources/2026-05-25-yt-batyrev-partnership-ai-sales-children]] -- RU-голос Батырев (2026-05): balanced replacement + «человек как премиум»
+- [[sources/2026-05-26-tg-gro-me-390-394]] -- RU-голос Лапшина (founder GRO, 2026-05-25): anti-substitution + «комплексный исполнитель» + 5 сигналов AI-трансформации
+- [[canon/brand-guidelines/gro-channel-tone-of-voice]] -- TOV GRO с новым акцентом «комплексный исполнитель» из колонки 393
 - [[sources/2026-05-14-tg-mspiridonov-may-2026]] -- @mspiridonov 2026-05 дамп: пост 4396 с рентгенологическим counter-anchor'ом
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — @breakingtrends 2026-05-14 дамп: Хуанг blue-collar counter-anchor (16745)
 - [[evolving/industry-trends/blue-collar-ai-resilience-2026]] — Хуанг как stand-alone authority anchor

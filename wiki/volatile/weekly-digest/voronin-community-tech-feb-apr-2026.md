@@ -5,15 +5,16 @@ type: page
 subtype: notes
 layer: volatile
 theme: weekly-digest
-tags: [content, community, event-marketing, russia, author-channel, digest, cross-promo]
+tags: [content, community, event-marketing, russia, author-channel, digest, cross-promo, ooh]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +section 6: апрельский recap-пост 991 (метрики 1231/16/90/215/259 + АтлантGPT)
+updated: 2026-05-26  # +section 7: пост 992 OOH-активация (брандмауэр у гостиницы «Москва»)
 sources:
   - sources/2026-04-14-tg-community-tech-voronin-feb-apr-2026.md
   - sources/2026-05-14-tg-community-tech-voronin-may-2026.md
   - sources/2026-05-19-tg-community-tech-voronin-april-recap-991.md
+  - sources/2026-05-26-tg-community-tech-atlanty-city-ooh-992.md
 namespace: mkt
 ---
 
@@ -158,10 +159,31 @@ Recap + инфографика дали первый numeric-снимок чле
 - Описание состава приложения (календарь + библиотека знаний) — продуктовая деталь, в competitor-профиль, не отдельно.
 - Эмоциональный CTA-хвост «А как у вас дела? 👀» — пример engagement-CTA, зафиксирован в content-trends странице как элемент формата.
 
+## 7. OOH-активация Атланты Сити — пост 992, фото брандмауэра в центре Москвы (источник: [[sources/2026-05-26-tg-community-tech-atlanty-city-ooh-992|тг-пост 992 + фото]])
+
+Четвёртый ingest канала. Один short-form пост-тизер из 3 слов («Атланты сити is coming…») с прикреплённым фото наружной рекламы — большим красным брандмауэром на фасаде здания у гостиницы «Москва» в центре Москвы. Дата поста — 2026-05-19, дата события — 22–25 июня 2026 (∼5 недель прогрева до start'а).
+
+**Что добавляет к event-маркетинг-кейсу из раздела 1:**
+
+OOH в апрельском 9-канальном плане Воронина (post 962) **явно не упоминался** — список каналов был сообщества, инфлюенсеры, Хартманн-спецпроект, B2B-corporate, форумы, family-upsell, Альфа-банк, telegram-конференции, охватные рилсы. Появление наружной рекламы — либо **10-й канал**, добавленный после плана, либо реализация одного из общих каналов через OOH-формат (например, рилсы «как мы создаём сити» получили физическое продолжение в city dressing). В любом случае это **расширение микса** между апрельским snapshot'ом и реальным июньским запуском.
+
+**Креатив брандмауэра (распознан по фото):**
+- Заголовок «АТЛАНТЫ Сити» (фирменная типографика клуба)
+- Tagline «главный фестиваль для предпринимателей и их семей» — подтверждает family-positioning (один из каналов плана 962 был «программа для семьи/детей»)
+- 7 портретов спикеров в ряд (event-speaker-carousel в OOH-исполнении, см. [[evolving/content-trends/event-speaker-carousel-format]])
+- Даты «22–25 июня» (без года)
+
+**Сигнал к мониторингу:** в апрельском плане event позиционировался как «22–26 июня», на брандмауэре — «22–25 июня». Возможно сокращение программы на 1 день или OOH-копирайтерское округление. Cross-check'а из других источников пока нет — оставляем флаг.
+
+**Founder использует OOH-фото как process-content** — фото идёт в канал @community_tech (90+ тыс. подписчиков) с минимальной подписью «is coming…». Это паттерн **OOH → social proof loop**: physical брандмауэр становится digital UGC через founder-channel. Дёшево и эффективно для community-audience, у которой founder-голос работает как primary trust anchor.
+
+**Для GRO:** офлайн-event-инфраструктура у GRO отсутствует, поэтому прямого транслята нет. Зато паттерн «physical-as-content» переносится: любая публичная активность команды (выступления на конференциях, оффлайн-встречи с клиентами, mini-Tour по городам) может фотографироваться и идти в founder/employer-канал как proof-of-momentum. См. также [[evolving/content-trends/founder-intellectual-club-event-format]] про родственный жанр.
+
 ## Связанные страницы
 - [[sources/2026-04-14-tg-community-tech-voronin-feb-apr-2026]]
 - [[sources/2026-05-14-tg-community-tech-voronin-may-2026]]
 - [[sources/2026-05-19-tg-community-tech-voronin-april-recap-991]]
+- [[sources/2026-05-26-tg-community-tech-atlanty-city-ooh-992]]
 - [[canon/marketing-frameworks/voronin-preventive-social-capital]]
 - [[evolving-strict/campaign-metrics/cross-promo-speaker-swap-benchmark-2026]]
 - [[evolving-strict/competitor-metrics/atlanty-community-engagement-metrics-2026]]

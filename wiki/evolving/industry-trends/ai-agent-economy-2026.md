@@ -9,8 +9,8 @@ tags: [ai-agents, agent-economy, content, b2b-sales, partnerships]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-22  # +§14 cost-routing как операционная переменная: ClawRouters auto-route на дешёвую модель (-70-90% по словам Кумара Виаса) — @solokumi 416
-sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-mspiridonov-mar-apr-2026.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes.md]
+updated: 2026-05-28  # +§15 ЦИПР-2026 Альфа-Банк production-кейс: ИИ-агент проводит 80% проверок документов ВЭД с точностью 90% (rb.ru #46252, 2026-05-22) — крупнейший single-bank numeric proof-point RU AI-в-production за май 2026. Prior: +§14 cost-routing как операционная переменная: ClawRouters auto-route на дешёвую модель (-70-90% по словам Кумара Виаса) — @solokumi 416
+sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-mspiridonov-mar-apr-2026.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes.md, sources/2026-05-26-tg-rb-ru-may-19-26-2026.md]
 namespace: mkt
 ---
 
@@ -216,6 +216,26 @@ namespace: mkt
 - **Связь с DIY-commoditization.** Это часть массовизации агент-конструкторов — детально в [[evolving/competitor-positioning/openclaw-vs-hermes-agent-tools-2026|OpenClaw vs Hermes]].
 
 **Атрибуция:** все числа — заявления автора в промо-формате, `confidence: low`. Цитировать как «по словам Кумара Виаса». Сам факт существования cost-routing-слоя как продуктовой практики — `confidence: medium`.
+
+## 15. Альфа-Банк ВЭД-агент в production — ЦИПР-2026 numeric proof-point (2026-05-22)
+
+Из [[sources/2026-05-26-tg-rb-ru-may-19-26-2026|rb.ru #46252]] (ЦИПР-2026 ИИ-панель Альфа-Банк / Сколково / VK Tech / МТС Линк):
+
+- **ИИ-агент Альфа-Банка проводит 80% проверок документов по ВЭД** без участия человека `[conf:high, src:2026-05-22]`.
+- **Точность системы — около 90%** `[conf:high, src:2026-05-22]`.
+- Цитата Александра Горинова (руководитель департамента разработки и поддержки продаж транзакционных продуктов Альфа-Банка): «Важно понимать, где ИИ действительно даёт эффект. А не просто делать что-то, чтобы совету директоров рассказать.» `[conf:high, src:2026-05-22]`
+
+Это **крупнейший single-bank numeric proof-point** RU AI-в-production за май 2026 — превосходит по конкретности cossa-кейсы (`evolving-strict/market-data/digital-ad-market-ru-2024-2026`) и параллельные SAP-Joule (`volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026`). Альфа-Банк впервые формально называет процент автоматизации + точность.
+
+**Кросс-сигналы из той же ЦИПР-панели:**
+
+- **Разрыв между сотрудниками кратно увеличивается** — лучшие специалисты усиливают себя экосистемами из ИИ-ассистентов и быстрее отрываются от остальной команды. Тезис согласуется с [[evolving/industry-trends/ai-knowledge-worker-climb-2025-2026]] (climb the skill ladder) и [[evolving/industry-trends/ai-productivity-j-curve-2026]] (структурное преимущество маленьких команд).
+- **Главная проблема — не запуск, а масштабирование ИИ-продукта.** «Компании быстро собирают пилотные проекты, но полноценное внедрение требует перестройки процессов, инфраструктуры и работы с данными.» Это reframe от naive «PoC=победа» к operational «масштабирование = real work» — обогащает [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026]].
+
+**Применимость для контента GRO:**
+
+- Хук-цитата Горинова про «совет директоров» удобна для постов про anti-hype AI-implementation.
+- 80%/90% — конкретные numeric anchor'ы, которые можно использовать в постах «как ИИ реально внедряют в банках 2026» без ссылок на гипотетические Anthropic/OpenAI кейсы — это RU production reality.
 
 ## Что это значит для marketing-memory
 

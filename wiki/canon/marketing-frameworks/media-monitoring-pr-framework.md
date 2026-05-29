@@ -9,9 +9,10 @@ tags: [pr, content, measurement, analytics, media-monitoring]
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-27  # +cross-link на digital immunity framework (Сухоруких) — операционный layer для мониторинга fake-отзывов и SEO-атак; 6 бесплатных инструментов мониторинга 2025 (Google Alerts, Яндекс операторы, TGStat, Telemetr, custom Python parser, нейтральный сервис)
 sources:
   - sources/2026-05-19-pressfeed-mediamonitoring-pr-base-skill.md
+  - sources/2026-05-27-condense-news-pressfeed-43-articles.md
 namespace: mkt
 ---
 
@@ -114,3 +115,7 @@ Pressfeed приводит 3 кейса на данных СКАН-Интерф�
 - [[canon/marketing-frameworks/black-pr-community-doubt-mechanic]] — механика атак в малых сообществах; мониторинг — ранний сенсор
 - [[evolving/industry-trends/pr-competence-shift-2026]] — почему этот навык вошёл в топ-3 PR-компетенций
 - [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]] — аналитический B2B-контент как параллельный сдвиг к data-driven PR
+- [[canon/marketing-frameworks/digital-immunity-fake-review-defense]] — операционный layer для **мониторинга fake-отзывов и SEO-атак** (Сухоруких): 5 маркеров fake-кампании, 2 типа SEO-атак, шаблоны ответов. Mониторинг — sensor, иммунитет — defense response.
+- [[canon/marketing-frameworks/serm-3-strategies-content-islands]] — SERM-фреймворк как поисковый layer (мониторинг + ротация негатива)
+- [[canon/marketing-frameworks/toxicity-as-technology-3-mechanics]] — defense-знание о токсических кампаниях в community (мониторинг — раннее обнаружение)
+- [[sources/2026-05-27-condense-news-pressfeed-43-articles]] — Pressfeed-condense с 6 бесплатными инструментами мониторинга 2025 (Google Alerts, Яндекс операторы, TGStat, Telemetr, Python parser, нейтральный сервис)

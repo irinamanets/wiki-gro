@@ -9,8 +9,8 @@ tags: [robotics, narrative, boston-dynamics, irobot, humanoid, ai, companion-rob
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +Figure AI третий RU-источник (@Theedinorogblog 7959, 2026-05-18): тот же эфир, авторский «человек умудрился не проиграть» frame + livestream-merch как PR-приём (нон-стоп 120 ч + магазин мерча); +Figure AI livestream cross-source (@mspiridonov 4410, 2026-05-18): тот же эфир, но PR/маркетинговый угол — livestream как anti-skeptic-инструмент, ~3 сек/посылка на уровне человека; +Figure AI vs люди (breakingtrends, 2026-05-18): productivity-нога получила reality-check — роботы проиграли людям в сортировке посылок (12 757 vs 12 926, 2,83 vs 2,79 сек/коробка)
-sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-19-tg-breakingtrends-may14-19.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md, sources/2026-05-19-tg-theedinorog-may-14-19-2026.md]
+updated: 2026-05-28  # +5-я под-категория (construction-vertical) как possible-emerging ниша по Гуриновичу @gurinovich_shares пост 920 — founder-thesis про триллионную construction-platform (software + автономные роботы-строители + парк подрядчиков); Германия-прогноз
+sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-19-tg-breakingtrends-may14-19.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md, sources/2026-05-19-tg-theedinorog-may-14-19-2026.md, sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026.md]
 namespace: mkt
 ---
 
@@ -228,8 +228,41 @@ GRO продукт изначально позиционировался как 
 | Companion-robot | Familiar Machines | TBD | emotional support, anti-productivity |
 | Character-toy | Mirumi, Лабубу | $50-$100 | identity-signaling, collection |
 | Mech-vehicle | Unitree GD01 | $650K | luxury / transportation niche |
+| **Construction-vertical** (possible-emerging) | пока нет vendor'а — гипотеза Гуриновича | TBD | software-layer + автономные роботы-строители + парк подрядчиков |
 
 **Маркетинговый sense.** Все 4 сегмента — **разные value propositions, разные customer базы, разные content hooks**. Категоризация **становится критичной** для positioning b2c-AI-продукта. См. [[canon/target-audience/gro-segments]] и [[canon/positioning/gro-value-proposition]].
+
+## Update 2026-05-28 — possible 5-я sub-категория (construction-vertical) по Гуриновичу
+
+Через [[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026|@gurinovich_shares пост 920]] (2026-05-23) серийный предприниматель Эдуард Гуринович (CarPrice, Forbes 30 under 30) формулирует **founder-thesis о следующей триллионной категории** — construction-vertical роботики:
+
+> «Тот стартап, который первым предложит платформенное решение **софта и физических автономных агентов (роботов)**, которое позволит **загрузить проект дома/квартиры и на выходе получить план работ и контракт на подрядчика владельца парка роботов-строителей** станет следующей триллионной компанией.» Прогноз: **возникнет в Германии**. `[conf:medium, src:2026-05-23]`
+
+### Что отличает construction-vertical от 4 уже зафиксированных под-категорий
+
+| Параметр | Productivity-humanoid (BD, Tesla, Figure) | **Construction-vertical** (Гуринович-thesis) |
+|---|---|---|
+| **Кто покупает** | Корпоративный покупатель (Hyundai заводы) | **Парк-owner (новый тип подрядчика)** — owner-operator контрактного бизнеса |
+| **Workplace** | Завод / склад (структурированная среда) | **Жилище заказчика** (highly unstructured environment) |
+| **Сегменты задач** | Типовые конвейерные операции | **Дуальная typology**: standardized (отделка, возведение стен) → robot; creative/abstract → human-tradesman |
+| **Software-layer** | Не обязателен (исполнитель = робот) | **Критичен**: BIM → план работ → smart-contract aggregator |
+| **Demarcation** | «робот делает то, что человек на конвейере» | «робот делает modular часть, человек — fragmented часть» (см. [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs|Спиридонов sorting-test]]) |
+| **Status (2026-05)** | mature (BD IPO ready, Figure live demo, Optimus) | **гипотетическая (нет vendor'a; founder-thesis only)** |
+
+### Почему это **possible-emerging**, а не уже-зафиксированная категория
+
+- **Нет конкретного vendor'a** реализующего полный стек (software + autonomous-construction-robot + parc-aggregation).
+- Существующие construction-robots (Construction Robotics SAM, Built Robotics, Dusty Robotics) — **single-purpose** (кирпичная кладка, layout-printing), не **fragmented-autonomous-agent**.
+- Существующие construction-marketplaces (PlanRadar, Bricklane Pro) — **software-only**, без physical-agent-layer.
+- Полный стек, описанный Гуриновичем, — это **integration thesis**, требующая объединения трёх ныне раздельных рынков (BIM-software + construction-robotics + tradesman-marketplace).
+
+→ Сохраняем как **5-ю potential sub-категория**, не реальную. Watch-list: появление vendor'а, кто заявит full-stack thesis (особенно немецкий рынок per Гуриновичу).
+
+### Связь с тезисом «typology, не displacement»
+
+Гуринович явно демаркирует: **«ремонтные работы всегда связаны с креативным мышлением + хорошая инженерная база + абстрактное мышление, мне пока трудно представить что эти задачи можно легко передать нейросетям и роботам»**. Это согласуется с [[evolving/industry-trends/blue-collar-ai-resilience-2026|blue-collar resilience]] тренда (Хуанг NVIDIA + Спиридонов sorting-test) и **уточняет**: construction-vertical роботизация **не отменяет** resilience tradesmen — наоборот, **усиливает их ценность** (modular части автоматизируются → tradesman фокусируется на fragmented частях, где AI-augmentation > AI-replacement).
+
+Полный разбор thesis'а — на [[canon/marketing-frameworks/blue-collar-platform-startup-thesis-gurinovich]]. Cross-link к economic anchor — [[evolving-strict/market-data/ru-skilled-trades-wages-moscow-2026]] (Москва электрогазосварщик 585 тыс ₽/вахта).
 
 ## Связь с другими страницами
 
@@ -243,3 +276,6 @@ GRO продукт изначально позиционировался как 
 - [[sources/2026-05-19-tg-breakingtrends-may14-19]] — источник Figure AI теста (пост #16762)
 - [[sources/2026-05-19-tg-mspiridonov-may-14-19-2026]] — cross-source того же livestream: PR/маркетинговый угол (пост 4410)
 - [[sources/2026-05-19-tg-theedinorog-may-14-19-2026]] — третий RU-источник того же эфира: displacement-frame + livestream-merch PR (пост 7959)
+- [[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026]] — Гуриновичев founder-thesis про construction-vertical 5-ю под-категорию (пост 920)
+- [[canon/marketing-frameworks/blue-collar-platform-startup-thesis-gurinovich]] — детальный разбор thesis'а Гуриновича
+- [[evolving-strict/market-data/ru-skilled-trades-wages-moscow-2026]] — economic anchor (Москва 585 тыс ₽)

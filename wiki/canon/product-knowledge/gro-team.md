@@ -9,8 +9,8 @@ tags: [product, team, founders, landing-page]
 confidence: high
 stale: false
 created: 2026-04-10
-sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-14-tg-startupoftheday-mar-apr-2026.md, sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md]
-updated: 2026-05-20
+sources: [sources/2026-04-10-groapp-landing.md, sources/2026-04-10-gro-rustore-listing.md, sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-14-tg-startupoftheday-mar-apr-2026.md, sources/2026-05-12-tg-eklapshinaofficial.md, sources/2026-05-12-tg-gro-me-channel-dump.md, sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026.md, sources/2026-05-19-tg-eklapshinaofficial-903-907.md, sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026.md]
+updated: 2026-05-26
 namespace: mkt
 ---
 
@@ -59,11 +59,11 @@ namespace: mkt
 
 - **Клиенты «Кед профессора»:** Яндекс, МФТИ, МИСиС, Мосполитех, ДИТ Москвы, АСИ и другие.
 - **Рейтинг Рунета 2025:** 15 место среди всех разработчиков ИИ-продуктов, **1 место** среди разработчиков ИИ-продуктов для образования.
-- **Стратегический партнёр НИУ ВШЭ по ИИ.**
+- **Стратегический партнёр НИУ ВШЭ по ИИ** (повторно подтверждено в [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026|TG-посте 571 от 2026-05-20]] в контексте КИВО-2026: «наша компания „Кеды профессора“ является стратегическим партнером Института образования НИУ ВШЭ в сфере искусственного интеллекта. Мы плотно сотрудничаем над внедрением ИИ-решений». См. [[evolving/content-trends/kivo-2026-edtech-competition-sponsor-stack]] для деталей KIVO-партнёрства).
 - **Прошлое:** 7+ лет в IBS, руководил проектами по созданию государственных информационных систем.
 - **Академические лекции:** автор лекций по ИИ в МФТИ, МГИМО, МИСиС.
 - **Награда:** победитель национальной премии «Россия — страна возможностей» в категории «Предпринимательство».
-- **Флагманский продукт KedProf:** **Нейрофонд** — ИИ-оркестратор с позиционированием «производительность когнитивного труда +10–20%», позиционируется как utility-слой для интеграции в workflows. Размещается на `promo.neurofond.ru`, кейсы клиентов — на `neurofond.ru/shared/*`. **Обновлённый positioning (2026-05-08, см. [[evolving/competitor-positioning/neurofond-positioning-2026-05]]):** headline «Единый доступ к лучшим нейросетям мира», sub «Легко. Доступно. Быстро», trust-якоря «Без VPN / Оплата российскими картами», **multi-model стек** Claude Opus/Sonnet + GPT-4o + Gemini 3.1 Pro в одном UI. Публичный промокод Егошина — **EGOSHIN800** (founder-as-affiliate pattern).
+- **Флагманский продукт KedProf:** **Нейрофонд** — ИИ-оркестратор с позиционированием «производительность когнитивного труда +10–20%», позиционируется как utility-слой для интеграции в workflows. Размещается на `promo.neurofond.ru`, продуктовое приложение на `neurofond.ru`, кейсы клиентов — на `neurofond.ru/shared/*`. **Обновлённый positioning v2 (2026-05-22, см. [[evolving/competitor-positioning/neurofond-positioning-2026-05]]):** headline **«Один чат. Все модели. Нейрофонд»**, sub **«Опишите задачу, мы выберем идеальную нейросеть»** (auto-routing, эволюция от v1 «единый доступ к лучшим нейросетям мира» / «Легко. Доступно. Быстро»). UI tabs: **Текст / Графика / Видео / Агенты** (добавлен agent-функционал). Видимые модели — Claude 4.6 Sonnet, Claude 4.7 Opus + ChatGPT (OpenAI), Claude (Anthropic) карточки. Trust-якоря v1 «Без VPN / Оплата российскими картами» вероятно сохраняются. Публичный промокод Егошина — **EGOSHIN800** (founder-as-affiliate pattern). **Mode-shift v1 → v2:** от multi-model aggregator к AI-роутер с авто-выбором + agent-aggregator (peer-позиция с Сбер GigaAgent в B2C-сегменте, см. [[evolving/industry-trends/sber-gigaagent-ai-agents-narrative-2026]]).
 - **Публичная деятельность:** два телеграм-канала (`@egoshin_kedprof` — личный, `@ai_top_100` — кураторский проект «AI из первых уст» с переводами интервью ИИ-лидеров), YouTube+VK+Rutube каналы на обоих брендах.
 - **Спикерские темы 2026:** «Тренды ИИ на 2026: AGI от Маска и атомный козырь из России», «Команда на стероидах: как внедрить AI», «Стратегия когнитивной бережливости».
 - **Авторские marketing-рамки (см. cross-links ниже):** [[canon/marketing-frameworks/egoshin-ai-adoption-ladder|5-ступенчатая лестница AI-адаптации организаций]], [[canon/marketing-frameworks/four-paths-it-market-future|четыре пути ИТ-рынка]].

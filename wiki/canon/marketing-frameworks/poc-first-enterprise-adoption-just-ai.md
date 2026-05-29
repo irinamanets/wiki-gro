@@ -9,8 +9,8 @@ tags: [gtm, enterprise, ai-agents, just-ai, plg, free-trial, on-premise, sales-c
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md]
+updated: 2026-05-26  # +второй source-attestation: Just AI distribution kit через @telega_Rinata (627) + client name-drop Альфа-Банк/Х5/Ozon
+sources: [sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md, sources/2026-05-26-tg-telega-rinata-may-19-22-2026.md]
 namespace: mkt
 ---
 
@@ -60,6 +60,17 @@ namespace: mkt
 - **POC без критериев успеха.** Месяц «погонять» без заранее согласованных метрик эффекта → тот же паралич анализа, только бесплатный. Нужны явные success-criteria по аналогии с [[canon/marketing-frameworks/chatbot-roi-4-economic-effects|4 узлами ROI]].
 - **POC-first для дешёвого продукта.** Паттерн оправдан там, где классический sales-cycle дорог и долог (enterprise, шестизначные бюджеты). Для SMB-конструктора достаточно обычного freemium.
 
+## Второй source-attestation — @telega_Rinata (26 мая 2026)
+
+Через [[sources/2026-05-26-tg-telega-rinata-may-19-22-2026|@telega_Rinata 627]] (2026-05-21, рекламный, erid `2W5zFJhgdMs`) тот же distribution kit рекомендуется повторно — теперь Ринатом Алиевым, который **самостоятельно ставит ту же диагностику failed-pilot'ов**: «низкий порог входа → куча некачественных решений и подрядчиков → многие пробовали, не сработало, из пилотов ничего не вышло в прод». То есть «болезнь», которую лечит POC-first-паттерн, **подтверждается вторым независимым голосом** (не одним только Спиридоновым).
+
+**Что добавляет вторая фиксация:**
+- **Client name-drop:** «весь крупняк доверяет: Альфа-Банк, Х5, Ozon» — enterprise-социальное доказательство, усиливающее risk-reversal-логику паттерна (крупные ИБ-зрелые клиенты уже прошли on-prem-проверку).
+- **Подтверждение, что on-prem distribution kit — текущий флагман-оффер Just AI** (а не разовый эксперимент): оффер устойчив через несколько недель и несколько каналов.
+- **Контр-бренд-нейм для рамки рекомендации** — Алиев вшивает Just AI в свою стратегическую рамку [[canon/marketing-frameworks/ai-transformation-by-company-size-aliev|AI-трансформации по размеру бизнеса]] (как подрядчика для среднего/крупного, где «проекты на 2-3 года»).
+
+Confidence остаётся `medium` (оба источника — рекламные посты Just AI через personal-brand-каналы, не независимый research), но диагностика болезни теперь cross-attested. Полный трекинг advertorial-частоты — в [[evolving/competitor-positioning/ru-nocode-ai-agent-platforms-2026]].
+
 ## Применение в content-стратегии GRO
 
 ### Hook A: «Паралич анализа — почему 80-слайдовые пилоты тихо умирают»
@@ -81,7 +92,9 @@ namespace: mkt
 - [[canon/marketing-frameworks/automation-vs-digital-transformation-framework]] — automation в общей рамке, контекст enterprise-внедрений
 - [[canon/marketing-frameworks/anti-perfectionism-mvp-launch-muratayev]] — доказать ценность на минимуме
 - [[evolving/competitor-positioning/ru-nocode-ai-agent-platforms-2026]] — Just AI как трекаемый игрок RU AI-agent рынка
+- [[canon/marketing-frameworks/ai-transformation-by-company-size-aliev]] — рамка, в которую Алиев вшивает рекомендацию Just AI
 - [[sources/2026-05-19-tg-mspiridonov-may-14-19-2026]] — источник (пост 4401)
+- [[sources/2026-05-26-tg-telega-rinata-may-19-22-2026]] — второй source-attestation (пост 627)
 
 ## Contradictions
 

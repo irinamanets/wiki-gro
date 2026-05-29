@@ -9,8 +9,8 @@ tags: [industry-trends, pr, native-advertising, telegram, regulation]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-19  # +Kovpak: local-media как новый channel-shift (Apr-May 2026), 90/10 ratio, CPL 300-400₽, 4 platform types
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-rbc-news-telegram-digest-apr13-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-16-pressfeed-geo-vmesto-seo.md, sources/2026-04-16-vtb-hh-mashina-vremeni.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md]
+updated: 2026-05-26  # +2-я instantiation паттерна РБК×ProductStar Mini-MBA (через @rbc_news 148802, 7 мая 2026): тот же co-brand с интервалом ~5 нед после апрельского, обновлённое CTA (-37% скидка). Confirms recurring native-ad pattern в одном TG-канале. Prior 2026-05-19: +Kovpak: local-media как новый channel-shift (Apr-May 2026), 90/10 ratio, CPL 300-400₽, 4 platform types
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-rbc-news-telegram-digest-apr13-14.md, sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-04-16-pressfeed-geo-vmesto-seo.md, sources/2026-04-16-vtb-hh-mashina-vremeni.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md, sources/2026-05-26-tg-rbc-news-may-7-8-2026.md]
 namespace: mkt
 ---
 
@@ -168,6 +168,31 @@ namespace: mkt
 
 Подробная methodology — [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]]; CPL бенчмарки — [[evolving-strict/campaign-metrics/local-media-cpl-benchmarks-2026]]; полный сдвиг как отдельный тренд — [[evolving/industry-trends/local-media-overheated-paid-shift-2026]].
 
+## Апдейт 2026-05-26 — recurring native-ad pattern: 2-я instantiation РБК × ProductStar Mini-MBA
+
+Через [[sources/2026-05-26-tg-rbc-news-may-7-8-2026|@rbc_news пост 148802, 7 мая 2026]] — повторное появление того же co-branded native-ad формата, что был зафиксирован в [[sources/2026-04-14-rbc-news-telegram-digest-apr13-14|апрельском ingest'е 13-14 апр 2026]]. Это **2-я instantiation за ~5 недель** в одном TG-канале (@rbc_news, ~1,5M+ подписчиков по publicly available метрикам).
+
+**Сравнение двух instantiation'ов:**
+
+| Параметр | 1-й (апрель 2026) | 2-й (май 2026) |
+|---|---|---|
+| Дата | ~13-14 апреля 2026 | 2026-05-07 09:10 UTC |
+| Канал | @rbc_news | @rbc_news |
+| Co-brand | «РБК × PRODUCTSTAR» (на визуале) | «РБК × ProductStar» (предположительно тот же co-brand) |
+| Формат-конкретика | вебинар «Мини-МВА с ИИ-модулем для руководителей», 15 апреля 19:00 | курс «Мини-МВА от РБК», скидка до 37%, акцент на ИИ-инструменты |
+| Маркировка | «Реклама АО РОСБИЗНЕСКОНСАЛТИНГ» | «Реклама, 18+ АО РОСБИЗНЕСКОНСАЛТИНГ» |
+| CTA-механика | бесплатный вебинар → платный курс | прямое CTA на курс со скидкой |
+
+**Pattern observed:** в апреле — top-of-funnel (бесплатный вебинар как lead-magnet); в мае — mid-of-funnel (прямой promotional на платный курс со скидкой). Это **last-mile промо** в той же воронке, последовательная коммуникация с интервалом в ~3-4 недели.
+
+**Что это добавляет к тренду:**
+
+1. **Подтверждение устойчивости media-brand × EdTech co-branded native** как формата (не one-off проба, а **серийное упражнение**).
+2. **Учебный кейс воронки в одном канале:** lead-magnet → discount-driven CTA с интервалом 3-4 недели — predictable cadence для co-branded edu-product native'а.
+3. **Confidence**: дата сезонности (апрель-май — пик recruitment для осенне-зимних edu-программ) объясняет timing. Tracking next instantiation в **август-сентябрь** даст 3-й datapoint и enable seasonality-моделирование.
+
+**GRO-применение:** при планировании co-branded native'а с медиа-брендом для GRO курс / интенсив, **серийный formats-mix** (lead-magnet + последующий promo-discount через 3-4 нед) — стандартная цепочка. Не разовая native-публикация, а **mini-funnel в одном канале**.
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/native-advertising]]
@@ -186,6 +211,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/pr-measurement-digital-footprint]] — новая модель измерения PR (цифровой след + AI)
 - [[evolving/content-trends/b2b-pr-formats-analytical-content-2026]] — каталог B2B-PR форматов
 - [[sources/2026-04-14-rbc-news-telegram-digest-apr13-14]]
+- [[sources/2026-05-26-tg-rbc-news-may-7-8-2026]] — 2-я instantiation Mini-MBA pattern
 - [[sources/2026-04-14-tg-dnative-digest-7497-7546]]
 - [[sources/2026-04-14-tg-stodnevka2-mar-apr-2026]]
 - [[sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach]]

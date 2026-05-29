@@ -9,8 +9,8 @@ tags: [creative, video, ai, tools, seedance, runway, higgsfield, veo3, sora, kli
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +cgevent дамп 8-19 мая: HiDream-O1 (=Peanut раскрыт, vivago.ai, 8B pixel-space no-VAE), Krea K-2 (всем + безлимит неделю), AsymFLUX.2 Klein (+40% скорости pixel-space), Starchild-1 (Odyssey world model realtime 20FPS), HY-World-2.0/Pixal3D (Tencent опенсорс), Viggle P.I.N.O.C (нейромокап), Video2Video нейрорендер, LTX Director (Comfy timeline). Peanut раскрыт → теперь HiDream-O1. Prior: +cross-link на RU-parallel snapshot
-sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md]
+updated: 2026-05-26  # +@solokumi пост 419 (Кумар Виас, 2026-05-22) — маркетинговый ракурс Gemini Omni: reuse-first vs generate-first, 5 use-case промптов + prompt-формула. Operational playbook: [[evolving/content-trends/gemini-omni-marketer-playbook-2026]]. Prior: +cgevent дамп 19-25 мая (Seedance 2.0 Mini upcoming, Seedance 2.1 анонс, Runway Aleph 2, Gemini Omni Flash pricing, Rodin 2.5, ByteDance vCube, CapCut × Gemini)
+sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md, sources/2026-05-26-tg-cgevent-may19-25-2026.md, sources/2026-05-26-tg-solokumi-may-20-22-2026.md]
 namespace: mkt
 ---
 
@@ -24,9 +24,17 @@ namespace: mkt
 
 ## Основные модели (апрель 2026)
 
-### Seedance 2.0
+### Seedance 2.0 / 2.0 Mini / 2.1 (upcoming, 19 мая)
 
-- **Стоимость:** ~$0.03 за секунду видео — **в 9× дешевле Runway** по оценке @solokumi (пост 392, 2026-04-03)
+**Roadmap по линейке** (15700 в [[sources/2026-05-26-tg-cgevent-may19-25-2026|@cgevent]]):
+
+- **Seedance 2.0** — текущая базовая (см. ниже)
+- **Seedance 2.0 Mini** (upcoming) — облегчённая, **лучше Seedance 2.0 Fast**, ожидаемая цена **~$0.073/сек** `[conf:medium, src:2026-05-19]`
+- **Seedance 2.1** (upcoming) — повышение качества генерации **~+20%** vs 2.0 `[conf:low, src:2026-05-19]`
+
+ByteDance дробит линейку под разные tier'ы цены/качества (anti-pattern к Google консолидации в Gemini Omni). Подробно — в [[volatile-strict/competitor-news/seedance-2-1-pricing-2026-05]].
+
+- **Стоимость 2.0:** ~$0.03 за секунду видео — **в 9× дешевле Runway** по оценке @solokumi (пост 392, 2026-04-03)
 - **Суперсила:** **@-система** — загрузка до 12 референсных файлов с ролями. Примеры ролей: `@Image1` — лицо персонажа, `@Image2` — стиль освещения, `@Video1` — характер движения камеры, `@Audio1` — ритм и темп. Модель держит всё одновременно и собирает видео, в котором персонаж не мутирует, свет не скачет, динамика синхронизирована с музыкой.
 - **По многим рейтингам — #1 среди видеомоделей на начало 2026**, опережает Sora 2 и Veo 3 (по оценке @solokumi, независимо не подтверждено)
 - **Минусы:**
@@ -183,6 +191,32 @@ namespace: mkt
 - **Сигнал:** Ideogram движется в сторону **слоёв и композа** — потенциально превращается из text-to-image в **slice-based composition tool**
 - **Когда брать:** массовый продакшн ассетов с альфой (постеры, превью, прозрачные UI-элементы)
 
+### Gemini Omni Flash (Google, май 2026)
+
+- **Платформа:** Google Flow (десктоп / web), доступ через AI Plus ($20/мес) и AI Ultra ($100/мес) `[conf:high, src:2026-05-20]`
+- **Стоимость в Google Flow:** **30 кредитов / видео** (10 сек). План Pro даёт 1000 кр/мес = **33 видео/мес** `[conf:high, src:2026-05-20]`. Для сравнения Veo 3.1 Lite — 10 кр/видео, Veo 3.1 Fast — 20 кр/видео (vision-confirmed в 15708)
+- **Суперсила 1:** **редактирование реальных видео** (не только сгенерированных). Multimodal-layering: «сделай всех фламинго», «когда рука касается зеркала — зеркало плывёт»
+- **Суперсила 2:** **World Knowledge** — модель не требует детальных промптов, строит детали из LLM-контекста. Сильное применение — образование, иллюстрация, презентации
+- **Суперсила 3:** **Avatar/Cameo** — принимает фото человека → встраивает в видео. Под капотом 3D-фотограмметрия лица (больше ракурсов = лучше консистентность)
+- **Слабые стороны (по @cgevent):** «вялая динамика и физика», «своеобразные переключения камеры» vs Seedance. Заторможенно и искусственно для action-сцен
+- **Pipeline-prescription Цыпцына:** «генерация в Seedance, редактирование в Omni» — двухступенчатая связка `[conf:medium, src:2026-05-20]`
+- **Маркетинговый ракурс Кумара Виаса:** «реюзать старые фото продукта и горизонтальные ролики», а не генерировать с нуля. Omni — **флоу переработки того, что уже есть**. Готовая prompt-формула: `Use this as the base [вводные] → Keep [нельзя менять] → Change [менять] → Add [стиль/движение] → Output as [формат] → Do not add [не нужно]` `[conf:medium, src:2026-05-22]` (см. [[evolving/content-trends/gemini-omni-marketer-playbook-2026|operational playbook]])
+- **Будущее:** длительность до 30 сек (озвучено в подкасте), video-референс лица (KYC-style scan), цифровая копия пользователя
+- **Подробно:** [[volatile-strict/competitor-news/google-gemini-omni-video-2026-05]]
+
+### Runway Aleph 2 (frame-edit propagation, май 2026)
+
+- **Релиз:** 2026-05-22 (через 2 дня после Gemini Omni) `[conf:high, src:2026-05-22]`
+- **Разрешение:** **1080p** `[conf:high, src:2026-05-22]`
+- **Длина:** **до 30 сек** `[conf:high, src:2026-05-22]`
+- **Доступ:** подписка от **Standard** (без уточнения версии); промокод `RUNWAY50` (50% off Pro)
+- **Суперсила (новая UX-парадигма):** **frame-edit propagation** — меняешь один кадр (в любом редакторе как картинку) → Aleph переносит изменение через весь ролик с temporal consistency
+- **Точечный edit:** замена объектов с учётом физики и освещения, бэкграунд **остаётся нетронут**
+- **Workspace:** [Studio](https://app.runwayml.com/video-tools/teams/guest/ai-tools/generate?mode=edit) — превью, текстовые правки, реф-картинки
+- **Multishot:** работает в сценах из Seedance 2 (тест Цыпцына — переодевание ниндзя в розовый)
+- **Когда брать:** когда нужен точный контроль через image-editing UX (привычный для Photoshop), а не natural language. Альтернатива prompt-based редактированию в Gemini Omni
+- **Подробно:** [[volatile-strict/competitor-news/runway-aleph-2-video-2026-05]]
+
 ### LTX2.3 All-in-One workflow (опенсорс)
 
 - **Платформа:** ComfyUI workflow на [civitai.com/models/2553704](https://civitai.com/models/2553704/ltx23-all-in-one-prompt-relay-id-lora-controlnet-detailer-upscaler-custom-audio-keyframes) `[conf:high, src:2026-05-08]`
@@ -195,6 +229,28 @@ namespace: mkt
 - **Когда брать:** опенсорс-power-users (только Comfy, только hardcore), которые хотят полный контроль workflow без переключения между сервисами
 - **Caveat:** только для технически подготовленных пользователей — Comfy не для beginner'ов
 - **Разбор:** [reddit.com/r/StableDiffusion/s/mnanyCoOtH](https://www.reddit.com/r/StableDiffusion/s/mnanyCoOtH)
+
+### ByteDance vCube (video upscaler, май 2026)
+
+- **Платформа:** [Fal.ai](https://fal.ai/models/fal-ai/bytedance-upscaler/upscale/video) или [Replicate](https://replicate.com/bytedance/video-upscaler) — **API only**, **никакого опенсорса** `[conf:high, src:2026-05-25]`
+- **Вход:** 480p / 720p / 1080p
+- **Выход:** **до 2K или 4K**, до **60 fps** `[conf:high, src:2026-05-25]`
+- **Pricing (30fps, Standard):** 1080p $0.0072/сек, 2K $0.0144/сек, 4K $0.0288/сек `[conf:high, src:2026-05-25]`
+- **60fps:** удваивает цену (1080p $0.0144/сек, 4K $0.0576/сек)
+- **PRO mode:** **×10 от обычной цены** (1080p $0.072/сек, 4K $0.288/сек)
+- **Позиционирование (от ByteDance):** «Идеальное дополнение для Seedance»
+- **Когда брать:** post-processing после Seedance для финального продакшна 4K. Per-second pricing vs flat-rate Topaz через Krea ($35/мес) — break-even ≈81 минута 1080p в месяц
+- **Подробно:** [[volatile-strict/competitor-news/bytedance-vcube-video-upscaler-2026-05]]
+
+### Rodin 2.5 (3D-генератор, май 2026)
+
+- **Платформа:** [hyper3d.ai](https://hyper3d.ai/) — closed API
+- **Полигонаж:** **до 10 миллионов полигонов** (избыточно для realtime, в самый раз для 3D-печати или high-end CG) `[conf:high, src:2026-05-19]`
+- **Режимы:** **Thinking Mode** (iterative reasoning) + **Extreme High** (organic anatomy — брови, волосы, вены, борода)
+- **Качественный сдвиг 2.5 vs 2.0:** **3D-AI наконец-то умеет рисовать органику** (раньше валилось на лицах, шерсти, венах)
+- **Use-cases:** 3D-печать, high-end CG-фильмы. Для игровых ассетов нужен retopo (стандартная задача 3D-pipeline)
+- **Конкуренция:** vs Tencent Hunyuan / HY-World-2.0 (опенсорс), Apple ml-lito (опенсорс, отстаёт), Pixal3D (Tencent опенсорс на Trellis.2)
+- **Подробно:** [[volatile-strict/competitor-news/rodin-2-5-3d-generator-2026-05]]
 
 ### Minimax Hailuo 2.3
 
@@ -223,6 +279,11 @@ namespace: mkt
 | Ideogram bg-remover | Free / Ideogram tier | Быстрая | — | Отдельная модель для альфы | `[conf:medium, src:2026-05-08]` |
 | LTX2.3 All-in-One workflow | Опенсорс (compute сам) | Variable | Высокая через ID LoRA | Full Comfy pipeline single-workflow | `[conf:high, src:2026-05-08]` |
 | LTX Director | Опенсорс (Comfy) | Variable | — | Таймлайн+монтаж в Comfy, без агентов/токенов | `[conf:high, src:2026-05-15]` |
+| **Seedance 2.0 Mini** (upcoming) | **$0.073/сек** | TBD | TBD | Промежуточный tier между Fast и Pro | `[conf:medium, src:2026-05-19]` |
+| **Gemini Omni Flash** | $20-$100/мес (AI Plus/Ultra), 30 cr/video в Flow | Средняя | Высокая (фотограмметрия лица) | Multimodal-layering edit + World Knowledge + Avatar/Cameo | `[conf:high, src:2026-05-20]` |
+| **Runway Aleph 2** | Standard tier | Средняя | Высокая (frame-edit propagation) | **Frame-edit propagation** — меняй один кадр, AI переносит на ролик | `[conf:high, src:2026-05-22]` |
+| **ByteDance vCube** (upscaler) | $0.0072-$0.0288/сек Standard, ×10 PRO | Быстрая | — | Video upscale до 4K@60fps, post-processing | `[conf:high, src:2026-05-25]` |
+| **Rodin 2.5** (3D) | Closed API | Variable | — | 10M полигонов, organic anatomy в Extreme High | `[conf:high, src:2026-05-19]` |
 
 Все оценки — **self-reported** практикой Kumar & Solo. Независимых бенчмарков (например, Arena-style) в статьях нет, поэтому `confidence: medium` везде. Для более строгих оценок нужны независимые замеры.
 

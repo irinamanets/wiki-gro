@@ -7977,3 +7977,349 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {canon: 9, evolving: 6, evolving-strict: 4, volatile-strict: 2, sources: 1}
 - touched: 23 pages
 - raw: raw/processed/articles/_condense_vc.ru_chunk5_2026-05-24.md (+ 1 sidecar: .note.md)
+
+## [2026-05-27 15:10] [ingest] | Forbes.ru — тег «200 крупнейших непубличных компаний» (triaged-out, audit-only)
+- source: wiki/sources/2026-05-26-forbes-tag-200-largest-private-companies.md
+- created: none (audit-only ingest, теги-страница без релевантного контента)
+- updated: none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1}
+- touched: 1 page
+- raw: raw/processed/articles/web_www.forbes.ru_tegi_200-krupneyshih-nepublichnyh-kompaniy_9a52e3ae.md → processed
+
+## [2026-05-27 15:14] [ingest] | Telegram @community_tech (Воронин/«Атланты») — тизер #992 «Атланты Сити»
+- source: wiki/sources/2026-05-26-tg-community-tech-atlanty-city-ooh-992.md
+- created: none
+- updated:
+  - wiki/volatile/weekly-digest/voronin-community-tech-feb-apr-2026.md (+тизер #992, 9-канальный event-marketing микс расширен наблюдением tease-and-reveal формата)
+  - wiki/evolving/competitor-positioning/atlanty-business-club-positioning-2026.md (+OOH-наблюдение «Атланты Сити» как новый продуктовый трек клуба)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1, volatile: 1, evolving: 1}
+- touched: 3 pages
+- raw: raw/processed/articles/tg_community_tech_20260526-134000.md → processed (+ 1 child media)
+
+## [2026-05-27 15:18] [ingest] | TG @typicalcompany — посты 1340-1341 (25 мая 2026): «рефлексы изменений»
+- source: wiki/sources/2026-05-26-tg-typicalcompany-may-25-2026-change-reflexes.md
+- created:
+  - wiki/canon/marketing-frameworks/change-reflexes-velonski-gartner.md
+- updated:
+  - wiki/evolving/competitor-positioning/typical-company.md (+трек «рефлексы изменений» как новый продуктовый ракурс TYPICAL)
+  - wiki/canon/marketing-frameworks/change-management-tuckman-kotter-ramazanov.md (+рефлексы Велонски-Gartner как дополняющий уровень change-management)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 1, sources: 1}
+- touched: 3 pages
+- raw: raw/processed/articles/tg_typicalcompany_20260526-010500.md → processed
+
+## [2026-05-27 15:22] [ingest] | Дзен (Деловой мир) / Артем Первухин (KINETICA) — Performance: 5 течей воронки
+- source: wiki/sources/2026-05-26-dzen-delovoymir-pervukhin-funnel-5-leaks.md
+- created:
+  - wiki/canon/marketing-frameworks/pervukhin-funnel-5-leaks-diagnostic.md
+  - wiki/canon/marketing-frameworks/niche-dynamics-vs-self-comparison-benchmark.md
+  - wiki/canon/marketing-frameworks/value-based-bidding-vs-lead-cost.md
+  - wiki/canon/marketing-frameworks/algorithm-training-conversion-action-selection.md
+  - wiki/evolving-strict/campaign-metrics/kinetica-funnel-optimization-cases-2025.md
+- updated:
+  - wiki/evolving-strict/market-data/digital-ad-market-ru-2024-2026.md (+кейсы KINETICA с inline-маркерами по 2025)
+  - wiki/canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov.md (+5 течей как операционная разбивка performance-сдвига)
+  - wiki/canon/marketing-frameworks/cpa-calculator-pre-launch-roi.md (+связка с диагностикой 5 течей)
+  - wiki/canon/marketing-frameworks/site-speed-as-conversion-lever.md (+перекрёстная связь с течью «техники сайта»)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 6, evolving-strict: 2, sources: 1}
+- touched: 10 pages
+- raw: raw/processed/articles/web_dzen.ru_a_ahQEAFU4_3gzT96R_72be4f38.md → processed
+
+## [2026-05-27 15:23] [ingest] | Telegram @portnyaginlive — 3 поста (бизнес с друзьями, формула Эйнштейна, история 7-Eleven)
+- source: wiki/sources/2026-05-26-tg-portnyaginlive-20260526-122652.md
+- created:
+  - wiki/canon/marketing-frameworks/partner-as-leadership-role-portnyagin.md
+  - wiki/canon/marketing-frameworks/einstein-success-formula-silence-as-control.md
+  - wiki/canon-strict/historical-campaigns/seven-eleven-suzuki-takeover-1991-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/partner-strength-over-idea-batyrev.md (+Портнягин-голос: партнёр > идея, фокус на лидерскую роль)
+  - wiki/canon/marketing-frameworks/distressed-asset-consolidation-playbook.md (+7-Eleven/Сузуки 1991 как 5-й кейс playbook'а distressed-takeover)
+  - wiki/canon-strict/historical-campaigns/samwer-rocket-internet-fast-follower.md (+ cross-link 7-Eleven как контр-кейс «fast-follower vs distressed-takeover»)
+  - wiki/evolving/content-trends/portnyagin-founder-channel-patterns.md (+3-постовый срез: партнёрство/формула/история, формат «лонгрид→цитата→исторический разбор»)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, canon-strict: 1, evolving: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_portnyaginlive_20260526-122652.md → processed (+ 3 child media)
+
+## [2026-05-27 15:36] [ingest] | Forbes.ru tag-page «30 under 30» — 15 заголовков, агрегированный срез
+- source: wiki/sources/2026-05-26-forbes-tegi-30-under-30.md
+- created:
+  - wiki/evolving/content-trends/forbes-30-under-30-content-franchise.md
+- updated:
+  - wiki/evolving/content-trends/hiring-meme-pricing-list-tabunov.md (+Forbes 30 under 30 как listicle-эталон с социальным капиталом)
+  - wiki/canon/marketing-frameworks/social-proof-traffic-asset-framework-tabunov.md (+«30 under 30» как 9-й тип pre-validated social proof)
+  - wiki/evolving/content-trends/forbes-russia-native-ad-pattern-2026.md (+тег-страница как эволюция native-формата Forbes RU)
+  - wiki/evolving-strict/market-data/ru-youth-entrepreneurs-2026.md (+15 имён за 2024-2026, отраслевое распределение)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, canon: 1, evolving-strict: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/web_www.forbes.ru_tegi_30-under-30_49015bc9.md → processed
+
+## [2026-05-27 15:42] [ingest] | Telegram @fomichevkirill — дамп канала, 20–26 мая 2026 (7 содержательных постов)
+- source: wiki/sources/2026-05-26-tg-fomichevkirill-may-20-26-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/agreement-fixation-discipline-fomichev.md
+  - wiki/evolving-strict/competitor-metrics/dome-foundation-investment-fund-2026.md
+  - wiki/evolving/competitor-positioning/zarya-ventures-hr-tech-investor-2026.md
+  - wiki/evolving/industry-trends/closed-vc-camp-format-spring-ai-weekend-2026.md
+- updated:
+  - wiki/evolving/content-trends/sponsored-author-channel-monetization-fomichev.md (+рубрика «Коннект» + новые spons. интеграции, май-срез)
+  - wiki/canon/marketing-frameworks/sales-follow-up-second-touch-fomichev.md (+«фиксация договорённостей» как продление дисциплины follow-up'а)
+  - wiki/evolving-strict/market-data/publishing-founder-growth-premium-2026.md (+Фомичёв 4-й голос «премии за публичность founder'а», май срез)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 2, evolving-strict: 2, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_fomichevkirill_20260526-130502.md → processed (+ 6 child media)
+
+## [2026-05-27 15:42] [ingest] | Дзен (Деловой мир) / Артем Первухин (KINETICA) — Brand vs Performance: two-track стратегия
+- source: wiki/sources/2026-05-27-dzen-delovoymir-pervukhin-brand-vs-performance.md
+- created:
+  - wiki/canon/marketing-frameworks/brand-vs-performance-two-track-strategy-pervukhin.md
+  - wiki/canon/marketing-frameworks/share-of-search-brand-metric.md
+  - wiki/canon/marketing-frameworks/brand-lift-measurement-by-platform.md
+  - wiki/canon/marketing-frameworks/assisted-conversions-attribution-3-models.md
+  - wiki/canon/marketing-frameworks/brand-sprint-testing-quarterly-three-iterations.md
+  - wiki/evolving-strict/campaign-metrics/brand-investment-timeline-benchmarks.md
+- updated:
+  - wiki/canon/marketing-frameworks/three-tier-funnel-budget-split-vtochku.md (+ two-track как стратегическая надстройка над 50/30/20 split)
+  - wiki/canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov.md (+ brand-капитал как контр-ход neuroslop'у performance-эры)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, evolving-strict: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/web_dzen.ru_a_ahQVE3M-KU9rtjGg_28255071.md → processed
+
+## [2026-05-27 15:43] [ingest] | Telegram @psilonsk — дамп 2026-05-20…2026-05-26 (Сергей Колганов, week4)
+- source: wiki/sources/2026-05-26-tg-psilonsk-may-2026-week4.md
+- created:
+  - wiki/canon/marketing-frameworks/work-life-boundary-monitor-not-intervene.md
+  - wiki/canon/marketing-frameworks/kill-half-working-projects-courage.md
+  - wiki/canon/marketing-frameworks/legal-led-company-antipattern.md
+  - wiki/canon/marketing-frameworks/meeting-time-filling-parkinsons-antipattern.md
+  - wiki/canon/marketing-frameworks/consultant-as-discipline-enforcer.md
+- updated:
+  - wiki/evolving/content-trends/psilonsk-management-hooks-bank.md (+5 новых хуков-фреймов week4, расширение банка для блога GRO)
+  - wiki/evolving/content-trends/psilonsk-channel-patterns.md (+week4 как 4-й observed-срез, паттерн 3-рубричного цикла стабилен)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 5, evolving: 2, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_psilonsk_20260526-131002.md → processed (+ 5 child media)
+
+## [2026-05-27 15:56] [ingest] | Telegram @cossaru — дайджест 19–25 мая 2026 (50 постов)
+- source: wiki/sources/2026-05-26-tg-cossaru-may-19-25-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/germ-generative-engine-reputation-management.md
+  - wiki/canon/marketing-frameworks/igc-influencer-generated-content-taxonomy.md
+  - wiki/canon/marketing-frameworks/dsp-programmatic-incrementality-bidease.md
+  - wiki/canon/marketing-frameworks/psychographic-design-4-types-opencore.md
+  - wiki/canon/marketing-frameworks/utp-content-format-azbuka-ishmysh.md
+  - wiki/canon/marketing-frameworks/audience-feedback-content-strategy-pivot-ishmysh.md
+  - wiki/evolving-strict/market-data/ipsos-ai-shopping-agents-us-2026.md
+  - wiki/evolving-strict/market-data/on24-webinar-engagement-benchmarks-2025.md
+  - wiki/evolving-strict/market-data/apptica-ru-mobile-creatives-q1-2026.md
+  - wiki/evolving/industry-trends/sms-b2b-infrastructure-channel-2026.md
+  - wiki/evolving/content-trends/postmarketing-ugovorite-malchika-show-format.md
+  - wiki/volatile-strict/industry-news/meta-layoffs-8000-may-2026.md
+  - wiki/volatile-strict/industry-news/yandex-direct-max-messenger-ads-beta-2026-05.md
+- updated:
+  - wiki/evolving-strict/market-data/digital-ad-market-ru-2024-2026.md (+Apptica/Bidease/ОРД-Тензор данные Q1 2026)
+  - wiki/evolving/competitor-positioning/max-messenger.md (+Яндекс Директ MAX-Messenger beta как новый рекламный inventory)
+  - wiki/canon/marketing-frameworks/ai-skills-vs-prompts-architecture.md (+Cossa подтверждает skills>prompts парадигму)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 6, evolving: 1, evolving-strict: 3, volatile-strict: 2, sources: 1}
+- touched: 16 pages
+- raw: raw/processed/articles/tg_cossaru_20260526-112013.md → processed (+ 49 child media)
+
+## [2026-05-28 22:40] [ingest] | RuStore (featuring) — PhotoGen: AI Image 2 (профиль AI-генератора фото/видео)
+- source: wiki/sources/2026-05-26-rustore-photogen-ai-image-2.md
+- created:
+  - wiki/evolving/competitor-positioning/photogen-ai-image-2-rustore-2026.md
+  - wiki/canon/marketing-frameworks/coin-credit-freemium-monetization-mobile-ai.md
+- updated:
+  - wiki/evolving/industry-trends/ai-generated-creatives-in-advertising.md (backfill из PhotoGen RuStore-профиля)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 2, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_www.rustore.ru_catalog_featuring_0a2b8d26-62a7-41c8-b95c-f30dfb77a302_029601da.md → processed
+
+## [2026-05-28 22:43] [ingest] | Telegram @telega_Rinata — дамп 2026-05-19…2026-05-22 (Ринат Алиев, AI-трансформация + Big Tech)
+- source: wiki/sources/2026-05-26-tg-telega-rinata-may-19-22-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/ai-performance-review-5-level-ladder.md
+  - wiki/canon/marketing-frameworks/ai-transformation-by-company-size-aliev.md
+- updated:
+  - wiki/evolving/competitor-positioning/ru-nocode-ai-agent-platforms-2026.md (backfill из @telega_Rinata)
+  - wiki/canon/marketing-frameworks/poc-first-enterprise-adoption-just-ai.md (backfill из @telega_Rinata)
+  - wiki/volatile-strict/competitor-news/anthropic-karpathy-join-2026-05.md (backfill из @telega_Rinata)
+  - wiki/volatile-strict/industry-news/meta-layoffs-8000-may-2026.md (backfill из @telega_Rinata)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 1, volatile-strict: 2, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_telega_Rinata_20260526-133009.md → processed (+ 2 child media; 1 missing child: video/tg_telega_Rinata_628.mp4)
+
+## [2026-05-28 22:44] [ingest] | Telegram @techno_yandex — 20–25 мая 2026 (25 постов + 24 медиа)
+- source: wiki/sources/2026-05-26-tg-techno-yandex-may-20-25-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/few-shot-vs-zero-shot-prompting.md
+  - wiki/canon/marketing-frameworks/bm25-hybrid-search-ranking.md
+  - wiki/evolving/content-trends/ai-image-detection-perspective-geometry-2026.md
+  - wiki/evolving/competitor-positioning/alice-ai-art-cyrillic-architecture-2026.md
+  - wiki/evolving/industry-trends/ai-in-gamedev-debate-2026.md
+  - wiki/volatile-strict/industry-news/higgsfield-hell-grind-cannes-2026-05.md
+  - wiki/volatile-strict/competitor-news/spotify-universal-ai-remixes-2026-05.md
+- updated:
+  - wiki/volatile-strict/competitor-news/google-gemini-3-5-flash-launch-2026-05.md (backfill из @techno_yandex)
+  - wiki/volatile-strict/competitor-news/google-gemini-omni-video-2026-05.md (backfill из @techno_yandex)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, volatile-strict: 3, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/tg_techno_yandex_20260526-140419.md → processed (+ 24 child media; 3 missing children: video/tg_techno_yandex_5266.mp4, video/tg_techno_yandex_5270.mp4, video/tg_techno_yandex_5271.mp4)
+
+## [2026-05-28 22:45] [ingest] | Telegram @temno (Аркадий Морейнис) — дамп 20–26 мая 2026 (12 постов «Тренд дня»)
+- source: wiki/sources/2026-05-26-tg-temno-moreynis-may-20-26-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/minimum-viable-promotion-moreynis.md
+  - wiki/canon/marketing-frameworks/make-what-people-dont-want-yet-moreynis.md
+  - wiki/canon/marketing-frameworks/breakthrough-where-progress-stalled-moreynis.md
+  - wiki/canon/marketing-frameworks/necessity-over-demand-moreynis.md
+  - wiki/canon/marketing-frameworks/reward-in-process-motivation-moreynis.md
+  - wiki/canon/marketing-frameworks/rising-tide-market-timing-moreynis.md
+- updated:
+  - wiki/canon/marketing-frameworks/latent-demand-ai-startup-search-moreynis.md (backfill из @temno май-среза)
+  - wiki/canon/marketing-frameworks/real-time-personalization-cvm-mechanics.md (backfill из @temno май-среза)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 8, sources: 1}
+- touched: 9 pages
+- raw: raw/processed/articles/tg_temno_20260526-122654.md → processed (+ 12 child media)
+
+## [2026-05-28 22:45] [ingest] | Telegram @vcnews — дайджест 14–18 мая 2026 (50 постов, 47 медиа)
+- source: wiki/sources/2026-05-26-tg-vcnews-may-14-18-2026.md
+- created:
+  - wiki/evolving/content-trends/sony-xperia-ai-photo-pr-fail-2026.md
+  - wiki/evolving/content-trends/heinz-nhl-jersey-napkin-stunt-2026.md
+  - wiki/evolving/content-trends/nintendo-pokemon-airport-ip-placemaking-2026.md
+  - wiki/volatile-strict/industry-news/microsoft-forces-copilot-over-claude-code-2026-05.md
+- updated:
+  - wiki/evolving-strict/market-data/kantar-brandz-2026-most-valuable.md (backfill из @vcnews)
+  - wiki/evolving/content-trends/swatch-ap-royal-pop-hype-mismatch-2026.md (backfill из @vcnews)
+  - wiki/canon/marketing-frameworks/newsjacking-technique.md (backfill из @vcnews)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 5, volatile-strict: 1, evolving-strict: 1, canon: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_vcnews_20260526-102155.md → processed (+ 47 child media; 7 missing children: video/tg_vcnews_61394.mp4, 61401, 61402, 61403, 61404, 61408, 61409)
+
+## [2026-05-28 22:49] [ingest] | Forbes.ru — тег «3D-печать» (landing scrape, нерелевантно)
+- source: wiki/sources/2026-05-26-forbes-tegi-3d-pechat.md
+- created:
+  - none
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1}
+- touched: 1 page (audit-only, нерелевантный источник)
+- raw: raw/processed/articles/web_www.forbes.ru_tegi_3d-pechat-0_c63b4608.md → processed
+
+## [2026-05-28 22:50] [ingest] | Forbes.ru — тег «безалкогольные напитки» (подборка новостей, май 2026)
+- source: wiki/sources/2026-05-26-forbes-bezalkogolnye-napitki-tag.md
+- created:
+  - wiki/evolving/industry-trends/ru-non-alcoholic-beverages-market-2026.md
+  - wiki/evolving-strict/market-data/ru-non-alcoholic-beverages-2026.md
+  - wiki/evolving/content-trends/forbes-founder-bet-narrative-format.md
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, evolving-strict: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_www.forbes.ru_tegi_bezalkogol-nye-napitki_1bb02eda.md → processed
+
+## [2026-05-28 22:53] [ingest] | Telegram @vyakuba — дамп 20–26 мая 2026 (5-й срез, Владимир Якуба)
+- source: wiki/sources/2026-05-26-tg-vyakuba-may-20-26-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/sale-begins-after-price-vyakuba.md
+  - wiki/canon/marketing-frameworks/summer-counter-cyclical-sales-vyakuba.md
+  - wiki/canon/marketing-frameworks/service-as-removed-friction-automation-paradox-vyakuba.md
+  - wiki/canon/marketing-frameworks/secret-shopper-sales-diagnostic-vyakuba.md
+- updated:
+  - wiki/evolving/content-trends/ru-sales-infobiz-content-patterns.md (backfill из @vyakuba 5-го среза)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_vyakuba_20260526-123152.md → processed (+ 19 child media; 8 missing children: video/tg_vyakuba_6884.mp4, 6886, 6887, 6889, 6892, 6896, 6897, 6909)
+
+## [2026-05-28 22:55] [ingest] | Telegram @techsparks (Себрант) — дайджест 19–25 мая 2026 (10 постов)
+- source: wiki/sources/2026-05-26-tg-techsparks-may-19-25-2026.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/industry-trends/ai-search-aeo-geo-2026.md (backfill из @techsparks)
+  - wiki/evolving-strict/market-data/ai-search-commerce-benchmarks-2026.md (backfill из @techsparks)
+  - wiki/evolving/industry-trends/hollywood-ai-institutional-shift-2026.md (backfill из @techsparks)
+  - wiki/evolving/industry-trends/ai-corporate-race-mar-may-2026.md (backfill из @techsparks)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, evolving-strict: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_techsparks_20260526-142011.md → processed (+ 9 child media; 1 missing child: video/tg_techsparks_5607.mp4)
+
+## [2026-05-28 22:58] [ingest] | Telegram @Theedinorogblog — 24 поста 19–26 мая 2026 (стартап/AI-новости, SpaceX S-1, ARR-скам)
+- source: wiki/sources/2026-05-26-tg-theedinorog-may-19-26-2026.md
+- created:
+  - wiki/evolving-strict/market-data/ai-adoption-penetration-feb-2026.md
+  - wiki/canon/marketing-frameworks/contracted-vs-live-arr-inflation-stevenson.md
+  - wiki/evolving/industry-trends/eu-sanctions-contractor-payments-risk-2026.md
+  - wiki/volatile/weekly-digest/edinorog-may-19-26-2026-digest.md
+- updated:
+  - wiki/evolving-strict/competitor-metrics/ai-leaders-valuations-2026-q2.md (backfill из @Theedinorogblog)
+  - wiki/evolving/industry-trends/ai-corporate-race-mar-may-2026.md (backfill из @Theedinorogblog)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 2, canon: 1, evolving: 2, volatile: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_Theedinorogblog_20260526-123658.md → processed (+ 17 child media; 2 missing children: video/tg_Theedinorogblog_7972.mp4, 7986)
+
+## [2026-05-28 23:05] [ingest] | Управление партнёрством (глава из книги, e-xecutive.ru, пер. Иванов/Фербер)
+- source: wiki/sources/2026-05-26-web-e-xecutive-upravlenie-partnerstvom.md
+- created:
+  - wiki/canon/marketing-frameworks/professional-service-firm-governance-maister.md
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, sources: 1}
+- touched: 2 pages
+- raw: raw/processed/articles/web_www.e-xecutive.ru_education_glavy-iz-knig_339469-upravlenie-partnerstvom_e34571f2.md → processed
+
+## [2026-05-28 23:06] [ingest] | Дзен (Деловой мир) — «Купер» × Билайн Adtech: кросс-канальная атрибуция и синергия медиаканалов
+- source: wiki/sources/2026-05-26-dzen-kuper-bilayn-cross-channel-attribution.md
+- created:
+  - wiki/canon/marketing-frameworks/channel-role-funnel-mapping-media-mix.md
+  - wiki/evolving-strict/campaign-metrics/kuper-bilayn-cross-channel-incrementality-2026.md
+- updated:
+  - wiki/canon/marketing-frameworks/clickless-channel-incrementality-stable-id.md (backfill из Купер×Билайн кейса)
+  - wiki/evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026.md (backfill из Купер×Билайн кейса)
+  - wiki/evolving/industry-trends/digital-indoor-retail-media-ru-2026.md (backfill из Купер×Билайн кейса)
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving-strict: 1, evolving: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/web_dzen.ru_a_ahVF3HM-KU9rt6LC_bc514862.md → processed

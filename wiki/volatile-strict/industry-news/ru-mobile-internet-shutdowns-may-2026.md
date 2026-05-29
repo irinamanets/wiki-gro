@@ -9,8 +9,8 @@ tags: [russia, mobile-internet, telecom, channels, distribution, news, security]
 confidence: high
 stale: false
 created: 2026-05-06
-updated: 2026-05-25  # +field-сигнал вертикали недвижимости (СПб): Торбосов/Whitewill — «трафик не работает, заявки не оставляют, показы трудно организовать»; vertical-specific corroboration downstream-эффекта. Prior 2026-05-14: +breakingtrends 16730 (2026-05-07): Минцифры подтверждает 9 мая Москва без мобильного интернета, без SMS, даже белые списки не работают; 7 и 8 мая — без ограничений; +vcnews 61284 (2026-05-09): subdigest «Новости субботы» — Минцифры объявило об отмене ограничений на работу мобильного интернета и SMS в Москве → cycle closed на 9-10 мая
-sources: [sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md]
+updated: 2026-05-26  # +институциональный сигнал высшего тира: ЦБ РФ публично связал рост спроса на наличные март-апрель с перебоями интернета (через РБК @rbc_news 148815, 2026-05-07). Первый раз shutdown→cash-demand кодифицирован монетарным регулятором. Prior 2026-05-25: +field-сигнал вертикали недвижимости (СПб): Торбосов/Whitewill — «трафик не работает, заявки не оставляют, показы трудно организовать»; vertical-specific corroboration downstream-эффекта. Prior 2026-05-14: +breakingtrends 16730 (2026-05-07): Минцифры подтверждает 9 мая Москва без мобильного интернета, без SMS, даже белые списки не работают; 7 и 8 мая — без ограничений; +vcnews 61284 (2026-05-09): subdigest «Новости субботы» — Минцифры объявило об отмене ограничений на работу мобильного интернета и SMS в Москве → cycle closed на 9-10 мая
+sources: [sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-incrussiamedia-apr-28-may-5-2026.md, sources/2026-05-05-tg-vcnews-may-2-5-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md, sources/2026-05-26-tg-rbc-news-may-7-8-2026.md]
 namespace: mkt
 ---
 
@@ -134,6 +134,36 @@ vcnews 61284 (2026-05-09 09:53 UTC) фиксирует subdigest «Новост�
 
 **Confidence: medium** — единичный first-person нарратив без числовой оценки потерь; ценен как vertical-specific подтверждение механизма, а не как метрика. Связь с макро-картиной — [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]] и [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]].
 
+## Институциональный сигнал высшего тира: ЦБ РФ публично связывает shutdown → cash-demand (РБК, 7 мая 2026)
+
+Через [[sources/2026-05-26-tg-rbc-news-may-7-8-2026|@rbc_news пост 148815, 2026-05-07]] — резюме регулятора (ЦБ РФ) по итогам обсуждения ключевой ставки. Дословная цитата:
+
+> «В марте-апреле 2026 года у россиян вырос спрос на наличные деньги, что может быть вызвано в том числе адаптацией к налоговым изменениям. Ещё один фактор, который мог повлиять на рост спроса — **временные перебои с интернетом и стремление населения иметь запас средств оплаты, не зависящий от работы цифровой инфраструктуры**.» `[conf:high, src:2026-05-07]`
+
+**Это первый раз** в нашем sourcechain, когда **shutdown→cash-demand mechanism** кодифицирован **монетарным регулятором** на уровне резюме по ключевой ставке, не на уровне media-комментария или SMB-практика. Иерархия источников эффекта shutdown'а:
+
+| Тир | Источник | Тип сигнала |
+|---|---|---|
+| 1 | Inc.Russia (~Коммерсант) | media benchmark «3-5 млрд ₽ за несколько дней» (qualitative) |
+| 2 | Forbes / vcnews / breakingtrends | media-aggregation предупреждений |
+| 3 | Торбосов/Whitewill (SMB founder) | first-person field-нарратив (vertical-specific) |
+| **4** | **ЦБ РФ (резюме по КС)** | **монетарный регулятор → структурный datapoint** |
+
+ЦБ-сигнал значимо отличается от media-tier'а тем, что **встроен в монетарный анализ ставки**: рост спроса на наличные влияет на M2/M0, влияет на трансмиссионный механизм, и ЦБ учитывает это при решениях по ставке. То есть **shutdown теперь имеет монетарный footprint**, а не только bottom-line эффект отдельных бизнесов.
+
+**Маркетинговые implications:**
+
+1. **Cash-bias-effect на consumer-spending во время shutdown-окон.** Если население запасается наличными перед потенциальными shutdown-окнами, это **временно понижает digital-payment volumes** в Q1-Q2 2026. Для e-commerce / маркетплейсов / fintech-кошельков это **дополнительный headwind** к уже фиксированным 3-5 млрд ₽ потерь.
+
+2. **Holiday-shutdown-cycle теперь монетарный datapoint.** Раз ЦБ упоминает shutdown как drivers cash-demand, **аналогичные эпизоды в следующие праздники** (12 июня, 4 ноября, новогодние) будут entrenched в монетарном forecasting'е. То есть **regularity ожиданий growing** как со стороны населения, так и со стороны регулятора.
+
+3. **Premium на digital-trust в маркетинге сервисов.** Бренды, которые позиционируются как «работают и в shutdown'е» (offline-режимы приложений, кэшированный контент, локальные базы) получают **новое measurable value-prop** против «требуют постоянного internet'а». Это **новый angle позиционирования** для приложений с offline-режимами.
+
+**Connection с другими векторами:**
+- [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] §15 — общий regulatory-spine
+- [[evolving-strict/market-data/ru-digital-economy-snapshot-2026-04]] — cashless 88% baseline (ЦБ-сигнал предсказывает temporary downtick в этой метрике) [conf:low, src:2026-05-26]
+- [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]] — macro-тренд
+
 ## Связанные страницы
 
 - [[sources/2026-05-05-tg-forbesrussia-may-4-5-2026]] — источник
@@ -141,6 +171,7 @@ vcnews 61284 (2026-05-09 09:53 UTC) фиксирует subdigest «Новост�
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — @breakingtrends 16730 Минцифры подтверждение 9 мая full shutdown без white-list, 7 и 8 мая без ограничений
 - [[sources/2026-05-14-tg-vcnews-may-8-12-2026]] — vcnews 61284 (2026-05-09): Минцифры снимает ограничения
 - [[sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice]] — field-сигнал вертикали недвижимости (СПб): lead-gen обнуляется в окне ограничений
+- [[sources/2026-05-26-tg-rbc-news-may-7-8-2026]] — ЦБ РФ публично связывает shutdown→cash-demand (tier-4 институциональный сигнал)
 - [[volatile-strict/industry-news/ru-vpn-telegram-restrictions-2026-04]] — связанный connectivity-сдвиг
 - [[evolving/industry-trends/ru-marketing-digital-paralysis-mar2026]] — macro-тренд
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — regulatory-контекст

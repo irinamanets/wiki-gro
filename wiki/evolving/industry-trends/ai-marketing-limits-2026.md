@@ -9,8 +9,8 @@ tags: [ai-marketing, llm, automation, paid-ads, performance, russia, trust, heal
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +Tabunov (@bossofyourboss, пост 1204, 2026-05-22): performance-маркетинг 2026 требует одного из трёх (бренд/пруфы/много качественного контента); «всё остальное обесценится». Performance-marketing reframing как rule, не только observation. Prior: +Omni (Горный 5070, 2026-05-22).
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md, sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md]
+updated: 2026-05-26  # +Petrochenkov 1306 (2026-05-25): «AI self-context business-plan» — strategy-level extension рамки. Загрузил весь канал + кейсы + продукт + ОПиУ → попросил 7-day playbook на новом продукте → получил полный operational Playbook (offer/JTBD/PNL/scripts/calendar + юр-warning), не гипотезы. «А че, так можно было?» — strategy-extension performance-формулы того же автора. Prior: +Tabunov (@bossofyourboss, пост 1204, 2026-05-22): performance-маркетинг 2026 требует одного из трёх (бренд/пруфы/много качественного контента); «всё остальное обесценится». Performance-marketing reframing как rule, не только observation. Prior: +Omni (Горный 5070, 2026-05-22).
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-04-13-subbotin-ru-ai-telegram-audience.md, sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-secretmag-vedomosti-runet-ad-verification-2016.md, sources/2026-05-05-tg-petrochenkow-apr-may-2026.md, sources/2026-05-18-pressfeed-ai-in-communications-taboo-zones-stetsenko.md, sources/2026-05-19-pressfeed-lz-media-ai-content-marketing-limits.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md, sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md, sources/2026-05-26-tg-petrochenkow-20260526-112500.md]
 namespace: mkt
 ---
 
@@ -196,6 +196,50 @@ Tabunov-ось — **отдельный класс рамки**: не «что A
 - **AI-контент детектится за 2 сек, AI-лендинг — за 5 сек** `[conf:medium, src:2026-05-22]` — порог толерантности юзера к AI-генерации в creative-layer
 - **Ленты соцсетей 2026: 4 из 5 элементов = реклама; время в соцсетях впервые падает** `[conf:medium, src:2026-05-22]` — degrading distribution-layer, дополняющий лимиты автостратегий
 
+## May 2026 update — strategy-level extension Petrochenkov-формулы (self-context business-plan)
+
+К performance-уровню рамки (Petrochenkov «ИИ = 2й пилот опытного / multiplier ошибок слабого») добавляется **strategy-level extension** от того же автора ([[sources/2026-05-26-tg-petrochenkow-20260526-112500|пост 1306, 2026-05-25]]). Это **6-й independent operational Petrochenkov-data-point** за 2 месяца — устойчивый knowledge-asset.
+
+### Operational эксперимент
+
+Petrochenkov **проверил инфобиз-фишку «реальный заработок на AI»**:
+
+1. Создал проект в LLM-сервисе (Claude/ChatGPT Project уровень).
+2. Загрузил **весь self-context**: весь telegram-канал @petrochenkow, кейсы клиентов, **полное описание продукта**, **исследование рынка**, **весь ОПиУ** (P&L агентства).
+3. Поставил founder-задачу: «**Создать план заработка XXX евро чистыми на абсолютно новом продукте за 7 дней**» в режиме совместной работы.
+4. Ожидал гипотезы — **получил полный Playbook**:
+   - Ядро оффера + подробное описание продукта + JTBD
+   - Сравнение с конкурентами
+   - **PNL расчёт**
+   - Скрипт эфира + посты в соцсети + скрипты дожима
+   - Расчёт затрат личных нормочасов
+   - Календарь запуска + чек-лист
+   - **+ Автоматическое предупреждение о юридических рисках** (даже не запрошенное)
+
+### Petrochenkov-quote и meta-формула
+
+> «Сижу, пялюсь в экран и думаю: "А че, так можно было?" Это высокоуровневая галлюцинация ИИ? Или очередное подтверждение правила: **правильно заданный вопрос — это 50% правильного ответа**?» `[conf:medium, src:2026-05-25]`
+
+### Значение для performance-рамки
+
+Это **не отменяет** «AI = multiplier ошибок слабого», а **расширяет** валидную область применения AI **со tactical (контент, парсинг, usability) на strategy-level (новый продукт + P&L + календарь запуска)** — при условии:
+
+1. **Полный self-context** (телеграм + кейсы + продукт + ОПиУ).
+2. **Founder с production-опытом**, способный оценить операционную валидность output'а.
+3. **Точно сформулированная задача** с числом + сроком + ограничением «новый продукт».
+
+Без этих условий результат деградирует к **инфобиз-fee «AI заработает за тебя»**, который Petrochenkov явно отделяет от своего эксперимента.
+
+Полный operational разбор методологии: [[canon/marketing-frameworks/ai-self-context-business-plan-petrochenkov]].
+
+### Cross-check с другими голосами рамки
+
+- **LZ.Media** ([[canon/marketing-frameworks/ai-content-marketing-delegation-frame-lz-media]]) — strategy-level extension в content-marketing зоне с теми же условиями (опытный редактор + полный контекст + правильный запрос).
+- **Стеценко (Loyalty Group)** — taboo-зоны где AI вреден на стратегии (legal, healthcare).
+- **Tabunov** — performance-маркетинг 2026 требует одного из трёх (бренд/пруфы/много качественного контента) — Petrochenkov-Playbook закрывает «много качественного контента + структура запуска» при условии что бренд/пруфы уже есть.
+
+**Synthesis:** Petrochenkov self-context-Playbook расширяет cumulative-рамку до **strategy-level AI-leverage** с тем же threshold-условием **founder-экспертизы**.
+
 ## TTL и план верификации
 
 - TTL: 90 дней soft (быстро эволюционирующий тренд)
@@ -208,6 +252,9 @@ Tabunov-ось — **отдельный класс рамки**: не «что A
 - [[evolving/industry-trends/ai-cheat-interview-pattern-2026]] — обратная сторона лимитов ИИ в найме маркетологов 2026
 - [[evolving-strict/market-data/ru-marketer-labour-supply-2026]] — overflow рынка маркетологов 2026 (12 кандидатов на 1 вакансию)
 - [[evolving/content-trends/price-anchor-demping-content-format]] — Petrochenkov-курс 1500₽/мес как pricing-pattern
+- [[canon/marketing-frameworks/ai-self-context-business-plan-petrochenkov]] — strategy-level extension рамки: AI как полный playbook-генератор при условии полного self-context (operational methodology)
+- [[canon/marketing-frameworks/infinite-growth-illusion-petrochenkov]] — sibling рамка того же автора на strategy-зоне (не AI-specific): 4-vector collapse чемпиона
+- [[volatile-strict/industry-news/yandex-direct-max-messenger-ads-beta-2026-05]] — Petrochenkov practitioner-такес на новый Я Директ × MAX канал (6-й Petrochenkov data-point)
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
 - [[evolving/content-trends/ai-agents-demand-hooks-2026]]
 - [[canon/marketing-frameworks/hyperseg-funnel-replication]] — алгоритм, который Petrochenkov масштабирует через ИИ после ручной обкатки

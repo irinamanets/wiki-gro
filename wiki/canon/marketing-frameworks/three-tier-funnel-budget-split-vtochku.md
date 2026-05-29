@@ -9,8 +9,10 @@ tags: [framework, funnel, paid-ads, long-cycle-sales, b2b, budget-allocation, re
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-pressfeed-target-ads-construction-5-methods-vtochku.md]
+updated: 2026-05-27  # +cross-link на two-track стратегию Pervukhin: 3-tier работает на тактическом уровне внутри performance-каналов, two-track — на стратегическом между performance и brand
+sources:
+  - sources/2026-05-19-pressfeed-target-ads-construction-5-methods-vtochku.md
+  - sources/2026-05-27-dzen-delovoymir-pervukhin-brand-vs-performance.md
 namespace: mkt
 ---
 
@@ -69,9 +71,22 @@ GRO — продукт с цикл-сделки 7-14 дней (бесплатн�
 - **«100% на top — захватываем как можно больше лидов».** База растёт, но без прогрева 80% сгорят в нелояльных подписчиков.
 - **«Перераспределим середину на низ, бот сам подогреет».** В длинном цикле никакой бот не заменит контент-прогрев и человеческое касание.
 
+## Связь с two-track стратегией Pervukhin
+
+[[canon/marketing-frameworks/brand-vs-performance-two-track-strategy-pervukhin|Two-track стратегия Pervukhin]] и эта 3-tier split — **разные уровни декомпозиции бюджета**:
+
+| Уровень | Что решает | Метрики |
+|---|---|---|
+| **Two-track Pervukhin** (стратегический) | Как делить бюджет между **operational** (performance + текущий спрос) и **investment** (brand + будущий спрос) треками | SoS / Brand Lift / CPC бренда vs CPA / ROAS |
+| **3-tier 50/30/20 «В точку»** (тактический) | Как делить бюджет **внутри performance-каналов** между top/mid/bottom воронки long-cycle | CPL / квалификации / CPA |
+
+Парадокс: top-funnel в 3-tier рамке (50% бюджета на acquisition) **частично перекрывается** с investment-треком two-track (контент-маркетинг, лид-магниты, awareness-каналы). Точная демаркация: если top-funnel CTA = «дать контакт за пользу» — это operational (мерится CPL); если CTA = «узнать о бренде» без контактной формы — это investment (мерится SoS/Brand Lift).
+
 ## См. также
 
 - [[sources/2026-05-19-pressfeed-target-ads-construction-5-methods-vtochku]]
+- [[sources/2026-05-27-dzen-delovoymir-pervukhin-brand-vs-performance]] — two-track стратегия Pervukhin (companion на стратегическом уровне)
+- [[canon/marketing-frameworks/brand-vs-performance-two-track-strategy-pervukhin]] — strategic-level split (operational vs investment треки)
 - [[canon/marketing-frameworks/purchase-scenario-segmentation-vtochku]]
 - [[canon/marketing-frameworks/competitor-community-targeting-vtochku]]
 - [[canon/marketing-frameworks/hot-lead-share-kpi-vtochku]]

@@ -9,8 +9,8 @@ tags: [b2b, b2c, ai, content, social, paid-ads, awareness, consideration]
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026.md, sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md]
+updated: 2026-05-26
+sources: [sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026.md, sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -20,11 +20,41 @@ namespace: mkt
 
 Страница расположена в `evolving/competitor-positioning`, потому что: (а) positioning лендинга и стек моделей дрейфуют с месячной скоростью (новые модели интегрируются, формулировки кейсов меняются); (б) это не наш конкурент в строгом смысле (разные problem-spaces), но это **adjacent vendor в той же экосистеме**, чьё позиционирование нужно знать для (i) cross-channel промо через Егошина, (ii) anti-positioning против AI-агрегатор аудитории, которую могут перепутать с GRO.
 
-## Базовое позиционирование (2026-05-08)
+## Базовое позиционирование v2 (2026-05-22, текущее)
+
+Из [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026|TG-постов 573-574]] — скриншот мобильного UI `neurofond.ru`:
+
+| Элемент | Значение v2 |
+|---|---|
+| **Headline** | **«Один чат. Все модели. Нейрофонд»** `[conf:high, src:2026-05-22]` |
+| **Sub-headline** | **«Опишите задачу, мы выберем идеальную нейросеть»** `[conf:high, src:2026-05-22]` |
+| **UI tabs (новое)** | **Текст / Графика / Видео / Агенты** (добавлен agent-функционал) `[conf:high, src:2026-05-22]` |
+| **Видимые модели на главной (chip-style)** | **Claude 4.6 Sonnet**, **Claude 4.7 Opus** `[conf:high, src:2026-05-22]` |
+| **Видимые модели в карточках под input'ом** | ChatGPT (OpenAI), Claude (Anthropic) `[conf:high, src:2026-05-22]` |
+| **CTA / способ старта** | Input prompt «Опишите задачу» (auto-routing к модели) — переход от ручного выбора к auto-selection |
+| **Domain** | `neurofond.ru` (приложение); `promo.neurofond.ru` (предыдущий маркетинговый лендинг, продолжает существовать) |
+
+**Mode-shift v1 → v2 (за ~2 недели):** Нейрофонд перешёл из **multi-model aggregator класса «3+ вендора в одном UI»** (Poe / OpenRouter аналог) в **AI-роутер с авто-выбором модели** (intelligence layer над моделями, не просто доступ). Это **более сильная positioning** (продукт берёт на себя cognitive load выбора модели), но и более рискованная (если auto-routing работает хуже manual-selection, юзер злится).
+
+Добавлен **agent-функционал** (tab «Агенты») — Нейрофонд расширяется в направлении agent-aggregator, не только chat-aggregator. На момент ingest конкретное наполнение tab «Агенты» не раскрыто (требует отдельного захода в UI).
+
+<!-- superseded 2026-05-22 by [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026]]:
+v1 headline (2026-05-08) был «Нейрофонд — единый доступ к лучшим нейросетям мира»,
+sub-headline «Легко. Доступно. Быстро», размещался на лендинге promo.neurofond.ru.
+В v2 (2026-05-22) headline сменился на «Один чат. Все модели. Нейрофонд»,
+sub «Опишите задачу, мы выберем идеальную нейросеть», размещение на neurofond.ru.
+Trust-якоря «Без VPN» / «Оплата российскими картами» с лендинга promo.neurofond.ru —
+не было видно на v2-скриншоте neurofond.ru (тестировалось в браузере, scrolled-вне-view),
+но они вероятно сохраняются на promo-странице. См. v1-секцию ниже как audit trail.
+-->
+
+## Базовое позиционирование v1 (2026-05-08, superseded)
+
+Сохраняется как **audit trail** супер-сессии. Текущее positioning — см. v2 выше.
 
 Из [[sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026|TG-поста 569]] и скриншота лендинга `promo.neurofond.ru`:
 
-| Элемент | Значение |
+| Элемент | Значение v1 (superseded 2026-05-22) |
 |---|---|
 | **Headline** | «Нейрофонд — единый доступ к лучшим нейросетям мира» |
 | **Sub-headline** | «Легко. Доступно. Быстро» |
@@ -51,7 +81,14 @@ namespace: mkt
 
 ## Стек моделей и multi-model positioning
 
-Из скриншотов 569 и 570:
+**Подтверждённые модели в v2 (2026-05-22):**
+
+- **Claude 4.6 Sonnet** — виден как chip-style pill под input'ом на `neurofond.ru` (mobile UI скриншот поста 573) `[conf:high, src:2026-05-22]`
+- **Claude 4.7 Opus** — виден как chip-style pill под input'ом на `neurofond.ru` (mobile UI скриншот поста 573) `[conf:high, src:2026-05-22]`
+- **ChatGPT (OpenAI)** — виден как model-карточка под input'ом `[conf:high, src:2026-05-22]`
+- **Claude (Anthropic)** — виден как model-карточка под input'ом (отдельно от Claude 4.6/4.7-pills) `[conf:high, src:2026-05-22]`
+
+**Подтверждённые модели в v1 (2026-05-08..2026-05-12, исторические):**
 
 - **GPT-4o** — виден как одна из доступных моделей на UI-скриншоте лендинга (правая карточка превью, диалог с HR-вакансией) `[conf:high, src:2026-05-08]`
 - **Claude Opus, Claude Sonnet** — упомянуты в тексте поста 569 («Opus или Sonnet вам нужны, приходите к нам в Нейрофонд, там всё работает») `[conf:high, src:2026-05-08]`
@@ -59,9 +96,10 @@ namespace: mkt
 
 **Положение в taxonomy AI-агрегаторов 2026:**
 
-- Нейрофонд — **multi-model aggregator класса «3+ вендора в одном UI»** (GPT + Claude + Gemini), а не «обёртка над одной моделью» (как, например, Bothub был раньше с GPT-only).
-- Конкурентная позиция: **аналог Poe / OpenRouter в US-сцене, но RU-нативный с RU-payment-rails и без VPN-требования**.
+- Нейрофонд v2 — **AI-роутер с auto-selection** («Опишите задачу, мы выберем идеальную нейросеть»), эволюция из v1 «multi-model aggregator класса 3+ вендора в одном UI».
+- Конкурентная позиция: **аналог Poe / OpenRouter в US-сцене + auto-routing layer**; RU-нативный с RU-payment-rails и без VPN-требования.
 - Vendor-risk управляется: блокировка Claude Anthropic'ом → пользователи Нейрофонда продолжают работать на других моделях. Это конкретный operational moat в условиях [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026|RU regulatory squeeze]].
+- **Agent-функционал** добавлен в v2 (tab «Агенты») — Нейрофонд расширяется в направлении agent-aggregator, не только chat-aggregator. Это **прямое peer-позиционирование с Сбер GigaAgent** (см. [[evolving/industry-trends/sber-gigaagent-ai-agents-narrative-2026]]), но для B2C-сегмента (Сбер — enterprise).
 
 ## Opportunistic positioning vs vendor-side blocks
 
@@ -119,21 +157,40 @@ GRO **не позиционируется как AI-агрегатор** ни в
 - **«4-шаговая тренировка»** (canon-структура продукта), а не «выбор модели»
 - В контентах GRO **не упоминать модели по именам** (Claude, GPT, Gemini) — это позиционирует GRO как технический wrapper, а не как behavior-change-tool
 
+## Defensive-humor content-pattern (новое, 2026-05-22)
+
+Из [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026|TG-постов 573+574]]: Егошин публикует два скриншота рядом (Нейрофонд UI + Google Gemini Flash-Lite UI) с подписью «Не понимаю зачем дизайнеры Google подсмотрели наш интерфейс Нейрофонда и скопировали себе в новый Gemini :)». Это **founder defensive-humor content-pattern**:
+
+1. **Trigger** — visual-конвергенция UI Нейрофонда и крупного глобального игрока (Google Gemini). Видимые общие элементы: светлый градиент-фон, hamburger-меню слева, центральный logo-icon, headline-приглашение, input-bar внизу.
+2. **Move** — пост в формате «два скриншота + ироничный caption». Цитата-эквивалент universal-формы: `"Не понимаю зачем дизайнеры [глобальный игрок] подсмотрели наш [продукт] и скопировали себе в новый [продукт глобального]"`.
+3. **Эффект:** (а) social proof «нас видят / нас копируют», (б) viral-механика (share-friendly), (в) anti-FOMO («мы не отстаём от Google»), (г) self-positioning founder как trend-setter.
+4. **Constraints:** нет морализаторства, нет legal-threats, нет detailed-сравнения. Лёгкая ирония + smiley.
+
+Это **reusable content-pattern для GRO**, если/когда (а) появится visual-конвергенция GRO-UI с другим habit-product'ом, (б) GRO-фича появится в чужом ИИ-тренажёре, (в) GRO-формат окажется в чужом курсе. Hook-форма универсальна. Подробнее как content-pattern — см. [[evolving/content-trends/ai-translator-curator-channel-pattern-egoshin]].
+
+## Contradictions
+
+- **[2026-05-22]** По [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026|TG-постам 573+574]], headline Нейрофонда стал «Один чат. Все модели. Нейрофонд» (sub «Опишите задачу, мы выберем идеальную нейросеть»), ранее было «Нейрофонд — единый доступ к лучшим нейросетям мира» (sub «Легко. Доступно. Быстро») из [[sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026|TG-поста 569 от 2026-05-08]]. **Резолюция:** свежий источник + frame-shift от utility (доступ) к intelligence (auto-routing). Старый headline переведён в audit trail v1-секции, новый — в v2-секцию. Эта эволюция предсказуема (positioning лендингов AI-vendor'ов дрейфует ежемесячно), не противоречие в строгом смысле.
+- **[2026-05-22]** По тем же постам, видимый стек моделей сменился с GPT-4o + Claude Opus/Sonnet + Gemini 3.1 Pro (v1) на Claude 4.6 Sonnet + Claude 4.7 Opus + ChatGPT (OpenAI) + Claude (Anthropic) карточки (v2). **Резолюция:** model-стек Нейрофонда **растёт** (новые Claude версии добавились), не сокращается. Gemini 3.1 Pro v1 likely остаётся в стеке, но не виден на v2-скриншоте main-page (UI сократил on-screen модели до Claude-family chip-pills + OpenAI/Anthropic карточки). Без подтверждения отсутствия Gemini в v2 интерпретируем как «не виден на конкретном экране», а не «удалён из стека».
+
 ## Что эта страница НЕ описывает
 
 - **Юр-структуру Нейрофонда** (ООО, бенефициары, доли) — не входит в маркетинговый scope.
 - **Финансовые метрики Нейрофонда** (MRR, install-count, retention) — не раскрыты в источниках, отсутствуют в публичном поле.
 - **Точные тарифы Нейрофонда** — требуют отдельного ingest лендинга `promo.neurofond.ru` или активации EGOSHIN800.
-- **Roadmap Нейрофонда по моделям** — что планируется интегрировать дальше (Claude 4.7? GPT-5? и т.д.) — не озвучено.
+- **Roadmap Нейрофонда по моделям** — что планируется интегрировать дальше — не озвучено.
+- **Состав tab «Агенты»** в v2 — какие конкретно агенты доступны, что они делают — требует отдельного ingest'а UI Нейрофонда.
 
 ## Cross-links
 
 - [[canon/product-knowledge/gro-team]] — Егошин как founder Нейрофонда и co-founder GRO; родительская team-страница
+- [[evolving/industry-trends/sber-gigaagent-ai-agents-narrative-2026]] — Сбер GigaAgent как **peer agent-vendor** (но в B2B, не B2C как Нейрофонд)
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — 15-й вектор vendor-side suspension, на который Нейрофонд оперативно реагирует
 - [[volatile-strict/industry-news/anthropic-ru-block-egoshin-vendor-confirmation-2026-05]] — second-source vendor-confirmation Claude RU-блока
-- [[evolving/content-trends/ai-translator-curator-channel-pattern-egoshin]] — channel-pattern, через который Нейрофонд продвигается
+- [[evolving/content-trends/ai-translator-curator-channel-pattern-egoshin]] — channel-pattern, через который Нейрофонд продвигается (+ defensive-humor sub-pattern)
 - [[canon/marketing-frameworks/egoshin-ai-adoption-ladder]] — лестница AI-адаптации, концептуальный контекст
 - [[canon/positioning/gro-value-proposition]] — anti-positioning reference для GRO
-- [[sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026]] — основной первоисточник
+- [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026]] — текущий первоисточник (v2 positioning)
+- [[sources/2026-05-14-tg-egoshin-kedprof-may-5-12-2026]] — основной первоисточник v1
 - [[sources/2026-04-14-tg-egoshin-kedprof]] — апрельский baseline
 - [[sources/2026-05-05-tg-egoshin-kedprof-may-2026]] — майский refresh

@@ -9,8 +9,8 @@ tags: [competitor, t-bank, visual-identity, creative-template, telegram, content
 confidence: medium
 stale: false
 created: 2026-04-17
-updated: 2026-05-19  # +май-батч 10694-10718: #10706 Доли (lifestyle-hero + mint headline-overlay, не yellow-block) и #10714 «Кэшбэк месяца» (lifestyle-shopping hero, жёлтый product-crate как brand-accent на нейтральном BG) — подтверждают lifestyle-object-hero вариацию и sub-brand-palette discipline
-sources: [sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10537-vzr-poleteli.md, sources/2026-04-17-tg-tinkoffbank-10539-tolk-pro-speakers.md, sources/2026-04-14-tg-tinkoffbank-10546-stars-vs-fraudsters.md, sources/2026-04-14-tg-tinkoffbank-10547-gac-tpremium-partnership.md, sources/2026-04-14-tg-tinkoffbank-10557-daily-cashback-streak.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10567-utair-closed-sale.md, sources/2026-04-14-tg-tinkoffbank-10570-platinum-wildlife.md, sources/2026-04-14-tg-tinkoffbank-10572-cashback-100-typographic.md, sources/2026-04-14-tg-tinkoffbank-10574-scherbakov-stars-vs-fraudsters.md, sources/2026-04-14-tg-tinkoffbank-10575-egg-cashback-olive.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md]
+updated: 2026-05-26  # +батч 19-26 мая 2026 (10724-10748): #10730-10734 «летние Platinum» (4 новых full-bleed yellow + wildlife-cards), #10736 UnionPay Global canonical yellow-block, #10737 Veter Fest illustrated-lifestyle (no yellow at all — fest-aesthetic, 10-я observable mode), #10741 Число Т canonical yellow-block, #10742-10745 Газпромнефть light-blue partner-color override (расширение Utair-pattern: partner-product positioned inside Т-Банка = partner-color dominant), #10724-10728 fake-review-postcards в beige-tan Yandex-Maps UI (11-я observable mode для UGC-encouragement, отход от yellow-block); prior: +май-батч 10694-10718
+sources: [sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10537-vzr-poleteli.md, sources/2026-04-17-tg-tinkoffbank-10539-tolk-pro-speakers.md, sources/2026-04-14-tg-tinkoffbank-10546-stars-vs-fraudsters.md, sources/2026-04-14-tg-tinkoffbank-10547-gac-tpremium-partnership.md, sources/2026-04-14-tg-tinkoffbank-10557-daily-cashback-streak.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10567-utair-closed-sale.md, sources/2026-04-14-tg-tinkoffbank-10570-platinum-wildlife.md, sources/2026-04-14-tg-tinkoffbank-10572-cashback-100-typographic.md, sources/2026-04-14-tg-tinkoffbank-10574-scherbakov-stars-vs-fraudsters.md, sources/2026-04-14-tg-tinkoffbank-10575-egg-cashback-olive.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md, sources/2026-05-26-tg-tinkoffbank-may-19-26-2026.md]
 namespace: mkt
 ---
 
@@ -90,6 +90,31 @@ namespace: mkt
 2. **#10714 «Кэшбэк месяца».** Lifestyle-shopping-hero (модель держит жёлтый перфорированный product-crate с продуктами на нейтрально-сером BG) — **жёлтый продуктовый ящик как brand-accent-объект**, а не yellow-block-плашка. Это **lifestyle-object hero** в чистом виде (по модели #10583), где brand-color живёт в hero-объекте, а не в нижней плашке. Подтверждает: для recurring-loyalty-офферов Т-Банк предпочитает warm-lifestyle-сцену, а не product-flat-lay. `[conf:high, src:2026-05-15]`
 
 Оба — не новые режимы, а **подтверждение sub-brand-palette discipline** и lifestyle-object-hero-вариации из апрельской серии. Полный визуал — в [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]].
+
+**Обновление 2026-05-26 (батч 10724–10748) — 4 новых observable mode'а.** Май-батч 19–26 мая 2026 даёт ещё четыре observable mode'а к каталогу yellow-block-протокола, включая два radical-отхода:
+
+1. **Beige-tan Yandex-Maps UI mock-up (#10724–10728 fake-review-postcards)** — **carousel of 5 креативов** имитирует **review-карточки maps-приложения** (Yandex Maps / 2GIS) с beige-tan UI-wrapper, location-pin pills, photo-tile + white review-card snippet. **Полный отход от yellow-block** — креативы выглядят как **third-party UI**, не T-Bank promo. Yellow появляется ТОЛЬКО как accent в pill-tags и star-rating. Условие применения: **UGC-encouragement meta-promo** (см. [[evolving/content-trends/tbank-fake-review-postcards-meta-promo-2026]]). Это **11-я observable mode** — ещё один радикальный шаг от brand-monoculture в сторону **format-fits-purpose**.
+2. **Illustrated-lifestyle fest-mode (#10737 Veter Spring Fest)** — purple-pink-gradient stage-light photo (illustrated, не stock), 3 young-figures with phones, pill-tags «📍 Парк Горького» + «📅 23–24 мая». **Тоже no T-Bank yellow** — креатив имеет fest-aesthetic, не bank-aesthetic. Условие: **fest-activation promo** (см. [[evolving/content-trends/tbank-fest-onsite-quest-cashback-activation]]). **10-я observable mode**.
+3. **Partner-color override для loyalty-aggregator (#10742–10745 Газпромнефть «Нам по пути»)** — 4 креатива в **light-blue palette (Газпромнефть brand-color)**, не T-Bank yellow. T-Bank yellow возникает только как «+» icon (add-card affordance) и CTA-button. Это **расширение Utair pattern'а** (#10567 апрель 2026) на новый use-case: **partner-product positioned inside Т-Банка → partner-color dominant**. Condition: когда продукт **embedded inside Т-Банка но является partner'ским** (Газпромнефть карта лояльности in Топливо). Подтверждает design-discipline: **визуальный язык следует за logical ownership продукта**, не за платформой. См. [[evolving/competitor-positioning/tbank-loyalty-card-aggregator-fuel-gazprom]].
+4. **Full-bleed yellow + wildlife-cards extended series (#10730–10734)** — продолжение #10570 Platinum-wildlife pattern'а. **4 новых wildlife/nature-themed cards**: горная река (watercolor), берёзовая роща + луг (impressionism), пшеничное поле + cumulus облака (realism), sunset море (anime-style illustration). Hero-промо #10730 — canonical full-yellow CTA с 4-картой carousel внизу. Условие: **collectible-card-design промо для credit-card relaunch**. Подтверждает **9-ю observable mode** (full-bleed yellow editorial), теперь как **regular pattern**, не one-off.
+
+**Итог: 11 observable mode'ов yellow-block-протокола.** Дисциплина брендирования T-Bank достигла уровня, где **brand-language flex'ит между 11 distinct modes** под разные content-goals, продуктовые категории, и audience-targets. Это **design-system maturity**, который большинство брендов не имеет:
+
+| Mode # | Condition | Example | Дата first-observation |
+|---|---|---|---|
+| 1 | Classic flat-lay + yellow-block | Launch-promo нового банковского продукта | #10544 Сделка (2026-04) |
+| 2 | Phone-hero + UI-demo | Running cashback кампании wave 1 | #10557 Кэшбэк 100% (2026-04) |
+| 3 | Typographic compressed | Running кампании wave 2 (repeat) | #10572 «100%» compressed (2026-04) |
+| 4 | Partner-color override | Travel/retail партнёрства | #10567 Utair (2026-04), #10742–10745 Газпромнефть (2026-05) |
+| 5 | Full-bleed yellow editorial | Collectible product = star | #10570 Platinum wildlife (2026-04), #10730–10734 (2026-05) |
+| 6 | Lifestyle-object hero | Vacation/adjacent-product brand-extension | #10583 Т-Путешествия лето (2026-04) |
+| 7 | Adjacent-UI demo hero | Т-Образование / Т-Edtech extension | #10577 «Математика решает» (2026-04), #10741 Число Т (2026-05) |
+| 8 | Olive-green BG alt-palette | Single-SKU dated retail-promo (season tie-in) | #10575 Egg-cashback (2026-04) |
+| 9 | YT-thumbnail platform-native | Own-media video content | #10546, #10574 Stars-vs-Fraudsters (2026-04) |
+| 10 | Illustrated-lifestyle fest-mode | Fest/event-activation promo | #10737 Veter Spring Fest (2026-05) |
+| 11 | Yandex-Maps UI mock-up | UGC-encouragement meta-promo | #10724–10728 fake-review-postcards (2026-05) |
+
+Это не просто «11 шаблонов», а **11 contextual brand-modes**, каждый со своим **condition-marker** (когда применять). Уровень design-disciplины и **design-system bandwidth** на этом батче ещё повышен — Т-Банк готов breaking-out из canonical yellow-block, когда content-goal требует.
 
 ## Counter-example: YouTube thumbnail ломает шаблон
 

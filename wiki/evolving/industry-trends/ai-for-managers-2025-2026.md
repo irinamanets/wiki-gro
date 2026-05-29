@@ -1,16 +1,16 @@
 ---
 id: mkt:evolving/industry-trends/ai-for-managers-2025-2026
-title: AI-adoption pressure на руководителей (2025Q4–2026Q2) — шесть data-точек, pivot в фазу 2
+title: AI-adoption pressure на руководителей (2025Q4–2026Q2) — восемь data-точек, фаза 2 + founder-as-hirer
 type: page
 subtype: trend
 layer: evolving
 theme: industry-trends
-tags: [ai-adoption, management, trend, enterprise-ai, knowledge-work, telegram-signal]
+tags: [ai-adoption, management, trend, enterprise-ai, knowledge-work, telegram-signal, founder, hiring]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-18  # +6-я и 7-я data-точки: TYPICAL пост 1332 (operational AI-checklist: 3 рычага + 3-repeat rule + 6 use-cases) + 1335 pivot во 2-ю фазу (6 управленческих рисков AI на базе Anthropic 81k research) — переход от «зачем» через «как делать сегодня» в risk-discipline фазу
-sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md]
+updated: 2026-05-26  # +8-я data-точка: Лапшина #913 (2026-05-25) как RU founder-as-hiring-CEO голос — closes контур CEO Nvidia (#2) → mid-market founder (#8) с тем же hiring-shift тезисом; signal «открыты вакансии для AI-маркетологов» на founder-уровне
+sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-26-tg-eklapshinaofficial-908-914.md]
 namespace: mkt
 ---
 
@@ -164,9 +164,60 @@ Combined: **четыре независимых источника** синхр�
 - «Альтман на $850B оценке не вытягивает 4 роли — почему ты думаешь, что вытянешь?» `[conf:high, src:2026-05-15]` (анти-impostor аргумент)
 - «6 рисков AI-внедрения, которые TYPICAL только что озвучил — пока ты думаешь, что AI всё ускорит» (defensive content, конкурирующая позиция)
 
+### 8. Лапшина (founder GRO) — practicing hiring CEO на RU mid-market (май 2026)
+
+Источник: [[sources/2026-05-26-tg-eklapshinaofficial-908-914|@eklapshinaofficial пост #913]] от 2026-05-25. **Первая 8-я data-точка, которая закрывает hiring-loop в RU mid-market сегменте** — после 7 предыдущих, которые работали либо на enterprise-уровне (Nvidia, INSEAD, Anthropic, OpenAI), либо через management-консалтинг (TYPICAL/Батырев), теперь — **founder, который лично нанимает прямо сейчас**.
+
+**Authority:** Екатерина Лапшина — verified expert (founder GRO, сооснователь Okko, founder ERA Capital). Это founder уровня **RU mid-market tech-businesses**, не enterprise. **Closes the hiring-frame loop:** CEO Nvidia (data-точка 2, ноябрь 2025) → Лапшина (данная точка, май 2026) = **тот же hiring shift, через разные scales**.
+
+**Tезис #913:**
+
+> От СЕО, погруженных и погружающихся, **с начала этого года** слышу только одно: где бы нам найти тех, кто реально умеет работать с AI. `[conf:high, src:2026-05-25]`
+
+**Operational определение «реально работать с AI»** (founder-уровень):
+
+> Это не просто научиться писать базовые запросы общей модели, **это уметь найти применение без хайпа и уметь достать из модели знания и качество исполнения задач, которые ранее были недоступны или чрезвычайно редки и дороги.** СЕО не просто нанимает людей, СЕО считает деньги. `[conf:high, src:2026-05-25]`
+
+**Цитата CEO Nvidia Хуанга (последние дни мая 2026):**
+
+> «Если бы мне нужно было нанимать выпускника университета, и у меня был выбор, я бы взял того, кто является экспертом в AI. **Каждый выпускник колледжа должен быть экспертом в AI**». `[conf:high, src:2026-05-25]`
+
+Это — **второй наблюдаемый сильный публичный quote от CEO Nvidia на тему hiring-shift'а** после ноября 2025 (data-точка 2 этой страницы). Тренд **продолжается** с CEO-level public visibility.
+
+**Анти-pattern руководителей** (по Лапшиной):
+
+> СЕО отмахивающихся и чрезмерно консервативных я вижу грешащими **аутсорсингом мыслей про AI айтишникам или эйчарам**. Первые сами себя чинить не будут, вторые скорее отчитаются для галочки. **Быть вне контекста могут себе позволить сотрудники (наверное), но не СЕО и не топ-команда.** `[conf:high, src:2026-05-25]`
+
+Это **дополняет** TYPICAL data-точку 7 (риск 2: «скрытая зависимость команд от AI») — Лапшина identifies **зеркальный риск** для CEO-уровня: «скрытая зависимость CEO от мнений айтишников/эйчаров об AI».
+
+**Операционный signal: founder активно нанимает AI-маркетологов:**
+
+> Я ищу людей с приставкой AI **в каждой функции**. Аналитика, подготовка контента, работа с внутренними знаниями, сервис для партнёров. **Хуже всего пока мне даётся контент и маркетинг, но и его взломаем.** Я постоянно ищу (приходите, кстати!) везде. `[conf:high, src:2026-05-25]`
+
+**Это — direct hiring-signal на founder-уровне** для RU AI-skilled маркетологов. Connects to:
+- GRO target-аудитория сегмента 2 (карьерист-marketer 25-40 с AI-skills)
+- Open positions: GRO ищет AI-native content/marketing talent
+
+**Ground-level observation Лапшиной:**
+
+> И чаще всего я вижу или **имитацию использования**, или **крайне низкое качество использования**. `[conf:high, src:2026-05-25]`
+
+Это **дополняет** TYPICAL data-точку 6 (operational checklist): TYPICAL подаёт template «как делать сегодня», Лапшина наблюдает «реально делают плохо» на ground-level. **Объясняет gap между narrative и practice** в RU mid-market.
+
+**Что 8-я data-точка значит для тренда:**
+
+- **Closes the hiring-loop:** CEO Nvidia (data-точка 2) и Лапшина (данная) artikulируют **тот же hiring-shift**, при том что они на разных scales (Nvidia $3T cap vs RU mid-market tech). **Тренд cross-scale-stable**.
+- **Sustains фазу 2 (operational + risk):** Лапшина одновременно говорит про operational use (искать талант) и про anti-pattern (имитация, аутсорсинг мыслей). Идеальное embodiment second-phase нарратива.
+- **Закрывает founder-CEO axis для RU mid-market:** до этого RU founder-голосов уровня founder/CEO у нас был только Батырев (data-точка 5, через research-цитаты). Лапшина — **founder-CEO speaking from own hiring practice**.
+- **Direct GRO-implication:** если 8-я точка появилась через **собственный канал основателя GRO**, она автоматически становится **canonical для всего GRO content** — не просто ещё одна data-точка, а **proof of principle** для тех, кто читает founder-канал.
+
+**Hook (8-я точка, RU founder-side):**
+
+> «Founder GRO нанимает AI-native маркетологов. Хуанг говорит «каждый выпускник колледжа должен быть экспертом в AI». Это не модный тезис — это **operational hiring criterion** founder'а на ground-level в 2026.»
+
 ## Синтез
 
-Семь точек вместе рисуют unified-сигнал и **новый pivot**:
+Восемь точек вместе рисуют unified-сигнал и **closed loop**:
 
 - **Сверху** (CEO Nvidia) — давление на adoption, публичная нетерпимость к non-AI managers.
 - **От research** (INSEAD/HBR) — validated signal, что AI-рекомендации по стратегии уже **перцептивно** превосходят human-board (даже если это не значит что они объективно лучше).
@@ -175,6 +226,7 @@ Combined: **четыре независимых источника** синхр�
 - **С RU-стороны** (Батырев) — RU-локализованная рамка «AI = базовая грамотность как Excel», **16,5k+ вакансий с AI-must** РФ Q1 2026, отклики ×2,7 г/г `[conf:high, src:2026-04-15]`. Снимает «там у них, у нас иначе» возражение.
 - **Operational maturity** (TYPICAL data-точка 6, май 2026) — переход тренда из narrative-фазы в operational: 3 рычага (Remove/Compress/Rebuild) + правило «3+ повторений = кандидат на автоматизацию» + 6 use-cases starter pack. Это **сигнал зрелости рынка**: уже не «зачем», а «как делать сегодня». `[conf:medium, src:2026-05-08]`
 - **2-я фаза нарратива (TYPICAL, data-точка 7, май 2026)** — pivot во вторую фазу: добавлена **рамка из 6 управленческих рисков AI** + dual-CEO кейс OpenAI. Тренд **не отменяется**, но добавляется дисциплинирующий слой. См. [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026|описание фазы]] для деталей. `[conf:high, src:2026-05-14]`
+- **Founder-as-hiring-CEO closes the loop (Лапшина, data-точка 8, май 2026)** — RU founder mid-market scale **lively echoes** CEO Nvidia hiring-shift из data-точки 2. **Loop closed across scales**: enterprise (Nvidia) ↔ mid-market (RU founder). Лапшина одновременно validates operational phase 2 (искать AI-talent) и risk-discipline (имитация / низкое качество исполнения). Direct hiring-signal на founder-уровне: GRO ищет AI-native контент/маркетинг talent. `[conf:high, src:2026-05-25]`
 
 Этот стекнутый сигнал — **самое удобное окно для контент-маркетинга AI-продуктов для management-аудитории за последние 12 месяцев**. Для GRO это означает:
 
@@ -202,6 +254,9 @@ Combined: **четыре независимых источника** синхр�
 - [[canon/marketing-frameworks/openai-dual-ceo-management-contours]] — разделение управленческих контуров (Альтман / Симо)
 - [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026]] — описание нарративного перехода 1→2 фазы
 - [[evolving-strict/market-data/anthropic-81k-ai-concerns-regional-2026]] — Anthropic 81k research регион-данные (база TYPICAL pivot)
+- [[sources/2026-05-26-tg-eklapshinaofficial-908-914]] — источник 8-й data-точки (Лапшина #913)
+- [[canon/brand-guidelines/lapshina-founder-tov]] — TOV founder GRO (контекст authority data-точки 8)
+- [[canon/product-knowledge/gro-team]] — quality assertion автора data-точки 8
 
 ## Contradictions
 

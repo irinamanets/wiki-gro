@@ -6,20 +6,21 @@ subtype: trend
 layer: evolving
 theme: content-trends
 tags: [content-trends, community, event, telegram, ru, club, edutainment, settersgroup, lead-magnet]
-confidence: medium
+confidence: high
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-26  # +recap встречи #2 c Багаутдиновым (3-й observable экземпляр формата) с башней «Красного октября» как experience-площадкой и 5-шаговым фреймворком «Как читать город» как content-активом; confidence: medium → high (3 наблюдения за 12 дней — регулярность валидирована)
 sources:
   - sources/2026-05-19-tg-hutzp-may-14-19-2026.md
+  - sources/2026-05-26-tg-hutzp-may-20-26-2026.md
 namespace: mkt
 ---
 
 # Founder-intellectual-club — формат закрытого клуба с ротацией экспертных гостей
 
-Воспроизводимый event-format для founder-led сообщества: **закрытый «интеллектуальный клуб» с регулярными offline-встречами, где гости — успешные предприниматели/эксперты НЕ из core-индустрии сообщества**. Зафиксирован на примере Сообщества Изионист (founder — Женя Давыдов, [[evolving/competitor-positioning/settersgroup-ecosystem|SETTERS Group]]) по двум встречам в выборке 14–19 мая 2026 ([[sources/2026-05-19-tg-hutzp-may-14-19-2026|дамп @hutzp 3528–3543]]).
+Воспроизводимый event-format для founder-led сообщества: **закрытый «интеллектуальный клуб» с регулярными offline-встречами, где гости — успешные предприниматели/эксперты НЕ из core-индустрии сообщества**. Зафиксирован на примере Сообщества Изионист (founder — Женя Давыдов, [[evolving/competitor-positioning/settersgroup-ecosystem|SETTERS Group]]) по **трём наблюдениям** в выборке 14-26 мая 2026: (1) recap-A встречи #1 с Бобковым 2026-05-14 [[sources/2026-05-19-tg-hutzp-may-14-19-2026]], (2) anons встречи #2 с Багаутдиновым 2026-05-19 [[sources/2026-05-19-tg-hutzp-may-14-19-2026]], (3) **recap-B встречи #2 с Багаутдиновым 2026-05-22** [[sources/2026-05-26-tg-hutzp-may-20-26-2026]].
 
-`confidence: medium` — наблюдаются 2 экземпляра (recap + anons) за 6 дней; регулярность заявлена самим founder'ом («наш регулярный формат»), но независимой верификацией не подтверждена.
+`confidence: high` — 3 observable экземпляра (recap-A + anons + recap-B) за 8 дней с предсказуемой каденцией. Регулярность валидирована **сразу двумя независимо наблюдаемыми встречами** (Бобков 14 мая + Багаутдинов 21 мая) с одинаковой структурной анатомией. Anons → recap loop закрыт для встречи #2, что подтверждает «recap-как-контент» дисциплину.
 
 Это отдельная **community-event** механика рядом с уже задокументированными: [[evolving/content-trends/hr-club-engagement-mechanics-2026|closed peer visit]] (визит к компании-партнёру), [[evolving/content-trends/factory-tour-pro-day-event-format|factory-tour PRO-day]] (производство как площадка), [[evolving/content-trends/founder-conference-live-reportage-pattern|founder-conference live-reportage]] (репортаж с чужой конференции). Главное отличие — **формат «монолог гостя из смежного домена + неформальная экскурсия» с явным reframe «новый угол на привычные вещи»**.
 
@@ -46,6 +47,23 @@ namespace: mkt
 - **Co-sponsor:** **Т-Бизнес** — встреча проводится «от Сообщества изионистов и Т-Бизнеса», промо-карточка ad-marked (АО «ТБанк», ИНН 7710140679, erid 2W5zFHShkrD) `[conf:high, src:2026-05-19]`.
 - **CTA:** вступление в Сообщество через paywall-ссылку ([paywall.pw/davydovjohn](https://paywall.pw/davydovjohn)) — здесь воронка ведёт в **платное** членство, а не в бесплатный пробник.
 - **Формат-фрейм в карточке:** «Интеллектуальный клуб — наш **регулярный формат**, помогающий расширять видение за пределами классических бизнесовых тем».
+
+### Экземпляр C — recap встречи #2 с Айратом Багаутдиновым (пост 3563, 2026-05-22)
+
+Recap встречи, объявленной в Экземпляре B. Закрывает loop «anons → recap», подтверждая что встреча действительно состоялась + расширяя content-output до уровня **3 поста на встречу** (anons + recap-prose + 9-фото-карусель).
+
+- **Гость подтверждён:** Айрат Багаутдинов (как и в anons'е)
+- **Площадка:** **башня «Красного октября»** (Москва) — премиум-промышленный лофт с панорамным видом на город. Площадка — **продолжение темы**: urban-studies встреча проходит на urban-experience-площадке. Это **2-й cement-point** паттерна «нестандартная experience-площадка» (соляные подвалы Солянки → башня Красного октября).
+- **Контент-вывод после встречи:** Давыдов перепечатывает **полный 5-шаговый фреймворк** Багаутдинова «Как читать город» в посте — это **content-actaivation**: каждая встреча даёт reusable thought-leadership-актив для author-канала. Полная презентация Багаутдинова выкладывается на **закрытую «Полку изиониста»** — content-as-membership-perk. См. отдельную страницу [[canon/marketing-frameworks/city-reading-5-steps-bagautdinov]].
+- **Контент-формат:** 9-фото карусель (3555-3563) — фоторепортаж самой встречи (интерьеры башни, спикер на сцене, slides, групповое фото) + recap-prose с фреймворком + closing-CTA.
+- **CTA:** ссылка на сайт ивент-программ `easyon.ist/program` (без UTM, organic-link) — это **resource-tier-link** (даёт сразу будущую программу клуба), не conversion-link. Отличается от Экземпляра A (free-trial event link) и Экземпляра B (paywall link).
+
+**Что Экземпляр C даёт фрейму:**
+
+1. **Регулярность валидирована.** Полный (anons → recap) loop закрыт за 3 дня (19→22 мая), что подтверждает «регулярный формат» founder'а как operational reality, не маркетинговую формулировку.
+2. **«Площадка как продолжение темы» становится pattern, не одиночное.** Бобков-ресторатор в соляных подвалах (gastronomy-themed venue) → Багаутдинов-urban-studies на башне с панорамой города (urban-themed venue) — это **deliberate venue-theme-match**, не случайные локации.
+3. **Content-output multiplier valid.** Каждая встреча даёт ≥3 контент-актива: anons (промо + carousel), recap-prose с фреймворком (educational), фоторепортаж (parasocial + brand-aesthetics). **2 встречи за 10 дней = 6+ контент-постов** в author-канале.
+4. **Closed-loop monetization through content-vault.** Полная презентация → «Полка изиониста» (закрытая) → membership-perk. Это **продуктизация thought-leadership** — каждая встреча = новая причина membership-renewal.
 
 ## 5 структурных элементов формата
 
@@ -95,6 +113,8 @@ GRO как membership-community (пока) не существует — это 
 - [[evolving/content-trends/founder-conference-live-reportage-pattern]] — event-контент через репортаж (без собственного события)
 - [[evolving/content-trends/telegram-author-channel-patterns]] — author-канал, в feed которого встроены event-recap'ы и анонсы
 - [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]] — концептуальная рамка «сообщество как long-game», легитимизирующая инвестиции в клуб-формат
+- [[canon/marketing-frameworks/city-reading-5-steps-bagautdinov]] — content-актив, рождённый в этом формате (recap встречи #2)
+- [[sources/2026-05-26-tg-hutzp-may-20-26-2026]] — recap встречи #2 (3-й observable экземпляр формата)
 
 ## Contradictions
 

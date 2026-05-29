@@ -9,8 +9,8 @@ tags: [content, ai, sales, smb, hooks, telegram, russia]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-19  # +cycle-4 (sources/2026-05-19-tg-olegcloser-may-14-19-2026 пост 2305): symptom-driven hook «зависшие клиенты = первый симптом просадки» + anti-ChatGPT differentiator; ранее: Vyakuba 3-й срез, enrich 2026-04-15 podcast hooks, 2026-05-05 cycle-2, 2026-05-14 cycle-3
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md]
+updated: 2026-05-28  # +cycle-5 (sources/2026-05-26-tg-olegcloser-may-22-26-2026 карусель 2306-2313): 3-шаговый кризис-ответ hooks (АЦО/СК/ПС), «3 легко»-конвертер тест, «12 лет без отпуска» extreme outcome anchor (Marat); ранее: cycle-4, Vyakuba 3-й срез, enrich 2026-04-15 podcast hooks, 2026-05-05 cycle-2, 2026-05-14 cycle-3
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md]
 namespace: mkt
 ---
 
@@ -212,12 +212,91 @@ Reusable для GRO:
 
 **Cross-vertical confidence-build:** третий голос на тезис «AI = amplifier, не replacement» (Шевелев → Спиридонов → Якуба) — `confidence` всей рамки [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs|fragmented vs modular jobs]] продолжает держаться `high`.
 
+## Cycle-5 hooks (2026-05-26) — 3-шаговый кризис-ответ + extreme outcome anchor
+
+Из [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] (карусель 2306-2313 + пост 2326). Сильный набор hooks, потому что это **первая полная авторская diagnostic-prescriptive методология** в открытом контенте: диагноз → антипаттерны → 3 шага.
+
+### Fact-check «кризиса» как opening hook (карточка 2307)
+
+**Оригинал:** «Сейчас у всех мало продаж... Кризис!!!» (заголовок-цитата) → «Во-первых, не у всех. Есть компании, у которых сейчас с продажами всё ок. Во-вторых, причина часто не в кризисе, а в том, что и как вы предлагаете клиентам».
+
+**Почему работает:** **pattern interrupt** в начале поста + **отделение факта от отговорки**. Читатель приходит с готовым «у меня кризис», а hook сразу отнимает у него comfort внешней причины — переключает фокус с «вокруг» на «у меня в системе».
+
+**Адаптация для GRO:** «Нет времени? Во-первых, не у всех. Есть люди с теми же 24 часами и тем же графиком, у которых всё ок. Во-вторых, причина часто не в нехватке времени, а в том, как вы его тратите».
+
+### Anti-pattern carousel (карточки 2310-2312)
+
+**Структура трёх карточек** — каждая = **Anti-pattern × Paradigm** в визуальной паре:
+
+| Карточка | Anti-pattern | Paradigm |
+|---|---|---|
+| Шаг 1 (АЦО) | «Наш продукт поможет вам вырасти в 2 раза за год» | «Окупится с первой же сделки. Результат за 2 недели. Вот пример клиента...» |
+| Шаг 2 (СК) | «Отправляю КП — и жду» | Конвертер по «3 легко» (легко согласиться + легко купить + легко масштабировать) |
+| Шаг 3 (ПС) | Говорим о продукте, качестве, технологиях | Говорим про окупаемость / экономию / лёгкий вход |
+
+**Reusable формула:** carousel в формате «❌ Не работает / ✅ Работает» с конкретными формулировками сравнения — каждая карточка self-contained, читается без контекста. Этот **anti-pattern × paradigm carousel** = универсальный content-format для любого фреймворка.
+
+**Адаптация для GRO:** «3 ошибки в personal productivity 2026»:
+- ❌ Не работает: «Прокачаю себя за месяц» (long-horizon)
+- ✅ Работает: «Верну 30 минут на этой неделе» (short-payback)
+- ❌ Не работает: «Куплю ещё один трекер» (фрикция-paradigm)
+- ✅ Работает: «Использую один инструмент с auto-рефлексией» (СК-конвертер)
+- ❌ Не работает: «Хочу стать продуктивнее» (мотивационный смысл)
+- ✅ Работает: «Хочу освободить 2 рабочих дня в месяц» (конкретный outcome-смысл)
+
+### Reusable mnemonic-аббревиатура как hook
+
+Шевелев — мастер 2-3-буквенных аббревиатур-мнемоник: **АЦО**, **СК**, **ПС**, **ФВ**, **ОП**, **Д**, **ЛПР**, **ЗС**, **КЭВ**, **КП**, **РОП**. Это **identity-signature** автора и одновременно **memorable content-формат**. Hook-структура: «3 шага: АЦО, СК, ПС. Сейчас расшифрую каждый».
+
+**Reusable structure:** возьми любую методологию → сократи каждый шаг до 2-3-буквенной аббревиатуры → собери в формулу. Это **повышает recall** у читателя (вспомнит «3 шага АЦО-СК-ПС», даже если детали забыл).
+
+**Адаптация для GRO:** придумать собственную аббревиатуру-mnemonic для GRO-методологии. Например, GRO = **Г**рафик × **Р**итм × **О**бзор (если такое есть в продукте). Или для контент-фреймворка: РФП (Ритм-Фокус-Польза) — «3 опоры дня».
+
+### «12 лет без отпуска» — extreme outcome anchor (пост 2326, Marat)
+
+**Оригинал-цитата (forwarded):** «Кстати первый отпуск у меня с семьёй состоялся на 18 дней за 12 лет работы) с организацией отдела продаж, отныне буду как положено не реже 2 раз в год отпуск брать».
+
+**Почему работает (продолжение в [[evolving/content-trends/owner-escape-operations-hooks]]):**
+1. Конкретное число «12 лет» — visceral anchor (не «много лет»).
+2. Forwarded message формат → социальный proof без mediation.
+3. Outcome — «свобода», не «больше денег» — pattern interrupt в SMB-маркетинге.
+4. «Отныне буду как положено» — implication устойчивого изменения.
+
+**Reusable шаблон outcome-anchor'а:**
+- [N] лет без [конкретное достижение, которое люди обычно делают]
+- = ловушка
+- [конкретный результат продукта]
+- = выход
+- [конкретная импликация устойчивости]
+- = система продолжает работать
+
+**Адаптация для GRO:**
+- «За 3 года ты ни разу не прожил неделю без чувства "снова не успел"».
+- «Год без честного 8-часового сна без проверки телефона».
+- «5 лет без 2-недельного отпуска без рабочего ноутбука».
+
+### Scarcity-stack — «осталось 2 дня + не запускаем летом» (пост 2321)
+
+**Оригинал:** «P.S. Осталось 2 дня до старта. И новую группу ПРОКАЧКИ запускать летом больше не планирую — если работаете летом и хотите закрывать больше сделок, не пропустите этот набор».
+
+**Reusable structure** — **двойной scarcity**:
+1. Immediate scarcity: «осталось 2 дня».
+2. Long-term scarcity: «летом не запускаем».
+
+**Почему works:** один scarcity (deadline) звучит как стандартный продажный hook. Два (deadline + structural gap) звучат как **planning information** — автор сообщает scheduling, не давит. Это **анти-pushy форма scarcity**.
+
+**Адаптация для GRO:** работает в любых seasonal-продуктах. «Cohort starts через 2 дня. Следующий — после лета». Или для challenge'ей: «Новый challenge через неделю. Следующий — в сентябре».
+
 ## Связанные страницы
 
 - [[sources/2026-04-14-olegcloser-telegram-dump]] — источник-якорь №1
 - [[sources/2026-05-05-tg-olegcloser-mar-may-2026]] — источник-якорь №2 (cycle-2 hooks)
 - [[sources/2026-05-14-tg-olegcloser-may-7-13-2026]] — источник-якорь №3 (cycle-3 hooks: co-branded carousel + canonical расшифровки + 18-дыр finale)
 - [[sources/2026-05-19-tg-olegcloser-may-14-19-2026]] — источник-якорь №4 (cycle-4: symptom-driven + anti-ChatGPT + role-expansion hooks)
+- [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] — источник-якорь №5 (cycle-5: 3-шаговый кризис-ответ + extreme outcome anchor + double-scarcity)
+- [[canon/marketing-frameworks/sales-3-step-crisis-response-shevelev]] — родительская методология новой carousel'и
+- [[canon/marketing-frameworks/three-legko-converter-technique-shevelev]] — Шаг 2 методологии как content-формат
+- [[canon/marketing-frameworks/short-payback-narrative-3-meanings-shevelev]] — Шаг 3 как готовый messaging-фреймворк
 - [[canon/marketing-frameworks/sales-system-18-holes-shevelev]] — «18 дыр» как content-payload (hook-структура «N дыр в M областях»)
 - [[canon/marketing-frameworks/soprano-discovery-technique]] — 7-вопросный фреймворк как content-shaper
 - [[canon/marketing-frameworks/trust-formula-shevelev-echo]] — 4-карточная декомпозиция доверия как content-asset

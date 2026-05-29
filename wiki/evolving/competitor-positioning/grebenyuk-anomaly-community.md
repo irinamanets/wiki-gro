@@ -9,8 +9,8 @@ tags: [competitor, business-education, telegram, personal-brand, community, mast
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +шестой ingest (7478-7488): СЛИЯНИЕ 3 проектов в движение «НАДО» (3-tier Экспонента/Прорыв/Аномалия), supersession ladder-таблицы, cascade-mentoring, «Выбор Миши» концептуализирован (2ч45м/6 уроков)
-sources: [sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-30-tg-grebenukm-apr-16-29-2026.md, sources/2026-05-05-tg-grebenukm-apr-may-2026.md, sources/2026-05-06-yt-tokovinin-family-money-law.md, sources/2026-05-14-tg-grebenukm-may-2026.md, sources/2026-05-19-tg-grebenukm-may-14-19-2026.md]
+updated: 2026-05-26  # +седьмой ingest (7489-7500, 19-25 мая): AI-voice phone agent клон голоса как mentor-as-product, запуск еженедельного YouTube-vlog «Гребенюк Live» (20к/5ч + 72% органики), ментор-философия 51%, инфляционный калибровщик 1M ₽ как content-frame
+sources: [sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-30-tg-grebenukm-apr-16-29-2026.md, sources/2026-05-05-tg-grebenukm-apr-may-2026.md, sources/2026-05-06-yt-tokovinin-family-money-law.md, sources/2026-05-14-tg-grebenukm-may-2026.md, sources/2026-05-19-tg-grebenukm-may-14-19-2026.md, sources/2026-05-26-tg-grebenukm-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -378,6 +378,74 @@ Tokovinin counter-frame встроен в long-form-видео (29 минут), 
 ### Видео pending (whisper quota)
 
 4 видео из этого дампа (7478, 7483, 7486, 7487) не транскрибированы — OpenAI whisper API вернул quota-ошибку на момент ingest. Дозаполнение через `wiki-ingest --enrich [[sources/2026-05-19-tg-grebenukm-may-14-19-2026]]` после восстановления квоты. Возможно содержат дополнительные детали слияния / Декларации.
+
+## Апдейт май 2026 — 7-й ingest: AI-voice mentor + YouTube vlog launch + 51% эвристика (ingest 2026-05-26)
+
+Из дампа @grebenukm 7489–7500 (19–25 мая 2026, см. [[sources/2026-05-26-tg-grebenukm-may-19-25-2026]]) — три значимых структурных события + два content-frame'а.
+
+### AI-voice phone agent — клон голоса Гребенюка как mentor-as-product (пост 7490)
+
+**Major novelty:** Гребенюк анонсировал production-ready AI-сервис — клиент звонит на телефон +7(495)…, AI-копия голоса (записан на студии + обучен на корпусе разборов + методологии) отвечает в реальном времени и «разбирает» звонящего. Работает через PSTN (без интернета). Это **первый зафиксированный в RU-SMB founder-нише AI-voice-clone-as-product**, который scaling'ует основной bottleneck community-products — лимит личной capacity founder'а на разборы (30–50 человек/мес).
+
+Полный разбор + competitor implications — в [[volatile-strict/competitor-news/grebenyuk-ai-voice-phone-agent-2026-05]].
+
+**Структурный сдвиг для продукта Гребенюка:**
+
+- Personal-mentor scaling раньше упирался в founder-time. AI-voice agent **снимает этот bottleneck** для нижнего tier'а (Аномалия) — массовая аудитория получает founder-like experience без личного контакта.
+- **Cascade-mentoring** (см. предыдущий ingest) + **AI-voice agent** — теперь **двухслойная архитектура**: AI обрабатывает массовый low-tier разбор, peer-mentors обрабатывают mid-tier, Гребенюк лично — top-tier (Экспонента, 30 человек).
+- Это превращает personal voice IP Гребенюка в **monetizable replicable asset**, который масштабируется параллельно cohort-based mentoring.
+
+**Implication для GRO:** прямой conflict — Гребенюк предлагает **personalized mentor-replacement через voice**. GRO позиционируется как **self-serve тренажёр без коуча**. Это противоположные направления в решении одной проблемы. Defensive frame для GRO: «AI-клон founder'а — это всё ещё **founder-centric** model, зависишь от того, что один человек думает; GRO предлагает **систему**, не зависящую от одного авторитета.»
+
+### YouTube-vlog «Гребенюк Live» — новый distribution channel движения «НАДО» (пост 7495 + 7498-7500)
+
+Запуск 2026-05-25: еженедельный длинный документальный YouTube-влог, 33 эпизода до конца года, каждый понедельник 16:00 МСК. Главная сюжетная линия — **публичная ставка репутацией** на ЕС-клинику («смогу построить успешную медицину или обосрусь на радость хейтерам»). Production-команда: dedicated команда (креативный лидер + операторы + монтажеры), оператор Саша ходит с Гребенюком **24/7** и снимает всё подряд.
+
+**Launch performance (5 часов после публикации первой серии, скриншот YouTube Studio 7500.jpg):**
+
+- **20 000 просмотров** (на 99% выше channel-нормы, +9 900 относительно базы)
+- **2 800 часов** watch time
+- **72% трафика — алгоритмические рекомендации YouTube** (14 400 из 20 000)
+- **864 (4,3%)** — из subscriber feed (при базе ≈500 000 подписчиков!)
+- Гребенюк: «круче даже феномена Седова получается по показателям»
+
+Это **первое publicly verified launch performance** для founder-vlog'а такого масштаба в RU SMB-нише в 2026. Алгоритм «полетел» в первые часы — strong CTR/AVD сигнал.
+
+Полный production-разбор + новая UX-метрика «phone-grab count» — в [[evolving/content-trends/founder-weekly-vlog-launch-grebenyuk-live]].
+
+**Implication для движения «НАДО»:** YouTube становится **TOFU-channel** для tier-funnel'а. Vlog сегментирует аудиторию через risk-narrative (готовы ли смотреть failure-process?) → **самоселекция** на «уровень НАДО» вписывается в identity-движение ([[evolving/content-trends/identity-movement-anti-mediocrity-hook]]).
+
+### «51% правоты — достаточно» — ментор-философия (пост 7494)
+
+Гребенюк формализовал **минимальный probabilistic порог точности наставника** для positive ROI ученика: 51% правильных советов = compound long-term gain. «Чаще всего наставник прав в 98% случаев» — observed value vs theoretical floor.
+
+Это **архитектурный принцип, на котором держится pyramidal-mentoring движения «НАДО»**: эвристика разрешает iteration без gatekeeping, что делает cascade-mentoring (peer'ы 25-человек-групп) операционно жизнеспособным — peer-mentor с marginal advantage всё равно даёт positive EV.
+
+Полный разбор + operational rules — в [[canon/marketing-frameworks/grebenyuk-mentor-51-percent-heuristic]].
+
+### Инфляционный калибровщик «1 млн ₽/мес ЧП» — content-frame обоснования revenue-gating (пост 7497)
+
+Гребенюк опубликовал **purchasing-power-аудит** anchor target'а «1 млн ₽/мес чистой прибыли» в 4 точках: 2016 (очень немногие, регионы — квартира) → 2021 (далеко не редкость) → 2026 (крепкий средний+, в Москве просто средний) → 2031 (базовая норма, богатый = 3–5+ млн ₽/мес). Implied inflation для founder-классов ≈12,8% годовых 2016→2026, прогнозируемые ≈24,5–37,9% годовых 2026→2031.
+
+Это **rhetorical scaffolding** для revenue-gating tier'ов движения «НАДО»:
+
+- Аномалия (до 1M+/мес) = стартовая площадка до момента, когда 1M будет base normal (2031)
+- Прорыв (1M+/мес) = эквивалент того, что в 2016 было «хорошим SMB»
+- Экспонента (10M+/мес) = новый порог exclusivity при inflation drift 5× за 5 лет
+
+Полный анализ + caveats для использования в GRO content — в [[evolving-strict/market-data/ru-smb-million-ruble-inflation-context-2016-2031-grebenyuk]].
+
+### Dual-track positioning — продолжение паттерна (7491.jpg + 7492.jpg)
+
+Два audit-only фото поста подтверждают **dual-track positioning** (luxury vs relatable):
+- 7491.jpg — selfie в Mercedes-Maybach в авиаторных очках + caption «Может тебе не НАДО?» (luxury-сигнал + identity-движения)
+- 7492.jpg — Гребенюк в серой ГАЗели в пробке + caption «опять спалили, еду новый бизнес мутить» (relatability-сигнал, founder-в-Газели как ответ на luxury-обвинения)
+
+Паттерн стабилен: founder system'но публикует **противоположные luxury-vs-relatable** сигналы, не sanitizing визуальную identity ради consistency. Это **structural feature**, не случайность.
+
+### Видео pending (whisper не запускался)
+
+3 видео из этого дампа (7493, 7496, 7498) не транскрибированы — prepare-media.py не запускался для этого батча. Captions присутствуют только у 7498 (анонс первой серии «Гребенюк Live»). Дозаполнение через `wiki-ingest --enrich [[sources/2026-05-26-tg-grebenukm-may-19-25-2026]]` после batch prepare-media.py.
 
 ## Contradictions
 

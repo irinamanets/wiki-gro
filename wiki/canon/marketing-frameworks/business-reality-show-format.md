@@ -9,8 +9,8 @@ tags: [content, community, case-study, pr, lead-generation]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-14  # +источник #7 (carousel + 18-дыр finale): post-cohort summary asset + open live-разбор как retention layer после завершения cohort'а
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-16-zhazhda-blogi-o-biznese.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-rental-couriers.md, sources/2026-05-05-yt-biznes-s-nulya-fitness-club-economics.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-month4-bilanc.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md]
+updated: 2026-05-28  # +источник #8: финальная карусель «ДО/ПОСЛЕ реалити» с числовыми результатами 6 участников + новый сезон визиток
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-16-zhazhda-blogi-o-biznese.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-rental-couriers.md, sources/2026-05-05-yt-biznes-s-nulya-fitness-club-economics.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-month4-bilanc.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md]
 namespace: mkt
 ---
 
@@ -126,6 +126,47 @@ namespace: mkt
 | **Post-cohort summary** | **Universal inventory как итог** (10–20 типичных ошибок / pattern'ов / правил) |
 
 Для GRO: если GRO запускает «30 дней с GRO challenge» — после finale можно выпустить итоговое видео «10 паттернов прокрастинации, которые мы увидели у всех 5 участников».
+
+### Финальная фаза: «ДО/ПОСЛЕ»-carousel с числовыми результатами 6 участников (2026-05-25)
+
+Sub-pattern, наблюдаемый в финале «Рекордного апреля» через [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] (карусель 2315-2320, текст 2315):
+
+После завершения 3-недельного cohort'а автор выпускает **carousel-пост**, в котором каждый из 6 участников получает отдельную карточку с явным контрастом «ДО реалити / ПОСЛЕ реалити». Каждая карточка содержит: фото + ФИО + возраст + город + ниша + блок до-метрик + блок после-метрик + 3 скриншота visual-evidence (CRM / переписка / благодарственное письмо). Полная декомпозиция формата вынесена в [[evolving/content-trends/before-after-cohort-results-carousel]].
+
+**Ключевые числовые результаты cohort'а** ([[evolving-strict/campaign-metrics/recordnyi-aprel-finale-results-shevelev-2026]] — числовая база):
+
+- **Юлия Краснова** (Новосибирск, медоборудование): 5,1 млн прибыли (цель 4 млн), сделка 560 тыс по формуле 100%.
+- **Юрий Кошутин** (Ярославль, обработка копыт КРС): 7,4 млн рекорд первичных продаж (+12% к марту), средний чек 75→221 тыс.
+- **Вераксо Екатерина** (Минск, детский IQ-центр): конверсия лид→пробное 10-20% → 70-80%, отток ÷3.
+- **Виханов Александр** (Тольятти, остекление): +25% к апрелю 2025 (15 vs 11 млн), подняли 449 зависших сделок.
+- **Рощупкин Артур** (Санкт-Петербург, обследование зданий): 9 сделок (vs 5-6), 4,5 млн на этапах исполнения.
+- **Литвинов Роман** (Краснодар, балясины): +80% к Q1, +35% к апрелю 2025, личные деньги не докладывал.
+
+**Все 6 показали measurable improvement** — необычно высокий показатель для образовательных программ (обычно 30-50% completer'ов). Подробный анализ интерпретаций — в [[evolving-strict/campaign-metrics/recordnyi-aprel-finale-results-shevelev-2026]] (раздел «Aggregate-наблюдения»).
+
+**Финальный outcome-anchor через retention-evidence:** Marat-кейс (пост 2326) — предприниматель промышленных водонагревателей, выстраивавший продажи с Шевелевым РАНЬШЕ, в мае 2026 (post-cohort) **впервые за 12 лет ушёл в 18-дневный отпуск**. Этот forwarded message работает как **long-term retention proof** — не «выстроили cohort за 3 недели», а **«система продолжает работать год+ спустя»**. Отдельно как content-hook — см. [[evolving/content-trends/owner-escape-operations-hooks]] (раздел Marat).
+
+**Reusable connector в типологии:** carousel «ДО/ПОСЛЕ» = **4-й слой**, дополняющий типологию:
+
+| Слой | Time-window | Audience size | Что делает |
+|---|---|---|---|
+| **Cohort** (закрытый) | 2–4 недели | 5-10 человек | Глубокая трансформация |
+| **Post-cohort summary** (YouTube finale) | 1 видео | Открытый охват | Универсальный inventory ошибок |
+| **Before/After carousel** | 1 carousel-пост | Подписчики канала | Числовое доказательство методологии |
+| **Open live-разбор** (continuation) | 1-2 часа raw broadcast | Открытая часть аудитории | Re-application + lead-collection |
+| **Long-term retention proof** (forwarded testimonials) | Spot-publications спустя месяцы | Подписчики канала | «Система продолжает работать» |
+
+**Для GRO:** если GRO запускает challenge — нужно (a) собирать pre-baseline метрики при старте, (b) фиксировать post-метрики при финале, (c) публиковать carousel сразу после finale, (d) собирать «long-term» отзывы через 3-6 месяцев для retention-proof.
+
+### Видео-визитки участников нового потока как pre-launch формат (2026-05-25)
+
+Sub-pattern из [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] (посты 2321-2325):
+
+За 1-3 дня до старта **следующего cohort'а** автор публикует серию из 5 коротких видео-визиток новых участников: «привет, я Х, из города Y, бизнес такой-то, иду на cohort потому что Z». Полная декомпозиция формата — [[evolving/content-trends/participant-introduction-video-cards-cohort]].
+
+Этот формат — **парная пара** к «ДО/ПОСЛЕ»-carousel'у на другом конце cohort-цикла. Финал предыдущего cohort'а (carousel-результаты) **публикуется одновременно** с pre-launch следующего (видео-визитки) — это создаёт **continuous narrative**: завершение одного шоу = начало следующего без gap.
+
+**Для GRO:** если challenge'и проводятся регулярно (raz в месяц / квартал), pre-launch видео-визитки участников следующего cohort'а — естественный CTA «есть ещё один free slot, успей записаться» сразу после публикации результатов предыдущего.
 
 ### Open live-разбор как retention layer после cohort'а
 

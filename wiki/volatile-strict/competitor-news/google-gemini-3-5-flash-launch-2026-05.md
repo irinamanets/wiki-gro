@@ -9,8 +9,8 @@ tags: [google, gemini, gemini-spark, agent, ai-platform-wars, google-io, pricing
 confidence: high
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-boris-again-may-19-24-2026.md]
+updated: 2026-05-26  # +3rd-source attest @techno_yandex 5271 (технодайджест недели, 2026-05-24): RU научпоп-пересказ I/O — Gemini 3.5 Flash «быстрее конкурентов в несколько раз, сопоставима по интеллекту», Gemini Spark «персональный 24/7-агент в стиле OpenClaw», + генеративный интерфейс поиска (мини-приложения под запрос) и информационные агенты. Prior: +2nd-source attest @neuraldvig 10743 (2026-05-19): подтверждение «Gemini 3.5 Flash бесплатно для всех в Gemini App» + 4× быстрее токенов, добавляет ретранслированный contextframing для RU-аудитории
+sources: [sources/2026-05-26-tg-boris-again-may-19-24-2026.md, sources/2026-05-26-tg-neuraldvig-may-19-22-2026.md, sources/2026-05-26-tg-techno-yandex-may-20-25-2026.md]
 namespace: mkt
 ---
 
@@ -67,6 +67,8 @@ Gemini Spark + 3.5 Flash + 280 т/с + ~$1.50/$9 = **готовая инфрас
 ## Связанные страницы
 
 - [[sources/2026-05-26-tg-boris-again-may-19-24-2026]] — первоисточник (посты 3912, 3918)
+- [[sources/2026-05-26-tg-neuraldvig-may-19-22-2026]] — **2-nd source attest** (10743, день I/O): подтверждение «бесплатно для всех» + 4× быстрее токенов в RU-канале
+- [[sources/2026-05-26-tg-techno-yandex-may-20-25-2026]] — **3-rd source attest** (технодайджест 5271, 2026-05-24): RU научпоп-пересказ I/O — Gemini 3.5 Flash «быстрее в несколько раз, сопоставима по интеллекту», Gemini Spark «в стиле OpenClaw, 24/7 в облаке», генеративный интерфейс поиска (мини-приложения под запрос) + информационные агенты
 - [[volatile-strict/competitor-news/google-gemini-omni-video-2026-05]] — параллельный анонс Gemini Omni на том же I/O
 - [[volatile-strict/competitor-news/deepseek-v4-pro-price-cut-2026-05]] — ценовое сжатие снизу (DeepSeek V4-Pro в 4× дешевле)
 - [[volatile-strict/competitor-news/alibaba-qwen-3-7-max-2026-05]] — китайский frontier agentic-конкурент

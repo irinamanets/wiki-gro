@@ -9,8 +9,8 @@ tags: [attribution, ctv, smart-tv, retail-media, advertising, paid-ads, measurem
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-dzen-diksi-bilayn-smart-tv-offline-sales-case.md]
+updated: 2026-05-26  # +media-mix синергия (кейс «Купер» × Билайн Adtech, 2-й сиблинг)
+sources: [sources/2026-05-19-dzen-diksi-bilayn-smart-tv-offline-sales-case.md, sources/2026-05-26-dzen-kuper-bilayn-cross-channel-attribution.md]
 namespace: mkt
 ---
 
@@ -57,9 +57,15 @@ namespace: mkt
 - Это **вендорский self-reported кейс** — для собственных решений нужна независимая валидация дизайна (репрезентативность контроля, размер выборки, attribution window).
 - На фоне «смерти кликов» и cookieless-будущего детерминированная связка через first-party / operator data становится не нишевым, а базовым способом измерения охвата (см. [[evolving-strict/market-data/digital-ad-cpm-shifts-q1-2026]]).
 
+## Расширение: от одного канала к media-mix синергии
+
+Базовый фреймворк доказывает вклад **одного** click-less канала. Тот же тест-контрольный каркас масштабируется на **несколько каналов одновременно** — тогда измеряются (а) роль каждого канала на своём этапе воронки и (б) **синергия комбинаций** (связки сильнее суммы по отдельности). Эту надстройку даёт второй кейс того же провайдера — «Купер» × Билайн Adtech (media-mix из 4 каналов: диджитал/ТВ/наружка/indoor): см. [[canon/marketing-frameworks/channel-role-funnel-mapping-media-mix]] (фреймворк роль-декомпозиции) и [[evolving-strict/campaign-metrics/kuper-bilayn-cross-channel-incrementality-2026]] (числа). Практический вывод: оптимизировать медиасплит как **портфель ролей**, а не как набор изолированных per-channel CPA-строк.
+
 ## Связанные страницы
 
-- [[evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026]] — числовая иллюстрация фреймворка
+- [[canon/marketing-frameworks/channel-role-funnel-mapping-media-mix]] — надстройка: роль-декомпозиция каналов по воронке + синергия media-mix
+- [[evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026]] — числовая иллюстрация фреймворка (один канал)
+- [[evolving-strict/campaign-metrics/kuper-bilayn-cross-channel-incrementality-2026]] — числовая иллюстрация (media-mix из 4 каналов + синергия)
 - [[evolving/industry-trends/digital-indoor-retail-media-ru-2026]] — Билайн Adtech как игрок retail-media / click-less инвентаря
 - [[evolving-strict/market-data/digital-ad-cpm-shifts-q1-2026]] — сдвиг на «подключённые экраны» (CTV/DOOH) и почему охватная атрибуция важна
 - [[canon-strict/legal-claims/ad-marking-russia-2026]] — режим персональных данных и согласия в РФ-рекламе

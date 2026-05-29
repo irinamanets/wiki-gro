@@ -9,8 +9,8 @@ tags: [advertising, retail-media, dooh, paid-ads, ru, partnerships, channels]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-19  # +cross-ref на adtech-векторы Билайн Adtech (AI-юр-блок в СМС + Smart-TV кейс «Дикси»)
-sources: [sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-19-dzen-diksi-bilayn-smart-tv-offline-sales-case.md, sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms.md]
+updated: 2026-05-26  # +кейс «Купер» × Билайн Adtech (indoor в media-mix замере)
+sources: [sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-19-dzen-diksi-bilayn-smart-tv-offline-sales-case.md, sources/2026-05-19-dzen-delovoy-mir-bilayn-prodvizhenie-ai-legal-sms.md, sources/2026-05-26-dzen-kuper-bilayn-cross-channel-attribution.md]
 namespace: mkt
 ---
 
@@ -45,7 +45,7 @@ namespace: mkt
 
 ## Конкурентный ландшафт
 
-- **Билайн Adtech** — крупнейший игрок, заявка на платформенную позицию. DI — лишь один из векторов: та же платформа измеряла Smart-TV-кейс «Дикси» через Stable ID (см. [[evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026]]), а параллельно развивает AI-инструменты в перформанс-канале СМС (см. [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]]) — широта adtech-стека: offline-инвентарь + измерение clickless-каналов + AI-кабинет для рассыльных кампаний
+- **Билайн Adtech** — крупнейший игрок, заявка на платформенную позицию. DI — лишь один из векторов: та же платформа измеряла Smart-TV-кейс «Дикси» через Stable ID (см. [[evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026]]), затем — кросс-канальный media-mix замер «Купер» (диджитал/ТВ/наружка/**indoor**), где indoor-каналы показали самый высокий numeric-lift на нижней воронке (корзина +114,2 п.п., заказы +98,7 п.п.) — см. [[evolving-strict/campaign-metrics/kuper-bilayn-cross-channel-incrementality-2026]]; а параллельно развивает AI-инструменты в перформанс-канале СМС (см. [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]]) — широта adtech-стека: offline-инвентарь (включая DI) + измерение clickless-каналов и их синергии + AI-кабинет для рассыльных кампаний
 - **Russ** (бывший Russ Outdoor) — лидер в DOOH, расширяется в DI
 - **Gallery Digital** — премиум-сегмент
 - **МТС AdTech** — собственный стек, активно вкладывается в data-driven рекламу
@@ -70,6 +70,7 @@ GRO — B2C мобильное приложение, прямой DI-channel п�
 - [[evolving-strict/market-data/ru-marketplace-margin-collapse-may-2026]] — параллельный retail-сигнал
 - [[volatile-strict/competitor-news/bilayn-prodvizhenie-ai-legal-block-sms-2026-05]] — другой adtech-вектор того же игрока (Билайн Adtech): AI-автозаполнение юр-блока в СМС
 - [[evolving-strict/campaign-metrics/diksi-bilayn-smart-tv-incrementality-2026]] — кейс Билайн Adtech × «Дикси»: измеримый эффект Smart TV на офлайн-продажи
+- [[evolving-strict/campaign-metrics/kuper-bilayn-cross-channel-incrementality-2026]] — кейс Билайн Adtech × «Купер»: indoor в media-mix замере (самый высокий lift нижней воронки)
 - [[canon/marketing-frameworks/clickless-channel-incrementality-stable-id]] — как этот эффект измеряют (тест-контроль + Stable ID)
 - [[evolving/industry-trends/ooh-nonstandard-carriers-roskosmos-2026]] — сверх-нишевый край той же OOH-эволюции: нестандартные носители против баннерной слепоты
 - [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] — первоисточник

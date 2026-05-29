@@ -9,8 +9,8 @@ tags: [target-audience, recruitment, marketing-roles, pr, worker-side, hh-ru, ic
 confidence: low
 stale: false
 created: 2026-05-24
-updated: 2026-05-25  # +employer-side сигнал: SMB-агентство недвижимости (Whitewill/Торбосов) пересобирает отдел СММ, ищет marketing director / senior с отраслевой экспертизой; комп-фрейм «не как корпорации, но хорошая зарплата»
-sources: [sources/2026-05-24-condense-vcru-chunk5.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md]
+updated: 2026-05-26  # +worker-side голоса 5-го батча vc.ru/hr: тестовые задания anti-pattern + ЗП-цинизм «начала бы с поиска новой работы» + мониторинг сотрудников без модели управления усиливает хаос
+sources: [sources/2026-05-24-condense-vcru-chunk5.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md, sources/2026-05-26-condense-vcru-hr-50-articles.md]
 namespace: mkt
 ---
 
@@ -47,6 +47,39 @@ First-hand сигналы со стороны соискателя в рекла
 2. **Комп-позиционирование SMB = не деньги, а смысл + автономия.** «Не как корпорации, но душевно и интересно» — это employer-brand-фрейм SMB, контрастирующий с корпоративным «миллионами завалим». Совпадает с [[evolving/industry-trends/hr-as-media-marketing-convergence-2026|employer-brand-as-product]]: SMB продаёт не зарплату, а среду.
 3. **Спрос на domain-эксперта-маркетолога** в недвижимости — конкретная отраслевая вертикаль, добавляет грануляции к рынку маркетинговых ролей.
 
+## Дополнительные worker-side голоса (5-й батч vc.ru/hr, 2026-05-26)
+
+Из [[sources/2026-05-26-condense-vcru-hr-50-articles|5-го батча vc.ru/hr]] — три новых типа голоса в комментариях, расширяющие worker-side картину:
+
+### Тестовые задания как anti-pattern
+
+> «Есть компании, которые пихают тестовое сразу, не смотря на резюме, а потом в ос пишут мол ТЗ сделали хорошо, но вот что-то не понравилось в резюме)) и вот зачем тратить время кандидата?» `[src: 2926481, 2026-05-26]`
+
+**Что показывает:**
+- Worker-side опытная боль: **бесплатный труд без шанса** (компания не дочитала резюме, но получила бесплатное тестовое).
+- Усиливает [[evolving/industry-trends/ru-recruitment-fraud-patterns-2026|нарратив про dark-patterns в найме]] — не классический fraud, но bad-faith практика.
+- ICP-сигнал маркетолога с большим опытом: «ценим своё время, отказываемся от тестового до интервью».
+
+### ЗП-цинизм — «начала бы с поиска новой работы»
+
+> **«В 2026 году я бы начала с поиска новой работы»** — комментарий к статье про повышение зарплаты. `[src: 2941534, 2026-05-26]`
+
+**Что показывает:**
+- Worker-side `**BATNA-default**: на «работодательском» рынке (см. [[evolving/industry-trends/ru-labor-market-employer-turn-spring-2026]]) внутрикомпанийное повышение часто проигрывает внешнему офферу.
+- ICP-сигнал зрелого карьериста: «формулу повышения "Я—Вы—Мы" применяю с внешним оффером в кармане» (см. [[canon/marketing-frameworks/salary-raise-request-formula-ya-vy-my]]).
+- Циничный sentiment-маркер: доверие к внутренним переговорам в кризис снижено.
+
+### Мониторинг сотрудников: «без модели управления усиливает хаос»
+
+> «В call-центрах и логистике похожая телеметрия нормально работает только когда она привязана к SLA, нагрузке и качеству, а не сама по себе как счетчик активности.» `[src: 2912370, 2026-05-26]`
+
+Контекст: Meta-кейс отслеживания keyboard/mouse-tracking (см. [[volatile-strict/industry-news/big-tech-hr-news-may-2026]]). Worker-side reaction:
+- Принципиальное согласие, что мониторинг **может работать**, но **только при наличии управленческой модели**.
+- ICP-сигнал operational-зрелого worker'a: различает «мониторинг как сбор телеметрии» и «управление как интерпретация причин».
+- Содержит готовую рамку для content про мониторинг (mapping на SLA/нагрузку/качество, не «счётчик активности»).
+
+→ Это **более зрелый worker-side голос**, чем в предыдущих батчах (там: «BTL-фандрайзер под видом рекламщика», «групповое собеседование как dark-pattern»). Здесь — operational-критика, не эмоциональная.
+
 ## Применение для GRO
 
 1. **ICP-боль «человек-оркестр».** Подтверждает портрет перегруженного маркетолога/предпринимателя широкого профиля (Сегмент 2) — целевая боль GRO про энергию/продуктивность при перегрузке (см. [[canon/target-audience/gro-segments]], [[evolving/product-reception/gro-productivity-energy-angle]]).
@@ -64,4 +97,7 @@ First-hand сигналы со стороны соискателя в рекла
 - [[evolving/content-trends/max-messenger-content-patterns-2026]] — MAX как канал
 - [[evolving/competitor-positioning/max-messenger]] — MAX позиционирование
 - [[evolving/content-trends/career-audience-hooks-2026]] — career-аудитория хуки
+- [[sources/2026-05-26-condense-vcru-hr-50-articles]] — 5-й батч vc.ru/hr: тестовые задания, ЗП-цинизм, мониторинг-нюансы
+- [[canon/marketing-frameworks/salary-raise-request-formula-ya-vy-my]] — формула «Я—Вы—Мы» (контекст к ЗП-цинизму)
+- [[volatile-strict/industry-news/big-tech-hr-news-may-2026]] — Meta surveillance-кейс (контекст к мониторинг-голосу)
 </content>

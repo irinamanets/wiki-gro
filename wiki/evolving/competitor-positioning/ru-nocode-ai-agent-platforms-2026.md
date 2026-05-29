@@ -9,8 +9,8 @@ tags: [ai-agents, no-code, yandex, gigachat, just-ai, mws, nodul, ru-market, b2b
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-22  # +disambiguation от соседней категории app-builders (новая страница ru-nocode-app-builder-platforms-2026); GigaStudio (Сбер) как app-builder-сосед к ГигаЧат Бизнес. Prior: +Just AI open distribution kit (on-prem, free-month, @mspiridonov 4401, erid 2VtzqwqNSUw)
-sources: [sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md, sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov.md]
+updated: 2026-05-26  # +4-й advertorial Just AI distribution kit через @telega_Rinata (erid 2W5zFJhgdMs, ООО Маинд Крафт) + клиент-нейм-дроп Альфа-Банк/Х5/Ozon. Prior: +disambiguation от соседней категории app-builders (новая страница ru-nocode-app-builder-platforms-2026); GigaStudio (Сбер) как app-builder-сосед к ГигаЧат Бизнес. Prior: +Just AI open distribution kit (on-prem, free-month, @mspiridonov 4401, erid 2VtzqwqNSUw)
+sources: [sources/2026-04-16-dzen-inc-yandex-ai-academy-nocode-agents.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md, sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov.md, sources/2026-05-26-tg-telega-rinata-may-19-22-2026.md]
 namespace: mkt
 ---
 
@@ -115,6 +115,18 @@ GRO — не AI-agent платформа и не конкурирует функ
 
 **Advertorial-frequency signal усилился.** Три зафиксированных advertorial Just AI за ~1 месяц (apr 27 @startupoftheday, may 14 @mspiridonov) через **разные** authoritative-каналы (Горный → VC-startup-аудитория; Спиридонов → founder/CEO-аудитория). Just AI системно покупает personal-brand-каналы под B2B-decision-makers. Это самый агрессивный paid-content-маркетинг среди пятёрки RU-платформ.
 
+## Just AI — 4-й advertorial через @telega_Rinata (обновление 26 мая 2026)
+
+Через [[sources/2026-05-26-tg-telega-rinata-may-19-22-2026|@telega_Rinata 627]] (2026-05-21, рекламный, erid `2W5zFJhgdMs`, та же ООО «Маинд Крафт») зафиксирован **четвёртый** advertorial Just AI за ~1 месяц — теперь через канал Рината Алиева (предприниматель/AI-трансформация-аудитория).
+
+**Новое в этом advertorial:**
+- **Публичный client name-drop:** «весь крупняк доверяет им — **Альфа-Банк, Х5, Ozon** и другие». Первое в нашей вики упоминание конкретных enterprise-клиентов Just AI — сильный proof-point для enterprise-позиционирования (раньше были только функциональные описания платформы).
+- **Контакт продаж персонифицирован** — [контакт «Яна» (@Yana_JustAI)](https://t.me/Yana_JustAI) как точка входа для крупного/среднего бизнеса, обсуждающего ИИ-трансформацию. High-touch enterprise-sales motion рядом с self-serve distribution kit.
+- **Тот же distribution kit** («своя платформа для запуска агентов в своём периметре», [ссылка с utm distribution-kit-launch](https://just-ai.com/agent-platform-distribution-kit)) — подтверждает, что on-prem kit остаётся текущим флагман-оффером (см. майский @mspiridonov-update выше).
+- **Honest-disclosure-приём:** «Это реклама, но я внутри рынка и ребята реально самые твердые в этом деле» — softening рекламы через personal-endorsement (тот же приём, что у Спиридонова).
+
+**Усиление паттерна.** Четыре advertorial через **четыре разных** personal-brand-канала (Горный, Спиридонов, ×2 → теперь Алиев) за ~1 месяц. Just AI ведёт **широкую закупку авторских каналов под разные срезы B2B-decision-makers**: VC-стартаперы, founder/CEO, AI-трансформация-практики. Это самый системный paid-influencer-маркетинг среди RU AI-agent платформ. Контекст рамки рекомендации Just AI как подрядчика — в [[canon/marketing-frameworks/ai-transformation-by-company-size-aliev]].
+
 ## TTL и ре-верификация
 
 Evolving + loose — soft TTL 180 дней. Обязательная ре-верификация к **2026-10-16**. Ключевые задачи:
@@ -137,6 +149,8 @@ Evolving + loose — soft TTL 180 дней. Обязательная ре-вер
 - [[evolving/competitor-positioning/vibecoding-stack-ecosystem-2026]] — adjacent-category: no-code AI-агенты vs vibecoding стек (разные задачи — автоматизация бизнес-процессов vs prompt-to-app)
 - [[evolving/competitor-positioning/ru-nocode-app-builder-platforms-2026]] — соседняя категория: сборка готовых приложений (не агентов); пересечение по Yandex AI Studio / GigaStudio (Сбер)
 - [[sources/2026-05-22-pressfeed-nocode-app-builders-10-servisov]] — источник disambiguation app-builder vs agent-builder + новый Сбер-продукт GigaStudio
+- [[sources/2026-05-26-tg-telega-rinata-may-19-22-2026]] — may 26 update: 4-й advertorial Just AI + client name-drop (Альфа-Банк/Х5/Ozon)
+- [[canon/marketing-frameworks/ai-transformation-by-company-size-aliev]] — рамка, в которую вшита рекомендация Just AI как подрядчика
 
 ## Backlinks
 

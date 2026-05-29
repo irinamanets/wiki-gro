@@ -9,9 +9,10 @@ tags: [management, partnerships, founder, decision]
 confidence: medium
 stale: false
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 sources:
   - sources/2026-05-25-yt-batyrev-partnership-ai-sales-children.md
+  - sources/2026-05-26-tg-portnyaginlive-20260526-122652.md
 namespace: mkt
 ---
 
@@ -54,6 +55,7 @@ Reusable рамка для оценки бизнес-партнёрств. По 
 
 - Анти-паттерн «всё держится на одной персоне» — ср. [[canon/marketing-frameworks/only-product-scales-harvey-moreynis]] (founder-led как маскировка дефекта масштабируемости) и [[canon/positioning/founder-led-brand-fragility-yeezy]] (хрупкость на одной личности).
 - Комплементарность экспертиз (туризм + смыслы) ≈ принцип распределения ролей в [[canon/marketing-frameworks/sales-manager-vs-salesperson-mars]] (разные субъекты, разные функции).
+- **Соседняя partner-selection рамка с другого ракурса:** [[canon/marketing-frameworks/partner-as-leadership-role-portnyagin]] (Портнягин) — фокус на expertise-test и тезисе «миром правит контракт». Две рамки совместимы: Батырев применяется на этапе **«кто инициатор»** (initiator-side test), Портнягин — на этапе **«закрывает ли роль»** (expertise-side test). Полный workflow: Батырев → отсекает уговорённых; Портнягин → проверяет оставшихся на expertise-fit.
 
 ## Применимость для GRO
 
@@ -64,5 +66,7 @@ Reusable рамка для оценки бизнес-партнёрств. По 
 - [[canon/marketing-frameworks/only-product-scales-harvey-moreynis]]
 - [[canon/positioning/founder-led-brand-fragility-yeezy]]
 - [[canon/marketing-frameworks/sales-manager-vs-salesperson-mars]]
+- [[canon/marketing-frameworks/partner-as-leadership-role-portnyagin]]
 - [[evolving/competitor-positioning/la-riba-business-club-kombat-tours-batyrev]]
 - [[sources/2026-05-25-yt-batyrev-partnership-ai-sales-children]]
+- [[sources/2026-05-26-tg-portnyaginlive-20260526-122652]]

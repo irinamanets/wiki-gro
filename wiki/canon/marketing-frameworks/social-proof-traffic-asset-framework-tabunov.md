@@ -9,11 +9,12 @@ tags: [social-proof, pruefs, conversion, paid-traffic, founder-voice, customer-o
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-26  # +Tabunov 6-тезисная рамка нейрослопа (@bossofyourboss пост 1204, 2026-05-22): пруфы как 1 из 3 mandatory condition'ов performance-маркетинга 2026 (бренд OR пруфы OR много качественного контента). Прямое усиление главного тезиса. Prior: +ZXMoto-кейс (2026-05-19).
+updated: 2026-05-26  # +cross-link на forbes-30-under-30-content-franchise — структура франшизы упомянутого «Фаундер из Forbes 30 under 30» weak-tier social proof'а (двойная оптика outsider vs insider). Prior: +Tabunov 6-тезисная рамка нейрослопа, +ZXMoto-кейс.
 sources:
   - sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md
   - sources/2026-05-19-tg-bossofyourboss-may-2026.md
   - sources/2026-05-26-tg-bossofyourboss-may-20-24-2026.md
+  - sources/2026-05-26-forbes-tegi-30-under-30.md
 namespace: mkt
 ---
 
@@ -156,3 +157,4 @@ GRO — массовый B2C-продукт без типичных корпор
 - [[sources/2026-05-19-tg-bossofyourboss-may-2026]] — источник ZXMoto-кейса
 - [[canon/marketing-frameworks/neuroslop-era-performance-marketing-shift-tabunov]] — full 6-тезисная рамка эпохи нейрослопа Табунова (где пруфы — 1 из 3 mandatory condition'ов)
 - [[sources/2026-05-26-tg-bossofyourboss-may-20-24-2026]] — источник «эпохи нейрослопа» (пост 1204)
+- [[evolving/content-trends/forbes-30-under-30-content-franchise]] — упомянутый weak-tier social proof «Фаундер из Forbes 30 under 30» — структура франшизы и её двойная оптика (outsider vs insider audience)

@@ -9,8 +9,8 @@ tags: [tbank, corporate-messenger, ai, marketplace, fintech, industry-trends]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-24  # +chunk6 condensed: «Дофамин-банкинг»/«Навигатор»/Co-Pilot/Gen-T (app 7.0) развёрнут + ссылка на отдельную positioning-страницу; +research-as-PR и офлайн-события как awareness-каналы; prior: май-батч @tinkoffbank 10694-10718 (Город→Отправка посылок, Т-Мобайл, Кэшбэк месяца, Вклад в поколение)
-sources: [sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md]
+updated: 2026-05-26  # +батч @tinkoffbank 10724-10748 (19-26 мая 2026): UnionPay Global 61 страна (cross-border infrastructure-flex), Топливо становится loyalty-card-aggregator'ом (Газпромнефть «Нам по пути» = vertical aggregator parallel с Доли), Т-Бизнес "5 причин доверять" listicle (70+ сервисов / 1.5M+ клиентов / лидер Банки.ру), «Число Т» ЕГЭ-тренажёр (Т-Образование growth-loop через школьников), Veter Spring Fest pluggable activation; prior: +chunk6 condensed
+sources: [sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md, sources/2026-05-26-tg-tinkoffbank-may-19-26-2026.md]
 namespace: mkt
 ---
 
@@ -196,6 +196,45 @@ Telecom (как и edtech, travel) — **non-financial vertical**, продви�
 - [[evolving/content-trends/tbank-recurring-monthly-cashback-format-2026]] — «Кэшбэк месяца» recurring loyalty-формат (третий cashback-cadence-режим)
 - [[evolving/content-trends/csr-grant-as-referable-content-2026]] — «Вклад в поколение» forwardable CSR-грант (Т-Образование adjacency)
 - [[volatile-strict/competitor-news/tbank-doli-bnpl-aggregator-2026-05]] — Доли BNPL-агрегатор (та же aggregation-механика, что «Город»→logistics)
+
+## Обновление 2026-05-26 — батч 10724-10748 (19-26 мая 2026)
+
+[[sources/2026-05-26-tg-tinkoffbank-may-19-26-2026]] — следующий батч даёт ещё 5 платформенных-уровень сигналов:
+
+### Cross-border infrastructure-flex
+
+**UnionPay Global переводы в 61 страну** (#10736, 21 мая 2026) — Т-Банк расширил международные переводы с UnionPay-карт Китая до UnionPay Global в **61 стране** (Узбекистан, Вьетнам, Сингапур, Франция, Германия и др.). Подробно: [[volatile-strict/competitor-news/tbank-unionpay-global-61-countries-2026-05]].
+
+**Стратегический сигнал:** Т-Банк строит лидерство в **cross-border P2P-payments** для физлиц — категория, где у большинства RU-банков сильно урезанные возможности после санкций. Это **infrastructure-differentiation moat**.
+
+### Loyalty-card aggregator strategy расширилась на топливо
+
+**Газпромнефть «Нам по пути» в Топливе** (#10742–10745, 25 мая 2026) — карта лояльности партнёра встроена прямо в сервис «Топливо». Т-Банк позиционирует Топливо как **aggregator для loyalty-карт АЗС-сетей** (по аналогии с Доли — BNPL aggregator). Подробно: [[evolving/competitor-positioning/tbank-loyalty-card-aggregator-fuel-gazprom]].
+
+**Pattern:** Aggregation-стратегия Т-Банка теперь явная **на 3 vertical'ах** (BNPL через Доли, fuel-loyalty через Топливо, logistics через «Город»→Отправка посылок). Это **platform-vs-product distinction**: Т-Банк строит **operating system для других-products**, не отдельные сервисы.
+
+### Т-Бизнес trust-stacking listicle
+
+**«5 причин доверять Т-Бизнесу»** (#10748, 26 мая 2026) — видео-promo (без речи, музыкальный listicle):
+- **Более 70 сервисов** для бизнеса
+- **Системно значимый банк** (ЦБ РФ)
+- **Более 1,5 млн** бизнес-клиентов
+- **Персональный менеджер** для оборота от 120 млн ₽
+- **Лидеры на Банки.ру** среди банков для бизнеса
+
+**Стратегический сигнал:** Т-Бизнес рассказывает про **scale + breadth + premium-tier**, не про specific features. Это **competitor-defense move** — закрепление существующей market-position в Б2Б-категории через trust-claims, а не attack new market.
+
+### Т-Образование growth-loop через школьников
+
+**«Число Т»** (#10741, 25 мая 2026) — бесплатный тренажёр ЕГЭ по математике и физике. Т-Образование сначала #10577 «Математика решает», теперь #10741 «Число Т». **Pattern:** бесплатный продукт для школьников → exposure для родителей-владельцев Black-карты → upsell всей семьи на T-Bank ecosystem. **Family-onboarding моат**.
+
+### Pluggable fest-activation
+
+**Veter Spring Fest** (#10737, 22 мая 2026) — Т-Банк onsite-активация на стороннем фестивале (Маркет с кэшбэком + квест Т-Бизнеса). См. [[evolving/content-trends/tbank-fest-onsite-quest-cashback-activation]].
+
+**Стратегический сигнал:** event-marketing strategy = pluggable (не only собственный Т-Двор), позволяет cover больше events с меньшим capex.
+
+**Net pattern:** Май-батч 19–26 показывает, что Т-Банк работает на **5 platform-уровень сдвигах** параллельно: (1) cross-border infrastructure, (2) loyalty-aggregator на новых vertical'ах, (3) trust-defence в B2B, (4) family-growth-loop через edtech, (5) pluggable event-strategy. Это **полная platform-maturity**, а не cosmetic feature-releases.
 
 ## Backlinks
 

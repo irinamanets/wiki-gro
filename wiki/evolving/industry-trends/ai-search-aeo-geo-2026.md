@@ -9,8 +9,8 @@ tags: [seo, ai, content, search, decision-layer, infrastructure, product-data, a
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-24  # +Спиридонов RU-voice (Adobe генеративный чат-бот трафик +1200-1700% YoY + ambient AI / «смерть смартфона»); prior: +Comscore AI Intelligence Report (34,9% Google AI-обзоров конец 2025 + плато поиска +3% YoY); +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия»
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-cossaru-may-14-19-2026.md, sources/2026-05-24-condense-vcru-chunk2.md]
+updated: 2026-05-26  # +Себрант (techsparks 5607): Google I/O 2026 редизайн Search box «впервые за 25+ лет» + AI Mode >1 млрд MAU, запросы удваиваются/квартал — interface-shift как продолжение decision-layer; prior: +Спиридонов RU-voice (Adobe чат-бот трафик +1200-1700% YoY); +Comscore (34,9%); +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия»
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-cossaru-may-14-19-2026.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-26-tg-techsparks-may-19-25-2026.md]
 namespace: mkt
 ---
 
@@ -412,6 +412,29 @@ Pressfeed формулирует **3 кейса**, когда инвестици
 
 **Ambient AI как смежный вектор.** Спиридонов («Визионеры») добавляет рамку **ambient AI / «смерть смартфона»**: человечество ищет устройство на замену смартфону, чтобы контакт с ИИ стал «почти невидимой частью повседневности»; чем менее заметны технологии, тем глубже они проникают. Связь с зафиксированным в вики нарративом «Мёртвый интернет 2026» (обесценивание идеального ИИ-контента) — Спиридонов добавляет RU-экспертный голос к этой рамке. Для AEO/GEO это long-horizon-сигнал: если интерфейс к ИИ становится ambient (голос, носимые устройства), retrieval-присутствие важнее, чем когда-либо — визуальной SERP-выдачи может не быть вовсе.
 
+## Update 2026-05-26 — Google I/O 2026: редизайн Search box + AI Mode >1 млрд MAU (Себрант)
+
+[[sources/2026-05-26-tg-techsparks-may-19-25-2026|Андрей Себрант (@techsparks 5607)]] (2026-05-20, пересказ анонса с [Google I/O 2026](https://blog.google/products-and-platforms/products/search/search-io-2026/)) фиксирует **самый видимый interface-сдвиг** в той же decision-layer-линии: Google переделал саму поисковую строку — по словам анонса, **«the biggest upgrade to our Search box in over 25 years»**.
+
+### Что изменилось в интерфейсе
+
+1. **Строка → многострочное окно.** Поисковая строка по мере ввода расширяется в многострочное поле. Обоснование Google: классические запросы были лаконичны («ключевые слова»), а при разговоре с ИИ пользователь пишет развёрнутыми мыслями, подробными описаниями задач. То есть интерфейс **подстраивается под conversational-паттерн**, к которому пользователей приучил AI Mode.
+2. **Нативно мультимедийный запрос.** Запрос становится мультимодальным «из коробки» (текст + изображение + др.), а не через отдельную кнопку.
+
+Это материализация в UI того структурного сдвига, который вики уже зафиксировала на уровне retrieval/ranking/synthesis (decision-layer выше): меняется **поведение ввода**, не только выдача. Себрант называет это «тихой, но реальной революцией в поиске».
+
+### Метрика масштаба AI Mode
+
+Google заявил, что AI Mode **перевалил за 1 млрд месячных пользователей**, а число запросов в нём **удваивается каждый квартал** `[conf:medium, src:2026-05-20]` (вендор-self-report, пересказ Себранта). Это **первая известная нам публичная цифра аудитории именно AI Mode** (отличать от Comscore 34,9% Google-поисков с AI-обзором — там измерялась доля показов AI Overview, здесь — отдельный conversational-режим). Полная метрика с inline-маркером и калибровкой confidence — [[evolving-strict/market-data/ai-search-commerce-benchmarks-2026|раздел Google AI Mode scale]].
+
+### Импликация для AEO/GEO-стратегии
+
+- **Запросы удлиняются → длиннохвостые семантические поля важнее коротких ключей.** Это усиливает уже зафиксированный сдвиг от keyword-research к **ENTITY + векторной близости** (см. playbook [[canon/marketing-frameworks/seo-for-ai-era-playbook]] раздел ENTITY): conversational-запрос покрывает поле сущностей, а не одну фразу.
+- **Мультимодальность ввода → визуальные/структурированные ассеты тоже попадают в retrieval-контур.** Schema.org + чистые product-данные ([[canon/marketing-frameworks/product-data-as-architecture-pragmatix]]) становятся ещё критичнее, когда запрос может быть картинкой.
+- **Для GRO-аудитории (RU/СНГ) приоритет остаётся за Яндекс/Алиса** — Google I/O-редизайн напрямую RU-выдачу не меняет, но **валидирует направление**: Яндекс с высокой вероятностью повторит conversational-UI-паттерн, к которому Google приучает рынок глобально. Это сигнал готовить контент под развёрнутые запросы заранее.
+
+**Content-hook для GRO** (vc.ru/Habr): *«Google впервые за 25 лет переделал поисковую строку — теперь это окно для разговора, а не поле для ключевых слов. AI Mode уже у 1 млрд человек в месяц. Что это значит для вашего SEO?»* (проверять каждое утверждение перед публикацией; цифра — вендор-self-report).
+
 ## Связанные страницы
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] -- практические рекомендации по AI-оптимизации
 - [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]] -- Comscore platform-level замер (34,9% Google AI-обзоров конец 2025)
@@ -425,6 +448,7 @@ Pressfeed формулирует **3 кейса**, когда инвестици
 - [[evolving/content-trends/aeo-geo-llm-search-optimization-2026]] -- практический playbook AEO/GEO
 - [[evolving/content-trends/geo-playbook-2026-q2]] -- operational плейбук Q2 2026 с 6 механиками
 - [[sources/2026-05-14-tg-techsparks-may-2026]] -- источник пересказа Technology Magazine
+- [[sources/2026-05-26-tg-techsparks-may-19-25-2026]] -- Себрант про Google I/O 2026 Search box redesign + AI Mode >1 млрд MAU
 - [[sources/2026-05-14-tg-solokumi-may-2026]] -- источник цифр скейла и Gartner-прогноза
 - [[sources/2026-05-14-tg-cossaru-may-5-14-2026]] -- источник Аллы Рауд и Duda study
 - [[evolving/content-trends/marketing-for-ai-agents-content-hooks]] -- content-side derivative тренда (hooks для marketing-for-agents)

@@ -9,7 +9,7 @@ tags: [pr, community]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-25  # +внутренняя антикризисная коммуникация: честный all-hands (кейс Инкаб 2022)
+updated: 2026-05-28  # +cross-ref на brand-crisis-response-cases-2024-2026 (case bank Pims/Додо/Самолет/WB/маркетплейсы из Т-Ж 13–19 мая)
 sources:
   - sources/2026-04-16-condense-pressfeed-35-articles.md
   - sources/2026-05-18-pressfeed-black-pr-community-doubt.md
@@ -17,6 +17,7 @@ sources:
   - sources/2026-05-19-pressfeed-mediamonitoring-prognozirovanie-weak-signals.md
   - sources/2026-05-19-tg-rb-ru-may-14-19-2026.md
   - sources/2026-05-25-yt-osnovateli-incab-regional-leader.md
+  - sources/2026-05-26-tg-t-jrnl-may-13-19-2026.md
 namespace: mkt
 ---
 
@@ -113,6 +114,8 @@ Reusable фреймворк управления коммуникацией в �
 - [[evolving/industry-trends/native-pr-russia-2026]] -- рынок PR
 - [[evolving/customer-feedback/gro-app-store-reviews]] -- текущий feedback GRO
 - [[sources/2026-05-25-yt-osnovateli-incab-regional-leader]] -- внутренняя антикризисная коммуникация (честный all-hands, Инкаб 2022)
+- [[evolving/content-trends/brand-crisis-response-cases-2024-2026]] -- case bank реальных брендовых кризисов 2024–2026 (Pims/Додо/Самолет/WB/маркетплейсы) — эмпирическая база для проверки принципов на реальных кейсах
+- [[sources/2026-05-26-tg-t-jrnl-may-13-19-2026]] -- Т-Ж дайджест с тремя cases (Pims, Додо, Самолет) для case bank выше
 
 ## Backlinks
 

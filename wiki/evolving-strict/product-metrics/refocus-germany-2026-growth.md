@@ -9,8 +9,8 @@ tags: [refocus, metrics, arr, growth, edtech, germany, expert-claim, kumar-solo]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-05
-sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-solokumi-redump-dec25-apr26.md]
+updated: 2026-05-26  # +castdev-блок 4-сегментная классификация × Crossover + конверсия 32%→47% (+46% relative / +15 п.п.) март→май 2026, новая точка в траектории конверсии (пост 418, @solokumi 2026-05-20)
+sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-solokumi-redump-dec25-apr26.md, sources/2026-05-26-tg-solokumi-may-20-22-2026.md]
 namespace: mkt
 ---
 
@@ -67,6 +67,7 @@ Cumulative за 10 месяцев (сумма баров): ≈$627,350 `[conf:me
 - **+50% к объёму лидов** от внедрения ManyChat welcome-цепочки в октябре 2025 `[conf:medium, src:2026-01-13]` (пост 364)
 - **Рост конверсии отдела продаж х1.5** за 2 месяца (пост 347, 2025-11-25) `[conf:medium, src:2025-11-25]` — период ноябрь 2025, прирост относится к рабочему внедрению ИИ ОКК (оценка звонков по <!-- superseded 2026-05-05 by [[sources/2026-05-05-tg-solokumi-redump-dec25-apr26|@solokumi пост 400]]: было «по 50 параметрам» --> **55 параметрам** `[conf:medium, src:2026-04-22]`), ИИ-тренера сейлзов, системных ролевок
 - **Рост конверсии в продажах х2** за 3 месяца (пост 391, 2026-04-01) `[conf:medium, src:2026-04-01]` — период январь-март 2026, заявление в анонсе VIBECON про автоматизации отдела продаж
+- **Рост конверсии 32% → 47% за 2 месяца** (пост 418, 2026-05-20) `[conf:medium, src:2026-05-20]` — период март-май 2026, **+46% relative / +15 п.п. абсолютный**, через **30 глубинных интервью с отказниками** (делегировано агентству Crossover, [@slavnay_rinka](https://t.me/slavnay_rinka)) → 4-сегментная классификация отказников ([[canon/marketing-frameworks/refused-customer-4-segments-crossover|подробно]]) → переписанная коммуникация под сегменты + увеличенное число касаний + ИИ-контроль сейлзов. Это **новый качественный этап**: предыдущие итерации улучшали отдел продаж технически (ОКК-аналитика, ИИ-тренер), эта — **починила коммуникационную дыру воронки** на основании реальных интервью отказников. Метод hybrid AI/human: live-интервью — людьми, анализ транскриптов и формирование сегментов — ИИ ([[canon/marketing-frameworks/hybrid-ai-human-castdev-workflow]]).
 
 ## Снижение стоимости квалифицированного лида
 
@@ -98,6 +99,7 @@ Refocus DE — случай, где публичная когорта успеш
 |---|---|---|
 | [[canon/marketing-frameworks/andromeda-creative-framework-2026\|Andromeda creative framework]] | Переход на массовое AI-production креативов | CPL ↓ 1.5x за 2 мес `[conf:medium, src:2026-03-25]` |
 | [[canon/marketing-frameworks/multi-agent-marketing-org-principles\|Multi-agent marketing org]] | ИИ ОКК / ИИ-тренер / агент-аналитик кабинетов | Конверсия отдела продаж ↑ 2x за 3 мес `[conf:medium, src:2026-04-01]` |
+| [[canon/marketing-frameworks/refused-customer-4-segments-crossover\|4-сегментная классификация отказников]] + [[canon/marketing-frameworks/hybrid-ai-human-castdev-workflow\|hybrid AI/human castdev]] | 30 интервью отказников через Crossover агентство, март-май 2026 | Конверсия ↑ 1.46x (32%→47%) за 2 мес `[conf:medium, src:2026-05-20]` |
 | [[evolving/content-trends/telegram-native-formats\|Telegram content funnel]] + ManyChat welcome | SMM-воронка с welcome-цепочкой | Объём лидов ↑ 50% `[conf:medium, src:2026-01-13]` |
 | [[canon/marketing-frameworks/ai-video-production-pipeline\|AI video pipeline]] | Фабрика контента с $7–10 видео и 4 рилс/день | MoM выручка ↑ с $8k до $145k за 10 мес `[conf:medium, src:2026-02-27]` |
 | [[evolving/competitor-positioning/vibecoding-stack-ecosystem-2026\|Vibecoding stack]] (Cursor + Claude Code) | In-house автоматизации, downgrade SaaS-подписок | (эффект не количественно раскрыт) |

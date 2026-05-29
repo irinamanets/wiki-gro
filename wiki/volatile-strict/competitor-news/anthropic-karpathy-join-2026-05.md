@@ -9,8 +9,8 @@ tags: [ai, anthropic, karpathy, talent-acquisition, frontier-lab, competitor-new
 confidence: high
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-ai-newz-may-19-25-2026.md]
+updated: 2026-05-26  # +второй source-attestation @telega_Rinata (625): «Flawless Victory» / репутационная-победа framing как content-hook
+sources: [sources/2026-05-26-tg-ai-newz-may-19-25-2026.md, sources/2026-05-26-tg-telega-rinata-may-19-22-2026.md]
 namespace: mkt
 ---
 
@@ -56,6 +56,15 @@ namespace: mkt
 **Для нарратива про карьерные траектории:**
 - Параллельно с фреймом [[canon/marketing-frameworks/frontier-lab-vs-startup-career-tradeoff|frontier lab vs startup tradeoff]] (тот же дамп @ai_newz, пост 4585), Karpathy — case где «freelance/startup → frontier-lab» — это **движение в обе стороны**, не one-way. Для AI-аудитории GRO: «карьерный путь — это итерация, не линейный climb».
 
+## Второй source-attestation — @telega_Rinata «репутационная победа» framing (625)
+
+[[sources/2026-05-26-tg-telega-rinata-may-19-22-2026|@telega_Rinata]] (пост 625, 2026-05-19) фиксирует тот же факт перехода `[conf:high, src:2026-05-19]` и добавляет **сильный narrative-framing** под content-hook:
+
+- **«Для Anthropic это важнее достижения любой новой метрики. Абсолютная репутационная победа. Flawless Victory.»** `[conf:medium, src:2026-05-19]` — авторская интерпретация (Алиев, `inferred`-эксперт), не факт. Подтверждает тезис страницы «Karpathy join = peer-validation Anthropic-стратегии», но в более эмоциональной, viral-готовой формулировке.
+- **Мета-наблюдение для контента:** «раньше обсуждали трансферы футболистов, а сейчас математиков; железные компании конкурируют именно людьми в командах» `[conf:medium, src:2026-05-19]` — готовая рамка «talent-как-конкурентное-оружие» (war-for-talent в AI), переносимая в employer-brand-контент.
+
+**Что добавляет вторая фиксация:** не новые факты, а **второй независимый голос на той же интерпретации** (Anthropic выигрывает репутацией/талантом, не метриками) + готовая «Flawless Victory» формулировка как content-hook. Усиливает hook-материал для GRO ниже.
+
 ## Risk и open questions
 
 - **Role не уточнена.** Karpathy не сказал «Director of X» или «Head of Y» — просто «joined the team». Структурная роль (research / ENG / leadership) пока непрозрачна. Уточним по последующим источникам.
@@ -70,3 +79,4 @@ namespace: mkt
 - [[volatile-strict/competitor-news/anthropic-claude-dreams-mode-2026-05]] — Dreams mode
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — макротренд AI-гонки
 - [[canon/marketing-frameworks/frontier-lab-vs-startup-career-tradeoff]] — параллельный фрейм карьеры
+- [[sources/2026-05-26-tg-telega-rinata-may-19-22-2026]] — второй source-attestation «Flawless Victory» framing (пост 625)

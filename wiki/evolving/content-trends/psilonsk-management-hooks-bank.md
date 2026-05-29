@@ -9,14 +9,14 @@ tags: [content, telegram, hooks, management, expert-voice, narrative, gro-blog]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19
-sources: [sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-05-05-tg-psilonsk-may-2026-extension.md, sources/2026-05-14-tg-psilonsk-may-2026-week2.md, sources/2026-05-19-tg-psilonsk-may-2026-week3.md]
+updated: 2026-05-26
+sources: [sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-05-05-tg-psilonsk-may-2026-extension.md, sources/2026-05-14-tg-psilonsk-may-2026-week2.md, sources/2026-05-19-tg-psilonsk-may-2026-week3.md, sources/2026-05-26-tg-psilonsk-may-2026-week4.md]
 namespace: mkt
 ---
 
 # Банк management-хуков от @psilonsk
 
-Переиспользуемые нарративные frame'ы и квотабельные позиции, извлечённые из четырёх дампов [@psilonsk](https://t.me/psilonsk) (Сергей Колганов, управленец 20+ лет) — [[sources/2026-04-14-psilonsk-management-tg-dump]] (range 5466..5524, период 2026-03-04 … 2026-04-14), [[sources/2026-05-05-tg-psilonsk-may-2026-extension]] (range 5525..5551, период 2026-04-15 … 2026-05-05), [[sources/2026-05-14-tg-psilonsk-may-2026-week2]] (range 5552..5562, период 2026-05-06 … 2026-05-14) и [[sources/2026-05-19-tg-psilonsk-may-2026-week3]] (range 5563..5569, период 2026-05-15 … 2026-05-19). Цель — дать контент-команде GRO готовый banco приговорок, парабль-структур и контр-тезисов, которые можно пересказать, переписать или использовать как trigger для собственного материала. Атрибуция эксперта обязательна: все формулировки идут как «по Сергею Колганову», не как безличный факт, `confidence: medium` (verified через sidecar note, теперь устойчиво за ≈11,1 недели наблюдения).
+Переиспользуемые нарративные frame'ы и квотабельные позиции, извлечённые из пяти дампов [@psilonsk](https://t.me/psilonsk) (Сергей Колганов, управленец 20+ лет) — [[sources/2026-04-14-psilonsk-management-tg-dump]] (range 5466..5524, период 2026-03-04 … 2026-04-14), [[sources/2026-05-05-tg-psilonsk-may-2026-extension]] (range 5525..5551, период 2026-04-15 … 2026-05-05), [[sources/2026-05-14-tg-psilonsk-may-2026-week2]] (range 5552..5562, период 2026-05-06 … 2026-05-14), [[sources/2026-05-19-tg-psilonsk-may-2026-week3]] (range 5563..5569, период 2026-05-15 … 2026-05-19) и [[sources/2026-05-26-tg-psilonsk-may-2026-week4]] (range 5570..5577, период 2026-05-20 … 2026-05-26). Цель — дать контент-команде GRO готовый banco приговорок, парабль-структур и контр-тезисов, которые можно пересказать, переписать или использовать как trigger для собственного материала. Атрибуция эксперта обязательна: все формулировки идут как «по Сергею Колганову», не как безличный факт, `confidence: medium` (verified через sidecar note, теперь устойчиво за ≈12,2 недели наблюдения).
 
 Страница дополняет [[evolving/content-trends/ai-solopreneur-narrative-hooks]] и [[evolving/content-trends/ai-agents-demand-hooks-2026]] — те покрывают AI-нарратив, этот — менеджерский нарратив.
 
@@ -393,6 +393,52 @@ Reusable как **третий этап эволюции counter-narrative** а�
 
 Пост 5569 — рекламная интеграция митапа ЮMoney «Пиэмная» для руководителей IT-проектов (с маркировкой `erid=2VtzqxQHsxL`). Не hook сам по себе, но фиксируется как **возврат коммерческой нагрузки** после трёх дампов без интеграций (детали и пересмотр наблюдения — в [[evolving/content-trends/psilonsk-channel-patterns]]). Релевантно как референс event-промо креатива в управленческой вертикали: формат «бесплатный митап с экспертами крупной компании» как lead-gen инструмент для B2B-аудитории руководителей.
 
+## 14. Новые хуки из дампа 5570..5577 (week 4 мая 2026)
+
+### 14.1 Совещания и компетенция-гравитация — продолжение темы 4.x / 12.5
+
+**14.1.1 «Плодотворная встреча» — менеджеры-разрабы убегают в техдетали** (пост 5570, парабль про аудит большого проекта). Frame: топ собрал совещание по управленческим вопросам, команда (бывшие разрабы) 40 минут обсуждала «как красиво сделана примочка для работы с базами данных». До настоящих вопросов не дошли — никто не расстроен, «классно поговорили». Авторский moral: **«люди делают не то, что нужно, а то, что можно. И то, что им нравится»**. Поэтому нужны консультанты/менторы — помогать, а то и заставлять людей делать то, что сами они делать бы не стали. Reusable: anti-pattern компетентности — техническая компетенция бывшего разраба становится липкой ловушкой при отсутствии внешней дисциплины.
+
+> «Понадобилось много времени, чтобы управленцев этой компании переучить, заставить быть менеджерами, а не разрабами. И то не уверен, что после проекта они не вернулись к прежнему.»  — Сергей Колганов, @psilonsk 2026-05-20
+
+Этот hook вынесен в отдельную canon-страницу [[canon/marketing-frameworks/consultant-as-discipline-enforcer]] — фреймворк роли консультанта/ментора как enforcer'a дисциплины. Применение: founder'ский контент про **gravity of competence** и про **позиционирование GRO как enforcer'a** (см. caveats на странице — упаковка не «надсмотрщик», а «партнёр-enforcer»).
+
+### 14.2 Гигиена встреч — продолжение темы 12.6 (action-verb в повестке)
+
+**14.2.1 «Встреча на часок» — забить час слайдами вместо 27 минут** (пост 5571, парабль про отдел крупной финансовой компании). Frame: начальник видит, что у команды материала на полчаса, и требует «высосать из пальца» дополнительные слайды, потому что встреча назначена на час. Авторский диагноз: **«система вознаграждает идиотское поведение»** — сотни неглупых людей изображают работу вместо того, чтобы её делать. Решение «сверху» — бигбосс явно говорит «у нас столько времени, сколько нужно». Решение «снизу» — учиться ценить пустые слоты в дневном графике.
+
+> «Чуваки, у нас ровно столько времени, чтобы вы доложили об успехах и неудачах, а я все понял. Если окажется, что нужно 27 минут, меня это вполне устроит.»  — Сергей Колганов, @psilonsk 2026-05-21 (формулировка бигбосса)
+
+Этот hook вынесен в отдельную canon-страницу [[canon/marketing-frameworks/meeting-time-filling-parkinsons-antipattern]] — фреймворк time-filling антипаттерна совещаний как частной формы закона Паркинсона. **Тесно связан с 12.6.1** ([[canon/marketing-frameworks/meeting-agenda-action-verb]]): первый фреймворк — про **тип результата** (process vs result verb), второй — про **длительность** (закончили — расходимся). Вместе образуют пару canon-фреймворков «гигиена встреч».
+
+### 14.3 Work-life boundary — новая ветка (C, E)
+
+**14.3.1 «Дёмид-таксист» — менеджмент оплачивает результат, не "внешнюю бодрость"** (посты 5572+5575, разбор задачи 1202-1974). Большой смысловой блок — авторский разбор 5 вариантов реакции на выгорающего сотрудника, который таксует по ночам от безденежья. Все четыре «активных» вариантов (повысить зарплату / уволить / попросить бросить / разгрузить-индивидуальный график) — плохие. Лучший — наблюдай-не-вмешивайся. Reusable фреймворк:
+- **Не путай риск с проблемой.** Усталый сотрудник = риск; реальные пропуски в работе = проблема. Управлять надо проблемами, рисками — мониторить.
+- **За пределами 8 часов оплаченного труда — суверенная территория сотрудника.** Менеджер не имеет права лезть в личное, пока работа не страдает.
+- **Менеджмент оплачивает результат, не "внешнюю бодрость".**
+- **Когда появятся ошибки — разговор о рабочих показателях, не о такси.**
+
+> «Ваша роль — держать фокус на результате команды, не превращаясь в социального работника или надзирателя.»  — Сергей Колганов, @psilonsk 2026-05-24
+
+Этот hook вынесен в отдельную canon-страницу [[canon/marketing-frameworks/work-life-boundary-monitor-not-intervene]] — фреймворк work-life boundary с типологией A-E. Применение: сильный hook для GRO-блога про менеджмент-зрелость, особенно для founder'ов в SMB.
+
+### 14.4 Anti-half-baked / kill-zombie-projects — новая ветка (E, F)
+
+**14.4.1 «Наполовину» — отказ от полу-работающего сложнее, чем от провалившегося** (пост 5576, эссе). Большое смысловое эссе с тремя iconic-иллюстрациями (книга-не-бестселлер, работа-с-половиной-обещанных-задач, стартап-50%-плановых). Авторский тезис: **самое неприятное — когда твоя идея осуществляется наполовину**. Sunk-cost искушение «может, ещё пораскручивать / перетерпеть полгода» — три формы одного антипаттерна. Парадоксальный counter-вывод:
+
+> «А вот когда идея вообще не взлетела, это прекрасно. Выбросил эту и переходи к следующей.»  — Сергей Колганов, @psilonsk 2026-05-25
+
+Полный провал освобождает энергию для следующей попытки; половинный успех привязывает к zombie-проекту через operational-обязательства. Этот hook вынесен в отдельную canon-страницу [[canon/marketing-frameworks/kill-half-working-projects-courage]] — фреймворк с 5-question diagnostic checklist'ом «zombie-проект ли это?». Применение: founder'ский hook про мужество закрывать; пересекается с [[canon/marketing-frameworks/anti-perfectionism-mvp-launch-muratayev]] и [[canon/marketing-frameworks/unverifiable-product-sunk-cost-persuasion]].
+
+### 14.5 Legal-led company — diagnostic frame для B2B (E, B2B-sales)
+
+**14.5.1 «Юристы в управлении» — компании под их управлением умирают изнутри** (пост 5577, парабль про несостоявшийся консалтинговый контракт). Frame: топовый консультант объясняет молодому коллеге, почему контракта не будет — этой компанией управляют не бизнес-люди, а юристы. «Они умеют делать так, чтобы проверяющие органы не докопались, или чтобы юридические риски были прикрыты. Но заработать они не хотят». Прогноз сбылся: компания «прожила ещё несколько лет и тихо-мирно загнулась». Reusable diagnostic для B2B-маркетинга/sales — фильтр на due-diligence клиента.
+
+> «Самое плохое — это когда компанией управляют юристы. Не будет у нас этого проекта.»  — Сергей Колганов, @psilonsk 2026-05-26
+
+Этот hook вынесен в отдельную canon-страницу [[canon/marketing-frameworks/legal-led-company-antipattern]] — фреймворк с 7-point диагностическим чеклистом legal-led culture и тремя фазами упадка. Применение: sales-фильтр для quality lead'ов в B2B; founder'ский контент про governance; внутренний guardrail для GRO собственного управления (бизнес-функции в driver-seat, compliance — supporting).
+
 ## Как использовать банк
 
 1. **Для одиночного поста в блог GRO.** Берём один hook, проверяем, какому сегменту ([[canon/target-audience/gro-segments]]) он ближе, пишем 600–900 слов с атрибуцией автору и ссылкой на оригинальный пост в @psilonsk. Тональность — не копируем ироничность psilonsk'а напрямую, адаптируем под [[canon/brand-guidelines/gro-typography|бренд-гайдлайны GRO]].
@@ -404,7 +450,7 @@ Reusable как **третий этап эволюции counter-narrative** а�
 
 - **Атрибуция.** Всегда указывать «по Сергею Колганову, @psilonsk» с датой поста. Это экспертное мнение, не безличный факт.
 - **Не копировать ироничный tone напрямую.** Колганов позволяет себе «сука», «с хера ли», «херня» и сарказм — GRO как продукт про рост и системность не может говорить в этом регистре. Фрейм берём, tone адаптируем.
-- **Confidence: medium.** Все hooks — один автор, обсервация за ≈11,1 недели (4 дампа). Если появится независимое подтверждение (другой author, исследование), конкретный hook можно поднимать до `high` или выносить в `canon/marketing-frameworks`. Кандидаты на canon-вынос: hook 7.1 «обратная связь как ускоритель реальности», hook 12.3.1 «проект — это работа». Уже вынесены в canon: hook 12.6.1 «action-verb в повестке» ([[canon/marketing-frameworks/meeting-agenda-action-verb]]) и hook 13.2.1 «миллиметровка» ([[canon/marketing-frameworks/millimetrovka-overengineered-product-antipattern]]).
+- **Confidence: medium.** Все hooks — один автор, обсервация за ≈12,2 недели (5 дампов). Если появится независимое подтверждение (другой author, исследование), конкретный hook можно поднимать до `high` или выносить в `canon/marketing-frameworks`. Кандидаты на canon-вынос: hook 7.1 «обратная связь как ускоритель реальности», hook 12.3.1 «проект — это работа». Уже вынесены в canon: hook 12.6.1 «action-verb в повестке» ([[canon/marketing-frameworks/meeting-agenda-action-verb]]), hook 13.2.1 «миллиметровка» ([[canon/marketing-frameworks/millimetrovka-overengineered-product-antipattern]]), hook 14.1.1 «консультант как enforcer» ([[canon/marketing-frameworks/consultant-as-discipline-enforcer]]), hook 14.2.1 «time-filling Parkinson» ([[canon/marketing-frameworks/meeting-time-filling-parkinsons-antipattern]]), hook 14.3.1 «work-life boundary» ([[canon/marketing-frameworks/work-life-boundary-monitor-not-intervene]]), hook 14.4.1 «kill-half-working» ([[canon/marketing-frameworks/kill-half-working-projects-courage]]), hook 14.5.1 «legal-led company» ([[canon/marketing-frameworks/legal-led-company-antipattern]]).
 - **Политические позиции.** @psilonsk явно скептичен к ИИ и иронически комплаенсен с MAX. Если GRO хочет использовать его hook'и, нужно аккуратно разъединить: брать управленческий фрейм, но не транслировать AI-скепсис, который противоречит [[canon/product-knowledge/gro-app-overview|AI-компоненту продукта GRO]].
 
 ## Связанные страницы
@@ -413,10 +459,16 @@ Reusable как **третий этап эволюции counter-narrative** а�
 - [[sources/2026-05-05-tg-psilonsk-may-2026-extension]] — продолжение (range 5525..5551, источник хуков 11.x)
 - [[sources/2026-05-14-tg-psilonsk-may-2026-week2]] — третий дамп (range 5552..5562, источник хуков 12.x)
 - [[sources/2026-05-19-tg-psilonsk-may-2026-week3]] — четвёртый дамп (range 5563..5569, источник хуков 13.x)
+- [[sources/2026-05-26-tg-psilonsk-may-2026-week4]] — пятый дамп (range 5570..5577, источник хуков 14.x)
 - [[evolving/content-trends/psilonsk-channel-patterns]] — формат канала @psilonsk как author-channel observation
 - [[evolving/content-trends/ai-control-dystopia-counter-hook]] — отдельная страница под hook 5496 (ИИ-дистопия)
 - [[canon/marketing-frameworks/meeting-agenda-action-verb]] — вынесенный canon-фреймворк из hook 12.6.1
+- [[canon/marketing-frameworks/meeting-time-filling-parkinsons-antipattern]] — вынесенный canon-фреймворк из hook 14.2.1
 - [[canon/marketing-frameworks/millimetrovka-overengineered-product-antipattern]] — вынесенный canon-фреймворк из hook 13.2.1
+- [[canon/marketing-frameworks/consultant-as-discipline-enforcer]] — вынесенный canon-фреймворк из hook 14.1.1
+- [[canon/marketing-frameworks/work-life-boundary-monitor-not-intervene]] — вынесенный canon-фреймворк из hook 14.3.1
+- [[canon/marketing-frameworks/kill-half-working-projects-courage]] — вынесенный canon-фреймворк из hook 14.4.1
+- [[canon/marketing-frameworks/legal-led-company-antipattern]] — вынесенный canon-фреймворк из hook 14.5.1
 - [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]] — cross-ref для hook 13.3.1 (ИИ как инструмент)
 - [[canon/target-audience/gro-segments]] — три сегмента GRO для маппинга хуков
 - [[canon/brand-guidelines/gro-typography]] — bring-guidelines, на которые нужно переводить tone при адаптации

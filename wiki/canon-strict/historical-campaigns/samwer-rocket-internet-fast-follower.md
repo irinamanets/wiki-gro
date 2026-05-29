@@ -9,8 +9,8 @@ tags: [case-study, campaign, growth, copycat, first-mover, business-model, found
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-06
-sources: [sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026.md, sources/2026-05-05-yt-ilya-solovey-andreev-mamba-badoo-bumble.md]
+updated: 2026-05-26
+sources: [sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026.md, sources/2026-05-05-yt-ilya-solovey-andreev-mamba-badoo-bumble.md, sources/2026-05-26-tg-portnyaginlive-20260526-122652.md]
 namespace: mkt
 ---
 
@@ -82,8 +82,10 @@ namespace: mkt
 - [[canon/marketing-frameworks/petscom-unit-economics-failure]] — обратный пример: первопроходец, который **не справился** с unit-экономикой, освободил место для Chewy (fast-follower) → Chewy капитализация ~$10 млрд `[conf:medium, src:2026-04-27]`
 - [[canon-strict/historical-campaigns/andreev-mamba-badoo-bumble-empire-1999-2019]] — counter-pattern: оригинальный consumer-internet founder, не fast-follower. Андреев изобретал бизнес-модели (free-tier + pay-for-visibility, freemium до канонизации термина) на RU-рынке, а не копировал западные. Pair-сравнение полезно: **Самверы** = scale через replication, **Андреев** = scale через original business-model + deep-mentality локализация
 - [[canon/marketing-frameworks/mentality-driven-localization-andreev]] — соседний adjacent pattern из эпохи Самверов и Андреева: «локализация через mentality» (Андреев) vs «локализация как replication-speed» (Самверы) — две разные стратегии входа в новый рынок
+- [[canon-strict/historical-campaigns/seven-eleven-suzuki-takeover-1991-2026]] — соседний brand-history кейс из той же educational-рубрики Портнягина (пост 11263, 4-й дамп канала 2026-05-26). Альтернативная стратегия cross-border масштабирования: не fast-follower копирование, а **cross-border distressed M&A с operating-model translation** (Судзуки → 7-Eleven). Pair-сравнение: Самверы = «копируй и беги до прихода оригинала»; Судзуки = «купи оригинал, когда он рушится, и перепиши под свою культуру»
 - [[evolving/content-trends/portnyagin-founder-channel-patterns]] — формат, в котором сам кейс был подан в дампе
 - [[sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026]]
+- [[sources/2026-05-26-tg-portnyaginlive-20260526-122652]] — соседний 7-Eleven кейс в том же канале
 
 ## Backlinks
 

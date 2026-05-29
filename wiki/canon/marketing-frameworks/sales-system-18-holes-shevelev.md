@@ -9,8 +9,8 @@ tags: [sales, framework, b2b, smb, checklist, methodology, diagnostic]
 confidence: high
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-olegcloser-18-holes-checklist-pdf.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md]
+updated: 2026-05-28
+sources: [sources/2026-05-19-olegcloser-18-holes-checklist-pdf.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md]
 namespace: mkt
 ---
 

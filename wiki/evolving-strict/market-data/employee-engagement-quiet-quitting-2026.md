@@ -9,8 +9,8 @@ tags: [employee-engagement, quiet-quitting, hr, gen-z]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-25  # +Pressfeed/Сколково cross-source: Gallup 31% corroboration + макро-потери внутрикома РФ до 8,7 трлн ₽/год (condense-pressfeed-chunk2). Prior 2026-05-19: +РШУ конец 2025: 48% работающих россиян с симптомами выгорания (3-й RU-якорь выгорания после hh 42% и hh-апрель 33%) + leadership-energy как критерий найма (vc.ru/hr репост колонки для «Коммерсанта»); prior: +Soulful (Drivee, Дзен Деловой Мир, май 2026) Gallup State of Global Workplace 2026 / CEPR 2025 / hh.ru февраль 2026 / РБК × Ренессанс × Зарплата.ру / Рублёво
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2883929-tikhoe-uvolnenie-kak-vernut-sotrudnikov-k-rabote.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-24-condense-pressfeed-chunk2-25.md]
+updated: 2026-05-26  # +SberUniversity PRO.Людей digest April 2026 (Gallup 2025: 20% engagement min с 2020, $10T global loss 9% ВВП, manager engagement 27→22% за год, 31% (Roberts/Darden), 79% в инвестирующих в engagement). Prior 2026-05-25: +Pressfeed/Сколково cross-source: Gallup 31% corroboration + макро-потери внутрикома РФ до 8,7 трлн ₽/год (condense-pressfeed-chunk2). Prior 2026-05-19: +РШУ конец 2025: 48% работающих россиян с симптомами выгорания (3-й RU-якорь выгорания после hh 42% и hh-апрель 33%) + leadership-energy как критерий найма (vc.ru/hr репост колонки для «Коммерсанта»); prior: +Soulful (Drivee, Дзен Деловой Мир, май 2026) Gallup State of Global Workplace 2026 / CEPR 2025 / hh.ru февраль 2026 / РБК × Ренессанс × Зарплата.ру / Рублёво
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2883929-tikhoe-uvolnenie-kak-vernut-sotrudnikov-k-rabote.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-24-condense-pressfeed-chunk2-25.md, sources/2026-05-19-sberuniv-pro-people-digest-april-2026.md]
 namespace: mkt
 ---
 
@@ -187,6 +187,39 @@ namespace: mkt
 2. **Анти-зумерский миф полезен** `[conf:medium, src:2026-05-05]`. Если большинство «тихоувольняющихся» в РФ — старше 35, нарратив «GRO для зумеров» не должен закрепляться. Главная аудитория выгорания — взрослые состоявшиеся сотрудники, не молодёжь.
 3. **Качество руководителя как главный driver** `[conf:medium, src:2026-05-05]`. Сильный hook для рынка business-tools: проблема **не** в самом сотруднике, а в системе. GRO как self-management-инструмент позиционируется как способ компенсировать слабую систему вокруг человека.
 
+### Cross-source: SberUniversity «PRO.Людей» digest April 2026 — Gallup 2025 точный срез + manager engagement обвал
+
+Через [[sources/2026-05-19-sberuniv-pro-people-digest-april-2026|SberUniversity PRO.Людей дайджест за апрель 2026]] — institutional source с methodology «1600+ публикаций из 70 источников / месяц». Цитирует **Gallup, Global Workplace Report 2026** напрямую `[conf:high, src:2026-04]`:
+
+| Метрика (Gallup 2025 latest) | Значение | Source |
+|---|---|---|
+| Глобальная вовлечённость сотрудников 2025 | **20%** — минимум с 2020 | `[conf:high, src:2026-04]` | [conf:low, src:2026-05-26]
+| Регионов мира с позитивной динамикой | **0** (ни один) | `[conf:high, src:2026-04]` |
+| Потери мировой экономики от низкой вовлечённости | **$10 трлн** (9% мирового ВВП) | `[conf:high, src:2026-04]` | [conf:low, src:2026-05-26]
+| Вовлечённость **руководителей** 2025 | **22%** (vs 27% год назад) | `[conf:high, src:2026-04]` | [conf:low, src:2026-05-26]
+| Вовлечённость рядовых сотрудников 2025 | **19%** (vs 18% год назад) | `[conf:high, src:2026-04]` | [conf:low, src:2026-05-26]
+| Вовлечённость руководителей в компаниях, рассматривающих engagement как стратегию | **79%** (~4× выше среднемирового) | `[conf:high, src:2026-04]` | [conf:low, src:2026-05-26]
+
+**Эмоциональное бремя лидерства (vs рядовых):** `[conf:high, src:2026-04]` `[conf:high, src:2026-04]`
+- Стресс: **+7 п.п.**
+- Гнев: **+12 п.п.**
+- Печаль: **+11 п.п.**
+- Одиночество: **+10 п.п.**
+
+**Главный structural тезис Gallup-2025 (через SberUniversity):** **уплощение оргструктур** — работодатели сокращают количество управленческих должностей (особенно резко в Южной Азии), оставшимся менеджерам приходится управлять более многочисленными командами. Это вызывает обвал manager engagement — впервые с момента наблюдений руководители сравнялись с рядовыми по уровню вовлечённости, **раньше они стабильно опережали** `[conf:high, src:2026-04]`. Также через SberUniversity цитируется **Laura Morgan Roberts (Darden School of Business)** с **31%** вовлечённых из США/Канады (Gallup 2025, US/CA срез — минимум за всё время, vs пик 36% в 2020), см. [[canon/marketing-frameworks/four-freedoms-workplace-roberts]]. [conf:low, src:2026-05-26]
+
+**Триангуляция Gallup-цифр по нашей базе:**
+
+| Источник дайджеста | Метрика | Значение | Период |
+|---|---|---|---|
+| Соулфул (Drivee, май 2026) — primary 2025 | Глобальная вовлечённость | **20%** | 2025 (State of Global Workplace) | [conf:low, src:2026-05-26]
+| **SberUniversity (апрель 2026)** | **Глобальная вовлечённость** | **20%** | **2025** (independent corroboration) | [conf:low, src:2026-05-26]
+| Roberts/Darden via SberUniversity | US/CA вовлечённость | **31%** | 2025 (страновой срез) | [conf:low, src:2026-05-26]
+| Pressfeed/Сколково (май 2026) | US вовлечённость (Gallup, через PR) | **31%** | 2025 (US срез) | [conf:low, src:2026-05-26]
+| Батырев (yt, март 2026) | «Engagement worst за десятилетия» | **31%** | 2026 latest annual update (US срез?) | [conf:low, src:2026-05-26]
+
+**Resolution:** все цифры **консистентны** — 20% = global engagement 2025, 31% = US/CA engagement 2025. Различие — методологическое (geo-разбивка), не противоречие. Manager-engagement-обвал 27→22% — **новая ключевая цифра** для нарратива «управленцы стали узким местом системы» (cf. Соулфул 31% 2022 → 22% 2025: **обвал 9 п.п. за 3 года**, теперь triple-anchored). `[conf:high, src:2026-04]` [conf:low, src:2026-05-26]
+
 ### Cross-source: Pressfeed/Сколково — Gallup 31% + макро-потери внутрикома РФ (2026-05) [conf:low, src:2026-05-25]
 
 Через condense-Pressfeed ([[sources/2026-05-24-condense-pressfeed-chunk2-25]], 2026-05-19) — ещё одна независимая ссылка на Gallup **31%** вовлечённости (US), что подтверждает primary-figure выше. Та же статья даёт RU-макро-оценку **потерь от плохих внутренних коммуникаций до 8,7 трлн ₽/год (Сколково)** + кейсы (Coca-Cola GPT-бот 70% adoption, «Корус» внутренняя валюта: +20% удовлетворённость / +25% вовлечённость) — числовая база вынесена в [[evolving-strict/market-data/ru-internal-comms-losses-skolkovo-2026]] (`conf:low`, PR-источник без прямых ссылок на отчёты). Связь: плохой внутриком — один из системных драйверов Great Detachment; внутриком-инструменты — операционный ответ ([[canon/marketing-frameworks/internal-comms-pr-framework-2026]]). [conf:low, src:2026-05-25]
@@ -219,6 +252,11 @@ namespace: mkt
 - [[evolving-strict/market-data/ru-internal-comms-losses-skolkovo-2026]] — Сколково 8,7 трлн ₽ + Gallup 31% corroboration + кейсы Coca-Cola/«Корус» [conf:low, src:2026-05-25]
 - [[canon/marketing-frameworks/internal-comms-pr-framework-2026]] — фреймворк внутрикома как ответ на Great Detachment
 - [[sources/2026-05-24-condense-pressfeed-chunk2-25]] — Pressfeed condense (Gallup 31% + Сколково) [conf:low, src:2026-05-25]
+- [[sources/2026-05-19-sberuniv-pro-people-digest-april-2026]] — SberUniversity дайджест (Gallup 2025 точный срез: 20% global, 31% US/CA Roberts, 27→22% manager, $10T loss, 79% в инвестирующих) `[conf:high, src:2026-04]` [conf:low, src:2026-05-26]
+- [[canon/marketing-frameworks/four-freedoms-workplace-roberts]] — Roberts/Darden фрейм «4 свободы» как operational ответ на Gallup-2025-кризис (31% US/CA вовлечённости) [conf:low, src:2026-05-26]
+- [[canon/marketing-frameworks/ai-coordination-paradox-atlassian]] — Atlassian 80/87/89 — параллельный сигнал institutional inertia, ускоряющий engagement-кризис
+- [[canon/marketing-frameworks/fortune-best-employers-2026-psychological-safety]] — Fortune top-100: 79% engagement (как ответ на global 20%) через психобезопасность [conf:low, src:2026-05-26]
+- [[canon/marketing-frameworks/mercer-talent-trends-4-pillars-2026]] — Mercer: HR-as-architect как ответ на кризис (только 8% компаний используют HR стратегически) [conf:low, src:2026-05-26]
 
 ## Backlinks
 

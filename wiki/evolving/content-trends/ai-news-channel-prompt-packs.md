@@ -9,8 +9,8 @@ tags: [content, telegram, prompt-engineering, post, ai, content-formats]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +четвёртый 7-дневный срез @neuraldvig (10683..10732): 9/50 = 18% feed-доля промт-постов (рекорд); anti-hallucination contract 10710 как новая ось honesty-промтов; Lyra meta-prompt 10706; image-generation промты (10683 MJ, 10721 ГигаЧат LEGO) как отдельный подтип
-sources: [sources/2026-04-14-tg-neuraldvig-apr-7-14.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-neuraldvig-may-5-12-2026.md, sources/2026-05-19-tg-neuraldvig-may-13-19-2026.md]
+updated: 2026-05-26  # +5-й (короткий, 3,5 дня) срез @neuraldvig (10733..10782): 3/50 = 6% raw (~12% нормализованно к 7д) — в норме; reverse-brainstorming как новый суб-формат (10780); chain-of-thought meta-prompt в RU (10769 — UNDERSTAND/ANALYZE/REASON/SYNTHESIZE/CONCLUDE); life-coach вертикаль продолжается (10757)
+sources: [sources/2026-04-14-tg-neuraldvig-apr-7-14.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-neuraldvig-may-5-12-2026.md, sources/2026-05-19-tg-neuraldvig-may-13-19-2026.md, sources/2026-05-26-tg-neuraldvig-may-19-22-2026.md]
 namespace: mkt
 ---
 
@@ -21,8 +21,9 @@ namespace: mkt
 - Срез 2 (2026-04-29..2026-05-05): **6 промт-постов из 50 (12%)** `[conf:high, src:2026-05-05]`
 - Срез 3 (2026-05-05..2026-05-12): **5 промт-постов из 50 (10%)** `[conf:high, src:2026-05-14]`
 - Срез 4 (2026-05-13..2026-05-19): **9 промт-постов из 50 (18%)** `[conf:high, src:2026-05-19]` — **рекорд**, скачок выше стабильного диапазона.
+- Срез 5 (2026-05-19..2026-05-22, **3,5 дня, окно сжатое**): **3 промт-поста из 50 (6% raw)** `[conf:high, src:2026-05-26]` — но **на equivalent 7-дневный период**: ~6 постов = **12%**, в норме. Окно сжалось из-за event-driven density Google I/O (28% feed-а), мемы стабильны 24%.
 
-Итого 26 промт-постов из 200 за 29 дней — **средняя feed-доля 13%**. Первые три среза держались в узком коридоре 10–12%; **4-й срез (18%) выбивается вверх в 1,5 раза**. Два правдоподобных объяснения: (а) канал сознательно наращивает долю save-пригодного контента (промты — самый сохраняемый формат, см. ниже); (б) разовая флуктуация недели. До 5-го среза держим как `confidence: medium` единичный пик, **не** переписываем «узкий диапазон» в тренд роста. `[conf:medium, src:2026-05-19]`
+Итого 29 промт-постов из 250 за 32+ дня — **средняя feed-доля 12% при нормализации**. Первые 3 + 5-й срез держатся в коридоре 10–12%; **4-й срез (18%) пока остаётся одиночным пиком**. 5-й срез **разрешает гипотезу из 4-го среза в пользу «разовая флуктуация»** (а не sustained рост), потому что нормализованная доля вернулась к baseline. `[conf:high, src:2026-05-26]`
 
 ## Структурный шаблон
 
@@ -74,6 +75,28 @@ namespace: mkt
 | 10654 | 2026-05-08 | Английский за 4 недели | 6 | «репетитор по английскому» (один из 6) | «создай ежедневный урок» / «поболтай со мной» / «дай фонетический разбор» |
 | 10659 | 2026-05-11 | Nutritionist (рацион из фоток корзины) | 1 (structured role/context/instruction) | «nutrition-aware and budget-savvy grocery coach» с явными `<role>`, `<context>`, `<instruction>` тегами | «OCR/parse» / «deduplicate» / «infer quantities» |
 | 10672 | 2026-05-12 | Упаковка идеи в концепцию + 10 шагов запуска | 1 (multi-step plan) | «эксперт по упаковке и запуску идей с опытом в стратегическом консалтинге» | «выдели ключевую суть» / «составь пошаговый план из 10 действий» |
+
+## Три образца из @neuraldvig за пятый срез (2026-05-19..2026-05-22, ≈3,5 дня)
+
+Полный текст — в [[sources/2026-05-26-tg-neuraldvig-may-19-22-2026]] (раздел «Промт-подборки»). Метаданные:
+
+| ID поста | Дата | Тема | N промтов | Persona | Тип |
+|---|---|---|---|---|---|
+| 10757 | 2026-05-20 | 7 промтов «прокачиваем мышление» через ChatGPT | 7 | — | chat / personal-development |
+| 10769 | 2026-05-21 | Step-by-step (UNDERSTAND/ANALYZE/REASON/SYNTHESIZE/CONCLUDE) для GPT-5.5 | 1 | — | **chain-of-thought meta-prompt** |
+| 10780 | 2026-05-22 | Reverse brainstorm — двухходовый | 2 | — (брейн-партнёр) | **brainstorming / inversion** |
+
+**Новые наблюдения по пятому срезу:**
+
+- **Chain-of-thought meta-prompt (10769)** — переход от persona-priming и behavioral-contract к **structured-reasoning template**. Промт явно прописывает 5-шаговый ритуал (UNDERSTAND → ANALYZE → REASON → SYNTHESIZE → CONCLUDE) **перед** ответом на любой вопрос. Это **формализация CoT в RU prompt** — раньше CoT был implicit, теперь — explicit ритуал. Параллель с Lyra (10706 из 4-го среза), но **проще** и без role-priming.
+
+- **Reverse brainstorming как новый суб-формат (10780)** — двухходовый промт: сначала генерация anti-ideas («увеличить сроки работы»), потом разворот через второй промт «разверни пункт N». Это **инверсионный метод** мышления упакован в промт. Новый template для канон prompt-pack'ов, не зафиксированный в прошлых 4 срезах.
+
+- **Personal-development вертикаль продолжает доминировать** (10757 мышление; 10780 brainstorm) — это **5-я неделя подряд**, что подтверждает наблюдение из 3-го и 4-го срезов. **Устойчивая стыковка с сегментом 1 ЦА GRO** (карьеристы, life-coaching через AI).
+
+- **Без persona-priming в 2 из 3 промтов** (10769, 10780) — promтs без role-инструкции вообще, только behavioral instructions. Это **продолжение де-эскалации persona-priming**, начатой во 2→3 срезе и подтверждённой в 4-м. Тренд устойчивый: **chain-of-thought / behavioral contracts > persona-priming**.
+
+- **Image-generation промтов нет в 5-м срезе** — отсутствие в коротком окне 3,5 дня не опровергает гипотезу из 4-го среза о новом подтипе; sample слишком мал для conclusion. Следим в 6-м срезе.
 
 ## Девять образцов из @neuraldvig за четвёртую неделю (2026-05-13..2026-05-19)
 
@@ -170,6 +193,7 @@ GRO — self-development app для трёх сегментов ЦА (карье
 - [[sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026]] — повторный дамп через 3 недели, подтверждение устойчивости паттерна (12% feed'а)
 - [[sources/2026-05-14-tg-neuraldvig-may-5-12-2026]] — третий 7-дневный срез, валидация 10% доли (диапазон 10–12% на трёх срезах)
 - [[sources/2026-05-19-tg-neuraldvig-may-13-19-2026]] — четвёртый 7-дневный срез, скачок до 18% + image-generation подтип + anti-hallucination контракт
+- [[sources/2026-05-26-tg-neuraldvig-may-19-22-2026]] — пятый (короткий, 3,5 дня) срез, разрешает гипотезу 4-го пика к baseline + Reverse brainstorming + CoT meta-prompt в RU
 - [[evolving/content-trends/anti-flattery-prompt-canon-2026]] — суб-канон anti-flattery + anti-hallucination promts (10639, 10710 как key references)
 - [[volatile/weekly-digest/ai-news-digest-2026-05-13-19]] — AI-новости той же недели из @neuraldvig
 

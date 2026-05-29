@@ -9,8 +9,8 @@ tags: [market-data, personal-brand, founder-led, awareness, advocacy, russia, at
 confidence: low
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md]
+updated: 2026-05-26  # +supporting narrative-anchor от того же автора (пост 2437 «День предпринимателя» 26 мая 2026): «предприниматели — это акторы экономического развития во всем мире», подтверждает narrative-фундамент тезиса «публичный основатель = актив» — теперь сериализованная позиция в author-канале, не одноразовый промо-эссе
+sources: [sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-26-tg-fomichevkirill-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -52,9 +52,22 @@ namespace: mkt
 - Усиливает нарратив [[canon/marketing-frameworks/sarafan-growth-ceiling-pattern]]: когда сарафан упирается в потолок, публичность основателя — один из инженерных рычагов следующего роста.
 - Связка с [[evolving/product-reception/gro-productivity-energy-angle]]: личный бренд требует ресурса внимания/энергии основателя — это пересечение с ценностным предложением GRO.
 
+## Narrative-anchor: «предприниматель = актор экономического развития» (Фомичёв 2437)
+
+В дампе [[sources/2026-05-26-tg-fomichevkirill-may-20-26-2026|20–26 мая 2026]] (пост 2437 от 26 мая, праздничный essay в «День предпринимателя») тот же автор закрепляет **narrative-фундамент**, на котором держатся numeric claim'ы выше:
+
+> «Предприниматели — это одна из самых недооцененных ролей в обществе… За любым продуктом, сервисом, компанией, рабочими местами, технологиями, событиями и движением почти всегда стоит чей-то риск, бессонные ночи, ответственность и постоянная неопределенность… Предприниматели — это **акторы экономического развития** во всем мире.»
+
+**Что это даёт:** numeric claim'ы (30% быстрее / 63% платят больше) не висят в одиночестве — за ними **сериализованная narrative-позиция** автора, повторяемая в разных формах в его канале. Это сигнал, что author-channel'ы предпринимателей в RU 2026 систематически продвигают **«публичный основатель = legitimate authority-figure»** как cultural frame, на котором затем строится **commercial layer** (программы личного бренда, инвест-сообщества, образовательные продукты). [conf:low, src:2026-05-26]
+
+Для marketing-memory это означает: при использовании числовых claim'ов GRO нужно учитывать, что они embedded в более широкий cultural shift «founder-as-asset» — не нейтральная статистика, а часть **deployment narrative**, в котором заинтересованы конкретные коммерческие игроки ([[canon/marketing-frameworks/personal-brand-channels-5-types-magas|программы личного бренда]], [[evolving/content-trends/sponsored-author-channel-monetization-fomichev|sponsored author-channels]]).
+
 ## Связанные страницы
 - [[canon/positioning/attention-warfare-thesis]]
 - [[canon/marketing-frameworks/sarafan-growth-ceiling-pattern]]
+- [[canon/marketing-frameworks/entrepreneur-vs-businessman-typology-fomichev]] — типологическая основа narrative-anchor'а
 - [[evolving/industry-trends/local-media-overheated-paid-shift-2026]]
 - [[evolving/content-trends/sponsored-author-channel-monetization-fomichev]]
+- [[canon/marketing-frameworks/personal-brand-channels-5-types-magas]]
 - [[sources/2026-05-19-tg-fomichevkirill-may-14-19-2026]]
+- [[sources/2026-05-26-tg-fomichevkirill-may-20-26-2026]]

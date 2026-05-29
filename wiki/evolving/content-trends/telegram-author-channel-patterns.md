@@ -9,8 +9,8 @@ tags: [content, social, telegram, author-blogger, content-format, pr]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-19  # +recruitment-as-content под-сигнал (3537) + подтверждение ритуала «Цитата недели» через 5 недель (3538) из @hutzp 3528–3543
-sources: [sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-tg-sokolay-mar-apr-2026.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-14-tg-hutzp-may-2026-bundle.md, sources/2026-05-19-tg-boris-again-may-14-18-2026.md, sources/2026-05-19-tg-hutzp-may-14-19-2026.md]
+updated: 2026-05-26  # +5-й ingest @hutzp (3544-3567): 8-я sub-механика holiday-CSR-call без brand-marker'а в personal-founder forme (#3566), 9-я sub-механика dual-track CSR→commerce orchestrated handoff (#3566 + #3567), 4-я T-Бизнес-интеграция (designer-card #3552-3554) — partner-channel retainer как 10-я sub-механика, 10-я sub-механика «резидент-кейс через author-channel» (#3544-3545 Лун/Ганбаров)
+sources: [sources/2026-04-14-hutzp-telegram-20260402-0414.md, sources/2026-04-14-tg-sokolay-mar-apr-2026.md, sources/2026-05-05-tg-egoshin-kedprof-may-2026.md, sources/2026-05-14-tg-boris-again-may-2026.md, sources/2026-05-14-tg-hutzp-may-2026-bundle.md, sources/2026-05-19-tg-boris-again-may-14-18-2026.md, sources/2026-05-19-tg-hutzp-may-14-19-2026.md, sources/2026-05-26-tg-hutzp-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -255,6 +255,42 @@ namespace: mkt
 - **GRO-применение:** GRO может публиковать вакансии в основном канале в бренд-визуале — это employer-brand + culture-демонстрация без отдельного бюджета. Anti-pattern: сухой HR-пост «требуется X, опыт Y» вне бренд-визуала теряет весь content-эффект.
 
 **Где встраивается:** нерегулярный слот (по факту открытия вакансий), всегда в фирменном визуале, желательно с content-повод-P.S. (статья/кейс о направлении, в которое нанимают).
+
+## Sub-pattern: Holiday-CSR-call в personal-founder forme без brand-marker'а (@hutzp пост 3566, 2026-05)
+
+Восьмая под-механика — **personal-founder holiday-CSR-call без brand-marker'а и без CTA-ссылки**. В посте 3566 ([[sources/2026-05-26-tg-hutzp-may-20-26-2026]]) Давыдов публикует длинный emotional-essay ко Дню российского предпринимателя (26 мая) с **прямым CSR-call**: «хочу попросить всех вас… оставьте хороший отзыв тем классным проектам, которые каждый день делают вашу жизнь лучше». **Нет** ad-marking, нет brand-marker'а (в отличие от T-Bank-кампании в тот же день с 🔒 — см. [[canon/marketing-frameworks/holiday-piggybacking-csr-frame-day-of-entrepreneur]]), нет CTA-ссылки, нет UTM.
+
+- **Функция:** parasocial-trust building через CSR-frame; ноль конверсия, 100% identity/brand-affinity-инвестиция.
+- **Отличие от T-Bank-brand-form:** personal-founder может делать CSR-call в **чистом виде**, потому что сама фигура founder'а служит implicit anchor'ом — не нужно visual UGC-tag вроде жёлтого сердечка. У brand-аккаунта так нельзя (нужен identifier).
+- **Tone:** emotional/grave у Давыдова («слезу пустит», «не зря»). T-Bank-форма playful (низкие оценки чудес света → reframe).
+- **GRO-применение:** если GRO-founder ведёт личный канал, может делать holiday-CSR без visual marker'а. Если корпоративный @gro_me — нужен marker.
+
+## Sub-pattern: Dual-track CSR→commerce orchestrated handoff (@hutzp посты 3566 + 3567, 2026-05)
+
+Девятая под-механика — **двухпостовая последовательность в один день**: первый пост — emotional CSR-call без CTA (community-mood-builder), 2 часа спустя — commercial flash-discount offer. В кейсе #3566 (07:36 UTC, без ссылок) → #3567 (10:02 UTC, 48-часовая скидка на membership). Hold: **первый строит trust, второй конвертит ту же аудиторию**.
+
+- **Функция:** maximize conversion in holiday-anchor window не за счёт более тяжёлой sales-нагрузки, а за счёт **emotional priming** до commerce-post'а.
+- **Pacing:** ~2 часа между постами, оба в одном канале, оба в один день, оба привязаны к одному holiday-anchor'у.
+- **Anti-pattern:** если оба поста — commerce-frame (без эмоционального prep'а), конверсия проседает. Если оба — CSR (без commerce), денег нет. Точная sequencing-формула: **CSR → commerce, в этом порядке, в одном день**.
+- **GRO-применение:** на anchor-дату (World Fitness Day, World Yoga Day) — публиковать сначала community-call (без CTA), через 1-2 часа — flash-discount offer на GRO Интенсив. См. [[canon/marketing-frameworks/holiday-anchor-flash-discount-membership-window]].
+
+## Sub-pattern: Partner-channel retainer (T-Бизнес × @hutzp, апрель-май 2026)
+
+Десятая под-механика — **высокочастотные ad-marked интеграции одного партнёра через author-канал на регулярной основе**. T-Бизнес в @hutzp — **4 ad-marked интеграции за 2 месяца** (пост 3465 апрель — 50% НДС; пост 3543 май — co-sponsor встречи клуба; пост 3552-3554 май — designer-card Тито; помимо встроенных promo-карточек на встречах). Это **не разовая sponsorship**, а **partner-channel retainer** — длинное сотрудничество с регулярной частотой.
+
+- **Функция для канала:** stable revenue stream, нет необходимости каждый месяц pitch'ить новых рекламодателей.
+- **Функция для бренда:** consistent audience access + long-term creative-experiment slot (можно тестировать разные форматы — discount-promo, event-co-sponsor, product-launch — на одной audience).
+- **Risk для канала:** monopolization repuакции одним брендом. Если 30%+ ad-slots в канале — один бренд, audience начинает чувствовать «канал = ad-channel этого бренда». Mitigation: разнообразие формат интеграций (не только sale-promo).
+- **GRO-применение:** если GRO будет искать distribution через author-каналы, **искать retainer-формат с 1-2 founder-каналами** вместо разовых интеграций — это снижает CAC долгосрочно и накапливает audience-familiarity.
+
+## Sub-pattern: Resident-case через author-channel как self-marketing экосистемы (@hutzp пост 3544-3545, 2026-05)
+
+Одиннадцатая под-механика — **author-channel founder'а демонстрирует резидента собственного сообщества как proof-of-quality**. В посте 3544-3545 Давыдов рассказывает про Зульфигар Ганбарова (резидент Сообщества Изионист, основатель агентства Human First + AI sales-trainer «Лун»). Формат: 2-х параграфный куратор-комментарий + двукратная ссылка на канал резидента + frame «кейс для изучения». Не маркировано как реклама (резидент — часть собственного проекта author'а, формально это «рассказ о работе», не sponsored).
+
+- **Двухсторонний value.** Резидент получает amplification + audience-trust transfer от founder'а. Author получает proof-points «у нас интересные люди в Сообществе», что косвенно помогает membership-sales (см. [[canon/marketing-frameworks/holiday-anchor-flash-discount-membership-window]]).
+- **Frame «кейс для изучения», не «купите».** Customer-position читателя — не leads-buyer, а профессионал-изучающий. Снижает skepticism, сохраняет humane tone-of-voice.
+- **Отличие от sponsored integration:** нет ad-marking, нет erid, нет CTA на покупку. Это не реклама, это amplification экосистемного актива.
+- **GRO-применение:** если GRO когда-либо запустит membership/community-tier, demonstration кейсов резидентов через founder-канал — мощный sales-tool без прямого «купите». **Anti-pattern:** делать это **из brand-аккаунта** — теряется personal-trust transfer.
 
 ## Contradictions
 

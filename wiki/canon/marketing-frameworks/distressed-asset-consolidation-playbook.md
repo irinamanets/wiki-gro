@@ -9,12 +9,13 @@ tags: [frameworks, founder-mental-model, m-and-a, ru, growth, consolidation, cas
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-14
+updated: 2026-05-26
 sources:
   - sources/2026-05-05-yt-ilya-solovey-s7-airlines-history.md
   - sources/2026-05-05-yt-ilya-solovey-severstal-history.md
   - sources/2026-05-05-yt-ilya-solovey-porsche-history.md
   - sources/2026-05-14-yt-ilya-solovey-eldorado-history.md
+  - sources/2026-05-26-tg-portnyaginlive-20260526-122652.md
 namespace: mkt
 ---
 
@@ -239,6 +240,41 @@ Wiedeking-стратегия после успеха core-turnaround'а (1998) �
 - **Selection-bias коррекция**: до Эльдорадо все 3 кейса playbook'а были **успешными консолидаторами** (выжившие). Эльдорадо — первый кейс **с проигравшей стороны**, что частично адресует ранее отмеченный survivorship bias. Полный разбор исхода — [[canon-strict/historical-campaigns/eldorado-rise-and-fall-1994-2025]].
 
 `[conf:medium, src:2026-05-14]`
+
+## Четвёртый параллельный кейс: Тосифуми Судзуки / Seven & I Holdings — 7-Eleven (1991→2026) — cross-border distressed M&A на консьюмерской категории
+
+После 2026-05-26 ingest'а [[sources/2026-05-26-tg-portnyaginlive-20260526-122652|некролога Судзуки в @portnyaginlive]] добавлен **четвёртый parallel case** — единственный из текущих **полностью cross-border** на consumer-категории (convenience retail). См. полный разбор: [[canon-strict/historical-campaigns/seven-eleven-suzuki-takeover-1991-2026]].
+
+### Что это добавляет в матрицу
+
+| Элемент | Филёвы / Мордашов / Wiedeking | **Судзуки / 7-Eleven** |
+|---|---|---|
+| Юрисдикция актива | родная (RU / DE) | **другая страна** (JP buyer → US asset) |
+| Категория актива | B2B-инфраструктура (авиа / металл / luxury auto) | **consumer retail** (convenience store) |
+| Триггер сделки | финансовый/operational кризис актива | **банкротство американской стороны** (1991) |
+| Operating-model transformation | внутрироссийская модернизация / японский lean / Boxster | **«комбини» — переопределение категории под локальную operating culture**: convenience store → инфраструктура жизни (еда + посылки + ЖКХ + финансы + развлечения) |
+| Масштабирование после takeover | региональный roll-up | **глобальная franchise-сеть** (90% магазинов на франшизе `[conf:medium, src:2026-05-26]`, >85 000 точек в 20 странах `[conf:medium, src:2026-05-26]`) |
+| Длительность CEO-tenure | 7–13 лет | **~35 лет** (1991→2020-е) |
+
+### Что подтверждает / расширяет в playbook'е
+
+- **Cross-border distressed M&A работает** на consumer-категориях, не только на B2B-инфраструктуре (как было в Rouge Steel-параллели Северстали).
+- **Operating-model translation как core value** — Судзуки не просто купил американский актив, а **переписал operating model** под японскую культуру плотных городов и высокого доверия к ритейлу. Это формализуется как **новый возможный 7-й шаг playbook'а**: после roll-up и industry-credentials может быть **operating-model translation в новую локальную культуру** — но только для cross-border вариантов.
+- **Франшиза как scale engine** — третий sub-вариант финального масштабирования (после ownership-roll-up Филёвых и operational-rebrand'а Wiedeking'a). Operating IP + brand + supply-chain ценнее, чем direct ownership точек.
+- **Long-tenure CEO стабилизирует трансформацию** — 35 лет Судзуки vs 8 лет Филёвых до S7 rebrand'а. Эмпирически: **чем глубже cultural translation**, тем длиннее tenure CEO для стабилизации.
+
+### Sub-variant matrix (обновлено)
+
+| Sub-variant | Кейс | Юрисдикция | Категория | Финальное масштабирование |
+|---|---|---|---|---|
+| Outsider founder-CEO | Филёвы / S7 | Same-country | B2B-infra | Ownership + brand rebuild |
+| Insider founder-CEO | Мордашов / Северсталь | Same-country (+ Rouge Steel cross-border tactical) | B2B-commodity | Operational + export pivot |
+| Outsider professional-CEO | Wiedeking / Porsche | Same-country | Luxury B2C-product | Operational rebuild + capital reuse |
+| **Cross-border distressed M&A → operating translation** | **Судзуки / 7-Eleven** | **Cross-border (JP←US)** | **Consumer retail** | **Franchise scaling + category redefinition** |
+
+### Обновлённый caveat
+
+После добавления Судзуки/7-Eleven (4-й parallel case) confidence playbook'а остаётся `medium`, но **trans-cultural / cross-category validation** улучшилось: pattern переносится через 3 культуры (RU, DE, JP), 2 экономические эпохи (90-е post-Soviet + post-bankruptcy US 1991), и 2 типа категорий (B2B-infra + consumer retail). `[conf:medium, src:2026-05-26]`
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [framework, performance, roi, paid-ads, calculation]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +cross-link на hot-lead-share-kpi-vtochku (KPI горячих лидов как верх pre-launch расчёта)
-sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md, sources/2026-05-19-pressfeed-target-ads-construction-5-methods-vtochku.md]
+updated: 2026-05-26  # +cross-link на value-based-bidding (Первухин/KINETICA): pre-launch ROI + post-launch value-based bidding образуют полный operational-цикл performance 2026
+sources: [sources/2026-04-14-tg-petrochenkow-mar-apr-2026.md, sources/2026-05-19-pressfeed-chatbot-roi-framework-evseeva.md, sources/2026-05-19-pressfeed-target-ads-construction-5-methods-vtochku.md, sources/2026-05-26-dzen-delovoymir-pervukhin-funnel-5-leaks.md]
 namespace: mkt
 ---
 
@@ -94,6 +94,8 @@ Petrochenkov ссылается на простой публичный инст�
 - [[canon/marketing-frameworks/chatbot-roi-4-economic-effects]] — pre-launch ROI для automation (Евсеева).
 - [[canon/marketing-frameworks/ai-smb-pilot-three-traps]] — anti-pattern AI-внедрения (Григорьев).
 - [[evolving-strict/market-data/digital-ad-market-ru-2024-2026]] — бенчмарки CPV/CPM по каналам РФ.
+- [[canon/marketing-frameworks/value-based-bidding-vs-lead-cost]] — post-launch продолжение pre-launch ROI: передача офлайн-конверсий → алгоритм оптимизируется по выручке/прибыли, не CPL. Вместе образуют полный operational-цикл performance 2026.
+- [[canon/marketing-frameworks/pervukhin-funnel-5-leaks-diagnostic]] — post-launch диагностика 5 утечек воронки (если value-based не работает).
 
 ## См. также
 

@@ -9,8 +9,8 @@ tags: [pricing, unit-economy, agent, saas, positioning, consideration, decision]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-15
-sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md]
+updated: 2026-05-26  # +RemoveWise $2-5K/мес deepfake-takedown service (high-end service-pricing point) — Tabunov пост 636 (5-й ingest @your_pet_project)
+sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md]
 namespace: mkt
 ---
 
@@ -56,8 +56,9 @@ Reusable pricing-фреймворк для оценки «почему AI-аге
 | Бронирование смен | Таблица Excel + координатор | — | Phoebe | Высокий чек | Замена ночного координатора |
 | Консультация по похудению | Диетолог офлайн | $100–300/визит | ChatGPT/Claude проект «Похудение X» | $20/мес за подписку | Замена диетолога |
 | Дизайн мобильных UI | Freelance-дизайнер | $500–5000/проект | Sleek.design | $25–70/мес | Замена freelance-дизайнера |
+| Удаление дипфейков с платформ | YouTube self-service жалобы | 0 + время | RemoveWise | $2 000–5 000/мес | Замена legal-ассистента / PA с insider-знанием policy |
 
-Каждый ряд — реальный кейс из [[volatile-strict/industry-news/ai-solopreneur-cases-jan-apr-2026]].
+Каждый ряд — реальный кейс из [[volatile-strict/industry-news/ai-solopreneur-cases-jan-apr-2026]] или [[evolving-strict/competitor-metrics/removewise-deepfake-takedown-saas-21k-mrr]] (RemoveWise).
 
 ## Unit-economy: почему это меняет расчёт пути к MRR
 
@@ -141,7 +142,10 @@ Hook «$10 инструмент + $1000 твоего времени» — killer
 - [[evolving/industry-trends/ai-agent-economy-2026]]
 - [[volatile-strict/industry-news/ai-solopreneur-cases-jan-apr-2026]]
 - [[evolving/content-trends/your-pet-project-channel-hooks]]
+- [[evolving-strict/competitor-metrics/removewise-deepfake-takedown-saas-21k-mrr]] — RemoveWise (high-end service-pricing point: $2-5K/мес)
+- [[canon/marketing-frameworks/cold-outreach-with-found-problem-removewise]] — outreach-pattern, который делает agent-pricing достижимым для solo-founder'а
 - [[sources/2026-04-14-tg-your-pet-project-jan-apr2026]]
+- [[sources/2026-05-26-tg-your-pet-project-may-20-25-2026]] — пост 636 (RemoveWise)
 
 ## Backlinks
 

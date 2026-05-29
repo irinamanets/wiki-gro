@@ -9,8 +9,8 @@ tags: [startup, awareness, ai, product-search, decision, positioning]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md]
+updated: 2026-05-26
+sources: [sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-26-tg-temno-moreynis-may-20-26-2026.md]
 namespace: mkt
 ---
 
@@ -79,6 +79,15 @@ namespace: mkt
 
 → Платформа, которая через ИИ автоматизирует distribution экспертного knowledge (subscription paid by employer / consultancy), снимает barrier «нужно быть инфлюенсером», открывает рынок 100M+ профессионалов с экспертизой, но без социальной квалификации продавать её самим.
 
+### Дополнительные proof-points из дайджеста 20–26 мая (источник may-20-26)
+
+Дамп [[sources/2026-05-26-tg-temno-moreynis-may-20-26-2026|@temno 20–26 мая 2026]] добавляет две со-формулировки той же стратегии — раскопать невидимый рынок через снятие barrier:
+
+- **«Найди дырки, через которые утекает выручка» (пост 7850, 2026-05-24).** Лозунг «найди дырки в выручке и примени ИИ-агентов, чтобы их заткнуть» = шаблон вертикальных платформ по сферам (маркетинг, логистика, закупки, операционка). Это latent demand на **аудит и устранение потерь**, который раньше был дорог (нужен консультант) — ИИ-агент обнуляет barrier стоимости. Пара нюансов от автора: один из них «эффективно зацепляет новых клиентов», второй — «хорошо зарабатывает».
+- **«Собери самозанятых в масштабируемый бизнес» (пост 7851, 2026-05-25).** Платформа, на которой самозанятые создают и «в одно лицо» управляют нужными тебе бизнесами (цифровой аналог сети кофеен из самозанятых). Latent demand на **запуск собственного бизнеса** среди тех, кто хочет, но не делает из-за сложности — ИИ-платформа обнуляет barrier «нужны навыки и инфраструктура».
+
+Оба кейса усиливают тезис: ИИ как universal barrier-обнулитель открывает рынки, которые existing-игроки считали «маленькими».
+
 ## Связь с другими фреймовкками
 
 ### Эта рамка vs disproportionality hypothesis
@@ -124,4 +133,8 @@ GRO работает с latent demand в **личностном росте**:
 - [[canon/marketing-frameworks/loss-aversion-product-moreynis]] — другой канон-принцип Морейниса (retention) — latent demand про awareness, loss aversion про retention
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — SMB-founder как реализатор latent demand стратегии
 - [[canon/positioning/gro-value-proposition]] — позиционирование GRO в latent personal-development рынке
-- [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] — источник
+- [[canon/marketing-frameworks/rising-tide-market-timing-moreynis]] — timing-измерение: латентный спрос в фазе раннего раскрытия
+- [[canon/marketing-frameworks/necessity-over-demand-moreynis]] — необходимость + barrier комфорта как сильнейшая зона латентного спроса
+- [[canon/marketing-frameworks/make-what-people-dont-want-yet-moreynis]] — соседняя эвристика: незапрошенный (ещё не осознанный) спрос
+- [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] — источник (срез may-5-14)
+- [[sources/2026-05-26-tg-temno-moreynis-may-20-26-2026]] — источник (срез may-20-26, дополнительные proof-points)

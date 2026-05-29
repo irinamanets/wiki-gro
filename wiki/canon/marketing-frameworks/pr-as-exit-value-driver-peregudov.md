@@ -9,9 +9,10 @@ tags: [pr, branding, b2b, exit, positioning, awareness, founder-channel]
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-26  # +Канны 2026 как elite-event-attendance-proof PR-канал внутри собственного author-канала + связка с Founder Premium как long-term financial outcome
 sources:
   - sources/2026-05-19-tg-peregudov-may-15-2026.md
+  - sources/2026-05-26-tg-peregudov-may-21-26-2026.md
 namespace: mkt
 ---
 
@@ -66,6 +67,23 @@ namespace: mkt
 - **Что это значит операционно:** деловая пресса (РБК, vc.ru, Forbes), отраслевые рейтинги, выступления на инвест/EdTech-конференциях, аналитические материалы, которые читают LPs и corp-dev — это **не маркетинг-расход, а инвестиция в оценку компании**.
 - **Тайминг:** не откладывать до раунда. Бренд в деловых кругах копится годами; «докупить» перед due diligence нельзя.
 - **Связь с измерением:** дополняет [[canon/marketing-frameworks/pr-measurement-digital-footprint|цифровой след]] как операционализацию «силы бренда в деловых кругах» (что инвестор/покупатель видит, когда гуглит компанию).
+
+## Расширение: PR через elite-event-attendance в собственном author-канале (Канны 2026)
+
+В [[sources/2026-05-26-tg-peregudov-may-21-26-2026|TG-дамп 26 мая 2026, посты 446–450]] Перегудов даёт **operational example** PR-функции, целящейся в investor/buyer-аудиторию, **без посредника-СМИ**: он публикует фотоотчёт с красной дорожки Каннского фестиваля прямо в собственный Telegram-канал. Это **расширяет** изначальный принцип «PR для инвесторов/покупателей» тремя новыми сигналами:
+
+1. **Author-канал как PR-канал.** Founder с уже накопленной аудиторией не нуждается во внешнем СМИ как gatekeeper'е для proof-of-elite-network. Канал сам выступает каналом доставки PR-сигнала. Это сокращает loop «событие → публикация → читатель» с дней до часов и убирает редакторский фильтр.
+2. **Visual proof of elite-access.** Фото с Каннского пула фотографов (4 jpg, ракурсы профессиональных операторов) — это **uncopyable signal** для investor/buyer-аудитории: «founder в правильных кругах, доступ к мировым culture-event'ам». Воспроизвести такую фотку «постановочно» нельзя — формат пресс-пула диктует контекст.
+3. **Peer-association с собственным event'ом.** Перегудов прямо ставит свою конференцию **Founders for Founders** в peer-класс к Каннам («только масштабом побольше»). Это сильный positioning move — он использует elite-event PR-actor'а (Канны) как валидатор собственного PR-актива (F4F-конференция). Investor/buyer теперь видит обе площадки как «того же класса событие».
+
+Эта тактика — **специальный case** изначального принципа, не contradiction: она показывает, что **«PR в деловых кругах»** реализуем не только через релизы и колонки в Forbes, но и через **proof-of-presence в публичных elite-event'ах** + amplification через author-канал. Подробный content-pattern — [[evolving/content-trends/founder-elite-event-reportage-cannes-peregudov]].
+
+## Связь с Founder Premium
+
+Долгосрочный outcome аккуратно построенной PR-функции для investor/buyer-аудитории = [[canon/marketing-frameworks/founder-premium-as-valuation-driver-peregudov|Founder Premium]]. Перегудов в посте 453 (тот же дамп) формулирует механику: track record founder'а становится **единственным объективным параметром**, оправдывающим иррациональную премию к оценке. PR-функция, целящаяся в инвесторов с первого дня, — это **накопительная база** для построения такого track record-а в публичном домене. Без публичной видимости рынок не может построить ставку на личность.
+
+**Логическая цепочка:**
+PR на investor/buyer'ов (operational discipline) → накопление track record в публичном домене (years) → Founder Premium (valuation outcome at exit) → выше exit-multiple.
 
 ## Anti-pattern
 

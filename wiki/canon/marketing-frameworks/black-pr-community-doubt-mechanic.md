@@ -9,10 +9,11 @@ tags: [pr, community, narrative, crisis-pr, anti-pattern, reputation-management,
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-20  # +cross-link на 3-стадийную таксономию weak-signals (параллельный фреймворк для публичного инфополя, Pressfeed 2026-05)
+updated: 2026-05-27  # +cross-link на toxicity-as-technology (3 механики токсичности как sister-фреймворк с фокусом на эмоциональные механики vs questioning-pattern); +digital-immunity (защитный layer для отзывов и SEO-атак)
 sources:
   - sources/2026-05-18-pressfeed-black-pr-community-doubt.md
   - sources/2026-05-19-pressfeed-mediamonitoring-prognozirovanie-weak-signals.md
+  - sources/2026-05-27-condense-news-pressfeed-43-articles.md
 namespace: mkt
 ---
 
@@ -170,6 +171,9 @@ Operational-фреймворк, описывающий, как **управля�
 - [[canon/marketing-frameworks/infopovod-criteria-smb-pr]] — критерии инфоповода (та же механика в атаке)
 - [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]] — community как long-game asset (Рыбаков)
 - [[canon/target-audience/gro-segments]] — целевые сегменты GRO
+- [[canon/marketing-frameworks/toxicity-as-technology-3-mechanics]] — sister-фреймворк: 3 эмоциональные механики токсичности (маскировка цели + плохая похвала + слухи без доказательств) + 4 механизма защиты через прямые вопросы. Дополняет questioning-pattern страницы эмоциональным layer'ом
+- [[canon/marketing-frameworks/digital-immunity-fake-review-defense]] — defense layer для конкретных платформ (отзывы, SEO-атаки); Сухоруких 5+2 model
+- [[canon/marketing-frameworks/serm-3-strategies-content-islands]] — SERM как поисковый layer ротации негатива
 
 ## Contradictions
 

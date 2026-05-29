@@ -9,8 +9,8 @@ tags: [marketplace, influencer-marketing, paradox, awareness]
 confidence: low
 stale: false
 created: 2026-04-27
-updated: 2026-05-22  # +Mavrck data-point (Горный 5071, 2026-05-16): крупнейший игрок ($300M raised) — agency-tool, НЕ маркетплейс; structural confirmation гипотез через winners. Prior: +Ogilvy 2026 measurement gap (50%/44%)
-sources: [sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-peregudov-jan-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md]
+updated: 2026-05-27  # +vc.ru / Спиридонов 2026-05-26: «инфлюенс-маркетинг сдувается» (продажи у крупных инфлюенсеров на плато/спаде, рекомендация — микроинфлюенсеры). Prior: +Mavrck data-point (Горный 5071, 2026-05-16); +Ogilvy 2026 measurement gap (50%/44%)
+sources: [sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-peregudov-jan-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md, sources/2026-05-27-condense-web-vc-ru-145-articles.md]
 namespace: mkt
 ---
 
@@ -118,6 +118,23 @@ Ogilvy Influencer Trends 2026 (Cossa 23127, 2026-05-12) даёт **первое 
 **Следствие:** гипотезы #1 (hyperpersonalization gap), #3 (двойная ценность блогера как media) и #4 (custom-deal premium) получают **structural confirmation через winners** — рынок не остался без решения, он **обошёл** marketplace-формат через agency-tooling. Категория не «не работает» — она **работает в другой форме**.
 
 `confidence` остаётся `medium` (теперь triangulation из четырёх: Горный-наблюдение, Ogilvy-measurement-gap, Перегудов/Creally-обход, Mavrck-market-leader-архетип).
+
+## Update 2026-05-27 — vc.ru / Спиридонов: «инфлюенс-маркетинг сдувается»
+
+Спиридонов в исследовании 2023-2026 трендов потребительского рынка (vc.ru/id79772_2249673, ретранслирует индустриальный отчёт без явной атрибуции) формулирует:
+
+> Инфлюенс-маркетинг сдувается: продажи у крупных инфлюенсеров **вышли на плато или идут вниз**; уровень доверия к ним сравнялся с политиками и поп-звёздами. Рекомендация — делать ставку на **микроинфлюенсеров и практиков** с вовлечённой аудиторией и экспертным контентом.
+
+**Это не противоречит** marketplace-failure-paradox'у, а **дополняет** его на demand-стороне:
+
+- **Marketplace failure** — supply-side проблема: рынок не может эффективно сводить блогеров и брендов через биржу (gaps по hyperpersonalization, reputation, measurement).
+- **Trust erosion крупных инфлюенсеров** — demand-side проблема: даже direct-deal с крупным блогером даёт **снижающийся ROI**, потому что аудитория к нему **меньше прислушивается** (сравнялась с политиками и поп-звёздами).
+
+Совмещение двух сигналов даёт **новую гипотезу #6:**
+
+6. **Demand-side erosion** — рынок не может построить marketplace **частично потому**, что сам product (large-influencer ad) теряет ценность. Marketplace маленьких блогеров (микроинфлюенсеров) тем более не нужен — у них **отношения 1:1 с аудиторией**, которые маркетплейс ломает.
+
+**Migration-вывод (Спиридонов):** успешный influencer-marketing 2026 = **direct-deal с микроинфлюенсерами и nишевыми экспертами**, не marketplace и не агенство с крупными звёздами. Это сильно поддерживает **agency-tool-archetype** (Mavrck, Creally) как **единственную работающую инфраструктурную модель** в категории.
 
 ## TTL и возможный promotion
 

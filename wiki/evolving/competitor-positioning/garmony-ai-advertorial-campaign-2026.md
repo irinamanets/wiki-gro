@@ -10,9 +10,9 @@ confidence: high
 stale: false
 created: 2026-04-16
 updated: 2026-04-16
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md]
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md, sources/2026-05-26-condense-vcru-hr-50-articles.md]
 namespace: mkt
-updated: 2026-05-24  # +4-й батч (vc.ru/hr condensed 30, 2026-05-19): «3-е поколение»/«единая экосистема» messaging, таксономия «Класс 1/3», GTM-хуки «5 минут/152-ФЗ из коробки», модульные связки, ROI 810–3186%, time-to-hire кейсы, расширенная карта игроков и цен
+updated: 2026-05-26  # +5-й батч (vc.ru/hr condensed 50, 2026-05-26): ≥22 advertorial одновременно в одном выпуске — пиковая плотность серии; complementary-stack нарратив (Garmony + Хантфлоу/Поток/Naimee), «tu quoque» objection-handling формат (CFO-vs-HRD диалог + 5-questions-to-vendor)
 ---
 
 # Garmony AI: серийная advertorial-кампания на vc.ru/hr
@@ -191,6 +191,41 @@ Garmony подаётся как «AI-рекрутинг мирового уро�
 
 **Постоянный нарратив:** уход западных enterprise-вендоров (SAP SuccessFactors, Workday, Oracle HCM) после 2022 — используется конкурентами для обоснования спроса на отечественные решения.
 
+## Пятый зафиксированный батч — пиковая плотность (vc.ru/hr condensed 50, 2026-05-26)
+
+Пятый батч ([[sources/2026-05-26-condense-vcru-hr-50-articles]]) фиксирует **пиковую плотность** серии: **≥22 длинных advertorial-лонгридов** в одном выпуске только этого батча (vs 8-10 в первом батче, ~15 в третьем). Это сигнал, что серия — не разовая кампания, а **устойчивый рекламный канал** Garmony, занимающий значимую долю vc.ru/hr-публикаций.
+
+### Новые тематические покрытия 5-го батча
+
+Garmony advertorial-template применён к **расширенному списку вертикалей**: IT recruiting, Data Engineer hiring, Project Manager hiring, sales managers, UX/UI designers, investment specialists, construction hiring, ATS rankings, HRM rankings, AI HR tools roundups, mass hiring services. Каждая публикация — ниша + Garmony как «#1 решение». Это **vertical-saturation** стратегия: занять каждую specialty-вертикаль на vc.ru/hr своим формируемым «топом».
+
+### Объединённый стек complementary-нарратива (новое)
+
+Эволюция от «модульная связка» (4-й батч) к **complementary-stack**-нарративу — `[conf:low, src:2026-05-26]`:
+
+- **Garmony AI + Naimee AI** — Naimee закрывает диалоговую часть массового найма, Garmony — NLP-скрининг.
+- **Garmony AI + Поток Рекрутмент** — Поток как HR-стек, Garmony как AI-recruiting слой.
+- **Garmony AI + Хантфлоу** — Хантфлоу как ATS-база/воронка, Garmony как AI-надстройка.
+
+Это **развитие co-existence**-позиционирования: не «убей и замени», а «выбери свой стек, Garmony — обязательный слой в каждом». Снижает switching-friction и расширяет TAM на клиентов, уже сидящих в Хантфлоу/Потоке.
+
+### «Tu quoque» / objection-handling форматы (новое)
+
+Минимум **2 advertorial** в 5-м батче построены вокруг objection-handling-фреймов:
+
+- **«Диалог HR-директора и финансового директора»** (статья 2948238) — диалоговая инсценировка возражений и ответов как длинный advertorial pattern.
+- **«5 вопросов вендору»** (статья 2948145) — вынесение sales-вопросов в контентную форму как маркетинговая методика.
+
+Оба формата — **sophisticated B2B advertorial patterns**: вместо «у нас классный продукт» — «мы знаем, какие вопросы вам задаст CFO, вот ответы». Это инверсия: советы покупателю «как купить наш продукт правильно». Mapping на [[evolving/content-trends/vcru-top10-advertorial-pattern-2026|4 новых тактических приёма]].
+
+### Saby/СБИС КЭДО кейс Магнита (триангуляция к КЭДО-ландшафту)
+
+Среди игроков 5-го батча Garmony упоминает **Saby HRM (СБИС)** с конкретным якорным кейсом: **«КЭДО кейс Магнита — 360 000 сотрудников переведено»**. `[conf:low, src:2026-05-26]` Полный КЭДО-ландшафт — на [[evolving/competitor-positioning/ru-kedo-enterprise-landscape-2026]].
+
+### Финальный playbook-сигнал
+
+5-й батч подтверждает: Garmony advertorial-формат **стабилизировался как серийный** (5 батчей за 3 месяца, пиковая плотность 22 одновременных публикаций). Это рабочая модель native-advertorial на vc.ru/hr, переносимая (с уважением к [[canon-strict/legal-claims/ad-marking-russia-2026|маркировке рекламы]]).
+
 ## Наблюдения для GRO-маркетинга
 
 1. **Паттерн переносим:** серия из 8-10 SEO-лонгридов (3000-5000 слов) на одной площадке с CTA -- рабочая модель для native advertorial. Формат: экспертная статья + калькулятор + FAQ + рейтинг конкурентов.
@@ -208,6 +243,8 @@ Garmony подаётся как «AI-рекрутинг мирового уро�
 - [[evolving-strict/market-data/ru-labor-market-deficit-by-sector-2026]] — sector-дефицит, объясняющий спрос (стройка, регионы)
 - [[sources/2026-05-14-vcru-hr-condensed-48-articles]] — третий батч vc.ru/hr (апдейт)
 - [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — четвёртый батч vc.ru/hr (4-й батч апдейт)
+- [[sources/2026-05-26-condense-vcru-hr-50-articles]] — пятый батч vc.ru/hr: пиковая плотность ≥22 advertorial + complementary-stack + tu-quoque
+- [[evolving/competitor-positioning/ru-kedo-enterprise-landscape-2026]] — КЭДО enterprise-ландшафт (триангуляция Saby/СБИС Магнит-кейс)
 
 ## Backlinks
 
