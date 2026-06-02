@@ -9,8 +9,8 @@ tags: [paid-ads, b2b, avito, ru, targeting, performance, channel, marketplace]
 confidence: medium
 stale: false
 created: 2026-05-28
-updated: 2026-05-28
-sources: [sources/2026-05-26-tg-howtomake10x-may-20-26-2026.md]
+updated: 2026-05-30  # +2-е независимое наблюдение того же креатива на @startupoftheday (пост 5093, рекламодатель kEX еКоммерц ИНН 7710668349) — подтверждает cross-channel native-ad distribution
+sources: [sources/2026-05-26-tg-howtomake10x-may-20-26-2026.md, sources/2026-05-30-tg-startupoftheday-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -104,8 +104,9 @@ Avito Реклама заявляет следующую B2B-targeting decomposi
 
 Cross-channel observation:
 
-- **Пост 1581 (этот замер)** — Avito Реклама как native-ad на @howtomake10x (Krylov). erid-marked, профессиональный креатив.
-- Это **distribution-strategy Avito Реклама** — не только реклама на Avito, но и **PR/native-ads** на author-каналах с founder-audience.
+- **Пост 1581 (1-е наблюдение)** — Avito Реклама как native-ad на @howtomake10x (Krylov). erid-marked, профессиональный креатив. Рекламодатель ООО «kEX еКоммерц» (ИНН 7710668349, erid 2SDnEvsCHU).
+- **Пост 5093 @startupoftheday (2-е наблюдение, 2026-05-28)** — тот же месседжинг («Найдём клиентов для b2b-продаж»), та же 6-параметрическая сетка, те же 3 кейса (ВкусВилл/TG-канал/ВТБ), **тот же рекламодатель kEX еКоммерц (ИНН 7710668349)**, erid 2SDpebCNU (см. [[sources/2026-05-30-tg-startupoftheday-may-26-29-2026]]). Креатив-баннер: чёрно-зелёный, «Запустить рекламу», иллюстрации (кошелёк с картой, спецтехника, портфель). `[conf:medium, src:2026-05-28]`
+- Это **distribution-strategy Avito Реклама** — не только реклама на Avito, но и **PR/native-ads** на author-каналах с founder-audience. **Подтверждено на 2 независимых каналах** (@howtomake10x + @startupoftheday) с идентичным рекламодателем — это системная закупка native-инвентаря у founder-каналов, не разовая интеграция.
 - Cross-link: [[evolving/content-trends/sponsored-author-channel-monetization-fomichev]] — параллельная картина sponsored-content на Фомичёв-канале. Avito Реклама может также появляться там — нужен следующий sweep.
 
 ## Применение для GRO
@@ -140,6 +141,7 @@ GRO для B2B-pivot'а на agency/корп-команды-сегмент мо�
 ## Связанные страницы
 
 - [[sources/2026-05-26-tg-howtomake10x-may-20-26-2026]] — первичный источник (пост 1581, Avito-native-ad)
+- [[sources/2026-05-30-tg-startupoftheday-may-26-29-2026]] — 2-е независимое наблюдение (пост 5093, тот же рекламодатель kEX еКоммерц)
 - [[canon/marketing-frameworks/petrochenkov-2026-q2-channel-priority]] — ranked list альтернативных RU-каналов (Email/SMS/VK/Avito/MAX)
 - [[evolving-strict/campaign-metrics/max-messenger-channel-economics-2026]] — competing channel economics (MAX-Messenger CPA 244 ₽)
 - [[volatile-strict/industry-news/yandex-direct-max-messenger-ads-beta-2026-05]] — Yandex×MAX inventory expansion (другой B2B-related news)

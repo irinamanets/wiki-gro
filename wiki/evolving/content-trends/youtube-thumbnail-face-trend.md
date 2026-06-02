@@ -9,8 +9,8 @@ tags: [content, youtube, video, thumbnail, ctr, ab-testing, mrbeast, case-study]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-14
-sources: [sources/2026-04-14-tg-dnative-digest-7497-7546.md]
+updated: 2026-06-01  # +counter-exemplar talking-head podcast cover (@sokolay × 2ГИС)
+sources: [sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-06-01-tg-sokolay-media-group-3647-3673.md]
 namespace: mkt
 ---
 
@@ -54,6 +54,12 @@ namespace: mkt
 2. **Первый коррекционный шаг делают те, у кого есть данные для A/B-тестов.** Мелкие каналы — пассивные копировщики на один шаг позади.
 3. **Для ноунейма лица обложка — плохая ставка.** Эпплби/dnative: лица работают для уже медийных, ноунейму лучше показать суть видео и сюжет.
 
+## Counter-exemplar: talking-head podcast cover (анти-YouTube-Face)
+
+Обложка подкаст-выпуска @sokolay × А. Сысоев (2ГИС), 2026-06-01, — наблюдаемый **антипод** YouTube-Face-жанра в нише интервью-подкастов (см. [[sources/2026-06-01-tg-sokolay-media-group-3647-3673]], изображение 3658). Композиция намеренно отказывается от гиперэмоции: два **статичных нейтральных портрета** (ведущий + гость) на тёмном фоне, без открытого рта и без «шока». Click-драйвер вынесен в **типографику** — провокационный framing-вопрос крупным шрифтом («КАК ВЫЖИТЬ РЯДОМ С ЯНДЕКСОМ?», одно слово на жёлтой плашке) + credential-подпись гостя с бренд-лого.
+
+**Почему это работает в интервью-нише, а не reaction-нише:** для подкаста с известным гостем «серьёзный взрослый разговор» — более достоверный сигнал, чем гиперэмоция, которая читалась бы как клик-бейт. Лицо здесь — носитель **узнавания** (если гость медийный), а не носитель эмоции. Это согласуется с правилом «сюжет/суть > эмоция» (ниже): в интервью «суть» = провокационный тезис в типографике + регалии гостя.
+
 ## Маркетинговая рамка для GRO
 
 - **Видео и reels GRO не должны играть в YouTube Face по умолчанию.** Это отраслевой сигнал «очередной блогер с очередным мнением», который не выделяет бренд.
@@ -64,6 +70,8 @@ namespace: mkt
 ## Связанные страницы
 
 - [[sources/2026-04-14-tg-dnative-digest-7497-7546]]
+- [[sources/2026-06-01-tg-sokolay-media-group-3647-3673]] — counter-exemplar talking-head podcast cover
+- [[evolving/content-trends/podcast-driven-author-channel-patterns]] — где живёт Фаза 3 thumbnail-шаблон
 - [[evolving/content-trends/vk-shopsy-creator-playbook]]
 - [[canon/brand-guidelines/gro-typography]]
 - [[evolving-strict/market-data/wciom-ad-perception-russia-2026]]

@@ -9,8 +9,8 @@ tags: [competitor, business-education, telegram, personal-brand, community, mast
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +седьмой ingest (7489-7500, 19-25 мая): AI-voice phone agent клон голоса как mentor-as-product, запуск еженедельного YouTube-vlog «Гребенюк Live» (20к/5ч + 72% органики), ментор-философия 51%, инфляционный калибровщик 1M ₽ как content-frame
-sources: [sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-30-tg-grebenukm-apr-16-29-2026.md, sources/2026-05-05-tg-grebenukm-apr-may-2026.md, sources/2026-05-06-yt-tokovinin-family-money-law.md, sources/2026-05-14-tg-grebenukm-may-2026.md, sources/2026-05-19-tg-grebenukm-may-14-19-2026.md, sources/2026-05-26-tg-grebenukm-may-19-25-2026.md]
+updated: 2026-05-30  # +восьмой ingest (7501-7506, 26-29 мая): заявка на премию #МЫВМЕСТЕ «Наставник года», продолжение влога «Гребенюк Live» (on-location в ЕС-клинике, симуляция клиентского пути)
+sources: [sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-30-tg-grebenukm-apr-16-29-2026.md, sources/2026-05-05-tg-grebenukm-apr-may-2026.md, sources/2026-05-06-yt-tokovinin-family-money-law.md, sources/2026-05-14-tg-grebenukm-may-2026.md, sources/2026-05-19-tg-grebenukm-may-14-19-2026.md, sources/2026-05-26-tg-grebenukm-may-19-25-2026.md, sources/2026-05-30-tg-grebenukm-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -446,6 +446,16 @@ Tokovinin counter-frame встроен в long-form-видео (29 минут), 
 ### Видео pending (whisper не запускался)
 
 3 видео из этого дампа (7493, 7496, 7498) не транскрибированы — prepare-media.py не запускался для этого батча. Captions присутствуют только у 7498 (анонс первой серии «Гребенюк Live»). Дозаполнение через `wiki-ingest --enrich [[sources/2026-05-26-tg-grebenukm-may-19-25-2026]]` после batch prepare-media.py.
+
+## Апдейт май 2026 — 8-й ingest: продолжение влога + mentor-award positioning (ingest 2026-05-30)
+
+Восьмой дамп (7501–7506, 26–29 мая, см. [[sources/2026-05-30-tg-grebenukm-may-26-29-2026]]) — короткий, без новой продуктовой фактуры, но фиксирует два continuity-сигнала позиционирования:
+
+- **Mentor-award positioning через #МЫВМЕСТЕ.** Гребенюк подал заявку на международную премию #МЫВМЕСТЕ-2026 в номинации «Наставник года» (пост 7501, дедлайн 14 июня). Это **внешняя легитимация mentor-identity** через государственно-окрашенную премию — согласуется с mentor-философией «51% правоты» ([[canon/marketing-frameworks/grebenyuk-mentor-51-percent-heuristic]]) и moral-imperative-рамкой «сильные обязаны помогать слабым». Award-participation как PR-сигнал, не результат — `confidence: low`.
+
+- **Влог «Гребенюк Live» переходит к field-content.** Канал продолжает съёмку on-location внутри plot device (ЕС-клиника): пост 7504 — симуляция клиентского пути командой клиники, снятая для влога. Подтверждает, что новый distribution channel движения «НАДО» (запущен 2026-05-25) набирает continuity-фактуру. Подробный разбор продолжения формата — [[evolving/content-trends/founder-weekly-vlog-launch-grebenyuk-live]].
+
+ЕС-клиника (медицинский Family Office как high-stakes-вертикаль и vlog plot device) подтверждена как активный фокус founder'а: «3 дня до первых живых встреч с клиентами» (7503) → визит в офис (7504).
 
 ## Contradictions
 

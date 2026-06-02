@@ -9,12 +9,13 @@ tags: [prioritization, sales, retention, focus, distribution]
 confidence: low
 stale: false
 created: 2026-05-05
-updated: 2026-05-25  # +Давлатов «идеальные клиенты» (20%=120% прибыли) — практик-инстанцирование key-accounts в кризис
+updated: 2026-06-01  # +Спиридонов content-channel инстанцирование Парето (малая часть контента даёт львиную долю интереса/вовлечённости) — vc.ru/id79772. Prior — +Давлатов «идеальные клиенты» (20%=120% прибыли)
 sources:
   - sources/2026-05-05-e-xecutive-ru-condensed.md
   - sources/2026-05-05-exec-pravilo-pareto.md
   - sources/2026-05-05-yt-spiridonov-signal-noise-essentialism.md
   - sources/2026-05-25-yt-hartmann-davlatov-survive-losses.md
+  - sources/2026-06-01-vc-spiridonov-luchshie-stati-iyulya.md
 namespace: mkt
 ---
 
@@ -94,8 +95,15 @@ namespace: mkt
 
 Это усиливает раздел «Применимость к GRO → Sales focus» (dedicated менеджер на топ-20%) и связывает Парето с кризисным управлением: в кризис фокус на идеальных клиентах — часть жизнеобеспечения (см. [[canon/marketing-frameworks/key-people-preservation-crisis-davlatov]], где идеальные клиенты идут в паре с ключевыми сотрудниками). **Caveat (важно):** не противоречит разделу «Caveat применения» выше — long-tail сегодня может быть top-20% завтра; «идеальные клиенты» — снимок текущей экономики, не приговор хвосту.
 
+## Content-channel инстанцирование (Спиридонов, 2026)
+
+По наблюдению Максима Спиридонова (verified expert, [[sources/2026-06-01-vc-spiridonov-luchshie-stati-iyulya]]), **закон Парето работает в контент-канале**: небольшая часть контента генерирует львиную долю интереса и вовлечённости. Это прямое инстанцирование раздела «Применимость к GRO → Контент» выше (20% статей/постов → 80% трафика), сформулированное практиком контент-канала.
+
+**Операционный вывод для GRO:** не распределять промо-усилия равномерно — выявлять топ-перформеры контента (по engagement/трафику) и усиливать именно их (репостинг, переупаковка в другие форматы, paid-промо). Хвост контента — органический SEO/архив без push. Связано с наблюдением Спиридонова «находиться в среде растущих компаний» (среда как фактор отбора сигнала) — см. [[canon/marketing-frameworks/spiridonov-three-engagement-formats]].
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — Спиридонов как эксперт-источник (среда/нетворкинг, форматы вовлечения)
 - [[canon/marketing-frameworks/key-people-preservation-crisis-davlatov]] — идеальные клиенты + ключевые сотрудники как парное ядро жизнеобеспечения в кризис (Давлатов)
 - [[canon/marketing-frameworks/bubble-chart-prioritization]] — приоритизация мероприятий с тремя осями (рейтинг × время × стоимость), развитие Парето-логики
 - [[canon/marketing-frameworks/funnel-simplicity-principle]] — фокус на том что реально работает в воронке

@@ -9,10 +9,11 @@ tags: [agentic-commerce, stripe, acp, stablecoin, api, b2b, payments, ycp, alice
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-18  # +Pressfeed/PRAGMATIX (май 2026): OpenAI×Stripe ChatGPT checkout запущен, YCP RU-аналог + Алиса «Найти дешевле», SAP Joule Tender Analysis Agent, McKinsey $3-5T 2030, Gartner 90% B2B 2028 $15T
+updated: 2026-05-30  # +@techno_yandex (май 2026): «Торговец» как маркетинговый персонаж Алисы «Найти дешевле» / Perplexity Shopping — consumer-facing промо L2-агента
 sources:
   - sources/2026-04-14-peregudov-telegram-dec25-apr26.md
   - sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md
+  - sources/2026-05-30-tg-techno-yandex-may-26-30-2026.md
 namespace: mkt
 ---
 
@@ -100,6 +101,12 @@ Stripe в марте 2026 выпустила отчёт с концептуал�
 
 McKinsey-цифра ($3-5T/год к 2030) дополняет цифру Stripe-2025 ($2T обработано, $400 млрд стейблкоинами) **prognoz-trajectory'ей** — Stripe сейчас уже больше 50% McKinsey-target минимума ($3T).
 
+### Update 2026-05-30 — consumer-facing промо L2-агента (@techno_yandex)
+
+@techno_yandex (карусель «В мире агентов», пост 5276, 2026-05-27) показывает, что Яндекс **маркетит L2-shopping-агента широкой аудитории как персонажа**: архетип «Торговец» (маскот-куница с QR-кодами и посылками), чьи «известные подвиды» — **«Найти дешевле» в Алисе AI и Perplexity Shopping**. Это сигнал, что L2-агенты вышли из «emerging» в потребительский маркетинг — бренд продвигает их как понятную «личность», а не функцию. Контент-приём разобран в [[evolving/content-trends/ai-agent-persona-mascot-design-2026]].
+
+**Следствие для GRO:** если L2-агенты теперь рекламируются как персонажи массовой аудитории, осведомлённость пользователей о «спроси агента, что купить» растёт быстрее ожиданий → машиночитаемость листингов GRO становится приоритетом раньше, чем по прогнозу апрель-2027.
+
 ### Связь с продуктовым data-сдвигом
 
 PRAGMATIX/Pressfeed артикулирует **новый структурный слой** в agentic commerce: после видимости (GEO/AEO) идёт **отбор по structured data**. Это разобрано в [[evolving/industry-trends/ai-search-product-discovery-layer-2026]] и [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]].
@@ -116,8 +123,10 @@ PRAGMATIX/Pressfeed артикулирует **новый структурный
 - [[volatile-strict/industry-news/openai-stripe-chatgpt-checkout-2026-05]] — L2 в production (global)
 - [[volatile-strict/industry-news/yandex-alice-find-cheaper-agent-2026-05]] — L2 в production (RU) + YCP протокол
 - [[volatile-strict/industry-news/sap-joule-tender-analysis-agent-2026]] — B2B agent в production
+- [[evolving/content-trends/ai-agent-persona-mascot-design-2026]] — «Торговец» как маркетинговый персонаж L2-агента
 - [[sources/2026-04-14-peregudov-telegram-dec25-apr26]] — первоисточник (пересказ Перегудова).
 - [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] — Pressfeed/PRAGMATIX май 2026 (данные > лендинг)
+- [[sources/2026-05-30-tg-techno-yandex-may-26-30-2026]] — @techno_yandex (consumer-facing промо L2-агента)
 
 ## Contradictions
 

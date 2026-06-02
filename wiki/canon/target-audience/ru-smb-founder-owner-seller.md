@@ -9,8 +9,8 @@ tags: [smb, founder, sales, russia, segment]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-28  # +1M ₽/мес inflation-anchored ladder (Гребенюк 7497) как income-tier калибровщик для messaging-сегментации
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-16-zhazhda-biz-lifestyle-kogda-brat-dengi-investora-2427f149.md, sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md, sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom.md, sources/2026-04-16-zhazhda-biz-lifestyle-stoit-li-pokupat-gotovyj-biznes-c44f319d.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-neskuchnye-finansy-avtomoyka-avito-razbor.md, sources/2026-05-05-yt-neskuchnye-finansy-salon-krasoty-avito-razbor.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-rental-couriers.md, sources/2026-05-06-yt-uVD3QAoiLF0-hartmann-agalarov.md, sources/2026-05-05-yt-margulan-six-toxic-types.md, sources/2026-05-05-yt-margulan-vicious-circle.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-month4-bilanc.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-06-yt-tokovinin-no-need-to-think-ai.md, sources/2026-05-05-yt-tokovinin-economic-crisis.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-05-yt-batyrev-management-news-mar1-15.md, sources/2026-05-05-yt-predprinimatel-dela-sv-mebel-factory-tour.md, sources/2026-05-05-yt-predprinimatel-dela-vasilyev-erp-google-sheets.md, sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels.md, sources/2026-05-14-zhazhda-biz-lifestyle-premii-dlja-predprinimatelej-v-rossii.md, sources/2026-05-14-zhazhda-online-booking-services-evergreen-2016.md, sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016.md, sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-26-tg-forbesrussia-may-8-11-2026.md, sources/2026-05-26-tg-grebenukm-may-19-25-2026.md]
+updated: 2026-05-31  # +RU SMB-owner pains & психология (zhazhda.biz condensed); +4 боли привлечения клиентов (НСПК @moibiz 7603); +регуляторно-комплаенсная боль (@ofd24): маркировка косметики салонов, ТС ПИоТ 5-10к ₽/год/касса, ФНС-рейды; +налоговая/НДС-нагрузка (ОПОРА 7266/7279, Челябинск 34% переход на НДС)
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-04-16-zhazhda-biz-lifestyle-kogda-brat-dengi-investora-2427f149.md, sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md, sources/2026-04-16-zhazhda-biz-lifestyle-rossijane-postroivshie-biznes-za-rubezhom.md, sources/2026-04-16-zhazhda-biz-lifestyle-stoit-li-pokupat-gotovyj-biznes-c44f319d.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-neskuchnye-finansy-avtomoyka-avito-razbor.md, sources/2026-05-05-yt-neskuchnye-finansy-salon-krasoty-avito-razbor.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-rental-couriers.md, sources/2026-05-06-yt-uVD3QAoiLF0-hartmann-agalarov.md, sources/2026-05-05-yt-margulan-six-toxic-types.md, sources/2026-05-05-yt-margulan-vicious-circle.md, sources/2026-05-05-yt-biznes-s-nulya-electrobike-month4-bilanc.md, sources/2026-05-05-yt-spiridonov-tholai-metro-7-crises.md, sources/2026-05-06-yt-spiridonov-housel-psychology-of-money.md, sources/2026-05-06-yt-spiridonov-godin-dip-framework.md, sources/2026-05-06-yt-tokovinin-no-need-to-think-ai.md, sources/2026-05-05-yt-tokovinin-economic-crisis.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-05-yt-batyrev-management-news-mar1-15.md, sources/2026-05-05-yt-predprinimatel-dela-sv-mebel-factory-tour.md, sources/2026-05-05-yt-predprinimatel-dela-vasilyev-erp-google-sheets.md, sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-dzen-delovoymir-marketplace-independent-channels.md, sources/2026-05-14-zhazhda-biz-lifestyle-premii-dlja-predprinimatelej-v-rossii.md, sources/2026-05-14-zhazhda-online-booking-services-evergreen-2016.md, sources/2026-05-16-zhazhda-task-manager-business-evergreen-2016.md, sources/2026-05-19-pressfeed-pr-readiness-10-signals-checklist.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-26-tg-forbesrussia-may-8-11-2026.md, sources/2026-05-26-tg-grebenukm-may-19-25-2026.md, sources/2026-05-31-condense-zhazhda-biz-50-articles.md, sources/2026-05-30-tg-moibiz-may-26-29-2026.md, sources/2026-05-30-tg-ofd24-may-26-29-2026.md, sources/2026-05-30-tg-opora-russia-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -99,6 +99,39 @@ namespace: mkt
 3. **«100 сделок в воронке и я не знаю почему они не закрываются»** — ощущение, что система сломана, но нет bandwidth чтобы разобраться.
 4. **Страх потерять команду** — субсидирует зарплаты из личных средств.
 5. **Дежавю «в прошлый кризис я справился»** — и параллельное ощущение «но на этот раз другое».
+6. **Регуляторно-комплаенсная перегрузка** (структурный, не только Q1) — параллельные фискальные дедлайны и затраты бьют по владельцу одновременно: маркировка новых товарных групп (косметика в салонах с 1 июля 2026), ТС ПИоТ к каждой кассе (платные варианты 5–10 тыс ₽/год за кассу), активизация ФНС-рейдов перед сезоном. Это **прямая operational боль здесь и сейчас** для торговли/общепита/услуг-сегмента. Полная карта давлений — [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] (вектор 7).
+
+## RU SMB-owner pains & психология (zhazhda.biz condensed, мид-2010-е baseline)
+
+Источник: [[sources/2026-05-31-condense-zhazhda-biz-50-articles]] — 50 статей блог-портала zhazhda.biz, авторы не верифицированы → `confidence: low`, атрибуция к источнику. Полезно как **исторический baseline** psychology сегмента (мид-2010-е), который остаётся узнаваемым в 2026.
+
+- **Переоценка сарафана**: начинающие предприниматели систематически переполагаются на «сарафанное радио» и не закладывают платную рекламу в первоначальный план → провал. (Усиливает структурный паттерн «потолок сарафана» как давнюю, дотренинговую черту сегмента.)
+- **Типовые pains**: пренебрежение compliance/проверками, страх кредитного финансирования, нет чёткого разделения зон ответственности между партнёрами, преждевременные lifestyle-траты до реальной прибыли, затягивание закрытия убыточных проектов, попытка угодить всем (нет ЦА-фокуса).
+- **«Я же не маркетолог»** — повторяющаяся аудиторная объекция к работе по самопродвижению; соло-предприниматель («и швец, и жнец») тонет в клиентских проектах и забрасывает собственный бренд.
+- **Конфликт ролей при найме**: ожидание, что один дешёвый «маркетолог» закроет наполнение сайта, фотосъёмку, копирайтинг, соцсети И продажи в CRM — см. анти-паттерн [[canon/marketing-frameworks/marketing-team-role-taxonomy-smb]].
+- **Founder-mindset сигналы**: те, кто ставит нефинансовые цели («продукт, которым пользуется миллион»), достигают больше, чем гонящиеся за чистой цифрой дохода; conviction как go/no-go-эвристика — если основатель спрашивает «пойдёт ли у меня эта тема?», это обычно значит «не моё».
+- **Wealth-perception сигнал**: распространённая RU-норма «300 000 ₽/мес = богатый» (автор её оспаривает); аудитория склонна само-классифицироваться «выше среднего класса» независимо от абсолютного дохода. Полезно для income-tier калибровки messaging.
+- **Generational shift**: пост-советское поколение выиграло от раннего интернета и сдвига к sales/marketing-led моделям — «главным стал тот, кто продаёт, а не тот, кто производит»; легаси-«динозавры» без понимания сайтов/Директа проигрывают молодым операторам — positioning-возможность для marketing-savvy challengers.
+
+### Боли привлечения новых клиентов (acquisition, backfill @moibiz/НСПК 2026-05-30)
+
+Независимое подтверждение CAC-болей сегмента из гос-источника — карточка НСПК на вебинаре «Эффективные механики акций» для МСП ([[sources/2026-05-30-tg-moibiz-may-26-29-2026|@moibiz, пост 7603]]). Четыре сформулированных вызова при привлечении новых клиентов у малого/среднего бизнеса:
+
+1. **Высокая стоимость привлечения** (CAC) — performance-каналы дорогие, окупаемость под вопросом.
+2. **Ограниченные маркетинговые бюджеты** — нет ресурса на устойчивый платный трафик (резонирует с болью «личные сбережения в ФОТ»).
+3. **Низкая узнаваемость локального бренда** — нет brand-pull, всё держится на performance и сарафане (ср. раздел «Структурный триггер: потолок сарафана» ниже).
+4. **Трудности с удержанием покупателей** — отток без retention-механики, LTV не строится.
+
+Эти боли — точка входа для acquisition-as-a-service оффера (платёжные/лояльностные платформы как бесплатный канал дистрибуции акций): см. [[canon/marketing-frameworks/cashback-promo-goal-mechanic-mapping-nspk]]. Для GRO-мессаджинга: связка «ограниченный бюджет + страх резать маржу» → хук «не скидка всем, а механика под конкретный KPI».
+
+### Налоговая нагрузка как сквозная боль (enrich 2026-05-30, ОПОРА)
+
+К пяти cash-болям добавляется **структурная налоговая перегрузка**, зафиксированная через канал ОПОРЫ РОССИИ ([[sources/2026-05-30-tg-opora-russia-may-26-29-2026]], посты 7266/7279):
+
+- **НДС-переход бьёт по низкомаржинальным моделям.** В Челябинской области доля компаний, перешедших с УСН на НДС, выросла более чем до 34% за 2025; популярность патентной системы снизилась (региональный proof — [[evolving-strict/market-data/ru-chelyabinsk-smb-share-2025]]). Для founder-owner-seller это означает: модель, которая работала «на упрощёнке», теперь несёт дополнительную fiscal-нагрузку, что усиливает cash-pressure (резонирует с [[evolving-strict/market-data/ru-business-closures-vat-margin-squeeze-2025-2026|механикой Батырева: рентабельность ниже ключевой ставки]]).
+- **Запрос на снижение нагрузки идёт снизу.** Член Президиума ОПОРЫ Олег Зинов (Совет предпринимателей Москвы) предложил снизить страховые взносы для медкомпаний до 15% / 7,5% + механизмы льготного кредитования/лизинга, в прямом контексте «общего падения показателей МСП из-за роста налоговой нагрузки». Это сигнал, что налоговая боль артикулируется на институциональном уровне, а не только в head'е отдельного founder'а.
+
+**Messaging-implication:** налоговая/НДС-перегрузка — это **внешняя, не-self-inflicted** боль (в отличие от «не могу делегировать»), поэтому она хорошо работает как эмпатичный контекст-якорь: «налоги растут, маржа сжимается — единственное, что вы контролируете, это собственная эффективность». Резонирует с тоном «инструмент для контроля в неопределённости» (см. IFORS 63%-baseline выше).
 
 ## Структурный триггер: потолок сарафана (enrich 2026-05-19)
 
@@ -803,6 +836,8 @@ Tokovinin-claim: **низкомаржинальные требовательны
 - [[canon/target-audience/gro-segments]] — исходные 3 сегмента GRO
 - [[canon/target-audience/ru-ai-telegram-audience-segments]] — 4 сегмента Субботина
 - [[evolving/industry-trends/ru-smb-sales-q1-2026]] — макро-контекст Q1 2026
+- [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — регуляторно-комплаенсная боль сегмента (вектор 7: маркировка, ТС ПИоТ, ФНС-рейды)
+- [[sources/2026-05-30-tg-ofd24-may-26-29-2026]] — @ofd24-дамп с owner-burden датапоинтами
 - [[evolving/content-trends/sales-ai-narrative-hooks-2026]] — маркетинговые hooks
 - [[canon/marketing-frameworks/business-reality-show-format]] — реалити как формат вовлечения сегмента
 - [[canon/marketing-frameworks/blank-when-to-raise-investment]] — правило Бланка (рамка «зачем инвестор»)

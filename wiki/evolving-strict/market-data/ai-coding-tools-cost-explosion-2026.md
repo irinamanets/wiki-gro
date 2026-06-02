@@ -9,8 +9,8 @@ tags: [ai, claude-code, cost, market-data, anthropic, anchor]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-19  # +OpenClaw $1,3M/мес токенов anchor (@ai_newz 4576, 2026-05-16) с dashboard-валидацией $1,305,088.81/30d
-sources: [sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-19-tg-ai-newz-may-14-19-2026.md]
+updated: 2026-06-01  # +vc.ru misc condense (2026-05-30): $500M/мес один клиент Claude (без лимитов), Uber исчерпал годовой AI-бюджет (Макдональд: «отдача не оправдывает»), Microsoft mandate Claude Code→Copilot до конца июня. Prior — +OpenClaw $1,3M/мес токенов anchor (@ai_newz 4576, 2026-05-16) с dashboard-валидацией $1,305,088.81/30d
+sources: [sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-19-tg-ai-newz-may-14-19-2026.md, sources/2026-06-01-vc-ai-rastushchie-zatraty-na-ii-agentov.md]
 namespace: mkt
 ---
 
@@ -70,6 +70,22 @@ CTO Uber **Правин Нага** официально признал, что �
 | Nvidia | cost(токены) vs cost(найм) | токены > найм | `[conf:medium, src:2026-05-04]` |
 | Q1 2026 | IT-сокращения с AI-обоснованием | ~81 000 чел | `[conf:medium, src:2026-05-04]` |
 
+## Update 2026-06-01 — vc.ru second-source: $500M/мес, Uber budget exhausted, Microsoft mandate
+
+RU-mainstream (vc.ru, [[sources/2026-06-01-vc-ai-rastushchie-zatraty-na-ii-agentov]]) даёт **второй независимый источник** к cost-explosion-нарративу + новые anchor-точки на 2026-05-30:
+
+- **Один клиент сжёг $500 млн за месяц** на Claude — забыли установить лимиты `[conf:medium, src:2026-05-30]`. Это **новый верхний anchor** — на порядок выше OpenClaw ($1,3M/мес): здесь не команда, а корпоративный клиент без guardrails.
+- **Uber исчерпал годовой AI-бюджет 2026** (corroboration апрельского cgevent-сигнала через RU-mainstream); операционный директор **Эндрю Макдональд** (23 мая): нейросети не приносят «ожидаемой отдачи», затраты «всё сложнее оправдывать» `[conf:medium, src:2026-05-30]`.
+- **Microsoft mandate:** обязала инженеров Windows/M365/Outlook/Teams **перенести проекты из Claude Code в Microsoft Copilot до конца июня** для снижения расходов `[conf:high, src:2026-05-30]`.
+
+| Anchor | Метрика | Значение | Source |
+|---|---|---|---|
+| Безымянный клиент | Расход на Claude за месяц | **$500 000 000** (без лимитов) | `[conf:medium, src:2026-05-30]` |
+| Uber | Годовой AI-бюджет 2026 | исчерпан + «отдача не оправдывает» | `[conf:medium, src:2026-05-30]` |
+| Microsoft | Принудительная миграция Claude Code → Copilot | до конца июня 2026 | `[conf:high, src:2026-05-30]` |
+
+**Структурный сдвиг нарратива:** к концу мая cost-overrun перешёл из «отдельные кейсы» в **корпоративную политику сокращения** (Microsoft mandate) — это сигнал, что backlash институционализируется. Полный качественный разбор — [[evolving/industry-trends/ai-agent-cost-backlash-corporate-2026]].
+
 ## Анализ для marketing-нарратива
 
 ### Применимость для контента GRO
@@ -104,6 +120,8 @@ CTO Uber **Правин Нага** официально признал, что �
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — параллельный сигнал AI-displacement (Snap, Block, Coinbase)
 - [[evolving/industry-trends/ai-productivity-j-curve-2026]] — фрейм cost+headcount двойной нагрузки
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — Q2 2026 общая картина
+- [[evolving/industry-trends/ai-agent-cost-backlash-corporate-2026]] — качественный разбор backlash ($500M, Microsoft mandate, токенмаксинг)
+- [[evolving-strict/market-data/ai-tech-valuations-2026-05-30]] — обратная сторона: оценки/раунды того же квартала
 - [[canon/positioning/gro-value-proposition]] — «системность vs хаос» как точка приклейки
 - [[volatile-strict/industry-news/ai-coding-tools-consolidation-2026q1]] — общая консолидация AI-coding-tooling
 - [[evolving/industry-trends/agent-first-world-openclaw-2026]] — OpenClaw как продукт (откуда $1,3M/мес кейс)

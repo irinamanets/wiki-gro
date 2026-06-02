@@ -73,9 +73,15 @@ namespace: mkt
 - **Метрики adoption** (количество enterprise-клиентов, выручка от GigaAgent) — не публично.
 - **Контент самого подкаста** — видео не транскрибировано, contentful audit невозможен. При появлении транскрипта обновить страницу через `--enrich`.
 
+## Связь с whitepaper «AI-Disrupt PDLC» (май 2026)
+
+Через два независимых канала Сбер за май 2026 показал две стороны своей AI-стратегии: **GigaAgent** (эта страница) — продуктовый enterprise-agent-layer, а **внутренний whitepaper «AI-Disrupt PDLC»** ([[canon/marketing-frameworks/intent-first-agentic-pdlc-sber]], через @ai_newz) — методология собственной agentic-разработки. 3-step taxonomy этой страницы (prompt → agent → autonomous entity) и лестница автономии R0–R5 из whitepaper — две согласованные рамки автономии от одной компании. Числовые маркеры зрелости (GigaCode 69% AI-кода, уровень 3/5) — в [[evolving-strict/market-data/sber-agentic-dev-telemetry-2026]].
+
 ## Cross-links
 
 - [[sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026]] — первичный источник (caption поста 572)
+- [[canon/marketing-frameworks/intent-first-agentic-pdlc-sber]] — методология agentic-разработки Сбера (whitepaper)
+- [[evolving-strict/market-data/sber-agentic-dev-telemetry-2026]] — числовые маркеры зрелости (GigaCode 69%, уровень 3/5)
 - [[evolving/industry-trends/b2b-ai-adoption-fte-kpi-2026]] — FTE-метрика mainstream (Сбер усиливает консенсус)
 - [[evolving/industry-trends/agent-first-world-openclaw-2026]] — agent-first прогнозы (OpenClaw из апр-дампа Егошина)
 - [[evolving/industry-trends/ru-ai-national-strategy-2026]] — национальный контекст RU AI-стратегии (Сбер как key vendor)

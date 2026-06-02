@@ -182,6 +182,7 @@ GRO не имеет бюджета на такой формат в 2026, но ф
 - [[evolving/content-trends/telegram-native-formats]] — TG как cross-promote канал для YT-контента
 - [[evolving/content-trends/ai-serial-content-format-2026]] — AI-tools удешевляющие serial-production
 - [[evolving/industry-trends/tbank-corporate-platform-stack-2026]] — Т-Банк как ecosystem-player с media-production capability
+- [[canon/marketing-frameworks/scammer-manipulation-8-techniques]] — каталог приёмов мошенников как content-substance для fraud-awareness формата
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [content, telegram, carousel, co-branded, partnerships, t-bank, awareness,
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-olegcloser-may-7-13-2026.md]
+updated: 2026-05-30  # +второй anchor-кейс: Екатерина Бредова (TalentCraft) × @rff_channel — explainer-карусель «Корпоративные ценности» (4445-4453, 2026-05-26) в визуальном стиле RFF; HR-эксперт-вариант паттерна
+sources: [sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-30-tg-rff-channel-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -40,6 +40,26 @@ namespace: mkt
 | Эксклюзив (методология в этой форме раньше не публиковалась) | Высокий production value, который эксперт сам себе не сделает |
 
 Это **не классическая нативная реклама** с маркировкой `erid` (бренд не платит за пост в виде денег), и не **branded media cross-promo родственных каналов** (см. [[evolving/content-trends/branded-media-tg-cross-channel-pattern]] — Yandex techno_yandex × neuraldvig); это **третий тип**: внешний эксперт получает design-investment в обмен на share-of-voice.
+
+## Second anchor-кейс: Екатерина Бредова × @rff_channel (HR-вариант)
+
+Из [[sources/2026-05-30-tg-rff-channel-may-26-29-2026]] (карусель 4445–4453, 2026-05-26). Подтверждает, что паттерн **не привязан к банковской вертикали** — он воспроизводится в HR/recruitment-сегменте.
+
+**Структура публикации:**
+- 9 карточек в едином visual-стиле @rff_channel: жёлтый/чёрный, бейдж `@rff_channel` в углу каждой карточки, sans-serif заголовки + handwritten-акцент на обложке.
+- Контент: авторский explainer Екатерины Бредовой (HR-бюро [TalentCraft](https://t.me/buro_talent_craft)) — «Корпоративные ценности и зачем они нужны» (определение → функции → как определить → примеры брендов → анти-паттерн → внедрение → инструменты → punchline). Полный разбор содержания — [[canon/marketing-frameworks/corporate-values-implementation-bredova]].
+- Авторский credit в посте 4445: «Сегодня [Екатерина Бредова](https://t.me/buro_talent_craft) простыми словами рассказывает что такое корпоративные ценности... Все самое интересное в карточках!»
+
+**Чем отличается от Шевелев × Т-Бизнес:**
+
+| Параметр | Шевелев × Т-Бизнес | Бредова × RFF |
+|---|---|---|
+| Вертикаль | Banking / sales | HR / recruitment |
+| Кто публикует | Эксперт в своём канале (стиль бренда) | **Бренд в своём канале** (контент эксперта) |
+| CTA | На sub-канал бренда | На канал бренда (RFF) + кросс-промо TalentCraft |
+| Направление distribution | Эксперт → бренд (эксперт делится своей аудиторией) | Бренд → эксперт (бренд даёт площадку + design, эксперт даёт authority + контент) |
+
+**Ключевое обобщение:** обмен «design + distribution ↔ authority-контент» симметричен — инициировать может **любая сторона**, у которой есть production-команда и аудитория. У RFF (60k+ комьюнити, см. [[evolving/industry-trends/max-messenger-author-rejection-2026]]) роль «бренда с design+аудиторией» играет media-канал, а не корпорация. Это расширяет применимость паттерна для GRO: GRO может быть **либо** дающей стороной (design+канал для нишевого эксперта), **либо** получающей (свой контент в стиле крупного HR/wellness-медиа).
 
 ## Структурные правила паттерна
 
@@ -126,6 +146,8 @@ GRO предлагает:
 ## Связанные страницы
 
 - [[sources/2026-05-14-tg-olegcloser-may-7-13-2026]] — anchor-кейс Шевелев × Т-Бизнес секреты
+- [[sources/2026-05-30-tg-rff-channel-may-26-29-2026]] — second anchor-кейс Бредова × RFF (HR-вариант)
+- [[canon/marketing-frameworks/corporate-values-implementation-bredova]] — содержание second anchor-карусели
 - [[evolving/content-trends/branded-media-tg-cross-channel-pattern]] — параллельный паттерн родственных каналов (контраст)
 - [[evolving/content-trends/event-speaker-carousel-format]] — параллельный паттерн carousel'ов для event'ов
 - [[evolving/content-trends/ugc-testimonial-carousel-arc]] — UGC-формат carousel'а

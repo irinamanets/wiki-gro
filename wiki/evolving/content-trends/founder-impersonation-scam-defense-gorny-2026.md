@@ -9,8 +9,8 @@ tags: [content, telegram, founder-channel, scam-defense, impersonation, micro-fo
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-startupoftheday-may-20-26-2026.md]
+updated: 2026-05-30  # +recurring datapoint: повторная impersonation-атака у Горного (пост 5091, 2026-05-27) — поддельный канал 10 694 members начал сбор «доверительного управления» крипто
+sources: [sources/2026-05-26-tg-startupoftheday-may-20-26-2026.md, sources/2026-05-30-tg-startupoftheday-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -61,6 +61,15 @@ Pattern наблюдался в [@startupoftheday](https://t.me/startupoftheday)
 **Функция:** **proof-of-impersonation**. Без скриншотов часть аудитории сомневается, что атака реальна.
 
 **Бонусный эффект (если есть):** если impersonator скопировал текст из самого автора, скриншот это раскрывает («Они скопировали мой пост от утра!»). Это превращает defensive post в самореферентную **brand-defense success story** — увеличивает sharing/retweet.
+
+## Recurring datapoint (пост 5091, 2026-05-27) — атака перешла в monetization-фазу
+
+Через ~2 дня после исходного наблюдения тот же поддельный канал у Горного **перешёл в активную monetization-фазу** ([[sources/2026-05-30-tg-startupoftheday-may-26-29-2026]] пост 5091). Реакция автора — каноничный минимальный disclosure: «Сегодня мошенники в "моём" поддельном канале начали сбор денег. На всякий случай напомню, что они мошенники.» Приложен скриншот fake-канала («Стартап дня. Александр Горный.», 10 694 members) с типичным crypto-scam питчем: «доверительное управление капиталом… ваши деньги увеличиваются в 5–8 раз за одну сделку».
+
+**Что подтверждает датапоинт:**
+1. **Формат стабилен при повторе** — автор снова использует короткий casual-disclosure без паники, без юр-угроз. 2-словный re-disclaim («они мошенники») вместо длинного дисклеймера.
+2. **Lifecycle impersonation-атаки** наблюдаем целиком: setup (создание двойника) → audience-grab (набор 10K+ подписчиков) → **monetization (сбор денег)**. Disclosure-пост приурочен именно к monetization-фазе, когда вред для аудитории становится реальным.
+3. **Recurring у одного автора** — impersonation не разовое событие, а постоянный фон для популярного founder-канала. Это аргумент для GRO встроить scam-defense template в стендбай заранее, а не реактивно.
 
 ## Что делает формат сильным
 

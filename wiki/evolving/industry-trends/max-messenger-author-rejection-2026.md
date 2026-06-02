@@ -9,8 +9,8 @@ tags: [trend, max, messenger, telegram, authors, community, russia, expert-opini
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +stodnevka2 fifth re-dump may 20-26 2026 — newsletter cadence sustained ~90 дней (письмо #13 «брать меньше за любимое», посты 2321/2322); 2 PDF-книги опубликованы как lead-magnet к платной Стодневке (старт 1 июня 2026); 3-уровневая воронка артикулирована (PDF → newsletter → платная). Ранее: +fourth re-dump may 15-19 — книжная часть 2 ПОДТВЕРЖДЕНА готовой (пост 2310, 2026-05-18); +market-mood signal (пост 2311, 2026-05-19): «охваты падают, покупок меньше, многие в режиме выживания»; +third re-dump may 6-14 — письмо #11; +content-as-accelerator; +re-dump apr-may — письмо #10 на 2026-05-04
-sources: [sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md]
+updated: 2026-05-30  # +sincere-honest compliance под-паттерн (RFF, @rff_channel 4457, 2026-05-28): 60k+ комьюнити мигрирует в MAX с anti-bait нарративом «честный подход, без приманок». Ранее: +stodnevka2 fifth re-dump may 20-26 2026 — newsletter cadence sustained ~90 дней (письмо #13 «брать меньше за любимое», посты 2321/2322); 2 PDF-книги опубликованы как lead-magnet к платной Стодневке (старт 1 июня 2026); 3-уровневая воронка артикулирована (PDF → newsletter → платная). Ещё ранее: +fourth re-dump may 15-19 — книжная часть 2 ПОДТВЕРЖДЕНА готовой (пост 2310, 2026-05-18); +market-mood signal (пост 2311, 2026-05-19): «охваты падают, покупок меньше, многие в режиме выживания»; +third re-dump may 6-14 — письмо #11; +content-as-accelerator; +re-dump apr-may — письмо #10 на 2026-05-04
+sources: [sources/2026-04-14-tg-dnative-digest-7497-7546.md, sources/2026-04-14-psilonsk-management-tg-dump.md, sources/2026-04-14-tg-stodnevka2-mar-apr-2026.md, sources/2026-05-05-tg-stodnevka2-apr-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md, sources/2026-05-30-tg-rff-channel-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -118,6 +118,38 @@ namespace: mkt
 
 2. **2 PDF-книги опубликованы как lead-magnet к платной программе.** Пост 2312 (2026-05-20) анонсирует **«Как подготовиться к переменам»** (34 с.) и **«Как приступить к переменам»** (42 с.) — обе self-published 2025 г. в форматах PDF + EPUB, прикреплены непосредственно к посту (no email-gating), `[conf:high, src:2026-05-20]`. Это **расширяет offplatform-stack** Петросяна с newsletter+Substack до **3-уровневой воронки** (PDF lead-magnet → newsletter + TG → платная Стодневка, старт 1 июня 2026). См. полный разбор воронки в NEW [[evolving/content-trends/petrosian-summer-launch-lead-magnet-funnel]]. **Implication для тренда:** offplatform-pivot **успевает развиться** в multi-asset content-architecture, что повышает barrier-to-replicate competitor'ам и даёт author'у больше distribution-channels вне Telegram-эконо系мы.
 
+## Contrast с sincere-honest compliance (RFF, 2026-05-28)
+
+Десятая позиция в спектре — **sincere-honest compliance**: комьюнити-медиа **активно зовёт аудиторию в MAX**, но обрамляет это **демонстративно-этичным, anti-bait нарративом**, противопоставляя себя «манипулятивным» миграционным практикам. Зафиксировано у Recruitment for Friends ([@rff_channel](https://t.me/rff_channel), 60 000+ подписчиков в сети каналов) в посте 4457 от 2026-05-28 ([[sources/2026-05-30-tg-rff-channel-may-26-29-2026]]).
+
+**Механика позиции (verbatim-тезисы):**
+
+> «Мы теперь и в MAX тоже... запустили Recruitment for Friends в MAX — чтобы оставаться с вами на связи **невзирая ни на что**.»
+
+> «**Не хочется идти по пути искусственного разделения контента** или придумывать специальные "приманки" ради подписки. Нам ближе **честный подход**: если вам близко наше комьюнити... лучшая поддержка сейчас — просто подписаться на нас в MAX.»
+
+Ключевые маркеры под-паттерна:
+1. **Sincere endorsement, не ирония.** В отличие от compliance-with-irony (Колганов), RFF зовёт в MAX без сарказма и дистанцирующих маркеров.
+2. **Anti-bait дифференциация.** Бренд явно отказывается от двух распространённых dark-pattern'ов миграции: (а) **gating контента** («искусственное разделение» — эксклюзив только в MAX), (б) **подписочные приманки** («специальные приманки ради подписки»). Это превращает сам отказ-от-манипуляции в нарративный актив.
+3. **Community-loyalty framing.** Подписка позиционируется как «поддержка проекта», а не как утилитарное действие — апелляция к идентичности комьюнити, не к выгоде.
+4. **«Невзирая ни на что»** — мягкая отсылка к платформенному риску Telegram (cold-standby логика), но без называния блокировок прямо.
+
+**Где RFF в спектре:** между **sincere compliance** (Гребенюк, Forbes, hh.ru — прямой functional endorsement) и **active grower** (Гребенюк вкладывается в рост). RFF добавляет третье измерение — **этичность самого приглашения** как differentiation. Это первый в корпусе случай, где migration-CTA построен на *отказе от манипулятивных техник конкурентов* как на selling point.
+
+| Позиция | Автор/бренд | Механика | Эмоциональный регистр |
+|---|---|---|---|
+| Принципиальный отказ | dnative | публичный non-promo | сопротивление |
+| Compliance-with-irony | Колганов | саркастический CTA | дистанцирование |
+| Resigned dubbing + offplatform | Петросян | нейтральная ссылка + уход в newsletter | смирение |
+| **Sincere-honest compliance** | **RFF** | **anti-bait «честный» CTA** | **community-loyalty, этичность** |
+| Sincere compliance | Гребенюк, Forbes, hh.ru | прямой positive endorsement | функциональность |
+
+**Что это говорит про состояние тренда (к концу мая 2026):** появление под-паттерна, где migration-приглашение строится вокруг *этики приглашения*, — сигнал, что аудитория стала **чувствительна к манипулятивным миграционным механикам** (gating, bait). Бренды, мигрирующие комьюнити, теперь конкурируют не только за факт подписки, но и за **то, как они просят** — «честная просьба» становится отдельным trust-сигналом. Это эволюция от «дорого ли просить» (compliance cost, апрель) к «как просить, чтобы не выглядеть манипулятором» (май).
+
+`[conf:medium, src:2026-05-28]` — комьюнити-медиа с верифицируемым размером аудитории (60k+); нарратив публичный, сохраняется с атрибуцией.
+
+**Маркетинговое следствие для GRO:** если GRO когда-либо будет звать аудиторию на новый канал (MAX-зеркало или иной), RFF-формула — рабочий шаблон: **явно отказаться от content-gating и подписочных приманок, обрамить переход как «честную просьбу о поддержке»**. Это согласуется с anti-flattery/anti-инфобиз TOV GRO ([[canon/brand-guidelines/gro-channel-tone-of-voice]]) и снижает риск отторжения от creator-aware сегмента.
+
 ## Что этот тренд значит для маркетинга
 
 1. **MAX не получит audience через Telegram-авторов органически.** В ближайшие месяцы основной поток подписок в MAX у авторов будет не ручной (промо), а пассивный (кросспостинг + «случайные» подписчики).
@@ -138,6 +170,8 @@ namespace: mkt
 - [[sources/2026-04-14-psilonsk-management-tg-dump]]
 - [[sources/2026-04-14-tg-stodnevka2-mar-apr-2026]]
 - [[sources/2026-05-05-tg-stodnevka2-apr-may-2026]]
+- [[sources/2026-05-30-tg-rff-channel-may-26-29-2026]] — sincere-honest compliance под-паттерн (RFF в MAX)
+- [[evolving/content-trends/expert-cobranded-tg-carousel-pattern]] — RFF также anchor для co-branded carousel
 - [[evolving/industry-trends/native-pr-russia-2026]]
 - [[evolving/content-trends/psilonsk-channel-patterns]]
 - [[evolving/competitor-positioning/max-messenger]]

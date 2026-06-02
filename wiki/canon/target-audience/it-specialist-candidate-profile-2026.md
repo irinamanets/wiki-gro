@@ -9,8 +9,8 @@ tags: [it, candidate, hiring, behavior]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-19  # +«два типа в IT» (по призванию vs за заработком) + переопределение soft-skills как дисциплины (Мул, Work Solutions)
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2884178-kak-it-spetsialist-vybiraet-rabotodatelya.md, sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md]
+updated: 2026-05-30  # +машинный pre-фильтр (ATS): резюме читает система до человека, абстракция проигрывает структурным маркерам (@gro_me 395)
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2884178-kak-it-spetsialist-vybiraet-rabotodatelya.md, sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md, sources/2026-05-30-tg-gro-me-395-398.md]
 namespace: mkt
 ---
 
@@ -64,6 +64,14 @@ namespace: mkt
 
 При зарплате разработчика **300 000 ₽/мес** каждый день незакрытой позиции = **14 285 ₽ потерь выработки**. Это не теоретическая, а **operational** цифра — то, что не делается, потому что человек не пришёл.
 
+## Машинный pre-фильтр — резюме читает система до человека (GRO 395)
+
+До любого из вышеперечисленных человеческих этапов есть **нулевой, машинный**: во многих компаниях первый фильтр откликов — ATS / внутренний поиск / автосортировка. Он сравнивает текст резюме с вакансией по ключевым словам, технологиям и структуре, не понимая контекст и реальный вклад. По колонке GRO (@gro_me 395, 27 мая 2026, см. [[sources/2026-05-30-tg-gro-me-395-398]], `confidence: medium`, verified own-brand) это особенно жёстко в IT.
+
+**Следствие для профиля IT-кандидата:** опыт «не попадает в выборку», если описан абстракциями («работал над улучшением UX»), а не структурированными маркерами («оптимизировал Core Web Vitals, снизил LCP с 4.2s до 1.8s»). «Язык отбора» в IT — конкретные технологии (React, TypeScript, Next.js, performance, accessibility, архитектура компонентов). Это **зеркало human-парадокса воронки ниже**: и машина, и часовое собеседование систематически смещают выборку прочь от «строителей, которые думают смыслами» в пользу тех, кто лучше совпадает с формальной логикой (поиска / самопрезентации). Полный фрейм оптимизации — [[canon/marketing-frameworks/ats-readable-resume-optimization-2026]].
+
+**Контент-импликация для GRO:** IT-аудитория уже в теме «меня читает робот» — подавать как «сделай реальный вклад считываемым», не «обмани ATS».
+
 ## Два типа в IT — «по призванию» vs «за заработком» (Мул, Work Solutions)
 
 Дополнительная поведенческая ось, наблюдаемая Максимом Мулом (директор ИТ-компании Work Solutions, [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]], `confidence: medium`, inferred-эксперт). Объясняет, **почему часовое собеседование систематически ошибается**:
@@ -103,5 +111,7 @@ GRO — не HR-tech и не рекрутинг-приложение. Но IT-с
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — AI-замещение специалистов IT
 - [[canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul]] — переопределение soft-skills как дисциплины + фрейм «ноль факапов»
 - [[evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026]] — как этого кандидата проверяют по цифровому следу
+- [[canon/marketing-frameworks/ats-readable-resume-optimization-2026]] — машинный pre-фильтр и 4 шага ATS-оптимизации (GRO 395)
+- [[sources/2026-05-30-tg-gro-me-395-398]] — источник машинного pre-фильтра (@gro_me 395)
 - [[sources/2026-05-05-vc-ru-condensed]] — источник
 - [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]] — источник «двух типов» + soft-skills (Мул, Work Solutions)

@@ -9,8 +9,8 @@ tags: [content, positioning, productivity, energy, focus, hooks, bruch-ghoshal, 
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-25  # +discipline register (8-й): дисциплина > мотивация / метафора посуды («Основатели» / Торбосов-Токовнин); prior: +rhythm/chrono register (7-й): ритмы работоспособности + 6 рычагов (hr-portal work-capacity textbook); +category-tailwind register (6-й): сдвиг велнеса к мозгу (Фомичёв 2426 / cognitive-wellness-shift-2026)
-sources: [sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-10-groapp-landing.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-dzen-deloviy-mir-ceo-cognitive-endurance.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov.md, sources/2026-05-25-yt-osnovateli-ups-and-downs-film.md]
+updated: 2026-05-30  # +AI-tooling productivity vector (GRO-Book 396): операционализация личной работы через AI (Obsidian-дашборд + Claude Code + NotebookLM) — смежная, не energy/focus ось
+sources: [sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-10-groapp-landing.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-dzen-deloviy-mir-ceo-cognitive-endurance.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-fomichevkirill-may-14-19-2026.md, sources/2026-05-19-web-hr-portal-povyshaem-rabotosposobnost-sotrudnikov.md, sources/2026-05-25-yt-osnovateli-ups-and-downs-film.md, sources/2026-05-30-gro-productivity-tools-ai-guide.md]
 namespace: mkt
 ---
 
@@ -309,8 +309,18 @@ Declarative-регистр — **самый низкозатратный для 
 
 `confidence: medium` — качественная founder-рамка, ценна как register/scaffold.
 
+## Дополнения 2026-05-30 (AI-tooling vector — GRO-Book 396)
+
+Собственный лид-магнит GRO [[sources/2026-05-30-gro-productivity-tools-ai-guide|GRO-Book «Инструменты продуктивности в эпоху ИИ»]] (PDF поста 396, 28 мая 2026) открывает **смежный, но отдельный** productivity-вектор: не energy/focus («как восстановить ресурс»), а **AI-операционализация личной работы** («как меньшими усилиями держать больше под контролем»). Содержание: живой дашборд в Obsidian + Claude Code через MCP (утренний ИИ-брифинг, автообновление свойств), курс по NotebookLM (27 кейсов).
+
+**Чем это отличается от 8 регистров выше.** Регистры empirical/operational/somatic/identity/declarative/category-tailwind/rhythm/discipline все про **внутреннее состояние человека**. AI-tooling vector — про **внешний инструментальный контур** вокруг человека (системы, которые читают данные за тебя). Это congruent с китом «система, а не мотивация», но материализованный в конкретном tech-стеке, а не в практике рефлексии. **Не смешивать** в одном посте: energy/focus аудитория и AI-tooling аудитория пересекаются лишь частично (последняя — более tech-forward, Сегменты 1–2).
+
+**Применение:** GRO-Book — формат лид-магнита (рубрика 📚 «Подборки материалов»), удерживает AI-curious аудиторию демонстрацией экспертизы в смежной нише. Тон — чистый how-to «бери и делай», без inspirational-обёртки (конгруэнтно utility-shift канала). `confidence: medium` — single own-brand asset, как вектор устойчив, но требует второго выпуска для подтверждения регулярности.
+
 ## Связанные страницы
 
+- [[sources/2026-05-30-gro-productivity-tools-ai-guide]] — AI-tooling productivity vector (GRO-Book 396)
+- [[evolving/content-trends/gro-content-rubrics-system]] — GRO-Book в рубрике «Подборки материалов»
 - [[canon/marketing-frameworks/discipline-over-motivation-dishwashing-osnovateli]] — дисциплинарный регистр (8-й): «как запустить действие при плохом состоянии»
 - [[canon/marketing-frameworks/happiness-50-40-10-formula-osnovateli]] — companion wellbeing-рамка (40% = тренируемые настройки)
 - [[sources/2026-05-25-yt-osnovateli-ups-and-downs-film]] — источник дисциплинарного регистра («Основатели»)

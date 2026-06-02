@@ -9,8 +9,8 @@ tags: [ai, adoption, b2b, marketing, russia, 2026, productivity]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-19  # +§8 consumer AI spend РФ ~10% ежемесячно + «AI стала инфраструктурой» (@moibiz дайджесты 7543/7555)
-sources: [sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-19-tg-moibiz-may-14-19-2026.md]
+updated: 2026-05-30  # +cross-check ЦИПР-2026 (Солар/Б1/ФинТех/HiveTrace via Inc. Russia 36891): 80% используют ИИ, 45% без бюджета на защиту, 1/4 с правилами — второй источник дыры adoption>security
+sources: [sources/2026-04-14-rb-ru-tg-digest-2026-04-01-14.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-19-tg-moibiz-may-14-19-2026.md, sources/2026-05-30-tg-bossofyourboss-may-27-29-2026.md, sources/2026-05-30-tg-incrussiamedia-may-21-25-2026.md]
 namespace: mkt
 ---
 
@@ -30,6 +30,14 @@ namespace: mkt
 **Источник:** агрегированные опросы дата-офисов российских компаний (первичный опрос в посте rb.ru не атрибутирован).
 
 **Маркетинговое значение:** 71% — это уже не early adopters Роджерса (см. [[canon/marketing-frameworks/rogers-diffusion-of-innovations]]), это **early majority + late majority territory**. Контент про ИИ для B2B уже не должен «продавать саму идею», он должен решать проблему «как внедрить безопасно» — что прямо адресует [[canon/marketing-frameworks/ankusheva-ai-implementation-triad|триада Анкушевой]]. [conf:medium, src:2026-04-14]
+
+**Cross-check (ЦИПР-2026, Солар/Б1/ФинТех/HiveTrace, 2026-05-22):** независимое подтверждение разрыва «внедряем быстрее, чем защищаем» из исследования, представленного на ЦИПР-2026 ([[sources/2026-05-30-tg-incrussiamedia-may-21-25-2026|Inc. Russia 36891]]):
+
+- **~80% организаций** уже используют ИИ в том или ином виде. `[conf:medium, src:2026-05-22]`
+- **45% не выделяют отдельный бюджет на защиту** ИИ-решений. `[conf:medium, src:2026-05-22]`
+- Лишь **четверть компаний** имеют внутренние правила безопасной работы с ИИ-сервисами. `[conf:medium, src:2026-05-22]`
+
+Это второй независимый источник (после апрельского rb.ru-опроса), фиксирующий **одну и ту же структурную дыру**: AI-adoption опережает AI-security. Совпадение цифры 45% по обоим срезам (хотя метрики разные — «безопасность как ограничение» vs «отсутствие бюджета на защиту») усиливает нарратив. Для GRO-контента и B2B-позиционирования это устойчивый pain-point: рынок готов платить за «как внедрить безопасно», а не за «зачем внедрять». `[conf:medium, src:2026-05-22]`
 
 ## 2. End-user rejection голосовых ИИ-ассистентов
 
@@ -131,6 +139,28 @@ namespace: mkt
 
 Связь с растущим креативным классом (+46% компаний/ИП в рекламе/PR/маркетинге/дизайне за 3 года из того же дампа) — см. [[evolving-strict/market-data/ru-creative-industries-public-perception-2026]]. Поведенческо-мотивационный профиль предпринимателей того же дампа — [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]]. [conf:low, src:2026-05-19]
 
+## 9. Опрос Контур.Толк: 1200 руководителей РФ про внедрение ИИ (май 2026)
+
+Датапоинт из [[sources/2026-05-30-tg-bossofyourboss-may-27-29-2026|@bossofyourboss пост 1209]] (2026-05-28). Контур.Толк опросил **1200 руководителей** российского бизнеса — от тимлидов до топов — про внедрение ИИ. Этот блок — самый репрезентативный опросный срез корпоративного adoption в вики на дату (большой управленческий sample, профильный вендор).
+
+| Метрика | Значение | Source |
+|---|---|---|
+| Российских компаний уже используют ИИ (встроили / тестируют / пилотируют) | **63%** | `[conf:medium, src:2026-05-28]` |
+| Говорят, что эффект от ИИ уже есть | **52%** | `[conf:medium, src:2026-05-28]` |
+| Топ-кейс применения: подготовка документов и отчётов | **48%** | `[conf:medium, src:2026-05-28]` |
+| 2-й кейс: поиск информации в переписках | — | `[conf:medium, src:2026-05-28]` |
+| 3-й кейс: саммари встреч | — | `[conf:medium, src:2026-05-28]` |
+| Замещение живых людей ИИ | пока не наблюдается | `[conf:low, src:2026-05-28]` |
+
+**Source:** опрос Контур.Толк (1200 руководителей), retold через founder-канал @bossofyourboss со ссылкой на отчёт ([kontur.ru](https://kontur.ru/talk/spravka/85578-bolee_50_kompaniy_uzhe_poluchayut_effekt_ot_ii)). `confidence: medium` — методология опроса в посте не раскрыта, но вендор и sample названы явно.
+
+**Маркетинговое значение.**
+
+- **63% — это массовое adoption, не early majority.** Согласуется с § 1 (71% наращивают AI-бюджеты `[conf:medium, src:2026-04-03]`) и закрывает картину со стороны фактического использования, а не деклараций по инвестициям. Для контента ГРО это ещё один proof-point тезиса «продавать саму идею ИИ уже поздно — продавать нужно "как встроить в систему роста"». `[conf:medium, src:2026-05-28]`
+- **52% видят эффект, но не всегда считают в деньгах.** Это честный сигнал: ИИ уже даёт ощутимую пользу больше чем половине, при этом ROI-измерение остаётся слабым местом — angle для контента про «как мерить эффект от ИИ», адресующий [[canon/marketing-frameworks/ankusheva-ai-implementation-triad|триаду внедрения]]. `[conf:medium, src:2026-05-28]`
+- **Top use-cases — рутинная документация и knowledge-retrieval (48% — документы/отчёты, далее поиск в переписках, саммари встреч).** Это очерчивает, где ИИ реально приземлился в РФ-бизнесе: не творчество и не замещение людей, а офисная рутина. Для ГРО как личного productivity-инструмента это рыночный фон — пользователи уже привыкли к ИИ как к «ассистенту по рутине», что снижает барьер к ИИ-функциям продукта. `[conf:medium, src:2026-05-28]`
+- **«Замещения людей не видно» рифмуется с § 4a/voice-AI rejection (§ 2):** ИИ дополняет, а не вытесняет — это противоядие к страху «ИИ заменит» в контенте для [[canon/target-audience/gro-segments|сегмента карьеристов]]. `[conf:low, src:2026-05-28]`
+
 ## Cross-table: что куда влияет
 
 | Метрика | Первичный effect | Cross-link на страницы вики |
@@ -144,6 +174,7 @@ namespace: mkt
 | Яндекс 85% ad budgets под ИИ `[conf:medium, src:2026-05-07]` | demand-side AI-автоматизации в perf-маркетинге | [[evolving/content-trends/perf-marketer-automation-narrative-2026]], [[evolving/industry-trends/ai-marketing-limits-2026]] |
 | ИИ-фриланс: спрос 2k→15k, чек +43% `[conf:medium, src:2026-05-14]` | ИИ-навык как дефицитный/дорожающий → skill-shift нарратив | [[canon/target-audience/gro-segments]], [[evolving/industry-trends/ru-creator-economy-monetization-2026]] |
 | ~10% россиян платят за ИИ ежемесячно + «AI стала инфраструктурой» `[conf:medium, src:2026-05-18]` | consumer demand-side: монетизируемое ИИ-потребление существует | [[evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026]], [[evolving/industry-trends/ai-narrative-second-phase-risk-pivot-2026]] |
+| Контур.Толк: 63% компаний используют ИИ, 52% видят эффект, top use-case 48% (документы) `[conf:medium, src:2026-05-28]` | массовое adoption + рутинные use-cases, без замещения людей | [[canon/marketing-frameworks/ankusheva-ai-implementation-triad]], [[canon/target-audience/gro-segments]] |
 
 ## TTL и refresh policy
 

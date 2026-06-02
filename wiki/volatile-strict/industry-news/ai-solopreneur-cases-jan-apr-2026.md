@@ -9,8 +9,8 @@ tags: [ai, solopreneurship, case-studies, agent, saas, mrr, arr, consideration, 
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-06
-sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md]
+updated: 2026-05-30  # +Polsia counter-case (пост 640, 6-й ingest) как vanity-metrics anti-example
+sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-30-tg-your-pet-project-may-27-29-2026.md]
 namespace: mkt
 ---
 
@@ -185,6 +185,18 @@ namespace: mkt
 
 **Референс для GRO:** **четвёртый запуск как успех после трёх неудач** — резонансный hook для GRO-аудитории «целеустремлённые, готовые к продолжительной работе». Прямо ложится в [[canon/target-audience/ru-smb-founder-owner-seller]] и [[evolving/content-trends/your-pet-project-channel-hooks]] (новый под-секция «multi-launch persistence»).
 
+### Polsia (counter-case) — псевдо-ARR при $30M раунде
+
+Добавлено [delta] из [[sources/2026-05-30-tg-your-pet-project-may-27-29-2026|пост 640, 2026-05-29]]. **Anti-example** ко всем честным bootstrap-кейсам выше: тот же AI-wrapper-формат, но метрики vanity, а не реальные. Полный teardown с числами — [[volatile-strict/industry-news/polsia-vanity-metrics-teardown-2026]].
+
+- Заявлено $10M ARR, реально подписочный — $4.6M (месячный кешфлоу × 12). `[conf:medium, src:2026-05-29]`
+- Churn 48%/мес → через год от базы остаётся 0.04%. `[conf:medium, src:2026-05-29]`
+- Из 118 683 «созданных компаний» живых 7 437 (6.3%). `[conf:medium, src:2026-05-29]`
+- 57% выручки уходит на compute (Claude через AWS Bedrock) — убыточен до зарплат. `[conf:medium, src:2026-05-29]`
+- Раунд $30M при оценке $250M (Sound Ventures, True Ventures). `[conf:high, src:2026-05-29]`
+- **Контраст с честными кейсами:** Wave AI («каждый доллар должен отбиваться») и Medvi (16.2% прибыли) — реальная unit-экономика; Polsia — псевдо-ARR через ad pass-through + раунд на нарративе. То же compute-ограничение (>50% выручки), что и у Wave AI, но без честного признания маржи. [conf:low, src:2026-05-30]
+- **Референс для GRO:** cautionary tale, не позитивный пример — отличать нарратив от unit-экономики.
+
 ## Агрегированные выводы
 
 ### Общие паттерны всех 10 кейсов
@@ -205,6 +217,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/retention-benchmarks-b2c]] — все успешные кейсы имеют retention выше canon-порогов.
 - [[evolving/content-trends/your-pet-project-channel-hooks]] — сестринская hooks-страница из того же источника.
 - [[evolving/industry-trends/agent-first-world-openclaw-2026]] — OpenClaw detail-addendum с Табуновской narrative-коррекцией.
+- [[volatile-strict/industry-news/polsia-vanity-metrics-teardown-2026]] — Polsia counter-case (vanity-метрики).
 
 ## Связанные страницы
 - [[sources/2026-04-14-tg-your-pet-project-jan-apr2026]]

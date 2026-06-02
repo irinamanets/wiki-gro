@@ -121,6 +121,7 @@ GRO как продукт для team-development может быть привя
 
 ## Связь с другими marketing-frameworks
 
+- [[canon/marketing-frameworks/corporate-values-implementation-bredova|Корпоративные ценности (Бредова)]] — прямое продолжение этой рамки от той же автор-эксперта: ценности → культура → удержание → качество найма
 - [[canon/marketing-frameworks/evp-framework-brand-center-hh|EVP framework hh.ru Brand-центр]] — методология построения employer value proposition, на котором retention строится
 - [[canon/marketing-frameworks/strong-offer-hr-marketing-tilda|Strong offer HR-marketing]] — упаковка employer-message
 - [[canon/marketing-frameworks/retention-benchmarks-b2c|Retention benchmarks B2C]] — параллельный фрейм для GRO B2C (это ≠ employee retention, но похожая логика «удержать = инструмент управления unit-экономикой»)

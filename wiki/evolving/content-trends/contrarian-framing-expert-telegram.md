@@ -9,8 +9,8 @@ tags: [content, telegram, narrative, personal-brand, expert-voice, native]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-25  # +4-й content-pattern того же оператора: audience point-finding (голосовое 19635 «Мысли вслух») — выбор тем как итеративный поиск резонанса + публичный engagement-замер. Prior 2026-05-19: +второй дамп @TorbosovLife (май 2026): мульти-паттерн-канал — добавлены art-edutainment-пилляр (#культпросвет) и AI-репурпозинг как смежные форматы того же оператора
-sources: [sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-torbosov-life-may-2026.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md]
+updated: 2026-05-30  # +5-й content-пиллар того же оператора: рубрика #маркетинг (курирование внешних креативов) из дампа 17-21 мая — пример ambient-creative (карате-шлагбаум) + guerrilla self-pitch (19782), вынесено в новую страницу guerrilla-ambient-pitch-presence. Prior 2026-05-25: +4-й content-pattern (audience point-finding, голосовое 19635). Prior 2026-05-19: +второй дамп @TorbosovLife (май 2026): мульти-паттерн-канал — добавлены art-edutainment-пилляр (#культпросвет) и AI-репурпозинг как смежные форматы того же оператора
+sources: [sources/2026-04-14-tg-torbosov-life-apr-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-torbosov-life-may-2026.md, sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice.md, sources/2026-05-30-tg-torbosovlife-may17-21-2026.md]
 namespace: mkt
 ---
 
@@ -108,6 +108,14 @@ Reusable content-паттерн, в котором эксперт-автор п�
 ### Четвёртый паттерн того же оператора: audience point-finding (голосовое 19635, ~май 2026)
 
 Голосовое [[sources/2026-05-25-tg-torbosovlife-19635-myslivsluh-venice|@TorbosovLife 19635]] («Мысли вслух. Венеция») добавляет к мульти-паттерн-кейсу **четвёртый** reusable content-приём того же оператора — **audience point-finding**: выбор тем не по контент-плану, а как непрерывный поиск резонанса («нащупываю вашу точку G в контенте») + публичный engagement-замер встроенный в пост («вы соскучились?»). Это **зеркало** контр-нарративной рамки на уровне editorial-стратегии: если контр-нарратив — приём на уровне *структуры поста*, то point-finding — приём на уровне *выбора, о чём вообще писать*. Разобран отдельно: [[evolving/content-trends/audience-point-finding-engagement-probing]]. Канал @TorbosovLife теперь — кейс **четырёх** параллельных content-паттернов одного оператора.
+
+### Пятый паттерн того же оператора: рубрика `#маркетинг` (curated creative, дамп 17–21 мая 2026)
+
+Пятый дамп канала ([[sources/2026-05-30-tg-torbosovlife-may17-21-2026]], посты 19780–19829 за 2026-05-17..21) добавляет к мульти-паттерн-кейсу **пятый наблюдаемый content-пиллар** — рубрику **`#маркетинг`** (пост 19806): куратор регулярно собирает и публикует чужие креативы как самостоятельный контент-формат. Это родственно curator-edutainment (#культпросвет / #подомам), но материал — не культура/история, а **рекламные креативы** (в дампе — ambient outdoor: парковочный шлагбаум школы карате в форме карате-удара, Allsport).
+
+Тот же дамп зафиксировал **guerrilla self-pitch** (пост 19782): founder AI B2B стартапа с табличкой «raising pre-seed, say hi» на ноутбуке в кофейне → inbound-разговоры с инвесторами. Обе тактики (curated ambient + guerrilla self-pitch) вынесены в отдельную страницу: [[evolving/content-trends/guerrilla-ambient-pitch-presence]].
+
+**Что это даёт паттерну:** канал @TorbosovLife теперь — кейс **пяти** параллельных content-пилляров одного оператора: (1) контр-нарративная рамка, (2) curator-edutainment, (3) AI-репурпозинг, (4) audience point-finding, (5) `#маркетинг` curated-creative. Это подтверждает гипотезу «founder-led мульти-рубричного канала» — один оператор удерживает аудиторию набором ортогональных форматов, а не одним.
 
 ## Backlinks
 

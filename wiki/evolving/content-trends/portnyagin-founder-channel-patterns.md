@@ -9,8 +9,8 @@ tags: [content, telegram, author-blogger, content-format, founder-channel, russi
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +4-й дамп (3 поста 25-26 мая): educational рубрика расширяется (7-Eleven Судзуки) + #изархива как sub-rubric long-form + 14-й формат «short philosophical hook» (формула Эйнштейна)
-sources: [sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026.md, sources/2026-05-19-tg-portnyaginlive-20260519-122009.md, sources/2026-05-26-tg-portnyaginlive-20260526-122652.md]
+updated: 2026-05-30  # +6-й дамп (21 сообщ. 26-30 мая, content-light): 15-й формат «calendar-peg aspirational manifesto» (День предпринимателя) + milestone storytelling применён к ресторану Manul (2 года) + cross-vertical reproduction cultural-narrative
+sources: [sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026.md, sources/2026-05-19-tg-portnyaginlive-20260519-122009.md, sources/2026-05-26-tg-portnyaginlive-20260526-122652.md, sources/2026-05-30-tg-portnyaginlive-20260530-122112.md]
 namespace: mkt
 ---
 
@@ -345,6 +345,15 @@ namespace: mkt
 - **Композиция дампа out of pattern:** 3 поста, все три — content-heavy (не carousel-filler). Это **аномальная плотность signal'а**: обычно founder-канал в editorial режиме чередует heavy и retention-only посты ~1:5. Возможные интерпретации: (а) случайность 3-дневного окна, (б) сдвиг редакционной политики к более плотному content-mix'у, (в) post-launch фаза (после open-event 15 мая) — канал переходит от event-PR к thought-leadership-контенту. Подтверждение требует 5-го дампа.
 - **Cross-link между постами:** 4-й дамп показывает, что **разные форматы могут жить рядом** в одном недельном цикле: личное эссе (#изархива) + философская выжимка (Эйнштейн) + бренд-некролог (7-Eleven). Канал не специализируется на одном жанре — это **content-mix как фича**, не баг.
 
+## Дополнительные наблюдения шестого дампа (май 2026)
+
+Шестой дамп ([[sources/2026-05-30-tg-portnyaginlive-20260530-122112]], 21 сообщение 26-30 мая) — **content-light срез**: 2 содержательных поста + 19 photo-carousel вложений. Возвращение к базовому ритму «heavy + retention-only» после аномально плотного 4-го дампа (что отвечает на гипотезу 4-го дампа: плотность была случайностью 3-дневного окна, не сдвигом редакционной политики).
+
+- **Новый 15-й формат «calendar-peg aspirational manifesto» — пост 11264 («День предпринимателя»).** Манифест-привязка к профессиональному празднику, который не продаёт продукт, а конструирует ценностную идентичность аудитории («предприниматели — люди с внутренней ошибкой», «новые Гагарины»). Отличается от milestone-storytelling (#5) тем, что **повод внешний** (календарный праздник, не дата компании) и **объект восхваления — аудитория**, а не бренд. Вынесен отдельной страницей: [[evolving/content-trends/calendar-peg-aspirational-manifesto]].
+- **Milestone storytelling (#5) применён к новому проекту — ресторану Manul (пост 11265, «Manul — 2 года»).** Тот же скелет «дата-якорь → origin story → challenge → metrics → CTA-празднование», что в anniversary-постах бань Siberia. Подтверждает воспроизводимость anniversary-template на разных бизнесах группы. Metrics в посте: топ-30 ресторанов РФ (со 140-й строчки), ≈7000 гостей/мес, 75% аудитории 25–45 лет.
+- **Cross-vertical воспроизведение cultural-narrative storytelling.** Manul (название из природно-культурного локуса — дикая кошка Сибири, концепция «наследие Сибири через гастрономию») переносит паттерн [[evolving/content-trends/cultural-narrative-brand-storytelling]] из hospitality (бани) в гастро-нишу. Закрывает TTL-триггер той страницы «первый воспроизведённый case».
+- **Канал продолжает работать как owned-media основного бизнеса:** оба содержательных поста — про проекты группы Портнягина (founder-aspiration манифест + ресторан Manul). Подтверждает тренд 3-го дампа: editorial-режим всё активнее = brand-PR собственных проектов, а не independent media.
+
 ## Маркетинговое следствие для GRO
 
 1. **Редакторский режим как option, не baseline:** GRO пока ведёт канал (если ведёт) в personal-founder-authorship режиме. Редакторский режим — это путь масштабирования, когда objem контент-плана превышает что founder может написать лично. Переход надо делать осознанно и с явным disclosure (тег `#редакцияканала` или аналог).
@@ -365,7 +374,8 @@ namespace: mkt
 - [[evolving/content-trends/telegram-native-formats]] — общая рамка native-форматов
 - [[evolving/content-trends/ru-business-tg-content-drift-2026]]
 - [[evolving/content-trends/immersive-theater-brand-launch-event]] — execution-фаза format #7 (открытие Siberia на Бауманской как иммерсивный спектакль)
-- [[evolving/content-trends/cultural-narrative-brand-storytelling]] — детализация 11-го формата (5 бань Siberia)
+- [[evolving/content-trends/cultural-narrative-brand-storytelling]] — детализация 11-го формата (5 бань Siberia) + cross-vertical reproduction (ресторан Manul, 6-й дамп)
+- [[evolving/content-trends/calendar-peg-aspirational-manifesto]] — 15-й формат (День предпринимателя, 6-й дамп)
 - [[canon/marketing-frameworks/petscom-unit-economics-failure]] — кейс из рубрики «Кладбище стартапов»
 - [[canon/marketing-frameworks/samwer-rocket-internet-fast-follower]] — positive case из той же educational рубрики (фактически в canon-strict, см. [[canon-strict/historical-campaigns/samwer-rocket-internet-fast-follower]])
 - [[canon-strict/historical-campaigns/seven-eleven-suzuki-takeover-1991-2026]] — третий кейс той же educational рубрики (4-й дамп, пост 11263, некролог-как-educational-hook)
@@ -379,6 +389,7 @@ namespace: mkt
 - [[sources/2026-05-05-tg-portnyaginlive-apr-20-may-1-2026]]
 - [[sources/2026-05-19-tg-portnyaginlive-20260519-122009]] — третий дамп (открытие Siberia + B2B-закупка)
 - [[sources/2026-05-26-tg-portnyaginlive-20260526-122652]] — четвёртый дамп (бизнес с друзьями, формула Эйнштейна, некролог Судзуки 7-Eleven)
+- [[sources/2026-05-30-tg-portnyaginlive-20260530-122112]] — шестой дамп (День предпринимателя манифест, Manul 2 года, content-light срез)
 
 ## Backlinks
 

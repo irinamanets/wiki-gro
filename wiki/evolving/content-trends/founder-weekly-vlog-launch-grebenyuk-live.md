@@ -9,8 +9,8 @@ tags: [content, video, youtube, founder-channel, personal-brand, vlog, productio
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-grebenukm-may-19-25-2026.md]
+updated: 2026-05-30
+sources: [sources/2026-05-26-tg-grebenukm-may-19-25-2026.md, sources/2026-05-30-tg-grebenukm-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -155,6 +155,20 @@ Post 7500 (2026-05-25 19:59 UTC, ≈5 часов после публикации
 - **«Феномен Седова» сравнение** — внутренний бенчмарк Гребенюка, не universal.
 - **High-risk plot device** (медицина как ставка репутации) — у GRO нет equivalent high-stakes-vertical для plot. Может появиться, когда продукт будет выходить в новый сегмент.
 
+## Post-launch continuation (26–29 мая 2026)
+
+Восьмой дамп @grebenukm (7501–7506, см. [[sources/2026-05-30-tg-grebenukm-may-26-29-2026]]) даёт первые post-launch-сигналы формата — пока качественные, без новых метрик:
+
+- **On-location field-content внутри plot device.** Если launch-серия была про studio-format и pre-launch production, то теперь съёмка переходит на площадку high-stakes-вертикали — ЕС-клиники. Пост 7504 (2026-05-29): Гребенюк приезжает в офис клиники, команда устраивает ему **симуляцию реального клиентского пути** («сейчас мы будем вам продавать», founder идёт «по всему пути клиента, как будто пришёл на реальную живую встречу»), всё снимается для влога. Реакция превосходной степени («Космос. Гении. Продукт топ»). Это подтверждает, что **plot device (медицина как ставка репутации) генерирует конкретный field-content**, а не остаётся абстрактным нарративом — формат масштабируется от «вот мой блог» к «вот как строится бизнес в кадре».
+
+- **Customer-journey walkthrough как content-генератор.** Внутренняя sales-diagnostic-практика (команда сама прогоняет founder'а по клиентскому пути — родственно secret-shopper-логике, см. [[canon/marketing-frameworks/secret-shopper-sales-diagnostic-vyakuba]]) превращается в готовый эпизод. **Counter-pattern для GRO:** «прогон по собственному клиентскому пути на камеру» — переносимый content-формат, который одновременно (а) служит UX/sales-аудитом и (б) даёт authentic-reaction-материал.
+
+- **Content-variance после novelty-launch.** Тизер 7502 (2026-05-26) — «Ждёте новый влог? Тема не стрельнула?» — founder открыто признаёт, что не каждый эпизод/тизер набирает. Это первый сигнал, что **20к/5ч launch-эффект первой серии не гарантирован per-episode**. Согласуется с гипотезой «дождаться эпизодов 5–10, чтобы отделить novelty от sustained engagement» (ниже). Видео-вложение тизера недоступно — содержание не извлекаемо.
+
+- **Кросс-канальная отсылка к peer-founder'у.** Посты 7505–7506 (2026-05-29): Гребенюк комментирует Instagram-видео Сергея Иванова (Эфко) про офисы. Слабый сигнал о том, что **офис/площадка как content-объект** циркулирует в RU-founder-инфо-поле (employer-brand / «покажи где работаешь»). Видео недоступны, фактуру Иванова извлечь нельзя — фиксируется как cross-reference, не как самостоятельный паттерн.
+
+`confidence` остаётся `medium`: это вторая обсервация того же founder'а, добавляет continuity-фактуру, но без новых независимых метрик и без второго founder'а с аналогичным форматом.
+
 ## Что нужно, чтобы повысить confidence
 
 - Дождаться эпизодов 5–10 (≈2026-07): удержится ли engagement или это launch-эффект?
@@ -170,4 +184,6 @@ Post 7500 (2026-05-25 19:59 UTC, ≈5 часов после публикации
 - [[evolving-strict/market-data/youtube-ad-revenue-2025-2026]] — макро-контекст YouTube как distribution channel
 - [[evolving/content-trends/portnyagin-founder-channel-patterns]] — adjacent founder-channel formats (editorial vs personal authorship)
 - [[evolving/content-trends/biznes-s-nulya-founder-diy-format-2026]] — adjacent founder-vlog DIY-формат
-- [[sources/2026-05-26-tg-grebenukm-may-19-25-2026]] — источник
+- [[sources/2026-05-26-tg-grebenukm-may-19-25-2026]] — источник (launch первой серии)
+- [[sources/2026-05-30-tg-grebenukm-may-26-29-2026]] — источник (post-launch continuation: on-location в ЕС-клинике, content-variance)
+- [[canon/marketing-frameworks/secret-shopper-sales-diagnostic-vyakuba]] — adjacent (customer-journey walkthrough родственен secret-shopper-диагностике)

@@ -10,7 +10,7 @@ confidence: medium
 stale: false
 created: 2026-04-14
 updated: 2026-05-28  # +§15 ЦИПР-2026 Альфа-Банк production-кейс: ИИ-агент проводит 80% проверок документов ВЭД с точностью 90% (rb.ru #46252, 2026-05-22) — крупнейший single-bank numeric proof-point RU AI-в-production за май 2026. Prior: +§14 cost-routing как операционная переменная: ClawRouters auto-route на дешёвую модель (-70-90% по словам Кумара Виаса) — @solokumi 416
-sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-mspiridonov-mar-apr-2026.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes.md, sources/2026-05-26-tg-rb-ru-may-19-26-2026.md]
+sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-15-tg-incrussiamedia-apr-8-14-2026.md, sources/2026-04-14-tg-mspiridonov-mar-apr-2026.md, sources/2026-04-14-tg-portnyaginlive-mar-apr-2026.md, sources/2026-04-16-dzen-inc-nvidia-cadence-robot-simulation.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-dnative-7598-7611.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-19-tg-incrussiamedia-may-11-17-2026.md, sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes.md, sources/2026-05-26-tg-rb-ru-may-19-26-2026.md, sources/2026-05-30-tg-ai-newz-may-26-28-2026.md]
 namespace: mkt
 ---
 
@@ -266,6 +266,9 @@ namespace: mkt
 - [[sources/2026-05-19-tg-incrussiamedia-may-11-17-2026]] — первоисточник §13 (Andon Café Стокгольм + Restik РФ)
 - [[sources/2026-05-19-tg-solokumi-416-openclaw-vs-hermes]] — первоисточник §14 (cost-routing ClawRouters / OpenRouter)
 - [[evolving/competitor-positioning/openclaw-vs-hermes-agent-tools-2026]] — DIY-агенты OpenClaw vs Hermes (контекст §14)
+- [[canon/marketing-frameworks/intent-first-agentic-pdlc-sber]] — enterprise-методология agentic-разработки (Сбер «AI-Disrupt PDLC»): двухпетлевая IDP, R0–R5 autonomy ladder, FinOps-предохранители (×15 токенов) — рифмуется с §5 Software Factory и §14 cost-routing
+- [[evolving-strict/market-data/sber-agentic-dev-telemetry-2026]] — RU-production proof-points agentic dev (GigaCode 69% AI-кода, 93% авто-аппрув) — параллель к §15 Альфа-Банк
+- [[evolving/industry-trends/on-device-ai-quantization-2026]] — on-device квантизация как контр-тренд к vendor lock-in (§4) и третий вектор удешевления inference
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [b2b, ai, consideration, decision]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +Сбер GigaAgent enterprise positioning «1 сотрудник = работа пятерых» (Крестников через Егошина-куратора) — second mainstream source FTE-метрики
-sources: [sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-04-16-dzen-inc-rocket-control-industrial-ai-roi.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md, sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026.md]
+updated: 2026-05-30  # +TYPICAL (пост 1343) рамка «ассистент vs реструктуризация»: FTE высвобождается только в режиме реструктуризации; +3 кейса (Klarna/Revolut/Lovable) с numeric anchors; +макро-фон Goldman/Gartner/89%
+sources: [sources/2026-04-14-tg-egoshin-kedprof.md, sources/2026-04-14-tg-temno-moreynis-mar-apr-2026.md, sources/2026-04-16-forbes-megafon-megaritm-cvm.md, sources/2026-04-16-dzen-inc-rocket-control-industrial-ai-roi.md, sources/2026-04-16-dp-ru-retail-robotization-labor-deficit.md, sources/2026-05-26-tg-egoshin-kedprof-may-20-26-2026.md, sources/2026-05-30-tg-productsandstartups-may-27-29-2026.md, sources/2026-05-30-tg-typicalcompany-may-27-29-2026.md]
 namespace: mkt
 ---
 
@@ -154,8 +154,36 @@ FTE-метрика от Егошина — **одна из двух конкур
 
 Полный разбор всех 6 направлений «куда уплывает ценность в AI-стеке» — в [[evolving/industry-trends/ai-value-migration-2026]]. Полный playbook B2B-продаж — в [[canon/marketing-frameworks/b2b-ai-sales-playbook-moreynis]].
 
+## Почему FTE — это правильная метрика, а tokenmaxxing — нет (добавлено 2026-05-30)
+
+FTE как outcome-метрика напрямую противопоставлена **activity-метрикам** внедрения AI, которые легко гонять. Кейсы Amazon (KPI «>80% юзают AI еженедельно» + лидерборды по токенам) и Disney показали: как только потреблённые токены / число запросов становятся KPI, сотрудники начинают «tokenmaxxing» — гонять метрику впустую (закон Гудхарта/Кэмпбелла). Источник Amazon — [[sources/2026-05-30-tg-productsandstartups-may-27-29-2026|@ProductsAndStartups, Аннаков]] `[conf:medium, src:2026-05-27]`.
+
+**Вывод для FTE-нарратива:** освобождённое FTE / time-to-output — это **outcome**, который нельзя нагнать пустыми запросами (либо работа реально закрыта быстрее меньшим составом, либо нет). Именно поэтому FTE устойчивее как метрика внедрения, чем токены/запросы. Обобщённый диагностический фреймворк «плохая (gameable) → хорошая (outcome) метрика» — в [[canon/marketing-frameworks/goodhart-law-ai-adoption-metrics]].
+
+## Ассистент vs реструктуризация — TYPICAL рамка + 3 кейса (добавлено 2026-05-30)
+
+Из [[sources/2026-05-30-tg-typicalcompany-may-27-29-2026|TYPICAL пост 1343]] (`2026-05-29`) приходит рамка, которая **уточняет, как именно FTE высвобождается**. Полный фреймворк — [[canon/marketing-frameworks/ai-assistant-vs-restructuring-typical]].
+
+**Тезис:** FTE-эффект возникает **только в режиме реструктуризации** (убрать шаг-посредник целиком), а не в режиме ассистента (тот же процесс, чуть быстрее). Прямой тест TYPICAL:
+- «5 человек делали отчёт за неделю, теперь за 3 дня» = ассистент → FTE **не** высвобождается (те же люди заняты).
+- «2 человека делают за 2 дня, 3 переведены на другие задачи» = реструктуризация → **3 FTE высвобождены**.
+
+Это операционализирует FTE-метрику: она движется только когда люди **перенаправлены**, а не когда им просто быстрее. Совпадает с messaging-nuance Соколова «технологии закрывают не вакансии, а функции».
+
+**Три кейса реструктуризации (numeric anchors):**
+- **Klarna:** голосовой агент ElevenLabs ведёт разговор сам → тикеты решаются в **10× быстрее**; при ассистентном режиме (AI-подсказки операторам) было бы только **1,5×** `[conf:medium, src:2026-05-29]`.
+- **Revolut:** свой прототип голосового AI-агента → заказ ElevenLabs, **31 язык** из одной конфигурации, **4 млн клиентов**, время ответа **−8×**, штат не вырос `[conf:medium, src:2026-05-29]`.
+- **Клиенты Lovable (Uber, Klarna, Deutsche Telekom):** убрали IT как посредника — прототип за **часы** вместо **3–6 месяцев**; компания тестирует **десятки** гипотез/год вместо **2–3** `[conf:medium, src:2026-05-29]`.
+
+**Макро-фон (TYPICAL пост 1343):** Goldman Sachs (нет связи AI↔продуктивность на макро), **89% менеджеров** не заметили изменений (adoption **61%→71%** за 3 года), Gartner (**>40% AI-проектов** закроется к 2027) `[conf:medium, src:2026-05-29]`. Полная интерпретация через J-curve — [[evolving/industry-trends/ai-productivity-j-curve-2026]].
+
+**Anti-benchmark для GRO остаётся в силе:** GRO не должен входить в B2B с FTE-multiplier риторикой (проигрышная ниша против Сбер GigaAgent). Но рамку «ассистент vs реструктуризация» можно использовать в personal-productivity нарративе: «AI-ассистент делает тебя быстрее; AI-реструктуризация убирает шаг — GRO про то, какие шаги в твоём дне вообще не нужны».
+
 ## Cross-links
 
+- [[canon/marketing-frameworks/ai-assistant-vs-restructuring-typical]] — почему FTE высвобождается только в режиме реструктуризации + 3 кейса.
+- [[sources/2026-05-30-tg-typicalcompany-may-27-29-2026]] — источник рамки и кейсов Klarna/Revolut/Lovable.
+- [[canon/marketing-frameworks/goodhart-law-ai-adoption-metrics]] — почему activity-метрики (токены) коррумпируются, а FTE как outcome — нет.
 - [[canon/marketing-frameworks/egoshin-ai-adoption-ladder]] — лестница, FTE — метрика продвижения по ней.
 - [[canon/marketing-frameworks/four-paths-it-market-future]] — путь 4 (продажа результата) измеряется в FTE.
 - [[canon/marketing-frameworks/b2b-ai-sales-playbook-moreynis]] — 8 правил B2B-продаж ИИ-продуктов (включая «экономия vs рост выручки»).

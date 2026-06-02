@@ -9,8 +9,8 @@ tags: [content-marketing, lead-magnet, funnel, ebook, self-published, seasonal-l
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md, sources/2026-05-26-petrosian-book-1-how-to-prepare-for-change.md, sources/2026-05-26-petrosian-book-2-how-to-start-changes.md]
+updated: 2026-05-30
+sources: [sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md, sources/2026-05-26-petrosian-book-1-how-to-prepare-for-change.md, sources/2026-05-26-petrosian-book-2-how-to-start-changes.md, sources/2026-05-30-tg-stodnevka2-2327-five-rules-on-palm.md]
 namespace: mkt
 ---
 
@@ -73,6 +73,17 @@ Trigger: пост 2312                  Sustained engagement             Convers
 - Цена не публикуется в TG-канале (вероятно — landing-page-only)
 
 **Conversion event:** **сезонный trigger «1 июня»** + **«среда людей, которые не ждут "Когда?"»** (пост 2323, см. [[canon/marketing-frameworks/petrosian-when-question-doing-vs-planning]]).
+
+## Pre-launch reaffirmation (пост 2327, 2026-05-30)
+
+За день до старта Петросян выкладывает финальный pre-launch пост: рисованную от руки схему **«Пять правил на ладони»** для 15-минутной работы (см. [[canon/marketing-frameworks/petrosian-five-rules-on-palm-15min-work]], [[sources/2026-05-30-tg-stodnevka2-2327-five-rules-on-palm]]) + повтор анонса «1 июня начинаем новую Стодневку» и переформулировку программы как «сто раз по пятнадцать минут, а не марафон силы воли».
+
+**Что добавляет к воронке:**
+- **Top-funnel content-asset нового типа.** Помимо 76-страничных PDF (high-effort) автор использует **single-frame hand-drawn мнемонику** — дешёвый, легко-shareable awareness-актив. Это нижняя ступень content-effort-ladder того же funnel'а: один кадр на ладони vs. целая книга.
+- **Content-craft паттерн «личный рукописный артефакт как trust-сигнал».** Caption «нарисовал лет десять назад» подчёркивает evergreen-переиспользование личного эскиза — контраст с polished Substack-cards (письмо #13) из того же канала. Два визуальных регистра в одной воронке: rough-personal (trust) и polished-promo (CTA).
+- **Conversion-timing.** Пост за сутки до старта = last-call reminder, замыкающий summer-trigger на конкретную дату.
+
+`[conf:high, src:2026-05-30]` — пост 2327.
 
 ## Summer-positioning hook
 
@@ -141,6 +152,8 @@ GRO — продукт ежедневного журналирования. Petr
 ## Связанные страницы
 
 - [[sources/2026-05-26-tg-stodnevka2-may-20-26-2026]] — первоисточник
+- [[sources/2026-05-30-tg-stodnevka2-2327-five-rules-on-palm]] — pre-launch пост 2327 (мнемоника «Пять правил на ладони»)
+- [[canon/marketing-frameworks/petrosian-five-rules-on-palm-15min-work]] — single-frame top-funnel content-asset
 - [[sources/2026-05-26-petrosian-book-1-how-to-prepare-for-change]] — TOP-funnel artifact 1
 - [[sources/2026-05-26-petrosian-book-2-how-to-start-changes]] — TOP-funnel artifact 2
 - [[evolving/industry-trends/max-messenger-author-rejection-2026]] — MID-funnel context

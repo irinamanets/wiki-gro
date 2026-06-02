@@ -9,8 +9,9 @@ tags: [content-marketing, vc-ru, native-advertising, job-seekers]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-26  # +5-й батч vc.ru/hr (50 статей, ≥22 advertorial одновременно) — пиковая плотность Паттерна 1 + qualitative-расширение Паттерна 3 (worker-side в комментариях) + Big Tech-нарратив (Bolt founder + Meta surveillance) как Паттерн 6
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-19-vcru-hr-remote-work-kemerovo-city-seo-listicle.md, sources/2026-05-19-vcru-hr-udalennaya-rabota-v-penze.md, sources/2026-05-26-condense-vcru-hr-50-articles.md]
+updated: 2026-06-01  # +Паттерн 7 «честный разбор / не рейтинг» (6-й батч): эволюция Топ-N → анти-рейтинг, «AI = маркетинговый базис»
+prev_updated: 2026-05-26  # +5-й батч vc.ru/hr (50 статей, ≥22 advertorial одновременно) — пиковая плотность Паттерна 1 + qualitative-расширение Паттерна 3 (worker-side в комментариях) + Big Tech-нарратив (Bolt founder + Meta surveillance) как Паттерн 6
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-19-vcru-hr-remote-work-kemerovo-city-seo-listicle.md, sources/2026-05-19-vcru-hr-udalennaya-rabota-v-penze.md, sources/2026-05-26-condense-vcru-hr-50-articles.md, sources/2026-06-01-condense-vcru-hr-51-articles.md]
 namespace: mkt
 ---
 
@@ -79,6 +80,19 @@ Garmony AI продемонстрировала устойчивый форма�
 
 **Полный разбор Big Tech HR-новостей мая 2026** — на [[volatile-strict/industry-news/big-tech-hr-news-may-2026]].
 
+## Паттерн 7: «Честный разбор / не рейтинг, а что реально работает» (6-й батч, 2026-06-01)
+
+Из [[sources/2026-06-01-condense-vcru-hr-51-articles|6-го батча vc.ru/hr]] кристаллизуется доминирующий **micro-формат** внутри Паттерна 1 (серийный advertorial): длинный материал, явно позиционирующий себя как **«не рейтинг, а честный разбор / что реально работает»**, с количественными кейсами «до/после» в часах и рублях и встроенной рекламой одного вендора.
+
+**Распознавательные признаки:**
+- Заголовок/лид обещает «честность» и противопоставляет себя «обычным рейтингам» («не очередной топ-10, а реальный опыт»).
+- Тело — quantitative кейсы «было 30-40 ч ручного скрининга → стало 3 минуты», «cost-per-hire 170-400 тыс → 80-130 тыс».
+- В конце — один вендор (Garmony) как «решение, которое реально работает».
+
+**Почему формат сильный:** «честный разбор» снимает рекламную защиту читателя (frame «это не реклама, это правда») при сохранении всей advertorial-механики. Это эволюция от «Топ-N с собой на #1» (Паттерн 4) к **«анти-рейтинг»** — тот же CTA, но обёрнутый в trust-через-критику-жанра. Мета-сигнал батча: «**слово AI в описании — больше не характеристика, а маркетинговый базис**» `[conf:medium, src:2026-05-30]` — AI-метка commoditized, дифференциация ушла на уровень «честности подачи».
+
+**Переносимость для GRO:** высокая для blog-контента — формат «не очередной список приложений для продуктивности, а что реально работает (с цифрами)» переносится напрямую, но **без fake-вендор-рейтинга** (GRO — не B2B-tool). Берём trust-через-честность + quantitative «до/после», отбрасываем «рейтинг с собой на #1».
+
 ## Переносимость для GRO
 
 | Паттерн | Переносимость | Как адаптировать |
@@ -100,3 +114,5 @@ Garmony AI продемонстрировала устойчивый форма�
 - [[sources/2026-05-19-vcru-hr-udalennaya-rabota-v-penze]] -- exemplar Паттерна 5
 - [[sources/2026-05-26-condense-vcru-hr-50-articles]] -- 5-й батч: пиковая плотность Паттерна 1 + Паттерн 6 (Big Tech founder/surveillance)
 - [[volatile-strict/industry-news/big-tech-hr-news-may-2026]] -- Big Tech HR-новости мая 2026 (детальный разбор Паттерна 6)
+- [[sources/2026-06-01-condense-vcru-hr-51-articles]] -- 6-й батч: Паттерн 7 «честный разбор / не рейтинг» + «AI = маркетинговый базис»
+- [[evolving/industry-trends/ai-employee-surveillance-trend-2026]] -- AI-надзор (Паттерн 6 surveillance-pushback exemplars)

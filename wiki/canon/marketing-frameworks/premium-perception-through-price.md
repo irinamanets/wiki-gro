@@ -125,6 +125,7 @@ Premium-positioning имеет **два независимых axis**:
 ## Связанные страницы
 
 - [[canon/product-knowledge/gro-intensive]] — GRO «Интенсив» как собственный concrete-case premium-через-цену (240–400k ₽, стабильный anchor)
+- [[canon/marketing-frameworks/experiential-premium-tariff-uber-drift]] — premium через впечатление (experiential): Uber Drift $190/90мин как brand-activation
 - [[canon/marketing-frameworks/goyard-anti-marketing-luxury-friction]] — parallel premium-через-трение (Goyard concrete-case)
 - [[canon/marketing-frameworks/refused-customer-interview]] — отказ от неподходящего клиента как часть премиум-позиционирования
 - [[canon/marketing-frameworks/service-as-strategy-three-pillars-chepalova]] — RU-кейс «средний-плюс/премиум = меньше конкуренции»: +40% выручки при сознательном сокращении числа клиентов (рост чека), сервис как обоснование премиум-планки

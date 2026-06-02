@@ -9,8 +9,8 @@ tags: [russia, macro, deflation, pmi, fx, key-rate, q2-2026, market-data]
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-26  # +downtrading hard-data corroboration от «Ъ» (TG-дайджест 7 мая, посты 106836/106848/106869): бытовая техника −11,6% выручки, водка +5% (downtrading в дешёвый сегмент), ТЦ Мск/СПб −5–7% посещаемости. Prior: +second-source дефляции/инфляции/нефтегаза от «Ъ» 6 мая
-sources: [sources/2026-05-14-tg-moibiz-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-19-tg-kommersant-20260519-110036.md, sources/2026-05-26-tg-kommersant-may-7-2026.md]
+updated: 2026-05-30  # +FX corroboration официального курса ЦБ на праздники/12 мая (USD ₽74,30, EUR ₽88,55, юань ₽10,93) из @rbc_news 148890; +ссылка на Росстат-зарплаты янв–фев 2026. Prior: +downtrading hard-data от «Ъ» 7 мая
+sources: [sources/2026-05-14-tg-moibiz-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-19-tg-kommersant-20260519-110036.md, sources/2026-05-26-tg-kommersant-may-7-2026.md, sources/2026-05-30-tg-rbc-news-may-8-2026.md]
 namespace: mkt
 ---
 
@@ -30,6 +30,9 @@ namespace: mkt
 | USD-RUB, 5 мая 2026 | 75,34 ₽ | `[conf:high, src:2026-05-06]` |
 | USD-RUB, 7 мая 2026 | 74,62 ₽ | `[conf:high, src:2026-05-08]` |
 | USD-RUB, 11 мая 2026 | 74,30 ₽ | `[conf:high, src:2026-05-12]` |
+| Офиц. курс ЦБ USD на праздники и 12 мая (РБК 148890, изм. −₽0,32) | 74,30 ₽ | `[conf:high, src:2026-05-08]` |
+| Офиц. курс ЦБ EUR на праздники и 12 мая (изм. +₽0,66) | 88,55 ₽ | `[conf:high, src:2026-05-08]` |
+| Офиц. курс ЦБ юань на праздники и 12 мая (изм. −₽0,04) | 10,93 ₽ | `[conf:high, src:2026-05-08]` |
 | USD-RUB, 12 мая 2026 | 73,79 ₽ | `[conf:high, src:2026-05-13]` |
 | USD-RUB, 13 мая 2026 | 73,34 ₽ | `[conf:high, src:2026-05-14]` |
 | Тренд USD-RUB 5–13 мая 2026 | укрепление рубля на −2,65% за 8 дней | `[conf:high, src:2026-05-14]` |
@@ -67,6 +70,8 @@ namespace: mkt
 - Ожидание снижения ключевой ставки и flight-to-quality в рублёвые инструменты
 
 **Для бизнеса:** import-зависимые бизнесы получают **временную маржинальную поддержку**, экспортёры — **давление на рублёвую выручку**.
+
+**FX corroboration от РБК (148890, 8 мая).** ЦБ установил официальный курс на майские праздники и 12 мая: USD ₽74,30 (−₽0,32), EUR ₽88,55 (+₽0,66), юань ₽10,93 (−₽0,04). `[conf:high, src:2026-05-08]` Официальный курс ЦБ (фиксируется заранее на праздничные дни) отличается от торгового курса 12 мая (₽73,79) — это не противоречие, а разные котировки (официальный фикс vs биржевой). Юаневый курс — первая фиксация CNY-RUB в этом снапшоте. См. [[sources/2026-05-30-tg-rbc-news-may-8-2026]].
 
 ## Growth-сторона: интервью Новака «Ведомостям» (через @gurinovich_shares, пост 917, 2026-05-19)
 
@@ -149,5 +154,7 @@ namespace: mkt
 - [[sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026]] — источник growth-стороны (Новак/Гуринович, пост 917)
 - [[sources/2026-05-19-tg-kommersant-20260519-110036]] — источник second-source corroboration (дефляция/инфляция/нефтегаз, 6 мая)
 - [[sources/2026-05-26-tg-kommersant-may-7-2026]] — источник downtrading hard-data (бытовая техника, водка, ТЦ, 7 мая) `[conf:high, src:2026-05-07]`
+- [[sources/2026-05-30-tg-rbc-news-may-8-2026]] — источник FX-corroboration (офиц. курс ЦБ на 12 мая, РБК 148890)
+- [[evolving-strict/market-data/ru-rosstat-wage-growth-jan-feb-2026]] — Росстат-зарплаты янв–фев 2026 (расходящийся сигнал: труд дорожает при охлаждении спроса)
 - [[canon/marketing-frameworks/consumer-downtrading-cross-category-pattern]] — общий downtrading-фреймворк, агрегирующий все сигналы
 - [[evolving/industry-trends/ru-offline-retail-decline-2026]] — параллельный retail-decline-страничка с теми же сигналами

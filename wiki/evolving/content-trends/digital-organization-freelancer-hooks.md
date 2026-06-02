@@ -76,3 +76,4 @@ Kwork — крупнейшая российская биржа фриланса 
 - [[canon/target-audience/gro-segments]] — Сегмент 3 (фрилансеры) как primary-аудитория угла
 - [[evolving/content-trends/marketplace-content-driven-category-dev]] — Kwork information advantage как обоснование topic-fit угла
 - [[evolving/content-trends/freelancer-growth-narrative-hooks]] — параллельное hook-семейство для той же фрилансер-аудитории
+- [[evolving/content-trends/freelancer-pro-communication-signals]] — ещё один content-угол того же канала Kwork (профи в переписке, post 567)

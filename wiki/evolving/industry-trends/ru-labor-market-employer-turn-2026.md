@@ -9,9 +9,10 @@ tags: [labor-market, hiring, employer-market]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-26  # +Murmansk wage-floor anchor: помощник менеджера МП = 10 000 ₽/мес до НДФЛ (Кульгин 15988) — extreme SMB wage compression в регионах; QA-сегмент 130/2 (15962); +тестировщик
-prev_updated: 2026-05-19  # +восьмой голос (vc.ru/hr репост колонки для «Коммерсанта»): pay-for-results, технологии как инфраструктура рекрутинга, усложнение роли > смена профессии, hh весна −25%/+33% триангуляция; prior: +Середа (Pressfeed) седьмой голос на разворот, дуальный split массовые↔офисные, найм-vs-удержание
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-05-tg-startupoftheday-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-dzen-delovoymir-varako-hr-brand-survival-2026.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md]
+updated: 2026-06-01  # +10-й замер (6-й батч vc.ru/hr): hh весна −25%/+33%, безработица 2,2%, дефицит 2,4 млн, senior 5-10 офферов 48-72 ч, демографический провал 25-35 как структурный фактор, Preply global-миграция
+prev_updated: 2026-05-26  # +Murmansk wage-floor anchor: помощник менеджера МП = 10 000 ₽/мес до НДФЛ (Кульгин 15988) — extreme SMB wage compression в регионах; QA-сегмент 130/2 (15962); +тестировщик
+prev_updated_2: 2026-05-19  # +восьмой голос (vc.ru/hr репост колонки для «Коммерсанта»): pay-for-results, технологии как инфраструктура рекрутинга, усложнение роли > смена профессии, hh весна −25%/+33% триангуляция; prior: +Середа (Pressfeed) седьмой голос на разворот, дуальный split массовые↔офисные, найм-vs-удержание
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-05-tg-startupoftheday-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-14-hh-ru-performance-review-survey-2025.md, sources/2026-05-14-condense-hr-portal-13-articles.md, sources/2026-05-14-dzen-delovoymir-varako-hr-brand-survival-2026.md, sources/2026-05-19-tg-petrochenkow-20260519-112501.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md, sources/2026-06-01-condense-vcru-hr-51-articles.md]
 namespace: mkt
 ---
 
@@ -345,7 +346,39 @@ Operational-вытяжка из формулы. Если открытие вак
 - **Сегмент 2 (founder/SMB):** Кульгин-voice как operational founder, нанимающий и испытывающий wage-compression, добавляет **third-party credibility** разворотному нарративу.
 - **Геораспределение wage-floors** — потенциальный content-angle: «Что значит ваш ЕР зарплатный уровень в reality moscow vs Murmansk».
 
+## Десятый замер: 6-й батч vc.ru/hr (2026-06-01) — триангуляция и senior-leverage
+
+[[sources/2026-06-01-condense-vcru-hr-51-articles|Шестой батч vc.ru/hr (51 статья)]] добавляет ещё один независимый замер разворота и уточняет senior-сторону рынка.
+
+### Триангуляция количественных якорей (hh весна 2026)
+
+| Метрика | Значение | Source |
+|---|---|---|
+| Вакансии г/г | ≈ **−25%** («упало на четверть») | `[conf:medium, src:2026-05-30]` |
+| Активные резюме г/г | ≈ **+33%** («прибавило треть») | `[conf:medium, src:2026-05-30]` |
+| Безработица РФ | **2,2%** (исторический минимум) | `[conf:medium, src:2026-05-30]` |
+| Дефицит квалифицированных кадров | **>2,4 млн** человек | `[conf:medium, src:2026-05-30]` |
+
+Полное согласие по знаку и порядку с уже зафиксированными vc.ru / SuperJob / hh / Соулфул / Коммерсант-колонкой (см. таблицы выше). Это **четвёртый-пятый независимый замер** в одну сторону — разворот окончательно out of dispute.
+
+### Демографический провал как структурный (не конъюнктурный) фактор
+
+6-й батч явно артикулирует: **число людей 25-35 лет** (самая активная часть рынка труда) **физически сократилось** — это **структурный**, а не конъюнктурный фактор `[conf:medium, src:2026-05-30]`. Согласуется с «демографическим спадом 1990-х» в [[evolving-strict/market-data/ru-hiring-cost-benchmarks-2026]] (драйвер #3 роста стоимости найма).
+
+### Senior-leverage сохраняется при общем развороте
+
+Важный **нюанс к развороту**: при общем сдвиге к работодателю **senior-специалисты сохраняют переговорную силу** — получают **5-10 офферов одновременно**, решение об оффере принимают за **48-72 часа** `[conf:medium, src:2026-05-30]`. Это **прямое усиление K-образного тезиса** (Петроченков, 6-й голос) и дуального split'а (Середа, 7-й голос): разворот к работодателю давит на **офисный средний слой**, но **за дефицитным senior идёт охота**. «Менеджер по продажам» — 2-е место по доле активных вакансий (7,2% по стране, hh март 2026) `[conf:medium, src:2026-05-30]` — самый дефицитный массовый сегмент.
+
+### Глобальная миграция талантов (Preply, US/CA/UK, N=1500)
+
+Параллельный candidate-side сигнал `[conf:low, src:2026-05-30]`: 82% открыты к переезду в другую страну; 63% поколения Z потеряли работу за последние 2 года; 56% рассчитывают на более низкие расходы + лучший work-life balance за границей. Global-фон для RU-разворота: давление на молодых специалистов — не только российский феномен.
+
+### Применимость для GRO
+- **Сегмент 1 (карьеристы):** senior-leverage (5-10 офферов за 48-72 ч) — позитивный reframe для опытной аудитории: «если ты дефицитный профи, рынок всё ещё за тобой охотится; задача — оказаться в дефицитной категории».
+- **Сегмент 2 (работодатели):** «менеджер по продажам = 2-я по дефициту профессия» — content-bridge к найму sales-ролей (см. [[canon/marketing-frameworks/sales-hire-three-mistakes]]).
+
 ## Связанные страницы
+- [[sources/2026-06-01-condense-vcru-hr-51-articles]] — 10-й замер: hh весна −25%/+33%, безработица 2,2%, senior 5-10 офферов 48-72 ч, демографический провал 25-35
 - [[sources/2026-05-26-tg-bezsmuzi-may-8-11-2026]] — 9-й голос: Murmansk wage-floor 10к/мес, QA 130/2, «работа Шрёдингера»
 - [[sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026]] — 8-й голос: pay-for-results, технологии-инфраструктура, усложнение роли > смена профессии, hh весна −25%/+33%
 - [[sources/2026-05-18-pressfeed-rynok-truda-2026-sereda]] — Середа, 7-й голос: дуальный split массовые/офисные, найм-vs-удержание, ИИ как оптимизация

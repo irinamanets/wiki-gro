@@ -9,8 +9,8 @@ tags: [ai, solopreneurship, market-trends, agentic, content, awareness]
 confidence: medium
 stale: false
 created: 2026-04-11
-updated: 2026-05-26  # +Lovable+Semrush integration (Tabunov пост 634, 5-й ingest): barrier-to-entry на pre-launch ресерч продолжает падать ($140-269/мес инструменты → $0 встроены в L1 builder); +RemoveWise $21K MRR (пост 636) — каноничный bootstrap-кейс из «AI-Native Service Companies» из YC RFS; +founder-vs-passerby temporal якоря (пост 637). Prior: +Tabunov (yp 632) RU-специфика
-sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md]
+updated: 2026-05-30  # +демографический delta: AI убирает барьер разработки для не-технических/возрастных/женщин-фаундеров (@FounderWoman: средний возраст 45, Окамото в 80), conf:low single-source; prior: +Lovable+Semrush integration (Tabunov пост 634): barrier-to-entry на pre-launch ресерч продолжает падать; +RemoveWise $21K MRR (пост 636); +founder-vs-passerby temporal якоря (пост 637); +Tabunov (yp 632) RU-специфика
+sources: [sources/2026-04-11-podcast-ai-solopreneur.md, sources/2026-04-16-vcru-blogs-molyanov-spiridonov-gorny.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-vcru-spiridonov-id79772-condensed.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-temno-moreynis-may-14-19-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md, sources/2026-06-01-condense-vcru-molyanov-may-2026.md, sources/2026-05-30-tg-founderwoman-may-28-2026.md]
 namespace: mkt
 ---
 
@@ -278,6 +278,29 @@ Hyperliquid — это **не AI-продукт** (крипто-деривати
 Если **окно 2026-2029** ≈ 3-летнее, и **типичный bootstrap-цикл** ≈ 3-5 лет, то фаундеры, **стартующие сейчас**, **выходят на устойчивую выручку как раз к закрытию окна** (или сразу после). Кто стартует через 1-2 года — **не успевает** прожить полный цикл внутри окна. Это критическая operational implication: **start-now-or-skip** диагноз.
 
 Полный разбор — [[canon/marketing-frameworks/founder-vs-passerby-mindset-tabunov]].
+
+## Update 2026-06-01 — Молянов (condensed май): vibecoding-adoption паттерн + микро-сервис-кейсы
+
+Из condensed-дайджеста 50 статей Молянова ([[sources/2026-06-01-condense-vcru-molyanov-may-2026]]) — несколько сигналов, уплотняющих RU-ветку окна:
+
+- **Паттерн принятия вайбкодинга у предпринимателей** [[sources/2026-06-01-vc-ru-molyanov-2724599-vaibkoding-predprinimateli]]: отрицание → осторожно пробуют → становятся «задротами»; радуются возможности сделать что-то крутое **самому и быстро**, без менеджмента `[conf:medium, src:2026-05-01]`. Подтверждает тезис «структурное преимущество мелких» эмоционально-поведенческим сигналом.
+- **Многозадачность как новый режим** [[sources/2026-06-01-vc-ru-molyanov-2710738-mnogozadachnost-v-rabote-agentov]]: один человек параллелит 2+ агента + текстовый план — операционализация «1 человек = команда» `[conf:medium, src:2026-05-01]`.
+- **Микро-сервис-кейсы как доказательство модели:** сервис проверки битых ссылок (Chrome Extension, сделан за день, 2500 пользователей, 80% из-за рубежа); бот @emoji_pic_bot — 10к пользователей за ~3 месяца; кейс участника Нейроцеха — бот с 26к пользователей, прибыль >200к за полгода `[conf:low, src:2026-05-01]` (см. [[evolving/content-trends/molyanov-ai-content-automation-patterns]]). Это «приземлённый» нижний край окна: не Hyperliquid-потолок, а бытовая монетизация одиночки.
+- **Агент-команда под бизнес-процессы:** Молянов построил 6 агентов в Claude Code под участки работы за ~1,5 месяца — конкретный пример инфраструктуры «армии агентов» из основного тезиса `[conf:medium, src:2026-05-01]`.
+
+Прочтение: дайджест не двигает тайминг-прогноз, но добавляет RU-практику в нижнем сегменте (бытовые боты/расширения), которой не хватало рядом с extreme-кейсами (Hyperliquid, $75M AI-инфлюенсер).
+
+## Демографический delta: барьер разработки падает для не-технических / возрастных / женщин-фаундеров (@FounderWoman, май 2026)
+
+Из [[sources/2026-05-30-tg-founderwoman-may-28-2026|поста @FounderWoman, 2026-05-28]] (автор не верифицирован, `conf:low`) — single-source демографический сигнал, дополняющий тезис «барьер входа упал»:
+
+- ИИ описывается как «стиратель единственного барьера в вопросах разработки» для тех, кто хотел начать своё дело, но не имел технических навыков. Это качественно перекликается с барьером $200 (см. «Барьер входа как маркетинг-сигнал») и vibecoding-нарративом, но добавляет **демографическую ось**, которой нет в основном (преимущественно молодой/мужской) solopreneur-нарративе:
+  - Средний возраст женщин-фаундеров, строящих стартап на ИИ, — ~45 лет (анекдот, не статистика).
+  - Экстремальный кейс верхней границы: Нобуко Окамото запустила платформу в 80 лет.
+
+**Implication для нарратива окна:** окно solopreneur'ства открыто не только для технических молодых фаундеров, но и расширяет **демографический охват** — не-технические, возрастные, женщины-основатели входят в окно именно потому, что ИИ снял разработческий барьер. Это пересечение с контр-нарративом [[evolving/content-trends/late-starter-founder-narrative-hooks]] (AI-enabled late-starter sub-архетип, Hook 6–7): расширение окна по возрасту и полу, а не только вглубь по капиталу/скорости.
+
+**Caveat:** цифры (45, 80) — single-source неверифицированный founder-блог. Не использовать как статистику; пригодны только как иллюстративные anchor'ы.
 
 ## Contradictions
 

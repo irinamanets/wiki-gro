@@ -9,8 +9,8 @@ tags: [labor-market, russia, employer-shift, ageism, hh-ru, structural-deficit]
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-condense-vcru-hr-50-articles.md]
+updated: 2026-05-30  # +алгоритмическая институционализация дисбаланса: hh.ru ранжирование по объёму откликов (май 2026)
+sources: [sources/2026-05-26-condense-vcru-hr-50-articles.md, sources/2026-05-30-hh-ru-article-vacancy-ranking-responses.md]
 namespace: mkt
 ---
 
@@ -71,6 +71,12 @@ namespace: mkt
 
 Это согласуется с разворотом к работодателю: соискатели, осознавшие пресыщение рынка, идут не за «знаниями вообще», а за конкретной переквалификацией под дефицитные ниши. Hook для GRO: «инвестируй в системность, а не в очередной короткий курс».
 
+## Алгоритмическая институционализация дисбаланса (hh.ru, май 2026)
+
+Структурный дисбаланс спроса/предложения, описанный выше как нарратив, к маю 2026 **зашит в продукт** крупнейшей платформы РФ. hh.ru добавила в алгоритм поиска фактор «проявленной активности кандидатов»: вакансии с непропорционально большим числом откликов **могут опускаться** в выдаче — платформа явно ссылается на «структурный дисбаланс спроса и предложения как среди белых, так и среди синих воротничков» как обоснование. `[conf:medium, src:2026-05-30]`
+
+Это сигнал зрелости тренда: разворот к работодателю перестал быть только наблюдением аналитиков — он стал **ранжирующим сигналом**, которым платформа перераспределяет внимание соискателей от перегретых вакансий к недополучающим. Источник — официальная статья hh.ru ([[sources/2026-05-30-hh-ru-article-vacancy-ranking-responses]]). Разбор механики и upsell-логики — в [[volatile-strict/industry-news/hh-ru-vacancy-response-ranking-may-2026]].
+
 ## Импликации для маркетинга GRO
 
 1. **Сегмент 1 (карьеристы) — re-skilling-нарратив укрепился.** «Если ты в перенасыщенной нише — твоё резюме читают не три рекрутера, а ChatGPT за 2 секунды и отказывает. Системность — единственный способ быть прочитанным.» См. также [[canon/target-audience/gro-segments|Сегмент 1, employee-side angle]].
@@ -89,4 +95,7 @@ namespace: mkt
 - [[evolving/industry-trends/ai-recruiting-humanity-countertrend-2026]] — HR-as-психология без инструментария
 - [[canon/target-audience/gro-segments]] — Сегмент 1 (карьеристы) + Сегмент 2 (SMB-найм)
 - [[evolving/content-trends/career-audience-hooks-2026]] — content-hooks для карьерной аудитории
-- [[sources/2026-05-26-condense-vcru-hr-50-articles]] — первоисточник
+- [[volatile-strict/industry-news/hh-ru-vacancy-response-ranking-may-2026]] — алгоритмическая институционализация дисбаланса
+- [[evolving/competitor-positioning/hh-ru-hrtech-platform]] — профиль экосистемы hh.ru
+- [[sources/2026-05-26-condense-vcru-hr-50-articles]] — первоисточник макро-сдвига
+- [[sources/2026-05-30-hh-ru-article-vacancy-ranking-responses]] — первоисточник ранжирования по откликам

@@ -9,8 +9,8 @@ tags: [content, telegram, founder-voice, hooks, solopreneurship, case-studies, l
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +5-й ingest 2026-05-26 (посты 634-637): Lovable+Semrush integration + YC Summer 2026 RFS bootstrap-filter + RemoveWise $21K MRR cold-outreach кейс + founder-vs-passerby persistence-фрейм с timeline-якорями
-sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md]
+updated: 2026-05-30  # +6-й ingest 2026-05-30 (посты 638-640): 8 правил маркетинга + Claude Code capability boundary + Polsia vanity-metrics teardown. Prior: +5-й ingest (посты 634-637)
+sources: [sources/2026-04-14-tg-your-pet-project-jan-apr2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-13-tg-your-pet-project-may-6-13-2026.md, sources/2026-05-19-tg-your-pet-project-may-14-18-2026.md, sources/2026-05-26-tg-your-pet-project-may-20-25-2026.md, sources/2026-05-30-tg-your-pet-project-may-27-29-2026.md]
 namespace: mkt
 ---
 
@@ -328,6 +328,41 @@ namespace: mkt
 - **«Бросишь на полпути — дело не в проекте. Дело в тебе.»** — provocative founder-voice closing.
 - **Adaptation для GRO:** жёсткую «ты лузер, если бросил» формулировку переформулировать в «GRO помогает не оказаться в этой ловушке через системность ежедневных шагов».
 
+## Hooks из дельты шестого дампа (посты 638-640, 2026-05-30)
+
+Добавлено [delta] из [[sources/2026-05-30-tg-your-pet-project-may-27-29-2026|шестого ingest'a канала]]. Три темы.
+
+### 8 правил маркетинга для своего проекта (пост 638)
+
+См. [[canon/marketing-frameworks/eight-marketing-laws-pet-project-tabunov]]. Killer one-liners:
+
+- **«Маркетинг — это не творчество и креатив. Это про логику и про математику.»** — opening contrarian hook.
+- **«Если у тебя нет ответа на вопрос "где я возьму первых 100 платящих" — сиди и думай, не начинай.»** — diagnostic gate-hook (traffic-first).
+- **«Никому не нужна дрель. Всем нужна дырка в стене.»** — outcome-over-feature one-liner.
+- **«Заголовок — это 80% успеха. 80% людей читают только заголовок.»** — copywriting priority hook.
+- **«Не измеряешь клик, лид, триал и окупаемость — ты играешь в казино.»** — measure-everything hook.
+- **«Маркетинг — это один раз верно выбрать позиционирование.»** — closing one-liner.
+
+### Claude Code в маркетинге — capability boundary (пост 639)
+
+См. [[evolving/industry-trends/ai-agent-marketing-capability-boundary-2026]]. Killer one-liners:
+
+- **«Чувак запустил Claude Code, ушёл спать, утром лендинг, креативы и +$3к на счету. Звучит как мечта — но есть нюанс.»** — opening myth-busting hook.
+- **«Claude силён там, где чёткое ТЗ и понятный критерий верно/неверно. В маркетинге правильного ответа в моменте нет.»** — diagnostic boundary hook.
+- **«Отключать кампанию или держать, почему пост кажется буллшитом — это пока может делать только человек.»** — human-in-the-loop hook.
+- **Anti-pattern для GRO:** не транслировать «AI заменит маркетолога» — нужен balanced нарратив «AI снимает рутину, человек остаётся на вкусовых решениях».
+
+### Polsia — vanity-metrics teardown (пост 640)
+
+См. [[volatile-strict/industry-news/polsia-vanity-metrics-teardown-2026]]. Killer one-liners (editorial-skepticism тон):
+
+- **«Один чувак поднял $30M на оценке $250M. Название его стартапа задом наперёд читается как AI SLOP.»** `[conf:high, src:2026-05-29]` — opening provocative hook.
+- **«Из заявленных $10M ARR реально подписочной выручки — $4.6M. Взяли месячный кешфлоу и умножили на 12.»** `[conf:medium, src:2026-05-29]` — vanity-metric exposure hook.
+- **«Churn 48% в месяц. Через год от платящей базы остаётся 0.04%.»** `[conf:medium, src:2026-05-29]` — recurring-revenue reality hook.
+- **«Венчуры не покупают unit-экономику. Они покупают нарратив.»** — VC-narrative hook.
+- **«Можно собрать обёртку над Claude, прикрутить хайповый лендинг, нагнать псевдо-ARR — и поднять $30M. Сильный продукт не нужен.»** — editorial-skepticism closing.
+- **Anti-pattern для GRO:** только cautionary tale, не позитивный пример — «учитесь отличать нарратив от unit-экономики».
+
 ## Anti-hooks (что не транслировать)
 
 - **Матерок** — «нафиг», «хана», «жопа», «блин сука» — нормально для founder-voice Табунова, но tone of voice GRO не канонизирован (см. [[canon/brand-guidelines/gro-typography]]), по умолчанию переформулировать.
@@ -362,6 +397,10 @@ namespace: mkt
 - [[evolving/industry-trends/deepfake-removal-saas-market-2026]] — пятый ingest (пост 636, индустриальный тренд)
 - [[canon/marketing-frameworks/founder-vs-passerby-mindset-tabunov]] — пятый ingest (пост 637, persistence-фрейм)
 - [[sources/2026-05-26-tg-your-pet-project-may-20-25-2026]] — пятый ingest
+- [[canon/marketing-frameworks/eight-marketing-laws-pet-project-tabunov]] — шестой ingest (пост 638, 8 правил)
+- [[evolving/industry-trends/ai-agent-marketing-capability-boundary-2026]] — шестой ingest (пост 639, Claude Code boundary)
+- [[volatile-strict/industry-news/polsia-vanity-metrics-teardown-2026]] — шестой ingest (пост 640, Polsia teardown)
+- [[sources/2026-05-30-tg-your-pet-project-may-27-29-2026]] — шестой ingest
 - [[evolving/content-trends/tabunov-founder-growth-hooks]]
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
 - [[evolving/content-trends/contrarian-framing-expert-telegram]]

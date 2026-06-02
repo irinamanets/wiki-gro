@@ -9,8 +9,8 @@ tags: [ai, google, gemini, model-release, pricing, agentic, competitor-news]
 confidence: high
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-ai-newz-may-19-25-2026.md]
+updated: 2026-06-01  # +vcnews 18-20 мая: second-source attestation I/O 2026 day-1 (vc.ru/ai/2938255, 61451) + Gemini Omni Flash multimodal-video (61452) + day-1 recap AI Ultra/Spark/Pics (61455) + Gemini Omni как «лучшая для редактирования видео» (61466)
+sources: [sources/2026-05-26-tg-ai-newz-may-19-25-2026.md, sources/2026-06-01-tg-vcnews-may-18-20-2026.md]
 namespace: mkt
 ---
 
@@ -98,9 +98,21 @@ Google DeepMind выпустил **Gemini 3.5 Flash** — апдейт «деш�
 **Для нарратива рынка:**
 - Связка с [[evolving/industry-trends/ai-corporate-race-mar-may-2026]]: каждый вендор движется к unified-multimodal-frontier. Gemini Omni (см. [[volatile-strict/competitor-news/google-gemini-omni-video-2026-05]]) → теперь 3.5 Flash как ranged-multimodal-baseline (CharXiv 84.2%, MMMU-Pro 83.6%). **Google консолидирует визуальную модель Gemini под одним брендом**. [conf:low, src:2026-05-26]
 
+## Второй source-attestation — vc.ru I/O 2026 day-1 (61451/61452/61455/61466)
+
+[[sources/2026-06-01-tg-vcnews-may-18-20-2026|@vcnews 18–20 мая]] фиксирует официальные I/O-анонсы Google из mainstream-источника `[conf:high, src:2026-05-19]`:
+
+- **Gemini 3.5 Flash** (пост 61451, vc.ru/ai/2938255) — Google называет её «самой мощной моделью для агентов и кодирования», уже доступна всем пользователям; **Gemini 3.5 Pro** тестируют внутри, релиз планируют на **июнь 2026** `[conf:high, src:2026-05-19]`. Подтверждает focus на agentic + сроки Pro, ранее зафиксированные через @ai_newz.
+- **Gemini Omni Flash** (пост 61452) — мультимодальная модель для генерации видео из любых данных (картинки, аудио, схемы, ролики), создание аватара по фото+голосу; доступна по подписке в Gemini и Flow `[conf:high, src:2026-05-19]`.
+- **I/O day-1 recap** (пост 61455, vc.ru/ai/2938226) — главные анонсы: обновлённая подписка **AI Ultra**, модели **Gemini Omni** и **Gemini 3.5 Flash**, персональный ИИ-агент **Gemini Spark**, обновление поиска, инструмент **Google Pics** `[conf:high, src:2026-05-19]`.
+- **Gemini Omni для видео** (пост 61466) — в соцсетях названа «лучшей моделью для редактирования видео» (спецэффекты, смена погоды/антуража), «работает как Nano Banana, но с роликами» `[conf:medium, src:2026-05-20]`.
+
+**Что добавляет:** vc.ru — независимое подтверждение официального I/O 2026, плюс Gemini Spark (24/7 personal agent) и Google Pics — анонсы, дополняющие 3.5 Flash в общей I/O-волне. Усиливает тезис «Google закрывает agent-gap» из [[evolving/industry-trends/ai-corporate-race-mar-may-2026]].
+
 ## Связанные страницы
 
 - [[sources/2026-05-26-tg-ai-newz-may-19-25-2026]] — первоисточник
+- [[sources/2026-06-01-tg-vcnews-may-18-20-2026]] — второй source-attestation I/O 2026 (vc.ru, посты 61451/61452/61455/61466)
 - [[volatile-strict/industry-news/ai-model-releases-mar-apr-2026]] — main release-tracker, добавлен add-on про 3.5 Flash
 - [[volatile-strict/competitor-news/google-gemini-omni-video-2026-05]] — параллельный Google-anchor (Gemini Omni unified)
 - [[evolving-strict/competitor-metrics/llm-token-pricing-deflation-2025-2026]] — pricing trend (anti-signal)

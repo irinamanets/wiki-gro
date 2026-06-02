@@ -9,7 +9,7 @@ tags: [ai-agents, benchmarks, sales, marketing, support, hr, productivity]
 confidence: high
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-30  # +cross-link на качественный коррелят (радио-эксперимент Andon Labs)
 sources: [sources/2026-05-05-tg-products-and-startups-mar-may-2026.md]
 namespace: mkt
 ---
@@ -94,6 +94,7 @@ onsa.ai (Бай) **позиционируется на multi-app sales workflow*
 - [[evolving/industry-trends/ai-productivity-j-curve-2026]] — 13% gpt-5.5 как evidence для investment-phase J-curve `[conf:high, src:2026-04-24]`
 - [[evolving/competitor-positioning/onsa-robin-ai-chief-of-staff]] — onsa-positioning: harness + domain-specific tuning > raw foundation
 - [[evolving/content-trends/ai-product-engineer-content-hooks]] — hook «13% — это точка отсчёта, не приговор» `[conf:high, src:2026-04-24]`
+- [[evolving/industry-trends/ai-agents-long-horizon-autonomy-limits-2026]] — качественный коррелят: радио-эксперимент Andon Labs показывает деградацию агентов на длинной автономии (тот же low success rate, но в narrative-форме)
 - [[sources/2026-05-05-tg-products-and-startups-mar-may-2026]] — первоисточник (пост 1727)
 
 ## Backlinks

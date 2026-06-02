@@ -9,8 +9,8 @@ tags: [freelance, content, hooks, kwork, social-proof, storytelling]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-26  # +hook 6 «портфолио = воронка, не галерея» (Самозанятые.рф 25 мая) + hook 7 «экологичное повышение цены» (Masters × Самозанятые.рф 21 мая); prior: +hook 5 «учись под спрос, не вообще» из Kwork post 564 (re-dump 2026-05-05)
-sources: [sources/2026-04-16-vc-ilya-domprodazh-kwork.md, sources/2026-05-05-tg-kwork-may25-may26-redump.md, sources/2026-05-26-tg-selfworkru-may-19-26-2026.md]
+updated: 2026-06-01  # +cross-link на content-угол «профи в переписке» (Kwork post 567, расширяет hook 2 «скорость реакции»); prior: +hook 6 «портфолио = воронка, не галерея» (Самозанятые.рф 25 мая) + hook 7 «экологичное повышение цены» (Masters × Самозанятые.рф 21 мая); +hook 5 «учись под спрос, не вообще» из Kwork post 564 (re-dump 2026-05-05)
+sources: [sources/2026-04-16-vc-ilya-domprodazh-kwork.md, sources/2026-05-05-tg-kwork-may25-may26-redump.md, sources/2026-05-26-tg-selfworkru-may-19-26-2026.md, sources/2026-05-26-tg-kwork-567-pro-communication-signals.md]
 namespace: mkt
 ---
 
@@ -31,6 +31,8 @@ namespace: mkt
 Готовый шаблон ответа — «Добрый день! На связи Илья» — отправляется мгновенно при входящем запросе, основное сообщение вторым. Принцип: не думай, реагируй системно, details потом.
 
 **Маппинг на GRO:** «Системные привычки vs хаотичные усилия» — core message продукта. Можно использовать как микро-кейс в Telegram-посте: «Фрилансер заработал команду из 23 человек одной простой привычкой: отвечать первым».
+
+**Расширение угла:** скорость — лишь один из коммуникационных сигналов профи. Полный набор маркеров «профессионализм читается в переписке» вынесен на отдельную страницу [[evolving/content-trends/freelancer-pro-communication-signals]] (выведена из Kwork post 567 «5 признаков профи в переписке»).
 
 ### 3. «От завода к команде в 23 человека»
 
@@ -96,6 +98,7 @@ Reframe портфолио из «галереи моих достижений»
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]]
 - [[evolving/content-trends/enough-vs-growth-narrative]] — контр-нарратив для калибровки hook 5
 - [[evolving/content-trends/digital-organization-freelancer-hooks]] — параллельный content-угол для той же фрилансер-аудитории (цифровой порядок рабочего места)
+- [[evolving/content-trends/freelancer-pro-communication-signals]] — расширение hook 2: профессионализм фрилансера читается в манере переписки (Kwork post 567)
 - [[canon/marketing-frameworks/portfolio-as-sales-funnel-freelancer]] — hook 6 «портфолио как воронка»
 - [[canon/marketing-frameworks/eco-price-raise-playbook-masters]] — hook 7 «экологичное повышение цены»
 - [[canon/marketing-frameworks/pricing-as-self-respect-anti-discount-trap]] — философский parallel к hook 7

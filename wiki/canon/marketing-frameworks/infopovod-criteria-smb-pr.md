@@ -9,9 +9,10 @@ tags: [pr, content, smb, awareness, organic]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +Pressfeed PR-readiness: эти критерии — downstream-инструмент после прохождения PR-readiness-чек-листа
+updated: 2026-06-01  # +cross-ref на media-pitch best practices + анти-паттерны дистрибуции инфоповодов
 sources:
   - sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md
+  - sources/2026-06-01-condense-news-pressfeed-27-articles.md
   - sources/2026-05-18-pressfeed-22-press-release-ideas.md
   - sources/2026-05-18-pressfeed-4-sposoba-infopovod.md
   - sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md
@@ -141,8 +142,16 @@ Pressfeed в редакционном материале о 22 темах-иде
 
 **Следствие для SMB-бренд-команды:** при позиционировании в локальном комьюнити (клиентский чат, founders-группа, отраслевая ассоциация) полезно понимать, что **те же сигналы**, что делают инфоповод работающим в редакторском канале, делают и заходную атаку работающей во внутреннем чате. Защитные ходы — см. [[canon/marketing-frameworks/black-pr-community-doubt-mechanic]] и [[canon/marketing-frameworks/doubt-vs-fact-question-pattern]].
 
+## Дистрибуция инфоповода — анти-паттерны (Pressfeed 2026)
+
+Правильный инфоповод можно убить неправильной дистрибуцией. Главная ошибка — **одинаковая рассылка одного релиза в издания разного профиля**; нужно раскладывать сообщение на составляющие (корпоративный vs продуктовый инфоповод) и адаптировать под редполитику каждого СМИ. Нерелевантные сообщения конкретному изданию снижают шансы на будущие партнёрские отношения. Слабый/«сырой» инфоповод подрывает репутацию и компании, и подрядчика — издания могут проигнорировать даже достойный повод в следующий раз.
+
+Эти анти-паттерны зеркальны правилу 5 «не сливать баяны» из [[canon/marketing-frameworks/media-pitch-best-practices]] — на уровне дистрибуции релиза работает та же логика, что на уровне комментария.
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/media-pitch-best-practices]] — операционная доставка инфоповода (скорость, фактура, не дублировать)
+- [[canon/marketing-frameworks/push-vs-pull-media-relations]] — push-режим, в котором запускается инфоповод
 - [[canon/marketing-frameworks/press-release-types-7-categories]] — таксономия 7 типов релизов
 - [[canon/marketing-frameworks/press-release-22-topic-ideas]] — каталог 22 тем-идей
 - [[canon/marketing-frameworks/newsjacking-technique]] — отдельный PR-приём

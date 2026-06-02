@@ -9,8 +9,8 @@ tags: [content, ugc, influencer-marketing, community]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-22  # +cross-link на 5-уровневую пирамиду Mavrck (Горный 5071): расширяет таксономию вниз — адвокаты/рефералы/лоялисты как отдельные операционные сегменты
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md]
+updated: 2026-05-30  # +Kumar&Solo (solokumi 421): экономика «10 микро > 1 крупный» (3-5x конверсия на бюджет) + AI-операционализация (Trendhero CPV/CPL, 1 менеджер на 100+ блогеров). Prior: +cross-link на 5-уровневую пирамиду Mavrck (Горный 5071)
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-dzen-inc-creator-economy-monetization-survey.md, sources/2026-05-19-pressfeed-distrust-niche-smm-4-methods-vtochku.md, sources/2026-05-22-tg-startupoftheday-may-14-19-2026.md, sources/2026-05-30-tg-solokumi-may-27-29-2026.md]
 namespace: mkt
 ---
 
@@ -55,6 +55,23 @@ namespace: mkt
 - Системная работа важнее разовых контрактов: успешные кейсы — партнёрства длиной в годы (например, Faberlic)
 - Основная сложность — поиск авторских голосов среди «сгенерированного» потока
 
+## Экономика «10 микро > 1 крупный» и AI-операционализация (Kumar & Solo, 2026)
+
+[[sources/2026-05-30-tg-solokumi-may-27-29-2026|@solokumi]] (Kumar & Solo, founders Refocus DE, пост 421, тренд III) добавляют **операционно-экономическое** измерение к качественному «микро доверяют больше»:
+
+- **Крупные блогеры (500K+) дают отрицательный ROI в большинстве ниш** — следствие завышенного ценника и размытой аудитории.
+- **Микро (5–50K) с нишевой аудиторией конвертят в среднем в 3–5 раз выше на единицу бюджета.** Это превращает «10 микро vs 1 крупный» из вопроса доверия в вопрос unit-экономики: при том же бюджете микс микро-авторов статистически обгоняет одного миллионника.
+
+**Почему раньше микро были операционным адом → и что изменил AI.** Базово работа с микро-инфлами требовала переписки, согласования доков и контента — десятки часов на каждого. Теперь AI-агент по работе с блогерами:
+- сам подтягивает аналитику из **Trendhero**,
+- считает **прогнозный CPV/CPL**,
+- по бенчмарку ставит тег **«брать / не брать»**,
+- закрывает первые касания в переписке с инфлами.
+
+Результат: **один менеджер ведёт 100+ блогеров с тем же усилием, с каким раньше вёл 5** (20× рычаг). Это снимает главный исторический барьер микро-сегмента — операционную дороговизну ручного отбора и согласования. Связка с [[evolving/content-trends/sales-ops-ai-tooling-stack-2026|sales-ops tooling stack]] (тот же класс AI-обвязки) и [[canon/marketing-frameworks/multi-agent-marketing-org-principles|многоагентной оркестрацией]] (агент-исполнитель в слое 3).
+
+**Для GRO:** ниша productivity/self-improvement — классический случай, где размытый миллионник проигрывает нишевому микро-автору (фитнес-микроблогеры, тайм-менеджмент, студенты-ачиверы). AI-операционализация делает микс из 10+ микро управляемым без раздувания штата.
+
 ## Связанные метрики
 
 - **Brand Lift (бренд-лифт)** — метод измерения влияния рекламной кампании на восприятие бренда через специальные опросы. Ключевая метрика для долгосрочного эффекта нативных кампаний с UGC/микроинфлюенсерами, когда прямые перформанс-метрики неприменимы.
@@ -98,6 +115,8 @@ namespace: mkt
 - [[canon/marketing-frameworks/hr-brand-ambassador-program]] — амбассадорская программа (employer brand аналог)
 - [[evolving/industry-trends/ru-creator-economy-monetization-2026]] — аспирационный слой авторов и тренд affiliate
 - [[evolving-strict/market-data/ru-creator-economy-monetization-survey-2026]] — опрос Hi-Tech Mail апрель 2026
+- [[evolving/content-trends/sales-ops-ai-tooling-stack-2026]] — AI-обвязка того же класса, что управляет микро-блогерами
+- [[sources/2026-05-30-tg-solokumi-may-27-29-2026]] — Kumar & Solo: экономика и AI-операционализация микро-микса
 
 ## Backlinks
 

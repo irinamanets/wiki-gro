@@ -9,9 +9,10 @@ tags: [pr, content, seo]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +media monitoring reputation contour; +PR-readiness gating; +Cherednichenko/LZ.Media: спикерство; +Kovpak local-media channel
+updated: 2026-06-01  # +push-vs-pull рамка, media-pitch best practices, content-marketing-state-2026 cross-refs
 sources:
   - sources/2026-04-16-condense-pressfeed-35-articles.md
+  - sources/2026-06-01-condense-news-pressfeed-27-articles.md
   - sources/2026-04-16-zhazhda-biz-lifestyle-rasskazhite-o-moem-biznese.md
   - sources/2026-05-18-pressfeed-22-press-release-ideas.md
   - sources/2026-05-18-pressfeed-4-sposoba-infopovod.md
@@ -110,7 +111,17 @@ Pressfeed-вебинар «B2B-пиар после эпохи простых о�
 
 Этот канал **дополняет** existing performance-PR арсенал (tier-1 СМИ / собственный блог / выступления). Полная методология — [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]]; бенчмарки CPL — [[evolving-strict/campaign-metrics/local-media-cpl-benchmarks-2026]]; рыночное обоснование — [[evolving/industry-trends/local-media-overheated-paid-shift-2026]].
 
+## Где performance-PR в общей механике media-relations
+
+Performance-PR измеряет **результат**, но не задаёт **режим** работы со СМИ. Режимы — push (проталкивание повестки) vs pull («пиар по запросу») — описаны в [[canon/marketing-frameworks/push-vs-pull-media-relations]]. Performance-инструменты (UTM, NPS, промокоды, бренд-трафик) применимы к обоим, но pull-режим даёт структурно выше конверсию (~40% vs 0,2–5% холодного push — [[evolving-strict/campaign-metrics/pr-conversion-benchmarks-2026]]). Операционные тактики, повышающие конверсию питча, — [[canon/marketing-frameworks/media-pitch-best-practices]].
+
+Рыночный контекст измеримости: исследование РБК Компании 2026 ([[evolving-strict/market-data/ru-content-marketing-state-2026]]) фиксирует, что «научиться считать эффективность» — главная задача рынка контент-маркетинга РФ, а проблема измеримости стала менее острой год к году — то есть рынок дозревает именно до performance-PR-логики.
+
 ## Связанные страницы
+- [[canon/marketing-frameworks/push-vs-pull-media-relations]] -- режим (push/pull), внутри которого работают эти метрики
+- [[canon/marketing-frameworks/media-pitch-best-practices]] -- тактики питча, повышающие конверсию
+- [[evolving-strict/campaign-metrics/pr-conversion-benchmarks-2026]] -- бенчмарки конверсии (чемпионы 75-100%, агентства ~50%)
+- [[evolving-strict/market-data/ru-content-marketing-state-2026]] -- рыночный контекст измеримости (РБК n=429)
 - [[canon/marketing-frameworks/pr-readiness-10-signals-checklist]] -- upstream-gating: если по чек-листу не пора, performance-PR-замеры будут шумом
 - [[canon/marketing-frameworks/sarafan-growth-ceiling-pattern]] -- upstream: структурная причина, почему вообще встаёт вопрос «нужны ли публичные каналы»
 - [[canon/marketing-frameworks/infopovod-generation-4-techniques]] -- upstream: 4 техники конструирования инфоповода (trend extraction, re-frame, ньюсджекинг, превосходная степень)

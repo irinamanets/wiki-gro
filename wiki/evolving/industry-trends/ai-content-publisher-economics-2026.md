@@ -9,8 +9,8 @@ tags: [ai, content, publishers, monetization, dzen, openai, perplexity, ru-platf
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-breakingtrends-may19-26.md]
+updated: 2026-05-30  # +Пичаи/The Verge (Google I/O): Google Zero уклончив, bounce clicks снижаются, low-quality clicks отфильтровываются — «плохая новость для рерайтеров» (через @techsparks/Себрант 5618)
+sources: [sources/2026-05-26-tg-breakingtrends-may19-26.md, sources/2026-05-30-tg-techsparks-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -69,6 +69,25 @@ namespace: mkt
 
 Для **маркетингу-блогов** (типа GRO) это означает: **оригинальный экспертный контент** будет всё чаще представлять prima экономическую ценность — не как traffic-source через SEO, а как **AI-search-cite-source** через AEO/GEO.
 
+## Update 2026-05-30 — Пичаи про Google Zero: уклончиво, но «low-quality clicks отфильтровываются» (через Себрант)
+
+Через [[sources/2026-05-30-tg-techsparks-may-26-29-2026|@techsparks/Себрант 5618]] — большое интервью Сундара Пичаи журналисту The Verge по итогам Google I/O 2026. Это **official-голос Google** по самому острому для паблишеров вопросу: что будет с поисковым трафиком в эпоху AI-ответов («Google Zero»).
+
+**Что сказал Пичаи** `[conf:medium, src:2026-05-28]`:
+
+- На прямой вопрос «готовиться ли паблишерам к уменьшающемуся до нуля поисковому трафику» — **отвечал уклончиво**, ссылаясь на то, что поисковик ориентируется на непрерывно меняющиеся интересы пользователей. Пример приоритизации: если Google знает, что пользователь **подписан на издание**, ссылки на него сильно приоритизируются.
+- Ключевой тезис о качестве: «**As the technology improves, low-quality clicks get filtered out. That's a natural evolution we see. We see it in our metrics. Bounce clicks are going down.**» — то есть Google активно фильтрует низкокачественные клики, показатель bounce clicks снижается.
+- Себрант-комментарий: это **плохая новость для создателей рерайта** (будь то люди или AI), но **хорошая для всех остальных**.
+
+**Как это ложится в publisher-economics нарратив.** Это **дополнение со стороны спроса** к Дзен/Глиф-сигналу (publisher *compensation*): Дзен обсуждает, как **платить** издателям за цитируемый контент, а Пичаи описывает, как Google **отбирает**, кого вообще цитировать/ранжировать. Два конца одной цепочки:
+
+1. **Selection-side (Пичаи):** Google фильтрует low-quality/rewrite-контент → bounce clicks падают → в retrieval-корпус AI-ответов попадает только качественный уникальный контент. Subscription-сигнал (подписан ли юзер на издание) становится ranking-фактором — это **усиление owned-audience** как защиты от Google Zero.
+2. **Compensation-side (Дзен):** уникальный cite-able контент получает экономическую ценность через partner-pool оплаты.
+
+**Сходимость с тезисом страницы:** оба сигнала указывают в одну сторону — **aggregator/rewrite-voices теряют базу, оригинальный уникальный контент усиливается**. Пичаи даёт это от первого лица крупнейшего поисковика, что повышает confidence тезиса. Practitioner-сторону того же Google-сдвига (как попасть в AI-ответы) см. [[canon/marketing-frameworks/seo-for-ai-era-playbook]] (Google May 2026 Core Update).
+
+**Маркетинговый вывод для GRO:** owned-audience (подписка, Telegram-канал, email-база) — не «дополнительный канал», а **структурная защита от Google Zero**: Пичаи прямо называет subscription ranking-приоритетом. Это аргумент в пользу building owned channels, а не зависимости от органического search-трафика.
+
 ## Маркетинговые выводы
 
 1. **GEO (Generative Engine Optimization)** становится не nice-to-have, а direct revenue (если RU-AI-search adopt model).
@@ -96,3 +115,5 @@ namespace: mkt
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] — глобальный сдвиг к AEO/GEO
 - [[evolving/content-trends/ai-content-overload-trust-crisis-2026]] — обратная сторона: trust-crisis в AI-контенте
 - [[sources/2026-05-26-tg-breakingtrends-may19-26]] — первоисточник (Дзен/Глиф анонс)
+- [[sources/2026-05-30-tg-techsparks-may-26-29-2026]] — Пичаи/The Verge про Google Zero, bounce clicks, subscription-приоритизация (Себрант 5618)
+- [[canon/marketing-frameworks/seo-for-ai-era-playbook]] — practitioner-сторона Google May 2026 Core Update

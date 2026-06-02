@@ -9,8 +9,8 @@ tags: [hr, employer-brand, marketing, media, content, recruitment, ru, awareness
 confidence: medium
 stale: false
 created: 2026-05-24
-updated: 2026-05-24
-sources: [sources/2026-05-24-condense-vcru-chunk2.md]
+updated: 2026-05-30  # +RFF как HR-media instance: recruitment-бренд ведёт explainer-карусели с приглашёнными экспертами (Бредова, корп. ценности) — employer-brand-медиа в действии (@rff_channel 4445-4453). Ранее: +наблюдение размывания границы личное/профессиональное в LinkedIn (@recruiter_live 4493)
+sources: [sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-30-tg-recruiter-live-may-27-29-2026.md, sources/2026-05-30-tg-rff-channel-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -45,6 +45,27 @@ namespace: mkt
 
 Это структурно совпадает с [[canon/marketing-frameworks/object-oriented-retrieval-kravchenko|тезисом «данные — сырьё, интерпретация — ценность»]] в AEO/GEO: на зрелых рынках конкуренция смещается с генерации данных на их интерпретацию/упаковку.
 
+## Сигнал: размывание границы личное/профессиональное в LinkedIn
+
+Параллельное наблюдение из той же ленты ([[sources/2026-05-30-tg-recruiter-live-may-27-29-2026]], пост 4493, 2026-05-29): Head of HR крупной техкомпании (Flussonic) публикует в профессиональной LinkedIn-ленте сугубо личное объявление о поиске партнёра («ищу мужа-партнёра»), оформленное по канонам self-presentation-поста (Кто я / Кого ищу).
+
+Что это говорит о платформе и нарративе:
+- **LinkedIn-лента всё чаще работает как личный медиа-канал,** а не только профессиональный реестр. Граница «личное vs профессиональное» размывается — то же стирание дистанции, что движет employer-brand-конвергенцией: люди (включая HR-руководителей) строят персональный бренд через человеческие, не-корпоративные посты.
+- **Личный сторителлинг как формат вовлечения** даёт органический охват именно потому, что нарушает «отчётную» норму ленты — подтверждает тезис страницы о запросе на человеческую коммуникацию.
+- **Риск для employer-brand:** личные посты публичных HR-лиц считываются как сигнал о культуре компании; граница персонального и корпоративного бренда у топ-HR практически исчезла.
+
+Это качественный single-observation сигнал (не замер), усиливающий основной нарратив страницы.
+
+## Сигнал: recruitment-бренд как медиа с приглашёнными экспертами (RFF)
+
+Прямая иллюстрация тезиса страницы — Recruitment for Friends ([@rff_channel](https://t.me/rff_channel), 60k+ комьюнити, [[sources/2026-05-30-tg-rff-channel-may-26-29-2026]]): HR/recruitment-бренд работает как **полноценное медиа**, а не доска вакансий. Наблюдаемые медиа-механики:
+
+- **Explainer-карусели с приглашёнными экспертами** — «Корпоративные ценности» Екатерины Бредовой (TalentCraft), оформленные в фирменном стиле канала (см. [[evolving/content-trends/expert-cobranded-tg-carousel-pattern]] + содержание [[canon/marketing-frameworks/corporate-values-implementation-bredova]]). Бренд курирует экспертный контент = редакционная функция.
+- **Регулярные рубрики** (#кандидатская_полка — UGC-сбор резюме/вакансий) = контент-сетка, как у медиа.
+- **Мультиплатформенная дистрибуция** (Telegram-сеть + анонс MAX, мерч-канал) = медиа-холдинг-логика, а не HR-сервис.
+
+Это **employer-brand-медиа в действии**: рекрутинговый бренд строит доверие и аудиторию через образовательный/комьюнити-контент **до** найма, ровно по playbook'у страницы. RFF — не работодатель, а recruitment-комьюнити, но механика та же: «создавать ощущение и доверие через контент, а не отчётность».
+
 ## Связь с маркетингом GRO
 
 - **Employer-brand-as-product = тот же playbook, что и product-marketing.** Если GRO выходит в B2B (wellness/productivity-программы для сотрудников), employer-brand клиента — точка входа: GRO помогает работодателю «создавать ощущение компании», а не отчётность.
@@ -69,6 +90,9 @@ Evolving + loose — soft TTL 180 дней, ре-верификация к **202
 
 ## Связанные страницы
 - [[sources/2026-05-24-condense-vcru-chunk2]] — первоисточник
+- [[sources/2026-05-30-tg-rff-channel-may-26-29-2026]] — RFF как HR-media instance
+- [[evolving/content-trends/expert-cobranded-tg-carousel-pattern]] — формат экспертных каруселей RFF
+- [[canon/marketing-frameworks/corporate-values-implementation-bredova]] — контент карусели Бредовой
 - [[evolving/industry-trends/ru-labor-market-employer-turn-2026]]
 - [[evolving/industry-trends/hr-as-strategic-partner-ulrich-cipd]]
 - [[evolving/competitor-positioning/hh-ru-hrtech-platform]]

@@ -9,8 +9,8 @@ tags: [gen-z, workforce, hr, retention, partnership-employment]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-19  # +cross-ref на hr-profession-2040-fork-spk (long-horizon прогноз СПК); prior: +Soulful (Drivee, Дзен Деловой Мир) расширение фрейма до 25–35 лет
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2884750-kak-rabotat-s-zumerami-sovety-po-vzaimodejstviyu-.md, sources/2026-05-05-vcru-hr-2800108-10-klyuchevykh-insaitov-o-molodom-pokolenii-dlya-.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md]
+updated: 2026-05-30  # +гиг-экономика как junior-альтернатива (зумеры в доставку/такси +70%/мес, Business Insider) — @breakingtrends #16824; prior: +cross-ref на hr-profession-2040-fork-spk
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-hr-2884750-kak-rabotat-s-zumerami-sovety-po-vzaimodejstviyu-.md, sources/2026-05-05-vcru-hr-2800108-10-klyuchevykh-insaitov-o-molodom-pokolenii-dlya-.md, sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026.md, sources/2026-05-30-tg-breakingtrends-may-26-30-2026.md]
 namespace: mkt
 ---
 
@@ -77,6 +77,14 @@ namespace: mkt
 
 **Импликация для GRO-контента:** не сужать management-аудиторию до «как работать с зумерами» — это слишком узко. Полоса 25–35 — крупнее, кошельковее, лояльнее, при этом разделяет тот же ценностный фрейм. Дополнительный hook-источник [[canon/marketing-frameworks/management-styles-2026-soulful]].
 
+## Гиг-экономика как junior-альтернатива на фоне ИИ-сжатия входа (Business Insider, май 2026)
+
+По данным Business Insider (пересказ @breakingtrends, [[sources/2026-05-30-tg-breakingtrends-may-26-30-2026|#16824]], май 2026) зумеры всё чаще выбирают доставку и такси вместо «обычной работы»: **+70% новых регистраций за последний месяц** `[conf:medium, src:2026-05-30]`. Причины — гибкий график, быстрые деньги и **усложнение рынка труда для джунов и стажёров на фоне сокращения начальных позиций из-за ИИ**. Доставка переосмысляется как «нормальная альтернатива классической работе», а не как временный заработок.
+
+Структурный смысл: это **обратная сторона ИИ-сжатия входа в профессию** (связь с [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] и [[evolving/industry-trends/ai-knowledge-worker-climb-2025-2026]]). Если ИИ выбивает junior/стажёрские роли, молодые не «исчезают с рынка» — они перетекают в гиг-форматы с низким порогом входа. Это усиливает уже зафиксированный партнёрский фрейм: гиг — крайняя форма «договора на этап» без иерархии вообще.
+
+**Импликация для GRO-контента:** хук «ИИ не отменяет вход в профессию — он поднимает планку навыка на входе». Для Сегмента 1 (карьеристы) это переводит тренировку навыка из «приятно иметь» в «условие выживания на сжимающемся junior-рынке». Контр-нарратив гиг-дрейфу: вместо ухода в доставку — прокачка навыка, который ИИ не обесценивает (коммуникация, продажа, переговоры — ядро GRO).
+
 ## Импликации для GRO-маркетинга
 
 1. **Сегмент 1 GRO (карьеристы / молодые профессионалы):** значительная часть — зумеры. Контент для них должен говорить про **смысл и партнёрство**, а не про «карьерную лестницу». GRO как self-management-инструмент попадает в нарратив «строй свою карьеру партнёрски, не ждя разрешения системы».
@@ -95,6 +103,8 @@ namespace: mkt
 - [[sources/2026-05-05-vc-ru-condensed]] — источник
 - [[sources/2026-05-14-dzen-delovoy-mir-soulful-management-styles-2026]] — Соулфул (Drivee) — расширение фрейма до 25-35
 - [[evolving/industry-trends/hr-profession-2040-fork-spk]] — long-horizon прогноз рынка труда до 2040 (кадровая мобильность, сокращение ролей как поколенческий фон)
+- [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] — ИИ-сжатие входа как драйвер гиг-дрейфа зумеров
+- [[volatile/weekly-digest/tg-breakingtrends-may-26-30-2026-digest]] — дайджест @breakingtrends (источник гиг-сигнала)
 
 ## Backlinks
 

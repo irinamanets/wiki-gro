@@ -9,9 +9,10 @@ tags: [pressfeed, competitor, pr-tech, ru-market, platform, ecosystem, academy, 
 confidence: medium
 stale: false
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-01  # +push-vs-pull рамка, WDA «Медиа» спецпартнёрство, scale-2026 cross-refs
 sources:
   - sources/2026-05-27-condense-news-pressfeed-43-articles.md
+  - sources/2026-06-01-condense-news-pressfeed-27-articles.md
 namespace: mkt
 ---
 
@@ -159,8 +160,19 @@ Pressfeed Academy запущена **по собственному playbook'у �
 
 **Как референс-конкурент:** AI-PR «Мэри» — потенциально может появиться **аналог для HR/обучения**, который GRO стоит трекать как угрозу (если Pressfeed расширит до «AI-tutor для HR»).
 
+## Pull-модель как ядро продукта (рамка 2026)
+
+Pressfeed — продуктовое воплощение **pull-модели** media-relations: журналист публикует запрос, эксперт отвечает адресно. Структурное обоснование, почему это бьёт классический push-аутрич (падающая push-конверсия из-за PR-спама) — в отдельном фреймворке [[canon/marketing-frameworks/push-vs-pull-media-relations]]. Бенчмарки конверсии pull-модели (~40% средняя vs 0,2–5% холодного push) — [[evolving-strict/campaign-metrics/pr-conversion-benchmarks-2026]].
+
+## WDA «Медиа» — Pressfeed как индустриальный hub
+
+Pressfeed — спецпартнёр впервые выделенной (2026) категории «Медиа» на Workspace Digital Awards; основатель Константин Бочарский в жюри. Это усиливает community-moat (Pressfeed = hub RU PR-индустрии) и совпадает с трендом признания бренд-медиа самостоятельным направлением — см. [[evolving/content-trends/brand-media-as-discipline-2026]].
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/push-vs-pull-media-relations]] — продуктовая логика Pressfeed как pull-модели
+- [[evolving-strict/campaign-metrics/pr-conversion-benchmarks-2026]] — бенчмарки конверсии pull-модели
+- [[evolving/content-trends/brand-media-as-discipline-2026]] — WDA «Медиа» и бренд-медиа как направление
 - [[evolving-strict/campaign-metrics/ru-legal-services-promo-channels-2026]] — конкретные цены Pressfeed услуг
 - [[canon/marketing-frameworks/b2b-pr-influence-shift-2026]] — общий B2B-PR-сдвиг 2026
 - [[evolving/content-trends/ai-pr-14-directions-pressfeed-2026]] — Pressfeed AI-PR «Мэри» как точка-якорь сегмента

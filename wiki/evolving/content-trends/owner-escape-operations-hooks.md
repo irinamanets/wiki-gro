@@ -9,8 +9,8 @@ tags: [content, telegram, narrative, hooks, objections, burnout, owner-self-mana
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-28  # +Шевелев/Marat «12 лет без отпуска» extreme outcome-anchor (sources/2026-05-26-tg-olegcloser-may-22-26-2026 пост 2326); ранее: Petrosian, Visotsky 4-й срез, чайка-менеджмент, и т.д.
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md]
+updated: 2026-05-31  # +Visotsky 6-й срез «автоматизация поверх бардака = упорядоченный бардак» problem-agitation hook (sources/2026-05-31-tg-alexander-visotsky-may-27-30-2026 пост 3846); ранее: Шевелев/Marat, Petrosian, чайка-менеджмент, и т.д.
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-04-14-tg-howtomake10x-mar-apr-2026.md, sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-05-tg-howtomake10x-mar-may-2026.md, sources/2026-05-05-tg-mspiridonov-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-05-yt-tokovinin-ban-this-from-children.md, sources/2026-05-14-tg-howtomake10x-may-2026.md, sources/2026-05-14-tg-stodnevka2-may-6-14-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-22-tg-stodnevka2-may-15-19-2026.md, sources/2026-05-18-pressfeed-gorskaya-owner-as-mirror.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md, sources/2026-05-26-tg-stodnevka2-may-20-26-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md, sources/2026-05-31-tg-alexander-visotsky-may-27-30-2026.md]
 namespace: mkt
 ---
 
@@ -822,6 +822,25 @@ GRO — продукт ежедневного журналирования. Petr
 - [конкретная импликация устойчивости] = система работает без вас
 
 **Сочетание с другими hooks:** этот hook **парная пара** для [[canon/marketing-frameworks/management-pyramid-sales|sales pyramid]] — Marat-кейс показывает результат top-of-pyramid сценария «founder вышел из продаж». Естественная content-цепочка: «Высоцкий "пилот без приборов"» (диагностика проблемы) → «Шевелев 3-шаговый кризис-ответ» (методология) → «Marat 12 лет без отпуска» (результат) — три hook'а по фазам owner-journey, готовая narrative-арка для блог-серии GRO.
+
+## «Автоматизация поверх бардака = упорядоченный бардак» (Visotsky 6-й срез, 2026-05-31)
+
+Шестой срез [[sources/2026-05-31-tg-alexander-visotsky-may-27-30-2026|@alexander_visotsky 2026-05-27..05-30]] (пост 3846) даёт сильную **problem-agitation-формулировку** через клиентский кейс Сергея (владелец в Германии). Якорная клиентская цитата:
+
+> «Автоматизация поверх бардака даёт только упорядоченный бардак».
+
+Это **counter-intuitive hook**: предприниматель, который «всё сделал правильно» (описал процессы, распределил зоны ответственности, ввёл еженедельные отчёты), всё равно не получает управляемости. Структура агитации:
+
+1. **Acknowledge правильность действий** — «порядок есть, регламенты есть» (читатель-owner узнаёт себя как «молодца»).
+2. **Vivid pain-симптомы** — «задачи теряются в чатах», «сотрудник говорит "сделал", а сделана половина», «картина бизнеса собирается только в голове владельца», «каждый вечер вручную сводит, кто что сделал, где застряло».
+3. **Anti-positioning против over-engineered AI** — Сергей пробовал немецкую «систему цифровых офисов на ИИ», отверг как «слишком сложную для нашего уровня». Это reusable anti-hook: **сложный AI-инструмент ≠ решение**, простота > мощность.
+4. **Reframe решения** — «не автоматизация процессов, а перенос картины из головы владельца на один экран».
+
+**Почему сильный hook:** «упорядоченный бардак» — компактный, запоминающийся, наносит удар по ложному комфорту «у меня же есть регламенты». Бьёт точнее, чем «у вас бардак» (это owner отрицает), потому что валидирует усилия и при этом вскрывает остаточную боль.
+
+**Адаптация для GRO:** формула «X поверх Y = упорядоченный Y» переносима. Для self-management: «трекер привычек поверх хаоса в голове = упорядоченный хаос» — инструмент без внутренней ясности не даёт результата. Anti-hook про over-engineered tool тоже переносим: «не нужно сложное приложение с 50 метриками — нужно вернуть себе ясность по одному показателю». **Не цитировать Сергея/Высоцкого дословно** — заимствовать структуру.
+
+Пара к [[canon/marketing-frameworks/three-levels-business-manageability-visotsky|3 уровням управляемости]] (тот же срез): «упорядоченный бардак» = застревание на уровне 1–2 (порядок есть, но управляемости через архитектуру нет).
 
 ## Чек-лист для автора GRO-контента
 

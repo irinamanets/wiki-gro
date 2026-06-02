@@ -9,8 +9,8 @@ tags: [openai, anthropic, cerebras, coinbase, nebius, eigen-ai, valuation, ai, p
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-26  # +SpaceX S-1 (выручка $18,7B/убыток $4,9B, AI-spend $7,7B>космос $1B, Starlink 10,3M, Anthropic→SpaceX $1,25B/мес) + xAI ($3,2B rev/$6,4B loss, 550M MAU) + Anthropic первая прибыль Q2 ~$559M @ $900B raise + Hank $500M@$6B — @Theedinorogblog 7971/7966/7975
-sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2909934-openai-privlekla-finansirovanie-dlya-vnedreniya-i.md, sources/2026-05-05-vcru-invest-2909377-cerebras-planiruet-ipo-dlya-privlecheniya-inv.md, sources/2026-05-05-vcru-crypto-2910180-coinbase-uvolit-14-sotrudnikov.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-anthropic-openai-enterprise-jv.md, sources/2026-05-05-dzen-nebius-eigen-acquisition.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-06-yt-rybakov-rzd-epstein-india-oil.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-26-tg-theedinorog-may-19-26-2026.md]
+updated: 2026-06-01  # +vc.ru misc condense (2026-05-30): Anthropic раунд H $65B закрыт @ $965B (уточняет прогнозный $900B), Anthropic $183B→$965B ~5× за 8 мес, OpenAI $122B@$852B reconcile, SpaceX IPO downward $1,8T (с >$2T); +Forbes-подтверждение Anthropic ≈$900B обогнала OpenAI (@breakingtrends #16835). Prior — +SpaceX S-1 + xAI + Anthropic первая прибыль Q2 ~$559M @ $900B raise + Hank $500M@$6B — @Theedinorogblog 7971/7966/7975
+sources: [sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-vcru-ai-2909934-openai-privlekla-finansirovanie-dlya-vnedreniya-i.md, sources/2026-05-05-vcru-invest-2909377-cerebras-planiruet-ipo-dlya-privlecheniya-inv.md, sources/2026-05-05-vcru-crypto-2910180-coinbase-uvolit-14-sotrudnikov.md, sources/2026-05-05-dzen-ru-condensed.md, sources/2026-05-05-dzen-anthropic-openai-enterprise-jv.md, sources/2026-05-05-dzen-nebius-eigen-acquisition.md, sources/2026-05-05-tg-theedinorog-apr-may-2026.md, sources/2026-05-06-yt-rybakov-rzd-epstein-india-oil.md, sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-26-tg-theedinorog-may-19-26-2026.md, sources/2026-06-01-vc-invest-anthropic-65b-raund.md, sources/2026-06-01-vc-invest-spacex-ipo-1-8t.md, sources/2026-05-30-tg-breakingtrends-may-26-30-2026.md, sources/2026-05-30-tg-forbesrussia-may-11-13-2026.md]
 namespace: mkt
 ---
 
@@ -190,9 +190,54 @@ Data-points из @Theedinorogblog [[sources/2026-05-26-tg-theedinorog-may-19-26-
 
 **Ключевая интерпретация:** (1) **Anthropic вышел в прибыль на ~2 года раньше плана** `[conf:medium, src:2026-05-22]` — это сильный контр-аргумент скептикам «AI не зарабатывает», но обратная сторона — $15 млрд/год compute-обязательств перед SpaceX. (2) **SpaceX тратит на AI кратно больше, чем на космос** ($7,7 млрд vs $1 млрд за Q1) `[conf:medium, src:2026-05-21]` — AI-capex стал доминантой даже у ракетной компании. (3) xAI зарабатывает кратно меньше Anthropic/OpenAI при сопоставимом burn `[conf:medium, src:2026-05-21]`. Эти числа стоит цитировать с поправкой на [[canon/marketing-frameworks/contracted-vs-live-arr-inflation-stevenson|CARR-vs-ARR оговорку]] — публичные S-1 надёжнее, чем приватные ARR-заявления стартапов.
 
+## Update 2026-06-01 — vc.ru: Anthropic раунд H закрыт $965B, OpenAI/SpaceX reconcile
+
+Data-points из [[sources/2026-06-01-vc-invest-anthropic-65b-raund]] и [[sources/2026-06-01-vc-invest-spacex-ipo-1-8t]] (2026-05-30):
+
+| Компания | Метрика | Значение | Дата | Source |
+|---|---|---|---|---|
+| Anthropic | Привлечено (раунд H) | **$65 млрд** | 2026-05 | `[conf:high, src:2026-05-30]` |
+| Anthropic | Оценка после раунда H | **$965 млрд** | 2026-05 | `[conf:high, src:2026-05-30]` |
+| Anthropic | Динамика оценки сен 2025 → май 2026 | **$183 млрд → $965 млрд** (~5× за 8 мес) | 2025-09 → 2026-05 | `[conf:high, src:2026-05-30]` |
+| Anthropic | IPO (план) | октябрь 2026, ~**$60 млрд** (не финал) | 2026-10 | `[conf:low, src:2026-05-30]` |
+| OpenAI | Раунд / оценка (reconcile) | **$122 млрд @ $852 млрд**, IPO сентябрь | 2026-05 | `[conf:medium, src:2026-05-30]` |
+| SpaceX | Целевая оценка IPO (downward) | **$1,8 трлн** (с >$2 трлн в апреле) | 2026-05 | `[conf:high, src:2026-05-30]` |
+
+**Reconcile с предыдущим update (2026-05-26):**
+1. **Anthropic «$900 млрд raise» → факт $965 млрд после закрытия раунда H $65B** `[conf:high, src:2026-05-30]`. Прогнозный $900B закрылся выше — траектория «Anthropic приближается к $1T primary» подтверждена фактом, а не пересказом ARR. Инвесторы H: Altimeter, Dragoneer, Greenoaks, Sequoia + Blackstone, DST Global, Brookfield, Capital Group.
+2. **SpaceX IPO: downward revision $1,8T** (с >$2T в апреле) `[conf:high, src:2026-05-30]` — фиксировать актуальную цифру $1,8T, не устаревшую >$2T. Остальные S-1 данные (право голоса 85%, $75B raise, 11-12 июня Nasdaq) согласуются.
+3. **OpenAI $852B/$122B** — vc.ru подтверждает primary-оценку, согласуется с hub-таблицей выше.
+
+Полный свежий срез всех чисел этого дня + Dell/McKinsey — [[evolving-strict/market-data/ai-tech-valuations-2026-05-30]].
+
+## Update 2026-05-30 — Forbes: Anthropic ≈$900B обогнала OpenAI (третий независимый источник)
+
+@breakingtrends [[sources/2026-05-30-tg-breakingtrends-may-26-30-2026|пост #16835]] со ссылкой на Forbes («Anthropic Is Now Worth Almost $1 Trillion — More Than OpenAI», Antonio Pequeño IV) даёт **третий независимый источник** к нарративу Anthropic ≈$900B–$1T:
+
+| Компания | Метрика | Значение | Дата | Source |
+|---|---|---|---|---|
+| Anthropic | Оценка (Forbes) — самый дорогой ИИ-стартап в мире, обогнала OpenAI | **≈$900 млрд** (Forbes округляет до «почти $1T») | 2026-05-30 | `[conf:medium, src:2026-05-30]` |
+| Anthropic | Рост за полгода | **с $380 млрд (начало 2026) → ≈$900 млрд** (~2,4×) | начало 2026 → 2026-05 | `[conf:medium, src:2026-05-30]` |
+
+**Ключевая интерпретация:** Forbes фиксирует, что Anthropic **уже обогнала OpenAI по оценке у инвесторов** — это материализация ожидания, ранее зафиксированного как «FT прогноз» (см. Update 2026-05-19). Если ранее $900B был *планируемым primary-раундом* (Update 2026-05-26), то Forbes подаёт это как *свершившийся факт лидерства*. Драйверы по версии Breaking Trends: отказ помогать Пентагону следить за людьми + ИИ-модель для поиска уязвимостей в ПО (вторичная атрибуция, `conf:low` на причинно-следственной связи). `[conf:medium, src:2026-05-30]` Числа согласованы с уже зафиксированной серией ($380B фев → $900B raise май), это **не новое значение, а независимое подтверждение** — supersession не требуется.
+
+## Update 2026-05-30 — Forbes Russia (11–13 мая): доля Суцкевера в OpenAI ≈$7B + Anthropic $30B@>$900B (раннее эхо)
+
+[[sources/2026-05-30-tg-forbesrussia-may-11-13-2026|Forbes Russia (Telegram, посты 95827/95849, 12–13 мая 2026)]] добавляет один **дискретный новый data-point** на уровне individual-stake, плюс ранний снимок Anthropic-раунда:
+
+| Субъект | Метрика | Значение | Дата | Source |
+|---|---|---|---|---|
+| Илья Суцкевер (сооснователь OpenAI) | оценка личной доли в OpenAI; один из крупнейших частных акционеров | **≈$7 млрд** | 2026-05-12 | `[conf:medium, src:2026-05-12]` |
+| Anthropic | новый раунд при оценке (раннее эхо) | **$30 млрд @ >$900 млрд** | 2026-05-13 | `[conf:medium, src:2026-05-13]` |
+
+**Интерпретация.** Доля Суцкевера ≈$7 млрд (раскрыта в показаниях по делу Маск vs OpenAI, со ссылкой на Bloomberg) — **новый individual-shareholder сигнал**, ранее в вики не зафиксированный; полезен как референс масштаба личного капитала AI-founder'ов. Anthropic «$30 млрд при оценке >$900 млрд» из поста 95849 (13 мая) — это **более ранний снимок** уже зафиксированного раунда H ($65B @ $965B закрыт, Update 2026-06-01); supersession не требуется — фиксируем как раннее эхо того же события, согласованное с более поздними цифрами.
+
 ## Связанные страницы
 
+- [[sources/2026-05-30-tg-forbesrussia-may-11-13-2026]] — доля Суцкевера ≈$7B + Anthropic $30B@>$900B (раннее эхо раунда H)
+- [[evolving-strict/market-data/ai-tech-valuations-2026-05-30]] — свежий срез оценок/раундов 2026-05-30 (Anthropic $965B, SpaceX, Dell, McKinsey)
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — продуктовый и стратегический контекст всех чисел в этой таблице
+- [[volatile/weekly-digest/tg-breakingtrends-may-26-30-2026-digest]] — дайджест @breakingtrends с Forbes-подтверждением Anthropic
 - [[evolving-strict/competitor-metrics/nebius-arr-2025-2026]] — отдельная страница по Nebius метрикам
 - [[volatile-strict/competitor-news/nebius-eigen-acquisition-2026-05]] — сделка Nebius × Eigen
 - [[volatile-strict/competitor-news/openai-spinoff-rejected-pre-ipo-2026-05]] — OpenAI отказалась от spinoff из-за pre-IPO давления

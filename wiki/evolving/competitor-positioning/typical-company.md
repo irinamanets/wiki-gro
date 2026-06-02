@@ -9,8 +9,8 @@ tags: [competitor, indirect-competitor, management, paid-community, telegram, co
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +Continuity-update посты 1340-1341 (25 мая, седьмой ingest): poll → expert-quote follow-up формат (2-постовая связка), цитирование Кайлы Велонски/Gartner про «рефлексы изменений» как главный навык 2026. Извлечена canon change-reflexes-velonski-gartner (operational layer change-management между Kotter-проектами). Prior: посты 1338-1339 (20-22 мая, шестой ingest) — 2 новых content-pillar'а (HBR research-дайджест с module-mapping; книжная подборка) + раскрыто имя ведущей (Валерия Розова); пост 1337 (18 мая) CEO-succession + operational-ceo-as-strategist-cook; mini-dump 2026-05-16 (AI-нарратив pivot 1→2 фаза); третий ingest 6-12 мая (cadence восстановлен, productized лестница раскрыта)
-sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md, sources/2026-05-23-tg-typicalcompany-may-20-22-2026.md, sources/2026-05-26-tg-typicalcompany-may-25-2026-change-reflexes.md]
+updated: 2026-05-30  # +Continuity-update посты 1342-1343 (27-29 мая, восьмой ingest): AI-narrative третья фаза (ROI-skepticism / реструктуризация), 2 новые canon-рамки (curiosity-curve-negotiation-wetzler + ai-assistant-vs-restructuring-typical), research-стрим 3-й пост подряд, усиление сближения TYPICAL↔GRO в outcome-дисциплине. Prior: посты 1340-1341 (25 мая, седьмой ingest) poll→expert-quote; 1338-1339 (20-22 мая) HBR-дайджест + книжная подборка + имя Розовой; 1337 (18 мая) CEO-succession; mini-dump 2026-05-16 (AI pivot 1→2 фаза); третий ingest 6-12 мая
+sources: [sources/2026-04-14-tg-typicalcompany-nov25-mar26.md, sources/2026-05-05-tg-typicalcompany-may-2026-redump.md, sources/2026-05-14-tg-typicalcompany-may-6-12-2026.md, sources/2026-05-16-tg-typicalcompany-may-14-15-2026.md, sources/2026-05-22-tg-typicalcompany-may-18-2026-tim-cook.md, sources/2026-05-23-tg-typicalcompany-may-20-22-2026.md, sources/2026-05-26-tg-typicalcompany-may-25-2026-change-reflexes.md, sources/2026-05-30-tg-typicalcompany-may-27-29-2026.md]
 namespace: mkt
 ---
 
@@ -257,6 +257,27 @@ TYPICAL позиционируется как «человеко-centric» manag
   - (б) Возвращается ли product-bridge в research-постах (после 1338 with-bridge / 1341 без)?
   - (в) Появляется ли новый Telegram-native механический формат (опрос/quiz/comment-thread) после успеха poll→follow-up?
   - (г) Используется ли universal experience anchor (COVID-19, war, climate, tech-shifts) повторно или это был разовый ход?
+
+## Continuity-update (посты 1342-1343, 27-29 мая 2026 — восьмой ingest)
+
+Дамп из 2 постов ([[sources/2026-05-30-tg-typicalcompany-may-27-29-2026]]) — два разных pillar'а в одном окне, и **возврат AI-productivity нарратива в третью фазу**.
+
+- **Пост 1342 (27 мая) — кривая любопытства Ветцлера (HBR): research-цитирующий pillar продолжается.** Третий research-пост подряд (HBR-Friedman → Gartner-Welonski → HBR-Wetzler). Watchlist-пункт «развивается ли research-стрим» — **подтверждён**. Формат — переупаковка HBR-инфографики с собственным management-lens (та же механика, что book-list и superteam-digest). Извлечена canon-рамка [[canon/marketing-frameworks/curiosity-curve-negotiation-wetzler]]. Источник цитаты — HBR-published эксперт Jeff Wetzler; TYPICAL — re-share (фактологический caveat в силе: проверять первоисточник перед републикацией).
+
+- **Пост 1343 (29 мая) — «Почему AI не приносит деньги»: AI-narrative третья фаза.** За месяц наблюдения AI-нарратив TYPICAL прошёл: **upside** (3 сдвига / 3 рычага, пост 1330/1332) → **risk-discipline** (6 рисков, пост 1335) → теперь **ROI-skepticism / реструктуризация** (пост 1343). Это естественное углубление: от «AI меняет ремесло» через «AI несёт риски» к «AI не окупается, если внедрять неправильно». Извлечена canon-рамка [[canon/marketing-frameworks/ai-assistant-vs-restructuring-typical]] — заострение рычага Rebuild из [[canon/marketing-frameworks/ai-productivity-3-levers-typical]]. Это **четвёртая AI-рамка TYPICAL** и доказательство, что AI — устойчивый core-pillar канала, а не разовая тема.
+
+- **Усиление сближения TYPICAL ↔ GRO.** Рамка «ассистент vs реструктуризация» + anti-hype тезис «лучше не становится» ставят TYPICAL в **outcome-дисциплину** (мерить результат в деньгах, а не активность) — это ровно нарратив, который вика трекает у GRO ([[canon/marketing-frameworks/goodhart-law-ai-adoption-metrics]], [[canon/positioning/gro-value-proposition]]). TYPICAL и GRO теперь **в одном narrative-стейдже** «структура/дисциплина важнее доступа к инструменту» — TYPICAL для управленцев с командой, GRO для индивидуального применения. Для content GRO: безопасно резонировать с этим тезисом (не упоминая TYPICAL), сегмент-границы остаются разными.
+
+- **Product-bridge — отсутствует.** Оба поста — чистый edu без моста к группе/консалтингу/модулям. Watchlist-пункт «возвращается ли product-bridge в research-постах» — **подтверждён в негативе** второй раз подряд (после 1341). TYPICAL держит широкий буфер «чистой ценности» между conversion-постами.
+
+- **Cadence — стабилен.** 2 поста за 3 дня (27/29 мая). Регулярная публикация — **подтверждена**.
+
+- **Confidence-уровень profile** сохраняется на `medium-high`. Добавлено: 2 новые canonical-рамки (Wetzler curiosity curve + assistant-vs-restructuring), AI-narrative подтверждён как core-pillar (4-я рамка), research-стрим устойчив (3-й пост подряд).
+
+- **Watchlist на следующий ingest:**
+  - (а) Углубляется ли ROI-skepticism нарратив дальше (4-й AI-пост в этой фазе) или TYPICAL ротирует обратно в upside/risk?
+  - (б) Появляется ли наконец product-bridge после 3 «чистых» edu-постов подряд (1341/1342/1343)?
+  - (в) Цитирует ли TYPICAL свои собственные кейсы клиентов (а не Klarna/Revolut/Lovable) в ROI-контексте?
 
 ## Contradictions
 

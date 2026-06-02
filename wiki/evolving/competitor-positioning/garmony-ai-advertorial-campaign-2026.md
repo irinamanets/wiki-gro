@@ -10,9 +10,9 @@ confidence: high
 stale: false
 created: 2026-04-16
 updated: 2026-04-16
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md, sources/2026-05-26-condense-vcru-hr-50-articles.md]
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-05-14-vcru-hr-condensed-48-articles.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md, sources/2026-05-26-condense-vcru-hr-50-articles.md, sources/2026-06-01-condense-vcru-hr-51-articles.md]
 namespace: mkt
-updated: 2026-05-26  # +5-й батч (vc.ru/hr condensed 50, 2026-05-26): ≥22 advertorial одновременно в одном выпуске — пиковая плотность серии; complementary-stack нарратив (Garmony + Хантфлоу/Поток/Naimee), «tu quoque» objection-handling формат (CFO-vs-HRD диалог + 5-questions-to-vendor)
+updated: 2026-06-01  # +6-й батч (vc.ru/hr condensed 51): playbook стабилизирован, Talantix-цена снова дрейфует (от 2 333 ₽), «AI = маркетинговый базис», Saby/Магнит повтор
 ---
 
 # Garmony AI: серийная advertorial-кампания на vc.ru/hr
@@ -226,6 +226,36 @@ Garmony advertorial-template применён к **расширенному сп
 
 5-й батч подтверждает: Garmony advertorial-формат **стабилизировался как серийный** (5 батчей за 3 месяца, пиковая плотность 22 одновременных публикаций). Это рабочая модель native-advertorial на vc.ru/hr, переносимая (с уважением к [[canon-strict/legal-claims/ad-marking-russia-2026|маркировке рекламы]]).
 
+## Шестой зафиксированный батч (vc.ru/hr condensed 51, 2026-06-01)
+
+Шестой батч ([[sources/2026-06-01-condense-vcru-hr-51-articles]]) подтверждает, что серия Garmony — **устойчивый рекламный канал**, а не разовая кампания (6 батчей за ~2,5 месяца). Из 51 статьи ~24 дали реальные извлечения, значимая часть — Garmony-advertorial.
+
+### Подтверждённое позиционирование
+
+Garmony в 6-м батче снова подаётся как «**единственная российская платформа с настоящим NLP-скринингом 97%**»: агрегация hh.ru/SuperJob/Авито/Зарплата.ру/Хабр Карьеры/Telegram в единую воронку, скоринг 0-100, автокоммуникации (первый ответ за 2 ч), live-аналитика cost-per-hire, 152-ФЗ/российские серверы, запуск за 7 дней, первая неделя бесплатно, **от 10 000 ₽/мес** `[conf:low, src:2026-05-30]`. Полная стабилизация messaging — без новых формулировок, что само по себе сигнал: playbook отлит в форму.
+
+### Карта конкурентов (6-й батч) — подтверждение + Saby/Магнит
+
+Подтверждённые цены (advertorial, `conf:low`):
+
+| Платформа | Позиционирование | Цена | Source |
+|---|---|---|---|
+| Поток Рекрутмент | YandexGPT, полный HR-стек | от 2 575 ₽/рекрутер | `[conf:low, src:2026-05-30]` |
+| Хантфлоу | ATS, база резюме | от 5 000 ₽ | `[conf:low, src:2026-05-30]` |
+| Talantix | продукт HeadHunter, нативная hh.ru | от 2 333 ₽ | `[conf:low, src:2026-05-30]` |
+| Sever.AI / Naimee | видео/голос прескрининг массового найма | от 100 000 ₽/мес | `[conf:low, src:2026-05-30]` |
+| Workable / SeekOut / HireVue / Zoho Recruit | международные | — | `[conf:low, src:2026-05-30]` |
+
+→ **Talantix-цена снова дрейфует** (6-й батч: от 2 333 ₽; 5-й батч: от 28 000 ₽/год; ранние: от 100 000 ₽/год) — подтверждает наблюдение о нестабильности vendor-цен в advertorial, требует независимой верификации. На рынке **>80 продуктов** называют себя «AI для HR» `[conf:low, src:2026-05-30]`.
+
+### «Слово AI — больше не характеристика, а маркетинговый базис»
+
+6-й батч закрепляет мета-наблюдение: «**слово AI в описании — больше не характеристика, а маркетинговый базис**» `[conf:medium, src:2026-05-30]`. Это финальная стадия category-commoditization: AI-метка перестала дифференцировать, дифференциация ушла на уровень «поколения скрининга» (keyword → ML → NLP) — см. ось эволюции точности в [[evolving/industry-trends/ru-hr-tech-ai-landscape-2026]].
+
+### Saby/СБИС Магнит-кейс (повтор триангуляции к КЭДО)
+
+6-й батч повторно упоминает якорный КЭДО-кейс **Saby HRM (СБИС) — Магнит, 360 000 сотрудников** `[conf:low, src:2026-05-30]` — устойчивый proof-point КЭДО-вертикали, см. [[evolving/competitor-positioning/ru-kedo-enterprise-landscape-2026]].
+
 ## Наблюдения для GRO-маркетинга
 
 1. **Паттерн переносим:** серия из 8-10 SEO-лонгридов (3000-5000 слов) на одной площадке с CTA -- рабочая модель для native advertorial. Формат: экспертная статья + калькулятор + FAQ + рейтинг конкурентов.
@@ -244,6 +274,7 @@ Garmony advertorial-template применён к **расширенному сп
 - [[sources/2026-05-14-vcru-hr-condensed-48-articles]] — третий батч vc.ru/hr (апдейт)
 - [[sources/2026-05-24-vcru-hr-condensed-30-articles]] — четвёртый батч vc.ru/hr (4-й батч апдейт)
 - [[sources/2026-05-26-condense-vcru-hr-50-articles]] — пятый батч vc.ru/hr: пиковая плотность ≥22 advertorial + complementary-stack + tu-quoque
+- [[sources/2026-06-01-condense-vcru-hr-51-articles]] — шестой батч vc.ru/hr: стабилизация playbook, Talantix-дрейф, «AI = базис»
 - [[evolving/competitor-positioning/ru-kedo-enterprise-landscape-2026]] — КЭДО enterprise-ландшафт (триангуляция Saby/СБИС Магнит-кейс)
 
 ## Backlinks

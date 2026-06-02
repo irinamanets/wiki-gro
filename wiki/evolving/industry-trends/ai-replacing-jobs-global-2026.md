@@ -9,10 +9,13 @@ tags: [ai-displacement, labor-market, layoffs]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-28  # +RU-голос Лапшина (founder GRO, @gro_me 393, 2026-05-25): «человек + ИИ > просто ИИ», 22% боятся потерять работу через 5 лет, IT под ударом + LinkedIn 600 layoffs (Daniel Shapiro, 22 мая) + Meta Bloomberg-уточнения (7K reassigned, flat structure) + dnative-кластер ClickUp -22%/Oracle -22k/Meta -8000/capex 650-725 млрд $; «AI как cover для capex»
+updated: 2026-06-01  # +Себрант/@techsparks (5616-5617): Хуанг про образование в AI-эпоху + MIT Tech Review reality-check «AI не отъедает белые воротнички — No», 57,9% занятых США используют AI (counter к hysteria); prior — 6-й батч vc.ru/hr
+prev_updated_2026_06_01: 2026-06-01  # +6-й батч vc.ru/hr: junior-ladder 43%→28%, ЛеКун vs Амодеи спор, Gartner 80% no ROI, Microsoft −24% stock counter-datapoint к investor-loop
+prev_updated_2026_05_30: 2026-05-30  # +RU-sentiment 2: SuperJob (@gro_me 397) тревога занятости 8% vs 2% / смена сферы 9% vs 3%; Лапшина повторный anti-substitution голос (393→397), числа в evolving-strict/ru-career-change-superjob-may-2026
+prev_updated: 2026-05-28  # +RU-голос Лапшина (founder GRO, @gro_me 393, 2026-05-25): «человек + ИИ > просто ИИ», 22% боятся потерять работу через 5 лет, IT под ударом + LinkedIn 600 layoffs (Daniel Shapiro, 22 мая) + Meta Bloomberg-уточнения (7K reassigned, flat structure) + dnative-кластер ClickUp -22%/Oracle -22k/Meta -8000/capex 650-725 млрд $; «AI как cover для capex»
 prev_updated: 2026-05-25  # +RU-голос Батырев (YT-интервью 2026-05): «половина профессий уйдёт, но замена одно другим» (оператор дронов ~300к) + «человек как премиум» + speech-analytics proof-point (ИИ-замена ОКК на микро-уровне)
 prev_updated_2: 2026-05-24  # +ранний эмпирический трек (vc.ru/Спиридонов 2023): Accenture reskilling >550k + IgniteTech ~80% замена/EBITDA 75% + контр-интуитивный инсайт «сопротивлялись разработчики, не маркетологи» + ранний «человек + ИИ» предшественник sorting-test'а
-sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md, sources/2026-05-25-yt-batyrev-partnership-ai-sales-children.md, sources/2026-05-26-tg-breakingtrends-may19-26.md, sources/2026-05-26-tg-dnative-7629-7643.md, sources/2026-05-26-tg-gro-me-390-394.md]
+sources: [sources/2026-04-16-vcru-hr-condensed-37-articles.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-05-05-vc-ru-condensed.md, sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-05-tg-rb-ru-apr-24-may-5-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-temno-moreynis-apr-may-2026.md, sources/2026-05-05-yt-batyrev-management-news-mar16-31.md, sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-14-tg-vcnews-may-5-8-2026.md, sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-19-tg-gurinovich-shares-may-14-18-2026.md, sources/2026-05-24-vcru-chunk4-condensed.md, sources/2026-05-25-yt-batyrev-partnership-ai-sales-children.md, sources/2026-05-26-tg-breakingtrends-may19-26.md, sources/2026-05-26-tg-dnative-7629-7643.md, sources/2026-05-26-tg-gro-me-390-394.md, sources/2026-06-01-condense-vcru-hr-51-articles.md, sources/2026-05-30-tg-gro-me-395-398.md, sources/2026-05-30-tg-techsparks-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -194,6 +197,10 @@ Cluster закрепляет паттерн: **AI как official narrative + fi
 ## Восприятие в РФ
 - 29% сотрудников в РФ боятся замены AI в ближайшие 2 года (в 2024 было 9% -- рост в 3.2 раза)
 - 54% HR-лидеров инициировали проекты повышения квалификации по AI
+
+### Enrich 2026-05-30 — SuperJob: тревога занятости и смена сферы (@gro_me 397)
+
+Колонка Лапшиной (founder GRO) от 29 мая 2026 ретранслирует свежий опрос SuperJob (1600 работающих, май 2026) — это **второй RU-sentiment датапоинт** того же квартала рядом с «29% боятся замены». Качественно: тревога занятости и желание сменить вектор растут кратно год-к-году. Точные числа (8% чуют сокращения vs 2% год назад; 9% хотят сменить сферу vs 3%; 46% — деньги; 10% — потолок) с inline-маркерами вынесены в strict-страницу [[evolving-strict/market-data/ru-career-change-superjob-may-2026]]. Авторская рамка Лапшиной: это **не паника, а «рабочая картина перестраивающегося рынка»** — congruent с её anti-substitution позицией из 393 («человек + ИИ > просто ИИ»). Лапшина закрепляется как **повторяющийся RU-голос** этого нарратива (393 → 397), причём с продуктовой привязкой (карьерный трек GRO как инструмент осознанной переоценки вектора). См. [[sources/2026-05-30-tg-gro-me-395-398]].
 
 ### Сергиенков (CEO HeadHunter), 28 апр 2026 — публичная официальная рамка
 
@@ -500,8 +507,59 @@ Snap и Block добавляются к уже зафиксированным AI
 
 **Формулировка «человек + ИИ» (Спиридонов, 2023):** «искусственный интеллект не отнимет у вас работу, а вот человек, который грамотно его использует — может» `[conf:low, src:2023]`. Это **ранний (2023) предшественник** sorting-test'а fragmented-vs-modular (2026) того же автора — см. [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]]. Confidence `low` — retell 2023-статьи через condensed-файл, без первичной верификации цифр.
 
+## 6-й батч vc.ru/hr (2026-06-01): junior-ladder, ЛеКун vs Амодеи, Gartner ROI, Microsoft-stock
+
+Из [[sources/2026-06-01-condense-vcru-hr-51-articles|6-го батча vc.ru/hr]] — четыре новых датапойнта (пересказы западных сенсаций, `conf:low`, кроме Microsoft-stock).
+
+### Junior career-ladder под ударом
+
+- Доля вакансий для junior-разработчиков упала **с 43% до 28%** с 2023; **60% стартовых позиций** теперь требуют от 3 лет опыта `[conf:low, src:2026-05-30]`.
+- В марте 2026 ИИ **впервые стал главной причиной увольнений**; в IT-секторе сокращено **80 000 человек** с начала года `[conf:low, src:2026-05-30]`.
+
+Это **прямое усиление** тезиса автора 6-го батча `[conf:low, src:2026-05-30, автор не верифицирован]`: «заколачивая входную дверь для джунов, бизнес роет демографическую яму» → через 3-4 года дефицит middle/senior, т.к. «ИИ заменяет функции, но не выращивает экспертов из воздуха». Согласуется с senior-leverage из [[evolving/industry-trends/ru-labor-market-employer-turn-2026]] (10-й замер): junior-вход сужается, дефицитный senior дорожает.
+
+### Спор ЛеКун (Meta) vs Амодеи (Anthropic)
+
+Экспертный спор о масштабе замещения `[conf:medium, src:2026-05-30]`: Ян ЛеКун обвиняет глав AI-лабораторий в нагнетании паники **ради инвестиций**; Дарио Амодеи прогнозирует **уничтожение офисных рабочих мест начального уровня**. Это поляризация того же нарратива, что Сергиенков (hh) сглаживает в RU-версии («не массово, не сейчас»). Параллель к Microsoft «18 месяцев на полную автоматизацию офисной работы» и прогнозу Anthropic об исчезновении половины стартовых позиций `[conf:low, src:2026-05-30]`.
+
+### Gartner: 80% компаний не получили ROI от AI-сокращений
+
+Gartner (опрос 350 руководителей компаний с выручкой от $1 млрд): **80% компаний сократили штат под AI и не получили ROI**; к 2028 AI станет нетто-позитивным job creator `[conf:low, src:2026-05-30]`. Это **third-party триангуляция** dnative-критики «AI-layoffs = cost-cut с AI-rationale как cover» (см. кластер выше) — теперь подтверждённая опросом enterprise-руководителей, а не только voice блогера.
+
+### Microsoft: stock-сигнал к buyout
+
+6-й батч добавляет к уже зафиксированному [[volatile-strict/competitor-news/microsoft-9000-voluntary-retirements-2026|Microsoft buyout]] (апрель 2026) новый рыночный anchor: программа добровольного выхода для **>8000 сотрудников** (возраст+стаж ≥70 лет) идёт **на фоне роста капзатрат на ИИ-дата-центры**; акции Microsoft **−24% с начала 2026 — худший результат среди 7 крупнейших ИТ-компаний США** `[conf:medium, src:2026-05-30]`. Stock-сигнал переворачивает investor-loop (Snap +9% на AI-layoffs): здесь рынок **наказывает** capex-тяжёлую AI-ставку, а не поощряет. Это **counter-datapoint** к investor-loop-тезису выше — реакция капитала на AI-capex неоднородна.
+
+## Counter-anchor: MIT Tech Review reality-check + Хуанг про образование (Себрант, май 2026)
+
+Через [[sources/2026-05-30-tg-techsparks-may-26-29-2026|@techsparks/Себрант 5616–5617]] (Андрей Себрант, директор по стратегическому маркетингу Яндекса) приходят **два независимых counter-anchor'а** к displacement-панике — оба ссылаются на западные первоисточники с data-grounding.
+
+### MIT Technology Review: «AI не отъедает белые воротнички — No» (пост 5617)
+
+Статья MIT Tech Review (2026-05-26) даёт **развёрнутый data-driven ответ** на популярный страх: правда ли AI начал отнимать места у белых воротничков? Короткий ответ — **No** `[conf:medium, src:2026-05-26]`. Аргументация:
+
+- Рынок труда США действительно «не очень», но **причин много, и AI — далеко не главная**: экономика ещё не вернулась в устойчивое состояние после ковидного шока и последующего отката.
+- Больнее всего болит у **соискателей 22–25 лет на entry-level в IT** и нескольких смежных областях — но **эти позиции = маленький сегмент рынка труда**. Это совпадает с junior-ladder сигналом (43%→28%) выше, но MIT калибрует масштаб: это узкий сегмент, не весь рынок.
+- При этом AI **уже широко используется** на рабочих местах: **57,9% населения США 18–64 используют AI** `[conf:medium, src:2026-05-26]` (числа с inline-маркером — на [[evolving-strict/market-data/ai-adoption-penetration-feb-2026]]).
+- Ключевой нюанс: «В работах, где AI использовался **для аугментации** человеческого труда, число сотрудников росло **быстрее среднего** по entry-level». Это data-grounded подтверждение augmentation > replacement тезиса.
+- Исторический паттерн: исчезновение ролей и профессий **ни разу** не привело к росту безработицы, хотя структура занятости менялась.
+
+**Почему это сильный counter-anchor.** В отличие от блогерских voice'ов (dnative, Морейнис) и founder-мнений (Гуринович, Батырев, Лапшина), MIT Tech Review — **институциональный data-источник**. Он формализует ту же medium-pace-картину, что Atlanta Fed выше: не апокалипсис, а структурная перестройка с augmentation-ростом. Триангулирует с Gartner (80% no ROI) и Спиридонов sorting-test.
+
+### Хуанг (NVIDIA) про образование: «не гонитесь за AI-proof профессиями» (пост 5616)
+
+В интервью Channel NewsAsia Дженсен Хуанг ответил на вопрос родителей «чему учить детей в эпоху AI» `[conf:medium, src:2026-05-26]`:
+
+> «Parents shouldn't obsess over what their kids study in the era of AI. I think it won't matter. All the things that used to matter are still going to matter in the future. Instead of chasing AI-proof subjects, students should focus on using AI to deepen their learning and improve their craft.»
+
+**Куда это ложится.** Это **education-side** того же тезиса, что blue-collar-resilience Хуанга ([[evolving/industry-trends/blue-collar-ai-resilience-2026]]): списки «защищённых от AI профессий» обладают **нулевой предсказательной силой**, потому что никто не знает, как трансформируются профессии. Правильная стратегия — **учиться максимально использовать AI в любимой области**, а не выбирать профессию по критерию «AI-proof». Себрант явно поддерживает («всеми конечностями»). Это operational-совет, конгруэнтный sorting-test'у Спиридонова (важна не сама профессия, а fragmented-vs-modular структура работы) и позиционной формуле Лапшиной «люди с ИИ сильнее людей без ИИ».
+
+**Связь с GRO-нарративом.** Хуанг даёт **authority-anchor для skill-development позиционирования** GRO: не «выбери безопасную нишу», а «развивай навык использования AI в своём деле». Это инверсия anxiety-frame в growth-frame — ровно то, под что GRO даёт интеллектуальный leverage.
+
 ## Content-hooks для GRO
 - «29% россиян боятся AI-замены -- в 2024 было 9%. Три кратных за год.» (anxiety-hook, Сегмент 1)
+- **Новое (6-й батч 2026-06-01):** «Junior-вакансии в разработке: 43% → 28% за 3 года, 60% "стартовых" требуют 3+ лет опыта. Вход сузился — но дефицитного senior рынок всё ещё рвёт на части. Задача — быстрее оказаться в дефицитной категории.» (junior-ladder hook)
+- **Новое (Gartner):** «80% компаний сократили штат под AI и не получили ROI (опрос Gartner, 350 CEO компаний от $1 млрд). "AI-эффективность" в пресс-релизе ≠ эффективность в P&L.» (counter-hype hook, снимает FOMO)
 - **Новое (vc.ru/Спиридонов 2023):** «Кто сильнее всех сопротивлялся ИИ в 2023? Не маркетологи — разработчики. Устали от хайпа после метавселенных и блокчейна. Сопротивление приходит не оттуда, откуда ждёшь.» (контр-интуитивный hook про reskilling)
 - **Новое (Гуринович 2026-05-18):** «"С AI будем работать меньше"? Нет. Работать будем больше и продуктивнее — либо меньше, но за мелкий прайс. Так было с паровыми машинами, история циклична.» (RU-предпринимательский Jevons-hook; жёсткая дихотомия «расти или деградировать»)
 - «Snap сэкономил $500M на AI-автоматизации. Ваш работодатель может быть следующим.» (urgency)
@@ -513,6 +571,8 @@ Snap и Block добавляются к уже зафиксированным AI
 - **Новое (Спиридонов 2026-05-12):** «В 2016 один из крёстных отцов AI Хинтон сказал: рентгенологов учить не надо, AI заменит. Прошло 10 лет — вакансий и зарплат у них больше, чем когда-либо. Простой тест: можешь описать свой день списком из 3-5 несвязанных типов задач? Если да — AI ускоритель, а не угроза. Если нет — пора переучиваться». (sorting-test counter-anchor с 10-летним эмпирическим anchor'ом)
 - **Новое (Морейнис 2026-05-05):** «Уволили под AI — а через полгода вернулись с зарплатой x2 как AI-supervisor'ы. Цикл уже видим в США. Hint для founder'а: не увольняй тех, кого потом наймёшь обратно как консультантов» (operational anti-pattern для SMB-founder'ов + counter-anchor для employed-сторон, что AI-замена ≠ конец карьеры)
 - **Новое (Лапшина 2026-05-25):** «"Давайте сделаем агентов по производству контента!" — Давайте. А кто поедет снимать, договорится со студией, смонтирует? Всё сложить в аватары не получится и не нужно. Я ищу тех, кто хочет развивать **комплексный набор навыков для результата** — это и есть новая ценность.» (RU-founder anti-substitution hook + позиционная формула «человек+AI > AI», прямая отсылка на GRO позиционирование)
+- **Новое (MIT Tech Review через Себрант 2026-05-26):** «"AI отъедает места у белых воротничков?" — MIT Tech Review: No. Болит у соискателей 22–25 лет на entry-level в IT — но это узкий сегмент. А там, где AI **аугментирует**, штат рос быстрее среднего. AI уже у 57,9% занятых США — и массового вымывания нет.» (institutional data counter-hype hook, снимает панику фактурой)
+- **Новое (Хуанг про образование, Себрант 2026-05-26):** «Дженсен Хуанг родителям: не гонитесь за "AI-proof профессиями" для детей — это не важно. Учитесь использовать AI, чтобы углубить своё дело. Списки "защищённых профессий" предсказывают будущее с нулевой точностью.» (growth-frame skill-development hook, прямая отсылка на позиционирование GRO)
 - **Новое (Лапшина 2026-05-25):** «За чем следить в AI-трансформации профессий: 5 сигналов от founder'а GRO — смещение спроса / результат как базовое требование / вознаграждение за ценность / кто и как долго не находит работу / профессии "с приставкой AI". Не паника, а наблюдение.» (operational sigals hook, конвертируется в листикл-пост для блога GRO)
 
 ## Связанные страницы
@@ -548,6 +608,10 @@ Snap и Block добавляются к уже зафиксированным AI
 - [[sources/2026-05-14-tg-temno-moreynis-may-5-14-2026]] -- @temno дайджест 5-14 мая 2026, через который пришёл AI-supervisor возврат паттерн (пост 7818)
 - [[sources/2026-05-05-yt-batyrev-management-news-mar16-31]] -- Batyrev YT mar16-31 2026: Dell/ASML/Meta/Atlanta Fed как кейсы с управленческой интерпретацией
 - [[canon/marketing-frameworks/meta-error-batyrev-asymmetric-signals]] -- canon-страница ошибки асимметричных сигналов (Meta-кейс)
+- [[sources/2026-06-01-condense-vcru-hr-51-articles]] -- 6-й батч vc.ru/hr: junior-ladder 43%→28%, ЛеКун vs Амодеи, Gartner 80% no ROI, Microsoft −24% stock
+- [[evolving/industry-trends/ai-employee-surveillance-trend-2026]] -- AI-надзор за сотрудниками (Meta MCI monitoring оставшихся после layoff)
+- [[sources/2026-05-30-tg-techsparks-may-26-29-2026]] -- Себрант/@techsparks 5616-5617: MIT Tech Review reality-check + Хуанг про образование (counter-anchors)
+- [[evolving-strict/market-data/ai-adoption-penetration-feb-2026]] -- 57,9% занятых США используют AI (US-workforce контраст)
 
 ## Backlinks
 

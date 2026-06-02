@@ -9,8 +9,8 @@ tags: [ai, cursor, composer, spacexai, coding, pricing, competitor]
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-ai-newz-may-14-19-2026.md]
+updated: 2026-06-01  # +vcnews 18-20 мая: второй source-attestation (vc.ru/ai/2936674, бенчмарк-таблица из media 61435) + SpaceX↔Cursor сделка $60B / закрытие через 30 дней после IPO ≈12 июня (61457)
+sources: [sources/2026-05-19-tg-ai-newz-may-14-19-2026.md, sources/2026-06-01-tg-vcnews-may-18-20-2026.md]
 namespace: mkt
 ---
 
@@ -70,6 +70,17 @@ Caveat на самом слайде Cursor: Opus 4.7 и GPT-5.5 показаны
 - [[volatile-strict/industry-news/gpu-scarcity-neocloud-anthropic-2026-05]] — GPU-дефицит как драйвер pricing
 - [[volatile-strict/competitor-news/openai-codex-vs-claude-code-2026-05]] — динамика coding-вендоров
 - [[sources/2026-05-19-tg-ai-newz-may-14-19-2026]] — первоисточник
+- [[sources/2026-06-01-tg-vcnews-may-18-20-2026]] — второй source-attestation (vc.ru, посты 61435/61457)
+
+## Второй source-attestation — vc.ru (61435 + 61457)
+
+[[sources/2026-06-01-tg-vcnews-may-18-20-2026|@vcnews 18–20 мая]] независимо фиксирует тот же релиз (vc.ru/ai/2936674) с близкими, но не идентичными деталями `[conf:medium, src:2026-05-18]`:
+
+- Composer 2.5 построена на базе **китайской Kimi 2.5**, но Cursor использовала **на 85% больше вычислительных мощностей**, чем разработчики базовой модели `[conf:medium, src:2026-05-18]` (vs «25× синтетических тасков» в @ai_newz — разные углы того же тренинга).
+- В тестах Composer 2.5 **сопоставима с Opus 4.7 и GPT-5.5**, при этом стоимость использования **примерно в 10× ниже** `[conf:medium, src:2026-05-18]`.
+- Бенчмарк-таблица из media 61435 совпадает с уже зафиксированной выше (Terminal-Bench 69,3/SWE-Bench 79,8/CursorBench 63,2) — **второй независимый снимок того же слайда**.
+
+**SpaceX↔Cursor сделка (vc.ru/invest/2938819, пост 61457):** SpaceX планирует закрыть покупку Cursor **через 30 дней после листинга своих акций** (IPO возможно **12 июня 2026**); соглашение апреля 2026 предусматривает опцион выкупа за **$60 млрд** `[conf:low, src:2026-05-20]`. Это **конкретизирует** ранее зафиксированную (conf:low) трактовку @ai_newz про M&A-зависимость — теперь с цифрой и сроком.
 
 ## Caveat
 

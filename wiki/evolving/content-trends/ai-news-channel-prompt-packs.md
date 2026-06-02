@@ -9,8 +9,8 @@ tags: [content, telegram, prompt-engineering, post, ai, content-formats]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +5-й (короткий, 3,5 дня) срез @neuraldvig (10733..10782): 3/50 = 6% raw (~12% нормализованно к 7д) — в норме; reverse-brainstorming как новый суб-формат (10780); chain-of-thought meta-prompt в RU (10769 — UNDERSTAND/ANALYZE/REASON/SYNTHESIZE/CONCLUDE); life-coach вертикаль продолжается (10757)
-sources: [sources/2026-04-14-tg-neuraldvig-apr-7-14.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-neuraldvig-may-5-12-2026.md, sources/2026-05-19-tg-neuraldvig-may-13-19-2026.md, sources/2026-05-26-tg-neuraldvig-may-19-22-2026.md]
+updated: 2026-05-30  # +6-й срез @neuraldvig (10783..10825, 8 дней): 3 промт-поста (10789 values-assessment, 10812 ATS-резюме, 10818 skeptical-truth) — career/honesty вертикали продолжают доминировать; honesty-contract третий срез подряд; persona-priming только в 1/3. +кросс-авторское распространение формата за пределы AI-news-каналов: «промпт недели» в бизнес-канале @peregudov (457/458)
+sources: [sources/2026-04-14-tg-neuraldvig-apr-7-14.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-neuraldvig-may-5-12-2026.md, sources/2026-05-19-tg-neuraldvig-may-13-19-2026.md, sources/2026-05-26-tg-neuraldvig-may-19-22-2026.md, sources/2026-05-30-tg-neuraldvig-may-22-30-2026.md, sources/2026-05-30-tg-peregudov-454-458.md]
 namespace: mkt
 ---
 
@@ -98,6 +98,24 @@ namespace: mkt
 
 - **Image-generation промтов нет в 5-м срезе** — отсутствие в коротком окне 3,5 дня не опровергает гипотезу из 4-го среза о новом подтипе; sample слишком мал для conclusion. Следим в 6-м срезе.
 
+## Три образца из @neuraldvig за шестой срез (2026-05-22..2026-05-30, 8 дней)
+
+Полный текст — в [[sources/2026-05-30-tg-neuraldvig-may-22-30-2026]] (раздел «Промт-подборки»). Метаданные:
+
+| ID поста | Дата | Тема | N | Persona | Тип |
+|---|---|---|---|---|---|
+| 10789 | 2026-05-25 | Values Assessment Exercise (GPT-5.5 как «личный карьерный коуч») | 1 (multi-domain) | — | **personal-development / structured self-discovery** |
+| 10812 | 2026-05-28 | ATS-резюме под вакансию (reddit-success-story обёртка) | 1 (multi-turn) | «опытный карьерный ассистент, эксперт по оптимизации резюме под ATS» | career / multi-turn |
+| 10818 | 2026-05-29 | Skeptical-truth контракт («говорит только правду») | 1 (behavioral contract) | «skeptical expert whose default mode is to verify» | **honesty-contract (anti-hallucination)** |
+
+**Новые наблюдения по шестому срезу:**
+
+- **Career + personal-development вертикаль доминирует 6-й срез подряд** — 10789 (values/career-coach) и 10812 (резюме под ATS) — 2 из 3 в сторону career/self-development. Это устойчиво подтверждает основной вывод страницы: промт-формат естественно ложится на сегмент 1 ЦА GRO (карьеристы) и self-development-нарратив в целом. 10789 — особенно близок методологии GRO (структурированное само-исследование ценностей как compass для решений).
+- **Honesty-contract — третий срез подряд** (10818 «skeptical expert / treat every claim as hypothesis / accuracy over confidence»). После anti-flattery (10639, 3-й срез) и anti-hallucination (10710, 4-й срез) это **закрепляет honesty-by-contract как устойчивый суб-канон** RU AI-аудитории, а не разовую флуктуацию. Разобран в [[evolving/content-trends/anti-flattery-prompt-canon-2026]]. 10818 — чистый skepticism/verification-контракт, ближе к 10710 (factuality), чем к 10639 (tone).
+- **Persona-priming только в 1 из 3** (10812). 10789 и 10818 — без role-priming с указанием лет/award, только behavioral/structured-инструкции. Это **5-й срез подряд** де-эскалации persona-priming (с авторитет-инфляции 2-го среза). Тренд устойчивый: **behavioral contracts + structured templates > persona-priming**.
+- **English-промт snippet в RU-канале** (10818 промт целиком на английском с инструкцией «Answer in Russian») — продолжение паттерна copy-paste англоязычных промтов в RU-feed (ср. 10622 5-й/3-й срез). RU-аудитория потребляет англо-инжиниринг как есть, добавляя только output-locale-инструкцию.
+- **Reverse-brainstorming и CoT meta-prompt из 5-го среза не повторились** — оба остаются single-occurrence; не подтверждены как устойчивые суб-форматы. Следим дальше.
+
 ## Девять образцов из @neuraldvig за четвёртую неделю (2026-05-13..2026-05-19)
 
 Полный текст — в [[sources/2026-05-19-tg-neuraldvig-may-13-19-2026]] (раздел «Промт-подборки»). Метаданные:
@@ -156,6 +174,15 @@ namespace: mkt
 
 **Authority-proxy без экспертности автора.** Канал-ретранслятор не обязан быть экспертом prompt-engineering — достаточно быть хорошим куратором. Это снимает барьер входа в жанр: любой AI-news-канал может запустить рубрику «промты недели» без продакшн-команды.
 
+## Распространение за пределы AI-news-каналов (cross-author, 2026-05)
+
+Изначально паттерн наблюдался в AI-news-каналах (@neuraldvig — daily-feed жанр). Но 2026-05-29 «промпт недели» появился в **бизнес/венчур-канале** @peregudov (Михаил Перегудов, founder/ангел-инвестор) — пост 457 «Забирайте промпт недели, бесплатно» + jpg ([[sources/2026-05-30-tg-peregudov-454-458]]). Два наблюдения:
+
+- **Формат-giveaway мигрирует в general-author-каналы** — «бесплатный промпт недели» используется не как утилитарная рубрика, а как **engagement-/retention-крючок** в канале, который про бизнес, не про AI. Это расширяет ареал паттерна с нишевых AI-каналов на широкие авторские. Сигнал: «промпт-как-лид-магнит» становится default-форматом любого автора с аудиторией. `[conf:medium, src:2026-05-30]`
+- **Юмор-промт как подвид** — в отличие от утилитарных промтов @neuraldvig, @peregudov раздаёт **мем-промт** (грубый диалог с ботом, который послушно правит таблицу под обсценные команды). Здесь ценность не в re-use, а в развлечении + узнаваемости боли «ИИ слишком soft». Это decorative-конец спектра промт-постов (ближе к мему, чем к tool).
+
+**Для GRO:** подтверждает, что «промпт недели» — низкозатратный recurring-формат, применимый и в бренд-канале не-AI-тематики. Но юмор-промт-вариант не save-пригоден (read-and-forget) — для GRO ценнее утилитарная ветка (сегментные промты), а юмор-промт допустим лишь как разовый engagement-всплеск.
+
 ## Что GRO может отсюда забрать
 
 GRO — self-development app для трёх сегментов ЦА (карьеристы, предприниматели, фрилансеры — см. [[canon/target-audience/gro-segments]]). AI-компонент продукта (см. [[canon/product-knowledge/gro-app-overview]]) делает паттерн особенно подходящим для контент-стратегии бренд-канала:
@@ -194,6 +221,7 @@ GRO — self-development app для трёх сегментов ЦА (карье
 - [[sources/2026-05-14-tg-neuraldvig-may-5-12-2026]] — третий 7-дневный срез, валидация 10% доли (диапазон 10–12% на трёх срезах)
 - [[sources/2026-05-19-tg-neuraldvig-may-13-19-2026]] — четвёртый 7-дневный срез, скачок до 18% + image-generation подтип + anti-hallucination контракт
 - [[sources/2026-05-26-tg-neuraldvig-may-19-22-2026]] — пятый (короткий, 3,5 дня) срез, разрешает гипотезу 4-го пика к baseline + Reverse brainstorming + CoT meta-prompt в RU
+- [[sources/2026-05-30-tg-neuraldvig-may-22-30-2026]] — шестой срез (8 дней), 3 промт-поста: career/honesty доминируют, honesty-contract 3-й срез подряд, persona-priming де-эскалирован
 - [[evolving/content-trends/anti-flattery-prompt-canon-2026]] — суб-канон anti-flattery + anti-hallucination promts (10639, 10710 как key references)
 - [[volatile/weekly-digest/ai-news-digest-2026-05-13-19]] — AI-новости той же недели из @neuraldvig
 

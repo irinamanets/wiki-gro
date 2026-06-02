@@ -9,8 +9,8 @@ tags: [biotech, investor-narrative, market-trends, longevity, ai]
 confidence: medium
 stale: false
 created: 2026-05-15
-updated: 2026-05-15
-sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md]
+updated: 2026-05-30  # +disruption смежных индустрий (общепит/логистика) + Ретатрутид, из @mspiridonov 4431
+sources: [sources/2026-05-14-tg-mspiridonov-may-2026.md, sources/2026-05-30-tg-mspiridonov-may-26-30-2026.md]
 namespace: mkt
 ---
 
@@ -101,9 +101,15 @@ Hybrid-сегмент (AI for drug discovery, AI for biomarker prediction) — �
 
 > «Маркетинг consumer biotech 2026 — это маркетинг GLP-1: hyper-targeted, evidence-based, premium pricing, peer-validated. Если вы маркетолог в традиционном FMCG — посмотрите, как продают Ozempic. Это будущее consumer-marketing'а».
 
+## Disruption смежных индустрий (обновление 2026-05-28, @mspiridonov 4431)
+
+Тренд consumer biotech начинает измеримо бить по другим категориям. По посту 4431 Спиридонова с инфографикой William Blair Equity Research (опрос 300 GLP-1-пациентов): после начала приёма GLP-1 визиты в рестораны падают, и **чем дешевле/фастфуднее формат, тем сильнее** (quick service: ~78% сообщают «реже» vs full-service ~66%). Second-order: аналитики рынка грузоперевозок оценивают, что с рынка логистики США из-за усыхания потребления ушли «сотни тысяч фур» (через @mspiridonov, conf:low). Через дофаминовую систему GLP-1 потенциально задевает и индустрию развлечений. Новое поколение — Ретатрутид (Eli Lilly) — снижает до 30% массы тела, что усиливает темп disruption. Конкретные числа → [[evolving-strict/market-data/glp1-vs-ai-consumer-biotech-2025]].
+
+**Marketing-take для GRO:** «препараты для похудения сделают больно многим индустриям; первым под каток попадёт общепит» — готовый hook о том, как технологический/биотех-сдвиг переписывает спрос целых вертикалей.
+
 ## Связь со смежными трендами
 
-- [[evolving-strict/market-data/glp1-vs-ai-consumer-biotech-2025]] — числовая база категории (GLP-1 vs AI revenue 2025)
+- [[evolving-strict/market-data/glp1-vs-ai-consumer-biotech-2025]] — числовая база категории (GLP-1 vs AI revenue 2025) + restaurant-impact chart
 - [[evolving-strict/market-data/humanoid-robot-unit-economics-2024-2050]] — параллельная market-категория (robotics) с другим темпом
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — макро-narrative AI, к которому это counter
 - [[evolving/industry-trends/ai-value-migration-2026]] — куда мигрирует ценность в эпоху AI; consumer biotech — одно из направлений
@@ -111,6 +117,7 @@ Hybrid-сегмент (AI for drug discovery, AI for biomarker prediction) — �
 ## Cross-links
 
 - [[sources/2026-05-14-tg-mspiridonov-may-2026]] — первичный источник (пост 4399, нарратив + цифры)
+- [[sources/2026-05-30-tg-mspiridonov-may-26-30-2026]] — обновление: disruption общепита/логистики + Ретатрутид (пост 4431)
 - [[evolving-strict/market-data/glp1-vs-ai-consumer-biotech-2025]] — числовая база
 - [[evolving-strict/market-data/humanoid-robot-unit-economics-2024-2050]] — параллельная категория
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — counter-narrative из категории AI

@@ -9,8 +9,8 @@ tags: [disney, ai, productivity, gamification, big-tech, news]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-breakingtrends-apr21-may05.md]
+updated: 2026-05-30  # +Amazon как второй verified-источник того же tokenmaxxing-паттерна (Аннаков/TechSpot)
+sources: [sources/2026-05-05-tg-breakingtrends-apr21-may05.md, sources/2026-05-30-tg-productsandstartups-may-27-29-2026.md]
 namespace: mkt
 ---
 
@@ -33,6 +33,18 @@ Disney **геймифицировал использование нейросе�
 **3. 460k запросов/9 дней — это реальный, не маркетинговый показатель.** Если поставить рядом с Snap (>1M запросов/мес) и Google (75% нового кода через AI) — ясно, что **топ-10% сотрудников в крупных компаниях имеют AI-usage в 100-1000 раз выше среднего пользователя**. Это растущий разрыв в **AI-literacy** между активными пользователями и broad-аудиторией. `[conf:medium, src:2026-05-05]`
 
 **4. Геймификация AI-usage — отдельный паттерн management.** Это не просто инструмент; это **подразумевает, что adoption важно ускорить любыми средствами**. Disney через геймификацию поощряет early-adopters и стигматизирует тех, кто не использует AI. Это **PIP-через-leaderboard** скрытым образом — те, кого нет в leaderboard, попадают в watch list.
+
+## Второй verified-инстанс паттерна — Amazon (добавлено 2026-05-30)
+
+Тот же tokenmaxxing-паттерн независимо зафиксирован в **Amazon** (через [[sources/2026-05-30-tg-productsandstartups-may-27-29-2026|@ProductsAndStartups / Байрам Аннаков]], первоисточник [TechSpot](https://www.techspot.com/news/112386-amazon-employees-using-internal-ai-tools-inflate-usage.html)):
+
+- KPI: **>80% разработчиков должны юзать AI еженедельно** `[conf:medium, src:2026-05-27]`
+- Внутренние **лидерборды по потреблению токенов**, видимые менеджерам `[conf:medium, src:2026-05-27]`
+- Официально «не учитывается при performance review», но менеджеры всё равно смотрят `[conf:medium, src:2026-05-27]`
+- Разработчики гоняли внутреннюю агентскую платформу **MeshClaw** на бессмысленных задачах ради топа лидерборда `[conf:medium, src:2026-05-27]`
+- После публикации Amazon **ограничил доступ** к командной статистике (видят только сотрудник + руководитель) — откат геймификации, как и у Disney `[conf:medium, src:2026-05-27]`
+
+**Два независимых кейса за месяц (Disney apr, Amazon may) → tokenmaxxing стал устойчивым управленческим anti-pattern.** Обобщённый диагностический фреймворк (закон Гудхарта/Кэмпбелла на AI-adoption метриках + таблица «плохая→хорошая метрика») вынесен в canon: [[canon/marketing-frameworks/goodhart-law-ai-adoption-metrics]].
 
 ## Связь с трендами
 
@@ -59,4 +71,6 @@ Disney **геймифицировал использование нейросе�
 - [[volatile-strict/competitor-news/microsoft-vibe-working-office-2026]] — параллельный AI-нативный новояз
 - [[volatile-strict/competitor-news/microsoft-9000-voluntary-retirements-2026]] — параллельный AI-driven HR move
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — гонка корпораций
-- [[sources/2026-05-05-tg-breakingtrends-apr21-may05]] — первоисточник дампа
+- [[canon/marketing-frameworks/goodhart-law-ai-adoption-metrics]] — обобщённый фреймворк (Гудхарт на AI-метриках)
+- [[sources/2026-05-05-tg-breakingtrends-apr21-may05]] — первоисточник дампа (Disney)
+- [[sources/2026-05-30-tg-productsandstartups-may-27-29-2026]] — источник Amazon-кейса (Аннаков)

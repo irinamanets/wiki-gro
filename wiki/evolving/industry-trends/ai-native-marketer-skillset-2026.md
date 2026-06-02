@@ -9,7 +9,7 @@ tags: [ai, marketing, skillset, role, career, future-of-work]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +параллель из engineering recruiting (Volkov через @ai_newz 4568) — adoption AI упирается в команду, не в бюджет/стратегию; AI-native skills gap как индустриальный bottleneck
+updated: 2026-05-30  # +cross-link на ai-agent-marketing-capability-boundary (Табунов пост 639) — зеркальный тезис с capability-стороны. Prior: +параллель из engineering recruiting (Volkov)
 sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md]
 namespace: mkt
 ---
@@ -162,6 +162,7 @@ Cross-link с [[canon/marketing-frameworks/multi-agent-marketing-org-principles]
 - [[evolving/industry-trends/ai-native-company-architecture-2026]] — более широкий взгляд на уровне всей компании
 - [[evolving/industry-trends/ai-knowledge-worker-climb-2025-2026]] — общий тренд смещения knowledge work к AI-native ролям
 - [[evolving/industry-trends/ai-solopreneurship-window-2026-2029]] — крайний вариант: тот же скиллсет, но в соло-режиме без команды
+- [[evolving/industry-trends/ai-agent-marketing-capability-boundary-2026]] — зеркальный тезис с capability-стороны (что Claude Code НЕ умеет в маркетинге, Табунов пост 639)
 - [[sources/2026-05-14-tg-ai-newz-may-2026]] — независимое подтверждение тезиса из инженерии (Mike Volkov #промо 4568)
 - [[evolving/competitor-positioning/onsa-robin-ai-chief-of-staff]] — Robin как референсный кейс AI Chief of Staff в команде
 - [[canon/marketing-frameworks/karpathy-software-3-agentic-engineering]] — Software 3.0 как framework, под который сжимаются роли

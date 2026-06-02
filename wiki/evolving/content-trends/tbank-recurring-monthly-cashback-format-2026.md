@@ -9,8 +9,8 @@ tags: [content, t-bank, cashback, loyalty, recurring-cadence, retention, fintech
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md]
+updated: 2026-06-01
+sources: [sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md, sources/2026-06-01-tg-tinkoffbank-may-26-30-2026.md]
 namespace: mkt
 ---
 
@@ -59,13 +59,22 @@ Base-кейс: [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]] — �
 3. **Portfolio из cadence-режимов.** Не выбирать «streak ИЛИ monthly» — держать оба под разные сегменты: daily-streak для active-core, monthly-window для casual-retention.
 4. **Planning-frame.** «Мы спланировали ваш месяц тренировок» вместо «успей купить подписку» — забота вместо транзакции.
 
+## Подтверждение recurring-природы (июнь 2026)
+
+Пост @tinkoffbank/10765 (30 мая 2026, [[sources/2026-06-01-tg-tinkoffbank-may-26-30-2026]]): «Важное напоминание: категории повышенного кэшбэка на июнь сами себя не выберут». Это **второе наблюдаемое окно** программы (после майского #10714) — снимает прежнее ограничение «N=1». Подтверждается:
+
+- **Recurring-cadence реальна** — программа повторилась в июне, а не была разовым майским announce.
+- **«Выбор категорий» как UI-механика.** В отличие от майского «банк планирует за вас», июньский reminder переносит выбор на пользователя («сами себя не выберут») — то есть в программе есть user-selectable категории повышенного кэшбэка, требующие активного действия в начале окна. Это добавляет к planning-frame ещё и **commitment-микродействие** (выбери → активируй), повышающее engagement.
+- **Reminder-тон вместо launch-тона.** Короткий one-liner-напоминание (не полноценный announce-пост) — признак того, что механика уже знакома аудитории и требует только триггера, а не re-explain. Подтверждает гипотезу «predictability снижает creative-cost».
+
 ## Ограничения и неизвестные
-- **Sample size N=1.** Один наблюдаемый announce (#10714, май 2026). Устойчивость как recurring-программа подтвердится при наблюдении июньского/июльского окна.
+- ~~**Sample size N=1.** Один наблюдаемый announce (#10714, май 2026).~~ <!-- superseded 2026-06-01 by [[sources/2026-06-01-tg-tinkoffbank-may-26-30-2026]] : июньский reminder #10765 = второе окно, recurring-природа подтверждена --> **Sample size N=2** (май #10714 + июнь #10765) — recurring-природа подтверждена; устойчивость как long-running программа подтвердится при наблюдении июля+.
 - **Метрики неизвестны.** Нет данных о return-rate в окне vs вне окна, о uplift'е транзакций. Наблюдаемый формат, не доказанный по ROI.
 - **Риск ритуал-усталости.** Если партнёрские офферы в окне слабые, anticipation-эффект гаснет — predictability работает только при стабильном качестве наполнения.
 
 ## Связанные страницы
-- [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]] — primary-источник (@tinkoffbank/10714)
+- [[sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch]] — primary-источник (@tinkoffbank/10714, майское окно)
+- [[sources/2026-06-01-tg-tinkoffbank-may-26-30-2026]] — июньское окно (#10765, подтверждение recurring)
 - [[evolving/content-trends/daily-streak-gamification-in-finance]] — контрастный cadence-режим (daily vs monthly)
 - [[evolving/industry-trends/tbank-corporate-platform-stack-2026]] — ecosystem-инфраструктура, в которой живёт loyalty-портфель
 - [[evolving/content-trends/entertainment-over-pain-framing]] — planning/care-рамка поверх функционального cashback

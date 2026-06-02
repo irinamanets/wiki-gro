@@ -9,8 +9,8 @@ tags: [content, pr, native-advertising, seeding, infopovod]
 confidence: high
 stale: false
 created: 2026-04-10
-updated: 2026-05-19  # +Kovpak local-media RU-practitioner voice + 90/10 ratio + local-media-sales-funnel cross-link
-sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md]
+updated: 2026-05-30  # +editorial-native под-тип (authority-bridge) + exemplar FORMA workplace × @psilonsk. Prior: +Kovpak local-media RU-practitioner voice + 90/10 ratio
+sources: [sources/2026-04-10-piarhub-research-native-pr-2026.md, sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md, sources/2026-05-30-tg-psilonsk-may-jun-2026-week5.md]
 namespace: mkt
 ---
 
@@ -65,6 +65,12 @@ namespace: mkt
 
 Это **RU-practitioner детализация** общей рамки натива для предпринимателей с региональной/нишевой ЦА и бюджетом 30-150k₽. Подробнее — [[canon/marketing-frameworks/local-media-sales-funnel-kovpak]] + [[canon/marketing-frameworks/native-90-10-ratio-moderated-platforms]] + [[canon/marketing-frameworks/exclusive-data-for-journalists-free-placement]].
 
+## Под-тип: editorial-native в author-каналах (authority-bridge)
+
+Отдельный формат натива, наблюдаемый в авторских экспертных Telegram-каналах: интеграция **маскируется под обычную авторскую парабль/эссе**. Структура «authority-bridge»: (1) органический экспертный тезис автора → (2) плавный мост «именно поэтому…» → (3) продуктовый блок → (4) оффер → (5) обязательная `erid`-маркировка. Реклама воспринимается как продолжение авторского контента, баннерная слепота не срабатывает.
+
+**Exemplar — FORMA workplace × @psilonsk (2026-05-27, erid 2SDnjeiQr4r).** Девелопер офисов класса А интегрировался в management-канал Сергея Колганова: пост открывается эссе «офис vs удалёнка / офис как HR-инструмент», читатель воспринимает как органику, и только в середине переходит к продаже офисов (ДЖЕНГА / МАУНТ / ЛАВИН) с инвестиционным оффером. Тематическая релевантность канала (управление командами) делает мост бесшовным. Полный structural-разбор — [[sources/2026-05-30-tg-psilonsk-may-jun-2026-week5]]; channel-контекст — [[evolving/content-trends/psilonsk-channel-patterns]]. Контраст с event-промо-интеграциями того же канала (КРОК, ЮMoney — явная рекламная рамка) показывает: editorial-native — самый «скрытый» под-тип, ближе всего к границе со скрытой рекламой (см. «Практический принцип» выше — здесь акцент на объекте и CTA присутствуют, поэтому маркировка обязательна).
+
 ## Связанные страницы
 
 - [[canon/marketing-frameworks/ugc-and-microinfluencers]] — UGC как основной проводник нативных историй
@@ -80,6 +86,8 @@ namespace: mkt
 - [[canon/marketing-frameworks/native-90-10-ratio-moderated-platforms]] — операционное правило пропорции
 - [[canon/marketing-frameworks/exclusive-data-for-journalists-free-placement]] — 4 free-placement тактики
 - [[evolving/industry-trends/local-media-overheated-paid-shift-2026]] — рыночный сдвиг 2026
+- [[sources/2026-05-30-tg-psilonsk-may-jun-2026-week5]] — exemplar editorial-native (FORMA workplace × @psilonsk)
+- [[evolving/content-trends/psilonsk-channel-patterns]] — channel-контекст для editorial-native под-типа
 
 ## Backlinks
 

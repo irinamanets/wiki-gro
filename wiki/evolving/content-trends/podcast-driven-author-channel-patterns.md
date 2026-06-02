@@ -9,8 +9,8 @@ tags: [content, telegram, author-blogger, podcast, native-advertising, content-f
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-24  # +второй exemplar «Визионеры» Спиридонова (weekly podcast + weekly big-post + monthly curation = multi-cadence engine); prior: +enrich transcript details + Minaev platform signal
-sources: [sources/2026-04-14-tg-sokolay-mar-apr-2026.md, sources/2026-05-24-condense-vcru-chunk2.md]
+updated: 2026-06-01  # +конкретный thumbnail-артефакт release-фазы (обложка выпуска с А. Сысоевым/2ГИС); prior: +второй exemplar «Визионеры» Спиридонова (multi-cadence engine) + enrich transcript details + Minaev platform signal
+sources: [sources/2026-04-14-tg-sokolay-mar-apr-2026.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-06-01-tg-sokolay-media-group-3647-3673.md]
 namespace: mkt
 ---
 
@@ -51,6 +51,16 @@ namespace: mkt
 Анонсные видео дня релиза — **highlight reel**: 8–12 коротких (3–10 сек) цитат гостя без контекста, склеенных монтажом. Цитаты подбираются по принципу максимальной провокативности и quotability: «YouTube — самая благодарная платформа» (Минаев), «Корпорации не должны делать стартапы» (Овчинников), «Человек 21 века должен быть максимально тупым» (Минаев). Функция — создать ощущение «это надо слушать целиком», не раскрывая сюжет.
 
 **Ключевая разница с agency/founder-driven @hutzp:** у @hutzp ритуальные рубрики (понедельничная «Цитата недели», «ЛОК КОД» подборки, «Друзья мои» интервью) — это **календарные якоря**, они занимают стабильные слоты независимо от других событий. У @sokolay календарный якорь **один** — недельный подкаст-цикл, и он не ритуал, а production-schedule. Это упрощает контент-план, но лишает канал ощущения «ритма привычки» помимо собственно подкаста.
+
+### Фаза 3 — шаблон обложки выпуска (конкретный exemplar, 2026-06-01)
+
+Источник [[sources/2026-06-01-tg-sokolay-media-group-3647-3673]] (медиа-группа из 6 изображений) дал **первый сохранённый артефакт обложки** release-фазы — выпуск с Александром Сысоевым, основателем 2ГИС (`youtu.be/xTIRYKW1kiw`). До этого release-обложка описывалась только абстрактно; теперь есть конкретный шаблон. Наблюдаемая композиция (16:9 YouTube-thumbnail):
+
+1. **Два статичных портрета** — ведущий справа, гость слева, оба с микрофонами, на тёмном фоне. **Без YouTube-Face-гиперэмоции** (нейтральные лица, прямой взгляд) — намеренный контраст с reaction-default жанром (см. [[evolving/content-trends/youtube-thumbnail-face-trend]]). Сигнал: «серьёзный разговор взрослых людей», а не клик-бейт.
+2. **Провокационный framing-вопрос крупным шрифтом по центру:** «КАК ВЫЖИТЬ РЯДОМ С ЯНДЕКСОМ?» — одно ключевое слово (РЯДОМ) выделено жёлтой плашкой. Формула обложки = **угроза-вопрос об отношении гостя к гиганту рынка**, апеллирующий к страху/любопытству предпринимательской аудитории. Это визуальный аналог highlight-reel-провокативности из Фазы 2.
+3. **Credential-подпись гостя прямо в обложке:** «АЛЕКСАНДР СЫСОЕВ, ОСНОВАТЕЛЬ [лого] 2ГИС». Это **визуальный credential-stack** — тот же приём, что и вербальный credential-stack в тизер-видео (Фаза 1), но компрессированный в один title + бренд-лого. Имя ведущего — внизу справа, мельче.
+
+**Переносимость для GRO.** Шаблон release-обложки — готовый: (a) два нейтральных портрета на тёмном фоне (анти-YouTube-Face), (b) провокационный framing-вопрос с одним выделенным словом, (c) credential-подпись гостя с бренд-лого. Формула вопроса «Как [глагол выживания/успеха] рядом с [гигант]?» переносима на любую вертикаль с доминирующим игроком. `confidence: medium` — одна обложка, паттерн обложек требует ещё 2–3 exemplar-ов для подтверждения устойчивости.
 
 ## Контент-микс за 27 дней (@sokolay, 50 сообщений)
 
@@ -187,6 +197,8 @@ namespace: mkt
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]] — hooks для founder-podcast'а GRO
 - [[sources/2026-04-14-tg-sokolay-mar-apr-2026]] — исходный дамп (@sokolay exemplar)
 - [[sources/2026-05-24-condense-vcru-chunk2]] — второй exemplar «Визионеры» Спиридонова (multi-cadence)
+- [[sources/2026-06-01-tg-sokolay-media-group-3647-3673]] — медиа-группа с обложкой выпуска А. Сысоев/2ГИС (Фаза 3 thumbnail-exemplar)
+- [[evolving/content-trends/youtube-thumbnail-face-trend]] — обложка 3658 как non-YouTube-Face exemplar
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — author-context Спиридонова (где живёт «Визионеры»-каденция)
 
 ## Contradictions

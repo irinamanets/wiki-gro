@@ -9,8 +9,8 @@ tags: [ai-agents, productivity, content, awareness]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-14  # +CEO-CTO political-not-technical lens (Аннаков пост 1748): спор «вайбкодим/нет» = identity-вопрос CTO, политический под маской технического; 3 категории задач по цене ошибки + 4 инвестиции в верифицируемость
-sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-14-tg-wtf-hr-nov24-oct25.md, sources/2026-04-16-dzen-vcru-anthropic-800b-productivity-study.md, sources/2026-04-16-dzen-vcru-apple-siri-ai-coding-course.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026.md, sources/2026-05-14-tg-products-and-startups-may-2026.md]
+updated: 2026-05-30  # +TYPICAL (пост 1343) «ассистент vs реструктуризация» как поведенческое объяснение парадокса + свежие макро-числа (Goldman/Gartner/89%) + Contradictions Klarna reversal vs ElevenLabs-success (две фазы J-curve)
+sources: [sources/2026-04-14-tg-products-and-startups-feb-apr-2026.md, sources/2026-04-14-tg-wtf-hr-nov24-oct25.md, sources/2026-04-16-dzen-vcru-anthropic-800b-productivity-study.md, sources/2026-04-16-dzen-vcru-apple-siri-ai-coding-course.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-cgevent-apr30-may05-2026.md, sources/2026-05-05-tg-products-and-startups-mar-may-2026.md, sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026.md, sources/2026-05-14-tg-products-and-startups-may-2026.md, sources/2026-05-30-tg-typicalcompany-may-27-29-2026.md]
 namespace: mkt
 ---
 
@@ -204,6 +204,21 @@ namespace: mkt
 
 **Marketing-применение.** Это **самый прямой контент-материал** для J-Curve-нарратива для B2B-аудитории. Если контент GRO адресует руководителей внедряющих AI, рамка «3 категории + 4 инвестиции + identity-вопрос» — **готовая** content-структура. Cross-link с [[evolving/content-trends/ai-product-engineer-content-hooks#3-категории-задач--что-вайбкодить-что-нет]].
 
+## Update 2026-05-30 — TYPICAL «ассистент vs реструктуризация» + свежие макро-числа (пост 1343)
+
+Через [[sources/2026-05-30-tg-typicalcompany-may-27-29-2026|дамп TYPICAL пост 1343]] (`2026-05-29`) приходит **новая объясняющая рамка** для того же макро-парадокса и три свежих макро-числа. Полная рамка — [[canon/marketing-frameworks/ai-assistant-vs-restructuring-typical]].
+
+**Тезис TYPICAL (object-level объяснение парадокса):** парадокс «AI везде, кроме статистики» возникает не только из-за лага (J-curve) и не только из-за zero-sum-структуры (Горный), но и потому, что **большинство компаний используют AI в режиме ассистента** (тот же процесс, чуть быстрее), а не реструктуризации (убрать шаг-посредник целиком). Это **поведенческий** комплемент к структурным объяснениям: даже без лага и без zero-sum ассистентный режим по построению не двигает P&L.
+
+**Свежие макро-числа (пост 1343), уточняющие парадокс Солоу из первого абзаца:**
+- **Goldman Sachs (март 2026):** на макроуровне нет значимой связи между внедрением AI и ростом продуктивности `[conf:medium, src:2026-05-29]` (TYPICAL retell, первоисточник — Goldman через optimumpartners).
+- **89% менеджеров** не заметили изменений за три года, пока AI-внедрение в компаниях росло с **61% до 71%** `[conf:medium, src:2026-05-29]`.
+- **Gartner:** к 2027 закроется более **40% AI-проектов** из-за высоких расходов и сомнительной пользы `[conf:medium, src:2026-05-29]`.
+
+Эти числа **согласуются** с цифрой Goldman Sachs из первого абзаца и с MIT-исследованием (Горный, 4-й/5-й data-point) — это та же investment-phase картина с другого источника.
+
+**Три кейса реструктуризации (TYPICAL) как «положительная» сторона парадокса.** Где Klarna-reversal (WTF_HR, выше) был примером **провала** ассистентного/преждевременного режима, кейсы Klarna-ElevenLabs / Revolut / Lovable из поста 1343 — примеры **успешной реструктуризации**: компании убрали шаг-посредник, а не ускорили дорогой шаг. Численные anchor'ы — в [[evolving/industry-trends/b2b-ai-adoption-fte-kpi-2026]]. Это объясняет, **почему** маленькие команды и реструктурирующие компании выходят из J-curve быстрее: им «меньше перестраивать» (см. раздел «Структурное преимущество маленьких команд») — тот же механизм, что TYPICAL называет «убрать шаг целиком». Кажущееся противоречие Klarna-reversal vs Klarna-success зафиксировано в разделе **## Contradictions** ниже.
+
 ## Анти-фрейминг для marketing
 
 Если CEO/руководитель говорит «попробовали AI, не работает» — это сигнал, что они в **investment phase** и делают преждевременные выводы. Контент-хук для GRO и AI-product контента: **«не торопитесь сворачивать AI-инициативы — посмотрите J-curve»**. Перенесено в [[evolving/content-trends/ai-product-engineer-content-hooks]].
@@ -223,6 +238,13 @@ namespace: mkt
 - [[sources/2026-04-27-tg-startupoftheday-apr-15-27-2026]] — оригинал Горный thesis
 - [[evolving/industry-trends/ai-cognitive-atrophy-identity-2026]] — соседний tezsis: что AI забирает на самом деле (Бай 1734)
 - [[sources/2026-05-05-tg-products-and-startups-mar-may-2026]] — Бай stock&flow reframe + cognitive atrophy
+- [[canon/marketing-frameworks/ai-assistant-vs-restructuring-typical]] — TYPICAL рамка «ассистент vs реструктуризация» (поведенческое объяснение парадокса)
+- [[sources/2026-05-30-tg-typicalcompany-may-27-29-2026]] — источник макро-чисел Goldman/Gartner/89% + кейсов реструктуризации
+
+## Contradictions
+
+- **[2026-05-30]** **Klarna customer support: reversal vs success.** Ранее (WTF_HR, окт 2025, [[sources/2026-04-14-tg-wtf-hr-nov24-oct25]] + numeric [[sources/2026-05-14-dzen-aiston-grigoryev-digital-transformation-smb-2026]]) Klarna фигурировала как **откат** агентной автоматизации поддержки: уволила 700 операторов, качество упало, «ящик водки и всех обратно», прямые потери ≥$15 млн. Теперь TYPICAL (пост 1343, [[sources/2026-05-30-tg-typicalcompany-may-27-29-2026]], первоисточник fintechmagazine) приводит Klarna как **успешный** кейс: голосовой агент ElevenLabs ведёт разговор сам, тикеты решаются в 10× быстрее.
+  - **Резолюция (не однозначная, оба утверждения сохранены):** это **не один и тот же эпизод**, а **две фазы**. Откат 2024→окт2025 — провал **первой** попытки (преждевременная замена чат-агентами, пропуск investment phase). Успех 2026 (ElevenLabs voice) — **вторая** попытка после переучивания/редизайна, ровно по рамке J-curve: компания прошла investment phase, потом получила результат. Это **подтверждение** J-curve, а не противоречие ей. Confidence обоих data-point'ов — medium (разные вторичные источники, нет прямого Klarna-disclosure с таймлайном). При републикации в content GRO — указывать обе фазы, не цитировать «Klarna откатилась» или «Klarna в 10× быстрее» в отрыве друг от друга.
 
 ## Backlinks
 

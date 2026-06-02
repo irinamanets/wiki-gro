@@ -9,8 +9,8 @@ tags: [market-data, russia, labor-market, salary, professions, regions, hh, hh-i
 confidence: high
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-tg-hh-ru-official-may-15-18-2026.md]
+updated: 2026-05-30  # +Росстат-кросс-чек по отраслям (HoReCa +27,5%, торговля +22,1%, сырьё отстаёт) из @rbc_news 148862 — first-party отраслевая ось к hh-профессиональной
+sources: [sources/2026-05-19-tg-hh-ru-official-may-15-18-2026.md, sources/2026-05-30-tg-rbc-news-may-8-2026.md]
 namespace: mkt
 ---
 
@@ -104,6 +104,16 @@ namespace: mkt
 4. **Caveat для контента — это offer'ы/восприятие, не факт получки.** Карточки 4887/4888 — рост зарплатных **предложений в вакансиях** и **восприятие** дохода (опрос), не фактические выплаты. Цитировать как «предлагают больше» / «по опросу вырос», не как «зарплаты выросли на N%». `[conf:medium, src:2026-05-18]`
 5. **Self-promotional CTA-формат.** Карусель завершается CTA «проверьте вакансии на hh.ru» — классический content-as-funnel паттерн (аналитика → продуктовый CTA). Переносимый формат для GRO. См. [[evolving/content-trends/hh-ru-blog-content-patterns]].
 
+## Росстат-кросс-чек по отраслям (backfill @rbc_news 148862, 8 мая)
+
+Параллельная **отраслевая ось** к hh-профессиональной выше — первичные данные Росстата по фактическим начисленным зарплатам за янв–фев 2026 (полная страница: [[evolving-strict/market-data/ru-rosstat-wage-growth-jan-feb-2026]]):
+
+- Номинальная зарплата РФ +15,4% г/г, реальная +8,9%. `[conf:high, src:2026-05-08]`
+- Лидеры роста по отраслям: HoReCa +27,5%, админ-сфера +23%, оптовая торговля +22,1%, финансы +20,7%, IT +20,0%. `[conf:high, src:2026-05-08]`
+- Сырьевые отрасли отстают: нефтегаз +7,6%, металлургия +6,4%, угледобыча +2,7% (ниже инфляции 5,6%). `[conf:high, src:2026-05-08]`
+
+**Согласованность.** hh-данные (offer'ы/восприятие) и Росстат (факт начислений) указывают в одну сторону: рост концентрируется в дефицитных сервисных/линейных отраслях, а не в традиционно «богатом» сырье. Это усиливает тезис «зарплаты растут неравномерно — там, где дефицит кадров». `[conf:high, src:2026-05-08]`
+
 ## Связь с другими страницами
 
 - [[evolving-strict/market-data/ru-labor-market-q1-2026]] — общий cooling-снимок Q1 2026; эта страница — его зарплатная ось
@@ -114,6 +124,8 @@ namespace: mkt
 ## Связанные страницы
 
 - [[sources/2026-05-19-tg-hh-ru-official-may-15-18-2026]] — source (карусель зарплатного роста)
+- [[sources/2026-05-30-tg-rbc-news-may-8-2026]] — source Росстат-кросс-чека (РБК 148862)
+- [[evolving-strict/market-data/ru-rosstat-wage-growth-jan-feb-2026]] — Росстат-зарплаты янв–фев 2026 (отраслевая ось)
 - [[evolving-strict/market-data/ru-labor-market-q1-2026]] — Q1 2026 cooling-снимок
 - [[evolving-strict/market-data/hh-vacancies-resumes-cooling-2024-2026]] — расщепление hh-индекса (HR cooling)
 - [[evolving-strict/market-data/ru-salary-gap-moscow-regions-2025]] — Москва/регионы разрыв

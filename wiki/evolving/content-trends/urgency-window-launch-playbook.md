@@ -9,8 +9,8 @@ tags: [content, telegram, launch, urgency, fomo, community, smb, playbook]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-04-17  # +countdown-copy как alternative urgency-technique (Т-Путешествия #10583 — «до лета 48 дней 7 часов 30 минут»)
-sources: [sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md]
+updated: 2026-05-30  # +sibling-case last-minute revenue в event-вертикали (Атланты Сити/Воронин): до 20% выручки в последние дни, «русские решают в последний момент», counter-day хэштег — 3-й независимый RU-кейс, первый в event-вертикали. Prior: +волновые продажи Нейроцеха (Молянов); +countdown-copy (Т-Путешествия #10583)
+sources: [sources/2026-04-14-tg-grebenukm-mar-apr-2026.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-06-01-condense-vcru-molyanov-may-2026.md, sources/2026-05-30-tg-community-tech-atlanty-city-launch.md]
 namespace: mkt
 ---
 
@@ -168,6 +168,26 @@ Reusable launch-механика для закрытых community / cohort-base
 | Best for | Seasonal promos, soft-reminders | Community launches, cohort kickoffs |
 
 **Перенос для GRO:** countdown-copy подходит для GRO-seasonal-pushes ("до нового года 28 дней 14 часов — ваш preлагается challenge"), reveals новых фич ("до launch GRO-Pro 6 дней 2 часа"), где нет true scarcity, но есть anchor-moment ожидания.
+
+## Sibling-case: волновые продажи Нейроцеха (Молянов, 2026-06-01)
+
+Из condensed-дайджеста Молянова — кейс, подтверждающий **cohort-based** ветку playbook'а на competitor-инфопродукте `[conf:medium, src:2026-05-01]`:
+
+- **Волновая механика:** продажи Нейроцеха открываются волнами («последний день продажи, следующие через месяц»); сбор аудитории — через подписку на канал + оповещение о старте ([[sources/2026-06-01-vc-ru-molyanov-2815788-poslednij-den-prodazhi-neuroceha]]).
+- **Testimonial-as-prelaunch:** отзыв участника в чате используется как pre-launch контент перед открытием продаж — «никакой рост выручки не мотивирует так, как отзывы людей, которым бизнес помог» ([[sources/2026-06-01-vc-ru-molyanov-2778671-otzyv-o-neurocehe]]).
+- **Честная объекция как снижение порога:** «если пользоваться нейронками на базовом уровне, никакие курсы/клубы/Нейроцехи не нужны» — снижает недоверие перед волной продаж.
+
+Это второй независимый RU-кейс той же урожайной логики (после Аномалии Гребенюка), что приближает к цели «2–3 канала с тем же playbook» из раздела ниже. Отличие: Нейроцех использует **периодические волны** (раз в месяц), а не разовое закрытие community.
+
+## Sibling-case: last-minute revenue в event-вертикали (Атланты Сити, 2026-05)
+
+Из founder-поста Михаила Воронина (фестиваль «Атланты Сити») — поведенческий бенчмарк, подтверждающий саму **причину**, по которой urgency-механики работают в RU-контексте `[conf:medium, src:2026-05-27]`:
+
+- **До 20% выручки приходит в последние дни** перед событием (наблюдение на прошлом форуме организатора в Москве) — прямое числовое обоснование countdown-фазы playbook'а ([[sources/2026-05-30-tg-community-tech-atlanty-city-launch]]).
+- **Объяснение от founder'а:** «русские любят принимать решения в последний момент» — поведенческий driver, а не маркетинговый трюк; ставит urgency-window на психологический фундамент.
+- **Counter-day countdown как хэштег** (`28#днейдоАтлантысити`) — дешёвый persistent-маркер обратного отсчёта без отдельной countdown-серии, lightweight-вариант Фазы 3.
+
+Третий независимый RU-кейс (после Аномалии Гребенюка и Нейроцеха Молянова), и первый в **event-вертикали** (offline-фестиваль), а не в community/инфопродукте. Метрики и нарратив разобраны в [[evolving/content-trends/founder-launch-funnel-narrative-voronin]] и [[evolving-strict/campaign-metrics/atlanty-city-event-launch-funnel-2026]].
 
 ## Пересечение с существующими страницами
 

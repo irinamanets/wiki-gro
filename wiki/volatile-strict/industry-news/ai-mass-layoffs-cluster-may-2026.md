@@ -9,8 +9,8 @@ tags: [ai, layoffs, clickup, meta, oracle, capex, ai-bubble, 100x-rhetoric, dnat
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-dnative-7629-7643.md, sources/2026-05-26-tg-cossaru-may-19-25-2026.md]
+updated: 2026-06-01  # +vcnews 18-20 мая: Standard Chartered -7000/15% к 2030 «менее ценный человеческий капитал» (61444) + Bolt «нет HR-отдела, военное время» (61463) → новые голоса кластера + связка с hr-elimination-narrative
+sources: [sources/2026-05-26-tg-dnative-7629-7643.md, sources/2026-05-26-tg-cossaru-may-19-25-2026.md, sources/2026-06-01-tg-vcnews-may-18-20-2026.md]
 namespace: mkt
 ---
 
@@ -26,6 +26,8 @@ namespace: mkt
 | **Meta** | 8000 чел (~10%) | май 2026 | Письма уволенным разосланы в 4 утра, велено работать из дома (без приглашения в офис). Оставшимся сообщено: каждый клик отслеживается для обучения AI-агента-замены. См. [[volatile-strict/industry-news/meta-layoffs-8000-may-2026]]. | `[conf:high, src:2026-05-21]` |
 | **Oracle** | 22 000 чел | май 2026 | Большая часть из Индии. Без явной AI-rationale; подаётся как «оптимизация эффективности». | `[conf:medium, src:2026-05-24]` (один источник — dnative; без cross-проверки против Bloomberg / Reuters) |
 | **Capex AI всех Big Tech 2026** | 650–725 млрд $ | прогноз 2026 года | Без явной атрибуции в исходнике dnative. Cross-проверить против Bloomberg / Cap-investments tracker. | `[conf:low, src:2026-05-24]` |
+| **Standard Chartered** | >7000 (15% корп-подразделений к 2030) | май 2026 | «Замена менее ценного человеческого капитала» на фоне автоматизации и внедрения ИИ. См. [[volatile-strict/industry-news/hr-elimination-narrative-may-2026]] (vcnews 61444). | `[conf:medium, src:2026-05-19]` |
+| **Bolt** (финтех) | ликвидация HR-отдела | май 2026 | Сооснователь (Fortune): в «военное время» нужны те, кто приносит результат, «эйчары создавали проблемы из воздуха». См. [[volatile-strict/industry-news/hr-elimination-narrative-may-2026]] (vcnews 61463). | `[conf:medium, src:2026-05-20]` |
 
 ## Главный нарратив кластера (dnative-интерпретация)
 
@@ -83,6 +85,8 @@ Cloudflare 1100 чел (8 мая 2026, см. [[evolving/industry-trends/ai-repla
 ## Связанные страницы
 
 - [[sources/2026-05-26-tg-dnative-7629-7643]] — first-party источник (dnative-7641)
+- [[sources/2026-06-01-tg-vcnews-may-18-20-2026]] — vc.ru: Standard Chartered (61444) + Bolt (61463)
+- [[volatile-strict/industry-news/hr-elimination-narrative-may-2026]] — выделенный narrative-маркер обесценивания HR (Bolt + StanChart)
 - [[sources/2026-05-26-tg-cossaru-may-19-25-2026]] — параллельный источник (Cossa-23187 + sale_caviar/17376)
 - [[volatile-strict/industry-news/meta-layoffs-8000-may-2026]] — параллельная событийная страница (Meta-8000 + execution mechanic)
 - [[evolving/industry-trends/ai-replacing-jobs-global-2026]] — общий global trend AI-layoffs (Snap, Block, Coinbase, Cloudflare + new ClickUp/Meta/Oracle)

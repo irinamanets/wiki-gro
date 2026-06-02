@@ -9,8 +9,8 @@ tags: [seo, ai, content, search, decision-layer, infrastructure, product-data, a
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-26  # +Себрант (techsparks 5607): Google I/O 2026 редизайн Search box «впервые за 25+ лет» + AI Mode >1 млрд MAU, запросы удваиваются/квартал — interface-shift как продолжение decision-layer; prior: +Спиридонов RU-voice (Adobe чат-бот трафик +1200-1700% YoY); +Comscore (34,9%); +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия»
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-cossaru-may-14-19-2026.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-26-tg-techsparks-may-19-25-2026.md]
+updated: 2026-05-30  # +Forbes Russia 95806: RU platform-by-platform замер роста AI-трафика ретейлеров (Ozon ×4/полгода, М.Видео +29%, Алиса AI +159% на independent e-commerce); prior: +Себрант (techsparks 5607) Google I/O 2026 редизайн Search box + AI Mode >1 млрд MAU; +Спиридонов RU-voice (Adobe чат-бот трафик +1200-1700% YoY); +Comscore (34,9%); +PRAGMATIX, +B2B-PR shift, +Кравченко, +Pressfeed «GEO иллюзия»
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-techsparks-may-2026.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-14-tg-cossaru-may-5-14-2026.md, sources/2026-05-14-tg-temno-moreynis-may-5-14-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-b2b-pr-after-simple-reach.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-tg-cossaru-may-14-19-2026.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-26-tg-techsparks-may-19-25-2026.md, sources/2026-05-30-tg-forbesrussia-may-11-13-2026.md]
 namespace: mkt
 ---
 
@@ -435,7 +435,29 @@ Google заявил, что AI Mode **перевалил за 1 млрд мес�
 
 **Content-hook для GRO** (vc.ru/Habr): *«Google впервые за 25 лет переделал поисковую строку — теперь это окно для разговора, а не поле для ключевых слов. AI Mode уже у 1 млрд человек в месяц. Что это значит для вашего SEO?»* (проверять каждое утверждение перед публикацией; цифра — вендор-self-report).
 
+## Update 2026-05-30 — Forbes Russia: первый RU platform-by-platform замер роста AI-трафика ретейлеров
+
+[[sources/2026-05-30-tg-forbesrussia-may-11-13-2026|Forbes Russia (пост 95806, 2026-05-12)]] даёт **первый известный нам публичный RU замер роста AI-трафика на сайты конкретных ретейлеров и маркетплейсов** — то есть outcome-уровень на RU-проектах, дополняющий прежние RU-сигналы (доли AI-трафика Pressfeed, Brand Analytics -33-38% органики).
+
+### Цифры роста AI-трафика (RU ретейл/e-commerce)
+
+- **Ozon:** ИИ-трафик вырос **в 4 раза за полгода**
+- **«М.Видео»:** **+29% за январь–апрель** 2026
+- **Henderson:** «в разы» за 4 месяца
+- **«Яндекс» (Алиса AI → независимый e-commerce):** **+159%** роста ИИ-трафика
+
+Полные цифры с inline-маркерами → [[evolving-strict/market-data/ai-search-commerce-benchmarks-2026|раздел RU ретейл AI-трафик (Forbes)]].
+
+### Что добавляет к рамке
+
+1. **RU-локализация конверсионного тезиса.** Forbes повторяет уже зафиксированный паттерн: AI-трафик ценнее обычного — «человек приходит с уже сформированным запросом и конвертируется в покупку заметно чаще». Это RU-подтверждение Adobe (+38% конверсия), Duda (×3) и Спиридонова (электроника/ювелирка обгоняют традиционные каналы).
+2. **«Сайт как база данных для нейросетей».** Цитата Henderson — «Сайты становятся базой данных для нейросетей» — народная формулировка того же тезиса, что object-oriented retrieval Кравченко и product-data PRAGMATIX. Удобный hook для GRO-контента на vc.ru/Habr.
+3. **Двойственность для бизнеса.** Forbes фиксирует, что нишевые магазины могут конкурировать с маркетплейсами, **если карточка товара хорошо считывается ИИ-агентом** — прямое подтверждение тезиса «product-data как новый front-page». Обратная сторона — защита от массового скрейпинга и адаптация инфраструктуры под новый тип нагрузки.
+
+**Импликация для GRO:** RU-рынок уже в фазе measurable AI-traffic growth у крупных игроков — окно для AEO/GEO-приоритета подтверждается ещё одним независимым RU-сигналом, на этот раз platform-by-platform. Для product-led-сервиса (GRO) вывод: машиночитаемость продуктовых данных и присутствие в Алиса-retrieval-корпусе — операционный приоритет, не эксперимент.
+
 ## Связанные страницы
+- [[sources/2026-05-30-tg-forbesrussia-may-11-13-2026]] -- Forbes Russia: RU platform-by-platform замер AI-трафика ретейлеров (Ozon ×4, М.Видео +29%, Алиса +159%)
 - [[canon/marketing-frameworks/seo-for-ai-era-playbook]] -- практические рекомендации по AI-оптимизации
 - [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]] -- Comscore platform-level замер (34,9% Google AI-обзоров конец 2025)
 - [[canon/marketing-frameworks/ai-search-measurable-vs-dark-zone]] -- Алла Рауд measurable vs dark-zone

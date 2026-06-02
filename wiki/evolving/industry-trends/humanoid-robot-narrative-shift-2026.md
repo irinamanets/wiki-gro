@@ -9,8 +9,9 @@ tags: [robotics, narrative, boston-dynamics, irobot, humanoid, ai, companion-rob
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-28  # +5-я под-категория (construction-vertical) как possible-emerging ниша по Гуриновичу @gurinovich_shares пост 920 — founder-thesis про триллионную construction-platform (software + автономные роботы-строители + парк подрядчиков); Германия-прогноз
-sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-19-tg-breakingtrends-may14-19.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md, sources/2026-05-19-tg-theedinorog-may-14-19-2026.md, sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026.md]
+updated: 2026-05-30  # +BYD entry: автопроизводитель официально заявляет гуманоидных роботов «следующим главным сегментом бизнеса» (cleaning/cooking/companionship) — automaker→robotics pivot + companion-сегмент (через @techsparks/Себрант 5622)
+prev_updated: 2026-05-28  # +5-я под-категория (construction-vertical) как possible-emerging ниша по Гуриновичу @gurinovich_shares пост 920 — founder-thesis про триллионную construction-platform (software + автономные роботы-строители + парк подрядчиков); Германия-прогноз
+sources: [sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-14-tg-theedinorog-may-2026.md, sources/2026-05-14-tg-vcnews-may-8-12-2026.md, sources/2026-05-19-tg-breakingtrends-may14-19.md, sources/2026-05-19-tg-mspiridonov-may-14-19-2026.md, sources/2026-05-19-tg-theedinorog-may-14-19-2026.md, sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026.md, sources/2026-05-30-tg-techsparks-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -181,6 +182,26 @@ Cross-link: [[evolving-strict/market-data/humanoid-robot-unit-economics-2024-205
 
 **Reconcile трёх источников.** Один эфир Figure AI = три RU-нарратива за неделю: breakingtrends (performance: люди +1%), Спиридонов (capability-PR: «уже на уровне + 24/7»), Edinorog (displacement-frame + PR-механика: «человек лишь отсрочил, а стрим — крутой маркетинг»). Все три не противоречат фактам, расходятся **интерпретацией** — образцовый кейс для контента GRO про то, **как один датапоинт упаковывается в три разные истории** в зависимости от угла автора.
 
+## Update 2026-05-30 — BYD officially enters: automaker→robotics pivot + companion-сегмент (Себрант 5622)
+
+Через [[sources/2026-05-30-tg-techsparks-may-26-29-2026|@techsparks/Себрант 5622]] — BYD (крупнейший китайский автопроизводитель) **официально присоединилась** к растущему списку автопроизводителей, заявляющих, что будущее отрасли — **не только и не столько автомобили, сколько роботы-гуманоиды общего назначения** `[conf:medium, src:2026-05-29]`.
+
+**Заявление Стеллы Ли (исполнительный вице-президент BYD):**
+
+- Гуманоидные роботы станут **следующим главным сегментом бизнеса BYD** `[conf:medium, src:2026-05-29]`.
+- Use-case — **домашнее хозяйство**: «taking on daily tasks such as cleaning, cooking and companionship, thereby building a full-scenario intelligent service ecosystem».
+- **Структурный аргумент BYD:** накопленные в автопроме компетенции в **интеграции сложного софта и высокоточного железа** позволяют именно этой отрасли минимизировать проблемы при переходе к разработке и изготовлению роботов.
+
+**Куда это ложится в существующую классификацию:**
+
+1. **Подтверждает automaker→robotics pivot как индустриальный паттерн.** BYD — не стартап (как Familiars/Mind Robotics) и не tech-гигант (Tesla Optimus), а **массовый автопроизводитель**. После Tesla (Optimus) BYD — второй крупный automaker, публично делающий robotics «следующим главным сегментом». Это усиливает структурный тезис страницы: автопромовские компетенции (software + precision hardware) = естественный мост в humanoid-robotics. Параллель с Volvo/Gemini ([[evolving/industry-trends/volvo-gemini-automotive-ai-2026]]).
+
+2. **BYD сразу заявляет companion-сегмент, а не только productivity.** Формулировка «cleaning, cooking **and companionship**» прямо включает companion-нишу из таблицы выше. Это **первый крупный hardware-производитель**, который заявляет companion как часть core-стратегии (а не нишевый стартап вроде Familiars). Если BYD реально выйдет на массовое производство домашних роботов с companionship-функцией — это **сдвиг companion-сегмента из niche-стартапов в mass-market** с автопромовской unit-economics.
+
+3. **«Full-scenario intelligent service ecosystem»** — это category-bid на **универсального домашнего робота**, а не на одну из 4-5 под-ниш. Это интересный counter-сигнал к тезису страницы о **расщеплении** нарратива: BYD пытается **схлопнуть** productivity + companion обратно в один «домашний робот для всего». Watch-list: получится ли у mass-automaker то, на чём стартапы вынужденно специализировались, или «робот-для-всего» снова распадётся на ниши под рыночным давлением.
+
+**Маркетингово важно для GRO.** BYD-кейс — свежий **content-backdrop** для «AI/robotics выходит из tech-пузыря в mass-market» нарратива: когда автопроизводитель называет роботов «следующим главным бизнесом», это сигнал mainstream-адопции, а не hype. Hook: «BYD (да, тот самый автопром) объявил роботов-гуманоидов следующим главным бизнесом — cooking, cleaning, companionship. Когда производитель машин идёт в домашних роботов, это уже не футурология».
+
 ## Применимость для маркетинга GRO
 
 ### Как пример сегментирования рынка
@@ -279,3 +300,4 @@ GRO продукт изначально позиционировался как 
 - [[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026]] — Гуриновичев founder-thesis про construction-vertical 5-ю под-категорию (пост 920)
 - [[canon/marketing-frameworks/blue-collar-platform-startup-thesis-gurinovich]] — детальный разбор thesis'а Гуриновича
 - [[evolving-strict/market-data/ru-skilled-trades-wages-moscow-2026]] — economic anchor (Москва 585 тыс ₽)
+- [[sources/2026-05-30-tg-techsparks-may-26-29-2026]] — BYD automaker→robotics pivot + companion-сегмент (Себрант 5622)

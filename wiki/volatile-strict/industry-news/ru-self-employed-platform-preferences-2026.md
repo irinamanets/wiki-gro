@@ -59,3 +59,4 @@ namespace: mkt
 - [[evolving-strict/market-data/ru-self-employed-segments-2026]] — два мира самозанятых (цифровая vs офлайн)
 - [[canon/target-audience/gro-segments]] — Сегмент 3 (фрилансеры/самозанятые)
 - [[evolving/industry-trends/ru-digital-regulatory-squeeze-2026]] — общий регуляторный контекст РФ 2026
+- [[evolving-strict/market-data/ru-self-employed-npd-limit-2026]] — соседний регуляторный трек: повышение лимита НПД 2,4→3,4 млн ₽ + освобождение после родов (май 2026)

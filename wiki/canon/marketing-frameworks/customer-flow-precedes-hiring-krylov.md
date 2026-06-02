@@ -167,6 +167,8 @@ GRO — productivity-инструмент для founder/собственник�
 - [[canon/marketing-frameworks/krylov-reference-call-question]] — hiring framework Krylov
 - [[canon/marketing-frameworks/krylov-sales-imitator-3-markers]] — sales-team diagnostic Krylov
 - [[canon/marketing-frameworks/krylov-7-mentor-meetings]] — другая Krylov-page
+- [[canon/marketing-frameworks/complementary-hire-missing-puzzle-krylov]] — найм антипода вместо копии себя (Krylov, тот же кластер)
+- [[canon/marketing-frameworks/quiet-quitting-detection-protocol-krylov]] — распознавание тихого увольнения (Krylov)
 - [[canon/marketing-frameworks/owner-strategist-operator-three-roles-separation]] — meta-фрейм роли собственника
 - [[canon/marketing-frameworks/marketer-task-typing-fomichev]] — типизация маркетинговых задач (complement)
 - [[canon/marketing-frameworks/marketer-hiring-questions]] — operational hiring

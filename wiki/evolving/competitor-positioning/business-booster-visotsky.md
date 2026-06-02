@@ -9,8 +9,8 @@ tags: [competitor, business-education, telegram, personal-brand, mastermind, saa
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +fifth observational slice 2026-05-19..05-25: «вайб-менеджмент» concept; 7-checklist нишевой валидации; «7 токсичных ниш» YouTube-формат; networking-causal-stories hook; Platform Reports module + Канбан-календарь sync + 22 языка; личный CFO на Claude; Кишинёв→Варшава active-travel-режим
-sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md]
+updated: 2026-05-31  # +sixth observational slice 2026-05-27..05-30: возврат к baseline-темпу после active-travel; AI investment-due-diligence agent (4-й operational AI-case, agentic outreach); «автоматизация поверх бардака = упорядоченный бардак» (клиент Сергей, Германия) positioning; «3 уровня управляемости бизнеса» framework
+sources: [sources/2026-04-14-tg-alexander-visotsky-mar-apr-2026.md, sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-19-tg-alexander-visotsky-may-14-19-2026.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md, sources/2026-05-31-tg-alexander-visotsky-may-27-30-2026.md]
 namespace: mkt
 ---
 
@@ -359,9 +359,44 @@ Reusable narrative-hook «случайное знакомство → актив
 - (в) появятся ли клиентские кейсы внедрения вайб-менеджмента / AI-сотрудников (proof-points)?
 - (г) сохранится ли темп ≈6/день после возвращения из Кишинёва-Варшавы домой в Майами, или вернётся к baseline ≈2/день?
 
+## Update 2026-05-31 — шестой наблюдательный срез (4 дня, возврат к baseline)
+
+Дамп [[sources/2026-05-31-tg-alexander-visotsky-may-27-30-2026|2026-05-27..05-30]] (7 постов 3845–3851 + 4 media). Узкое 4-дневное окно, темп ≈1,75 поста/день — **возврат к baseline** после active-travel-распухания 5-го среза (≈6/день). Из 7 постов 3 релевантны (43%): один AI-tooling, один positioning, один framework; остальные 4 — личная жизнь (купание сына, соревнования дочери). Это **самый «личный» срез по доле** из всех шести, но три substantive-поста дают плотный material.
+
+### 1. AI investment-due-diligence agent — 4-й operational AI-case (пост 3845)
+
+Высоцкий описывает **agentic due-diligence-пайплайн на Claude** для анализа входящих инвест-презентаций: 4 стадии (поиск противоречий → **самостоятельная переписка с фаундерами** → внешняя сверка → вердикт). Качественно отличается от предыдущих трёх AI-кейсов (Claude Cowork, инвест-дек one-off, личный CFO): это **первый agentic-кейс с правом инициировать внешнюю коммуникацию** с третьими лицами, а не просто обработка данных владельца. Полный разбор как reusable-workflow — в [[canon/marketing-frameworks/ai-investment-due-diligence-agent-visotsky]]; как content-pattern — в [[evolving/content-trends/visotsky-ai-personal-assistant-narratives]] (Update 2026-05-31).
+
+**Сигнал:** AI-narrative канала эволюционирует от personal-assistant (окно 2) → persistent-role-with-data (окно 5, личный CFO) → **agentic-role-with-action** (окно 6). Это четвёртая ступень эскалации в коммуникации AI use-case'ов.
+
+### 2. «Автоматизация поверх бардака = упорядоченный бардак» — positioning через клиентский кейс (пост 3846)
+
+Новая иллюстрация core-positioning Business Booster через кейс **Сергея** (владелец в Германии, 4 направления: реновация / мебель / перевозки / тепловые насосы). Центральная клиентская цитата: «Автоматизация поверх бардака даёт только упорядоченный бардак». Проблема-агитация: порядок и регламенты есть, управляемости нет — «картина бизнеса собирается только в голове владельца», ежевечернее ручное сведение. Конкурентный сигнал: Сергей пробовал **немецкую «систему цифровых офисов на ИИ»** — отверг как «слишком сложную для нашего уровня» (anti-positioning против over-engineered AI-tools). Контр-frame Business Booster: «не автоматизация процессов — а перенос картины из головы владельца на один экран». Reusable problem-agitation-формулировка вынесена в [[evolving/content-trends/owner-escape-operations-hooks]] (Update 2026-05-31).
+
+**Onboarding-механика подтверждена**: «не работаем по схеме зарегистрировался — разбирайся сам», владелец сначала на встрече-экскурсии со специалистом — согласуется с distribution-механикой Platform (персональная экскурсия при онбординге, см. [[evolving-strict/competitor-metrics/business-booster-platform-features-2026]]).
+
+### 3. «3 уровня управляемости бизнеса» — новый named framework (пост 3847)
+
+Maturity-model: ручное управление («сколько часов не спите») → управление через цифры (дашборды, «шестое чувство») → управление через архитектуру (масштаб без участия владельца). Закрывающий тезис: «независимость бизнеса от основателя — ультимативное конкурентное преимущество». CTA → masterclass «механика выхода из операционки». Полный разбор и адаптация для GRO — в [[canon/marketing-frameworks/three-levels-business-manageability-visotsky]]. Связь с [[canon/marketing-frameworks/vibe-management-data-prerequisite|вайб-менеджментом]]: уровень 2 («через цифры») = data-prerequisite, без которого AI-augmented уровень 3 невозможен.
+
+### Обновлённая таблица типов постов (шестой срез, 7 постов)
+
+| Тип | Окно 4 | Окно 5 | Окно 6 (3845–3851) | Тренд |
+|---|---|---|---|---|
+| Framework/canon-материал | 6% | 20% | 29% (3847 3-уровня, 3846 positioning-frame) | ↑ (плотность высокая на узком окне) |
+| AI-tooling / AI-agent content | 15% | 8% | 14% (3845 investment-agent) | стабильно (agentic-эскалация) |
+| Промо paid/free-продукта | 31% | 13% | 14% (3846 демо-доступ, 3847 masterclass) | стабильно |
+| Personal family | 8% | 0% | 43% (3848/3849 океан, 3850/3851 дочь) | ↑↑↑ (домашний weekend-режим) |
+| Media-only / video без caption | 15% | 85% | — (media фолдятся к постам) | n/a |
+
+**Качественный сдвиг (окно 6):** **домашний weekend-режим** — после возвращения из Кишинёва-Варшавы доля личного контента максимальна за все 6 срезов (43%), но три substantive-поста плотно загружены (2 framework + 1 AI-case). Темп вернулся к baseline ≈1,75/день. **Watch-point на 7-й срез:**
+- (а) появятся ли клиентские кейсы внедрения AI-сотрудников / вайб-менеджмента (proof-points для announce из 5-го среза)?
+- (б) реализуется ли team-AI-продукт в отдельную программу?
+- (в) закрепится ли agentic-AI-narrative (с правом действия) как регулярная тема, или останется personal-tooling-кейсами?
+
 ## Contradictions
 
-_Нет._ Второй, третий, четвёртый и пятый срезы не противоречат первому, только дополняют.
+_Нет._ Со второго по шестой срез не противоречат первому, только дополняют.
 
 ## Backlinks
 

@@ -9,8 +9,10 @@ tags: [hhru, competitor, hrtech, dream-job, talantix, clickme, chatbot, ai, empl
 confidence: high
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +«единая карьерная история» (синхронизация блоков опыта между резюме) + resume-SEO ранжирование из @recruiter_live 4471 (Гусева LinkedIn)
-sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-04-16-dzen-hh-brand-center-vihodite-za-ramki.md, sources/2026-04-16-dzen-hh-kareernyj-marketplace-checklist.md, sources/2026-04-16-dzen-hh-profession-test-15.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-hh-ru-official-may-7-13-2026.md, sources/2026-05-19-tg-hh-ru-official-may-15-18-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md]
+updated: 2026-05-30  # +новый фактор ранжирования по объёму откликов (май 2026) — вакансии с избытком откликов опускаются в выдаче
+prev_updated_2: 2026-05-30  # +дамп @hh_ru_official 26-29 мая: Платформа равных возможностей (инклюзивный найм), Бизнес задело (SMB-community), прожарка Сетки (ATS-визуал), career-fit guide
+prev_updated: 2026-05-19  # +«единая карьерная история» (синхронизация блоков опыта между резюме) + resume-SEO ранжирование из @recruiter_live 4471 (Гусева LinkedIn)
+sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-04-16-dzen-hh-brand-center-vihodite-za-ramki.md, sources/2026-04-16-dzen-hh-kareernyj-marketplace-checklist.md, sources/2026-04-16-dzen-hh-profession-test-15.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-hh-ru-official-may-7-13-2026.md, sources/2026-05-19-tg-hh-ru-official-may-15-18-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-30-hh-ru-article-vacancy-ranking-responses.md]
 namespace: mkt
 ---
 
@@ -46,6 +48,7 @@ hh.ru -- крупнейшая рекрутинговая платформа РФ
 - **ИИ-помощник для найма (октябрь 2025 → 2026 масштабирование):** создание вакансии «своими словами» (79% работодателей вносят минимум изменений в черновик), AI-сорсинг + диалог + сортировка откликов на 3 категории. Подключается max к 5 вакансиям. См. [[evolving/competitor-positioning/hh-ru-ai-hiring-suite-2026]] `[conf:high, src:2026-05-05]`
 - **Виртуальный рекрутер (массовый найм):** активно с 2025; крупные торговые сети, рестораны, банки. Оплата только за релевантные анкеты `[conf:high, src:2026-05-05]`
 - **Новое ранжирование поиска по «общительности»** (осень 2025): доля успешных контактов **+10%** после обновления `[conf:high, src:2026-05-05]`
+- **Ранжирование по объёму откликов (май 2026):** вакансии с непропорционально большим числом откликов **могут опускаться** в выдаче — учёт «проявленной активности кандидатов». Платформа обосновывает структурным дисбалансом спроса/предложения; вакансия не исключается из поиска. Это алгоритмическая институционализация разворота рынка к работодателю, плюс новый upsell-повод (вернуть позицию платным тарифом/продвижением). Подробно: [[volatile-strict/industry-news/hh-ru-vacancy-response-ranking-may-2026]] `[conf:medium, src:2026-05-30]`
 - **AI-расшифровка звонков + саммари** с оценкой соответствия кандидата критериям (готовится ~2 часа) `[conf:high, src:2026-05-05]`
 - **Расширение пула кандидатов до ×1,7** через навыкоцентричный поиск (показ кандидатов с подходящими подтверждёнными навыками, даже если в резюме указана не та должность) `[conf:high, src:2026-05-05]`
 
@@ -309,6 +312,15 @@ hh.ru -- крупнейшая рекрутинговая платформа РФ
 
 В том же дампе HH публикует **зарплатный рост по профессиям/регионам** как утилитарный контент-актив, завершающийся CTA «проверьте вакансии на hh.ru» — content-as-funnel паттерн. Данные вынесены в [[evolving-strict/market-data/ru-salary-growth-by-profession-2026]]: HR-специалисты +44% дохода (лидеры, при −39% вакансий — «vacancy compression + wage premium»), синие воротнички доминируют в абсолютном росте offer'ов (сварщики +148 100 ₽). Также пост 4883 — карусель «зарплатные переговоры» (5 советов) как career-advice utility-формат, см. [[evolving/content-trends/hh-ru-blog-content-patterns]]. `[conf:high, src:2026-05-18]`
 
+## Дамп @hh_ru_official 26–29 мая 2026 (4 поста)
+
+Из [[sources/2026-05-30-tg-hh-ru-official-may-26-29-2026|TG-дампа 26–29 мая]] — два новых продуктовых запуска + два content-формата:
+
+- **«Платформа равных возможностей»** (пост 4899, 2026-05-26) — инклюзивный найм людей с инвалидностью: разметка вакансий по категориям особенностей здоровья + двусторонний фильтр. Inclusive-gap: 48% компаний готовы нанимать сверх квоты, доля таких вакансий <4%. CEO Сергиенков рамит инклюзию как ответ на дефицит (~4 млн к 2030), не CSR. Это **ещё одна ось сегментации кандидатов через явное поле вакансии** — тот же продуктовый паттерн, что поле «Оформление сотрудника» и trust badge выше. Полный профиль: [[evolving/competitor-positioning/hh-ru-inclusive-hiring-platform-2026]].
+- **«Бизнес задело»** (пост 4902, 2026-05-29) — сообщество для SMB-предпринимателей (старт 1 июня, площадка VK + чат-бот + эксперты). Темы выходят за пределы найма (финансы, операции, рост) — **community-as-funnel над тем же SMB-сегментом**, что программа «Доступный найм». Полный профиль: [[volatile-strict/competitor-news/hh-ru-biznes-zadelo-smb-community-2026]].
+- **«Карьерная прожарка резюме» от Сетки** (пост 4898, 2026-05-26) — hh-adjacent соцсеть Сетка запускает формат фидбэка на резюме, промотируется через канал hh.ru. Визуал поста — AI-глаза, сканирующие резюме на пути к офферу (ATS-метафора). Ключевой тезис: «резюме должно быть понятным не только рекрутеру, но и алгоритмам»; привычные правила («сократить до 1 страницы») «не всегда работают». Усиливает **ATS/algorithm-screening нарратив** (см. алгоритм ранжирования резюме выше + [[evolving/industry-trends/skill-based-hiring-russia-2026]]).
+- **Career-fit guide** (пост 4901, 2026-05-28) — утилитарный career-advice (4 шага: ревизия опыта → поиск по навыкам не должностям → проверка гипотезы → консультант Карьерного маркетплейса). Content-as-funnel формат с CTA на [[evolving/competitor-positioning/hh-ru-career-marketplace]]; шаг «поиск по навыкам» переупаковывает skill-based фильтр поиска (см. [[evolving/industry-trends/skill-based-hiring-russia-2026]]).
+
 ## Значение для marketing-memory GRO
 
 1. **Не конкурент, а context-provider.** hh.ru обслуживает B2B (работодатели ищут людей), GRO обслуживает B2C (люди тренируют навыки). Но обе аудитории живут на одном рынке труда, и состояние hh.ru-экосистемы определяет контекст для GRO-контента.
@@ -351,6 +363,9 @@ hh.ru -- крупнейшая рекрутинговая платформа РФ
 - [[sources/2026-05-19-tg-hh-ru-official-may-15-18-2026]] — Q1 2026 investor-карусель + зарплатная аналитика (дамп 15-18 мая)
 - [[evolving-strict/competitor-metrics/headhunter-group-q1-2026]] — полные квартальные финансы HH Group Q1 2026
 - [[evolving-strict/market-data/ru-salary-growth-by-profession-2026]] — зарплатный рост по профессиям/регионам (content-asset HH)
+- [[sources/2026-05-30-tg-hh-ru-official-may-26-29-2026]] — дамп 26–29 мая: Платформа равных возможностей + Бизнес задело + прожарка Сетки + career-fit
+- [[evolving/competitor-positioning/hh-ru-inclusive-hiring-platform-2026]] — отдельный профиль «Платформы равных возможностей» (инклюзивный найм)
+- [[volatile-strict/competitor-news/hh-ru-biznes-zadelo-smb-community-2026]] — запуск SMB-сообщества «Бизнес задело» (1 июня 2026)
 
 ## Backlinks
 

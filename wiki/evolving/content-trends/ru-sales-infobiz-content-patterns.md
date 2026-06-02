@@ -9,8 +9,8 @@ tags: [content, telegram, instagram, infobiz, sales-training, narrative, pattern
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +fifth dump may 20-26 2026: Жанр 1 +Сочи (паттерн стабилен); Жанр 15 Threads-engagement-bait community-photoshop UGC; Жанр 16 cross-vertical guest-podcast (UTECH строит. рынок); secret-shopper case-format → canon framework
-sources: [sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-26-tg-vyakuba-may-20-26-2026.md]
+updated: 2026-05-30  # +sixth dump may 26-29 2026: Жанр 17 brand-case-commentary (Monochrome); Жанр 18 testimonial встроен в карусель; update Жанра 10 — dual-channel CTA впервые
+sources: [sources/2026-04-14-tg-vyakuba-mar-apr-2026.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-05-05-tg-vyakuba-apr-may-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-vyakuba-may-14-19-2026.md, sources/2026-05-26-tg-vyakuba-may-20-26-2026.md, sources/2026-05-30-tg-vyakuba-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -304,12 +304,29 @@ namespace: mkt
 
 Пост 6895 (+видео 6896, 2026-05-22) — формат «разбор реальной переписки менеджера + тайный звонок под видом покупателя». Это не просто content-genre, а самостоятельная sales-диагностическая методология → вынесена в [[canon/marketing-frameworks/secret-shopper-sales-diagnostic-vyakuba]] (4 системных провала продавцов). Как content-format родственен Жанру 2 (case-teaser с CTR на YouTube/VK): hook → реальный кейс → CTR на видео-разбор.
 
+## Жанр 17: Brand-case commentary (разбор чужого бренд-кейса) (6-й срез)
+
+Пост 6910 (2026-05-26) — Якуба пересказывает интервью основателя бренда Monochrome (human-first anti-marketing в кризис: «не покупайте у нас, если не нужно»). **Новизна:** прежде кейсы Якубы были про **его собственные** разборы продаж (Жанр 2) или live-coaching (Жанр 8). Здесь — **разбор чужого бренд-кейса как контент**: берётся публичная история стороннего бренда, добавляется авторский вывод (про устойчивость и адаптацию). Полный фрейм — [[canon/marketing-frameworks/monochrome-anti-marketing-crisis-vyakuba]].
+
+**Функция:** authority-build через демонстрацию насмотренности (а не только своих кейсов) + лёгкое заимствование чужого trust-нарратива. Переносимо для GRO: разбирать публичные кейсы брендов/продуктов как образовательный контент с GRO-выводом.
+
+## Жанр 18: Testimonial встроен в educational-карусель (6-й срез)
+
+Карточка 6917 (внутри карусели «Сейчас не время», 2026-05-27) — **скрин отзыва участницы курса** (Елена Балакина, «ПроПродажи 2.0», «+30% конверсии в переписках») как **финальный слайд после CTA**. Прежде testimonials шли отдельными постами; здесь social-proof впаян прямо в обучающую карусель. Паттерн «education → CTA → soft result-proof» в одном посте. Детали формата — [[evolving/content-trends/vyakuba-instagram-carousel-format]].
+
+**Переносимо для GRO:** завершать обучающую карусель не голым CTA, а мини-кейсом результата пользователя (скрин/цифра) — повышает доверие к офферу без отдельного testimonial-поста.
+
+## Update Жанра 10 (6-й срез): dual-channel CTA впервые
+
+Карусель «Сейчас не время» (6911..6917) даёт CTA «Подписывайся на Telegram / Instagram» — **впервые не Instagram-only** (прежде CTA-карточка вела только в Instagram со скрином метрик). Возможный сдвиг distribution-баланса в сторону TG, либо A/B-тест. Single-data-point, см. [[evolving/content-trends/vyakuba-instagram-carousel-format]].
+
 ## Connection points
 
 - [[sources/2026-04-14-tg-vyakuba-mar-apr-2026]] — первый источник наблюдений.
 - [[sources/2026-05-05-tg-vyakuba-apr-may-2026]] — второй источник, +жанры 10-11.
 - [[sources/2026-05-14-tg-vyakuba-may-5-14-2026]] — третий источник, +жанр 12 + update жанров 3 и 10.
 - [[sources/2026-05-19-tg-vyakuba-may-14-19-2026]] — четвёртый источник, +жанры 13-14 + update жанров 3 и 10 (list-карусель, employee-side, lead-magnet).
+- [[sources/2026-05-30-tg-vyakuba-may-26-29-2026]] — шестой источник, +жанры 17-18 (brand-case-commentary, testimonial-в-карусели) + update жанра 10 (dual-channel CTA).
 - [[sources/2026-05-26-tg-vyakuba-may-20-26-2026]] — пятый источник, +жанры 15-16 (Threads-UGC, cross-vertical podcast) + secret-shopper case-format + 4 sales-фреймворка.
 - [[canon/marketing-frameworks/sale-begins-after-price-vyakuba]] — sales-фреймворк «продажа после цены» (5-й срез, пост 6909).
 - [[canon/marketing-frameworks/summer-counter-cyclical-sales-vyakuba]] — сезонный counter-cyclical playbook (5-й срез, посты 6891+6894).

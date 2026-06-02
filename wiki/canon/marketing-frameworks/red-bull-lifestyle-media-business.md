@@ -9,8 +9,8 @@ tags: [content, brand, lifestyle, sponsorship, content-marketing, social, framew
 confidence: medium
 stale: false
 created: 2026-05-27
-updated: 2026-05-27
-sources: [sources/2026-05-27-condense-web-vc-ru-145-articles.md]
+updated: 2026-05-30  # +sibling-кейс Enhanced Games (owned-spectacle как TOFU для D2C, обратный causality)
+sources: [sources/2026-05-27-condense-web-vc-ru-145-articles.md, sources/2026-05-30-tg-peregudov-454-458.md]
 namespace: mkt
 ---
 
@@ -91,8 +91,13 @@ Tinkoff eCommerce Conference (2-я ежегодная, 2023): >7000 офлайн
 3. **Спортивные амбассадоры** — любительские атлеты, не олимпийцы. Они дешевле и ближе к аудитории.
 4. **Не торопиться с окупаемостью** — этот контент не даёт прямой uplift приложения в 1-й год. Это инвестиция в 5-летний рост retention и LTV.
 
+## Sibling-кейс: Enhanced Games (D2C, обратный causality)
+
+Свежий пример той же рамки в другую сторону по causality — **Enhanced Games** (разбор @peregudov, май 2026, см. [[canon/marketing-frameworks/owned-spectacle-tofu-d2c-enhanced-games]]). Red Bull строит медиа-вселенную **поверх** уже-работающего продукта (напиток — кэш-машина). Enhanced наоборот: зрелище («Олимпиада на стероидах») запущено **как acquisition-канал верхнего уровня воронки** для параллельно стартующего D2C-бренда Enhanced Live (пептиды, тестостерон, GLP-1). Разрыв до окупаемости покрывает венчур (~$340M, в т.ч. Тиль, Винклвоссы). Тот же якорный принцип Баумгартнера — зрелище должно быть физически невозможно увидеть в обход бренда — но первый ивент Enhanced показал и **границу**: media-leverage пропорционален воспринимаемому качеству зрелища (полупустой зал, слабая трансляция → схлопывание рычага). Подтверждает, что Red Bull-модель устойчива, но требует дорогого убедительного исполнения, а не просто шок-хука.
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/owned-spectacle-tofu-d2c-enhanced-games]] — sibling-рамка: owned-spectacle как TOFU для D2C (Enhanced Games), обратный causality
 - [[evolving/content-trends/tbank-vc-ru-content-mix-2019-2024]] — частичная реализация модели у T-Bank
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — рамка форматов вовлечения у того же автора
 - [[evolving/content-trends/vcru-story-evergreen-storytelling-genre]] — формат сторителлинга, в котором Red Bull-кейсы существуют как самостоятельный жанр

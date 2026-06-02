@@ -9,8 +9,8 @@ tags: [content, ai, narrative, hooks, personal-assistant, agent, telegram, podca
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-26  # +третий operational AI-case «личный финдиректор на Claude» (пост 3807, 2026-05-20) + AI-news-agent как продуктовый telegraph + reusable hook «моё внимание стоит дорого»
-sources: [sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md]
+updated: 2026-05-31  # +четвёртый operational AI-case «investment-due-diligence agent» (пост 3845, 2026-05-27) — первый agentic-кейс с правом самостоятельной внешней переписки (agentic-role-with-action)
+sources: [sources/2026-05-05-tg-alexander-visotsky-apr-may-2026.md, sources/2026-05-14-tg-alexander-visotsky-may-2026.md, sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026.md, sources/2026-05-31-tg-alexander-visotsky-may-27-30-2026.md]
 namespace: mkt
 ---
 
@@ -209,8 +209,38 @@ Personal-tier AI-case #3 (личный финдиректор) и Organizational
 
 Это reusable **dual-tier-storytelling**: личный кейс (proof of own use) + структурный фреймворк (proof of generalizable lesson). Один пост обслуживает обе функции.
 
+## Update 2026-05-31 — кейс #4: agentic investment-due-diligence (пост 3845)
+
+Шестой срез [[sources/2026-05-31-tg-alexander-visotsky-may-27-30-2026|@alexander_visotsky 2026-05-27..05-30]] добавляет **четвёртый operational AI-case**, который качественно отличается от всех предыдущих: AI-агент для анализа входящих инвест-презентаций, описанный как 4-стадийный пайплайн (полный workflow-разбор — в [[canon/marketing-frameworks/ai-investment-due-diligence-agent-visotsky]]).
+
+### Что нового относительно кейсов #1–#3
+
+| Параметр | Кейсы #1–#2 (Cowork) | Кейс #3 (личный CFO) | **Кейс #4 (investment-agent)** |
+|---|---|---|---|
+| Природа | one-off operation | persistent role + data access | **autonomous agentic pipeline** |
+| Действие вовне | нет (обработка своих данных) | нет (read-only по своим счетам) | **да — сам ведёт переписку с фаундерами** |
+| Решение | человек | человек | AI выдаёт вердикт, человек подтверждает |
+| Метафора | «личный ассистент» | «личный финдиректор» | «личный инвест-аналитик» |
+
+**Эскалация трактовки use-case'ов (4 ступени):**
+1. `tool` — ad-hoc «сделай что-нибудь» (кейсы #1–#2, страховка/инвест-дек).
+2. `persistent role + data` — «ты мой финдиректор» (кейс #3).
+3. `agentic role + action` — «ты анализируешь входящие и сам уточняешь у фаундеров» (кейс #4).
+
+Кейс #4 — **первое появление agency наружу**: агент не только думает, но и **действует от лица владельца** (инициирует внешнюю коммуникацию). Это самый сильный proof-point [[evolving/industry-trends/agent-first-world-openclaw-2026|agent-first-world]]-нарратива в канале: публичная фигура из non-AI-вертикали показывает multi-stage agentic workflow с правом действия.
+
+### Анатомия паттерна сохраняется
+
+Кейс 3845 укладывается в ту же 4-элементную структуру: (1) конкретная задача без AI-контекста («мне присылают инвест-предложения»), (2) тупик ручного решения (полдня на 30-страничный дек), (3) именованный инструмент (Claude) + естественно-языковая настройка, (4) outcome с минимумом человеческих шагов (человек только подтверждает вердикт). Caveat-маркер доверия: «иногда Claude заблуждается, но на грубых ошибках ни разу не ловил» `[conf:low]` — self-reported reliability, повышает достоверность за счёт признания несовершенства.
+
+### Адаптация для GRO
+
+Format «как я делегировал AI рутину, оставив за собой только решение» переносится: для GRO — «AI берёт трекинг и подготовку, я оставляю за собой выбор практики». **Anti-pattern прежний**: не позиционировать GRO как «AI-агента», не цитировать Высоцкого дословно.
+
 ## Связанные страницы
 
+- [[canon/marketing-frameworks/ai-investment-due-diligence-agent-visotsky]] — workflow-разбор кейса #4 (пост 3845)
+- [[sources/2026-05-31-tg-alexander-visotsky-may-27-30-2026]] — source-дамп с постом 3845 (investment-agent)
 - [[sources/2026-05-05-tg-alexander-visotsky-apr-may-2026]] — source-дамп с подкастом 3739
 - [[sources/2026-05-14-tg-alexander-visotsky-may-2026]] — source-дамп с постом 3788 (open prompt-asset)
 - [[sources/2026-05-26-tg-alexander-visotsky-may-19-25-2026]] — source-дамп с постом 3807 (личный финдиректор + AI-news-agent telegraph)

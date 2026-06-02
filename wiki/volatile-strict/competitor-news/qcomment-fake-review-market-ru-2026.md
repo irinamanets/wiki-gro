@@ -9,8 +9,8 @@ tags: [ru-startup, fake-reviews, reputation, marketplaces, otzovik, yandex-marke
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-startupoftheday-may-5-13-2026.md]
+updated: 2026-05-30  # +судебный прецедент Шифа vs Prodoctorov (Коммерсантъ): суд впервые наказал заказчика накрутки, удар по demand-стороне рынка фейк-отзывов
+sources: [sources/2026-05-14-tg-startupoftheday-may-5-13-2026.md, sources/2026-05-30-tg-kommersant-may-7-8-2026.md]
 namespace: mkt
 ---
 
@@ -70,6 +70,15 @@ GRO — фитнес-приложение, **не отзовик**. Но **от�
 
 **Implication для GRO:** мониторинг **AI-сгенерированных отзывов** на product-pages должен включать **detection-pattern** (homogeneity, lack of specific product-feature mentions, generic phrasing). См. [[canon/marketing-frameworks/ai-text-markers-checklist]] — paralel pattern для текста AI-generated.
 
+## Demand-side enforcement: судебный прецедент (2026-05-30)
+
+Параллельный сигнал с **другой стороны рынка**: если QComment — это **сторона предложения** (биржа исполнителей накрутки), то судебный прецедент **Шифа vs Prodoctorov** (Коммерсантъ 106935, 2026-05-07, см. [[volatile-strict/industry-news/ru-fake-review-rating-precedent-2026-05]]) бьёт по **стороне спроса** — заказчику накрутки.
+
+- Краснодарский арбитраж **отказал** клинике, заказавшей фейковые отзывы, в восстановлении обнулённого рейтинга на Prodoctorov.ru `[conf:medium, src:2026-05-07]`.
+- Суд признал действия заказчика введением граждан в заблуждение; юристы называют решение **прецедентным против «правового шантажа»** порталов отзывов `[conf:medium, src:2026-05-07]`.
+
+**Что это меняет:** рынок фейк-отзывов теперь под **двусторонним давлением** — но асимметричным. Предложение (QComment) живёт и мигрирует в тень (крипта, .com-домен); спрос получает первый **судебно-подтверждённый риск** (нельзя через суд легализовать накрутку). Это снижает привлекательность накрутки для легальных бизнесов, но не для тех, кто и так работает в серой зоне. Структурный сдвиг — в пользу trust-инфраструктуры площадок.
+
 ## TTL и retest
 
 `volatile-strict` — через **90 дней** (2026-08-14) проверить:
@@ -85,3 +94,5 @@ GRO — фитнес-приложение, **не отзовик**. Но **от�
 - [[evolving/content-trends/competitor-data-poisoning-defense-pattern]] — adjacent: defense pattern против data-poisoning
 - [[evolving/content-trends/ai-screenshot-trust-crisis-2026]] — adjacent (trust crisis в AI-эпохе)
 - [[sources/2026-05-14-tg-startupoftheday-may-5-13-2026]] — оригинал (пост 5059)
+- [[volatile-strict/industry-news/ru-fake-review-rating-precedent-2026-05]] — судебный прецедент (demand-side enforcement)
+- [[sources/2026-05-30-tg-kommersant-may-7-8-2026]] — Коммерсантъ дамп с прецедентом Шифа vs Prodoctorov

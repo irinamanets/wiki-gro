@@ -9,8 +9,8 @@ tags: [content, post, founder-content, ru-smb, niche-business, revenue-reveal, t
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-26  # +2 новых exemplar'а (REG.RU ~1 млрд ₽ ЧП, Scandic 725 млн ₽ ЧП) из дампа 8-11 мая
-sources: [sources/2026-05-14-tg-bezsmuzi-may-5-7.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md]
+updated: 2026-05-30  # +6-й exemplar PUSY (193 млн ₽ ЧП / 3.3 млрд ₽ выручки, блогер→бренд гель для бровей) из дампа 11-13 мая — первый influencer-to-brand вариант жанра
+sources: [sources/2026-05-14-tg-bezsmuzi-may-5-7.md, sources/2026-05-26-tg-bezsmuzi-may-8-11-2026.md, sources/2026-05-30-tg-bezsmuzi-may-11-13-2026.md]
 namespace: mkt
 ---
 
@@ -77,6 +77,14 @@ namespace: mkt
 
 **Hook-сила:** Logistics-бизнес (вода Франция → РФ) — **нишевый, anonymous до миссии**. Reveal: успешный международный logistics, plus меta-hook **«он не знает как надо», т.е. наперекор conventional wisdom**. Формат: рассказ про чужого человека, **не финансовая отчётность**, ниже на confidence scale, но **тот же жанр**.
 
+### 16047 — PUSY (блогер→бренд, гель для бровей, дамп 11-13 мая)
+
+**Цифры:** 193 млн ₽ чистой прибыли, 3.3 млрд ₽ выручки `[conf:low, src:2026-05-13]`
+
+**Кульгинский комментарий:** «Позитива в ленту. Бренд PUSY получает 193 млн чистой прибыли и 3.3 млрд выручки. Это тот кейс, когда блогер запустила гель для бровей своего бренда и он просто взлетел… Вывод? Хорошо быть умным блогером, когда есть и охваты, и понимание, как монетизировать.» — [[sources/2026-05-30-tg-bezsmuzi-may-11-13-2026|пост 16047]]
+
+**Hook-сила:** Это **шестой exemplar** жанра, но первый с механикой **influencer-to-brand** (блогер → собственный продукт), а не «незаметная нишевая компания». Reveal не столько про скучную нишу, сколько про **монетизацию аудитории через D2C-бренд** — другой подтип того же формата. Дополнительная meta-нота: Кульгин явно помечает пост как ответ на запрос «мало позитива» — то есть жанр сознательно используется как **positive-balance в ленте**, а не только awareness. Усиливает связь с [[evolving/industry-trends/ru-creator-economy-monetization-2026|монетизацией creator-economy]].
+
 ## Жанр-механика
 
 **Психологическая работа:**
@@ -129,3 +137,6 @@ namespace: mkt
 - [[evolving/content-trends/founder-channel-sponsored-ad-formats-2026]] — broader founder-content рамка
 - [[evolving/content-trends/career-audience-hooks-2026]] — связь с карьерной аудиторией GRO
 - [[sources/2026-05-14-tg-bezsmuzi-may-5-7]] — первоисточник, 4 exemplar'а: 15865, 15879, 15883, 15898
+- [[sources/2026-05-30-tg-bezsmuzi-may-11-13-2026]] — 6-й exemplar PUSY (influencer-to-brand вариант)
+- [[evolving/content-trends/bezsmuzi-smb-owner-content-hooks]] — банк хуков того же автора (hook 15: niche-billionaire)
+- [[evolving/industry-trends/ru-creator-economy-monetization-2026]] — монетизация аудитории через D2C-бренд

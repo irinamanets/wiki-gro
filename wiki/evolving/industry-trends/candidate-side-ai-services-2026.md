@@ -9,8 +9,9 @@ tags: [hr-tech, ai-agents, candidate-side, hiring, career, awareness, considerat
 confidence: medium
 stale: false
 created: 2026-04-27
-updated: 2026-05-18  # +HR-side reframe (Е. Середа, Pressfeed): ATS/AI — оптимизация скрининга, не причина отказов; точечные позиции — ручной поиск
-sources: [sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md]
+updated: 2026-06-01  # +quantitative anchor 6-й батч vc.ru/hr: 83% оптимизируют резюме через ChatGPT, подходят 8-15%; NLP вытесняет keyword-search
+prev_updated: 2026-05-18  # +HR-side reframe (Е. Середа, Pressfeed): ATS/AI — оптимизация скрининга, не причина отказов; точечные позиции — ручной поиск
+sources: [sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-bezsmuzi-may-3-5.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-06-01-condense-vcru-hr-51-articles.md]
 namespace: mkt
 ---
 
@@ -127,6 +128,17 @@ Confidence по факту существования: `medium` — Горный
 1. **Уточняет value-границу AI-tutor.** Если ATS-обход работает преимущественно на массовом потоке (где автоматизация и стоит), то candidate-side AI-агенты (Горный thesis: резюме + массовые отклики + переписка) дают максимальный leverage **именно на массовом сегменте** вакансий. На точечных/управленческих позициях, где решает ручной отбор и «соответствие ожиданиям», AI-аутсорс отклика даёт меньше — там работает прямой контакт и медийность (см. Hook 34 в [[evolving/content-trends/career-audience-hooks-2026]]).
 2. **Балансирует ATS-collapse narrative.** Страница [[evolving/industry-trends/ru-job-seeker-experience-2026]] (Hook 9 «резюме пишут роботы, читают роботы») фиксирует candidate-side фрустрацию. Середа добавляет HR-side коррекцию: алгоритм — не злодей, проблема в mismatch ожиданий. Для GRO-content это означает: нельзя строить нарратив только на «победи ATS» — реальный leverage в **усилении реальных компетенций** под ожидания бизнеса (мостик к core-value GRO «системность»).
 
+## Quantitative anchor: 83% оптимизируют резюме через ChatGPT, подходят 8-15% (6-й батч vc.ru/hr)
+
+Через [[sources/2026-06-01-condense-vcru-hr-51-articles|6-й батч vc.ru/hr]] приходит конкретный **двусторонний quantitative anchor** к ATS-collapse нарративу `[conf:low, src:2026-05-30]` (vendor/опрос-sourced, native-ad Garmony-кластер):
+
+- **83% кандидатов** оптимизируют резюме с помощью ChatGPT.
+- Реально подходящих в потоке откликов — **8-15%**.
+
+Это **прямое числовое подтверждение** замкнутого круга ATS из [[evolving/content-trends/vcru-hr-content-patterns-2026]] (Паттерн 3): кандидаты насыщают резюме через LLM → signal-to-noise воронки падает → рекрутеры получают 85-92% «пустышек» → ATS/NLP-скрининг ужесточается. Vendor-нарратив (Garmony) использует это как proof-point спроса на NLP-скрининг; для candidate-side это означает, что **массовое AI-резюме теряет leverage** именно потому, что им пользуются все — преимущество смещается к **реальному соответствию компетенций** (мостик к HR-side reframe Середы выше и к core-value GRO «системность»).
+
+Связанная динамика рынка: NLP вытесняет keyword-search как стандарт скрининга именно потому, что кандидаты насыщают резюме ключевыми словами через ChatGPT `[conf:medium, src:2026-05-30]` — gun-vs-armor гонка, где обе стороны вооружаются AI. Полный funnel-набор бенчмарков — [[evolving-strict/campaign-metrics/ru-recruiting-funnel-benchmarks-2026]].
+
 ## Стратегические вопросы для маркетинга GRO
 
 GRO — фитнес-приложение, не HR-tech. Прямого пересечения нет. Но категория важна как **adjacent narrative-источник**:
@@ -145,6 +157,8 @@ GRO — фитнес-приложение, не HR-tech. Прямого пере
 - [[sources/2026-04-27-tg-startupoftheday-apr-15-27-2026]] — оригинал
 - [[sources/2026-05-05-tg-bezsmuzi-may-3-5]] — reinforcing signals (whohasjobs.com US, RU «бизнес на резюме», IT-coaching pricing 30-50% × 2 года)
 - [[sources/2026-05-18-pressfeed-rynok-truda-2026-sereda]] — HR-side reframe (ИИ как оптимизация скрининга, не причина отказов)
+- [[sources/2026-06-01-condense-vcru-hr-51-articles]] — quantitative anchor 83%/8-15% + NLP вытесняет keyword-search (6-й батч)
+- [[evolving-strict/campaign-metrics/ru-recruiting-funnel-benchmarks-2026]] — полный funnel-набор бенчмарков воронки
 - [[evolving-strict/market-data/ru-labor-market-q1-2026]] — макро: 105 147 сокращений, +43%, безработица 2,2% — фон для роста спроса
 
 ## Ре-верификация

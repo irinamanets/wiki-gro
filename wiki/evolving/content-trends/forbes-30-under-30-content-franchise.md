@@ -9,13 +9,14 @@ tags: [forbes, content-franchise, listicle, evergreen, multi-edition, derivative
 confidence: medium
 stale: false
 created: 2026-05-26
-updated: 2026-05-26  # +sibling-франшиза Forbes 200 богатейших ([[evolving/content-trends/forbes-200-richest-russia-content-franchise]]) ingested 2026-05-26 — теперь «multi-edition + derivative cuts» паттерн подтверждён двумя независимыми Forbes-активами одного издания, см. секцию «Forbes — два архетипа франшиз» ниже.
+updated: 2026-05-30  # backfill: Гуринович (RU alumnus) активно подкрепляет ценность founder-titre через founder-pride манифест в День Предпринимателя (пост 923, 2026-05-26)
 sources:
   - sources/2026-05-26-forbes-tegi-30-under-30.md
   - sources/2026-05-26-forbes-tegi-200-bogateyshih-biznesmenov.md
   - sources/2026-04-16-www-forbes-ru-svoi-biznes-558743-samye-molodye-nominanty-rej-0c5509c8.md
   - sources/2026-04-16-www-forbes-ru-forbes-woman-559161-borutsa-s-nasiliem-i-delau-6225a16e.md
   - sources/2026-04-14-tg-gurinovich-shares-jan-mar-2026.md
+  - sources/2026-05-30-tg-gurinovich-shares-may-30-2026.md
 namespace: mkt
 ---
 
@@ -169,7 +170,7 @@ Forbes 30 Under 30 **уникален** по сочетанию: editorial curat
 
 ## RU founder-ы как alumni 30 до 30 — наблюдаемые в вики
 
-- **Эдуард Гуринович** (Forbes 30 under 30, 2018) — основатель «Ракеты», теперь публичный персонаж в Telegram (см. [[sources/2026-04-14-tg-gurinovich-shares-jan-mar-2026]]). Активно использует titre в bio. Делал виральный founder-story кейс. Cross-link: [[evolving/content-trends/ru-business-tg-content-drift-2026]].
+- **Эдуард Гуринович** (Forbes 30 under 30, 2018) — основатель «Ракеты», теперь публичный персонаж в Telegram (см. [[sources/2026-04-14-tg-gurinovich-shares-jan-mar-2026]]). Активно использует titre в bio. Делал виральный founder-story кейс. Cross-link: [[evolving/content-trends/ru-business-tg-content-drift-2026]]. **Активно подкрепляет founder-prestige-нарратив** изнутри: в посте 923 (День Предпринимателя, [[sources/2026-05-30-tg-gurinovich-shares-may-30-2026]]) формулирует тезис «в России не хватает культа Основателей» — это **insider-сигнал** в пользу founder-prestige (контрапункт к анти-prestige сигналу Табунова выше). Разбор формата — [[evolving/content-trends/founder-pride-manifesto-entrepreneur-day-gurinovich]]. Двойная оптика подтверждается: Гуринович (alumnus, строит «культ founder'ов» как бизнес) усиливает titre, Табунов (founder-практик) его обесценивает — целевая аудитория контента определяет, какой полюс активировать.
 - Implicit: в RU-листе 2023 (488373/488387) — 20 имён, частично присутствующих в индустрии 2026 (часть стартапов трансформировалась/закрылась).
 
 ## Forbes — два архетипа франшиз (cross-link к 200 богатейших)
@@ -197,6 +198,8 @@ Forbes 30 Under 30 **уникален** по сочетанию: editorial curat
 - [[sources/2026-04-16-www-forbes-ru-svoi-biznes-558743-samye-molodye-nominanty-rej-0c5509c8]] — другая статья франшизы (triage'нута, но факт публикации — данные паттерна)
 - [[sources/2026-04-16-www-forbes-ru-forbes-woman-559161-borutsa-s-nasiliem-i-delau-6225a16e]] — статья Forbes Woman 30 до 30 (triage'нута)
 - [[sources/2026-04-14-tg-gurinovich-shares-jan-mar-2026]] — RU alumnus
+- [[sources/2026-05-30-tg-gurinovich-shares-may-30-2026]] — RU alumnus, founder-pride манифест («культ Основателей»)
+- [[evolving/content-trends/founder-pride-manifesto-entrepreneur-day-gurinovich]] — founder-pride narrative-формат (insider-сигнал в пользу founder-prestige)
 - [[evolving/content-trends/forbes-russia-native-ad-pattern-2026]] — соседний Forbes editorial pattern
 - [[evolving/content-trends/hiring-meme-pricing-list-tabunov]] — анти-prestige сигнал в RU founder-vocabulary
 - [[canon/marketing-frameworks/social-proof-traffic-asset-framework-tabunov]] — двойная оптика titre как social proof

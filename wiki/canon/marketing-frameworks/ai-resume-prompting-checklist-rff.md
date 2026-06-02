@@ -9,8 +9,8 @@ tags: [frameworks, ai, prompting, content, resume]
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-05
-sources: [sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md]
+updated: 2026-05-30
+sources: [sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-30-tg-techno-yandex-may-26-30-2026.md]
 namespace: mkt
 ---
 
@@ -137,9 +137,22 @@ namespace: mkt
 - [[canon/marketing-frameworks/llm-market-analysis-prompt]] — конкретный prompt для market analysis через LLM (применение принципа 3)
 - [[canon/marketing-frameworks/spiridonov-three-engagement-formats]] — типы engagement-форматов, в которых принципы 1–5 применимы по-разному
 
+## Cross-source валидация: @techno_yandex prompt-chain (2026-05-28)
+
+@techno_yandex (пост 5280, 2026-05-28) опубликовал **готовую copy-paste prompt-chain** для резюме через нейросеть — независимое подтверждение тех же 5 принципов на другом бренд-канале:
+
+1. **Интервью-промпт** («Ты карьерный консультант… задай мне 10 уточняющих вопросов») = принцип 3 (инверсный prompting, LLM задаёт вопросы).
+2. **STAR-метод** (situation / task / action / result) для описания опыта через цифры и метрики = принцип 2 (структура задаётся заранее) + борьба с «размытостью».
+3. **Сборка резюме** с явной структурой блоков и инструкцией «пиши в инфостиле, без канцелярита и штампов вроде „ответственный специалист с развитыми коммуникативными навыками“» = принцип 4 (чистка AI/штамп-маркеров на этапе генерации).
+4. **«Прожарка»** в отдельном диалоговом окне («Прочитай как скептичный рекрутер… укажи слабые места, шаблонные фразы») = новый under-utilized приём: **adversarial self-critique в чистом контексте**. Перенос на маркетинг — критиковать свой лендинг/пост от лица скептичного клиента в отдельном чате.
+5. **Адаптация под каждую вакансию** (показать вакансию → переписать резюме) = принцип 1 (целевой пример + явная задача).
+
+**Вывод:** два независимых бренд-канала (RFF + @techno_yandex) сошлись на одной prompt-методологии за месяц — это укрепляет `confidence` фреймворка как индустриального консенсуса, а не единичного мнения. Приём «прожарка в отдельном окне» добавлен в copybook как 6-й приём.
+
 ## Связанные страницы
 
 - [[sources/2026-05-05-tg-rff-channel-redump-mar-may-2026]] — источник (RFF post 4384)
+- [[sources/2026-05-30-tg-techno-yandex-may-26-30-2026]] — cross-source валидация (@techno_yandex post 5280, STAR + adversarial critique)
 - [[evolving-strict/market-data/ai-resume-acceptance-rff-poll-2026]] — empirical базис (опрос 543 голосов, 74% HR positive, 6% triggered by «шаблонность»)
 - [[canon/marketing-frameworks/ai-text-markers-checklist]] — детектные маркеры AI-output
 - [[evolving/content-trends/ai-text-detection-landscape-2026]] — двусторонняя детекция AI/human

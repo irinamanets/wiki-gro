@@ -9,8 +9,8 @@ tags: [ai, llm, software-development, cost, deepseek, z-ai, kimi, anthropic, rus
 confidence: low
 stale: false
 created: 2026-05-08
-updated: 2026-05-08
-sources: [sources/2026-05-08-tg-bezsmuzi-may-7-8.md]
+updated: 2026-05-30  # +DeepSeek V4 anchor (дамп 11-13 мая): «1 млрд токенов за $10», GPU-оптимизация до 10×, работа на Huawei; мем Opus $10 vs DS V4 Flash $0,9; контр-сигнал «не ВАУ, Gemini умнее»
+sources: [sources/2026-05-08-tg-bezsmuzi-may-7-8.md, sources/2026-05-30-tg-bezsmuzi-may-11-13-2026.md]
 namespace: mkt
 ---
 
@@ -46,6 +46,16 @@ NB: Кульгин в предыдущем дампе ([[sources/2026-05-14-tg-b
 
 Это — **inversion AI-doom**: не «разработчиков не будет», а «планка прибыльных проектов задрана + ценность смещается к продажам и продуктовому мышлению». Прямо рифмуется с [[evolving/content-trends/perf-marketer-automation-narrative-2026|нарративом про перформанс-маркетологов]] (рутину забирает алгоритм, judgment/продажи растут в цене).
 
+### 4. DeepSeek V4 как мем cost-collapse (дамп 11-13 мая)
+
+[[sources/2026-05-30-tg-bezsmuzi-may-11-13-2026|Дамп 11-13 мая]] обновляет DeepSeek-сигнал тремя deltas:
+
+- **Числовой anchor (пост 16009):** DeepSeek V4 — «1 млрд токенов за $10», оптимизирован под сокращение памяти и нагрузки на GPU **до 10×**, работает на **Huawei**, высокая скорость инференса при ажиотажном спросе. `[conf:low, src:2026-05-12]` Это самая конкретная per-token-цифра в нарративе (раньше — «3 цента за фикс», «$80/мес суммарно»).
+- **Мем-сравнение цены (пост 16032, img 16032):** Claude Opus «с тебя $10» 🤣 vs DeepSeek V4 Flash «переписали 20 000 строк — с тебя $0,9» 👍. Open Code даёт бесплатный доступ к DS V4 Flash. `[conf:low, src:2026-05-12]` — viral-готовая форма cost-разрыва.
+- **Контр-сигнал (пост 16022):** retold-отзыв «DS v4 не ВАУ, много переделок, упускает детали; Gemini 3.1 явно умнее. Для простых задач подойдёт, работает без VPN из РФ». `[conf:low, src:2026-05-12]` — **честный балансир**: дёшево ≠ автоматически лучше; cost-collapse реален, но quality-gap сохраняется на сложных задачах.
+
+Эти deltas усиливают рамку, но добавляют важный nuance: **бифуркация use-case** — дешёвые азиатские модели берут «простые задачи / объём», frontier остаётся за сложным reasoning. Это согласуется с сигналом 3 («планка прибыльных проектов задрана»).
+
 ## Связь с AI-парадоксом (Anthropic)
 
 Кульгин (пост 15914, img Anthropic ARR $44 млрд) трактует сверхприбыльность Anthropic (маржа 36%→70%) как доказательство «никакого пузыря ИИ» — но тут же добавляет: «справедливая цена LLM ~⅓ от ценника Claude в токенах». То есть **тот же автор**, который радуется марже вендора, ожидает дальнейшего падения цены для покупателя — это и есть механика cost-collapse: маржа вендора высока, но конкуренция (DeepSeek, Kimi, z.ai) давит цену вниз. Anthropic-метрики — в [[evolving-strict/competitor-metrics/ai-leaders-valuations-2026-q2]].
@@ -71,6 +81,8 @@ NB: Кульгин в предыдущем дампе ([[sources/2026-05-14-tg-b
 ## Связанные страницы
 
 - [[sources/2026-05-08-tg-bezsmuzi-may-7-8]] — источник-якорь
+- [[sources/2026-05-30-tg-bezsmuzi-may-11-13-2026]] — DeepSeek V4 anchor ($10/1B токенов, мем $0,9, контр-сигнал)
+- [[evolving/content-trends/bezsmuzi-smb-owner-content-hooks]] — hook 12 (AI cost-collapse как мем)
 - [[evolving/industry-trends/ai-marketing-limits-2026]] — независимый экспертный голос «усиливает сильного / умножает слабого»
 - [[evolving/content-trends/perf-marketer-automation-narrative-2026]] — параллельный нарратив для маркетинга
 - [[evolving-strict/competitor-metrics/llm-token-pricing-deflation-2025-2026]] — тренд дефляции токенов

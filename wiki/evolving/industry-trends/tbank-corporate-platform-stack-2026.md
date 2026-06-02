@@ -9,8 +9,8 @@ tags: [tbank, corporate-messenger, ai, marketplace, fintech, industry-trends]
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-26  # +батч @tinkoffbank 10724-10748 (19-26 мая 2026): UnionPay Global 61 страна (cross-border infrastructure-flex), Топливо становится loyalty-card-aggregator'ом (Газпромнефть «Нам по пути» = vertical aggregator parallel с Доли), Т-Бизнес "5 причин доверять" listicle (70+ сервисов / 1.5M+ клиентов / лидер Банки.ру), «Число Т» ЕГЭ-тренажёр (Т-Образование growth-loop через школьников), Veter Spring Fest pluggable activation; prior: +chunk6 condensed
-sources: [sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md, sources/2026-05-26-tg-tinkoffbank-may-19-26-2026.md]
+updated: 2026-06-01  # +батч @tinkoffbank 10749-10765 (26-30 мая 2026): grocery-прогноз подтверждён (Дикси в «Город»→Супермаркеты, кэшбэк 15%), +2 surface (Афиша ticketing с кэшбэком до 20% на НУР; T-Mobile telecom 390₽/мес как sub-brand с отдельной лицензией ООО «Т-Моб»); prior: +батч @tinkoffbank 10724-10748 (19-26 мая 2026): UnionPay Global 61 страна (cross-border infrastructure-flex), Топливо становится loyalty-card-aggregator'ом (Газпромнефть «Нам по пути» = vertical aggregator parallel с Доли), Т-Бизнес "5 причин доверять" listicle (70+ сервисов / 1.5M+ клиентов / лидер Банки.ру), «Число Т» ЕГЭ-тренажёр (Т-Образование growth-loop через школьников), Veter Spring Fest pluggable activation; prior: +chunk6 condensed
+sources: [sources/2026-04-16-condense-vcru-misc-18.md, sources/2026-04-17-tg-tinkoffbank-10544-sdelka-realty.md, sources/2026-04-14-tg-tinkoffbank-10566-tbiznes-vat-compensation-2026.md, sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-04-14-tg-tinkoffbank-10577-t-education-math-course.md, sources/2026-04-14-tg-tinkoffbank-10583-summer-hotel-pool-glasses.md, sources/2026-04-14-tg-tinkoffbank-10568-academeg-fuel-cashback.md, sources/2026-05-14-condense-web-vc-ru-tbank-27.md, sources/2026-05-19-tg-tinkoffbank-10694-10718-may-batch.md, sources/2026-05-24-condense-vc-ru-tbank-chunk6-30.md, sources/2026-05-26-tg-tinkoffbank-may-19-26-2026.md, sources/2026-06-01-tg-tinkoffbank-may-26-30-2026.md]
 namespace: mkt
 ---
 
@@ -96,6 +96,25 @@ Significance для Т-Банк-ecosystem narrative: это **defensive-solidari
 - **«Город» = consumer-superapp layer** поверх банковского ядра. Аналогично тому, как Yandex Go или Sber «Купер» — отдельные surface'ы, только здесь surface находится **внутри** primary-banking-app (не в отдельном приложении). Это снижает acquisition-cost для каждой новой merchant-категории.
 - **Каждая merchant-категория в «Городе» — потенциальный future sub-brand.** Сегодня «Топливо» не имеет отдельной brand-identity (inherit'ит consumer-yellow). Если масштаб станет значим — может эволюционировать в standalone palette, по модели Доли/Т-Образование/Т-Путешествия.
 - **Cashback stacking как engagement-loop.** T-Bank cashback + AЗС loyalty-points на ту же транзакцию — non-competing reward structure, где банк и merchant каждый даёт свой reward из своего P&L. Этот паттерн воспроизводим для любой merchant-категории: grocery, parking, public-transit, entertainment-venues.
+
+### Подтверждение grocery-категории + расширение surface-карты (май 2026)
+
+Майско-июньский батч ([[sources/2026-06-01-tg-tinkoffbank-may-26-30-2026]], 26–30 мая 2026) **подтверждает прогноз grocery** из этой же страницы и добавляет ещё два не-fuel surface'а:
+
+| Surface | Кейс (май 2026) | Merchant/продукт | Доступ |
+|---|---|---|---|
+| **«Город» → Супермаркеты** (grocery-delivery) | #10757: «Дикси теперь в Супермаркетах в Городе», кэшбэк **15% за первый заказ** `[conf:high, src:2026-05-28]` | Дикси (FMCG-сеть) | T-Bank app → «Город» → «Супермаркеты» |
+| **«Афиша»** (events/ticketing) | #10749: билеты на фестиваль НУР с кэшбэком **до 20%** `[conf:high, src:2026-05-26]` | Билетные операторы культурных event'ов | T-Bank app → «Афиша» |
+| **T-Mobile** (telecom MVNO) | #10754: тариф **390 ₽/мес** для +7, перенос номера → 50 ГБ + безлимит `[conf:high, src:2026-05-28]` | Собственный telecom-sub-brand (ООО «Т-Моб») | cross-sell через @tinkoffbank |
+
+**Что это уточняет:**
+
+1. **Grocery-прогноз сбылся.** Прежняя формулировка «воспроизводим для любой merchant-категории: grocery, …» подтверждена эмпирически: Дикси встроен в «Город» по той же multi-partner-scaffolding-модели, что и «Топливо» (АЗС). Та же механика «первый заказ → повышенный кэшбэк» как acquisition-хук для новой категории.
+2. **«Афиша» = четвёртый non-banking surface**, привязанный к культурному маркетингу (билеты на спонсируемые банком фестивали — см. [[evolving/content-trends/bank-cultural-institution-cobranding-2026]]). Кэшбэк замыкает культурный touchpoint на транзакцию внутри экосистемы.
+3. **T-Mobile — telecom как sub-brand с собственной лицензией** (ООО «Т-Моб», отдельная от АО «ТБанк» лицензия в дисклеймере креатива). Это **6-й/7-й vertical** в ecosystem-стеке (banking → Time → Селлер → Сделка → Бизнес → Доли → edtech → Путешествия → Город → **telecom**). Подтверждает гипотезу-последовательность «финансовое ядро → adjacent → non-financial-but-life-critical»: telecom = life-critical utility.
+4. **Один consumer-канал @tinkoffbank продаёт всё.** За 5 дней через один канал прошли: культурный event (Афиша), telecom (T-Mobile), grocery-delivery (Дикси/Город), BNPL (Доли). Подтверждает прежнее наблюдение **audience-reuse paradigm** — top-channel как промо-платформа для всех sub-brands/surface'ов, без фрагментации на под-каналы.
+
+Обновлённая surface-карта экосистемы: **banking-core → B2B-tools (Time/Селлер) → escrow (Сделка) → B2B-defensive (Т-Бизнес) → BNPL (Доли) → edtech (Т-Образование) → travel (Т-Путешествия) → «Город» superapp-layer (Топливо + Супермаркеты/Дикси) → Афиша (ticketing) → telecom (T-Mobile)**.
 
 **Ambassador-launch pattern.** «Топливо» продвигается через 35-сек how-to видео с Константином AcademeG (автоблогер, амбассадор Т-Банка) — полный разбор формата в [[evolving/content-trends/ambassador-product-demo-hybrid]] и [[evolving/content-trends/dual-modality-video-text-tutorial]]. Это подтверждает: **каждый новый сервис «Города» получает launch-ambassador из категории**, что делает content-production scalable (auto → AcademeG, cooking → food-creator, travel → travel-creator, ...).
 

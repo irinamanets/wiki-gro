@@ -44,7 +44,7 @@ namespace: mkt
 **Differentiator СОПРАНО:**
 
 1. **Эксплицитные слоты для сравнения и риска.** Большинство западных фреймворков (SPIN/BANT/MEDDIC) не выделяют **«Аналоги»** и **«Нежелательное»** как отдельные категории — они смешиваются в общую discovery. СОПРАНО форсирует продавца их **проговорить вслух** с клиентом.
-2. **Заточенность под RU-SMB-контекст.** RU-SMB клиенты часто **скрывают** ограничения (бюджет, политика) — прямой вопрос «какой у вас бюджет?» работает плохо (см. anti-pattern в [[canon/marketing-frameworks/sales-100-formula-shevelev|формуле 100% закрытия сделки]], карточка 2286). СОПРАНО разводит «Принципы», «Решения» и «Ограничения» в **три разных диалога**, что снижает defensiveness.
+2. **Заточенность под RU-SMB-контекст.** RU-SMB клиенты часто **скрывают** ограничения (бюджет, политика) — прямой вопрос «какой у вас бюджет?» работает плохо (см. anti-pattern в [[canon/marketing-frameworks/sales-100-formula-shevelev|формуле 100% закрытия сделки]], карточка 2286, и отдельную [[canon/marketing-frameworks/budget-question-reframe-shevelev|budget-reframe технику]] — готовую речёвку для слота «О — Ограничения»). СОПРАНО разводит «Принципы», «Решения» и «Ограничения» в **три разных диалога**, что снижает defensiveness.
 3. **Запоминаемая аббревиатура** на русском (опера «СОПРАНО») — критерий запоминаемости для контента и обучения менеджеров, где SPIN/BANT/MEDDIC требуют english-литературы.
 
 ## Application в работе
@@ -82,6 +82,7 @@ namespace: mkt
 - [[canon/marketing-frameworks/sales-100-formula-shevelev]] — главная формула, для которой СОПРАНО — инструмент критерия ОП
 - [[canon/marketing-frameworks/trust-formula-shevelev-echo]] — параллельная декомпозиция критерия Д из той же формулы
 - [[canon/marketing-frameworks/here-and-now-closing-tools-3]] — инструменты критерия ЗС из той же формулы
+- [[canon/marketing-frameworks/budget-question-reframe-shevelev]] — budget-reframe как операционализация слота «О — Ограничения»
 - [[evolving/competitor-positioning/zakryvatel-sdelok-ai-agent]] — productized методология
 - [[evolving/content-trends/sales-ai-narrative-hooks-2026]] — content hooks по этой теме
 - [[canon/target-audience/ru-smb-founder-owner-seller]] — целевой сегмент менеджеров и founder'ов, продающих по СОПРАНО

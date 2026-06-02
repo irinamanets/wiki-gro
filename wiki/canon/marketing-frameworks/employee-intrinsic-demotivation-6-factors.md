@@ -179,4 +179,5 @@ Asymmetry: новичок приходит с positive intrinsic motivation (о�
 - [[canon/marketing-frameworks/ethical-offboarding-client-retention-batyrev]] — этика расставания «виновата система, а не ты» (выход из той же асимметрии демотивации, Батырев)
 - [[canon/marketing-frameworks/gratitude-values-hiring-filter-batyrev]] — ценностный фильтр найма (благодарность как retention-предиктор, Батырев)
 - [[canon/marketing-frameworks/nps-three-tier-customer-and-employee]] — eNPS как измеритель: недовольный сотрудник «расскажет много правды» (вылавливает демотиваторы до оттока)
+- [[canon/marketing-frameworks/quiet-quitting-detection-protocol-krylov]] — тихое увольнение как наблюдаемое последствие демотивации; протокол 1-на-1 для поиска причины (Krylov)
 - [[sources/2026-05-14-condense-e-xecutive-ru-34-articles]]

@@ -164,8 +164,18 @@ Tag-страница содержит promotional-врезки, не относ�
 
 **Сигнал для founder-vocabulary**: dating-сектор как $750M+ tier для RU-эмигранта в global market. Это **бенчмарк consumer-tech масштаба** для founder'ов из РФ, мигрировавших в global. Не применимо для ГРО напрямую (мы B2C, но не dating и не global-only), но **referenece, что в global market RU-team может построить такой объём** (cf. Telegram, Revolut, ClickHouse).
 
+## Update 2026-05-30 — live-наблюдение derivative-cut'ов в потоке Forbes Russia
+
+[[sources/2026-05-30-tg-forbesrussia-may-11-13-2026|Forbes Russia (Telegram, 11–13 мая 2026)]] даёт **прямое наблюдение в новостном потоке** двух derivative-cut'ов обеих франшиз — подтверждает, что задокументированная «multi-edition + derivative» механика работает в production:
+
+- **95816 «Кризис среднего возраста: самые молодые российские миллиардеры»** — demographic sub-cut франшизы 200-богатейших (фильтр «моложе 45», 7 имён из 155). Это ровно та `sub-cut по demographics` («самые молодые»), что зафиксирована в сравнительной таблице выше — теперь подтверждена живым материалом. Two-fer-механика тоже видна: пост-тизер в Telegram + глубинная статья на сайте.
+- **95818 «Дело не в тебе: кто мог бы попасть в рейтинг "30 до 30", если бы не возраст»** — counter-factual derivative-cut sibling-франшизы [[evolving/content-trends/forbes-30-under-30-content-franchise|30 Under 30]]: список тех, кто перерос возрастной ценз. Новый под-формат «alumni за рамкой критерия» — расширяет alumni-pool за счёт near-miss-кандидатов.
+
+**Что добавляет:** оба cut'а укладываются в уже описанные архетипы без новой структуры, но подтверждают `confidence` франшизы как **производного, воспроизводимого паттерна** (не разовых решений). Counter-factual-cut «кто мог бы попасть, если бы не критерий» — переносимый приём для GRO-листиклов (расширение охвата за счёт near-miss-сегмента).
+
 ## Связанные страницы
 
+- [[sources/2026-05-30-tg-forbesrussia-may-11-13-2026]] — live-наблюдение derivative-cut'ов (самые молодые миллиардеры; «30 до 30 если бы не возраст»)
 - [[sources/2026-05-26-forbes-tegi-200-bogateyshih-biznesmenov]] — source-anchor
 - [[evolving/content-trends/forbes-30-under-30-content-franchise]] — sibling Forbes content-franchise архетип (для founder-listicle)
 - [[evolving/content-trends/forbes-russia-native-ad-pattern-2026]] — соседний Forbes-наблюдаемый редакционный паттерн (native-ad, не editorial-asset)

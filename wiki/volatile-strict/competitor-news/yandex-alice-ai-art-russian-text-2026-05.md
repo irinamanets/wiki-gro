@@ -9,8 +9,8 @@ tags: [yandex, alice, ai-art, yandex-ai-studio, image-generation, russian-langua
 confidence: high
 stale: false
 created: 2026-05-26
-updated: 2026-05-26
-sources: [sources/2026-05-26-tg-neuraldvig-may-19-22-2026.md]
+updated: 2026-06-01  # +vcnews 18-20 мая: второй source-attestation (vc.ru/ai/2937230, 61440) + визуальное «было/стало» демо из media 61440/61441 (гусь с табличкой: искажённый → корректный русский текст)
+sources: [sources/2026-05-26-tg-neuraldvig-may-19-22-2026.md, sources/2026-06-01-tg-vcnews-may-18-20-2026.md]
 namespace: mkt
 ---
 
@@ -77,8 +77,21 @@ Recraft (которая через 4-й срез neuraldvig анонсирова
 
 3. **Yandex AI Studio как multi-model platform** — это сигнал для GRO о том, что **multi-model orchestration** становится стандартом enterprise-AI-stack'а. См. также [[canon/marketing-frameworks/ai-skills-vs-prompts-architecture]] — skills>prompts architecture естественно ложится на multi-model platforms.
 
+## Второй source-attestation — vc.ru + визуальное «было/стало» демо (61440/61441)
+
+[[sources/2026-06-01-tg-vcnews-may-18-20-2026|@vcnews 18–20 мая]] (пост 61440, vc.ru/ai/2937230) независимо фиксирует тот же апдейт `[conf:high, src:2026-05-19]`: «Алиса AI теперь лучше справляется с генерацией русскоязычных надписей на картинках: выдаёт меньше ошибок и нечитаемых букв; для обучения собрали отдельный датасет с размеченным на картинках текстом».
+
+**Визуальное доказательство (media 61440 «было» / 61441 «стало»):** наглядное демо на одной сцене (гусь держит табличку):
+- **Было:** искажённый русский текст «Здесь мажт ппитоомнок вода» (нечитаемые буквы, ошибки).
+- **Стало:** корректный текст «Здесь ваш питомец может попить воды».
+
+Это **визуальный anchor** для контента: до/после-сравнение убедительнее любых заявлений о качестве. Готовый референс для поста GRO про прогресс RU-моделей в генерации текста на картинках. `[conf:high, src:2026-05-19]`
+
+**Что добавляет вторая фиксация:** не новые факты (Image Generation Tool / DeepSeek V3.2 vc.ru не упоминает), а mainstream-подтверждение основного апдейта + конкретное визуальное демо качества.
+
 ## Connections
 
+- [[sources/2026-06-01-tg-vcnews-may-18-20-2026]] — второй source-attestation + «было/стало» демо (vc.ru, посты 61440/61441)
 - [[evolving/industry-trends/ru-ai-aggregator-platforms-2026]] — RU AI-platform landscape (MWS GPT, Yandex AI Studio)
 - [[evolving/industry-trends/ru-ai-national-strategy-2026]] — нацстратегия AI РФ
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — макро-гонка

@@ -9,7 +9,7 @@ tags: [funnel, conversion, copywriting, landing-page, user-psychology, positioni
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-18  # +cross-link на creative-to-conversion (чёткость CTA + outcome-фокус)
+updated: 2026-05-30  # +cross-link на 8-marketing-laws (пост 638, правила 5-6 = заголовок 80% + простая воронка). Prior: +creative-to-conversion
 sources: [sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026.md, sources/2026-05-18-pressfeed-creative-to-conversion-campaign.md]
 namespace: mkt
 ---
@@ -76,11 +76,13 @@ Reusable маркетинговый фреймворк: **чем проще во
 - **[[canon/positioning/gro-value-proposition]]** — правило 2 прямо применимо к текущему value proposition.
 - **[[evolving/content-trends/ai-solopreneur-narrative-hooks]]** и **[[evolving/content-trends/tabunov-founder-growth-hooks]]** — переиспользуемые формулировки на основе этого фреймворка.
 - **[[canon/product-knowledge/gro-web-app]]** — веб-регистрация GRO требует phone/email + OTP + 3 consent. Это потенциальный конфликт с правилом 1: каждый consent — лишний клик, каждое поле — потеря конверсии. Проверять на реальных funnel-метриках.
+- **[[canon/marketing-frameworks/abstraction-conversion-inverse-petrochenkov]]** — комплементарный принцип снижения трения: простота воронки убирает **лишние шаги**, снижение абстракции убирает **когнитивную нагрузку «достроить картинку»**. Обе оси работают на одно — меньше усилий от пользователя → выше конверсия.
 
 ## Связанные страницы
 - [[canon/marketing-frameworks/retention-benchmarks-b2c]]
 - [[canon/positioning/gro-value-proposition]]
 - [[canon/product-knowledge/gro-web-app]]
+- [[canon/marketing-frameworks/eight-marketing-laws-pet-project-tabunov]] — правила 5-6 (заголовок 80% + простая воронка) = ядро этого фреймворка
 - [[sources/2026-04-14-tg-bossofyourboss-dec2025-apr2026]]
 
 ## Backlinks

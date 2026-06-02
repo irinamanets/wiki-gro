@@ -9,8 +9,8 @@ tags: [content, post, awareness, consideration, career, osint, digital-footprint
 confidence: medium
 stale: false
 created: 2026-05-19
-updated: 2026-05-19
-sources: [sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md]
+updated: 2026-05-30  # +смежный фрейм «резюме читает машина» из @gro_me 395 (ATS-оптимизация = ещё один слой цифровой видимости)
+sources: [sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md, sources/2026-05-30-tg-gro-me-395-398.md]
 namespace: mkt
 ---
 
@@ -70,9 +70,15 @@ GRO — про системное усиление навыков и репут�
 
 **Anti-pattern:** не позиционировать GRO рядом со «слежкой за людьми»; угол строго со стороны защиты соискателя.
 
+## Смежный слой видимости — «резюме читает машина» (GRO 395)
+
+Цифровой след (этот набор хуков) и **машинная читаемость самого резюме** — два слоя одной проблемы «как кандидата видят до живого человека». Колонка GRO (@gro_me 395, 27 мая 2026, см. [[sources/2026-05-30-tg-gro-me-395-398]]) фиксирует второй слой: на первом этапе резюме читает ATS, и опыт «не попадает в выборку», если описан абстракциями, а не структурированными техническими маркерами. Hook D («портфолио выдаёт NDA») и шаг 4 из ATS-фрейма («согласуй цифровой след: GitHub/LinkedIn/портфолио/резюме») — буквально одна и та же рекомендация с двух сторон. Полный разбор — [[canon/marketing-frameworks/ats-readable-resume-optimization-2026]]. Подача та же: «возьми контроль над тем, как тебя читают», не «обмани систему».
+
 ## Связанные страницы
 
 - [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]] — первоисточник (Мул, Work Solutions)
+- [[sources/2026-05-30-tg-gro-me-395-398]] — смежный фрейм ATS-видимости (GRO 395)
+- [[canon/marketing-frameworks/ats-readable-resume-optimization-2026]] — резюме как интерфейс с системой отбора
 - [[evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026]] — тренд-страница (количественно-качественная база)
 - [[canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul]] — фрейм soft-skills как дисциплины
 - [[evolving/content-trends/career-audience-hooks-2026]] — родственный набор карьерных хуков

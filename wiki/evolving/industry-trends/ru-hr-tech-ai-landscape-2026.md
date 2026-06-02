@@ -9,8 +9,9 @@ tags: [hr-tech, ats, ai, russia, competitor-landscape, saas, b2b-marketing]
 confidence: low
 stale: false
 created: 2026-04-15
-updated: 2026-05-26  # +5-й батч vc.ru/hr: КЭДО enterprise-вертикаль вынесена в отдельную страницу; Talantix/Naimee новые цены 28K/99-145₽; международные с пометкой Workable/SeekOut/HireVue/Zoho; complementary-stack как новый Garmony нарратив
-sources: [sources/2026-04-14-vcru-garmony-top10-hr-ai-advertorial.md, sources/2026-04-14-vcru-garmony-ii-instrumenty-hr-advertorial.md, sources/2026-05-14-tg-rff-channel-may-2026.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md, sources/2026-05-26-condense-vcru-hr-50-articles.md]
+updated: 2026-06-01  # +6-й батч vc.ru/hr: главный сдвиг хайп→прагматика (форум «Персонал Экспо», buyer-side зрелость, ROI-привязка), следующий форум Москва 8-9 сен 2026
+prev_updated: 2026-05-26  # +5-й батч vc.ru/hr: КЭДО enterprise-вертикаль вынесена в отдельную страницу; Talantix/Naimee новые цены 28K/99-145₽; международные с пометкой Workable/SeekOut/HireVue/Zoho; complementary-stack как новый Garmony нарратив
+sources: [sources/2026-04-14-vcru-garmony-top10-hr-ai-advertorial.md, sources/2026-04-14-vcru-garmony-ii-instrumenty-hr-advertorial.md, sources/2026-05-14-tg-rff-channel-may-2026.md, sources/2026-05-24-vcru-hr-condensed-30-articles.md, sources/2026-05-26-condense-vcru-hr-50-articles.md, sources/2026-06-01-condense-vcru-hr-51-articles.md]
 namespace: mkt
 ---
 
@@ -170,8 +171,23 @@ namespace: mkt
 - Конкретные цены SMB-сегмента (Huntflow, Potok, Talantix) — могут быть устаревшими или неточными.
 - Позиционирование Potok как «YandexGPT-обёртки» — advertorial может недооценивать их фактический AI-стек.
 
+## Главный сдвиг 2026: от хайпа к прагматичной интеграции (форум «Персонал Экспо», 6-й батч)
+
+Из [[sources/2026-06-01-condense-vcru-hr-51-articles|6-го батча vc.ru/hr]] — качественный мета-сигнал по всей категории с форума **«Персонал Экспо» (СПб)**: 2500 участников, 80+ спикеров, **100+ HR-tech провайдеров** `[conf:medium, src:2026-05-30]`. Ключевой вывод форума:
+
+- **Переход от обсуждения ИИ как инновации к прагматичной интеграции.** Главный запрос бизнеса — «вдумчивая оптимизация» в условиях экономической нестабильности, а не технологическая гонка. `[conf:medium, src:2026-05-30]`
+- **Кейсы внедрения** от «Газпром Нефти», X5, «Ленты», «ДОДО Пиццы» — от первичного скрининга до анализа вовлечённости; успешные внедрения требуют **привязки к бизнес-целям**, не гонки за технологией. `[conf:medium, src:2026-05-30]`
+- Растёт интерес к **юнит-экономике для HR**, внутренней мобильности и перераспределению талантов вместо внешнего найма. `[conf:medium, src:2026-05-30]`
+- Формат «**HR-Закулисье**» (открытый рассказ о провалах) вызвал высокий отклик — рынок ценит прозрачные кейсы с ошибками больше «успешного успеха». `[conf:medium, src:2026-05-30]`
+- Следующий форум — **Москва, 8-9 сентября 2026** `[conf:high, src:2026-05-30]`.
+
+**Структурный смысл для категории:** это **спрос-сторона** к vendor-нарративам выше. Если 5-й батч показывал vendor-saturation (≥22 advertorial), то форум показывает **buyer-side зрелость**: рынок наигрался в «AI как инновация» и хочет ROI-привязанную интеграцию. Это **bullish для прагматичных вендоров** (привязка к бизнес-целям, измеримый cost-per-hire) и **bearish для чистого AI-хайпа** — согласуется с Gartner «80% не получили ROI» (см. [[evolving/industry-trends/ai-replacing-jobs-global-2026]]).
+
 ## Связанные страницы
 
+- [[sources/2026-06-01-condense-vcru-hr-51-articles]] — 6-й батч vc.ru/hr: форум «Персонал Экспо», хайп→прагматика, «AI = маркетинговый базис»
+- [[evolving/industry-trends/ai-employee-surveillance-trend-2026]] — AI-надзор за сотрудниками (расширение категории ниже recruiting)
+- [[evolving-strict/campaign-metrics/ru-recruiting-funnel-benchmarks-2026]] — funnel-бенчмарки (vendor-источник тех же чисел)
 - [[sources/2026-04-14-vcru-garmony-top10-hr-ai-advertorial]] — первый advertorial-источник
 - [[sources/2026-04-14-vcru-garmony-ii-instrumenty-hr-advertorial]] — второй advertorial-источник того же промотёра (подтверждает устойчивость цен и playbook)
 - [[evolving/content-trends/vcru-top10-advertorial-pattern-2026]] — жанровый разбор источника

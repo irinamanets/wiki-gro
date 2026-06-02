@@ -9,8 +9,8 @@ tags: [creative, video, ai, tools, seedance, runway, higgsfield, veo3, sora, kli
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +@solokumi пост 419 (Кумар Виас, 2026-05-22) — маркетинговый ракурс Gemini Omni: reuse-first vs generate-first, 5 use-case промптов + prompt-формула. Operational playbook: [[evolving/content-trends/gemini-omni-marketer-playbook-2026]]. Prior: +cgevent дамп 19-25 мая (Seedance 2.0 Mini upcoming, Seedance 2.1 анонс, Runway Aleph 2, Gemini Omni Flash pricing, Rodin 2.5, ByteDance vCube, CapCut × Gemini)
-sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md, sources/2026-05-26-tg-cgevent-may19-25-2026.md, sources/2026-05-26-tg-solokumi-may-20-22-2026.md]
+updated: 2026-05-30  # +cgevent дамп 25-29 мая: Microsoft Lens (опенсорс image, FLUX.2 VAE), Bonsai Image 4B (1-бит FLUX.2 Klein, браузер/телефон), ElevenLabs Music V2 (inpainting+API), Stream Diffusion music DEMON (реалтайм ACEStep), FLUX Virtual Try-On ($0.0375/1024), Nano Banana GA + video-2-image, Gemini Omni перевод/липсинк/домонтаж длины, Seedance 16fps-разоблачение. Prior — +@solokumi пост 419 (Кумар Виас, 2026-05-22) — маркетинговый ракурс Gemini Omni: reuse-first vs generate-first, 5 use-case промптов + prompt-формула. Operational playbook: [[evolving/content-trends/gemini-omni-marketer-playbook-2026]]. Prior: +cgevent дамп 19-25 мая (Seedance 2.0 Mini upcoming, Seedance 2.1 анонс, Runway Aleph 2, Gemini Omni Flash pricing, Rodin 2.5, ByteDance vCube, CapCut × Gemini)
+sources: [sources/2026-04-14-tg-solokumi-nov2025-apr2026.md, sources/2026-05-05-tg-neuraldvig-apr-29-may-5-2026.md, sources/2026-05-14-tg-cgevent-may05-08-2026.md, sources/2026-05-19-pressfeed-ai-tools-for-online-courses-15.md, sources/2026-05-19-tg-cgevent-may08-19-2026.md, sources/2026-05-26-tg-cgevent-may19-25-2026.md, sources/2026-05-26-tg-solokumi-may-20-22-2026.md, sources/2026-05-30-tg-cgevent-may-25-29-2026.md]
 namespace: mkt
 ---
 
@@ -257,6 +257,61 @@ ByteDance дробит линейку под разные tier'ы цены/ка�
 - **Стоимость в Higgsfield:** ~6 кредитов / видео (дешёвая)
 - **Суперсила:** хорошо держит **лицо персонажа** при статичных сценах
 - **Когда брать:** персонажи почти не двигаются, движения минимальны. Для экономии кредитов на «говорящей голове»-жанре
+
+## Новые инструменты — дамп @cgevent 25–29 мая 2026
+
+### Microsoft Lens (опенсорс image-генератор, с кодом)
+
+- **Релиз:** Microsoft, выложены веса + код + ComfyUI-сборка `[conf:medium, src:2026-05-26]`
+- **Архитектура:** Lens-800M base, 3.8B DiT с 48-block MMDiT, FLUX.2 VAE, TE ~GPT-OSS 20B, base resolution 1440×1440; Lens-Turbo (4 step) / Lens-Base (50 step CFG) `[conf:medium, src:2026-05-26]`
+- **Плюс:** быстрая, опенсорс, почти без цензуры. **Минус:** «сыпется на людях», слабая анатомия; хороша на абстракции/концептах/паттернах
+- **Когда брать:** абстрактные фоны, паттерны, концепты для SMM-креативов; не для UGC с лицами
+- **Подробно:** [[volatile-strict/competitor-news/microsoft-lens-image-model-2026-05]]
+
+### Bonsai Image 4B (1-битная квантизация FLUX.2 Klein)
+
+- **Стартап:** PrismML (экстремальное сжатие), репост @ai_newz `[conf:medium, src:2026-05-27]`
+- **Размер:** DiT 930 МБ (1-бит) / 1.2 ГБ (тернар); весь комплект ~3.5 ГБ (TE ужать не удалось) `[conf:medium, src:2026-05-27]`
+- **Запуск:** в браузере и на телефонах ([iOS app Bonsai Studio](https://apps.apple.com/us/app/bonsai-studio-by-prismml/id6767042620)) на 2 ГБ RAM; **512×512 за 9.4 сек на iPhone 17 Pro Max (4 шага)** `[conf:medium, src:2026-05-27]`
+- **Когда брать:** локальная on-device генерация без сервера; сигнал тренда квантизации (см. [[evolving/industry-trends/on-device-ai-quantization-2026]])
+
+### ElevenLabs Music V2
+
+- **Фичи:** inpainting (перегенерить выбранную часть трека), быстрые смены стиля внутри одного трека, немузыкальные шумовые эффекты `[conf:medium, src:2026-05-27]`
+- **Главное:** обещан **API** (чего нет у SUNO) `[conf:medium, src:2026-05-27]`
+- **Когда брать:** музыка с точечной правкой части трека + программная интеграция через API
+
+### Stream Diffusion для музыки (DEMON)
+
+- **Что это:** реалтаймовый генератор музыки как отдельный инструмент/трек с привязкой к **хардверным крутилкам** `[conf:medium, src:2026-05-28]`
+- **Под капотом:** опенсорс ACEStep1.5, локально на 30/40/5090; крутилки пульта влияют на параметры генерации (играть как на инструменте) `[conf:medium, src:2026-05-28]`
+- **Демо:** [music.daydream.live](https://music.daydream.live/), [daydreamlive.github.io/DEMON](https://daydreamlive.github.io/DEMON/)
+
+### FLUX Virtual Try-On (Black Forest Lab)
+
+- **Что это:** виртуальная примерочная по API, на основе **Flux.2 Pro** `[conf:high, src:2026-05-29]`
+- **Цена:** **$0.0375 за 1024×1024** (например на FAL) `[conf:high, src:2026-05-29]`
+- **Caveat @cgevent:** Google-примерочная есть полгода, Nano Banana «уделывает Флюкс» в этом качестве — Black Forest «тормозят» (выпускают стартаперские продукты вместо FLUX.3)
+- **Когда брать:** e-commerce try-on по API; но сравнить с Google Shopping try-on и Nano Banana
+
+### Nano Banana — GA по API + video-2-image
+
+- **GA:** Nano Banana 2 (Gemini 3.1 Flash Image) и Nano Banana Pro (Gemini 3 Pro Image) — generally available по API через Gemini Enterprise Agent Platform `[conf:high, src:2026-05-29]`
+- **Новая фича:** принимает **видео на вход**, понимает его → генерит картинки на основе понимания (презентации, иллюстрации, обучающие слайды; аниме-комиксы из видео) — термин **video-2-image** `[conf:medium, src:2026-05-29]`
+- **Промпт:** `create a comic strip from this video` / faithful anime adaptation из конкретных шотов
+- **Когда брать:** перепаковка видео в статичные слайды/комиксы/иллюстрации; раскадровки
+
+### Gemini Omni — перевод, липсинк, дубляж (обновление)
+
+- **Новое (15761):** Omni переводит аудио **без указания исходного/целевого текста**: попадает в губы для нового языка, сохраняет фоновую музыку, при необходимости **корректирует длину ролика** (домонтирует пару секунд под длинную фразу) `[conf:medium, src:2026-05-26]`
+- **Промпт-гайд от Google (15769), 4 правила:** (1) используйте знания реального мира (не переописывайте), (2) контроль рендера текста (типографика, анимация, двойная экспозиция), (3) управляйте камерой (операторские термины), (4) монтаж/композ — точечные правки без переписывания сценария
+- Дополняет существующий блок Gemini Omni Flash выше. **Маркетинговый вывод:** автодубляж в губы без скрипта = локализация видео-контента под аудитории без пересъёмки и без ручного перевода
+
+### Seedance 2.0 — «16fps?» (разоблачение fps)
+
+- **Наблюдение (15763, статья TomLikesRobots):** заявленные 24fps Seedance — на самом деле **16fps, разогнанные до 24 дублированием каждого второго кадра** `[conf:low, src:2026-05-26]`
+- **Эффект:** stutter («заикание/залипание») на стыках клипов; автор даёт инструменты для проверки
+- **Импликация:** при склейке клипов Seedance возможны артефакты на стыках; учитывать в постпродакшене (апскейл/интерполяция через [[volatile-strict/competitor-news/bytedance-vcube-video-upscaler-2026-05|vCube]] или Topaz)
 
 ## Сводная таблица
 

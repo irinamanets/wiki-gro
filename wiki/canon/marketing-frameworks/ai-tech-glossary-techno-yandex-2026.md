@@ -9,8 +9,8 @@ tags: [ai, glossary, terminology, content, marketing-frameworks, ru-market]
 confidence: high
 stale: false
 created: 2026-05-14
-updated: 2026-05-14
-sources: [sources/2026-05-14-tg-techno-yandex-may-6-13-2026.md]
+updated: 2026-05-30
+sources: [sources/2026-05-14-tg-techno-yandex-may-6-13-2026.md, sources/2026-05-30-tg-techno-yandex-may-26-30-2026.md]
 namespace: mkt
 ---
 
@@ -71,6 +71,16 @@ namespace: mkt
 - **«Запустили в мобильном» / «работает локально».** Если GRO упоминает on-device или edge-инференс, дистилляция — это техническая база, на которой можно строить story «full-power AI на твоём телефоне».
 - **Бюджет-нарратив.** Дистилляция = ниже стоимость на ответ → ниже цена для конечного пользователя. Если GRO будет растягивать pricing в сторону дешёвых tier'ов — дистилляция оправдывает экономику.
 
+## 6. DeepTech (добавлено из Технословаря 2026-05-29)
+
+**Определение Yandex (2026-05-29):** тип стартапов с упором на развитие научных открытий или инженерных прорывов, а не на быструю окупаемость. Термин ввела Свати Чатурведи в 2014; в 2020-е фокус категории сместился на ИИ.
+
+**Marketing-углы:**
+
+- **«Глубина» как trust-сигнал в B2B/инвест-коммуникации** — но для SMB-аудитории «долго, без быстрой прибыли» = анти-сигнал. Использовать выборочно.
+- **AI поглотил DeepTech-нарратив** — отдельно продавать «deeptech» размыто; эффективнее «AI-first» (shared vocab аудитории).
+- Полный рыночный разбор категории и российский контекст (Yandex AI Startup Lab, Gradius) — в [[evolving/industry-trends/deeptech-vc-category-2026]].
+
 ## Что НЕ входит в этот глоссарий
 
 Yandex-выпуск 2026-05-06 закрыл 5 фундаментальных терминов LLM-стека. На обложке (`tg_techno_yandex_5208.jpg`) дополнительно вынесены **диффузия** и **элайнмент** — но в тексте 5208 они не раскрыты, остаются carry-over из других выпусков серии. Когда GRO-маркетинг использует эти термины, отдельные определения брать из других источников (academic/Anthropic/HuggingFace).
@@ -88,4 +98,6 @@ Yandex-выпуск 2026-05-06 закрыл 5 фундаментальных т�
 - [[canon/marketing-frameworks/anthropic-constitutional-reasoning-paper-2026]] — про alignment / согласование через конституционный AI
 - [[evolving/content-trends/techno-yandex-explainer-rubric-format]] — pattern Yandex-научпоп-формата как exemplar
 - [[evolving/content-trends/ai-solopreneur-narrative-hooks]] — где упоминать эти термины в GRO-постах
-- [[sources/2026-05-14-tg-techno-yandex-may-6-13-2026]] — источник
+- [[evolving/industry-trends/deeptech-vc-category-2026]] — DeepTech как VC-категория (термин 6)
+- [[sources/2026-05-14-tg-techno-yandex-may-6-13-2026]] — источник (термины 1–5)
+- [[sources/2026-05-30-tg-techno-yandex-may-26-30-2026]] — источник (термин 6, DeepTech)

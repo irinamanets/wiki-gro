@@ -9,8 +9,9 @@ tags: [skills, hiring, hr, education, industry-trends, labor-market]
 confidence: high
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +навыки-комбинации как новая норма работодателя (vc.ru/hr колонка для «Коммерсанта»): «не профессия вообще, а набор навыков под задачу»; prior: +OSINT/цифровой след как следующий слой верификации навыков (Мул) + culture-fit > навыки cross-ref
-sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md]
+updated: 2026-05-30  # +собственный career-контент hh.ru (поиск по навыкам не должностям, ATS-aware resume-advice) из дампа @hh_ru_official 26-28 мая
+prev_updated: 2026-05-19  # +навыки-комбинации как новая норма работодателя (vc.ru/hr колонка для «Коммерсанта»): «не профессия вообще, а набор навыков под задачу»; prior: +OSINT/цифровой след как следующий слой верификации навыков (Мул) + culture-fit > навыки cross-ref
+sources: [sources/2026-04-16-condense-hh-ru-blog-43.md, sources/2026-05-05-hh-ru-condensed.md, sources/2026-05-14-condense-hh-ru-12-articles.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-30-tg-hh-ru-official-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -67,6 +68,15 @@ Premium падает с ростом массовости навыка — эт�
 **Карьерная проекция (candidate-side).** Та же колонка переворачивает это в стратегию роста соискателя: кардинальная смена профессии нужна реже, чем кажется — чаще работает **усложнение роли** надстройкой смежных навыков на ядро экспертизы (поддержка → управление процессом, специалист → +продуктовое мышление). Content-применение — Hook 39 в [[evolving/content-trends/career-audience-hooks-2026]]; макро-контекст разворота рынка — [[evolving/industry-trends/ru-labor-market-employer-turn-2026]].
 
 **Значение для GRO:** усиливает прямой alignment продукта (тренирует навыки, не выдаёт диплом). Если работодатель собирает роль из комбинаций, то ежедневная системная тренировка **набора** навыков (а не получение одного сертификата) попадает точно в demand-логику рынка. Content-hook: «работодатель ищет не профессию, а комбинацию навыков под задачу — GRO тренирует именно набор, каждый день».
+
+## Навыкоцентричность в собственном контенте hh.ru (дамп @hh_ru_official, 26–28 мая 2026)
+
+Официальный канал hh.ru операционализирует навыкоцентричность в **утилитарном career-контенте** ([[sources/2026-05-30-tg-hh-ru-official-may-26-29-2026|посты 4901, 4898]]):
+
+- **«Ищите по навыкам, а не по должностям»** (пост 4901, 2026-05-28) — прямая инструкция соискателю: расширенный поиск hh.ru по ключевому навыку с фильтром «В описании вакансии», потому что «названия позиций не всегда точно отражают содержание работы». Это **candidate-side проявление** навыкоцентричности: платформа учит искать работу по навыку, а не по тайтлу — зеркало demand-side тренда «работодатель собирает роль из навыков» (см. раздел про навыки-комбинации выше).
+- **ATS-aware resume-advice** (пост 4898 / прожарка Сетки, 2026-05-26) — «резюме должно быть понятным не только рекрутеру, но и алгоритмам на первом этапе отбора»; автоматизированные системы смотрят на структуру, ключевые слова, конкретику в описании задач и результатов. Привычные правила («сократить до 1 страницы», «оставить только важное») «не всегда работают сами по себе». Усиливает связку навыкоцентричность × resume-SEO (см. наблюдение Гусевой про SEO-слой резюме в [[evolving/competitor-positioning/hh-ru-hrtech-platform]]).
+
+**Значение для GRO:** hh.ru сам обучает аудиторию мыслить навыками (а не должностями/дипломами) — это бесплатный market-education, делающий product-narrative GRO («тренируй навыки, а не собирай корочки») всё более intuitive для ЦА. Content-hook: «hh.ru сам советует искать работу по навыкам — а GRO даёт ежедневную тренировку именно навыков».
 
 ## Голоса экспертов
 
@@ -141,6 +151,7 @@ hh.ru выявил 6 крупных мета-трендов рынка труд�
 - [[sources/2026-05-19-tg-recruiter-live-may-18-19-2026]] — candidate-side проявление: «единая карьерная история» + resume-SEO ранжирование HH (Гусева LinkedIn, 2026-05-18)
 - [[sources/2026-05-19-dzen-delovoymir-mul-digital-footprint-hiring]] — OSINT/цифровой след + culture-fit > навыки (Мул, Work Solutions)
 - [[sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026]] — навыки-комбинации как новая норма работодателя («не профессия вообще, а набор навыков под задачу»)
+- [[sources/2026-05-30-tg-hh-ru-official-may-26-29-2026]] — собственный career-контент hh.ru: поиск по навыкам не должностям + ATS-aware resume-advice
 - [[evolving/industry-trends/ru-labor-market-employer-turn-2026]] — макротренд разворота, где навыки-комбинации = часть demand-логики работодателя
 - [[evolving/industry-trends/candidate-osint-digital-footprint-hiring-2026]] — OSINT-проверка как следующий слой верификации навыков
 - [[canon/marketing-frameworks/zero-fuckups-antipatterns-culture-mul]] — culture-fit через антипаттерны + soft-skills как дисциплина

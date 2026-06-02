@@ -9,8 +9,8 @@ tags: [blue-collar, ai-resilience, labor-market, nvidia, jensen-huang, trade-job
 confidence: medium
 stale: false
 created: 2026-05-14
-updated: 2026-05-28  # +Гуринович (Forbes 30u30, CarPrice) как 4-й RU-anchor: TASS-якорь Москвы (электрогазосварщик 585 тыс ₽/вахта) + qualitative-наблюдение «в МО очередь на нормального электрика» — первый RU-public-numerical anchor под тезис resilience
-sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-19-tg-gro-me-379-389.md, sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026.md]
+updated: 2026-05-30  # +Петроченков (Convert Monster): RU зарплатный спред рабочие↔маркетинг + 63% выпускников 9-х в техникумы (рост на треть) + AI-надбавка ×2 — 5-й RU-anchor (casual-numeric, confidence low)
+sources: [sources/2026-05-14-tg-breakingtrends-may05-14.md, sources/2026-05-19-tg-gro-me-379-389.md, sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026.md, sources/2026-05-30-tg-petrochenkow-20260530-112533.md]
 namespace: mkt
 ---
 
@@ -107,6 +107,27 @@ Cantor / Goldman / McKinsey-style анализ AI-resilience в blue-collar:
 
 **Гуриновичева demarcation** (важная нюанс): «творческие/абстрактные ремонтные работы» нельзя автоматизировать; «типовая отделка, возведение стен» — можно. Это согласуется со Спиридоновским sorting-test'ом [[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]] и **уточняет**, что blue-collar resilience применима не равномерно ко всем trades, а к **fragmented частям** trades. См. [[canon/marketing-frameworks/blue-collar-platform-startup-thesis-gurinovich|Гуриновичев founder-thesis]] про construction-platform-startup.
 
+### Сигнал from Петроченков (Convert Monster) — RU зарплатный спред + образовательный сдвиг
+
+[[sources/2026-05-30-tg-petrochenkow-20260530-112533|@petrochenkow пост 1308]] (2026-05-28) приводит casual-статистику зарплат, прямо иллюстрирующую тезис resilience через RU-зарплатный спред «руки vs офис»:
+
+| Профессия | Зарплата (₽/мес) | Категория | Source |
+|---|---|---|---|
+| Бурильщик | 265 000 | blue-collar | `[conf:low, src:2026-05-28]` |
+| Сварщик | 237 000 | blue-collar | `[conf:low, src:2026-05-28]` |
+| Электромеханик | 170 000 | blue-collar | `[conf:low, src:2026-05-28]` |
+| Маркетолог | 115 000 | white-collar | `[conf:low, src:2026-05-28]` |
+| SMM-специалист | 86 000 | white-collar | `[conf:low, src:2026-05-28]` |
+| Копирайтер | 73 000 | white-collar | `[conf:low, src:2026-05-28]` |
+
+Спред внутри пар «руки vs офис» — кратный: бурильщик зарабатывает ~2,3× маркетолога; сварщик ~2,75× SMM; электромеханик ~2,3× копирайтера `[conf:low, src:2026-05-28]`. Это RU-проекция тезиса Хуанга на уровне конкретных зарплат — но **casual-числа из TG-поста без атрибуции первоисточника** → `confidence: low`, использовать только как иллюстрацию направления, не как бенчмарк.
+
+**Образовательный сдвиг как leading-индикатор:** 63% выпускников 9-х классов поступают в техникумы (ранее 42–48% — «рост на треть») `[conf:low, src:2026-05-28]`. Петроченков трактует это как реакцию молодёжи на наступление AI — выбор AI-resilient рабочих траекторий. Это редкий **поведенческий** (а не зарплатный) anchor под тезис resilience.
+
+**AI-надбавка (нюанс к sorting-test):** Петроченков отмечает, что добавление «AI» к профессии удваивает зарплату — AI-инженер 220 000 ₽, промпт-инженер 320 000 ₽, AI Product Manager 400 000 ₽+ `[conf:low, src:2026-05-28]`. Это уточняет картину: resilient не только blue-collar, но и **AI-augmented white-collar** — две точки на одной оси Спиридоновского fragmented-vs-modular test'а ([[canon/marketing-frameworks/ai-amplifier-fragmented-vs-modular-jobs]]). Под ударом — modular middle-skill офисный труд между этими полюсами. Резонирует с [[evolving/industry-trends/ai-tax-labor-erosion-2026|эрозией middle-skill труда]].
+
+**Differentiation от предыдущих RU-anchor'ов:** Гуринович дал TASS-public-якорь (одна позиция, верифицируемый скриншот); Петроченков даёт **спред-таблицу** (6 профессий, две категории) — шире по охвату, но слабее по верифицируемости (casual TG-числа). Триангуляция: external authority (Хуанг) + local owner-observer (Гуринович) + practitioner-маркетолог со спред-наблюдением (Петроченков).
+
 ## Маркетинговое значение для GRO
 
 ### GRO уже операционализировал тренд в собственном контенте (15 мая 2026)
@@ -161,6 +182,8 @@ Cantor / Goldman / McKinsey-style анализ AI-resilience в blue-collar:
 - [[sources/2026-05-14-tg-breakingtrends-may05-14]] — первоисточник пересказа Хуанга
 - [[sources/2026-05-19-tg-gro-me-379-389]] — кейс операционализации тренда в контенте GRO
 - [[sources/2026-05-26-tg-gurinovich-shares-may-23-26-2026]] — RU-anchor Гуриновича (пост 920) + TASS public numerical anchor (Москва, 585 тыс ₽)
+- [[sources/2026-05-30-tg-petrochenkow-20260530-112533]] — RU-anchor Петроченкова (пост 1308): зарплатный спред + 63% в техникумы + AI-надбавка
+- [[evolving/industry-trends/ai-tax-labor-erosion-2026]] — эрозия middle-skill труда (зеркало blue-collar resilience)
 - [[evolving-strict/market-data/ru-skilled-trades-wages-moscow-2026]] — TASS-anchor расширенно (numerical)
 - [[canon/marketing-frameworks/blue-collar-platform-startup-thesis-gurinovich]] — Гуриновичев founder-thesis про construction-platform-startup
 

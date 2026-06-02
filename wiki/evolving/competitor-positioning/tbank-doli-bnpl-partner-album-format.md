@@ -9,8 +9,8 @@ tags: [competitor, t-bank, doli, bnpl, creative-template, partnerships, album-fo
 confidence: high
 stale: false
 created: 2026-04-17
-updated: 2026-04-17
-sources: [sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md]
+updated: 2026-06-01
+sources: [sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album.md, sources/2026-06-01-tg-tinkoffbank-may-26-30-2026.md]
 namespace: mkt
 ---
 
@@ -92,7 +92,7 @@ Base-case: [[sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album]] — TG
 ## Ограничения шаблона
 
 - **Требует 3+ партнёров за cycle** для оправдания cover-креатива. С 1–2 партнёрами — выгоднее single-launch (типа T-Premium × GAC).
-- **Требует category-homogeneity партнёров.** Нельзя смешать fashion-бренд и electronics в одном album'е — читатель теряет контекст. Это может быть лимитирующий фактор для малых BNPL/PSP с малым количеством партнёров одной вертикали.
+- ~~**Требует category-homogeneity партнёров.** Нельзя смешать fashion-бренд и electronics в одном album'е — читатель теряет контекст.~~ <!-- superseded 2026-06-01 by [[sources/2026-06-01-tg-tinkoffbank-may-26-30-2026]] : майский album смешал мебель/электронику/гардероб/спорт в одном альбоме — homogeneity нужна по occasion/сезону, не по категории товара --> **Уточнено (2026-06-01):** требуется homogeneity не по категории товара, а по **поводу/сезону** (объединяющая occasion-рамка). Майский album смешал 5 разных категорий под рамкой «лето: гардероб и дом» без потери контекста.
 - **Seasonal frame требует reset каждый сезон.** Frame «к весне» перестаёт работать к июню. Нужно **календарь партнёрских cycle'ов**, привязанный к fashion/retail seasonality.
 - **Price-split UI работает только при BNPL/installment-offer'е.** Для cash-discount или loyalty-rewards — не применимо (UI будет misleading).
 
@@ -101,12 +101,27 @@ Base-case: [[sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album]] — TG
 | Дата | Партнёры | Категория | Источник | Сезон |
 |---|---|---|---|---|
 | 2026-04 (spring) | Randewoo, Poison Drop, Nikifilini, Ushatava, Maneken Brand | Fashion & Beauty | [[sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album]] | Spring 2026 |
+| 2026-05 (summer) | divan.ru, Технопарк, zolla, 12 Storeez, Спортмастер | **Mixed: мебель + электроника + гардероб + спорт** | [[sources/2026-06-01-tg-tinkoffbank-may-26-30-2026]] | Summer 2026 |
 
 (Страница обновляется по мере накопления примеров. REFLECT должен периодически проверять @tinkoffbank и @tinkoffdoli на новые альбомы в других вертикалях для подтверждения/refinement шаблона.)
 
+### Майский album (2026-05) — что подтвердил и что уточнил
+
+Второй наблюдаемый album (@tinkoffbank/10758–10763, «Обновляем летний гардероб и дом с Долями») **подтверждает partner-agnostic-гипотезу** и одновременно опровергает одно из «Ограничений шаблона» ниже:
+
+- **Шаблон сохранён 1-в-1.** Cover seasonal-agnostic («гардероб и дом»), pink/lavender-фон, «Долями» в tinted-accent; на каждой brand-card pipe-separator lockup `[партнёр] | IIII ДОЛЯМИ`; двухуровневый прайс `[полная] ₽ ([split] ₽ × 4)`. То есть креативная единица переиспользована без переработки — ровно как описывает «marginal cost = 1 brand-card».
+- **Category-homogeneity НЕ обязательна.** Майский album смешал **мебель (divan.ru), электронику (Технопарк/проигрыватель + проектор), масс-маркет-гардероб (zolla), mid-premium-гардероб (12 Storeez) и спорт/outdoor (Спортмастер)** в одном альбоме. Это прямо опровергает прежнее ограничение «нельзя смешать fashion и electronics — читатель теряет контекст». Объединяющая рамка тут не категория, а **seasonal-occasion** («лето: обновляем гардероб и дом») — занятие, а не товарная группа. Вывод: homogeneity нужна по **поводу/сезону**, не по категории товара.
+- **Ценовой диапазон расширен вниз и вверх:** 2 999 ₽ (рубашка zolla, split 750 ₽) … 22 000 ₽ (босоножки 12 Storeez, split 5 500 ₽). split-сумма опустилась до **750 ₽/мес × 4** — Доли давят на ощущение «почти бесплатно» на нижнем сегменте.
+- **ICP сместился с premium-D2C на mass-to-mid mix.** Апрельский album был D2C mid-premium (Ushatava, Poison Drop). Майский добавил масс-ритейл (Спортмастер, zolla, Технопарк) — то есть Доли используют один шаблон для двух разных up-market/mass-аудиторий, меняя только набор партнёров.
+
+## Contradictions
+
+- **[2026-06-01]** Ограничение «требует category-homogeneity партнёров» опровергнуто майским album'ом ([[sources/2026-06-01-tg-tinkoffbank-may-26-30-2026]]), где в одном альбоме смешаны мебель, электроника, гардероб и спорт. Резолюция (свежий первичный first-party источник > прежняя гипотеза): homogeneity требуется по **поводу/сезону**, не по товарной категории. Старая формулировка обёрнута в HTML-комментарий в разделе «Ограничения шаблона».
+
 ## Связанные страницы
 
-- [[sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album]] — primary-источник
+- [[sources/2026-04-14-tg-tinkoffbank-10558-doli-fashion-album]] — primary-источник (fashion album)
+- [[sources/2026-06-01-tg-tinkoffbank-may-26-30-2026]] — summer mixed-vertical album (подтверждение scalability)
 - [[evolving/competitor-positioning/tbank-doli-bnpl-sub-brand-palette-lavender]] — визуальная палитра Доли
 - [[evolving/competitor-positioning/tbank-premium-sub-brand-palette]] — матрица 5 sub-brands T-Bank
 - [[evolving/competitor-positioning/tbank-consumer-visual-style-yellow-block-flatlay]] — consumer-жёлтый (контраст с Доли lavender)

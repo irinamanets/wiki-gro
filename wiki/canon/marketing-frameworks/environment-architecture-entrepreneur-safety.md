@@ -121,6 +121,7 @@ Operational-критерий: **если день начинается с реа
 - [[evolving/content-trends/rybakov-management-narrative-hooks]] — narrative-хуки «комфорт убивает компании», «центр узнаёт последним» и др. от того же автора
 - [[evolving/content-trends/psilonsk-management-hooks-bank]] — hook 11.11.2 «не доверяй слепо, создавай условия» (Колганов про бильярдную, 2026-05-05) — родственный operational signal к необходимости environment design вместо контроля характеров
 - [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]] — «хочу быть хорошим предком», терминальный тезис межсубъектного уровня
+- [[canon/marketing-frameworks/responsibility-requires-environment-rybakov]] — применение «архитектуры сред» к ответственности (эссе msg 6587, 2026-05-28): ответственность работает только как функция несущей среды
 - [[canon/marketing-frameworks/business-university-bridge-equium-phystech]] — operationalization «многосредия» (Эквиум × Физтех 2050)
 - [[sources/2026-04-14-tg-rybakovigor-march-april-2026]] — оригинал внутрифирменной рамки
 - [[sources/2026-05-19-tg-rybakovigor-may14-18-2026]] — оригинал расширения «многосредие» (essay msg 6569)

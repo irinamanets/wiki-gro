@@ -9,8 +9,8 @@ tags: [ai, anthropic, karpathy, talent-acquisition, frontier-lab, competitor-new
 confidence: high
 stale: false
 created: 2026-05-26
-updated: 2026-05-26  # +второй source-attestation @telega_Rinata (625): «Flawless Victory» / репутационная-победа framing как content-hook
-sources: [sources/2026-05-26-tg-ai-newz-may-19-25-2026.md, sources/2026-05-26-tg-telega-rinata-may-19-22-2026.md]
+updated: 2026-06-01  # +третий source-attestation vc.ru (61448, vc.ru/hr/2938043): mainstream-бизнес-медиа Рунета подтверждает переход — сигнал выхода новости за пределы ML-twitter в general business press. Prior — +@telega_Rinata (625): «Flawless Victory» framing
+sources: [sources/2026-05-26-tg-ai-newz-may-19-25-2026.md, sources/2026-05-26-tg-telega-rinata-may-19-22-2026.md, sources/2026-06-01-tg-vcnews-may-18-20-2026.md]
 namespace: mkt
 ---
 
@@ -65,6 +65,12 @@ namespace: mkt
 
 **Что добавляет вторая фиксация:** не новые факты, а **второй независимый голос на той же интерпретации** (Anthropic выигрывает репутацией/талантом, не метриками) + готовая «Flawless Victory» формулировка как content-hook. Усиливает hook-материал для GRO ниже.
 
+## Третий source-attestation — vc.ru (61448)
+
+[[sources/2026-06-01-tg-vcnews-may-18-20-2026|@vcnews 18–20 мая]] (пост 61448, vc.ru/hr/2938043) фиксирует тот же факт `[conf:high, src:2026-05-19]`: «Сооснователь OpenAI Андрей Карпатый присоединился к Anthropic: он вернётся к исследованиям и разработкам, но образовательное направление бросать не планирует».
+
+**Что добавляет третья фиксация:** не новые факты, а **выход новости в mainstream бизнес-медиа Рунета** (vc.ru рубрика /hr). Это signal, что переход перестал быть внутренним ML-twitter-событием и стал частью general business narrative — усиливает content-релевантность hook'ов ниже для широкой аудитории GRO (не только AI-нишевой). vc.ru также явно называет Карпатого **сооснователем OpenAI** (формулировка для широкой аудитории).
+
 ## Risk и open questions
 
 - **Role не уточнена.** Karpathy не сказал «Director of X» или «Head of Y» — просто «joined the team». Структурная роль (research / ENG / leadership) пока непрозрачна. Уточним по последующим источникам.
@@ -80,3 +86,4 @@ namespace: mkt
 - [[evolving/industry-trends/ai-corporate-race-mar-may-2026]] — макротренд AI-гонки
 - [[canon/marketing-frameworks/frontier-lab-vs-startup-career-tradeoff]] — параллельный фрейм карьеры
 - [[sources/2026-05-26-tg-telega-rinata-may-19-22-2026]] — второй source-attestation «Flawless Victory» framing (пост 625)
+- [[sources/2026-06-01-tg-vcnews-may-18-20-2026]] — третий source-attestation (vc.ru mainstream, пост 61448)

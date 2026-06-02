@@ -62,4 +62,5 @@ namespace: mkt
 - [[evolving-strict/market-data/wciom-ad-perception-russia-2026]]
 - [[evolving-strict/market-data/ru-smb-digital-ad-spend-2026]]
 - [[canon/marketing-frameworks/ugc-and-microinfluencers]]
+- [[evolving-strict/market-data/ru-cash-payment-share-2026]] — обратная сторона cashless-baseline: рост доли наличных платежей между кварталами (отключения интернета + НДС на эквайринг)
 - [[sources/2026-04-14-tg-forbesrussia-apr-13-14]]

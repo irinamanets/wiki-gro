@@ -9,8 +9,8 @@ tags: [ru, fitness, smb, subscription, price-compression, ddx, sportlife, market
 confidence: medium
 stale: false
 created: 2026-05-06
-updated: 2026-05-15  # +self-service формат как третье поколение модели (Суворов/Фитбейс через Inc. Russia 36713)
-sources: [sources/2026-05-05-yt-biznes-s-nulya-fitness-club-economics.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md]
+updated: 2026-05-30  # +DDX «формула роста»: 151 клуб/54 города, выручка 9,6→17,6 млрд ₽, 4-критериальная пересборка экономики (Inc. Russia 36882)
+sources: [sources/2026-05-05-yt-biznes-s-nulya-fitness-club-economics.md, sources/2026-05-14-tg-incrussiamedia-may-5-11-2026.md, sources/2026-05-30-tg-incrussiamedia-may-21-25-2026.md]
 namespace: mkt
 ---
 
@@ -42,6 +42,19 @@ namespace: mkt
 Cohort-перетоки между tier'ами: «100К → 70К → 50К → 30К → 20К → подписка 1 900/мес» — это **пять кросс-tier миграций** customer'ов, наблюдаемых Ильёй за 4-летнее владение клубом. Каждый tier теряет ~30–50% базы вниз, и эта база не возвращается.
 
 ## DDX как дисраптор: regional kill
+
+**Обновление 2026-05-30 (формула роста DDX, Inc. Russia 36882):** Inc. Russia опубликовала бизнес-разбор DDX как эталонного кейса subscription-disruption-а. Свежие метрики сети:
+- **151 клуб в 54 городах** (февраль 2026)
+- Выручка за год выросла с **9,6 до 17,6 млрд ₽**; в 2021 году — 2,3 млрд ₽ → одна из самых быстрорастущих сетей рынка
+
+Идея бренда: «фитнес должен быть встроен в повседневные траты — как связь, подписка на кино или мобильный банк». Бизнес-модель держится на **4 критериях пересборки экономики** (масштабирование через массовый продукт с низкой себестоимостью и высокой цифровизацией):
+
+1. **Месячная подписка вместо годового абонемента** — снижение психологического барьера входа.
+2. **Тренеры как арендаторы, а не штат** — клуб становится инфраструктурой (платформой), а не работодателем; стабильный арендный доход вместо зарплатной нагрузки (см. [[canon/marketing-frameworks/trainer-rental-marketplace-model]]).
+3. **Инвестиции в IT** — запись, выбор тренера, управление подпиской, аналитика, коммуникация; продукт ближе к цифровому сервису, чем к классическому залу.
+4. **Дополнительные услуги** — фестивали, онлайн-тренировки, образование, одежда, кафе → экосистема вокруг привычки заниматься спортом.
+
+Ключевой вывод Inc.: клуб зарабатывает **«не на одном большом чеке, а на системе повторяющихся платежей»**. Этот паттерн вынесен в reusable-фреймворк [[canon/marketing-frameworks/recurring-payments-system-vs-single-check]]. Метрики подтверждают, что DDX-модель не только «убивает» mid-tier регионалов (regional kill ниже), но и масштабируется как самостоятельный быстрорастущий бизнес.
 
 DDX-стратегия 2026 в RU:
 - Один клуб = 330–350 млн ₽ капекс
@@ -175,6 +188,8 @@ GRO competitorов нет в фитнес-нише, но **в productivity-ни�
 - [[canon/marketing-frameworks/breakage-business-model-fitness]] — core механика, на которой все эти tier'ы держатся
 - [[canon/marketing-frameworks/trainer-rental-marketplace-model]] — как single-club Ильи держит низкую FOTC через trainer-rental
 - [[canon/marketing-frameworks/construction-site-content-marketing]] — pre-launch playbook Ильи в СПб
+- [[canon/marketing-frameworks/recurring-payments-system-vs-single-check]] — фреймворк пересборки экономики (DDX 4 критерия)
+- [[sources/2026-05-30-tg-incrussiamedia-may-21-25-2026]] — DDX формула роста (Inc. Russia 36882)
 - [[evolving/industry-trends/ru-smb-sales-q1-2026]] — параллельные SMB metrics
 - [[evolving/industry-trends/ru-offline-retail-decline-2026]] — соседний тренд: оффлайн-ритейл под давлением
 - [[evolving/industry-trends/ru-retail-robotization-labor-deficit-2025-2026]] — соседний тренд: labor deficit

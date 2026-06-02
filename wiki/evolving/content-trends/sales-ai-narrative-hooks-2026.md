@@ -9,8 +9,8 @@ tags: [content, ai, sales, smb, hooks, telegram, russia]
 confidence: medium
 stale: false
 created: 2026-04-15
-updated: 2026-05-28  # +cycle-5 (sources/2026-05-26-tg-olegcloser-may-22-26-2026 карусель 2306-2313): 3-шаговый кризис-ответ hooks (АЦО/СК/ПС), «3 легко»-конвертер тест, «12 лет без отпуска» extreme outcome anchor (Marat); ранее: cycle-4, Vyakuba 3-й срез, enrich 2026-04-15 podcast hooks, 2026-05-05 cycle-2, 2026-05-14 cycle-3
-sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md]
+updated: 2026-05-30  # +cycle-6 (sources/2026-05-30-tg-olegcloser-may-26-29-2026): budget-reframe «❌/✅» carousel hook, anti-complexity mindset hook, «34 агента с характерами» AI-credibility hook; ранее: cycle-5 (2026-05-28), cycle-4, Vyakuba 3-й срез, enrich 2026-04-15, cycle-2/3
+sources: [sources/2026-04-14-olegcloser-telegram-dump.md, sources/2026-05-05-tg-olegcloser-mar-may-2026.md, sources/2026-05-14-tg-olegcloser-may-7-13-2026.md, sources/2026-05-14-tg-vyakuba-may-5-14-2026.md, sources/2026-05-19-tg-olegcloser-may-14-19-2026.md, sources/2026-05-26-tg-olegcloser-may-22-26-2026.md, sources/2026-05-30-tg-olegcloser-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -287,6 +287,42 @@ Reusable для GRO:
 
 **Адаптация для GRO:** работает в любых seasonal-продуктах. «Cohort starts через 2 дня. Следующий — после лета». Или для challenge'ей: «Новый challenge через неделю. Следующий — в сентябре».
 
+## Cycle-6 hooks (2026-05-30) — budget-reframe + anti-complexity + «34 агента с характерами»
+
+Из [[sources/2026-05-30-tg-olegcloser-may-26-29-2026]] (карусель 2328-2331 + посты 2332, 2327).
+
+### Budget-reframe как «❌/✅» carousel hook (2328-2331)
+
+**Оригинал-структура:** обложка с провокацией «НЕ задавай вопрос "какой у вас бюджет?"» → две карточки с ложными полюсами мнений (со злость-эмодзи) → карточка «реальность» с таблицей «−/+» → карточка-решение с **перечёркнутым** прямым вопросом и зелёным пузырём reframe-формулировки.
+
+**Почему работает:** hook оспаривает **общепринятую sales-практику** («бюджет надо спрашивать обязательно»), визуально высмеивает оба догматичных полюса, потом даёт конкретную готовую речёвку. Полная методология — [[canon/marketing-frameworks/budget-question-reframe-shevelev]].
+
+**Reusable формула:** «НЕ делай [общепринятое X]» → показать 2 ложных оправдания X → показать реальную цену X → дать reframe-формулировку. Перечёркнутый красным текст на финальной карточке = сильный визуальный «не так → а так».
+
+**Адаптация для GRO:** «НЕ спрашивай себя "сколько у меня времени?"» → reframe «что самое важное сегодня + какие у меня ограничения по энергии, фокусу, дедлайнам». Тот же приём упаковки болезненного прямого вопроса в проектную рамку.
+
+### Anti-complexity mindset hook (пост 2332)
+
+**Оригинал:** «Усложнение мешает росту продаж. Многие не растут, потому что тратят силы на то, чтобы усложнять, а не продавать… А реальность гораздо проще: свяжитесь с зависшими клиентами или с теми, кто уже покупал».
+
+**Почему работает:** **pattern interrupt против "purchase-the-solution" рефлекса**. Читатель ждёт «вот новый инструмент» — а получает «работай с тем, что уже есть». Это снимает с него pressure что-то покупать/внедрять и парадоксально повышает доверие к автору (не впаривает сложное). Полный принцип — [[canon/marketing-frameworks/sales-simplicity-over-complexity-shevelev]].
+
+**Адаптация для GRO:** «Продуктивность не в новом трекере. Ты не растёшь, потому что покупаешь пятое приложение вместо того, чтобы доделать задачи, которые уже зависли в списке». Anti-overlay месседж — прямо ложится на позиционирование GRO как «усиления простого», а не ещё одного сложного инструмента.
+
+### AI «усиливает простое» — anti-hype differentiator
+
+**Оригинал:** «Хороший ИИ-агент в продажах не подменяет общение с клиентом, а подсказывает, что именно написать, сказать и какой следующий шаг приблизит сделку. Усиливает простое».
+
+**Почему работает:** в 2026 аудитория опасается, что AI «заменит общение» / обезличит продажи. Hook снимает этот страх: AI = suggester следующего шага, а не автопилот. Это **четвёртый голос** на тезис «AI = amplifier, не replacement» (Шевелев → Спиридонов → Якуба → Шевелев снова), усиливающий [[canon/marketing-frameworks/sales-simplicity-over-complexity-shevelev]].
+
+### «34 агента с характерами» — AI-credibility / aspiration hook (пост 2327)
+
+**Оригинал:** «Он создал систему из 34 ИИ агентов… У каждого не только свои задачи и навыки, но и свой характер!.. "Струков Иван" — это сокращение от "ст" — студия, "рук" — руководитель отдела, "Иван" — ИИ».
+
+**Почему работает:** конкретное число (**34**, не «много») + **очеловечивание** агентов («характер», имена) + **clever naming-reveal** (расшифровка «Струков Иван») = одновременно aspiration-anchor («представляете?») и memorable storytelling-деталь. Это hook-формат «покажи живой экстремальный кейс клиента» — реальный SMB построил то, что звучит как sci-fi.
+
+**Адаптация для GRO:** показывать конкретные аспирационные user-кейсы с запоминающейся числовой/именной деталью («собрал систему из N…», «назвал свои ритуалы…»), а не абстрактное «пользователи стали продуктивнее». Числовая конкретика + memorable-деталь = engagement. Контекст кейса — [[evolving/industry-trends/ai-native-company-architecture-2026]].
+
 ## Связанные страницы
 
 - [[sources/2026-04-14-olegcloser-telegram-dump]] — источник-якорь №1
@@ -294,6 +330,9 @@ Reusable для GRO:
 - [[sources/2026-05-14-tg-olegcloser-may-7-13-2026]] — источник-якорь №3 (cycle-3 hooks: co-branded carousel + canonical расшифровки + 18-дыр finale)
 - [[sources/2026-05-19-tg-olegcloser-may-14-19-2026]] — источник-якорь №4 (cycle-4: symptom-driven + anti-ChatGPT + role-expansion hooks)
 - [[sources/2026-05-26-tg-olegcloser-may-22-26-2026]] — источник-якорь №5 (cycle-5: 3-шаговый кризис-ответ + extreme outcome anchor + double-scarcity)
+- [[sources/2026-05-30-tg-olegcloser-may-26-29-2026]] — источник-якорь №6 (cycle-6: budget-reframe carousel + anti-complexity + «34 агента» aspiration hook)
+- [[canon/marketing-frameworks/budget-question-reframe-shevelev]] — budget-reframe как content-asset
+- [[canon/marketing-frameworks/sales-simplicity-over-complexity-shevelev]] — anti-complexity как content-asset
 - [[canon/marketing-frameworks/sales-3-step-crisis-response-shevelev]] — родительская методология новой carousel'и
 - [[canon/marketing-frameworks/three-legko-converter-technique-shevelev]] — Шаг 2 методологии как content-формат
 - [[canon/marketing-frameworks/short-payback-narrative-3-meanings-shevelev]] — Шаг 3 как готовый messaging-фреймворк

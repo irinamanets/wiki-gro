@@ -8323,3 +8323,732 @@ grep -E "^## \[.*\] \[(ingest|query|lint|reflect|preset-init)\]" wiki/log.md
 - layer-touched: {canon: 1, evolving-strict: 1, evolving: 1, sources: 1}
 - touched: 6 pages
 - raw: raw/processed/articles/web_dzen.ru_a_ahVF3HM-KU9rt6LC_bc514862.md → processed
+
+
+## [2026-06-01 15:26] [ingest] | Telegram @FounderWoman — 2 поста 28 мая 2026 (AI-аналитика, женщины-фаундеры, осознанное лидерство)
+- source: wiki/sources/2026-05-30-tg-founderwoman-may-28-2026.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/content-trends/late-starter-founder-narrative-hooks.md
+  - wiki/evolving/industry-trends/ai-solopreneurship-window-2026-2029.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, sources: 1}
+- touched: 3 pages
+- raw: raw/processed/articles/tg_FounderWoman_20260530-122755.md → processed
+
+## [2026-06-01 15:26] [ingest] | Гребенюк @grebenukm — дамп 7501–7506 (26–29 мая 2026): заявка на премию #МЫВМЕСТЕ «Наставник года», продолжение влога «Гребенюк Live» (живой клиентский путь в ЕС-клинике, on-location-съёмка), кросс-канальная отсылка к видео Сергея Иванова (Эфко) про офисы
+- source: wiki/sources/2026-05-30-tg-grebenukm-may-26-29-2026.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/content-trends/founder-weekly-vlog-launch-grebenyuk-live.md
+  - wiki/evolving/competitor-positioning/grebenyuk-anomaly-community.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, sources: 1}
+- touched: 3 pages
+- raw: raw/processed/articles/tg_grebenukm_20260530-101545.md → processed
+
+## [2026-06-01 15:29] [ingest] | Telegram @forbesrussia — дамп 50 постов 11–13 мая 2026 (новости бизнеса/финансов)
+- source: wiki/sources/2026-05-30-tg-forbesrussia-may-11-13-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/china-market-trust-over-marketing-batanov.md
+- updated:
+  - wiki/evolving/industry-trends/ai-search-aeo-geo-2026.md
+  - wiki/evolving-strict/market-data/ai-search-commerce-benchmarks-2026.md
+  - wiki/evolving/content-trends/forbes-200-richest-russia-content-franchise.md
+  - wiki/evolving-strict/competitor-metrics/ai-leaders-valuations-2026-q2.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 2, evolving-strict: 2, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_forbesrussia_20260530-104303.md → processed
+
+## [2026-06-01 15:30] [ingest] | Condensed: zhazhda.biz — 50 статей RU SMB-блог-портала (мид-2010-е)
+- source: wiki/sources/2026-05-31-condense-zhazhda-biz-50-articles.md
+- created:
+  - wiki/canon/marketing-frameworks/pr-carpet-bombing-info-povody.md
+  - wiki/canon/marketing-frameworks/audience-segmented-pr-messaging.md
+  - wiki/canon/marketing-frameworks/four-pillars-of-branding-smb.md
+  - wiki/canon/marketing-frameworks/smb-hiring-funnel-playbook.md
+  - wiki/canon/marketing-frameworks/marketing-team-role-taxonomy-smb.md
+  - wiki/canon/marketing-frameworks/smb-personal-brand-smm-cadence.md
+  - wiki/canon/marketing-frameworks/lean-7-wastes-productivity-smb.md
+  - wiki/canon/marketing-frameworks/investor-pitch-formats-smb.md
+  - wiki/canon/marketing-frameworks/client-retention-service-rules-smb.md
+  - wiki/evolving/industry-trends/tech-disruption-of-intermediaries-2010s.md
+  - wiki/evolving/industry-trends/ru-public-speaking-events-market-2010s.md
+- updated:
+  - wiki/canon/target-audience/ru-smb-founder-owner-seller.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 9, evolving: 2, sources: 1}
+- touched: 12 pages
+- raw: raw/processed/articles/_condense_zhazhda-biz_2026-05-31.md → processed
+
+## [2026-06-01 15:32] [ingest] | @gro_me — посты 395-398 (27-30 мая 2026, ATS-резюме / гайд продуктивности / SuperJob смена сферы / подкасты)
+- source: wiki/sources/2026-05-30-tg-gro-me-395-398.md
+- created:
+  - wiki/canon/marketing-frameworks/ats-readable-resume-optimization-2026.md
+  - wiki/evolving-strict/market-data/ru-career-change-superjob-may-2026.md
+- updated:
+  - wiki/evolving/product-reception/gro-channel-content-history.md
+  - wiki/evolving/content-trends/gro-content-rubrics-system.md
+  - wiki/evolving/content-trends/candidate-digital-hygiene-hooks-2026.md
+  - wiki/canon/target-audience/it-specialist-candidate-profile-2026.md
+  - wiki/evolving/product-reception/gro-productivity-energy-angle.md
+  - wiki/evolving/industry-trends/ai-replacing-jobs-global-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving-strict: 1, evolving: 4, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_gro_me_20260530-170005.md → processed
+
+## [2026-06-01 15:33] [ingest] | GRO-Book «Инструменты продуктивности в эпоху ИИ» (PDF-гайд, пост 396)
+- source: wiki/sources/2026-05-30-gro-productivity-tools-ai-guide.md
+- created:
+  - none
+- updated:
+  - none
+- superseded: none
+- sensitive flag: none
+- layer-touched: {sources: 1}
+- touched: 1 pages
+- raw: raw/processed/documents/tg_gro_me_396.pdf → processed (bundle child of wiki/sources/2026-05-30-tg-gro-me-395-398.md; heavyweight bundle child (PDF GRO-Book), own source page; layer extractions folded into parent-cycle pages)
+
+## [2026-06-01 15:38] [ingest] | Telegram @howtomake10x (Виталий Крылов, ex-CEO Gett) — 28–29 мая 2026, 2 поста (1588–1589): тихое увольнение и найм антипода
+- source: wiki/sources/2026-05-30-tg-howtomake10x-1588-1589.md
+- created:
+  - wiki/canon/marketing-frameworks/quiet-quitting-detection-protocol-krylov.md
+  - wiki/canon/marketing-frameworks/complementary-hire-missing-puzzle-krylov.md
+- updated:
+  - wiki/canon/marketing-frameworks/customer-flow-precedes-hiring-krylov.md
+  - wiki/canon/marketing-frameworks/employee-intrinsic-demotivation-6-factors.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_howtomake10x_20260530-132000.md → processed
+
+## [2026-06-01 15:38] [ingest] | Telegram @gurinovich_shares — пост 923, 26 мая 2026 (манифест в День Предпринимателя: прибыль-как-цель, амбиции, культ Основателей)
+- source: wiki/sources/2026-05-30-tg-gurinovich-shares-may-30-2026.md
+- created:
+  - wiki/evolving/content-trends/founder-pride-manifesto-entrepreneur-day-gurinovich.md
+- updated:
+  - wiki/evolving/content-trends/osnovateli-media-ecosystem-podcast-to-print.md
+  - wiki/evolving/content-trends/forbes-30-under-30-content-franchise.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_gurinovich_shares_20260530-124000.md → processed
+
+## [2026-06-01 15:40] [ingest] | Telegram @HR_kak_delat — карусель «Что происходит на рынке труда» (hh.ru + ЦБ РФ, май 2026) + Резидентский день Владивосток
+- source: wiki/sources/2026-06-01-tg-hr-kak-delat-may-2026-labor-snapshot.md
+- created:
+  - none
+- updated:
+  - wiki/evolving-strict/market-data/hh-vacancies-resumes-cooling-2024-2026.md
+  - wiki/evolving/industry-trends/ru-labor-market-shift-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 1, evolving: 1, sources: 1}
+- touched: 3 pages
+- raw: raw/processed/articles/tg_hr_kak_delat_20260530-094017.md → processed
+
+## [2026-06-01 15:41] [ingest] | Telegram @hh_ru_official — дамп 26–29 мая 2026 (4 поста: Платформа равных возможностей, Бизнес задело, прожарка Сетки, career-fit)
+- source: wiki/sources/2026-05-30-tg-hh-ru-official-may-26-29-2026.md
+- created:
+  - wiki/evolving/competitor-positioning/hh-ru-inclusive-hiring-platform-2026.md
+  - wiki/volatile-strict/competitor-news/hh-ru-biznes-zadelo-smb-community-2026.md
+- updated:
+  - wiki/evolving/competitor-positioning/hh-ru-hrtech-platform.md
+  - wiki/evolving-strict/market-data/ru-labor-reserve-shortage-2026.md
+  - wiki/evolving/industry-trends/skill-based-hiring-russia-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, volatile-strict: 1, evolving-strict: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_hh_ru_official_20260530-095001.md → processed
+
+## [2026-06-01 15:41] [ingest] | Telegram @hutzp (Женя Давыдов, SETTERS) — 7 сообщений 26–29 мая 2026: документалка Т-Бизнес «Что творится с бизнесом?» + «Локальный код» + июньская программа Сообщества изионистов (топ-5 + 6-карточная карусель)
+- source: wiki/sources/2026-05-30-tg-hutzp-may-26-29-2026.md
+- created:
+  - wiki/evolving/content-trends/brand-documentary-community-platform-tbank.md
+- updated:
+  - wiki/evolving/content-trends/founder-intellectual-club-event-format.md
+  - wiki/evolving/competitor-positioning/settersgroup-ecosystem.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_hutzp_20260530-125111.md → processed
+
+## [2026-06-01 15:50] [ingest] | Kwork пост 567 — «5 признаков профи в переписке» (тизер, 2026-05-26)
+- source: wiki/sources/2026-05-26-tg-kwork-567-pro-communication-signals.md
+- created:
+  - wiki/evolving/content-trends/freelancer-pro-communication-signals.md
+- updated:
+  - wiki/evolving/content-trends/freelancer-growth-narrative-hooks.md
+  - wiki/evolving/content-trends/digital-organization-freelancer-hooks.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_kwork_kwork_20260530-100000.md → processed
+
+## [2026-06-01 15:53] [ingest] | Telegram @mspiridonov — 8 постов 2026-05-26…2026-05-30 (Максим Спиридонов)
+- source: wiki/sources/2026-05-30-tg-mspiridonov-may-26-30-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/marketing-as-system-not-leadgen-spiridonov.md
+  - wiki/canon/marketing-frameworks/technology-without-distribution-gutenberg-spiridonov.md
+  - wiki/evolving/industry-trends/ai-agents-long-horizon-autonomy-limits-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/glp1-vs-ai-consumer-biotech-2025.md
+  - wiki/evolving/industry-trends/consumer-biotech-anti-aging-trend-2026.md
+  - wiki/canon/marketing-frameworks/marketing-as-system-not-leadgen-spiridonov.md
+  - wiki/evolving-strict/competitor-metrics/zapier-automation-bench-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, evolving-strict: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_mspiridonov_20260530-122114.md → processed
+
+## [2026-06-01 15:53] [ingest] | Telegram @kommersant — новостной дамп 7–8 мая 2026 (50 постов)
+- source: wiki/sources/2026-05-30-tg-kommersant-may-7-8-2026.md
+- created:
+  - wiki/volatile-strict/industry-news/ru-fake-review-rating-precedent-2026-05.md
+  - wiki/volatile-strict/competitor-news/telega-alt-client-paid-subscription-2026-05.md
+- updated:
+  - wiki/evolving/industry-trends/ru-telegram-blocking-max-migration-2026.md
+  - wiki/volatile-strict/industry-news/ru-yaplakal-blocked-2026-05.md
+  - wiki/volatile-strict/competitor-news/qcomment-fake-review-market-ru-2026.md
+  - wiki/evolving/industry-trends/ecommerce-trust-decision-shift-ru-2026.md
+- superseded: 1 (see page Contradictions)
+- sensitive flag: none
+- layer-touched: {volatile-strict: 4, evolving: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_kommersant_20260530-110006.md → processed
+
+## [2026-06-01 15:54] [ingest] | @moibiz (Мой бизнес) — Telegram-дамп 7586–7608 (26–29 мая 2026)
+- source: wiki/sources/2026-05-30-tg-moibiz-may-26-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/cashback-promo-goal-mechanic-mapping-nspk.md
+- updated:
+  - wiki/canon/target-audience/ru-smb-founder-owner-seller.md
+  - wiki/evolving-strict/campaign-metrics/max-messenger-channel-economics-2026.md
+  - wiki/evolving/industry-trends/ru-gov-smb-event-stack-may-jun-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 1, evolving-strict: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_moibiz_20260530-111534.md → processed
+
+## [2026-06-01 15:55] [ingest] | Inc. Russia (@incrussiamedia) — дайджест 21–25 мая 2026 (50 постов, бандл +46 jpg)
+- source: wiki/sources/2026-05-30-tg-incrussiamedia-may-21-25-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/recurring-payments-system-vs-single-check.md
+  - wiki/evolving/content-trends/inc-russia-growth-formula-breakdown-format.md
+  - wiki/evolving/industry-trends/ru-femtech-blue-ocean-2026.md
+- updated:
+  - wiki/evolving/industry-trends/ru-fitness-market-2016-2026.md
+  - wiki/evolving-strict/market-data/ru-ecommerce-platformization-reshetnikov-2026.md
+  - wiki/evolving-strict/market-data/ru-business-ai-adoption-2026.md
+  - wiki/evolving/industry-trends/ru-offline-retail-decline-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 3, evolving-strict: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_incrussiamedia_20260530-102511.md → processed
+
+## [2026-06-01 16:04] [ingest] | Telegram @peregudov (Михаил Перегудов) — Enhanced Games, US-инкорпорация, промпт недели (454–458, 27–29 мая 2026)
+- source: wiki/sources/2026-05-30-tg-peregudov-454-458.md
+- created:
+  - wiki/canon/marketing-frameworks/owned-spectacle-tofu-d2c-enhanced-games.md
+- updated:
+  - wiki/canon/marketing-frameworks/red-bull-lifestyle-media-business.md
+  - wiki/evolving/content-trends/ai-news-channel-prompt-packs.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_peregudov_20260530-134505.md → processed
+
+## [2026-06-01 16:05] [ingest] | ОПОРА РОССИИ — Telegram-канал, дайджест 7256–7290 (26–29 мая 2026)
+- source: wiki/sources/2026-05-30-tg-opora-russia-may-26-29-2026.md
+- created:
+  - wiki/evolving-strict/market-data/ru-chelyabinsk-smb-share-2025.md
+- updated:
+  - wiki/evolving/industry-trends/ru-smb-trends-corpmsp-2025.md
+  - wiki/canon/target-audience/ru-smb-founder-owner-seller.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 1, evolving: 1, canon: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_opora_russia_20260530-110507.md → processed
+
+## [2026-06-01 16:05] [ingest] | Telegram @ofd24 — дамп 7 постов 26–29 мая 2026 (ТС ПИоТ конкуренция + ФНС-рейд Крым + селлеры в свои ИМ)
+- source: wiki/sources/2026-05-30-tg-ofd24-may-26-29-2026.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md
+  - wiki/evolving/industry-trends/ru-marketplace-seller-squeeze-2026.md
+  - wiki/canon/target-audience/ru-smb-founder-owner-seller.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, canon: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_ofd24_20260530-111000.md → processed
+
+## [2026-06-01 16:07] [ingest] | Telegram @olegcloser — дамп 26–29 мая 2026 (34 AI-агента «второй мозг» + budget-reframe carousel + «усложнение мешает росту»)
+- source: wiki/sources/2026-05-30-tg-olegcloser-may-26-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/budget-question-reframe-shevelev.md
+  - wiki/canon/marketing-frameworks/sales-simplicity-over-complexity-shevelev.md
+- updated:
+  - wiki/evolving/industry-trends/ai-native-company-architecture-2026.md
+  - wiki/evolving/content-trends/sales-ai-narrative-hooks-2026.md
+  - wiki/canon/marketing-frameworks/soprano-discovery-technique.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 2, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_olegcloser_20260530-123539.md → processed
+
+## [2026-06-01 16:07] [ingest] | Telegram @neuraldvig — дамп 43 постов за 2026-05-22..2026-05-30 (AI-news/memes/prompt-packs, шестой срез)
+- source: wiki/sources/2026-05-30-tg-neuraldvig-may-22-30-2026.md
+- created:
+  - wiki/evolving-strict/market-data/anti-ai-search-backlash-2026.md
+  - wiki/evolving/content-trends/yandex-google-counterpositioning-turkey-2026.md
+- updated:
+  - wiki/evolving/content-trends/ai-news-channel-prompt-packs.md
+  - wiki/volatile-strict/competitor-news/google-gemini-omni-video-2026-05.md
+  - wiki/volatile-strict/competitor-news/anthropic-claude-opus-4-8-2026-05.md
+  - wiki/evolving/industry-trends/ai-corporate-race-mar-may-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 1, evolving: 3, volatile-strict: 2, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_neuraldvig_20260530-135959.md → processed
+
+## [2026-06-01 16:17] [ingest] | Telegram @ProductsAndStartups (Байрам Аннаков) — 3 поста 27–29 мая 2026: tokenmaxxing Amazon, размерность работ, AI Personal OS
+- source: wiki/sources/2026-05-30-tg-productsandstartups-may-27-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/goodhart-law-ai-adoption-metrics.md
+  - wiki/evolving/industry-trends/job-dimensionality-ai-automation-2026.md
+- updated:
+  - wiki/volatile-strict/competitor-news/disney-ai-adoption-dashboard-tokenmaxxing-2026.md
+  - wiki/evolving/industry-trends/b2b-ai-adoption-fte-kpi-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 2, volatile-strict: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_ProductsAndStartups_20260530-132501.md → processed
+
+## [2026-06-01 16:18] [ingest] | TG @petrochenkow — 5 постов 27–30 мая 2026 (крупный бизнес vs малый, зарплаты профессий, визуализация→конверсия)
+- source: wiki/sources/2026-05-30-tg-petrochenkow-20260530-112533.md
+- created:
+  - wiki/canon/marketing-frameworks/abstraction-conversion-inverse-petrochenkov.md
+  - wiki/canon/marketing-frameworks/big-business-conversion-shift-smb-threat-petrochenkov.md
+- updated:
+  - wiki/canon/marketing-frameworks/visual-content-design-for-conversion.md
+  - wiki/canon/marketing-frameworks/funnel-simplicity-principle.md
+  - wiki/evolving/industry-trends/blue-collar-ai-resilience-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 1, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_petrochenkow_20260530-112533.md → processed
+
+## [2026-06-01 16:18] [ingest] | Telegram @rbc_news — дамп 8 мая 2026 (50 постов, новостной дайджест РБК)
+- source: wiki/sources/2026-05-30-tg-rbc-news-may-8-2026.md
+- created:
+  - wiki/evolving-strict/market-data/ru-rosstat-wage-growth-jan-feb-2026.md
+  - wiki/evolving/industry-trends/ru-bank-qr-payments-abroad-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-macro-snapshot-may-2026.md
+  - wiki/evolving-strict/market-data/ru-salary-growth-by-profession-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 3, evolving: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_rbc_news_20260530-105510.md → processed
+
+## [2026-06-01 16:18] [ingest] | Telegram @portnyaginlive — дамп 26–30 мая 2026 (6-й срез: День предпринимателя + Manul 2 года)
+- source: wiki/sources/2026-05-30-tg-portnyaginlive-20260530-122112.md
+- created:
+  - wiki/evolving/content-trends/calendar-peg-aspirational-manifesto.md
+- updated:
+  - wiki/evolving/content-trends/cultural-narrative-brand-storytelling.md
+  - wiki/evolving/content-trends/portnyagin-founder-channel-patterns.md
+  - wiki/canon/target-audience/gro-segments.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, canon: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_portnyaginlive_20260530-122112.md → processed
+
+## [2026-06-01 16:20] [ingest] | Telegram @psilonsk (Сергей Колганов) — дамп week 5 (5578..5585, 2026-05-27 … 2026-05-29)
+- source: wiki/sources/2026-05-30-tg-psilonsk-may-jun-2026-week5.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/industry-trends/return-to-office-global-2026.md
+  - wiki/canon/marketing-frameworks/constraint-driven-innovation.md
+  - wiki/evolving/content-trends/psilonsk-management-hooks-bank.md
+  - wiki/evolving/content-trends/psilonsk-channel-patterns.md
+  - wiki/canon/marketing-frameworks/native-advertising.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, canon: 2, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_psilonsk_20260530-131002.md → processed
+
+## [2026-06-01 16:26] [ingest] | Telegram @recruiter_live — дамп 8 постов (ids 4487..4494, 27–29 мая 2026)
+- source: wiki/sources/2026-05-30-tg-recruiter-live-may-27-29-2026.md
+- created:
+  - wiki/evolving/industry-trends/ru-career-services-pricing-2026.md
+  - wiki/evolving/industry-trends/ru-hr-cb-insurance-sentiment-2026.md
+- updated:
+  - wiki/evolving/industry-trends/hr-as-media-marketing-convergence-2026.md (+наблюдение размывания границы личное/профессиональное в LinkedIn)
+- superseded: none
+- sensitive flag: true
+- layer-touched: {evolving: 3, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_recruiter_live_20260530-091001.md → processed
+
+## [2026-06-01 16:27] [ingest] | Telegram @selfworkru (Самозанятые.рф) — 7 постов 27–28 мая 2026 (новость ЛДПР + FAQ-карусель)
+- source: wiki/sources/2026-06-01-tg-selfworkru-may-27-28-2026.md
+- created:
+  - wiki/evolving-strict/market-data/ru-self-employed-npd-limit-2026.md
+  - wiki/canon-strict/legal-claims/ru-self-employed-collaboration-rules-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-self-employed-2025.md
+  - wiki/volatile-strict/industry-news/ru-self-employed-platform-preferences-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 1, canon-strict: 1, volatile-strict: 1, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_selfworkru_20260530-100501.md → processed
+
+## [2026-06-01 17:42] [ingest] | Telegram @solokumi — 2 поста 27–29 мая 2026 (Second Brain в Claude Code + 4 тренда маркетинга 2027)
+- source: wiki/sources/2026-05-30-tg-solokumi-may-27-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/second-brain-marketing-claude-code.md
+  - wiki/canon/marketing-frameworks/feedback-loop-velocity-moat-2026.md
+  - wiki/evolving/content-trends/sales-calls-as-marketing-dataset-2026.md
+- updated:
+  - wiki/evolving/industry-trends/software-moat-erosion-2026.md
+  - wiki/canon/marketing-frameworks/ugc-and-microinfluencers.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 2, sources: 1}
+- touched: 6 pages
+- raw: raw/processed/articles/tg_solokumi_20260530-125500.md → processed
+
+## [2026-06-01 17:43] [ingest] | Telegram @rff_channel — дамп 26–29 мая 2026 (карусель «корпоративные ценности» Бредовой + миграция в MAX)
+- source: wiki/sources/2026-05-30-tg-rff-channel-may-26-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/corporate-values-implementation-bredova.md
+  - wiki/volatile-strict/industry-news/avito-labor-market-monitor-2026.md
+- updated:
+  - wiki/evolving/content-trends/expert-cobranded-tg-carousel-pattern.md
+  - wiki/evolving/industry-trends/max-messenger-author-rejection-2026.md
+  - wiki/evolving/industry-trends/hr-as-media-marketing-convergence-2026.md
+  - wiki/canon/marketing-frameworks/employee-retention-cost-bredova.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, volatile-strict: 1, evolving: 3, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_rff_channel_20260530-094507.md → processed
+
+## [2026-06-01 17:43] [ingest] | Telegram @rybakovigor — выгрузка 9 постов 26–29 мая 2026 (День предпринимателя + эссе «ответственность без среды»)
+- source: wiki/sources/2026-05-30-tg-rybakovigor-may26-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/responsibility-requires-environment-rybakov.md
+- updated:
+  - wiki/evolving/content-trends/rybakov-management-narrative-hooks.md
+  - wiki/evolving/content-trends/calendar-peg-aspirational-manifesto.md
+  - wiki/canon/marketing-frameworks/environment-architecture-entrepreneur-safety.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 2, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_rybakovigor_20260530-114007.md → processed
+
+## [2026-06-01 17:44] [ingest] | Telegram @rb_ru (Russian Business) — дамп 26–30 мая 2026 (31 пост, ids 46264..46294)
+- source: wiki/sources/2026-05-30-tg-rb-ru-may-26-30-2026.md
+- created:
+  - wiki/evolving/industry-trends/ru-smb-sentiment-may-2026.md
+  - wiki/evolving/competitor-positioning/messenger-superapp-models-2026.md
+  - wiki/volatile-strict/industry-news/meta-paid-subscriptions-2026-05.md
+- updated:
+  - wiki/evolving/industry-trends/ru-ai-job-displacement-vnii-2026.md
+  - wiki/evolving/industry-trends/ru-marketplace-seller-squeeze-2026.md
+  - wiki/evolving/industry-trends/ru-digital-regulatory-squeeze-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, volatile-strict: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_rb_ru_20260530-103526.md → processed
+
+## [2026-06-01 17:44] [ingest] | Telegram @startupoftheday (Александр Горный) — дамп 7 постов (5088..5094, 26–29 мая 2026)
+- source: wiki/sources/2026-05-30-tg-startupoftheday-may-26-29-2026.md
+- created:
+  - wiki/volatile-strict/competitor-news/findd-21m-deskless-workforce-2026.md
+  - wiki/canon/marketing-frameworks/understated-ai-deep-tech-positioning.md
+  - wiki/evolving/content-trends/conversation-starter-artifact-networking.md
+- updated:
+  - wiki/evolving/competitor-positioning/avito-reklama-b2b-targeting-2026.md
+  - wiki/evolving/content-trends/brand-documentary-community-platform-tbank.md
+  - wiki/canon/marketing-frameworks/career-growth-decoupling-rybakov.md
+  - wiki/evolving/content-trends/founder-impersonation-scam-defense-gorny-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 3, volatile-strict: 1, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_startupoftheday_20260530-101001.md → processed
+
+## [2026-06-01 17:48] [ingest] | Telegram @studentsuper — пост 6629 «Как найти первую работу» + мем SuperJob Старт (2026-05-30)
+- source: wiki/sources/2026-05-30-tg-studentsuper-6629.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/content-trends/career-audience-hooks-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 1, sources: 1}
+- touched: 2 pages
+- raw: raw/processed/articles/tg_studentsuper_20260530-095500.md → processed
+
+## [2026-06-01 17:53] [ingest] | Telegram @techno_yandex — дамп 26–30 мая 2026 (17 постов, ids 5273..5290)
+- source: wiki/sources/2026-05-30-tg-techno-yandex-may-26-30-2026.md
+- created:
+  - wiki/evolving/content-trends/ai-agent-persona-mascot-design-2026.md
+  - wiki/evolving/industry-trends/deeptech-vc-category-2026.md
+  - wiki/evolving-strict/market-data/llm-as-judge-route-quality-yandex-2026.md
+- updated:
+  - wiki/evolving/content-trends/techno-yandex-explainer-rubric-format.md
+  - wiki/canon/marketing-frameworks/ai-tech-glossary-techno-yandex-2026.md
+  - wiki/canon/marketing-frameworks/ai-resume-prompting-checklist-rff.md
+  - wiki/evolving/industry-trends/agentic-commerce-stripe-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 4, evolving-strict: 1, canon: 2, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_techno_yandex_20260530-140112.md → processed
+
+## [2026-06-01 17:53] [ingest] | Telegram @techsparks (Себрант) — дамп 26–29 мая 2026 (7 постов, AI/labor/search/robots)
+- source: wiki/sources/2026-05-30-tg-techsparks-may-26-29-2026.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/industry-trends/ai-replacing-jobs-global-2026.md
+  - wiki/evolving/industry-trends/ai-content-publisher-economics-2026.md
+  - wiki/canon/marketing-frameworks/seo-for-ai-era-playbook.md
+  - wiki/evolving/industry-trends/humanoid-robot-narrative-shift-2026.md
+  - wiki/evolving/content-trends/ai-text-detection-landscape-2026.md
+  - wiki/evolving-strict/market-data/ai-adoption-penetration-feb-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, canon: 1, evolving-strict: 1, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_techsparks_20260530-141904.md → processed
+
+## [2026-06-01 17:53] [ingest] | Telegram @Theedinorogblog — дамп 26–30 мая 2026 (6-й срез: ИИ-агенты «Битва агентов», AI-оценки, статистика ИП/юрлиц)
+- source: wiki/sources/2026-05-30-tg-theedinorog-may-26-30-2026.md
+- created:
+  - wiki/evolving/industry-trends/ru-ai-agents-vertical-landscape-2026.md
+  - wiki/evolving/content-trends/ai-agent-showcase-card-format-2026.md
+- updated:
+  - wiki/evolving-strict/market-data/ru-entrepreneurship-as-norm-minec-sber-2026.md
+  - wiki/evolving/content-trends/ai-text-detection-landscape-2026.md
+  - wiki/evolving/industry-trends/ai-corporate-race-mar-may-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, evolving-strict: 1, sources: 1}
+- touched: 5 pages
+- raw: raw/processed/articles/tg_Theedinorogblog_20260530-123131.md → processed
+
+## [2026-06-01 17:54] [ingest] | Telegram @temno (Аркадий Морейнис) — дамп 27–30 мая 2026 (7 постов «Тренд дня» + 7 хэнд-дроу обложек)
+- source: wiki/sources/2026-05-30-tg-temno-moreynis-may-27-30-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/near-the-ground-underserved-market-moreynis.md
+  - wiki/canon/marketing-frameworks/trivial-solutions-nonobvious-problems-moreynis.md
+  - wiki/canon/marketing-frameworks/edge-case-library-as-moat-moreynis.md
+  - wiki/canon/marketing-frameworks/freelancer-2-brains-not-hands-moreynis.md
+  - wiki/evolving/industry-trends/composable-byo-platform-trend-2026.md
+  - wiki/evolving/industry-trends/ai-auction-procurement-platforms-2026.md
+- updated:
+  - wiki/evolving/content-trends/moreynis-hand-drawn-meme-format.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 4, evolving: 3, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_temno_20260530-122113.md → processed
+
+## [2026-06-01 18:03] [ingest] | Telegram @TorbosovLife — дамп 17–21 мая 2026 (посты 19780–19829)
+- source: wiki/sources/2026-05-30-tg-torbosovlife-may17-21-2026.md
+- created:
+  - wiki/evolving/content-trends/guerrilla-ambient-pitch-presence.md
+- updated:
+  - wiki/evolving/content-trends/contrarian-framing-expert-telegram.md
+  - wiki/evolving/content-trends/founder-history-edutainment-format.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 3, sources: 1}
+- touched: 3 pages
+- raw: raw/processed/articles/tg_TorbosovLife_20260530-114625.md → processed
+
+## [2026-06-01 18:03] [ingest] | Telegram @t_jrnl (Т—Ж) — дамп 19–23 мая 2026 (50 постов, 49 медиа)
+- source: wiki/sources/2026-05-30-tg-t-jrnl-may-19-23-2026.md
+- created:
+  - wiki/evolving-strict/market-data/ru-cash-payment-share-2026.md
+  - wiki/evolving/content-trends/recession-as-excuse-meme-format-2026.md
+- updated:
+  - wiki/evolving/content-trends/t-j-editorial-format-playbook-2026.md
+  - wiki/evolving-strict/market-data/ru-digital-economy-snapshot-2026-04.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving-strict: 2, evolving: 2, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/tg_t_jrnl_20260530-105012.md → processed
+
+## [2026-06-01 18:06] [ingest] | Telegram @typicalcompany — дамп 27–29 мая 2026 (посты 1342–1343: кривая любопытства + AI не приносит денег)
+- source: wiki/sources/2026-05-30-tg-typicalcompany-may-27-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/ai-assistant-vs-restructuring-typical.md
+  - wiki/canon/marketing-frameworks/curiosity-curve-negotiation-wetzler.md
+- updated:
+  - wiki/evolving/competitor-positioning/typical-company.md
+  - wiki/evolving/industry-trends/ai-productivity-j-curve-2026.md
+  - wiki/evolving/industry-trends/b2b-ai-adoption-fte-kpi-2026.md
+  - wiki/evolving/industry-trends/ai-agent-cost-backlash-corporate-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 2, evolving: 4, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_typicalcompany_20260530-010501.md → processed
+
+## [2026-06-01 18:07] [ingest] | Telegram @tinkoffbank — дамп 26–30 мая 2026 (НУР, Т-Двор 3026, T-Mobile-гадание, Дикси, Доли home/wardrobe, Письмо себе)
+- source: wiki/sources/2026-06-01-tg-tinkoffbank-may-26-30-2026.md
+- created:
+  - wiki/evolving/content-trends/tbank-phone-digit-fortune-engagement-2026.md
+  - wiki/evolving/content-trends/tbank-self-letter-spending-friction-feature.md
+- updated:
+  - wiki/evolving/competitor-positioning/tbank-doli-bnpl-partner-album-format.md
+  - wiki/evolving/content-trends/bank-cultural-institution-cobranding-2026.md
+  - wiki/evolving/content-trends/tbank-recurring-monthly-cashback-format-2026.md
+  - wiki/evolving/industry-trends/tbank-corporate-platform-stack-2026.md
+- superseded: 3 (in-page supersessions)
+- sensitive flag: none
+- layer-touched: {evolving: 6, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_tinkoffbank_20260530-104508.md → processed
+
+## [2026-06-01 18:08] [ingest] | Telegram @vcnews — дамп 18–20 мая 2026 (50 постов, новостной дайджест vc.ru + 42 медиа)
+- source: wiki/sources/2026-06-01-tg-vcnews-may-18-20-2026.md
+- created:
+  - wiki/volatile-strict/competitor-news/sber-collaboration-platform-2027.md
+  - wiki/volatile-strict/competitor-news/openai-compute-reservation-contracts-2026-05.md
+  - wiki/volatile-strict/industry-news/hr-elimination-narrative-may-2026.md
+- updated:
+  - wiki/volatile-strict/competitor-news/cursor-composer-2-5-2026-05.md
+  - wiki/volatile-strict/competitor-news/anthropic-karpathy-join-2026-05.md
+  - wiki/volatile-strict/competitor-news/google-gemini-3-5-flash-2026-05.md
+  - wiki/volatile-strict/competitor-news/yandex-alice-ai-art-russian-text-2026-05.md
+  - wiki/volatile-strict/industry-news/ai-mass-layoffs-cluster-may-2026.md
+  - wiki/evolving/industry-trends/ai-corporate-race-mar-may-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {volatile-strict: 8, evolving: 1, sources: 1}
+- touched: 10 pages
+- raw: raw/processed/articles/tg_vcnews_20260530-102108.md → processed
+
+## [2026-06-01 18:13] [ingest] | hh.ru статья — новый фактор ранжирования: вакансии с избытком откликов опускаются в выдаче (май 2026)
+- source: wiki/sources/2026-05-30-hh-ru-article-vacancy-ranking-responses.md
+- created:
+  - wiki/volatile-strict/industry-news/hh-ru-vacancy-response-ranking-may-2026.md
+- updated:
+  - wiki/evolving/competitor-positioning/hh-ru-hrtech-platform.md
+  - wiki/evolving/industry-trends/ru-labor-market-employer-turn-spring-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {volatile-strict: 1, evolving: 2, sources: 1}
+- touched: 4 pages
+- raw: raw/processed/articles/web_hh.ru_article_kak-rabotat-s-vakansiyami-chtoby-ne-upustit-otkliki-_a92dac7f.md → processed
+
+## [2026-06-01 18:16] [ingest] | Telegram @your_pet_project (Табунов) — дамп 27–29 мая 2026 (6-й ingest, посты 638–640)
+- source: wiki/sources/2026-05-30-tg-your-pet-project-may-27-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/eight-marketing-laws-pet-project-tabunov.md
+  - wiki/evolving/industry-trends/ai-agent-marketing-capability-boundary-2026.md
+  - wiki/volatile-strict/industry-news/polsia-vanity-metrics-teardown-2026.md
+- updated:
+  - wiki/evolving/content-trends/your-pet-project-channel-hooks.md
+  - wiki/volatile-strict/industry-news/ai-solopreneur-cases-jan-apr-2026.md
+  - wiki/canon/marketing-frameworks/funnel-simplicity-principle.md
+  - wiki/evolving/industry-trends/ai-native-marketer-skillset-2026.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 2, volatile-strict: 2, sources: 1}
+- touched: 8 pages
+- raw: raw/processed/articles/tg_your_pet_project_20260530-122113.md → processed
+
+## [2026-06-01 18:18] [ingest] | Telegram @vyakuba — дамп 26–29 мая 2026 (6-й срез, Владимир Якуба)
+- source: wiki/sources/2026-05-30-tg-vyakuba-may-26-29-2026.md
+- created:
+  - wiki/canon/marketing-frameworks/monochrome-anti-marketing-crisis-vyakuba.md
+  - wiki/canon/marketing-frameworks/leader-plays-on-people-orchestra-vyakuba.md
+  - wiki/evolving/content-trends/crisis-investment-content-hooks-vyakuba.md
+- updated:
+  - wiki/evolving/content-trends/vyakuba-instagram-carousel-format.md
+  - wiki/evolving/competitor-positioning/vyakuba-sales-training.md
+  - wiki/evolving/content-trends/ru-sales-infobiz-content-patterns.md
+  - wiki/canon/marketing-frameworks/sale-begins-after-price-vyakuba.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 3, evolving: 3, sources: 1}
+- touched: 7 pages
+- raw: raw/processed/articles/tg_vyakuba_20260530-122753.md → processed
+
+## [2026-06-01 18:24] [ingest] | Telegram @stodnevka2 (Армен Петросян) — пост 2327, 2026-05-30: «Пять правил на ладони» для 15-минутной работы
+- source: wiki/sources/2026-05-30-tg-stodnevka2-2327-five-rules-on-palm.md
+- created:
+  - wiki/canon/marketing-frameworks/petrosian-five-rules-on-palm-15min-work.md
+- updated:
+  - wiki/evolving/content-trends/petrosian-summer-launch-lead-magnet-funnel.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {canon: 1, evolving: 1, sources: 1}
+- touched: 2 pages
+- raw: raw/processed/media/tg_stodnevka2_2327.jpg → processed
+
+## [2026-06-01 18:25] [ingest] | Telegram @sokolay — медиа-группа 6 изображений (msg 3647–3673, без родительских статей)
+- source: wiki/sources/2026-06-01-tg-sokolay-media-group-3647-3673.md
+- created:
+  - none
+- updated:
+  - wiki/evolving/content-trends/podcast-driven-author-channel-patterns.md
+  - wiki/evolving/content-trends/youtube-thumbnail-face-trend.md
+- superseded: none
+- sensitive flag: none
+- layer-touched: {evolving: 2, sources: 1}
+- touched: 3 pages
+- raw: raw/processed/media/tg_sokolay_3658.jpg → processed (bundle: 6 media)
+
+## [2026-06-01 18:26] [ingest] | Telegram @dnative — media-группа 7645–7651 (29–30 мая 2026): accountability-тезис, monetization-tiering, account-hijack scam, Яндекс Директ ad
+- source: wiki/sources/2026-05-30-tg-dnative-7645-7651.md
+- created:
+  - wiki/evolving/content-trends/audience-density-tier-monetization-2026.md
+  - wiki/evolving/industry-trends/telegram-account-hijack-vote-phishing-2026.md
+- updated:
+  - wiki/evolving/content-trends/dnative-funnel-fatigue-counter-narrative.md
+- superseded: none
+- sensitive flag: true
+- layer-touched: {evolving: 3, sources: 1}
+- touched: 3 pages
+- raw: raw/processed/media/tg_dnative_7645.jpg → processed (bundle: 7 media)

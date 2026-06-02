@@ -9,8 +9,8 @@ tags: [max, messenger, channel-economics, cpa, cpv, telegram, russia, benchmarks
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-18
-sources: [sources/2026-05-18-pressfeed-14-max-cases.md]
+updated: 2026-05-30  # + бенчмарк «реклама в MAX в 2,4× дешевле Telegram» (@moibiz дайджест 27 мая)
+sources: [sources/2026-05-18-pressfeed-14-max-cases.md, sources/2026-05-30-tg-moibiz-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -27,6 +27,7 @@ namespace: mkt
 - **Сравнение с Telegram (NordBox, стройбизнес):** «в Telegram подписчики дороже, чем в Max» (экспертная оценка без точных цифр) `[conf:medium, src:2026-05-18]`.
 - **Сравнение с Telegram (агентство, e-commerce/банки):** «подписчики стоят в несколько раз дешевле, чем на аналогичных каналах в Telegram» `[conf:medium, src:2026-05-18]`. Реальная магнитуда не приведена.
 - **Pretroenkov (Convert Monster, март 2026):** CPL 80–150 ₽/подписчик для канала рекламного агентства — см. [[evolving/competitor-positioning/max-messenger]] `[conf:high, src:2026-04-13]` (упомянуто как контекст, не из pressfeed-источника).
+- **Реклама в MAX в 2,4 раза дешевле, чем в Telegram** — обобщённый рыночный бенчмарк из гос-дайджеста [[sources/2026-05-30-tg-moibiz-may-26-29-2026|@moibiz, 27 мая 2026]] `[conf:medium, src:2026-05-30]`. Магнитуда (×2,4) согласуется по направлению с few-source-наблюдениями выше («подписчики в Telegram дороже, чем в Max»), но **методология/ниша не раскрыты** — гос-канал ретранслирует чужую оценку. Использовать как directional-якорь, не как точную норму.
 
 **Рамка:** для ниш «здоровье / материнство / бьюти» CPA в MAX в 2026 году **сопоставима с Telegram**. Для ниш «маркетинг / IT / B2B» — данных пока нет, можно ожидать **выше**, так как аудитория этих тем ещё в TG.
 

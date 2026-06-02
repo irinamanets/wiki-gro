@@ -9,8 +9,8 @@ tags: [content, podcast, branded-media, community, print-magazine, founder, mone
 confidence: medium
 stale: false
 created: 2026-05-25
-updated: 2026-05-25
-sources: [sources/2026-05-25-yt-osnovateli-incab-regional-leader.md]
+updated: 2026-05-30  # backfill: «культ Основателей» как явная контентная миссия экосистемы (Гуринович 923)
+sources: [sources/2026-05-25-yt-osnovateli-incab-regional-leader.md, sources/2026-05-30-tg-gurinovich-shares-may-30-2026.md]
 namespace: mkt
 ---
 
@@ -35,6 +35,12 @@ namespace: mkt
 - **Кураторский редполитик-фокус.** Сознательный сдвиг от «миллиардеров с 100-миллиардными оборотами» к **региональным и семейным кейсам** («понятный региональный бизнес, который может стать примером для начинающих»). Это дифференцирует от мейнстрим-бизнес-медиа и расширяет relatability.
 - **Печать как премиум-сигнал.** Возврат к бумаге усиливает воспринимаемое качество и коллекционную ценность бренда.
 
+## Контентная миссия «культ Основателей» (backfill 2026-05-30)
+
+В посте 923 (26 мая 2026, День Предпринимателя — [[sources/2026-05-30-tg-gurinovich-shares-may-30-2026]]) сооснователь экосистемы Эдуард Гуринович **прямо артикулирует миссию** проекта: «В России всё ещё не хватает культа Основателей. Мало ролевых моделей, мало памятников и внимания. Работаем на этом фронте как можем». Это даёт **mission-layer** к структурной модели экосистемы выше: подкаст / журнал / сообщество — не просто монетизационная воронка, а инструменты заявленной цели «создать культ founder'ов в РФ».
+
+Маркетинговое наблюдение: миссия-нарратив встроен в кажущийся бескорыстным founder-pride манифест к профессиональному празднику (разбор формата — [[evolving/content-trends/founder-pride-manifesto-entrepreneur-day-gurinovich]]). Это пример того, как branded-media-проект **легитимирует собственную ценность** через apparent-альтруистичную audience-narrative («рынку не хватает X» → «мы делаем X»). Для ГРО — референс приёма: позиционировать продукт как ответ на сформулированный дефицит аудитории, а не как самостоятельный оффер.
+
 ## Применимость для ГРО
 - Референс модели «branded-media → community → продукт» для предпринимательской/B2B-аудитории.
 - Кураторский angle «региональные/семейные кейсы» как способ отстроиться от перенасыщенного «успешного успеха».
@@ -45,4 +51,6 @@ namespace: mkt
 - [[evolving/content-trends/media-capital-as-clone-defense-2026]]
 - [[evolving/content-trends/founder-intellectual-club-event-format]]
 - [[canon/marketing-frameworks/community-as-evolution-vs-business-as-deal]]
+- [[evolving/content-trends/founder-pride-manifesto-entrepreneur-day-gurinovich]] — founder-pride манифест, в котором артикулирована миссия «культ Основателей»
 - [[sources/2026-05-25-yt-osnovateli-incab-regional-leader]]
+- [[sources/2026-05-30-tg-gurinovich-shares-may-30-2026]]

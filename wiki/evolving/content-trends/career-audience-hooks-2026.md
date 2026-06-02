@@ -9,8 +9,8 @@ tags: [content, post, awareness, consideration, career]
 confidence: medium
 stale: false
 created: 2026-04-14
-updated: 2026-05-28  # +Hook 42 «Премия — два оклада или грамота» (Т-Ж UGC пост 34416 от 2026-05-15); prior: +Hook 38–41
-sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-dzen-hh-kareernyj-marketplace-checklist.md, sources/2026-04-16-dzen-hh-profession-test-15.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-hh-ru-official-may-7-13-2026.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-05-23-tg-recruiter-live-may-19-22-2026.md, sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md, sources/2026-05-19-web-hr-portal-rotaciya-razvitie-personala.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-26-tg-t-jrnl-may-13-19-2026.md]
+updated: 2026-05-30  # +Hook 43 «Мем "первый оффер" SuperJob Старт» (junior-ЦА, @studentsuper 6629); prior: +Hook 42 «Премия — два оклада или грамота»
+sources: [sources/2026-04-14-tg-recruiter-live-career-digest.md, sources/2026-04-14-tg-t-jrnl-apr2026.md, sources/2026-04-14-vc-ru-hr-labor-market-opinion.md, sources/2026-04-16-dzen-hh-kareernyj-marketplace-checklist.md, sources/2026-04-16-dzen-hh-profession-test-15.md, sources/2026-04-16-forbes-ru-snap-stock-9pct-ai-layoffs.md, sources/2026-04-27-tg-startupoftheday-apr-15-27-2026.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-05-tg-forbesrussia-may-4-5-2026.md, sources/2026-05-05-tg-hh-ru-official-apr-may-2026.md, sources/2026-05-05-tg-hr-kak-delat-mar-may-2026.md, sources/2026-05-05-tg-recruiter-live-apr-may-2026.md, sources/2026-05-05-tg-rff-channel-redump-mar-may-2026.md, sources/2026-05-05-tg-t-jrnl-may-1-5-2026.md, sources/2026-05-05-tg-your-pet-project-feb-may-2026.md, sources/2026-05-14-tg-recruiter-live-may-2026.md, sources/2026-05-14-tg-hh-ru-official-may-7-13-2026.md, sources/2026-05-14-tg-telega-rinata-may-7-13-2026.md, sources/2026-05-19-tg-recruiter-live-may-18-19-2026.md, sources/2026-05-18-pressfeed-rynok-truda-2026-sereda.md, sources/2026-05-23-tg-recruiter-live-may-19-22-2026.md, sources/2026-05-19-web-hr-portal-kak-oformit-povyshenie-v-dolzhnosti.md, sources/2026-05-19-web-hr-portal-rotaciya-razvitie-personala.md, sources/2026-05-19-vcru-hr-seagull-management-case.md, sources/2026-05-19-vc-ru-hr-smena-professii-bankir-findir.md, sources/2026-05-19-vcru-hr-kommersant-trendy-rynka-truda-2026.md, sources/2026-05-26-tg-t-jrnl-may-13-19-2026.md, sources/2026-05-30-tg-studentsuper-6629.md]
 namespace: mkt
 ---
 
@@ -1232,6 +1232,26 @@ GRO-перенос: тот же frame применим к **готовности
 - **Не превращать в «все компании-грамоты — плохие»** — есть стартапы и НКО, где премий нет по структурным причинам и это нормально для входа.
 - **Не давать готовых критериев «как опознать категорию заранее»** — это требует отдельной страницы, hook короткий — провоцирует выбор и поиск.
 
+## Hook 43 — «Мы готовы принять вас на работу» / «Это что мой первый оффер» (SuperJob Старт, мем-формат для junior-ЦА)
+
+**Сегмент ЦА:** студенты и молодые специалисты (junior-подсегмент карьеристов из [[canon/target-audience/gro-segments]]) — те, кто ищет **первую** работу.
+
+**Источник:** [[sources/2026-05-30-tg-studentsuper-6629]] — канал @studentsuper (бренд-канал SuperJob, продукт **SuperJob Старт**), пост 6629 от 2026-05-30. Job-board, не независимый эксперт → ценность как **format/competitor reference**, не как фактический источник. `confidence: medium` (для формата как наблюдения).
+
+**Это не текстовый hook, а формат-паттерн (визуальный креатив):** мем-картинка — удивлённый кот с лапой на ноутбуке, на экране «**МЫ ГОТОВЫ ПРИНЯТЬ ВАС НА РАБОТУ**», нижний оверлей «**Это что мой первый оффер**», бренд SuperJob Старт. Эмоция «не верю своему счастью» от junior-кандидата на пороге первого оффера.
+
+**Почему работает:** job-board продаёт продукт первой работы не через сухой UI/листинг вакансий, а через **relatable meme** с узнаваемой эмоцией целевого сегмента. Текст-обёртка поста («Как найти первую работу, если везде требуют опыт») — generic мотивационная статья без фактуры; вся сила креатива — в **визуально-эмоциональном меме**. Параллель к [[evolving/content-trends/hh-ru-galochka-mascot-campaign]] (эмоция/персонаж > функция) и к [[evolving/content-trends/it-collapse-fallback-meme-hook]] (карьерный мем как awareness-крючок).
+
+**Формат-перенос для ГРО (НЕ копировать копирайт SuperJob):**
+> Мем-формат «эмоция junior-кандидата» для awareness ГРО на студенческой/молодой аудитории: relatable-картинка + одна реплика-подпись, которая ловит момент сомнения/радости первого карьерного шага. ГРО-разворот — не «вот тебе оффер», а «первый шаг — это тренировка готовности, а не удача».
+
+**Связь с Hook 29** («Практика vs Стажировка», hh.ru карусель): обе работают на студенческую/первую-работу ЦА, но Hook 29 — рациональный чек-лист (hh.ru), Hook 43 — эмоциональный мем (SuperJob). Пара показывает два полюса подачи одному сегменту: rational vs relatable.
+
+**Anti-hook:**
+- **Не копировать текст-обёртку** SuperJob — она generic-мотивация, ценность только в визуальной механике.
+- **Не продавать на «удаче» оффера.** ГРО-позиционирование — системная подготовка, а не «повезло с первым оффером». Мем используем для эмоционального крючка, разворот — на тренировку готовности.
+- **Не позиционировать ГРО как job-board.** SuperJob/hh.ru — поиск вакансий; ГРО — тренировка навыков. Заимствуем формат, не категорию.
+
 ## Маппинг hook'ов на воронку
 
 | Hook | Awareness | Consideration | Decision | Retention |
@@ -1270,6 +1290,7 @@ GRO-перенос: тот же frame применим к **готовности
 | «Думать изнутри компании» на интервью (Hook 35, Janabilova/Татьяна) | | + | + | |
 | Начальник-чайка: 5 ошибок + survival (Hook 38, vc.ru/hr seagull) | + | + | | + |
 | Премия — два оклада или грамота (Hook 42, Т-Ж UGC 34416) | + | + | + | |
+| Мем «первый оффер» для junior-ЦА (Hook 43, SuperJob Старт) | + | | | |
 
 ## Связанные страницы
 
@@ -1330,6 +1351,9 @@ GRO-перенос: тот же frame применим к **готовности
 - [[sources/2026-05-26-tg-t-jrnl-may-13-19-2026]] — Т-Ж 13–19 мая, источник Hook 42 (UGC премии)
 - [[evolving/content-trends/brand-crisis-response-cases-2024-2026]] — case bank брендовых кризисов из того же дампа (sibling content-trend)
 - [[evolving/content-trends/expert-ama-content-format]] — AMA-формат с экспертом из того же дампа (sibling content-trend, отдельный pillar)
+- [[sources/2026-05-30-tg-studentsuper-6629]] — @studentsuper (SuperJob Старт) пост 6629, источник Hook 43 (мем «первый оффер» для junior-ЦА)
+- [[evolving/content-trends/hh-ru-galochka-mascot-campaign]] — параллельный эмоция/персонаж-подход job-board (Hook 43)
+- [[evolving/content-trends/it-collapse-fallback-meme-hook]] — параллельный карьерный мем-формат (Hook 43)
 
 ## Backlinks
 

@@ -9,8 +9,8 @@ tags: [ai-search, agentic-commerce, e-commerce, b2b, adobe, mckinsey, gartner, b
 confidence: medium
 stale: false
 created: 2026-05-18
-updated: 2026-05-26  # +Google AI Mode scale (>1 млрд MAU, запросы ×2/квартал) через Себранта techsparks 5607 (Google I/O 2026 self-report); prior: +второй Adobe-замер (чат-бот трафик +1200-1700% YoY US) через Спиридонова id79772
-sources: [sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-26-tg-techsparks-may-19-25-2026.md]
+updated: 2026-05-30  # +RU ретейл AI-трафик platform-by-platform (Forbes Russia 95806): Ozon ×4/полгода, М.Видео +29%, Алиса AI +159% на independent e-commerce; prior: +Google AI Mode scale (>1 млрд MAU) через Себранта; +второй Adobe-замер (чат-бот трафик +1200-1700% YoY US) через Спиридонова id79772
+sources: [sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-24-condense-vcru-chunk2.md, sources/2026-05-26-tg-techsparks-may-19-25-2026.md, sources/2026-05-30-tg-forbesrussia-may-11-13-2026.md]
 namespace: mkt
 ---
 
@@ -56,6 +56,19 @@ namespace: mkt
 | Темп роста числа запросов в AI Mode | **×2 / квартал** (удвоение) | Заявлено на I/O 2026 | `[conf:medium, src:2026-05-20]` |
 
 **Интерпретация.** Это **первая известная нам публичная цифра аудитории отдельного conversational-режима** Google (AI Mode), которую нужно отличать от Comscore-замера долей показов AI Overview (34,9% Google-поисков, [[evolving-strict/market-data/comscore-ai-search-adoption-2026-05]]). AI Overview — это AI-блок в обычной выдаче; AI Mode — отдельный диалоговый режим. >1 млрд MAU при квартальном удвоении запросов означает: conversational-поиск перешёл из «фичи для early-adopters» в **mass-market behaviour**, и именно эта освоенность дала Google уверенность переделать поисковую строку «впервые за 25+ лет» (interface-shift — см. [[evolving/industry-trends/ai-search-aeo-geo-2026|Update 2026-05-26]]). `confidence: medium` — вендор-self-report через пересказ, без независимой верификации; абсолютную аудиторию и methodology «удвоения» нужно достать из первичного Google-источника перед использованием в материалах GRO. [conf:low, src:2026-05-26]
+
+## RU ретейл AI-трафик — platform-by-platform (Forbes Russia, май 2026)
+
+Первый известный нам публичный RU-замер роста AI-трафика **по конкретным игрокам** (не доли, а темпы роста), из [[sources/2026-05-30-tg-forbesrussia-may-11-13-2026|Forbes Russia пост 95806]] (2026-05-12):
+
+| Игрок | Метрика | Период | Source |
+|---|---|---|---|
+| Ozon | рост ИИ-трафика **×4** (в 4 раза) | за полгода | `[conf:medium, src:2026-05-12]` |
+| «М.Видео» | рост ИИ-трафика **+29%** | январь–апрель 2026 | `[conf:medium, src:2026-05-12]` |
+| Henderson | рост ИИ-трафика «в разы» (качественно) | за 4 месяца | `[conf:low, src:2026-05-12]` |
+| «Яндекс» (Алиса AI → independent e-commerce) | рост ИИ-трафика **+159%** | — | `[conf:medium, src:2026-05-12]` |
+
+**Интерпретация.** Прежние RU-сигналы были либо долями AI-трафика на отдельных проектах ([[evolving-strict/market-data/ru-ai-search-traffic-share-2026]]), либо макро-потерей органики ([[evolving-strict/market-data/comscore-ai-search-adoption-2026-05|Comscore]] / Brand Analytics -33-38% выше). Forbes даёт **третий ракурс** — темпы роста AI-канала у крупных RU-ретейлеров, измеренные самими компаниями. `confidence: medium` — корпоративные self-report'ы через пересказ Forbes, без раскрытия методологии и базы; Henderson «в разы» — качественная оценка, `conf:low`. Конверсионный тезис подтверждён качественно: AI-трафик «ценнее обычного», покупатель приходит с готовым запросом `[conf:medium, src:2026-05-12]`. Цитата Henderson «Сайты становятся базой данных для нейросетей» — RU-формулировка product-data-as-architecture. RU-приземление рамки → [[evolving/industry-trends/ai-search-aeo-geo-2026|Update 2026-05-30 Forbes Russia]].
 
 ## McKinsey прогноз 2030
 
@@ -135,6 +148,7 @@ _Пока нет противоречий с другими страницами
 - [[sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing]] — первоисточник (PRAGMATIX)
 - [[sources/2026-05-24-condense-vcru-chunk2]] — второй Adobe-замер (Спиридонов id79772)
 - [[sources/2026-05-26-tg-techsparks-may-19-25-2026]] — Google AI Mode scale (Себрант, Google I/O 2026)
+- [[sources/2026-05-30-tg-forbesrussia-may-11-13-2026]] — RU ретейл AI-трафик platform-by-platform (Ozon ×4, М.Видео +29%, Алиса +159%) [conf:low, src:2026-05-30]
 
 ## Backlinks
 

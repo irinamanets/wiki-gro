@@ -9,8 +9,8 @@ tags: [ai, anthropic, security, awareness, enterprise]
 confidence: high
 stale: false
 created: 2026-04-14
-updated: 2026-05-26  # +boris_again пост 3918 (24 мая 2026): post-release Glasswing-отчёт — «нашли гору критичных багов, оупенсорс просит котелочек не варить, не успевают латать дыры»; +ExploitBench (18/41 уязвимостей до эксплойта vs 0 у других); +UK AISI «Cooling Tower» (Mythos прошёл ICS-симулятор 3/10) — см. отдельную страницу [[volatile-strict/industry-news/ai-cyber-0day-wave-may-2026]]
-sources: [sources/2026-04-14-tg-techsparks-mar-apr-2026.md, sources/2026-04-16-dzen-incrussia-anthropic-800b-caplight.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-26-tg-boris-again-may-19-24-2026.md]
+updated: 2026-05-30  # +cgevent 15771/15772 (27 мая): конкретные цифры Glasswing-апдейта — Cloudflare 2000 (400 high/critical), опенсорс-скан 1000+ репо → 6202 high/critical из 23 тыс, 1752 проверено 6 фирмами (90% подтверждено, 62% high/critical), эксплойт wolfSSL (подделка сертификатов), avg 2 недели на фикс high/critical; + meta-hook 15772 «AI находит баги не только в коде, но в законах/экономике/медицине». Prior — +boris_again пост 3918 (24 мая 2026): post-release Glasswing-отчёт — «нашли гору критичных багов, оупенсорс просит котелочек не варить, не успевают латать дыры»; +ExploitBench (18/41 уязвимостей до эксплойта vs 0 у других); +UK AISI «Cooling Tower» (Mythos прошёл ICS-симулятор 3/10) — см. отдельную страницу [[volatile-strict/industry-news/ai-cyber-0day-wave-may-2026]]
+sources: [sources/2026-04-14-tg-techsparks-mar-apr-2026.md, sources/2026-04-16-dzen-incrussia-anthropic-800b-caplight.md, sources/2026-05-05-tg-ai-newz-apr-may-2026.md, sources/2026-05-14-tg-ai-newz-may-2026.md, sources/2026-05-26-tg-boris-again-may-19-24-2026.md, sources/2026-05-30-tg-cgevent-may-25-29-2026.md]
 namespace: mkt
 ---
 
@@ -119,6 +119,29 @@ Anthropic объявила **коалицию Glasswing** для защиты к
 Шестой источник **обобщает** все предыдущие в **официальный pulse-update Anthropic**. К концу мая 2026 у Mythos Preview есть **independent attestation по 6 разным каналам**, что делает Anthropic-cybersec-positioning **canonical** для industry. См. также [[volatile-strict/industry-news/ai-cyber-0day-wave-may-2026]] для контекста параллельных Google GTIG / MS MDASH / UK AISI / ExploitBench сигналов.
 
 **Implication для GRO-positioning:** Anthropic построила **двухмодельную identity** к маю 2026 — Claude (general-purpose, mainstream) и Mythos (security-frontier, restricted access). Это позволяет Anthropic иметь **«premium-mainstream»** + **«premium-restricted»** двойной позиционирующий каркас, который другие игроки (OpenAI, Google) не имеют. См. [[evolving/content-trends/anthropic-vendor-pet-owner-meme-2026]] про backlash backlash side того же positioning'а.
+
+## Update 2026-05-30 — Glasswing-апдейт: конкретные цифры (@cgevent 15771)
+
+[@cgevent](https://t.me/cgevent) пост 15771 (2026-05-27) пересказывает тот же `anthropic.com/research/glasswing-initial-update`, что и @boris_again, но с **конкретными цифрами** — это седьмой независимый канал и наиболее детализированный по числам:
+
+- Спустя месяц **большинство партнёров обнаружили сотни уязвимостей критического/высокого уровня каждый**; суммарно — **десятки тысяч** `[conf:medium, src:2026-05-21]`
+- Скорость обнаружения багов у некоторых выросла **более чем в 10 раз** `[conf:medium, src:2026-05-21]`
+- **Cloudflare: 2000 уязвимостей** (из них **400 high/critical**) в критически важных системах; доля false-positive **ниже, чем у людей-тестировщиков** `[conf:medium, src:2026-05-21]`
+- Опенсорс-скан **1000+ крупных репозиториев** → **6202 уязвимости high/critical** (из **23 000** всего, включая medium/low) `[conf:medium, src:2026-05-21]`
+- **1752** из high/critical прошли проверку **6 независимыми кибербез-фирмами**: **90% подтверждены**, **62% (1100 штук)** классифицированы именно как high/critical `[conf:medium, src:2026-05-21]`
+- Пример серьёзности: Mythos написал эксплойт для **подделки сертификатов через wolfSSL** (фальшивый сайт банка без браузерных предупреждений) `[conf:medium, src:2026-05-21]`
+- **Средний срок устранения** high/critical-бага, найденного Mythos Preview — **две недели** `[conf:medium, src:2026-05-21]`
+- Ни одна компания (включая Anthropic) пока не имеет надёжной защиты от злонамеренного использования таких моделей → причина ограниченного доступа + запуск Glasswing `[conf:medium, src:2026-05-21]`
+
+Эти цифры **согласуются** с предыдущими источниками (порядок «сотни-тысячи уязвимостей», ~10× ускорение) и **уточняют** их конкретными организационными числами (Cloudflare 2000, OSS 6202, 1752 проверено).
+
+## Meta-hook (@cgevent 15772): «AI находит баги не только в коде»
+
+Пост 15772 — **экспертное мнение автора @cgevent** (inferred-эксперт, `confidence: low` на спекулятивную часть), расширяющее тему за пределы кода:
+
+> Кожаные «накодили» не только код, но и правила/законы/парадигмы (медицина, экономика, юриспруденция). Про экономику — «код» забагован и без стройной матбазы (ИИ плохо управляет инвестициями). Про юристов интереснее: ИИ может искать дыры/противоречия не только в контрактах, а **во всём своде законов**. «Интересно, как кожаные будут латать эти дыры, когда ИИ начнёт тыкать их мордой в эти кейсы.»
+
+**Маркетинговый смысл (для content-hooks):** обобщение нарратива «AI находит уязвимости в человеческих системах» с кода на **законы/контракты/регламенты** — готовый thought-leadership hook про AI как «аудитор человеческих систем». Применимо осторожно (спекулятивно), как расширение [[evolving/content-trends/sebrant-cognitive-exoskeleton-hooks|hook 4]], не как факт. Атрибуция обязательна: «по мнению автора @cgevent».
 
 ## TTL и следующий checkpoint
 

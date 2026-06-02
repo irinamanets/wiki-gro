@@ -9,8 +9,8 @@ tags: [content, video, video-podcast, youtube, founder-led, narrative, historica
 confidence: medium
 stale: false
 created: 2026-05-05
-updated: 2026-05-26  # +эпизод 4 серии Рыбакова («крыши 90-х, бандиты», msg 6578-6579 из дампа 20-26 мая 2026) — survival-arithmetic + «банда как бизнес» re-framing. Prior 2026-05-19: +смежный variant: Торбосов #культпросвет (art-curation) + #подомам (celebrity-homes) как culture-edutainment-вариант формата (не personal-history, а curator-edutainment). Prior: +эпизод 3 серии Рыбакова («жёсткие правила 90-х», msg 6573) — survival/anachronism-рамка; +эпизод 2 (1998 кризис) с операционально-математическим разбором
-sources: [sources/2026-05-05-tg-rybakovigor-apr06-may05-2026.md, sources/2026-05-14-tg-rybakovigor-may06-12-2026.md, sources/2026-05-19-tg-rybakovigor-may14-18-2026.md, sources/2026-05-19-tg-torbosov-life-may-2026.md, sources/2026-05-26-tg-rybakovigor-may20-26-2026.md]
+updated: 2026-05-30  # +доп. экземпляры curator-edutainment-варианта Торбосова из дампа 17-21 мая (Черчилль #культпросвет 19807/19817/19827, дубайские ЖК #homes 19785/19795) — паттерн устойчив, новых под-приёмов нет. Prior 2026-05-26: +эпизод 4 серии Рыбакова («крыши 90-х, бандиты», msg 6578-6579 из дампа 20-26 мая 2026) — survival-arithmetic + «банда как бизнес» re-framing. Prior 2026-05-19: +смежный variant: Торбосов #культпросвет (art-curation) + #подомам (celebrity-homes) как culture-edutainment-вариант формата (не personal-history, а curator-edutainment). Prior: +эпизод 3 серии Рыбакова («жёсткие правила 90-х», msg 6573) — survival/anachronism-рамка; +эпизод 2 (1998 кризис) с операционально-математическим разбором
+sources: [sources/2026-05-05-tg-rybakovigor-apr06-may05-2026.md, sources/2026-05-14-tg-rybakovigor-may06-12-2026.md, sources/2026-05-19-tg-rybakovigor-may14-18-2026.md, sources/2026-05-19-tg-torbosov-life-may-2026.md, sources/2026-05-26-tg-rybakovigor-may20-26-2026.md, sources/2026-05-30-tg-torbosovlife-may17-21-2026.md]
 namespace: mkt
 ---
 
@@ -251,6 +251,8 @@ Survival/anachronism-хук вынесен в [[evolving/content-trends/rybakov-
 Это **тот же edutainment-инстинкт** (упаковать знание в эмоционально-нарративную форму), но материал — внешний канон, а не личная история. Для founder'а без 30-летнего timeline (как у Рыбакова) curator-edutainment — **доступная альтернатива**: не нужен личный исторический капитал, нужен вкус + способность раскопать «смысловой ключ».
 
 **Что переносится в GRO дополнительно:** curator-edutainment масштабируется на молодой бренд лучше, чем personal-history (см. caveat «у GRO нет 30 лет» выше). GRO может делать curator-контент про **чужие** кейсы продуктивности/режима/привычек (разбор того, как известные люди строили свои системы) — это edutainment без требования собственного длинного timeline. Тот же «смысловой ключ»-приём: показать неочевидную историю за известным фактом.
+
+**Подтверждение устойчивости (дамп 17–21 мая 2026, [[sources/2026-05-30-tg-torbosovlife-may17-21-2026]]):** Торбосов продолжает curator-edutainment без новых под-приёмов — серия про усадьбу/живопись Черчилля (#культпросвет, посты 19807/19817/19827: «смысловой ключ» = депрессия «чёрная собака» → живопись как терапия, $11,6m аукционный рекорд) и туры по дубайским ЖК (#homes, 19785 Canal Front, 19795 Eywa: «смысловой ключ» = Васту/16 тонн кристаллов). Это четвёртый дамп подряд, где паттерн воспроизводится → curator-edutainment-вариант устойчив как формат, а не разовое наблюдение.
 
 ## Связь с другими content-pattern'ами в библиотеке
 

@@ -9,8 +9,8 @@ tags: [seo, ai, content, pr, geo, aeo, faq-schema, llms-txt, robots-txt, e-e-a-t
 confidence: medium
 stale: false
 created: 2026-04-16
-updated: 2026-05-19  # +Pressfeed/Kovpak: local-media publications as SEO long-tail assets (городские порталы как domain-authority boost + индексация локальных запросов 6+ мес)
-sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md]
+updated: 2026-05-30  # +Google May 2026 Core Update: practitioner-чеклист из 6 советов попадания в AI-ответы (Cliquestudios через @techsparks/Себрант 5619) + «забудьте про LLM.txt» противоречие с llms.txt-механикой
+sources: [sources/2026-04-16-condense-pressfeed-35-articles.md, sources/2026-05-14-tg-solokumi-may-2026.md, sources/2026-05-18-pressfeed-13-cases-ai-search-adaptation.md, sources/2026-05-18-pressfeed-pragmatix-ai-data-over-landing.md, sources/2026-05-18-pressfeed-kravchenko-insight-analytics-structured-data.md, sources/2026-05-18-pressfeed-geo-illusion-stability-measure.md, sources/2026-05-19-pressfeed-kovpak-local-media-sales-funnel.md, sources/2026-05-30-tg-techsparks-may-26-29-2026.md]
 namespace: mkt
 ---
 
@@ -89,6 +89,27 @@ Operational guideline:
 - В `robots.txt` снять ограничения для: `ChatGPT-User`, `PerplexityBot`, `YandexBot`, **`GPTBot`**, **`ClaudeBot`** (обязательный must-allow чек по солокуми 405)
 - **`llms.txt`** в корне сайта — новый файл, объясняющий AI-краулерам структуру контента. Генератор: [llmstxt.firecrawl.dev](https://llmstxt.firecrawl.dev/) (см. [[evolving/content-trends/geo-playbook-2026-q2]] механика III)
 - Убедиться, что AI-боты могут индексировать контент (не блокированы WAF/CDN)
+
+## Google May 2026 Core Update — practitioner-чеклист попадания в AI-ответы (Cliquestudios через Себрант)
+
+Через [[sources/2026-05-30-tg-techsparks-may-26-29-2026|@techsparks/Себрант 5619]] — разбор Cliquestudios «ответ профессионального маркетинга на Google May 2026 Core Update». Себрант (директор по стратегическому маркетингу Яндекса) комментирует: советы попадания в AI-ответы **по сути не отличаются от многолетних советов честного SEO**, разница в том, что с помощью AI Google теперь знает о странице **намного глубже**, чем набор простых оптимизируемых факторов. Эти советы — «гигиенические нормы, которые не только Гуглу нравятся».
+
+**6 советов попадания в AI-ответы (Google May 2026 Core Update):**
+
+1. **Самые важные страницы должны явно и понятно отвечать на конкретные вопросы**, которые интересуют людей — прямое эхо принципа [[#Принцип «Answer first» (перевёрнутая пирамида)|answer-first]] и [[canon/marketing-frameworks/seo-search-intent-content-method-stadley|метода поискового интента]].
+2. **Контент подписан реальными людьми с легко проверяемой авторитетностью** — это [[#E-E-A-T через профили экспертов с верифицированными материалами|E-E-A-T через профили экспертов]]. Совпадает с уже зафиксированным шаблоном E-E-A-T-якоря.
+3. **Данные важнее мнений** — совпадает с тезисом Кравченко «данные > лендинги» и [[canon/marketing-frameworks/product-data-as-architecture-pragmatix|product-data-as-architecture]]. Фактура с числами и источниками цитируется AI охотнее, чем oценочные суждения.
+4. **Поисковый запрос стал мультимодальным — контент должен стать таким же** — новое усиление: текст + изображения + видео (с [[canon/marketing-frameworks/llm-friendly-video-transcription|HTML-транскрипцией]]) + структурированные данные. Мультимодальность из nice-to-have становится ranking-фактором.
+5. **Перепроверить технические характеристики и параметры**, которые Google всегда считал важными — Core Web Vitals, индексируемость, crawl-доступность (см. [[#Технические настройки|технические настройки]] выше).
+6. **«Забудьте всякие выдумки про LLM.txt»** — practitioner прямо отвергает LLM.txt как инструмент попадания в AI-ответы Google.
+
+**Себрант-вывод:** ничего особо нового, но **обманывать и манипулировать станет сложнее** — потому что AI оценивает страницу комплексно, а не по набору game-able факторов. Это подтверждает foundation-тезис [[canon/marketing-frameworks/stochastic-llm-ranking-sparktoro|стохастичности]]: позиции через manipuляцию факторов больше не работают, нужен реальный quality-сигнал.
+
+**Связь с Google Zero (Пичаи).** Этот чеклист — practitioner-сторона того же Google-сдвига, что Пичаи описал на стороне selection (см. [[evolving/industry-trends/ai-content-publisher-economics-2026]]): Google фильтрует low-quality/rewrite-контент (bounce clicks падают). Совет №3 «данные важнее мнений» и №1 «явно отвечать на вопросы» — это ровно то, что переживает фильтрацию low-quality clicks.
+
+## Контradiction: LLM.txt / llms.txt
+
+> **NB:** совет №6 выше («забудьте про LLM.txt») формально **противоречит** механике llms.txt из раздела [[#Технические настройки]], где `llms.txt` рекомендован как файл для AI-краулеров (через солокуми / geo-playbook). См. блок `## Contradictions` в конце страницы для разрешения.
 
 ## Калибровка «answer-first» через измеренные доли цитирования
 
@@ -173,6 +194,7 @@ Industry-trend контекст обеих рамок — [[evolving/industry-tr
 **Disqualification check** перед бюджетом → [[evolving/content-trends/geo-when-not-worth-investing-2026]] (3 кейса + sameness anti-pattern).
 
 ## Связанные страницы
+- [[canon/marketing-frameworks/seo-as-sales-framework]] -- базовый слой: классическое SEO как канал продаж (4 фактора, intent>частотность); этот плейбук — AI-надстройка над ним
 - [[evolving/industry-trends/ai-search-aeo-geo-2026]] -- тренд AEO/GEO
 - [[canon/marketing-frameworks/product-data-as-architecture-pragmatix]] -- data-side: продуктовый фид как новая поверхность маркетинга
 - [[evolving/industry-trends/ai-search-product-discovery-layer-2026]] -- AI как product decision-layer
@@ -196,6 +218,11 @@ Industry-trend контекст обеих рамок — [[evolving/industry-tr
 - [[canon/marketing-frameworks/seo-search-intent-content-method-stadley]] -- content-side фундамент (метод поискового интента); без него технические механики не дают ROI
 - [[canon/marketing-frameworks/expert-trust-platforms-leverage-method]] -- expert-уровень distribution: trust-площадки для не-СМИ-вертикалей (psychology, healthcare, law)
 - [[canon/marketing-frameworks/seo-article-as-digital-asset-stadley]] -- CapEx-рамка SEO-актива vs. OpEx других форматов
+
+## Contradictions
+
+- **[2026-05-30]** **LLM.txt vs llms.txt.** По [[sources/2026-05-30-tg-techsparks-may-26-29-2026|Cliquestudios/Себрант 5619]] (Google May 2026 Core Update) — совет №6: «забудьте всякие выдумки про LLM.txt». Это формально расходится с разделом «Технические настройки», где `llms.txt` рекомендован (источник: солокуми 405 + [[evolving/content-trends/geo-playbook-2026-q2]]).
+  - **Разрешение (не противоречие по сути, а разные адресаты):** оба утверждения совместимы при уточнении контекста. `llms.txt` — реальный файл-стандарт (llmstxt.firecrawl.dev) для структурирования контента под AI-краулеры; полезен на уровне crawl-доступности и не вредит. Cliquestudios-совет №6 отвергает **миф, будто LLM.txt сам по себе обеспечивает попадание в AI-ответы Google** — то есть critique направлен против *магического мышления* «положил файл → попал в нейроответ», а не против самого файла. Оба источника сходятся в главном: **попадание в AI-ответы обеспечивает качество контента и E-E-A-T, а не технический файл-трюк**. Текст раздела «Технические настройки» оставлен как есть (llms.txt = вспомогательная гигиена), но с оговоркой, что это не silver bullet. `confidence: medium`, ближе к Cliquestudios по приоритету (свежее, ровно про Google Core Update).
 
 ## Backlinks
 
